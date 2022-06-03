@@ -19,9 +19,10 @@ def get_links(file: str, column: str, remove_duplicates=True) -> List[str]:
 
 
 # returns list of scraped text from all links
-def get_text(links: List[str], sample_fraction=1) ->List[str]:
+def get_text(links: List[str], sample_size='all') ->List[str]:
     list_text = []
-    links = sample(links, int(sample_fraction * len(links)))
+    if sample_size != 'all':
+        links = sample(links, sample_size)
     for url in links:
         soup = BeautifulSoup(requests.get(url).content, "lxml")
         Text = ''
@@ -35,10 +36,9 @@ def get_text(links: List[str], sample_fraction=1) ->List[str]:
             if 'Numac' in i:
                 active = True
         list_text.append(Text[1:-6])
-    print(links)
     return list_text
 
 
 
 links = get_links(file, column)
-print(get_text(links, sample_fraction=1/len(links)))
+print(get_text(links, sample_size=1))
