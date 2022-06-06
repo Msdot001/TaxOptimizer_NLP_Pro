@@ -1,0 +1,131 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/09/11/2021031731/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021031731
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 11 SEPTEMBER 2019. - Koninklijk besluit tot wijziging van de artikelen 136/1 en 136/2 van het koninklijk besluit tot uitvoering van het Wetboek van de Inkomstenbelastingen 1992 betreffende de elektronische aanbieding van aanslagbiljetten. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling 
+van het koninklijk besluit van 11 september 2019 tot wijziging van de artikelen 136/1 en 136/2 van het 
+koninklijk besluit tot uitvoering van het Wetboek van de Inkomstenbelastingen 1992 betreffende de elektronische 
+aanbieding van aanslagbiljetten (Belgisch Staatsblad van 25 september 2019).Deze vertaling 
+is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN11. SEPTEMBER 2019 - Königlicher Erlass zur Abänderung der Artikel 
+136/1 und 136/2 des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992 hinsichtlich 
+der elektronischen Zurverfügungstellung von SteuerbescheidenBERICHT AN DEN KÖNIGSire,das 
+Gesetz vom 27. Februar 2019 über den elektronischen Austausch von Nachrichten über die eBox bietet Bürgern 
+die Möglichkeit, mit den föderalen öffentlichen Diensten zentralisiert über die eBox zu kommunizieren.Der 
+FÖD Finanzen hat beschlossen, dass seine Kommunikation mit den Bürgern auch über die eBox erfolgen wird. 
+Zunächst ist nur die Kommunikation im Zusammenhang mit dem Steuerbescheid in Bezug auf die Einkommensteuer 
+betroffen.Zweck dieses Erlasses ist es daher, die Artikel 136/1 und 136/2 des Königlichen Erlasses 
+zur Ausführung des Einkommensteuergesetzbuches 1992, die kürzlich durch den Königlichen Erlass vom 23. 
+Juni 2019 abgeändert worden sind, in diesem Sinne anzupassen.Diese Artikel beziehen sich nämlich 
+auf die Zurverfügungstellung von Steuerbescheiden anhand eines Verfahrens, bei dem Informatiktechniken 
+verwendet werden.Mit der Aktivierung der eBox erklärt sich der Steuerpflichtige ausdrücklich 
+mit der elektronischen Übermittlung seines Steuerbescheids einverstanden. Dieses Einverständnis kann 
+jederzeit über dieselbe eBox widerrufen werden.Auf diese Weise erhält der Steuerpflichtige 
+eine Nachricht über die eBox, sobald sein Steuerbescheid auf MyMinfin zur Verfügung gestellt wird.Im 
+Falle einer gemeinsamen Veranlagung müssen beide Partner ihre eBox aktiviert haben. Ansonsten wird den 
+Steuerpflichtigen ebenfalls eine Papierfassung des Steuerbescheids zugeschickt.Dieser Erlassentwurf 
+trägt den Bemerkungen Rechnung, die der Staatsrat in seinem Gutachten Nr. 66.446/1/V vom 7. August 2019 
+zur Sache gemacht hat, insbesondere in Bezug auf die Aufhebung der Artikel 3 und 4 des Königlichen Erlasses 
+vom 23. Juni 2019.Entgegen dem Gutachten des Staatsrates wurde es jedoch als nicht erforderlich 
+erachtet, die Stellungnahme der Finanzinspektion und das Einverständnis der Ministerin des Haushalts 
+zu vorliegendem Entwurf einzuholen. Die Stellungnahme der Finanzinspektion wurde nämlich bereits am 29. 
+April 2019 zu demselben Gegenstand im Zusammenhang mit dem Erlassentwurf abgegeben, aus dem der vorerwähnte 
+Königliche Erlass vom 29. Juni 2019 hervorgegangen ist. Die Finanzinspektion hat bei dieser Gelegenheit 
+keine besondere Bemerkung vorgebracht.Was die fehlende Beantragung des Einverständnisses der 
+Ministerin des Haushalts betrifft, so ist festzuhalten, dass dieser Entwurf keine neuen Ausgaben verursacht 
+und sich nicht auf die Einnahmen auswirkt; er fällt daher nicht in den Anwendungsbereich von Artikel 
+5 des Königlichen Erlasses vom 16. November 1994 über die Verwaltungs- und Haushaltskontrolle.Die 
+Datenschutzbehörde wurde um eine Stellungnahme ersucht. In Anbetracht der Frist, über die die Datenschutzbehörde 
+für die Abgabe ihrer Stellungnahme verfügt, und um die Bearbeitung und den Versand der Steuerbescheide 
+in Bezug auf die Einkommensteuer nicht zu verzögern, wurde jedoch beschlossen, Eurer Majestät diesen 
+Erlass ohne diese Stellungnahme zur Unterschrift vorzulegen. Sollte sich anlässlich der vorerwähnten 
+Stellungnahme herausstellen, dass Anpassungen am derzeitigen Text erforderlich sind, werden diese durch 
+einen Abänderungserlass vorgenommen.Ich habe die Ehre,Sire,der ehrerbietigeund 
+treue DienerEurer Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. 
+DE CROO11. SEPTEMBER 2019 - Königlicher Erlass zur Abänderung der Artikel 136/1 
+und 136/2 des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992 hinsichtlich der 
+elektronischen Zurverfügungstellung von SteuerbescheidenPHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund der Verfassung, des Artikels 108;Aufgrund 
+des Einkommensteuergesetzbuches 1992, des Artikels 302 Absatz 3, eingefügt durch Artikel 25 des Gesetzes 
+vom 17. Juni 2013 zur Festlegung steuerrechtlicher und finanzieller Bestimmungen und von Bestimmungen 
+über die nachhaltige Entwicklung;Aufgrund des Gesetzes vom 27. Februar 2019 über den elektronischen 
+Austausch von Nachrichten über die eBox, insbesondere der Artikel 2 Nr. 3 und 6;Aufgrund des 
+KE/EStGB 92;Aufgrund des Gutachtens Nr. 66.446/1/V des Staatsrates vom 7. August 2019, abgegeben 
+in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über 
+den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:Artikel 1 - Artikel 136/1 des Königlichen Erlasses zur 
+Ausführung des Einkommensteuergesetzbuches 1992, eingefügt durch den Königlichen Erlass vom 7. Februar 
+2014 und abgeändert durch den Königlichen Erlass vom 23. Juni 2019, wird wie folgt ersetzt:"Art. 
+136/1 - § 1 - Hat ein Steuerpflichtiger dem elektronischen Austausch von Nachrichten durch Aktivierung 
+der durch das Gesetz vom 27. Februar 2019 über den elektronischen Austausch von Nachrichten über die 
+eBox eingeführten eBox im Voraus ausdrücklich zugestimmt, so gilt dies als ausdrückliches Einverständnis 
+zu dem in Artikel 302 Absatz 2 des Einkommensteuergesetzbuches 1992 vorgesehenen Verfahren.Diese 
+Zustimmung hat zur Folge, dass die in der vorerwähnten Bestimmung angegebenen Unterlagen ausschließlich 
+auf der gesicherten elektronischen Plattform der Föderalbehörde zur Verfügung gestellt werden.Wird 
+eine gemeinsame Veranlagung festgelegt und hat nur einer der beiden Ehepartner dem Austausch von Nachrichten 
+über die eBox im Voraus zugestimmt, werden die Unterlagen auch gemäß Artikel 302 Absatz 1 desselben 
+Gesetzbuches übermittelt. § 2 - Der Steuerpflichtige erhält über die eBox eine Nachricht, 
+wenn ihm eine Unterlage auf der gesicherten elektronischen Plattform der Föderalbehörde zur Verfügung 
+gestellt wird. § 3 - Der Versand von Nachrichten über die eBox endet, wenn:1. 
+der Steuerpflichtige stirbt,2. der Steuerpflichtige oder im Falle einer gemeinsamen Veranlagung 
+einer der Ehepartner seine Zustimmung zum Austausch von Nachrichten über die eBox durch Deaktivierung 
+der eBox widerruft. Dieser Widerruf kann jederzeit vorgenommen werden und ist sofort wirksam.Ab 
+diesem Zeitpunkt werden die Unterlagen gemäß Artikel 302 Absatz 1 desselben Gesetzbuches übermittelt. 
+Im Falle einer gemeinsamen Veranlagung nutzt der Ehepartner, der die eBox nicht deaktiviert hat, diesen 
+Dienst weiter."Art. 2 - Artikel 136/2 desselben Erlasses, eingefügt durch den Königlichen Erlass 
+vom 7. Februar 2014 und abgeändert durch den Königlichen Erlass vom 23. Juni 2019, wird aufgehoben.Art. 
+3 - 4 - [Abänderungen des Königlichen Erlasses vom 23. Juni 2019 zur Abänderung der Artikel 136/1 und 
+136/2 des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992 hinsichtlich der elektronischen 
+Zurverfügungstellung von Steuerbescheiden]Art. 5 -  Vorliegender Erlass tritt am 1. Oktober 
+2019 in Kraft.Art. 6 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden 
+Erlasses beauftragt.Gegeben zu Brüssel, den 11. September 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021031731
+

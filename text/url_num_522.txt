@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021041347
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 3 DECEMBER 2021. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 ter begrenzing van de referentie-CO2-uitstoot. - Erratum 
+Op bladzijde 37437, van het Belgisch Staatsblad van 
+23 april 2021, de datum van koninklijke goedkeuring "3 december 2020" vervangen door "8 december 2020". 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021041347
+

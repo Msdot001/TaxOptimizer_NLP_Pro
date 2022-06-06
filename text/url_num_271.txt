@@ -1,0 +1,159 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/31/2020042722/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-08-14Numac : 2020042722
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 31 JULI 2020. - Koninklijk besluit houdende maatregelen voor post-COVID-19-revalidatie en voor bijkomend toezicht op de COVID-19-afdelingen van geïsoleerde geriatriediensten en geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie 
+FILIP, Koning der Belgen, Aan allen die 
+nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet betreffende de verplichte verzekering 
+voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, artikelen 35, § 1, 
+gewijzigd bij de wetten van 10 augustus 2001, 9 juli 2004, 27 december 2005, 13 december 2006, 19 maart 
+2013, 26 december 2013, 22 juni 2016 en 11 augustus 2017 en 37, § 1, tweede lid;Gelet 
+op artikel 2 van het koninklijk besluit nr. 20 van 13 mei 2020 houdende tijdelijke maatregelen in de 
+strijd tegen de COVID-19 pandemie en ter verzekering van de continuïteit van zorg in de verplichte verzekering 
+voor geneeskundige verzorging;Gelet op het informeel overleg met de leden van de Technische 
+geneeskundige raad, de Technische raad voor kinesitherapie, de Nationale commissie artsen-ziekenfondsen 
+en de Overeenkomstencommissie kinesitherapeuten-verzekeringsinstellingen;Gelet op het advies 
+van het Comité van de verzekering voor geneeskundige verzorging, gegeven op 25 mei 2020;Gelet 
+op de beslissing van de Algemene Raad van 2 juni 2020;Gelet op het advies van de Inspecteur 
+van Financiën, gegeven op 25 juni 2020;Gelet op de akkoordbevinding van de Minister van Begroting, 
+gegeven op 9 juli 2020;Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973, artikel 3, § 1;Overwegende de spoedeisendheid gemotiveerd door de uitbraak van 
+de pandemie coronavirus COVID-19 op het Belgisch grondgebied en de onmogelijkheid om de gevestigde instanties 
+formeel bijeen te roepen;Overwegende de substantiële toename van het formeel en fysiek overleg 
+dat nodig zou zijn in technische werkgroepen, raden en commissies om de kritieke situaties als gevolg 
+van de verspreiding van het coronavirus COVID-19 aan te pakken;Overwegende de noodzaak om alle 
+maatregelen die om redenen van volksgezondheid en continuïteit van zorg zijn vastgesteld en reeds zijn 
+uitgevoerd, zo spoedig mogelijk te regulariseren alsook om de terugwerkende kracht ervan te beperken 
+en de rechtszekerheid te waarborgen voor alle actoren die dagelijks bij de bestrijding van de pandemie 
+betrokken zijn;Op de voordracht van de Minister van Sociale Zaken en Volksgezondheid,Hebben 
+Wij besloten en besluiten Wij :HOOFDSTUK 1. - Algemene bepalingenArtikel 1.  § 
+1. De verstrekkingen worden aangeduid met een rangnummer vóór de omschrijving van de verstrekking. De 
+omschrijving van elke verstrekking wordt gevolgd door de sleutelletters C of K voor de verstrekkingen 
+van artsen en M voor de verstrekkingen van kinesitherapeuten. § 2. Die sleutelletter 
+komt vóór een coëfficiëntgetal dat de betrekkelijke waarde van elke verstrekking aangeeft. 
+§ 3. De sleutelletter is een teken waarvan de waarde in euro als volgt is bepaald:• 
+voor de verstrekkingen 557900, 557944 en 557981 opgenomen in artikel 2 van dit besluit wordt de waarde 
+van de sleutelletter K vastgesteld op 1,215427 EUR;• voor de verstrekkingen 518103 en 
+518081 opgenomen in artikel 2 van dit besluit wordt de waarde van de sleutelletter M vastgesteld op 0,927692 
+EUR;• voor de verstrekking 599502 opgenomen in artikel 3 van dit besluit wordt de waarde 
+van de sleutelletter C vastgesteld op 1,4 EUR. § 4. Op elke nota, opgemaakt ter staving 
+van het verrichten van één of andere verstrekking, moet het in § 1 bedoelde rangnummer vermeld 
+worden. § 5. Voor de toepassing van dit besluit wordt verstaan onder:1) `de 
+nomenclatuur': de nomenclatuur van de geneeskundige verstrekkingen zoals bedoeld in de bijlage bij het 
+koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen 
+inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen.2) `verblijf op 
+intensieve zorg': het verblijf op een erkende functie intensieve zorg alsook op de bijkomende bedden 
+voor intensieve zorg die dagelijks aan de FOD Volksgezondheid worden doorgegeven.3) `COVID-19-patiënt':a) 
+een persoon met laboratoriumbevestiging van COVID-19 infectieofb) een persoon bij 
+wie de laboratoriumtest voor COVID-19 negatief is, maar bij wie de diagnose van COVID-19 wordt gesteld 
+op basis van een suggestieve klinische presentatie en een compatibele CT thorax.HOOFDSTUK 2. 
+- Revalidatie van gehospitaliseerde COVID-19-patiëntenArt. 2.  § 1. Revalidatieverstrekking 
+waarvoor de bekwaming van arts-specialist voor fysische geneeskunde en revalidatie vereist is:557900Toeslag 
+bij de verstrekking 558806 of 558423 voor een gehospitaliseerde COVID-19-patiënt die verblijft of verbleven 
+heeft op intensieve zorg ... K 9,2557944Tweede revalidatiezitting op dezelfde dag 
+als verstrekking 558806 of 558423 voor een gehospitaliseerde COVID-19-patiënt die verblijft of verbleven 
+heeft op intensieve zorg ... K 20557981Bijkomend honorarium bij de verstrekking 558843, 
+558025 of 558821 voor een gehospitaliseerde COVID-19-patiënt die verblijft of verbleven heeft op intensieve 
+zorg ... K 30 § 2. Revalidatieverstrekking door een kinesitherapeut:518103Toeslag 
+bij de verstrekking 560501 voor een gehospitaliseerde COVID-19-patiënt die verblijft of verbleven heeft 
+op intensieve zorg ... M 12518081Tweede individuele kinesitherapiezitting op dezelfde 
+dag met een globale gemiddelde duur van persoonlijke betrokkenheid van de kinesitherapeut van 30 minuten 
+voor een gehospitaliseerde COVID-19-patiënt na een verblijf op een intensieve zorg ... M 24 
+§ 3. Toepassingsregels m.b.t. de verstrekkingen 557900, 557944 en 557981:De verstrekkingen 
+557900, 557944 en 557981 mogen enkel worden aangerekend door een arts-specialist zoals bepaald in artikel 
+23, § 3, van de nomenclatuur.De verstrekking 557900 kan enkel worden aangerekend als 
+toeslag bij de verstrekking 558806 of 558423 voor een gehospitaliseerde patiënt tijdens of na zijn verblijf 
+op intensieve zorg en dit gedurende het volledige traject van zijn hospitalisatie.De verstrekking 
+557944 mag alleen aangerekend worden als ze minimum 3 uur na de vorige verstrekking 558806 of 558423 
+is uitgevoerd.De verstrekking 557944 is niet cumuleerbaar op dezelfde dag:• 
+met de verstrekkingen van artikel 22 van de nomenclatuur, met uitzondering van de verstrekking 558806 
+of 558423;• met de verstrekkingen van artikel 7 van de nomenclatuur of met de verstrekking 
+518081.De verstrekking 557944 kan worden aangerekend voor een gehospitaliseerde patiënt die 
+mono/pluridisciplinaire revalidatie krijgt tijdens of na zijn verblijf op intensieve zorg en dit gedurende 
+het volledige traject van zijn hospitalisatie.De verstrekking 557981 kan slechts aangerekend 
+worden voor de codenummers 202, 301 en 504 van de limitatieve lijst van aandoeningen voor pluridisciplinaire 
+revalidatie voorzien in artikel 23, § 11, van de nomenclatuur.De verstrekking 557981 
+is niet cumuleerbaar op dezelfde dag:• met de verstrekkingen van artikel 22 van de nomenclatuur, 
+met uitzondering van de verstrekking 558843, 558025 of 558821;• met de verstrekkingen 
+van artikel 7 van de nomenclatuur of met de verstrekking 518081.De verstrekking 557981 kan 
+enkel worden aangerekend voor een gehospitaliseerde patiënt die pluridisciplinaire revalidatie krijgt 
+tijdens of na zijn verblijf op intensieve zorg en dit gedurende het volledige traject van zijn hospitalisatie. 
+§ 4. Toepassingsregels m.b.t. de verstrekkingen 518103 en 518081:De verstrekkingen 518103 
+en 518081 kunnen worden aangerekend door alle kinesitherapeuten met een RIZIV-nummer.De verstrekking 
+518103 kan enkel worden aangerekend als toeslag bij de verstrekking 560501 voor een gehospitaliseerde 
+patiënt tijdens of na zijn verblijf op intensieve zorg en dit gedurende het volledige traject van zijn 
+hospitalisatie.De verstrekking 518081 kan worden aangerekend voor een gehospitaliseerde patiënt 
+na een verblijf op intensieve zorg gedurende het volledige traject van zijn hospitalisatie.De 
+verstrekking 518081 kan worden aangerekend als de kinesitherapeut beschikt over een medisch voorschrift 
+dat deze tweede zitting duidelijk rechtvaardigt. Dit medisch voorschrift moet de noodzaak vermelden om 
+een tweede zitting uit te voeren gedurende een globale gemiddelde duur van 30 minuten. In voorkomend 
+geval is de kinesitherapeut ertoe gehouden een kopie van dit voorschrift voor te leggen aan de adviserend 
+arts in het kader van een controle a posteriori.Dit voorschrift moet de volgende elementen 
+vermelden:• de COVID-19-gerelateerde problematiek van de patiënt• de 
+datum van ontslag uit intensieve zorg.De verstrekking 518081 mag alleen aangerekend worden 
+als ze ten minste 3 uur na de vorige verstrekking heeft plaatsgehad.De verstrekking 518081 
+is niet cumuleerbaar op dezelfde dag met de verstrekkingen van artikel 22 van de nomenclatuur of met 
+de verstrekkingen 557944 en 557981.HOOFDSTUK 3. - Bijzonder toezicht op patiënten met COVID-19Art. 
+3. Verstrekking voor toezicht op een in een ziekenhuis opgenomen COVID-19-patiënt:599502Bijkomend 
+honorarium voor toezicht op de in een ziekenhuis opgenomen rechthebbende Covid-19-patiënt op een COVID-19-afdeling 
+van een geïsoleerde gespecialiseerde G en Sp-dienst voor behandeling en revalidatie, per dag ... C 20De 
+verstrekking 599502 kan aangerekend worden door een arts-specialist.De verstrekking 599502 
+kan per patiënt en per dag slechts één keer gecumuleerd worden met het gebruikelijke honorarium voor 
+toezicht door een andere arts-specialist dan de arts-specialist die het gebruikelijke honorarium voor 
+toezicht aanrekent.De verstrekking 599502 kan enkel worden aangerekend voor een COVID-19-patiënt 
+opgenomen op een COVID-19-afdeling van een geïsoleerde gespecialiseerde G- en Sp-dienst voor behandeling 
+en revalidatie.Art. 4. Er is geen persoonlijk aandeel verschuldigd door de rechthebbenden voor 
+de verstrekkingen bedoeld in de artikelen 2 en 3.HOOFDSTUK 4. - SlotbepalingenArt. 
+5. De maatregelen die zijn vastgesteld bij dit besluit blijven van toepassing tot een door de Koning 
+te bepalen datum. De Koning kan voor iedere maatregel een andere datum bepalen.Art. 6. Dit 
+besluit heeft uitwerking met ingang van 14 maart 2020.Art. 7. De minister bevoegd voor Sociale 
+Zaken is belast met de uitvoering van dit besluit.Gegeven te Brussel, 31 juli 2020.FILIPVan 
+Koningswege :De Minister van Sociale Zaken en Volksgezondheid,M. DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-08-14Numac : 2020042722
+

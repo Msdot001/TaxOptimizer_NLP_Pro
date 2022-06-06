@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2018/10/30/2020041205/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020041205
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 30 OKTOBER 2018. - Wet tot wijziging van de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie en van het Wetboek van de inkomstenbelastingen 1992. - Duitse vertaling van uittreksels 
+De hierna volgende tekst is de Duitse vertaling van artikel 7 van 
+de wet van 30 oktober 2018 tot wijziging van de wet van 18 juli 2018 betreffende de economische relance 
+en de versterking van de sociale cohesie en van het Wetboek van de inkomstenbelastingen 1992 (Belgisch 
+Staatsblad van 12 november 2018).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST KANZLEI DES PREMIERMINISTERS30. 
+OKTOBER 2018 - Gesetz zur Abänderung des Gesetzes vom 18. Juli 2018 zur Belebung der Wirtschaft und zur 
+Stärkung des sozialen Zusammenhalts und des Einkommensteuergesetzbuches 1992PHILIPPE, Konig 
+der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat 
+das Folgende angenommen und Wir sanktionieren es:(...)KAPITEL 3 - Abänderung des 
+Einkommensteuergesetzbuches 1992Art. 7 - In Artikel 37bis §  2 Absatz 1 des Einkommensteuergesetzbuches 
+1992, eingefügt durch das Gesetz vom 1. Juli 2016 und abgeändert durch das Gesetz vom 18. Juli 2018 zur 
+Belebung der Wirtschaft und zur Stärkung des sozialen Zusammenhalts, werden zwischen den Wörtern "ein 
+Zwölftel des in Absatz 2 erwähnten Betrags" und dem Wort "übersteigt" die Wörter ", gegebenenfalls erhöht 
+für bestimmte Kategorien von Vereinsarbeit in Anwendung von Artikel 12 § 3 Absatz 2 und 3 des 
+Gesetzes vom 18. Juli 2018 zur Belebung der Wirtschaft und zur Stärkung des sozialen Zusammenhalts," 
+eingefügt.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel 
+versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Ciergnon, den 30. 
+Oktober 2018PHILIPPEVon Königs wegen:Der PremierministerCh. MICHELDie 
+Ministerin der Sozialen AngelegenheitenM. DE BLOCKDer Minister der FinanzenJ. 
+VAN OVERTVELDTMit dem Staatssiegel versehen:Der Minister der Justiz,K. 
+GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020041205
+

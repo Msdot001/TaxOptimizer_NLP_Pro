@@ -1,0 +1,176 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020031037/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-29Numac : 2020031037
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 4 MEI 2020. - Wet tot regeling van de opschorting van de procedure sociale verkiezingen van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie. - Duitse vertaling 
+De hierna volgende tekst 
+is de Duitse vertaling van de wet van 4 mei 2020 tot regeling van de opschorting van de procedure sociale 
+verkiezingen van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie (Belgisch Staatsblad van 13 
+mei 2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST BESCHÄFTIGUNG, ARBEIT UND SOZIALE KONZERTIERUNG4. MAI 2020 - Gesetz zur 
+Regelung der Aussetzung des Verfahrens der Sozialwahlen des Jahres 2020 infolge der Pandemie des Coronavirus 
+COVID-19PHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 1 - Allgemeine 
+Bestimmungen und AnwendungsbereichArtikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 
+der Verfassung erwähnte Angelegenheit.Art. 2 - Für die Anwendung des vorliegenden Gesetzes 
+versteht man unter:1. Gesetz vom 20. September 1948: das Gesetz vom 20. September 1948 zur 
+Organisation der Wirtschaft, abgeändert durch das Gesetz vom 4. April 2019,2. Gesetz vom 19. 
+März 1991: das Gesetz vom 19. März 1991 zur Einführung einer besonderen Kündigungsregelung für die Vertreter 
+des Personals in den Betriebsräten und Ausschüssen für Arbeitssicherheit, Betriebshygiene und Verschönerung 
+der Arbeitsplätze und für die Kandidaten für diese Ämter,3. Gesetz vom 4. August 1996: das 
+Gesetz vom 4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit, abgeändert 
+durch das Gesetz vom 4. April 2019,4. Gesetz vom 4. Dezember 2007: das Gesetz vom 4. Dezember 
+2007 über die Sozialwahlen, abgeändert durch das Gesetz vom 4. April 2019.Art. 3 - Vorbehaltlich 
+der in vorliegendem Gesetz vorgesehenen Bestimmungen und Abweichungen bleiben die Bestimmungen des Gesetzes 
+vom 4. Dezember 2007, des Gesetzes vom 20. September 1948, des Gesetzes vom 4. August 1996 und des Gesetzes 
+vom 19. März 1991 uneingeschränkt anwendbar.Art. 4 - Vorliegendes Gesetz ist ausschließlich 
+auf das Verfahren der Sozialwahlen des Jahres 2020, das auf der Grundlage von Artikel 9 in Verbindung 
+mit Artikel 70 Nr. 1, 3, 4 und 5 des Gesetzes vom 4. Dezember 2007 durchgeführt wird, anwendbar.KAPITEL 
+2 - Grundsatz der Aussetzung des Verfahrens der SozialwahlenArt. 5 - Das Verfahren der Sozialwahlen 
+wird ab dem sechsunddreißigsten Tag nach dem Aushang der in Artikel 14 des Gesetzes vom 4. Dezember 
+2007 erwähnten Bekanntmachung, in der das Datum der Wahlen angekündigt wird, ausgesetzt. Dieser Tag, 
+an dem die Aussetzung beginnt, wird auf der Grundlage des in Artikel 14 Absatz 1 Nr. 7 des Gesetzes vom 
+4. Dezember 2007 vorgesehenen ausgehängten Wahlkalenders, angegeben in dem im selben Artikel 14 Absatz 
+4 vorgesehenen obligatorischen Muster, bestimmt.Art. 6 - Das Verfahren der Sozialwahlen wird 
+bis zu einem später zu bestimmenden Datum ausgesetzt. Dieses Datum wird vom König nach Stellungnahme 
+des Nationalen Arbeitsrates festgelegt. Der König bestimmt zudem nach Stellungnahme des Nationalen Arbeitsrates 
+das neue Datum der Wahlen in Abweichung von Artikel 9 des Gesetzes vom 4. Dezember 2007 und die Modalitäten 
+der Wiederaufnahme des Verfahrens, insbesondere die Anpassung des bereits ausgehängten Wahlkalenders, 
+der in Artikel 14 Absatz 1 Nr. 7 desselben Gesetzes vorgesehen ist.KAPITEL 3 - Auswirkungen 
+der Aussetzung auf die laufenden WahlverfahrenArt. 7 - Alle Verrichtungen aufgrund des Gesetzes 
+vom 4. Dezember 2007 bis einschließlich zum fünfunddreißigsten Tag nach Aushang der in Artikel 
+14 desselben Gesetzes erwähnten Bekanntmachung, in der das Datum der Wahlen angekündigt wird, werden 
+abgeschlossen.Art. 8 - Unbeschadet der Bestimmungen von Artikel 10 bleiben alle Informationen 
+und Beschlüsse, die sich aus den in Artikel 7 erwähnten Verrichtungen ergeben, erhalten, darunter auch 
+die gerichtlichen Entscheidungen, die diese Informationen, Beschlüsse und Verrichtungen betreffen.Art. 
+9 - Alle im Gesetz vom 4. Dezember 2007 erwähnten Vereinbarungen, die auf Unternehmensebene innerhalb 
+der in Artikel 7 genannten Frist geschlossen wurden, sind endgültig erworben, mit Ausnahme der Vereinbarungen, 
+die sich ausdrücklich auf die Pandemie des Coronavirus COVID-19 beziehen. Letztgenannte Vereinbarungen 
+verlieren von Rechts wegen ihre Gültigkeit, sofern die von diesen Vereinbarungen betroffenen Parteien 
+nichts anderes vereinbaren.Art. 10 - In Abweichung von Artikel 8 werden die Informationen und 
+Beschlüsse in Bezug auf das Datum und gegebenenfalls den Zeitplan der Wahlen und diejenigen in Bezug 
+auf den in Artikel 14 Absatz 1 Nr. 1 und 7 des Gesetzes vom 4. Dezember 2007 vorgesehenen Wahlkalender 
+gemäß dem vom König zu bestimmenden neuen Datum der Sozialwahlen und gemäß den diesbezüglich 
+festgelegten Modalitäten angepasst, wie in Artikel 6 vorgesehen.Art. 11 - Alle Verrichtungen 
+aufgrund des Gesetzes vom 4. Dezember 2007 ab dem sechsunddreißigsten Tag nach Aushang der in Artikel 
+14 des Gesetzes vom 4. Dezember 2007 erwähnten Bekanntmachung, in der das Datum der Wahlen angekündigt 
+wird, sind bis zu einem vom König gemäß Artikel 6 festzulegenden Datum ausgesetzt. Alle Verrichtungen 
+ab dem vorerwähnten Tag sind nichtig, unbeschadet der Bestimmungen von Artikel 13.Art. 12 - 
+Im Rahmen der Wahlberechtigungsbedingungen für Leiharbeitnehmer im entleihenden Unternehmen und für die 
+Anwendung der eventuellen Streichung aus den Wählerlisten, wie in Artikel 46 des Gesetzes vom 4. Dezember 
+2007 erwähnt, werden bei der Beurteilung der in Artikel 16 Absatz 3 Nr. 2 desselben Gesetzes vorgesehenen 
+zweiten Beschäftigungsbedingung die Arbeitstage, an denen der Leiharbeitnehmer während des Zeitraums 
+der Aussetzung des Wahlverfahrens, dessen Beginndatum und Enddatum aufgrund der Artikel 5 und 6 bestimmt 
+werden, im entleihenden Unternehmen beschäftigt war, nicht berücksichtigt.Art. 13 - In Abweichung 
+von Artikel 11 kann der Arbeitgeber den Beschluss, das Wahlverfahren aufgrund von Artikel 78 § 
+1 des Gesetzes vom 4. Dezember 2007 vollständig zu beenden, noch gültig umsetzen und die dem Muster in 
+der Anlage zu demselben Gesetz entsprechende Bekanntmachung der vollständigen Beendigung des Verfahrens 
+aushängen und per Post oder auf elektronischem Wege verschicken. Die Möglichkeit eines Rechtsbehelfs 
+gegen diesen Beschluss zur vollständigen Beendigung, wie in Artikel 78bis des Gesetzes vom 4. Dezember 
+2007 vorgesehen, bleibt jedoch nach dem Zeitraum der Aussetzung des Wahlverfahrens uneingeschränkt erhalten.Art. 
+14 - Bestehende Betriebsräte und Ausschüsse für Gefahrenverhütung und Schutz am Arbeitsplatz, die im 
+Rahmen der letzten Sozialwahlen eingesetzt oder erneuert wurden, arbeiten weiter bis zum Datum der Einsetzung 
+der neuen Organe, die infolge der Wahlen, die an einem gemäß Artikel 6 bestimmten Datum stattfinden 
+werden, gebildet werden. Die Dauer der Mandate der Personalvertreter in diesen bestehenden Konzertierungsorganen 
+wird bis zu diesem Datum verlängert und diese Mitglieder haben gemäß Kapitel 4 auch mindestens 
+bis zu diesem Datum weiter Anspruch auf einen besonderen Entlassungsschutz.Art. 15 - Die Erfüllung 
+der in Artikel 19 des Gesetzes vom 20. September 1948 und in Artikel 59 § 1 des Gesetzes vom 4. 
+August 1996 bestimmten Wählbarkeitsbedingungen wird für die bereits vorgeschlagenen und die nach dem 
+Zeitraum der Aussetzung noch vorzuschlagenden Kandidaten im Rahmen des laufenden Wahlverfahrens auf der 
+Grundlage des ursprünglich festgelegten Datums der Wahlen überprüft, das durch Aushang der in Artikel 
+14 des Gesetzes vom 4. Dezember 2007 erwähnten Bekanntmachung, in der das Datum der Wahlen angekündigt 
+wird, festgestellt worden ist.KAPITEL 4 - Auswirkungen der Aussetzung auf den besonderen Entlassungsschutz 
+der Personalvertreter und der Kandidaten für das Amt als PersonalvertreterArt. 16 - Unbeschadet 
+der in vorliegendem Kapitel vorgesehenen Abweichungen bleiben die im Gesetz vom 19. März 1991 vorgesehenen 
+Bestimmungen in Bezug auf den besonderen Entlassungsschutz für Personalvertreter und Kandidaten für das 
+Amt als Personalvertreter für die Personalvertreter in den bestehenden Konzertierungsorganen, für die 
+bei den letzten Sozialwahlen vorgeschlagenen Kandidaten für das Amt als Personalvertreter, für die im 
+Rahmen des laufenden Wahlverfahrens vorgeschlagenen Kandidaten für das Amt als Personalvertreter und 
+für die gewählten Mitglieder der im Rahmen der verschobenen Wahlen einzusetzenden neuen Organe uneingeschränkt 
+anwendbar, auch während des Zeitraums der Aussetzung des Wahlverfahrens.Art. 17 - Die Verlängerung 
+des Schutzzeitraums um sechs Monate, wie in Artikel 2 § 2 Absatz 2 des Gesetzes vom 19. März 1991 
+erwähnt, wird ab dem ersten Tag der vom König gemäß Artikel 6 festgelegten Wahlperiode berechnet.Art. 
+18 - In Abweichung von Artikel 2 § 3 des Gesetzes vom 19. März 1991 haben Kandidaten für das Amt 
+des Personalvertreters, die nach dem Zeitraum der Aussetzung des Wahlverfahrens vorgeschlagen werden, 
+um bereits vorgeschlagene Kandidaten auf der Grundlage der Artikel 37 bis 39 des Gesetzes vom 4. Dezember 
+2007 zu ersetzen, Anspruch auf besonderen Entlassungsschutz während eines Zeitraums vom dreißigsten 
+Tag vor dem Aushang der Bekanntmachung, in der das Datum der Wahlen angekündigt wird, bis einschließlich 
+zum Tag vor der Aussetzung des Wahlverfahrens und dann während eines Zeitraums vom sechsunddreißigsten 
+Tag vor der Wiederaufnahme des Wahlverfahrens, der im neuen Wahlkalender gemäß den vom König vorgeschriebenen 
+Modalitäten auf der Grundlage von Artikel 6 bestimmt wird, bis zum Tag der Einsetzung der bei den folgenden 
+Wahlen gewählten Kandidaten oder, für diejenigen, die bereits Kandidaten waren und bei den letzten Wahlen 
+nicht gewählt wurden, bis zwei Jahre nach Aushang der Ergebnisse der verschobenen Wahlen.Art. 
+19 -  § 1 - Für Arbeitnehmer, die infolge ihrer gültigen Kandidatur oder ihrer Wahl im Rahmen 
+der letzten Sozialwahlen Anspruch auf besonderen Entlassungsschutz im Sinne des Gesetzes vom 19. März 
+1991 haben und die im Rahmen der aktuellen Sozialwahlen nicht erneut kandidieren, wird der Zeitraum des 
+besonderen Entlassungsschutzes um einen Zeitraum verlängert, der der gemäß Artikel 14 verlängerten 
+Dauer der Mandate entspricht, unbeschadet der Bestimmungen von § 2. § 2 - Für 
+Arbeitnehmer, die infolge ihrer gültigen Kandidatur oder ihrer Wahl im Rahmen der letzten Sozialwahlen 
+Anspruch auf besonderen Entlassungsschutz im Sinne des Gesetzes vom 19. März 1991 haben und die im Rahmen 
+der aktuellen Sozialwahlen nicht erneut kandidieren und die vor dem 17. März 2020 unrechtmäßig 
+entlassen wurden, wird für die Berechnung der Entlohnung, auf die sie gegebenenfalls Anrecht hätten, 
+der Zeitpunkt des in Artikel 17 § 1 desselben Gesetzes erwähnten Endes des Mandats anhand des 
+ursprünglich festgelegten Datums der Wahlen festgelegt, das durch Aushang der in Artikel 14 des Gesetzes 
+vom 4. Dezember 2007 erwähnten Bekanntmachung, in der das Datum der Wahlen angekündigt wird, festgestellt 
+worden ist. Auf der Grundlage des ursprünglich festgelegten Datums der Wahlen wird ein fiktives Datum 
+der Einsetzung des neuen Organs bestimmt, das höchstens 45 Tage später liegt. § 3 - 
+Für Arbeitnehmer, die infolge ihrer gültigen Kandidatur oder ihrer Wahl im Rahmen der letzten Sozialwahlen 
+Anspruch auf besonderen Entlassungsschutz im Sinne des Gesetzes vom 19. März 1991 haben und die im Rahmen 
+der aktuellen Sozialwahlen nicht erneut kandidieren und die ab dem 17. März 2020 unrechtmäßig entlassen 
+wurden oder werden, wird für die Berechnung der Entlohnung, auf die sie gegebenenfalls Anrecht hätten, 
+der Zeitpunkt des in Artikel 17 § 1 desselben Gesetzes erwähnten Endes des Mandats anhand des 
+Datums der Einsetzung der neuen Organe, die infolge der an einem gemäß Artikel 6 bestimmten Datum 
+stattfindenden Wahlen gebildet werden, festgelegt.KAPITEL 5 - SchlussbestimmungArt. 
+20 - Vorliegendes Gesetz wird wirksam mit 17. März 2020.Wir fertigen das vorliegende Gesetz 
+aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 4. Mai 2020PHILIPPEVon Königs wegen:Die 
+Ministerin der BeschäftigungN. MUYLLEMit dem Staatssiegel versehen:Der 
+Minister der JustizK. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-29Numac : 2020031037
+

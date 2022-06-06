@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-03Numac : 2020043945
+WAALSE OVERHEIDSDIENST
+ 26 NOVEMBER 2020. - Besluit van de Waalse Regering van bijzondere machten nr. 57 houdende noodmaatregelen inzake de toegang tot energie tijdens de COVID-19-crisis en de winterperiode. - Erratum 
+De 
+bekendmaking van bovenvermeld besluit, bekendgemaakt in het Belgisch Staatsblad van 1 december 2020, 
+op bladzijde 84222, dient als nietig te worden beschouwd.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-03Numac : 2020043945
+

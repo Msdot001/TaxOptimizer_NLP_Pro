@@ -1,0 +1,140 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/11/25/2021205612/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-12-01Numac : 2021205612
+MINISTERIE VAN DE DUITSTALIGE GEMEENSCHAP
+ 25 NOVEMBER 2021. - Besluit van de Regering tot wijziging van het besluit van de Regering van 21 januari 2021 tot vaststelling van maatregelen ter voorkoming van de verspreiding van het coronavirus (COVID-19) 
+De 
+Regering van de Duitstalige Gemeenschap,Gelet op het decreet van 1 juni 2004 betreffende de 
+gezondheidspromotie en inzake medische preventie, artikel 10.6.6, § 1, ingevoegd bij het decreet 
+van 29 oktober 2021; Gelet op het samenwerkingsakkoord van 14 juli 2021 tussen de Federale 
+Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke 
+Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking 
+van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF en 
+de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen 
+die activiteiten uitvoeren in België;Gelet op het besluit van de Regering van 21 januari 2021 
+tot vaststelling van maatregelen ter voorkoming van de verspreiding van het coronavirus (COVID-19);Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet 
+op de dringende noodzakelijkheid;Overwegende dat de dringende noodzakelijkheid wordt gerechtvaardigd 
+door het feit dat het Overlegcomité op zijn vergadering van 17 november 2021 heeft besloten dat het, 
+gezien de dramatisch verslechterende infectiesituatie, passend is dat zowel de federale overheid als 
+de deelentiteiten strengere regels vaststellen met betrekking tot de toepassing van het COVID Safe Ticket; 
+dat de epidemiologische situatie in het Duitse taalgebied uiterst zorgwekkend blijft; dat dringend maatregelen 
+moeten worden genomen die verder reiken dan de huidige maatregelen om de volksgezondheid te beschermen, 
+overbelasting van de gezondheidszorg te voorkomen en het maatschappelijk leven in veilige omstandigheden 
+te hervatten; dat de deltavariant in het Duitse taalgebied dominant is (bijna 100 % van de besmettingen) 
+en dat deze variant besmettelijker is dan de alfa- en andere varianten; dat het virus zich daardoor nog 
+sneller onder de bevolking verspreidt;Overwegende dat dit besluit bijgevolg zo snel mogelijk 
+moet worden aangenomen;Overwegende dat de RAG op 22 november 2021 een evaluatie heeft gemaakt 
+met toepassing van artikel 10.6.7, eerste lid, 2°, van het decreet van 1 juni 2004 en met toepassing 
+van artikel 13bis van het samenwerkingsakkoord van 14 juli 2021;Overwegende dat de zevendagenincidentie 
+van nieuwe besmettingen met het coronavirus (COVID-19) op 23 november 2021 in het gehele Duitse taalgebied 
+829 per 100.000 inwoners bedraagt; dat de veertiendagenincidentie van nieuwe besmettingen met het coronavirus 
+(COVID-19) op 23 november 2021 in het gehele Duitse taalgebied 1.449 per 100.000 inwoners bedraagt; dat 
+de incidentiewaarde begin november 897 per 100.000 inwoners bedroeg; dat de incidentiewaarde sindsdien 
+met 62 % gestegen is;Overwegende dat de veertiendagenincidentie op 23 november 2021 bij 1.548 
+nieuwe infecties per 100.000 inwoners ligt voor het gehele Belgische grondgebied; dat de incidentiewaarde 
+in het Duitse taalgebied dus iets lager ligt dan het Belgische gemiddelde; dat die situatie dus nauwelijks 
+is verbeterd; Overwegende dat de positiviteitsratio in het Duitse taalgebied 18,8 % bedraagt, 
+terwijl hij voor heel België gemiddeld bij 15,4 % blijft; dat de positiviteitsratio in het Duitse taalgebied 
+de jongste weken zelfs nog gestegen is en nog altijd duidelijk hoger ligt dan in de rest van België; 
+dat ook die waarde al geruime tijd op hetzelfde hoge niveau blijft;Overwegende dat de zeer 
+besmettelijke deltavariant van het coronavirus (COVID-19) in het Duitse taalgebied overheerst;Overwegende 
+dat het percentage volledig gevaccineerden in het Duitse taalgebied 67 % van de totale bevolking bedraagt; 
+dat de vaccinatiegraad in heel België met 76 % beduidend hoger ligt dan in het Duitse taalgebied; dat 
+het aantal toegediende vaccinaties in het Duitse taalgebied nauwelijks toeneemt; dat 33 % van de bevolking 
+in het Duitse taalgebied dus nog steeds niet gevaccineerd is en het coronavirus (COVID-19) kan oplopen; 
+dat niet-gevaccineerden het risico lopen een ernstig verloop van de ziekte te krijgen;Overwegende 
+dat, volgens de stand van 21 november 2021, in de ziekenhuizen in het Duitse taalgebied momenteel 4 personen 
+zijn opgenomen, waarvan 2 op de afdeling intensieve zorg; dat de plaatsen op de intensieve zorg in de 
+ziekenhuizen in het Duitse taalgebied vaak vol zijn; dat een van de twee ziekenhuizen in het Duitse taalgebied 
+geen afdeling intensieve zorg heeft; dat de patiënten daardoor naar andere ziekenhuizen moeten worden 
+overgebracht; dat het werkelijke aantal intensievezorgpatiënten uit het Duitse taalgebied dus hoger ligt;Overwegende 
+dat uit deze evaluatie blijkt dat de epidemiologische situatie in het Duitse taalgebied het gebruik van 
+het COVID Safe Ticket in bepaalde sectoren rechtvaardigt om de verspreiding van het coronavirus (COVID-19) 
+en de gevolgen daarvan te beperken;Overwegende dat in voorzieningen uit de cultuursector, feestsector 
+of recreatiesector enkele duidelijke risicofactoren zijn vastgesteld, zoals de langdurige aanwezigheid 
+van mensen in dezelfde ruimte, vaak zonder passende ventilatie; Overwegende dat sinds het uitbreken 
+van de COVID-19-pandemie vaak infectieclusters zijn waargenomen in sport- en fitnessclubs, als gevolg 
+van nauw contact tussen mensen, frequente verplaatsingen in dezelfde ruimte en verhoogde aërosol- en 
+druppelvorming bij lichamelijke inspanning; dat dit met name het geval is bij sportwedstrijden waar veel 
+toeschouwers aanwezig kunnen zijn; Overwegende dat de COVID-19-gezondheidscrisis economische 
+en sociale gevolgen heeft, wat betekent dat de toegang tot sociale en culturele evenementen mogelijk 
+moeten blijven;Overwegende dat het belangrijk is dat culturele inrichtingen openblijven en 
+dat men culturele evenementen blijft aanbieden, aangezien ze de geestelijke gezondheid en het welzijn 
+van de bevolking ten goede komen;Overwegende dat het sociale leven zich ook afspeelt in voorzieningen 
+die behoren tot de cultuursector, recreatiesector, feestsector en sportsector.Overwegende dat 
+bij het openen of openhouden van die sectoren echter rekening moet worden gehouden met de epidemiologische 
+situatie in het Duitse taalgebied en in het bijzonder met de verspreiding van het coronavirus (COVID-19);Overwegende 
+dat het belang van de betrokken sectoren vanuit sociaal en economisch oogpunt vereist dat maatregelen 
+worden genomen die de opening van deze sectoren combineren met het voorkomen van het gezondheidsrisico 
+dat verbonden is aan de overbezetting van ziekenhuisbedden door patiënten met een besmetting met het 
+coronavirus (COVID-19);Overwegende dat het om deze redenen raadzaam is preventieve maatregelen 
+te nemen in de mate die strikt noodzakelijk is om de gezondheid te beschermen en overbelasting van de 
+gezondheidszorg te voorkomen;Overwegende dat de kans op besmetting het grootst is bij massa-evenementen, 
+sportwedstrijden en alle activiteiten en evenementen in de voorzieningen uit de recreatiesector, feestsector 
+en cultuursector met 50 of meer personen binnen of met 100 of meer personen buiten; dat dit ook geldt 
+voor kerstmarkten en carnavalsactiviteiten; dat het daarom raadzaam is het gebruik van het COVID Safe 
+Ticket verplicht te stellen om het besmettingsgevaar tot een minimum te beperken en tegelijk dergelijke 
+evenementen te laten plaatsvinden of dergelijke voorzieningen open te kunnen houden;Op de voordracht 
+van de Minister van Gezondheid;Na beraadslaging,Besluit : Artikel 1. - 
+In artikel 3.7, eerste lid, van het besluit van de Regering van 21 januari 2021 tot vaststelling van 
+maatregelen ter voorkoming van de verspreiding van het coronavirus (COVID-19), ingevoegd bij het besluit 
+van 29 oktober 2021, worden de volgende wijzigingen aangebracht: 1° de bepaling onder 1° wordt 
+aangevuld met de woorden ", met inbegrip van kerstmarkten, carnavalsactiviteiten of sportwedstrijden 
+die niet plaatsvinden in sportcentra als vermeld in 3°";2° in de bepaling onder 3° worden de 
+woorden "200 bezoekers" vervangen door de woorden "100 bezoekers";3° de bepaling onder 4° wordt 
+vervangen als volgt: "4° voorzieningen die behoren tot de cultuursector, feestsector en recreatiesector;"4° 
+de bepaling onder 5° wordt opgeheven.Art. 2. - Dit besluit treedt in werking de dag waarop 
+het wordt aangenomen.Art. 3. - De minister bevoegd voor Gezondheid is belast met de uitvoering 
+van dit besluit.Eupen, 25 november 2021.Voor de Regering van de Duitstalige Gemeenschap,De 
+Minister-President,Minister van Lokale Besturen en Financiën,O. PAASCHDe 
+Viceminister-President,Minister van Gezondheid en Sociale Aangelegenheden, Ruimtelijke 
+Ordening en Huisvesting,A. ANTONIADIS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-12-01Numac : 2021205612
+

@@ -1,0 +1,210 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/23/2020030827/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020030827
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 23 APRIL 2020. - Bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/019 tot wijziging van het bijzondere machtenbesluit nr. 2020/013 van 7 april 2020 betreffende de steun tot vergoeding van de ondernemingen getroffen door de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+Verslag aan de Brusselse Hoofdstedelijke RegeringOm de economische schade 
+voor de bedrijven waarop de openingsbeperkingen van de (federale) ministeriële besluiten van 18 en vervolgens 
+23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+gericht zijn, te beperken, heeft de regering met spoed een besluit aangenomen die hen een eenmalige premie 
+van 4.000 euro per vestigingseenheid toekent. Dit is het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke 
+Regering nr. 2020/013 van 7 april 2020 betreffende de steun tot vergoeding van de ondernemingen getroffen 
+door de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken.Na 
+een grondige evaluatie van de categorieën van ondernemingen die op dezelfde manier door de federale maatregel 
+worden getroffen, breidt het huidig besluit het toepassingsgebied van het besluit van 7 april 2020 uit 
+tot de volgende categorieën ondernemingen :-video-, DVD- en CD-verhuurbedrijven,- 
+carwash,- boekwinkels die onder NACE-code 447.620 werken,- makelaars in onroerend 
+goed.Deze activiteiten komen overeen met de volgende NACE-classificatie :
+ Benaming NACE-BEL 2008 Code NACE Dénomination NACE-BEL 2008 
+Code NACE Verhuur van videobanden en dvd's 77.220 Location de vidéocassettes 
+et de disques vidéo 77.220 Wassen en poetsen van motorvoertuigen 45.206 Lavage 
+de véhicules automobiles 45.206 Detailhandel in kranten en kantoorbehoeften in 
+gespecialiseerde winkels 47.620 Commerce de détail de journaux et de papeterie en magasin spécialisé 
+47.620 Bemiddeling bij de aankoop, verkoop en verhuur van onroerend goed voor rekening 
+van derden 68.311 Activités d'intermédiation en achat, vente et location de biens immobiliers 
+pour compte de tiers 68.311  Dit besluit vormt een aanvulling op de 
+bijlage bij het gewijzigde besluit, die de nomenclatuur bevat van alle ondernemingen die voor de regeling 
+in aanmerking komen (artikel 2).Het bevat ook (artikel 1) een actualisering van een bepaling 
+die verwijst naar het (federale) ministerieel besluit van 23 maart 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken. Na een wijziging van het ministerieel besluit 
+was de verwijzing inderdaad niet meer correct.Barbara TrachteStaatssecretaris voor 
+Economische Transitie23 APRIL 2020. - Bijzondere machtenbesluit van de Brusselse 
+Hoofdstedelijke Regering nr. 2020/019 tot wijziging van het bijzondere machtenbesluit nr. 2020/013 van 
+7 april 2020 betreffende de steun tot vergoeding van de ondernemingen getroffen door de dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperkenDe Brusselse Hoofdstedelijke Regering,Gelet 
+op de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke 
+Regering in het kader van de gezondheidscrisis COVID-19, artikel 2, § 1;Gelet op het 
+bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/013 betreffende de steun 
+tot vergoeding van de ondernemingen getroffen door de dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken, artikel 4, eerste lid;Gelet op artikel 2, § 3, 5°, 
+ van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet op het 
+akkoord van de Minister van Begroting, gegeven op 22 april 2020;Gelet op de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid;Overwegende 
+dat de federale Minister van Veiligheid en Binnenlandse Zaken de sluiting heeft bevolen van een groot 
+aantal ondernemingen, die ten gevolge van de gezondheidscrisis COVID-19 grote economische schade lijden;Dat 
+het noodzakelijk is om dringend steunmaatregelen te voorzien voor de getroffen ondernemingen, ten einde 
+de economische schade te beperken;Dat de getroffen ondernemingen door de sluitingsmaatregelen 
+hun omzet fors zien dalen, of zelfs helemaal verdwijnen, en dat hierdoor het inkomen van de ondernemers 
+en van hun werknemers in het gedrang komt;Dat wanbetalingen ten gevolge van liquiditeitsproblemen 
+een domino-effect in de economie kunnen veroorzaken, hetgeen ten alle koste moet vermeden worden;Dat 
+de steun die via het bijzondere machtenbesluit nr. 2020/013 van 7 april 2020 werd verleend onder meer 
+tot doel heeft om een golf van faillissementen te vermijden onder de ondernemingen die prangende liquiditeitsproblemen 
+ondervinden ten gevolge van de crisis;Dat sommige categorieën handelaars echter niet voorkomen 
+op de lijst van begunstigden van deze steun, hoewel ook zij bij besluit van de federale Minister van 
+Veiligheid en Binnenlandse Zaken hun deuren voor het publiek hebben moeten sluiten.Dat deze 
+ondernemingen in grote lijnen dezelfde risico's op een faillissement lopen en dezelfde integratie in 
+de economische structuur vertonen, zodat zij, net als de andere ondernemingen, snel van de steunregeling 
+zouden moeten kunnen profiteren;Overwegende het ministerieel besluit van 23 maart 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd bij het 
+ministerieel besluit van 24 maart 2020 en het ministerieel besluit van 3 april 2020;Overwegende 
+dat de hierboven uiteengezette spoedeisendheid het niet mogelijk maakt het advies van de Inspectie van 
+Financiën en van de Economische en Sociale Raad in te winnen, zoals toegelaten door artikel 2, § 
+4, van de ordonnantie van 19 maart 2020 tot toekenning van bijzondere machten aan de Brusselse Hoofdstedelijke 
+Regering in het kader van de COVID-19-gezondheidscrisis;Op voorstel van de Minister van Economie,Na 
+beraadslaging,Besluit :Artikel 1. In artikel 4, eerste lid, van het bijzondere machtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/013 van 7 april 2020 betreffende de steun tot vergoeding 
+van de ondernemingen getroffen door de dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken worden de woorden "artikel 1, § 5, van het ministerieel besluit van 23 maart 2020" 
+vervangen door de woorden "artikel 1, § 6, van het ministerieel besluit van 23 maart 2020".Art. 
+2.  In hetzelfde besluit wordt de bijlage vervangen door de bijlage gevoegd bij dit besluit.Art. 
+3. Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+4.  De minister bevoegd voor Economie is belast met de uitvoering van dit besluit.Brussel, 
+23 april 2020.Voor de Brusselse Hoofdstedelijke Regering:De Minister-President,R. 
+VERVOORTDe Minister van Economie,A. MARONBijlageBTW-activiteiten 
+die in aanmerking komen voor de steun  NACE 
+BEL 2008 code Beschrijving Code NACE BEL 2008 Description 45.113 Detailhandel 
+in auto's en lichte bestelwagens (= 3,5 ton) 45.113 Commerce de détail d'automobiles et d'autres 
+véhicules automobiles légers (= 3,5 tonnes) 45.193 Detailhandel in andere motorvoertuigen 
+(> 3,5 ton) 45.193 Commerce de détail d'autres véhicules automobiles (> 3,5 tonnes) 45.201 
+Algemeen onderhoud en reparatie van auto's en lichte bestelwagens (= 3,5 ton) 45.201 Entretien 
+et réparation général d'automobiles et d'autres véhicules automobiles légers = 3,5 tonnes) 45.206 
+Wassen en poetsen van motorvoertuigen 45.206 Lavage de véhicules automobiles 45.320 
+Detailhandel in onderdelen en accessoires van motorvoertuigen 45.320 Commerce de détail d'équipements 
+de véhicules automobiles 45.402 Detailhandel in en onderhoud en reparatie van motorfietsen 
+en delen en toebehoren van motorfietsen 45.402 Entretien, réparation et commerce de détail de 
+motocycles, y compris les pièces et accessoires 47.191 Detailhandel in niet-gespecialiseerde 
+winkels waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte < 2500 m2) 
+47.191 Commerce de détail en magasin non spécialisé sans prédominance alimentaire (surface de 
+vente <2500m2) 47.192 Detailhandel in niet-gespecialiseerde winkels 
+waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte. = 2500 m2) 
+47.192 Commerce de détail en magasin non spécialisé sans prédominance alimentaire (surface de 
+vente = 2500m2) 474 Detailhandel in ICT-apparatuur in gespecialiseerde 
+winkels 474 Commerce de détail d'équipements de l'information et de la communication en magasin 
+spécialisé 475 Detailhandel in andere consumentenartikelen in gespecialiseerde 
+winkels 475 Commerce de détail d'autres équipements du foyer en magasin spécialisé 4761 
+Detailhandel in boeken in gespecialiseerde winkels 4761 Commerce de détail de livres en magasin 
+spécialisé 47.620 Detailhandel in kranten en kantoorbehoeften in gespecialiseerde 
+winkels 47.620 Commerce de détail de journaux et de papeterie en magasin spécialisé 4763 
+Detailhandel in audio- en video-opnamen in gespecialiseerde winkels 4763 Commerce de détail 
+d'enregistrements musicaux et vidéo en magasin spécialisé 4764 Detailhandel in 
+sportartikelen in gespecialiseerde winkels 4764 Commerce de détail d'articles de sport en magasin 
+spécialisé 4765 Detailhandel in spellen en speelgoed in gespecialiseerde winkels 
+4765 Commerce de détail de jeux et de jouets en magasin spécialisé 4771 Detailhandel 
+in kleding in gespecialiseerde winkels 4771 Commerce de détail d'habillement en magasin spécialisé 
+4772 Detailhandel in schoeisel en lederwaren in gespecialiseerde winkels 4772 
+Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé 4774 
+Detailhandel in medische en orthopedische artikelen in gespecialiseerde winkels 4774 Commerce 
+de détail d'articles médicaux et orthopédiques en magasin spécialisé 4775 Detailhandel 
+in cosmetica en toiletartikelen in gespecialiseerde winkels 4775 Commerce de détail de parfumerie 
+et de produits de beauté en magasin spécialisé 47.761 Detailhandel in bloemen, 
+planten, zaden en kunstmeststoffen in gespecialiseerde winkels 47.761 Commerce de détail de fleurs, 
+de plantes, de graines et d'engrais en magasin spécialisé 47.770 Detailhandel in 
+uurwerken en sieraden in gespecialiseerde winkels 47.770 Commerce de détail d'articles d'horlogerie 
+et de bijouterie en magasin spécialisé 47.782 Detailhandel in fotografische en 
+optische artikelen en in precisieinstrumenten in gespecialiseerde winkels 47.782 Commerce de 
+détail de matériel photographique, d'optique et de précision en magasin spécialisé 47.783 
+Detailhandel in wapens en munitie in gespecialiseerde winkels 47.783 Commerce de détail d'armes 
+et de munitions en magasin spécialisé 47.784 Detailhandel in drogisterijartikelen 
+en onderhoudsproducten in gespecialiseerde winkels 47.784 Commerce de détail d'articles de droguerie 
+et de produits d'entretien en magasin spécialisé 47.785 Detailhandel in fietsen 
+in gespecialiseerde winkels 47.785 Commerce de détail de cycles en magasin spécialisé 47.786 
+Detailhandel in souvenirs en religieuze artikelen in gespecialiseerde winkels 47.786 Commerce 
+de détail de souvenirs et d'articles religieux en magasin spécialisé 47.787 Detailhandel 
+in nieuwe kunstvoorwerpen in gespecialiseerde winkels 47.787 Commerce de détail d'objets d'art 
+neufs en magasin spécialisé 47.788 Detailhandel in babyartikelen (algemeen assortiment) 
+47.788 Commerce de détail d'articles de puériculture en magasin spécialisé, assortiment général 
+47.789 Overige detailhandel in nieuwe artikelen in gespecialiseerde winkels, n.e.g. 
+47.789 Autre commerce de détail de biens neufs en magasin spécialisé n.c.a. 4779 
+Detailhandel in antiquiteiten en tweedehandsgoederen in winkels 4779 Commerce de détail d'antiquités 
+et de biens d'occasion en magasin 478 Markt- en straathandel 478 Commerce 
+de détail sur éventaires et marchés 55 Verschaffen van accommodatie 55 Hébergement 
+56 Eet- en drinkgelegenheden 56 Restauration 59.140 Vertoning 
+van films 59.140 Projection de films cinématographiques 68.311 Bemiddeling 
+bij de aankoop, verkoop en verhuur van onroerend goed voor een vast bedrag of op contractbasis 68.311 
+Activités d'intermédiation en achat, vente et location de biens immobiliers pour compte de tiers 
+77.220 Verhuur van videobanden, dvd's en cd's 77.220 Location de vidéocassettes 
+et de disques vidéo 79 Reisbureaus, reisorganisatoren, reserveringsbureaus en aanverwante 
+activiteiten 79 Activités des agences de voyage, voyagistes, services de réservation et activités 
+connexes 82.110 Diverse administratieve activiteiten ten behoeve van kantoren 82.110 
+Services administratifs combinés de bureau 82.190 Fotokopiëren, documentvoorbereiding 
+en andere gespecialiseerde ondersteunende activiteiten ten behoeve van kantoren 82.190 Photocopie, 
+préparation de documents et autres activités spécialisées de soutien de bureau 82.300 
+Organisatie van congressen en beurzen 82.300 Organisation de salons professionnels et de 
+congrès 85.531 Autorijscholen 85.531 Enseignement de la conduite de véhicules 
+à moteurs 92.000 Loterijen en kansspelen 92.000 Organisation de jeux de 
+hasard et d'argent 93.110 Exploitatie van sportaccommodaties 93.110 Gestion 
+d'installations sportives 93.130 Fitnesscentra 93.130 Activités des centres 
+de culture physique 932 Ontspanning en recreatie 932 Activités récréatives 
+et de loisirs 95 Reparatie van computers en consumentenartikelen 95 Réparation 
+d'ordinateurs et de biens personnels et domestiques 9601 Wassen en (chemisch) reinigen 
+van textiel en bontproducten 9601 Blanchisserie-teinturerie 9602 Haar- 
+en schoonheidsverzorging 9602 Coiffure et soins de beauté 9604 Sauna's, 
+solaria, baden enz. 9604 Entretien corporel 96.092 Plaatsen van tatouages 
+en piercings 96.092 Services de tatouage et de piercing 96.093 Diensten 
+in verband met de verzorging van huisdieren, m.u.v. veterinaire diensten 96.093 Services de soins 
+pour animaux de compagnie, sauf soins vétérinaires 96.095 Pensions voor huisdieren 
+96.095 Hébergement d'animaux de compagnie  Gezien om gevoegd te 
+worden bij het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/019 van 23 
+april 2020 tot wijziging van het bijzondere machtenbesluit nr. 2020/013 van 7 april 2020 betreffende 
+de steun tot vergoeding van de ondernemingen getroffen door de dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken.Brussel, 23 april 2020.Voor de Brusselse 
+Hoofdstedelijke Regering:De Minister-President,R. VERVOORTDe Minister van 
+Economie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020030827
+

@@ -1,0 +1,59 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-08-10Numac : 2020042612
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 28 JULI 2020. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Erratum 
+In 
+het Belgisch Staatsblad nr. 216, derde editie, van dinsdag 28 juli 2020, bladzijde 56021, moet de volgende 
+correctie aangebracht worden : In de tekst van artikel 7, dat artikel 10 van het ministerieel besluit 
+van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+vervangt, dienen onder 10°  de woorden « in afwijking van 8°  » te vervangen worden door « in afwijking 
+van 9°  ».   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-08-10Numac : 2020042612
+

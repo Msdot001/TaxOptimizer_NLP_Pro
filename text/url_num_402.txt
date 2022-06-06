@@ -1,0 +1,231 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/01/29/2021040399/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-05Numac : 2021040399
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 29 JANUARI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+29 januari 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 29 januari 
+2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES29. JANUAR 2021 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund der Verfassung, des Artikels 
+23;Aufgrund des Gesetzes vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund 
+des Gesetzes vom 5. August 1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes 
+vom 15. Mai 2007 über die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. 
+Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender 
+Erlass von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 28. Januar 2021;Aufgrund des Einverständnisses des Staatssekretärs 
+für Haushalt vom 28. Januar 2021;Aufgrund der am 28. Januar 2021 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 28. Januar 2021 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu ergreifen 
+und andere anzupassen;In Erwägung der Konzertierungen zwischen den Regierungen der föderierten 
+Teilgebiete und den zuständigen föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. 
+und 27. März 2020, am 15. und 24. April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 
+2020, am 10., 15., 23. und 27. Juli 2020, am 20. August 2020 und am 23. September 2020 zusammengetreten 
+ist;In Erwägung der Gutachten der GEES und der GEMS und der Stellungnahmen der RAG und des 
+CELEVAL;In Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In 
+Erwägung der Stellungnahme der Pediatric Task Force;In Erwägung des Artikels 191 des Vertrags 
+über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen der Bewältigung 
+einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen Krisenfall verankert 
+ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, dass ein ernstes 
+Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen ergreifen 
+müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) der Verordnung (EU) Nr. 2016/679 des 
+Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung 
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In 
+Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten 
+Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste 
+und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten 
+Personen auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 
+2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung 
+des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der 
+föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus 
+COVID-19;In Erwägung der Empfehlung (EU) 2020/1475 des Rates vom 13. Oktober 2020 für eine 
+koordinierte Vorgehensweise bei der Beschränkung der Freizügigkeit aufgrund der COVID-19-Pandemie;In 
+Erwägung der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht 
+unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung dieser Beschränkung;In Erwägung 
+der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich 
+der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 von der WHO 
+vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die 
+WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das 
+die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung der einleitenden 
+Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, dass das Virus 
+hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen der Epidemie führt, die durch 
+die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In Erwägung der Erklärung 
+des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er darauf hingewiesen hat, dass die 
+Situation in Europa sehr besorgniserregend ist und dass die Übertragung und die Übertragungsquellen in 
+den Häusern, an geschlossenen öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen 
+nicht korrekt befolgen, stattfinden beziehungsweise zu finden sind;In Erwägung der Erklärung 
+des Generaldirektors der WHO vom 26. Oktober 2020, in der er deutlich gemacht hat, dass die höchsten 
+Fallzahlen von COVID-19 in der Woche vom 19. Oktober 2020 verzeichnet worden sind und dass alle Anstrengungen 
+unternommen werden müssen, um die Mitarbeiter des Gesundheitspflegesektors zu schützen; dass Schulen 
+und Unternehmen offen bleiben können, dafür aber Kompromisse eingegangen werden müssen; dass der Generaldirektor 
+bestätigt, dass das Virus durch schnelles und gezieltes Handeln unterdrückt werden kann;In 
+der Erwägung, dass für unser Land seit dem 13. Oktober 2020 auf nationaler Ebene Alarmstufe 4 (sehr hohe 
+Alarmstufe) gilt;In der Erwägung, dass der Tagesdurchschnitt der Neuansteckungen mit dem Coronavirus 
+COVID-19 in Belgien in den letzten sieben Tagen auf 2 163 bestätigte positive Fälle am 28. Januar 2021 
+gestiegen ist;In der Erwägung, dass am 28. Januar 2021 insgesamt 1 851 COVID-19-Patienten in 
+belgischen Krankenhäusern behandelt wurden; dass am selben Tag insgesamt 314 Patienten auf Intensivstationen 
+lagen;In Erwägung des jüngsten leichten Anstiegs der Zahl der Neuansteckungen und der Belegung 
+der Krankenhausbetten; dass der Druck auf die Krankenhäuser und die Kontinuität der Versorgung, die nicht 
+mit COVID-19 zusammenhängt, nach wie vor sehr hoch ist und dass die Gefahr für die Volksgesundheit fortbesteht; 
+dass Krankenhäuser immer noch mit krankheitsbedingten Personalengpässen zu kämpfen haben und dass dies 
+zu einem Personalmangel im Gesundheitspflegesektor führen kann; dass verhindert werden muss, die Aufnahme 
+von Patienten auf dem Staatsgebiet unter Druck zu setzen;In der Erwägung, dass die epidemiologische 
+Situation nach wie vor ernst und prekär ist; dass die Inzidenz am 28. Januar 2021 im 14-Tage-Mittel immer 
+noch 252 pro 100 000 Einwohner beträgt; dass die Reproduktionsrate, basierend auf der Zahl der neuen 
+Krankenhauseinweisungen, 0,98 beträgt; dass eine Verringerung der Zahlen weiter erforderlich ist, um 
+einen Ausweg aus dieser gefährlichen epidemiologischen Situation zu finden; dass noch umfangreiche und 
+weitreichende Maßnahmen erforderlich bleiben, um sie unter Kontrolle zu halten;In der 
+Erwägung, dass auch andere Mitgliedstaaten der Europäischen Union mit einem Anstieg der Anzahl von Infektionen 
+konfrontiert sind;In Erwägung der Erklärung des britischen Premierministers vom 19. Dezember 
+2020 über die Entwicklung der epidemiologischen Situation im Vereinigten Königreich und insbesondere 
+über das Auftauchen einer Mutation des Coronavirus COVID-19 und vom 22. Januar 2021 über die höhere Sterblichkeitsrate 
+bei dieser Mutation;In der Erwägung, dass vor kurzem neue Varianten des Virus identifiziert 
+wurden, darunter die Varianten B.1.1.7 und B.1.351; dass diese Varianten anscheinend ansteckender als 
+die ursprüngliche Variante sind; dass sie sich daher schneller verbreiten; dass darum ein erhöhtes Ansteckungsrisiko 
+besteht;In Erwägung der Risikoanalyse des Europäischen Zentrums für die Prävention und die 
+Kontrolle von Krankheiten (ECDC) vom 20. Dezember 2020 über die "rasche Zunahme einer SARS-CoV-2-Variante 
+mit mehreren Spitzen von Proteinmutationen, die im Vereinigten Königreich beobachtet wurden" und vom 
+29. Dezember 2020 "in Bezug auf die Ausbreitung neuer besorgniserregender SARS-CoV-2-Varianten in der 
+EU/im EWR";In Erwägung der Erklärung des Regionaldirektors der WHO für Europa, Doktor Hans 
+Henri P. Kluge, vom 14. Januar 2021, in der er betont, dass die neue Variante des Virus angesichts ihrer 
+erhöhten Übertragbarkeit Anlass zur Sorge gibt, und erklärt, dass ohne strengere Kontrollen zur Verlangsamung 
+ihrer Ausbreitung die ohnehin schon unter hohem Druck stehenden Gesundheitseinrichtungen noch stärker 
+betroffen sein werden;In der Erwägung, dass auf dem belgischen Staatsgebiet bereits mehrere 
+Ansteckungen mit diesen Varianten festgestellt wurden; dass es daher notwendig ist, Maßnahmen zu 
+ergreifen, um eine weitere Verbreitung dieser Varianten auf dem belgischen Staatsgebiet zu verhindern;In 
+der Erwägung, dass die ungünstige und instabile epidemiologische Lage immer größere Auswirkungen 
+auf das Funktionieren und die Organisation des Unterrichtswesens hat; dass es daher notwendig ist, Aktivitäten 
+in einem organisierten Rahmen für Kinder bis zum Alter von 12 Jahren einschließlich gezielt an 
+strengere Regeln zu knüpfen, um Bildungseinrichtungen so weit wie möglich offen zu halten;In 
+der Erwägung, dass die Kinder und Jugendlichen, insbesondere Kinder und Jugendliche im Alter von 13 bis 
+einschließlich 18 Jahren, nach mehreren Monaten Fernunterricht für bestimmte Gruppen und in Ermangelung 
+von Aktivitäten in einem organisierten Rahmen derzeit eine psychisch verletzliche Gruppe darstellen;In 
+der Erwägung, dass die Regeln in Bezug auf Aktivitäten in einem organisierten Rahmen für Kinder bis zum 
+Alter von 12 Jahren einschließlich einerseits und für Jugendliche von 13 bis einschließlich 
+18 Jahren andererseits bis zu einem gewissen Grad harmonisiert werden können;In der Erwägung, 
+dass eine oder mehrere Gruppen von höchstens 10 Kindern und Jugendlichen bis zum Alter von 18 Jahren 
+einschließlich, Begleitpersonen nicht einbegriffen, gleichzeitig an Aktivitäten in einem organisierten 
+Rahmen teilnehmen dürfen;In der Erwägung, dass bereits geplante und organisierte Aktivitäten 
+wie Sport-, Kultur- und Jugendlager nicht völlig beeinträchtigt werden sollten; dass diese Aktivitäten 
+eine große Auswirkung auf die Betreuungsmöglichkeiten während der Karnevalsferien haben; dass daher 
+eine oder mehrere Gruppen von höchstens 25 Kindern bis zum Alter von 12 Jahren einschließlich, 
+Begleitpersonen nicht einbegriffen, während dieser Schulferien an diesen Aktivitäten teilnehmen können;In 
+der Erwägung, dass Aktivitäten für Kinder bis zum Alter von 12 Jahren einschließlich so weit wie 
+möglich im Freien organisiert werden müssen; dass, wenn eine solche Organisation nicht möglich ist, die 
+Räumlichkeiten ausreichend durchgelüftet werden müssen;In der Erwägung, dass diese Aktivitäten 
+für Kinder und Jugendliche von 13 bis einschließlich 18 Jahren im Freien organisiert werden müssen;In 
+der Erwägung, dass es notwendig ist, die Stabilität von Gruppen zu gewährleisten und wechselnde Kontakte 
+zu vermeiden; dass es daher auch notwendig ist, zu vermeiden, dass Kinder und Jugendliche und ihre Begleitpersonen 
+an mehreren Gruppen und Aktivitäten in einem organisierten Rahmen pro Woche teilnehmen; dass es daher 
+dringend empfohlen wird, die Anzahl der Hobbys in einer Gruppe auf ein Hobby pro Kind oder Jugendlichen 
+zu begrenzen;In der Erwägung, dass diese Maßnahmen weder für Unterrichtsaktivitäten der 
+Bildungseinrichtungen noch für die außerschulische Betreuung, die Betreuung vor und nach der Schule, 
+die Hausaufgabenbetreuung, die Jugendhilfe oder andere Arten spezifischer Aktivitäten für gefährdete 
+Kinder oder Kinder mit einem Lernrückstand gelten; dass diese Aktivitäten immer in Übereinstimmung mit 
+den Protokollen und anderen Präventionsmaßnahmen organisiert werden müssen;Aufgrund der 
+Dringlichkeit,Erlässt:Artikel 1 - Artikel 8 § 1 Absatz 2 des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 wird wie folgt abgeändert:1. In Nr. 9 zweiter Gedankenstrich werden 
+die Wörter "Kinder bis zum Alter von 12 Jahren einschließlich" durch die Wörter "Personen bis zum 
+Alter von 18 Jahren einschließlich, unter Einhaltung der in Artikel 18 vorgesehenen Regeln," ersetzt.2. 
+In Nr. 10 zweiter Gedankenstrich werden die Wörter "Kinder bis zum Alter von 12 Jahren einschließlich" 
+durch die Wörter "Personen bis zum Alter von 18 Jahren einschließlich, unter Einhaltung der in 
+Artikel 18 vorgesehenen Regeln," ersetztArt. 2 - Artikel 15 desselben Erlasses wird wie folgt 
+abgeändert:1. Paragraph 5 wird wie folgt ersetzt:" § 5 - Höchstens 10 Personen 
+bis zum Alter von 18 Jahren einschließlich, Begleitpersonen nicht einbegriffen, dürfen an Aktivitäten 
+in einem organisierten Rahmen teilnehmen, insbesondere durch einen Club oder eine Vereinigung, immer 
+in Anwesenheit eines volljährigen Trainers oder einer volljährigen Begleit- oder Aufsichtsperson und 
+unter Einhaltung der in Artikel 18 vorgesehenen Regeln.In Abweichung von Absatz 1 dürfen höchstens 
+25 Kinder bis zum Alter von 12 Jahren einschließlich, Begleitpersonen nicht einbegriffen, an Aktivitäten 
+in einem organisierten Rahmen teilnehmen, insbesondere durch einen Club oder eine Vereinigung, die vom 
+13. Februar 2021 bis einschließlich 21. Februar 2021 stattfinden, immer in Anwesenheit eines volljährigen 
+Trainers oder einer volljährigen Begleit- oder Aufsichtsperson und unter Einhaltung der in Artikel 18 
+vorgesehenen Regeln."2. Paragraph 7 wird wie folgt ersetzt:" § 7 - Trainings 
+im Bereich des Amateursports dürfen nur für Teilnehmer bis zum Alter von 18 Jahren einschließlich 
+unter Einhaltung der in Artikel 18 vorgesehenen Regeln stattfinden. Nur ein einziges Mitglied des Haushalts 
+der Teilnehmer darf solchen Trainings beiwohnen."Art. 3 - Artikel 18 desselben Erlasses wird 
+wie folgt ersetzt:"Aktivitäten in einem organisierten Rahmen, insbesondere durch einen Club 
+oder eine Vereinigung, ohne Übernachtung, sind für Personen bis zum Alter von 18 Jahren einschließlich 
+gemäß den geltenden Protokollen erlaubt. Diese Aktivitäten dürfen für eine oder mehrere Gruppen 
+von höchstens 10 Personen bis zum Alter von 18 Jahren einschließlich, Begleitpersonen nicht einbegriffen, 
+organisiert werden.In Abweichung von Absatz 1 sind diese Tätigkeiten für eine oder mehrere 
+Gruppen von höchstens 25 Kindern bis zum Alter von 12 Jahren einschließlich, Begleitpersonen nicht 
+einbegriffen, vom 13. Februar 2021 bis einschließlich 21. Februar 2021 erlaubt.Die im 
+Rahmen solcher Aktivitäten versammelten Personen müssen in einer selben Gruppe zusammenbleiben und dürfen 
+nicht mit Personen aus anderen Gruppen zusammenkommen.Für Personen ab 13 Jahren müssen diese 
+Aktivitäten im Freien organisiert werden. Für Kinder bis zum Alter von 12 Jahren einschließlich 
+werden diese Aktivitäten nach Möglichkeit im Freien organisiert.Begleitpersonen halten die 
+Regeln des Social Distancing so gut wie möglich ein, insbesondere die Wahrung eines Abstands von 1,5 
+m zwischen den Personen, und sind verpflichtet, Mund und Nase mit einer Maske oder einer Alternative 
+aus Stoff zu bedecken."Art. 4 - In Artikel 21 § 2 desselben Erlasses wird zwischen den 
+Absätzen 4 und 5 ein Absatz mit folgendem Wortlaut eingefügt:"In Ermangelung dieser Bescheinigung 
+über die unbedingt notwendige Reise, bei falschen, irreführenden oder unvollständigen Informationen in 
+dieser Bescheinigung und wenn sich der unbedingt notwendige Charakter der Reise auch aus den Dokumenten 
+im Besitz des Reisenden nicht ergibt, kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener 
+Grenzkodex oder Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den 
+Aufenthalt, die Niederlassung und das Entfernen von Ausländern verweigert werden."Art. 5 - 
+Vorliegender Erlass tritt am 1. Februar 2021 in Kraft, mit Ausnahme von Artikel 4, der am Tag seiner 
+Veröffentlichung im Belgischen Staatsblatt in Kraft tritt.Brüssel, den 29. Januar 2021A. 
+VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-05Numac : 2021040399
+

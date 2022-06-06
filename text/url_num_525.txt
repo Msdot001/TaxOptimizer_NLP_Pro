@@ -1,0 +1,110 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/22/2021031173/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021031173
+WAALSE OVERHEIDSDIENST
+ 22 APRIL 2021. - Ministerieel besluit tot uitvoering van het besluit van de Waalse Regering van 11 maart 2021 betreffende de toekenning van een specifieke tegemoetkoming ten gunste van hotels en gelijkaardige logies in het kader van de crisis in verband met het coronavirus COVID-19 
+De Minister van Economie,Gelet 
+op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote 
+ondernemingen, inzonderheid op de artikelen 10 en 19;Gelet op het decreet van 11 maart 2004 
+betreffende de gewestelijke incentives ten gunste van grote ondernemingen, inzonderheid op de artikelen 
+7 en 15;Gelet op het besluit van de Waalse Regering van 11 maart 2021 betreffende de toekenning 
+van een specifieke tegemoetkoming ten gunste van hotels en gelijkaardige logies in het kader van de crisis 
+in verband met het coronavirus COVID-19, inzonderheid op de artikelen 4, 5, eerste en tweede leden, en 
+6;Gelet op het verslag van 13 april 2021 opgesteld overeenkomstig artikel 3, 2°,  van het decreet 
+van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties 
+die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel 
+van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, gegeven 
+op 14 april 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 14 april 
+2021;Gelet op advies nr. 69.252 van de Raad van State, gegeven op 22 april 2021, overeenkomstig 
+artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973;Gelet op de dringende noodzakelijkheid;Overwegende dat, hoewel zij niet zijn 
+opgenomen in de lijst van sectoren waarvoor een sluitingsverplichting geldt, hotels en gelijkaardige 
+logies bijzonder zwaar worden getroffen door alle maatregelen in verband met covid-19, gezien de daling 
+van het aantal toeristen, de annulering van de meeste professionele evenementen en de sluiting van restaurants;Overwegende 
+dat deze maatregelen zijn genomen om de directe economische gevolgen van de verlenging van de maatregelen 
+voor de zelfstandigen en de ondernemingen die dit soort activiteiten verrichten, die indirect door de 
+sluiting van bepaalde vestigingen worden getroffen, te beperken ;Overwegende dat wanbetalingen 
+ten gevolge van liquiditeitsproblemen een domino-effect in de economie zouden kunnen veroorzaken, hetgeen 
+ten alle koste voorkomen moet worden;Overwegende dat deze problemen en effecten op zeer korte 
+termijn voelbaar zullen zijn en dat het dus niet verantwoord is om enige vertraging op te lopen in het 
+uitvoeren van de steunmaatregel;Overwegende dat het fundamenteel is dat deze steun onverwijld 
+wordt gestort;Gelet op de mededeling van de Commissie van 19 maart 2020 in verband met de tijdelijke 
+omkadering van de staatssteunmaatregelen ter ondersteuning van de economie in de actuele context van 
+de wijdverspreide COVID-19 epidemie, punt 22;Overwegende dat het voornemen van de Regering 
+is de toekenning van de specifieke tegemoetkoming te beperken tot hotels en gelijkaardige logies;Gelet 
+op de vergunning toegekend krachtens artikel 5, eerste lid, van het besluit van de Waalse Regering van 
+11 maart 2021 betreffende de toekenning van een specifieke tegemoetkoming ten gunste van hotels en gelijkaardige 
+logies in het kader van de crisis in verband met het coronavirus COVID-19;Overwegende dat voor 
+hotelinrichtingen overeenkomstig artikel 225 van het besluit van de Waalse Regering over het Waals Toerismewetboek, 
+een van de voorwaarden is dat het gebouw over ten minste zes kamers beschikt, die uitsluitend voor klanten 
+zijn voorbehouden; Overwegende dat deze voorwaarde naar analogie ook vereist is om voor de 
+specifieke tegemoetkoming in aanmerking te komen,Besluit : Artikel 1. Voor de toepassing 
+van dit ministerieel besluit wordt verstaan onder :1°  het besluit van de Regering: het besluit 
+van de Waalse Regering van 11 maart 2021 betreffende de toekenning van een specifieke tegemoetkoming 
+ten gunste van hotels en gelijkaardige logies in het kader van de crisis in verband met het coronavirus 
+COVID-19;2°  de onderneming : de onderneming bedoeld in artikel 1, 3°,  van het besluit van 
+de Regering;3°  de specifieke tegemoetkoming: de overeenkomstig het besluit van de Regering 
+toegekende specifieke tegemoetkoming;4°  de Administratie: de Waalse Overheidsdienst Economie, 
+Tewerkstelling en Onderzoek;5°  de logieseenheid: de in artikel 1, 4°,  van het besluit van 
+Regering bedoelde logieseenheid.Art. 2. Overeenkomstig artikel 6, lid 1, van het besluit van 
+de Regering dient de onderneming de aanvraag voor een specifieke tegemoetkoming van 22 april 2021 tot 
+en met 21 mei 2021 in.Art. 3. Overeenkomstig artikel 5, lid 1 en 2, van het besluit van de 
+Regering moet de onderneming, om voor de specifieke tegemoetkoming in aanmerking te komen, over ten minste 
+6 logieseenheden beschikken.Het aantal logieseenheden wordt bepaald :1°  voor de 
+hotelinrichtingen bedoeld in artikel 1.D, 23°,  van het Waals Toerismewetboek, op basis van de vergunning 
+bedoeld in artikel 202.D van hetzelfde Wetboek; 2°  voor soortgelijke logiesverstrekkende inrichtingen:a) 
+op basis van het brandveiligheidsattest bedoeld in het Waals Toerismewetboek of ; b) op basis 
+van de datum van de aanvraag voor het brandveiligheidsattest bedoeld in het Waals Toerismewetboek.Voor 
+de in het tweede lid, 2°,  bedoelde inrichtingen verzoekt de Administratie, in voorkomend geval, de onderneming 
+via een verzoek om aanvullende inlichtingen om een standaardattest toe te sturen dat beschikbaar is op 
+de website https://indemnitecovid.wallonie.be en dat moet worden ondertekend door de bevoegde gemeente.Art. 
+4. Dit besluit treedt in werking de dag waarop het ondertekend wordt.Namen, 22 april 2021.W. 
+BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021031173
+

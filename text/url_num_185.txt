@@ -1,0 +1,122 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020015043/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020015043
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 18 JUIN 2020. - Besluit van de regering van de Franse Gemeenschap van bijzondere machten nr. 36 houdende afwijking van enkele bepalingen van het decreet van 7 februari 2019 betreffende het onthaal, de scholarisatie en de begeleiding van leerlingen die de taal niet beheersen in het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap in het kader van de COVID-gezondheidscrisis-19 
+De regering van de 
+Franse Gemeenschap,Gelet op het decreet van 17 maart 2020 tot toekenning van bijzondere machten 
+aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus, artikel 
+1, § 1, f);Gezien het decreet van 7 februari 2019 betreffende het onthaal, de scholarisatie 
+en de begeleiding van leerlingen die de taal niet beheersen in het onderwijs georganiseerd of gesubsidieerd 
+door de Franse Gemeenschap;Gelet op het besluit van de regering van de Franse Gemeenschap van 
+17 juli 2019 tot uitvoering van artikel 2, 2°  en 3°,  en de artikelen 9, 11, 18 en 19 van het decreet 
+van 7 februari 2019 betreffende het onthaal, de scholarisatie en de begeleiding van leerlingen die de 
+onderwijstaal niet beheersen in het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap;Gelet 
+op het advies 67.575/2 van de Raad van State, uitgebracht op 15 juni 2020, met toepassing van artikel 
+84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op de dringende noodzaak om de Franse Gemeenschap in staat te stellen vóór het einde van het schooljaar 
+te reageren op de maatregelen die zijn genomen in het kader van de bestrijding van de COVID-19-pandemie, 
+overeenkomstig artikel 1, § 1, f), van het decreet van 17 maart 2020 tot toekenning van bijzondere 
+machten aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus:- 
+door de lengte van de tijd die de betrokken leerlingen binnen het opvang- en schoolsysteem kunnen doorbrengen 
+aan te passen voor nieuwkomers en gelijkgestelde leerlingen (DASPA);- het vermijden van een 
+ernstig gevaar voor alle leerlingen die van dit systeem profiteren, zonder discriminatie, door hen in 
+staat te stellen hun leerproces voort te zetten ondanks de opschorting van lessen en activiteiten in 
+de klas;Overwegende dat nieuwkomers en leerlingen die met nieuwkomers worden gelijkgesteld, 
+worden geïdentificeerd als een kwetsbare groep die grote leermoeilijkheden heeft en speciale onderwijsondersteuning 
+nodig heeft; Gezien het feit dat na de gezondheidscrisis van COVID-19 en de schorsing van de 
+klassen in de scholen vanaf 16 maart 2020, waartoe de federale regering heeft beslist, nieuwkomers en 
+met nieuwkomers gelijkgestelden niet in staat zijn geweest om onder gunstige omstandigheden te blijven 
+leren; Overwegende dat de duur van de aanwezigheid op het DASPA maximaal één jaar bedraagt 
+en dat deze op basis van een beslissing van de Integratieraad met maximaal zes maanden kan worden verlengd, 
+en met nog eens maximaal zes maanden voor niet-geletterde leerlingen; Overwegende dat een leerling 
+die reeds het voorwerp is geweest van een verlenging in DASPA en die de maximale duur in DASPA heeft 
+bereikt, wordt geïntegreerd in een studiejaar voor het secundair onderwijs of zijn leeftijdsklas voor 
+het basisonderwijs ;Overwegende de opschorting van lessen en activiteiten op scholen na de 
+gezondheidscrisis in verband met het verschijnen van COVID-19, moet het mogelijk zijn om voor nieuwkomers 
+of met nieuwkomers gelijkgestelde leerlingen de duur van de opschorting van de lessen uit te stellen 
+en dus op basis van een besluit van de Integratieraad af te wijken van de duur van de overgang naar een 
+DASPA ;Overwegende dat een geleidelijke integratie van de leerling in DASPA door de Integratieraad 
+als volgt moet worden opgezet: - na 10 maanden in de DASPA moet de leerling ten minste 6 lesperiodes 
+per week binnen zijn leeftijdsklas of het beoogde studiejaar integreren;- na 12 maanden moet 
+de leerling ten minste 12 lesperiodes per week binnen zijn leeftijdsklas of het beoogde studiejaar integreren;- 
+wanneer de leerling na 18 maanden een verlenging krijgt, moet hij minimaal 18 lesperioden per week in 
+zijn leeftijdsklas of studiejaar integreren;Overwegende dat naar aanleiding van de opschorting 
+van de lessen en activiteiten in het onderwijs, deze geleidelijke integratie moet worden aangepast om 
+de continuïteit van het leren te waarborgen voor de leerlingen die momenteel in DASPA zijn ingeschreven; 
+Overwegende dat het genummerde besluit met terugwerkende kracht in werking treedt, op 2 juni 
+2020, wegens de hervatting van de lessen in het kleuteronderwijs op die datum, met uitzondering van de 
+artikelen 2 en 3 die in werking treden op 16 maart 2020, aangezien dit de datum van inschrijving in DASPA 
+is die in aanmerking wordt genomen voor de beslissingen van de Integratieraad. In dit opzicht voldoet 
+deze beslissing aan de voorwaarden die worden gesteld door de rechtspraak van de Raad van State en het 
+Grondwettelijk Hof inzake de terugwerkende kracht van regelgevende bepalingen in het licht van de uitzonderlijke 
+omstandigheden die tot de vaststelling ervan hebben geleid en de verwezenlijking van een doelstelling 
+van algemeen belang, zoals het recht op onderwijs, het recht van elk kind op maatregelen en diensten 
+die bijdragen tot zijn of haar ontwikkeling, en het primaire belang van het kind;Op de voordracht 
+van de minister van Onderwijs; Na beraadslaging, Besluit : Artikel 1. In 
+afwijking van artikel 13, § 1 van het decreet van 7 februari 2019 betreffende het onthaal, de 
+scholarisatie en de begeleiding van leerlingen die de taal niet beheersen in het onderwijs georganiseerd 
+of gesubsidieerd door de Franse Gemeenschap, kan de Integratieraad de overgangsperiode naar DASPA verlengen, 
+na de in hetzelfde artikel vastgestelde maximumduur, voor nieuwkomers en met nieuwkomers gelijkgestelde 
+leerlingen die op 16 maart 2020 in DASPA zijn ingeschreven, voor een duur die ten hoogste gelijk is aan 
+die van de opschorting van de lessen, gekoppeld aan de maatregelen om de verspreiding van het COVID-19-coronavirus 
+in de betrokken instelling te beperken.Deze verlenging kan alleen plaatsvinden met schriftelijke 
+toestemming van de ouders of van degenen die het (feitelijke) ouderlijk gezag over de nieuwkomer uitoefenen, 
+of met toestemming van de nieuwkomer of degenen die met de nieuwkomer zijn gelijkgesteld, indien niemand 
+het (feitelijke) ouderlijk gezag over de nieuwkomer uitoefent.Art. 2. In afwijking van artikel 
+15 van hetzelfde decreet kan de Integratieraad voor leerlingen die op 16 maart 2020 in DASPA zijn ingeschreven, 
+in het belang van de leerling de organisatie van de geleidelijke integratie van de leerling in zijn leeftijdsklas 
+of studiejaar uitstellen voor een periode die ten hoogste gelijk is aan de duur van de opschorting van 
+de lessen, gekoppeld aan maatregelen om de verspreiding van het COVID-19-coronavirus in de betrokken 
+instelling te beperken. Overeenkomstig artikel 17, tweede lid, organiseert de Integratieraad 
+de geleidelijke integratie. Art. 3. Dit besluit treedt in werking op 16 maart 2020.De 
+minister van Onderwijs wordt belast met de uitvoering van dit besluit.Brussel, 18 juni 2020.De 
+Minister-President,P.-Y. JEHOLETDe Minister van Onderwijs,C. DESIR   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020015043
+

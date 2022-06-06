@@ -1,0 +1,134 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/22/2020040986/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040986
+WAALSE OVERHEIDSDIENST
+ 22 APRIL 2020. - Besluit van de Waalse Regering waarbij de verdelers en andere operatoren van de antropogene watercyclus ertoe gemachtigd worden om op hun boekjaar 2019 een provisie voor risico's en lasten aan te leggen om de impact van de crisis COVID-19 te dekken 
+De Waalse Regering,Gelet 
+op Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, inzonderheid op de artikelen D.228 en 
+R.308 tot bis-21;Gelet op het rapport van 1 april 2020 opgesteld overeenkomstig artikel 3, 
+2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid die het niet 
+mogelijk maakt het advies van de afdeling wetgeving van de Raad van State af te wachten binnen een tot 
+vijf dagen teruggebrachte termijn, met name vanwege de dringende steun die zal worden toegekend aan verschillende 
+actoren om de gevolgen van de crisis COVID-19 het hoofd te bieden; dat te dien einde aan de verdelers 
+en andere operatoren van de antropogene watercyclus dient te worden toegestaan zo spoedig mogelijk op 
+hun boekjaar 2019 een provisie voor risico's en lasten aan te leggen;Overwegende dat de buitengewone 
+gezondheidscrisis in verband met COVID-19 die heden België treft en dat de huidige en komende regels, 
+genomen om de verspreiding van het virus onder de bevolking te beperken, van dien aard zijn dat ze iedere 
+vorm van activiteit op het grondgebied van het Waalse Gewest vertragen en sommige diensten zelfs lamleggen;Overwegende 
+dat talrijke werkgevers gedwongen zijn om hun personeel in tijdelijke werkloosheid te plaatsen om economische 
+redenen die verband houden met het coronavirus;Overwegende alle aanvragen voor tijdelijke werkloosheid 
+gebonden aan COVID-19 als tijdelijke werkloosheid wegens overmacht zullen worden behandeld;Overwegende 
+dat deze tijdelijke werkloosheid van een groot aantal mensen tot een daling van het gemiddelde gezinsinkomen 
+zal leiden;Overwegende dat de gewestelijke beleidsverklaring van de Waalse Regering (2019-2024) 
+in de beheersing van de waterprijs voorziet;Overwegende dat deze verklaring bepaalt dat "de 
+operatoren alles in het werk zullen stellen om te voorkomen dat de waterprijs boven de inflatie uitstijgt";Overwegende 
+dat, wat de operator "Société wallonne des eaux" (Waalse Watermaatschappij) betreft, het beheerscontract 
+tussen de Waalse Regering en de "Société wallonne des eaux" (2018-2022) in de beheersing van de waterprijs 
+voorziet;Overwegende dat, wat de "Société publique de gestion de l'eau" (Openbare waterbeheersmaatschappij) 
+betreft, het beheerscontract tussen de Waalse Regering en de "Société wallonne des eaux" (2017-2022) 
+ook in de beheersing van de waterprijs voorziet;Overwegende dat de Waalse Regering de "Société 
+wallonne des eaux" en de "Société publique de gestion de l'eau" bij de regulering voor de vaststelling 
+van de waterprijs in het algemeen belang betrekt;Overwegende dat de evolutie van de betaalbaarheid 
+van het water het resultaat van de kruising van twee factoren is: de evolutie van de waterfactuur en 
+de evolutie van het gezinsinkomen;Overwegende dat de gemiddelde water- en saneringsfacturen 
+over het algemeen minder dan 1,4% van het gemiddelde gezinsinkomen bedragen;Overwegende dat 
+dit percentage toeneemt wanneer het inkomen lager is;Overwegende dat de Organisatie voor Economische 
+Samenwerking en Ontwikkeling (OESO) van mening is dat de drempel waarboven de waterfactuur onbetaalbaar 
+wordt, 3% is;Overwegende dat de OESO van mening is dat de tariefstructuren zodanig moeten worden 
+ontworpen dat de diensten voor iedereen toegankelijk en betaalbaar zijn;Overwegende dat er 
+dus een specifieke steun is ingesteld voor mensen die economisch worden getroffen door de crisis van 
+het coronavirus (COVID-19), meer bepaald de personen die de tijdelijke werkloosheid wegens overmacht 
+genieten, om de betaalbaarheidsdrempel niet te overschrijden;Overwegende dat deze specifieke 
+steun het voorwerp heeft uitgemaakt van een nota aan de Regering en de vorm aanneemt van een forfaitaire 
+financiële bijstand;Overwegende dat deze specifieke steun een financiële impact zal hebben 
+voor de waterverdelers en de "Société publique de gestion de l'eau";Overwegende dat het bedrag 
+van de facturen zal worden verlaagd en dat bovendien de administratieve last voor de waterverdelers om 
+het uitzonderlijke steunmechanisme voor de betaling van de waterfactuur te beheren en de daarmee gepaard 
+gaande kosten groter zullen zijn;Overwegende dat deze via de facturering verleende specifieke 
+steun ook op het verbruik van het jaar 2019 betrekking zal hebben;Overwegende dat ongeveer 
+de helft van het verbruik van het jaar 2019 als gevolg van de factureringscycli in de loop van het jaar 
+2020 zal worden gefactureerd;Overwegende dat een groot aantal van deze facturen die in 2020 
+worden uitgeschreven, door de specifieke ondersteuningsmaatregel zullen worden beïnvloed;Overwegende 
+dat de waterverdelers wegens de crisis COVID-19 ook in de komende jaren te maken zullen krijgen met betalingsachterstanden 
+en oninbare schulden;Overwegende dat deze betalingsachterstanden en oninbare schulden met name 
+betrekking zullen hebben op het verbruik in 2019;Overwegende dat het in deze omstandigheden 
+passend is om de waterverdelers en de "Société publique de gestion de l'eau" toe te staan een provisie 
+voor specifieke risico's en lasten op het boekjaar 2019 aan te leggen om zich te beschermen tegen lasten 
+in verband met de crisis COVID-19 en in het bijzonder lasten in verband met de invoering van een specifiek 
+ondersteuningsmechanisme voor de betaling van de waterfactuur voor mensen die economisch worden getroffen 
+door de crisis COVID-19 en lasten in verband met betalingsachterstanden en oninbare schulden;Overwegende 
+dat deze provisie tot doel zal hebben een gebeurtenis na de afsluiting van het boekjaar 2019 te kunnen 
+doorberekenen;Overwegende dat artikel R.308bis-21 van het reglementair deel van Boek II van 
+het Milieuwetboek, dat het Waterwetboek inhoudt, in de mogelijkheid voorziet om provisies voor bijzondere 
+risico's en lasten aan te leggen;Overwegende dat dit besluit de waterverdelers en de "Société 
+publique de gestion de l'eau" de mogelijkheid zal bieden om een provisie voor specifieke risico's en 
+lasten voor het boekjaar 2019 aan te leggen om zich te beschermen tegen lasten in verband met de crisis 
+COVID-19 en in het bijzonder lasten in verband met de invoering van een specifiek ondersteuningsmechanisme 
+voor de betaling van de waterfactuur voor mensen die economisch worden getroffen door de crisis COVID-19 
+en lasten in verband met betalingsachterstanden en oninbare schulden;Op de voordracht van de 
+Minister van Leefmilieu;Na beraadslaging,Besluit:Artikel 1. In het Boekhoudplan 
+van de watersector kunnen provisies voor specifieke risico's en lasten aangelegd worden om zich te beschermen 
+tegen lasten in verband met een uitzonderlijke crisis als gevolg van de invoering van een ondersteuningsmechanisme 
+voor de betaling van de waterfactuur en als gevolg van betalingsachterstanden en oninbare schulden.De 
+verdelers en andere operatoren van de antropogene watercyclus worden ertoe gemachtigd om op hun boekjaar 
+2019 een provisie voor risico's en lasten aan te leggen om de impact van de crisis COVID-19 te dekken, 
+en met name de impact betreffende de invoering van een specifiek steunmechanisme voor de betaling van 
+de waterfactuur voor mensen die economisch worden getroffen door de crisis COVID-19 en die welke betrekking 
+heeft op betalingsachterstanden en oninbare schulden.De "Société wallonne des eaux" en de "Société 
+publique de gestion de l'eau" leggen deze provisie op het boekjaar 2019 aan voor een bedrag van respectievelijk 
+5.250.000 euro en 4.750.000 euro.Art. 2. Dit besluit treedt in werking op de dag volgend op 
+de dag van zijn ondertekening.Art. 3. De Minister van Leefmilieu is belast met de uitvoering 
+van dit besluit.Namen, 22 april 2020.Voor de Regering:De Minister-President,E. 
+DI RUPODe Minister van Leefmilieu, Natuur, Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. 
+TELLIER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040986
+

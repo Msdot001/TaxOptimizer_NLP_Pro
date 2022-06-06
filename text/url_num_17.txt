@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-03-03Numac : 2020040469
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 17 FEBRUARI 2020. - Koninklijk besluit tot wijziging van het KB/WIB 92, op het stuk van de voordelen van alle aard in geval van toekenning van een renteloze lening of een lening tegen verminderde rentevoet. - Erratum 
+In het Belgisch Staatsblad nr. 38 van 21 februari 2020, blz. 10243, moet de tabel 
+van de bijlage door de volgende tabel vervangen worden : Voor 
+de raadpleging van de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-03-03Numac : 2020040469
+

@@ -1,0 +1,332 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/10/2020015235/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-27Numac : 2020015235
+VLAAMSE OVERHEID
+ 10 JULI 2020. - Besluit van de Vlaamse Regering tot toekenning van steun aan de sociaal-toeristische sector en het Iedereen verdient vakantiefonds tot beperking van de negatieve economische impact die voortvloeit uit de dringende maatregelen van de Nationale Veiligheidsraad om de verspreiding van het coronavirus COVID-19 in te dijken 
+RechtsgrondenDit besluit is gebaseerd op:- De wet 
+tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies 
+en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle 
+door het Rekenhof van 16 mei 2003, het laatst gewijzigd bij de wet van 10 april 2014, artikel 11 tot 
+en met 14;- Het decreet houdende de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 
+72 tot en met 76; en- Het decreet tot oprichting van het intern verzelfstandigd agentschap 
+met rechtspersoonlijkheid "Toerisme Vlaanderen" van 19 maart 2004, artikel 5, § 2.VormvereisteDe 
+volgende vormvereiste is vervuld:- De Vlaamse minister, bevoegd voor de begroting, heeft zijn 
+akkoord gegeven op 20 juli 2020.- Er is geen advies gevraagd aan de Raad van State, met toepassing 
+van artikel 3, § 1, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973. Er is 
+een dringende noodzakelijkheid omdat de gevolgen van de federale coronamaatregelen genomen door de Nationale 
+Veiligheidsraad vanaf 14 maart 2020 zo snel mogelijk moeten worden ingeperkt en de sociaal-toeristische 
+sector, die hierdoor zware economische problemen ondervindt, waardoor zij onder meer met een tekort aan 
+of zelfs de niet-beschikbaarheid van liquiditeit kampt, van de mogelijke falingen worden gevrijwaard.MotiveringDit 
+besluit is gebaseerd op de volgende motieven:- De federale coronamaatregelen zoals beslist 
+door de Nationale Veiligheidsraad om de verspreiding van het coronavirus COVID-19 te beperken hebben 
+een negatieve economische impact op de sociaal-toeristische sector en kwetsbare vakantiegangers met een 
+vakantiedrempel.- De Vlaamse minister van Toerisme wenst de organisaties uit deze sector, die 
+hierdoor economische problemen ondervinden, waardoor zij onder meer met een tekort aan of zelfs de niet-beschikbaarheid 
+van liquiditeit kampen door een gebrek aan inkomsten en omzet, financieel te ondersteunen en hen te vrijwaren 
+van mogelijke falingen. De Vlaamse minister van Toerisme wenst ook de kwetsbare vakantiegangers met een 
+vakantiedrempel die door de coronacrisis bijkomend worden getroffen, te bereiken en bijkomende vakantieondersteuning 
+te bieden.- Om deze financiële ondersteuning mogelijk te maken, richtte de Vlaamse Regering 
+een noodfonds op om de economische gevolgen van de coronacrisis deels op te vangen, waarbij een deel 
+van dit noodfonds bestemd is om te worden toegekend aan de sociaal-toeristische sector en het Iedereen 
+verdient vakantiefonds.Juridisch kaderDit besluit sluit aan bij de volgende regelgeving:- 
+Voor zover in het kader van dit besluit steun wordt verleend die kan worden gekwalificeerd als staatssteun 
+in de zin van artikel 107 van het Verdrag betreffend en de werking van de Europese Unie, hetzij de Verordening 
+(EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 
+en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, hetzij de Mededeling 
+van de Commissie C(2020) 1863 definitief over de tijdelijke kaderreling inzake staatssteun ter ondersteuning 
+van de economie vanwege de huidige COVID-19 uitbraak van 19 maart 2020, gewijzigd bij amendementen van 
+3 april 2020 en 8 mei 2020; en- Het besluit van de Vlaamse Regering ter uitvoering van de Vlaamse 
+Codex Overheidsfinanciën van 17 mei 2019, artikel 71 tot en met 77.InitiatiefnemerDit 
+besluit wordt voorgesteld door de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme.Na 
+beraadslaging,DE VLAAMSE REGERING BESLUIT:HOOFDSTUK 1. - DefinitiesArtikel 
+1. In dit besluit wordt verstaan onder:1°  Coronamaatregelen: de maatregelen van de Nationale 
+Veiligheidsraad genomen vanaf 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen 
+van de bevoegde autoriteiten inzake burgerlijke veiligheid;2°  Beperking: de vermindering van 
+mogelijkheden ten aanzien van gedrag of activiteiten op verschillende gebieden zoals, maar niet beperkt 
+tot, communicatie, verzorging, lichaamsbeweging, vaardigheden of gedrag;3°  Contingent: een 
+lot daguitstappen en/of overnachtingen die een netwerkpartner aanbiedt tegen een sociaal tarief of korting 
+met als doel vakantie mogelijk te maken voor mensen die een vakantiedrempel ervaren;4°  Kansarmen: 
+mensen in een niet-eenmalige maar duurzame toestand die hen beknopt in hun kansen om voldoende deel te 
+hebben aan maatschappelijk hooggewaarde goederen, zoals maar niet beperkt tot onderwijs, arbeid en huisvesting, 
+en die zich voordoet op verschillende terreinen, zowel materiële als immateriële;5°  Kwetsbare 
+vakantiegangers: kansarmen, mensen in armoede, mensen met een beperking, mensen meteen chronische, zoals 
+in dit besluit gedefinieerd, samen genomen;6°  Mensen in armoede: mensen in een netwerk van 
+sociale uitsluitingen dat zich uitstrekt over meerdere gebieden van het individuele en collectieve bestaan, 
+dat de armen scheidt van de algemeen aanvaarde leefpatronen van de samenleving en waarbij ze niet op 
+eigen kracht deze kloof kunnen overbruggen;7°  Mensen met een chronische ziekte: mensen met 
+een langdurige fysieke, mentale, verstandelijke of zintuigelijke beperking die deze persoon in wisselwerking 
+met diverse drempels kan beletten volledig, daadwerkelijk en op voet van gelijkheid met anderen te participeren 
+in de maatschappij;8°  Netwerk Iedereen verdient vakantie: het partnernetwerk van Toerisme 
+Vlaanderen dat expertise, goodwill en maatschappelijke verantwoordelijkheid samenbrengt om het recht 
+op vakantie voor alle Vlamingen te realiseren, in het bijzonder voor mensen die omwille van financiële, 
+mentale of fysieke beperkingen niet op vakantie of daguitstap kunnen gaan;9°  Netwerkpartners: 
+toeristische partners en sociale partnerorganisaties die als partnerorganisatie van het netwerk Iedereen 
+verdient vakantie in het online aanbod voor daguitstappen, vakantieverblijven, groepsverblijven of georganiseerde 
+vakanties zijn opgenomen;10°  Rap op stap kantoren: laagdrempelige vrijetijds- en reis(bemiddelings)bureaus 
+voor mensen met een beperkt budget die lid zijn van het netwerk Iedereen verdient vakantie en het Rap 
+op stap samenwerkingscharter van Toerisme Vlaanderen ondertekenden;11°  Iedereen verdient vakantiefonds: 
+het solidariteitsfonds van het netwerk Iedereen verdient vakantie om vakantie mogelijk te maken voor 
+de meest kwetsbare vakantiegangers die een vakantiedrempel ervaren, in samenwerking met de vzw Koepel 
+van Attracties en Musea (Grasmarkt 61, 1000 Brussel, ondernemingsnummer 0436.786.149);12°  
+Toerisme Vlaanderen: het agentschap, opgericht bij decreet tot oprichting van het intern verzelfstandigd 
+agentschap met rechtspersoonlijkheid "Toerisme Vlaanderen" van 19 maart 2004;13°  Vakantieorganisaties: 
+organisaties opgericht uiterlijk 15 maart 2020 die vakanties organiseren voor kansarmen, mensen in armoede, 
+mensen met een beperking of een chronische ziekte en van wie de statuten deze activiteit uitdrukkelijk 
+als doelstelling voorzien;14°  Zorgverblijven: verblijven die aan volgende voorwaarden voldoen:a) 
+uiterlijk 15 maart 2020 aangemeld zijn volgens het decreet houdende het toeristische logies van 5 februari 
+2016 en haar uitvoeringsbesluiten;b) beschikken over het beschermd toegankelijkheidslabel A 
+of A+;c) waar er zorghulpmiddelen aanwezig zijn zoals, maar niet beperkte tot, tilliften of 
+hoog-laagbedden; end) waar een beroep kan gedaan worden op intern en/of extern verzorgend personeel 
+(verpleging en/of assistentie).15°  Begeleidingsgezelschap: de perso(o)n(en die door de organisatie 
+zijn aangeduid om de activiteit te organiseren en te begeleiden Dit kunnen zowel personen in een vrijwillige 
+als in een professionele context zijn.Art. 2. De vakantieorganisaties krijgen een financiële 
+ondersteuning voor de negatieve economische gevolgen ingevolge de coronamaatregelen tijdens de periode 
+vanaf 14 maart tot en met 7 juni 2020, waarbij het subsidiebedrag per vakantieorganisatie wordt bepaald 
+op basis van onderstaande criteria die ertoe strekt dat elke vakantieorganisatie die ervoor in aanmerking 
+komt minstens pro rata financiële ondersteuning kan ontvangen:1°  het gemiddelde van het aantal 
+overnachtingen door personen die behoren tot de doelgroep en hun gezelschap per vakantieorganisatie in 
+de periode vanaf 14 maart tot en met 7 juni van de jaren 2017 tot en met 2019;2°  de verhouding 
+van het gemiddeld aantal overnachtingen per vakantieorganisatie volgens punt 1°  hierboven ten aanzien 
+het totaal van het gemiddeld aantal overnachtingen door personen die behoren tot de doelgroep en hun 
+gezelschap van alle vakantieorganisaties samen die voor financiële ondersteuning overeenkomstig dit besluit 
+in aanmerking komen;3°  reeds toegekende of ontvangen steun, voor zover toepasselijk, met name 
+het bedrag van enige andere premie die vakantieorganisaties ontvangen als financiële ondersteuning om 
+de gevolgen van de coronamaatregelen op te vangen.4°  de beschikbare kredieten in de begroting 
+van Toerisme Vlaanderen, zonder dat de totale steun per vakantieorganisatie meer dan 800.000 euro mag 
+bedragen.De vakantieorganisaties krijgen een financiële ondersteuning voor de negatieve economische 
+gevolgen ingevolge de coronamaatregelen tijdens de periode vanaf 8 juni tot en met 31 augustus 2020, 
+waarbij het subsidiebedrag per vakantieorganisatie wordt bepaald op basis van de criteria voorzien in 
+artikel 2, eerste lid van dit besluit, met dien verstande dat:1°  in artikel 2, eerste lid, 
+1°  de periode voor het berekenen van het gemiddelde wordt gewijzigd in de periode vanaf 8 juni tot en 
+met 31 augustus van de jaren 2017 tot en met 2019; en2°  bovenop de bepalingen van artikel 
+2, eerste lid, 1°  tot en met 4°  van dit besluit, ook rekening wordt gehouden met het aantal geboekte 
+overnachtingen door personen die behoren tot de doelgroep en hun gezelschap per vakantieorganisatie tijdens 
+de periode vanaf 8 juni tot en met 31 augustus 2020.Art. 3. De zorgverblijven krijgen een financiële 
+ondersteuning voor de negatieve economische gevolgen ingevolge de coronamaatregelen tijdens de periode 
+vanaf 14 maart tot en met 7 juni 2020, waarbij het subsidiebedrag per zorgverblijf wordt bepaald op basis 
+van onderstaande criteria die ertoe strekt dat elke vakantieorganisatie die ervoor in aanmerking komt 
+minstens pro rata financiële ondersteuning kan ontvangen:1°  het gemiddelde van het aantal 
+overnachtingen per zorgverblijf in de periode van 14 maart tot en met 7 juni van de jaren 2017 tot en 
+met 2019;2°  de verhouding van het gemiddeld aantal overnachtingen per zorgverblijf volgens 
+punt 1°  hierboven ten aanzien het totaal van het gemiddeld aantal overnachtingen van alle zorgverblijven 
+samen die voor financiële ondersteuning overeenkomstig dit besluit in aanmerking komen;3°  
+reeds toegekende of ontvangen steun, voor zover toepasselijk, met name het bedrag van enige andere premie 
+die zorgverblijven ontvangen als financiële ondersteuning om de gevolgen van de coronamaatregelen op 
+te vangen; en4°  de beschikbare kredieten in de begroting van Toerisme Vlaanderen, zonder dat 
+de totale steun per zorgverblijf meer dan 800.000 euro mag bedragen.De zorgverblijven krijgen 
+een financiële ondersteuning voor de negatieve economische gevolgen ingevolge de coronamaatregelen tijdens 
+de periode vanaf 8 juni tot en met 31 augustus 2020, waarbij het subsidiebedrag per zorgverblijf wordt 
+bepaald op basis van de criteria voorzien in artikel 3, eerste lid van dit besluit, met dien verstande 
+dat:1°  in artikel 3, eerste lid, 1°  de periode voor het berekenen van het gemiddelde wordt 
+gewijzigd in de periode vanaf 8 juni tot en met 31 augustus van de jaren 2017 tot en met 2019; en2° 
+ bovenop de bepalingen van artikel 3, eerste lid, 1°  tot en met 4°  van dit besluit, ook rekening wordt 
+gehouden met het aantal geboekte overnachtingen per zorgverblijf tijdens de periode vanaf 8 juni 2020 
+tot en met 31 augustus 2020.Art. 4. Voor vakantieorganisaties en zorgverblijven die het gemiddelde 
+van het aantal overnachting niet volgens respectievelijk artikel 2 en artikel 3 van dit besluit kunnen 
+bepalen, of voor wie de periode van respectievelijk 14 maart tot en met 7 juni enerzijds en 8 juni tot 
+en met 31 augustus anderzijds van één of meer van de jaren 2017 tot en met 2019 omwille van welbepaalde 
+omstandigheden niet representatief zijn, bezorgen de vakantieorganisaties en zorgverblijven bij hun aanvraag 
+tot financiële ondersteuning volgens artikel 6 van dit besluit een motivering in die zin met een voorstel 
+van eigen gemiddelde onder toevoeging van passende stavingstukken.Art. 5. De vakantieorganisaties 
+en zorgverblijven komen enkel voor financiële ondersteuning overeenkomstig dit besluit in aanmerking 
+als zij voor alle geboekte overnachtingen tijdens de periode van 14 maart tot en met 7 juni 2020 de reeds 
+betaalde voorschotten terugbetaalden of dit voorzien. Mits akkoord van alle partijen, kan ook een gepaste 
+tegoedbon of voucher uitgereikt worden tot beloop van het volledige bedrag van de voorschotten.Art. 
+6. De vakantieorganisaties en zorgverblijven dienen een aanvraag tot financiële ondersteuning via het 
+digitale loket van Toerisme Vlaanderen in.Toerisme Vlaanderen kondigt de oproep tot aanvraagmogelijkheid 
+op haar website aan. Voor de financiële ondersteuning voor enerzijds de periode vanaf 14 maart tot en 
+met 7 juni 2020 en anderzijds de periode vanaf 8 juni tot en met 31 augustus 2020 gebeurt een afzonderlijke 
+oproep en aanvraagmogelijkheid.Toerisme Vlaanderen bepaalt per periode de uiterlijke indieningsdatum 
+voor de aanvraag, waarbij de indieningstermijn minimaal vijftien dagen en maximum dertig dagen bedraagt. 
+Bij een vooraankondiging van de oproep kan Toerisme Vlaanderen van deze minimale indieningstermijn afwijken, 
+voor zover de indieningstermijn te rekenen vanaf deze vooraankondiging minimaal vijftien dagen bedraagt.Toerisme 
+Vlaanderen onderzoekt elke subsidieaanvraag op de naleving van de voorwaarden die zijn opgelegd bij dit 
+besluit over de toekenning en het bedrag van de financiële ondersteuning. Deze beslissing gebeurt bij 
+besluit van de administrateur-generaal van Toerisme Vlaanderen, die hiervoor delegatie heeft en dit ongeacht 
+de hoogte van het subsidiebedrag.Toerisme Vlaanderen bezorgt een kennisgeving van de beslissing, 
+voorzien in het vierde lid hierboven, aan de vakantieorganisaties en zorgverblijven, hetzij schriftelijk, 
+hetzij elektronisch, hetzij een combinatie van beide.Als Toerisme Vlaanderen beslist om een 
+financiële ondersteuning toe te kennen, dan betaalt Toerisme Vlaanderen het subsidiebedrag uit op het 
+rekeningnummer van de vakantieorganisaties en zorgverblijven zoals bekend.Toerisme Vlaanderen 
+verleent de financiële ondersteuning volgens dit hoofdstuk uiterlijk op 31 december 2020 aan de vakantieorganisaties 
+en zorgverblijven.HOOFDSTUK 3. - NetwerkpartnersAfdeling 1. - Contingenten sociaal 
+tariefArt. 7. Bij de netwerkpartners koopt Toerisme Vlaanderen per netwerkpartner een contingent 
+aan, waarbij de omvang van het contingent per netwerkpartner wordt bepaald op basis van:1° 
+ het kortingaanbod van de netwerkpartner in 2019;2°  de verhouding van het kortingaanbod van 
+de netwerkpartner ten aanzien van het totale aanbod van alle netwerkpartners samen in het netwerk Iedereen 
+verdient vakantie in 2019;3°  het type van activiteiten van de netwerkpartner voor het kortingaanbod, 
+met name daguitstappen, vakantieverblijven, groepsverblijven of georganiseerde vakanties; en4° 
+ de beschikbare kredieten in de begroting van Toerisme Vlaanderen, zonder dat de totale steun per netwerkpartner 
+volgens dit besluit meer dan 800.000 euro mag bedragen.Toerisme Vlaanderen koopt per netwerkpartner 
+een contingent aan waarbij het kortingaanbod maximaal 65% van de reguliere prijs voor de overnachting 
+of daguitstap bedraagt.Art. 8. Als de aankoopprijs van een contingent door Toerisme Vlaanderen 
+op basis van de berekening voorzien in artikel 7 minder bedraagt dan 1.500 euro, dan koopt Toerisme Vlaanderen 
+een extra contingent aan tot de drempel van 1.500 euro wordt bereikt.Art. 9. De aankoop van 
+de contingenten door Toerisme Vlaanderen gebeurt onder de volgende voorwaarden:1°  de geldigheidsduur 
+van de contingenten bedraagt minimaal 12 maanden vanaf de aankoop; en2°  als het contingent 
+na het verstrijken van de geldigheidsduur niet volledig of niet deels wordt opgebruikt, stort de netwerkpartner 
+het bedrag van de aankoopprijs van het niet opgebruikte (deel van het) contingent in het Iedereen verdient 
+vakantiefonds binnen de 30 dagen na het verstrijken van de geldigheidsduur.Art. 10. Toerisme 
+Vlaanderen beslist op basis van de haar beschikbare gegevens het bedrag van de aankoop van het contingent 
+per netwerkpartner volgens de wijze van artikel 7 en 8 van dit besluit. Deze beslissing gebeurt bij besluit 
+van de administrateur-generaal van Toerisme Vlaanderen, die hiervoor delegatie heeft en dit ongeacht 
+de hoogte van het aankoopbedrag per contingent per netwerkpartner.Toerisme Vlaanderen koopt 
+de contingenten aan in twee aankooprondes, met een eerste aankoopronde in juli 2020 en een tweede aankoopronde 
+in september 2020.Toerisme Vlaanderen bezorgt een kennisgeving van de beslissing, voorzien 
+in het vierde lid hierboven, aan de netwerkpartners, hetzij schriftelijk, hetzij elektronisch, hetzij 
+een combinatie van beide. Afdeling 2. - Steun vakantieaanbod kwetsbare vakantiegangerArt. 
+11. De netwerkpartners krijgen een financiële ondersteuning voor het uitwerken en organiseren van activiteiten 
+op maat voor kwetsbare vakantiegangers tijdens de periode vanaf 1 juli tot en met 31 december 2020.Voor 
+een activiteit zonder overnachting krijgt de netwerkpartner als financiële ondersteuning een forfaitair 
+subsidiebedrag per deelnemende kwetsbare vakantieganger en per persoon van het begeleidingsgezelschap 
+per dag.Voor een activiteit met overnachting krijgt de netwerkpartner als financiële ondersteuning 
+een forfaitair subsidiebedrag per deelnemende kwetsbare vakantieganger en per persoon van het begeleidingsgezelschap 
+per overnachting, waarbij het subsidiebedrag het dubbele bedraagt van het subsidiebedrag voor een activiteit 
+zonder overnachting voorzien in het tweede lid van dit artikel.Het forfaitair subsidiebedrag 
+voor een activiteit zonder of met overnachting wordt bepaald op basis van onderstaande regeling die ertoe 
+strekt dat elke netwerkpartner die ervoor in aanmerking komt minstens pro rata financiële ondersteuning 
+kan ontvangen:1°  de verhouding van het totaal aantal forfaitaire subsidiebedragen per deelnemende 
+kwetsbare vakantieganger en per persoon van het begeleidingsgezelschap per dag en per nacht van alle 
+netwerkpartners samen die voor financiële ondersteuning overeenkomstig deze afdeling van dit besluit 
+in aanmerking komen; en2°  de beschikbare kredieten in de begroting van Toerisme Vlaanderen, 
+zonder dat de totale steun per netwerkpartner volgens dit besluit meer dan 800.000 euro mag bedragen.Art. 
+12. De toekenning van de financiële ondersteuning door Toerisme Vlaanderen gebeurt onder de volgende 
+voorwaarden:1°  de activiteiten moeten kaderen in het initiatie #ontdekkingtroef van het netwerk 
+Iedereen verdient vakantie;2°  de netwerkpartner volgt een inspiratiesessie #ontdekkingtroef;3° 
+ de activiteiten worden gehouden met respect voor de geldende veiligheidsmaatregelen om de verspreiding 
+van het COVID-19 coronavirus in te dijken;4°  de netwerkpartner bezorgt na afloop van elke 
+activiteit een verslag in de vorm van een foto- of reisverslag of ingevuld #ontdekkingtroefboek; en5° 
+ per dag of overnachting dat de activiteit niet is doorgegaan, stort de netwerkpartner het ontvangen 
+subsidiebedrag per deelnemende kwetsbare vakantieganger en per persoon van het begeleidingsgezelschap 
+voor deze dag of overnachting in het Iedereen verdient vakantiefonds uiterlijk op 31 januari 2021.Art. 
+13. De netwerkpartners dienen een aanvraag tot financiële ondersteuning bij Toerisme Vlaanderen in.Toerisme 
+Vlaanderen kondigt de oproep tot aanvraagmogelijkheid op haar website aan.Toerisme Vlaanderen 
+bepaalt per periode de uiterlijke indieningsdatum voor de aanvraag, waarbij de indieningstermijn minimaal 
+vijftien dagen en maximum dertig dagen bedraagt. Bij een vooraankondiging van de oproep kan Toerisme 
+Vlaanderen afwijken van deze minimale indieningstermijn afwijken.Toerisme Vlaanderen onderzoekt 
+elke subsidieaanvraag op de naleving van de voorwaarden die zijn opgelegd bij dit besluit over de toekenning 
+en het bedrag van de financiële ondersteuning. Deze beslissing gebeurt bij besluit van de administrateur-generaal 
+van Toerisme Vlaanderen, die hiervoor delegatie heeft en dit ongeacht de hoogte van het subsidiebedrag.Toerisme 
+Vlaanderen bezorgt een kennisgeving van de beslissing, voorzien in het vierde lid hierboven, aan de netwerkpartners, 
+hetzij schriftelijk, hetzij elektronisch, hetzij een combinatie van beide.Als Toerisme Vlaanderen 
+beslist om een financiële ondersteuning toe te kennen, dan betaalt Toerisme Vlaanderen het subsidiebedrag 
+uit op het rekeningnummer van de netwerkpartner zoals bekend.Toerisme Vlaanderen verleent de 
+financiële ondersteuning volgens dit hoofdstuk uiterlijk op 31 december 2020 aan de netwerkpartners.HOOFDSTUK 
+4. - Rap op Stap kantorenArt. 14. De Rap op stap kantoren ontvangen een eenmalige forfaitaire 
+financiële ondersteuning ter waarde van 4.000 euro.De Rap op Stap kantoren moeten de financiële 
+bijdrage uit het eerste lid hierboven aanwenden tot dekking van volgende kosten:1°  kosten 
+om de heropstart van het Rap op Stap kantoor mogelijk te maken en in te richten in overeenstemming met 
+de geldende veiligheidsmaatregelen om de verspreiding van het COVID-19 coronavirus in te dijken, waaronder, 
+maar niet beperkt tot, aankoop- en/of plaatsingskosten voor plexiglas, alcogels en (buiten)kantoorinrichting; 
+en2°  vrijwilligersvergoedingen;3°  kosten om de toeleiding naar het Rap op Stap 
+kantoor te verhogen;4°  kosten tot financiering van alle facetten van (groeps)uitstappen.Art. 
+15. De toekenning van de financiële bijdrage gebeurt bij besluit van de administrateur-generaal van Toerisme 
+Vlaanderen, die hiervoor delegatie heeft.Toerisme Vlaanderen bezorgt een kennisgeving van de 
+beslissing, voorzien in het vierde lid hierboven, aan de Rap op Stap kantoren, hetzij schriftelijk, hetzij 
+elektronisch, hetzij een combinatie van beide.Toerisme Vlaanderen betaalt het subsidiebedrag 
+uit op het rekeningnummer van de Rap op Stap kantoren zoals bekend.Toerisme Vlaanderen verleent 
+de financiële ondersteuning volgens dit hoofdstuk uiterlijk op 31 december 2020 aan de Rap op Stap kantoren.Art. 
+16. De Rap op Stap kantoren bezorgen uiterlijk op 30 juni 2021 hetzij mondeling hetzij schriftelijk een 
+functionele en financiële verantwoording voor de aanwending van de financiële ondersteuning.HOOFDSTUK 
+5. - Iedereen verdient vakantiefondsArt. 17. Het Iedereen verdient vakantiefonds ontvangt een 
+eenmalige storting ter waarde van 500.000 euro.Art. 18. De vzw Koepel van Attracties en Musea 
+ontvangt een eenmalige financiële ondersteuning van maximum 60.000 euro tot dekking van administratie-, 
+personeels- en andere opstartkosten voor het Iedereen verdient vakantiefonds.Art. 19. Toerisme 
+Vlaanderen sluit een samenwerkingsovereenkomst af met de vzw Koepel van Attracties en Musea die minstens 
+regelt:1°  de storting voorzien in artikel 17 van dit besluit;2°  de opstartkost 
+voorzien in artikel 18 van dit besluit; en3°  nadere voorwaarden en modaliteiten over het beheer 
+van het Iedereen verdient vakantiefonds, waaronder maar niet beperkt tot de aanwending van de middelen 
+van het Iedereen verdient vakantiefonds, functionele en financiële verantwoording en de bestemming van 
+een eventueel overschot bij einde.Voorafgaand aan het afsluiten van de samenwerkingsovereenkomst 
+legt Toerisme Vlaanderen deze ter goedkeuring aan de Vlaamse minister, bevoegd voor het toerisme, voor. 
+Art. 20. De toekenning van de storting voorzien in artikel 17 en de financiële bijdrage voorzien 
+in artikel 18 van dit besluit gebeurt bij besluit van de administrateur-generaal van Toerisme Vlaanderen 
+en na het afsluiten van de samenwerkingsovereenkomst, zoals goedgekeurd door de Vlaamse minister, bevoegd 
+voor het toerisme, voorzien in artikel 19 van dit besluit. De administrateur-generaal van Toerisme Vlaanderen 
+heeft delegatie zowel voor het nemen van het toekenningsbesluit als het afsluiten van de samenwerkingsovereenkomst.Toerisme 
+Vlaanderen verleent de financiële ondersteuning volgens dit hoofdstuk uiterlijk op 31 december 2020 aan 
+de vzw Koepel van Attracties en Musea.HOOFDSTUK 6. - UitsluitingenArt. 21. De financiële 
+ondersteuning volgens dit besluit kan niet worden toegekend:1°  aan ondernemingen die zich 
+in een rechtstoestand van ontbinding, stopzetting, faillissement en vereffening bevinden;2° 
+ aan ondernemingen die op 31 december 2019 al in moeilijkheden verkeerden in de zin van artikel 2, punt 
+18, van Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën 
+steun op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie 
+met de interne markt verenigbaar worden verklaard; en3°  voor vakanties georganiseerd door 
+ondernemingen die erkend zijn als sociaal-toeristische vereniging op grond van het decreet betreffende 
+de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen" en het 
+besluit van de Vlaamse Regering betreffende de erkenning en de financiële ondersteuning van verenigingen 
+in het kader van "Toerisme voor allen" van 28 mei 2004, zoals nadien gewijzigd, en waarvoor de ondernemingen 
+op grond van voornoemd decreet en uitvoeringsbesluit financiële ondersteuning wordt toegekend.HOOFDSTUK 
+7. - Toezicht en controleArt. 22. Toerisme Vlaanderen kan de waarachtigheid van door de vakantieorganisaties, 
+zorgverblijven, netwerkpartners en Rap op Stap kantoren bezorgde stavingstukken of enig ander gegeven 
+dat noodzakelijk is voor deze financiële ondersteuning controleren op basis van administratieve gegevens 
+en van de boekhouding van de vakantieorganisaties, zorgverblijven, netwerkpartners en Rap op Stap kantoren, 
+en dit zowel voorafgaandelijk aan als tot vijf jaar na de uitbetaling.HOOFDSTUK 8. - StaatssteunregelingArt. 
+23. Voor zover in het kader van dit besluit steun wordt verleend die kan worden gekwalificeerd als staatssteun 
+in de zin van artikel 107 van het Verdrag betreffende de werking van de Europese Unie, valt deze regelgeving 
+onder de toepassing van de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende 
+de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie 
+op de-minimissteun, en de latere wijzigingen ervan.Art. 24. Voor zover in het kader van dit 
+besluit steun wordt verleend die kan worden gekwalificeerd als staatssteun in de zin van artikel 107 
+van het Verdrag betreffende de werking van de Europese Unie, en deze regelgeving niet valt onder de toepassing 
+van de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing 
+van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, 
+en de latere wijzigingen ervan, werd dit besluit op 24 juni 2020 aangemeld bij de Europese Commissie, 
+met toepassing van punt 3.1. van de mededeling van de Commissie C(2020) 1863 definitief van 19 maart 
+2020 over de tijdelijke kaderregeling inzake staatssteun ter ondersteuning van de economie vanwege de 
+huidige COVID-19 uitbraak, en de latere wijzigingen ervan, en werd dit bij beslissing van de Europese 
+Commissie C(2020) 4835 definitief van 9 juli 2020 betreffende COVID-19 steun voor de sociaal-toeristische 
+sector als verenigbaar met de interne markt beschouwd.HOOFDSTUK 9. - SlotbepalingenArt. 
+25. De Vlaamse minister, bevoegd voor het toerisme, kan bijkomende modaliteiten en preciseringen bepalen.Art. 
+26. Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+27. De Vlaamse minister, bevoegd voor het toerisme, is belast met de uitvoering van dit besluit.Brussel, 
+10 juli 2020.De minister-president van de Vlaamse Regering,J. JAMBONDe 
+Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme,Z. DEMIR  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-27Numac : 2020015235
+

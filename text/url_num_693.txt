@@ -1,0 +1,173 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/06/2021022171/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-12Numac : 2021022171
+WAALSE OVERHEIDSDIENST
+ 6 MEI 2021. - Ministerieel besluit tot wijziging van het ministerieel besluit van 3 december 2020 betreffende verscheidene bepalingen inzake de financiering van de operatoren in de sector van gezondheid en sociale actie in het kader van het beheer van de gezondheidscrisis COVID-19 
+De Minister van Gezondheid 
+en Sociale Actie,Gelet op het decreet van 17 maart 2020 tot toekenning van de bijzondere machten 
+aan de Waalse Regering in het kader van de gezondheidscrisis COVID-19 voor de aangelegenheden geregeld 
+bij artikel 138 van de Grondwet, inzonderheid op artikel 2, § 1;Gelet op het decreet 
+van 29 oktober 2020 tot toekenning van bijzondere machten aan de Waalse Regering om te reageren op de 
+tweede golf van de gezondheidscrisis COVID-19 voor de aangelegenheden geregeld bij artikel 138 van de 
+Grondwet, artikel 2, §  1;Gelet op het besluit van de Waalse Regering van bijzondere 
+machten nr. 14 van 10 april 2020 betreffende verscheidene bepalingen inzake de financiering van de operatoren 
+in de gezondheidssector, inzonderheid op de artikelen 3, lid 1, 5,lid 1, 6, § 1, 7, lid 1, 12, 
+alinéa lid 1, 13, lid 1, 14, lid 1, en 22, zoals ingevoegd of gewijzigd bij het besluit van de Waalse 
+Regering van bijzondere machten nr. 60 van 3 december 2020 betreffende verscheidene bepalingen inzake 
+de financiering van de operatoren in de gezondheids- en gehandicaptensector in het kader van het beheer 
+van de gezondheidscrisis COVID-19, bekrachtigd door artikel 6 van het decreet van 3 december 2020 houdende 
+bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten in het kader van het beheer 
+van de gezondheidscrisis COVID-19 voor de aangelegenheden bedoeld in artikel 138 van de Grondwet;Gelet 
+op het besluit van de Waalse Regering van bijzondere machten nr. 14 van 10 april 2020 betreffende verscheidene 
+bepalingen inzake de financiering van de operatoren in de gezondheidssector, inzonderheid op de artikelen 
+3, lid 1, 5,lid 1, 6, § 1, 7, lid 1, 12, alinéa lid 1, 13, lid 1, 14, lid 1, en 22, ingevoegd 
+of gewijzigd bij het besluit van de Waalse Regering van bijzondere machten nr. 60 van 3 december 2020 
+betreffende verscheidene bepalingen inzake de financiering van de operatoren in de gezondheids- en gehandicaptensector 
+in het kader van het beheer van de gezondheidscrisis COVID-19, bekrachtigd door artikel 6 van het decreet 
+van 3 december 2020 houdende bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten 
+in het kader van het beheer van de gezondheidscrisis COVID-19 voor de aangelegenheden bedoeld in artikel 
+138 van de Grondwet;Gelet op het besluit van de Waalse Regering van bijzondere machten nr. 
+53 van 16 juni 2020 betreffende de verschillende maatregelen die zijn genomen in het kader van de afbouwmaatregelen 
+COVID-19 voor de sectoren van de gezondheid, handicap en sociale acti, inzonderheid op de artikelen 4, 
+lid 1, 5, lid 1, 6, lid 1, en 7, lid 1, gewijzigd bij het besluit van de Waalse Regering van bijzondere 
+machten nr. 60 van 3 december 2020 betreffende verscheidene bepalingen inzake de financiering van de 
+operatoren in de gezondheids- en gehandicaptensector in het kader van het beheer van de gezondheidscrisis 
+COVID-19, bekrachtigd door artikel 11 van het decreet van 3 december 2020 houdende bekrachtiging van 
+de besluiten van de Waalse Regering van bijzondere machten in het kader van het beheer van de gezondheidscrisis 
+COVID-19 voor de aangelegenheden bedoeld in artikel 138 van de Grondwet;Gelet op het ministerieel 
+besluit 3 december 2020 tot wijziging van het ministerieel besluit van 3 december 2020 betreffende verscheidene 
+bepalingen inzake de financiering van de operatoren in de sector van gezondheid en sociale actie in het 
+kader van het beheer van de gezondheidscrisis COVID-19;Gelet op het advies van de Inspecteur 
+van Financiën, gegeven op 6 april 2021;Gelet op de instemming van de Minister van Begroting, 
+gegeven op 8 april 2021;Gelet op het verslag van 6 april 2021, opgesteld overeenkomstig artikel 
+4, 2°,  van het decreet van 3 maart 2016 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen, voor de aangelegenheden geregeld krachtens artikel 138 
+van de Grondwet;Gelet op het advies van het inter-Franstalig overlegorgaan, gegeven op 15 april 
+2021;Gelet op de dringende noodzakelijkheid ingegeven door de context van de gezondheidscrisis 
+die de sectoren en regelingen van de openbare sector, evenals de daarbij nagestreefde doelstellingen, 
+in gevaar kan brengen;Gelet op advies nr. 69.260/4 van de Raad van State, gegeven op 27 april 
+2021, overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Gelet op artikel 191 van het EU-Verdrag waarin het voorzorgsbeginsel vastgeschreven 
+is in het kader van het beheer van een internationale sanitaire crisis en de actieve voorbereiding op 
+het potentieel voorvallen van deze crisissen; dat dit beginsel inhoudt dat, wanneer er een ernstig risico 
+zich naar alle waarschijnlijkheid kan voordoen, de publieke overheden dringende en voorlopige maatregelen 
+dienen te nemen;Gelet op de beslissing van de Waalse Regering van 18 maart 2020 waarbij ze 
+instemt met de steun aan de sectoren van de gezondheid, de sociale actie en de inschakeling in de maatschappij 
+en het beroepsleven;Gelet op het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd bij het ministerieel 
+besluit van 1 november 2020;Gelet op de ontwikkeling van de gezondheidscrisis COVID-19 en de 
+maatregelen die door de verschillende bestuursniveaus zijn genomen, en met name de maatregelen die aan 
+het einde van de vergadering van het overlegcomité van 30 oktober 2020 zijn genomen, om de verspreiding 
+ervan te beperken;Gelet op de diepgaande impact van deze crisis en de maatregelen die nodig 
+zijn om de COVID-19-epidemie te bestrijden, met name voor de financiering van de operatoren in de gezondheids- 
+en gehandicaptensector in het kader van het beheer van de crisis COVID-19;Overwegende dat de 
+voorziene maatregelen essentieel zijn om de tewerkstelling van de diensten in deze sectoren te garanderen 
+en de eerbiediging van de rechten van de begunstigden ervan te waarborgen;Overwegende dat het 
+passend is de toegekende subsidies vrij te stellen en het respect voor de rechten van de rechthebbenden, 
+bepaald in het kader van de regelingen vallend onder het gezondheids- en handicapbeleid, te garanderen 
+om de onvermijdelijke gevolgen van de COVID-19-epidemie uit te vlakken en de daaruit mogelijks voortvloeiende 
+buitenkanseffecten uit te sluiten;Overwegende dat het dringend is om deze maatregelen uit te 
+voeren om het ermee beoogde doel te bereiken en dat elke vertraging bij de aanneming van deze maatregelen 
+het effect ervan waarschijnlijk zal verminderen;Gelet de rechtsonzekerheid waarin de erkende 
+en gesubsidieerde diensten en instellingen zich momenteel bevinden met betrekking tot de hoogte van de 
+financiering waarop zij recht hebben, gezien de aanzienlijke variatie in hun activiteiten als gevolg 
+van de gezondheidscrisis COVID-19;Overwegende dat het risico als gevolg van deze juridische 
+en financiële onzekerheid is dat deze diensten en instellingen hun niveau van dienstverlening en de kwaliteit 
+van de zorg die zij aan de begunstigden verlenen, kunnen verlagen;Overwegende dat de instandhouding 
+van het dienstenaanbod en de kwaliteit van de zorg in het kader van de gezondheidscrisis COVID-19 bijzonder 
+onmisbaar is;Overwegende dat de beheerders van de door het Agentschap erkende en gesubsidieerde 
+instellingen moeten weten hoe hun subsidies voor de komende jaren worden berekend, omdat hun financiering 
+waarschijnlijk sterk zal worden beïnvloed door de gezondheidscrisis;Overwegende dat dit besluit 
+op 31 maart 2021 in werking moet treden om een onderbreking van de bij dit besluit verlengde immunisaties 
+te voorkomen;Overwegende dat het gezien al deze elementen dringend is om snel maatregelen te 
+nemen met het oog op de vrijstelling van de financiering van de operatoren in de gezondheids- en gehandicaptensector;Besluit 
+: Afdeling 1. - Inleidende bepalingArtikel 1. Dit besluit regelt krachtens artikel 
+138 van de Grondwet een materie bedoeld in artikel 128 van de Grondwet.Afdeling 2. - Verlenging 
+van de maatregelen betreffende de hulpdienst voor gezinnen en bejaarde personenArt. 2. In artikel 
+4 van het ministerieel besluit 3 december 2020 betreffende verscheidene bepalingen inzake de financiering 
+van de operatoren in de sector van gezondheid en sociale actie in het kader van het beheer van de gezondheidscrisis 
+COVID-19 worden de woorden "31 maart 2021" vervangen door de woorden "30 september 2021".Afdeling 
+3. - Verlenging van de maatregelen met betrekking tot diensten die worden gefinancierd door middel van 
+een revalidatieovereenkomst bedoeld in artikel 1, 6°,  van het Waals Wetboek van Sociale Actie en GezondheidArt. 
+3. In artikel 5 van hetzelfde besluit worden de woorden "31 maart 2021" vervangen door de woorden "30 
+september 2021".Afdeling 4. - Verlenging van de maatregelen betreffende de rustoorden en de 
+rust- en verzorgingstehuizen en de dagverzorgingscentraArt. 4. In artikel 6 van hetzelfde besluit 
+worden de woorden "31 maart 2021" telkens vervangen door de woorden "30 juni 2021".Art. 5. 
+In artikel 7 van hetzelfde besluit worden de woorden "31 maart 2021" telkens vervangen door de woorden 
+"30 juni 2021".Art. 6. In artikel 8 van hetzelfde besluit worden de woorden "31 maart 2021" 
+telkens vervangen door de woorden "30 juni 2021".Art. 7. In artikel 9 van hetzelfde besluit 
+worden de woorden "31 maart 2021" telkens vervangen door de woorden "30 juni 2021".Art. 8. 
+In artikel 11 van hetzelfde besluit worden de woorden "31 maart 2021" vervangen door de woorden "30 september 
+2021".Art. 9. In artikel 12 van hetzelfde besluit worden de woorden "31 maart 2021" vervangen 
+door de woorden "30 september 2021".Afdeling 5. - Verlenging van de maatregelen betreffende 
+de psychiatrische verzorgingstehuizenArt. 10. In artikel 13 van hetzelfde besluit worden de 
+woorden "31 maart 2021" vervangen door de woorden "30 september 2021".Afdeling 6. - Verlenging 
+van de maatregelen betreffende de initiatieven voor beschut wonenArt. 11. In artikel 14 van 
+hetzelfde besluit worden de woorden "31 maart 2021" vervangen door de woorden "30 september 2021".Afdeling 
+7. - Verlenging van de maatregelen met betrekking tot de verblijfkosten van de door het Waalse Gewest 
+erkende ziekenhuizenArt. 12. In artikel 18 van hetzelfde besluit worden de woorden "31 maart 
+2021" vervangen door de woorden "30 september 2021".Afdeling 8. - Verlenging van de maatregelen 
+betreffende de diensten voor de opvang, huisvesting en bijstand in de leefomgeving in de gehandicaptensectorArt. 
+13. In artikel 19 van hetzelfde besluit worden de woorden "31 maart 2021" telkens vervangen door de woorden 
+"30 september 2021".Art. 14. In artikel 26 van hetzelfde besluit worden de woorden "31 maart 
+2021" vervangen door de woorden "30 september 2021".Art. 15. In artikel 27 van hetzelfde besluit 
+worden de volgende wijzigingen aangebracht:1°  in 2°  worden de woorden "31 maart 2021" vervangen 
+door de woorden "30 september 2021";2°  in 3°  worden de woorden "van 1 maart tot en met 31 
+maart 2021" vervangen door de woorden "van 1 maart 2020 tot 30 september 2021" en worden de woorden "30 
+april 2021" vervangen door de woorden "30 oktober 2021";3°  in 4°  worden de woorden "15 april 
+2021" vervangen door de woorden "15 oktober 2021".Art. 16. In artikel 28 van hetzelfde besluit 
+worden de woorden "31 maart 2021" vervangen door de woorden "30 september 2021".Art. 17. In 
+artikel 31 van hetzelfde besluit worden de woorden "31 maart 2021" vervangen door de woorden "30 september 
+2021" en worden de woorden "15 april 2021" vervangen door de woorden "15 oktober 2021".Afdeling 
+9. - SlotbepalingArt. 18. Dit besluit heeft uitwerking op 31 maart 2021.Namen, 6 
+mei 2021.De Vice-Minister-President en Minister van Werk, Vorming, Gezondheid, Sociale Actie, 
+Gelijke Kansen en Vrouwenrechten,Ch. MORREALE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-12Numac : 2021022171
+

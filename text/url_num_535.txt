@@ -1,0 +1,75 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/30/2021031379/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-05Numac : 2021031379
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 30 APRIL 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot wijziging van het besluit van de Brusselse Hoofdstedelijke Regering van 15 april 2021 betreffende steun aan de ondernemingen van de sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis COVID-19 
+De Brusselse 
+Hoofdstedelijke Regering,Gelet op de ordonnantie van 3 mei 2018 betreffende de steun voor de 
+economische ontwikkeling van ondernemingen, de artikelen 28 en 30;Gelet op het besluit van 
+de Brusselse Hoofdstedelijke Regering van 15 april 2021 betreffende steun aan de ondernemingen van de 
+sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, 
+de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis COVID-19, artikel 4;Gelet 
+op artikel 2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op de dringende noodzakelijkheid;Overwegende dat de COVID-19-gezondheidscrisis aanzienlijke 
+economische gevolgen heeft voor veel ondernemingen;Dat een technische wijziging van de regelgeving 
+nodig is om een gelijke behandeling van de ondernemingen te garanderen;Op voorstel van de Minister 
+van Economie,Na beraadslaging,Besluit :HOOFDSTUK 1. - Algemene bepalingenArtikel 
+1. In artikel 4 van het besluit van de Brusselse Hoofdstedelijke Regering van 15 april 2021 betreffende 
+steun aan de ondernemingen van de sectoren van de discotheken, de restaurants en cafés en sommige van 
+hun leveranciers, de evenementen, de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis 
+COVID-19, wordt het derde lid vervangen als volgt:"De eerste en tweede leden zijn niet van 
+toepassing op:1°  de begunstigden van de premies bedoeld in de hoofdstukken 3 en 5 ingeschreven 
+in de KBO vanaf 1 oktober 2019;2°  de begunstigden van de premie bedoeld in hoofdstuk 4 ingeschreven 
+in de KBO vanaf 1 april 2019.".Art. 2. Dit besluit heeft uitwerking met ingang van 19 april 
+2021.Art. 3. De minister bevoegd voor Economie is belast met de uitvoering van dit besluit.Brussel, 
+30 april 2021.Voor de Brusselse Hoofdstedelijke Regering:De Minister-Presidentvan 
+de Brusselse Hoofdstedelijke RegeringR. VERVOORTDe Minister van de Brusselse Hoofdstedelijke 
+Regeringbevoegd voor Economie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-05Numac : 2021031379
+

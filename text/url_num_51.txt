@@ -1,0 +1,79 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/02/27/2020030601/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030601
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN
+ 27 FEBRUARI 2019. - Wet tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven wat betreft het btw-tarief voor de levering van planten en bloemen bij tuinaanleg en -onderhoud. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 
+27 februari 2019 tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van 
+de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten 
+bij die tarieven wat betreft het btw-tarief voor de levering van planten en bloemen bij tuinaanleg en 
+-onderhoud (Belgisch Staatsblad van 14 maart 2019).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN27. 
+FEBRUAR 2019 - Gesetz zur Abänderung hinsichtlich des Mehrwertsteuersatzes für die Lieferung von Pflanzen 
+und Blumen bei der Gestaltung und Pflege von Gärten des Königlichen Erlasses Nr. 20 vom 20. Juli 1970 
+zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen nach diesen 
+SätzenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 -  Vorliegendes 
+Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 -  Tabelle A 
+Rubrik VII Absatz 1 der Anlage zum Königlichen Erlass Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze 
+und zur Einteilung der Güter und Dienstleistungen nach diesen Sätzen, zuletzt abgeändert durch den Königlichen 
+Erlass vom 27. September 1996, wird wie folgt abgeändert:1. Nummer 13 wird wie folgt ersetzt:"13. 
+Lebende Waldbäume, lebende Obstbäume, -sträucher und -büsche und deren Pflanzgut, auch wenn diese Güter 
+bei der Gestaltung und Pflege von Gärten geliefert werden".2. Nummer 14 wird wie folgt ersetzt:"14. 
+Lebende Zierbäume, -sträucher und -büsche und andere lebende Zierpflanzen; Bulben, Zwiebeln, Wurzeln 
+und anderes Pflanzgut für den Gartenbau, auch wenn diese Güter bei der Gestaltung und Pflege von Gärten 
+geliefert werden; frische Schnittblumen und frisches Blattwerk zu Zierzwecken".Art. 3 -  Vorliegendes 
+Gesetz tritt am ersten Tag des Monats nach Ablauf einer Frist von zehn Tagen, die am Tag nach seiner 
+Veröffentlichung im Belgischen Staatsblatt beginnt, in Kraft.Wir fertigen das vorliegende Gesetz 
+aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 27. Februar 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030601
+

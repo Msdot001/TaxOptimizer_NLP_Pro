@@ -1,0 +1,439 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/04/23/2021032728/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-12Numac : 2021032728
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 23 APRIL 2020. - Wet houdende wijzigingen van het Wetboek van de belasting over de toegevoegde waarde, het Wetboek van de inkomstenbelastingen 1992, het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de programmawet (I) van 29 maart 2012, inzake de verwerking van persoongegevens via het e-notariaat. - Duitse vertaling 
+De hierna volgende tekst is de 
+Duitse vertaling van de wet van 23 april 2020 houdende wijzigingen van het Wetboek van de belasting over 
+de toegevoegde waarde, het Wetboek van de inkomstenbelastingen 1992, het Wetboek van de minnelijke en 
+gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de programmawet (I) van 29 maart 
+2012, inzake de verwerking van persoongegevens via het e-notariaat (Belgisch Staatsblad van 11 mei 2020).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN23. APRIL 2020 - Gesetz zur Abänderung des Mehrwertsteuergesetzbuches, 
+des Einkommensteuergesetzbuches 1992, des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen und des Programmgesetzes (I) vom 29. März 2012 
+in Bezug auf die Verarbeitung der über E-Notariat übermittelten personenbezogenen DatenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:TITEL 1 - Allgemeine BestimmungArtikel 
+1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.TITEL 
+2 - Abänderungen des Mehrwertsteuergesetzbuches, des Einkommensteuergesetzbuches 1992, des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+und des Programmgesetzes (I) vom 29. März 2012 im Bereich E-NotariatKAPITEL 1 - Abänderungen 
+des MehrwertsteuergesetzbuchesArt. 2 - Artikel 93ter § 1 des Mehrwertsteuergesetzbuches, 
+eingefügt durch das Gesetz vom 8. August 1980, ersetzt durch das Gesetz vom 11. Februar 2019 und aufgehoben 
+durch das Gesetz vom 13. April 2019, außer für die in Artikel 138 dieses Gesetzes erwähnten Fälle, 
+wird wie folgt abgeändert:1. In Absatz 1 wird der einleitende Satz wie folgt ersetzt:"Damit 
+die Staatskasse im Hinblick auf die Beitreibung der Mehrwertsteuer und der Nebenforderungen die Möglichkeit 
+erhält, eine gesetzliche Hypothek auf ein mit einer Hypothek belastbares Gut aufzunehmen, das Gegenstand 
+eines Entwurfs einer Urkunde zur Veräußerung oder Verwendung zur Hypothekenbestellung ist, sind 
+Notare, die ersucht werden, eine Urkunde zur Veräußerung oder Verwendung zur Hypothekenbestellung 
+eines mit einer Hypothek belastbaren Gutes auszufertigen, im Sinne von Artikel 1382 des Zivilgesetzbuches 
+persönlich haftbar für die Zahlung der Mehrwertsteuer und der Nebenforderungen, die zu einer Hypothekeneintragung 
+führen können, wenn sie es unterlassen:".2. In Absatz 1 Nr. 2 wird das Wort "Einschreiben" 
+durch das Wort "Einschreibesendung" ersetzt.3. Zwischen Absatz 1 und Absatz 2 werden vier Absätze 
+mit folgendem Wortlaut eingefügt:"In der Meldung wird die Identität des Absenders, das Gut, 
+das Gegenstand der in Absatz 1 erwähnten Urkunde ist, und die Identität des Eigentümers oder Inhabers 
+eines dinglichen Rechts an diesem Gut angegeben.Für die Anwendung der vorliegenden Bestimmung 
+umfasst die Identität des Absenders Namen, Vornamen, Eigenschaft, Adresse und Unternehmensnummer.Für 
+die Anwendung der vorliegenden Bestimmung umfasst die Identität des Eigentümers oder Inhabers eines dinglichen 
+Rechts:a) für natürliche Personen: Namen, Vornamen und Erkennungsnummer des Nationalregisters 
+oder, in deren Ermangelung, Erkennungsnummer der Zentralen Datenbank der sozialen Sicherheit oder, in 
+Ermangelung solcher Nummern, ihr Geburtsdatum,b) für juristische Personen: Namen, Rechtsform 
+und Unternehmensnummer.Für die Anwendung der vorliegenden Bestimmung umfasst die Identifizierung 
+des Gutes, das Gegenstand der in Absatz 1 erwähnten Urkunde ist, Art des Gutes, Adresse, Nummer der Katastermutterrolle 
+und, wenn diese Angaben bekannt sind, Verkaufspreis und hypothekarische Situation."4. In Absatz 
+2, der Absatz 6 wird, werden die Wörter "die betreffende Urkunde" durch die Wörter "die in Absatz 1 erwähnte 
+Urkunde" ersetzt.Art. 3 - Artikel 93quater desselben Gesetzbuches, eingefügt durch das Gesetz 
+vom 8. August 1980, ersetzt durch das Gesetz vom 11. Februar 2019 und aufgehoben durch das Gesetz vom 
+13. April 2019, außer für die in Artikel 138 dieses Gesetzes erwähnten Fälle, wird wie folgt abgeändert:1. 
+In § 1 Nr. 2 wird das Wort "Einschreiben" jeweils durch das Wort "Einschreibesendung" ersetzt.2. 
+Der Artikel wird durch einen Paragraphen 4 mit folgendem Wortlaut ergänzt:" § 4 - Die 
+Informationen in der in vorliegendem Artikel erwähnten Notifizierung sind dieselben unabhängig davon, 
+ob sie auf elektronischem Wege oder per Einschreibesendung mitgeteilt werden.Im Falle der Versendung 
+auf elektronischem Wege werden Herkunft und Integrität des Inhalts der Notifizierung durch angemessene 
+Sicherheitstechniken gewährleistet.Damit eine Notifizierung gültig ist, wird ein elektronisches 
+Zertifikat verwendet.Ungeachtet der angewandten Technik ist gewährleistet, dass nur befugte 
+Personen Zugang zu den Mitteln haben, mit denen das elektronische Zertifikat erstellt wird.Die 
+angewandten Verfahren ermöglichen es, dass die natürliche Person, die für die Versendung verantwortlich 
+ist, identifiziert wird und dass der Zeitpunkt der Versendung festgestellt werden kann.Mit 
+dem alleinigen Zweck, die Bestimmungen des vorliegenden Paragraphen auszuführen, wird der Steuerschuldner 
+entweder anhand der Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, anhand der Erkennungsnummer 
+der Zentralen Datenbank der sozialen Sicherheit, wenn es sich um eine natürliche Person handelt, oder 
+der Erkennungsnummer der Zentralen Datenbank der Unternehmen, wenn es sich um eine juristische Person 
+handelt, identifiziert."Art. 4 - Artikel 93octies desselben Gesetzbuches, eingefügt durch das 
+Gesetz vom 8. August 1980 und aufgehoben durch das Gesetz vom 11. Februar 2019, wird mit folgendem Wortlaut 
+wieder aufgenommen:"Art. 93octies - Der Föderale Öffentliche Dienst Finanzen, vertreten vom 
+Präsidenten des Direktionsausschusses, ist der für die Verarbeitung Verantwortliche - im Sinne der Verordnung 
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen 
+bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 
+95/46/EG und des Gesetzes vom 30. Juli 2018 über den Schutz natürlicher Personen hinsichtlich der Verarbeitung 
+personenbezogener Daten - für die Erhebung und Speicherung der in Ausführung von Artikel 93ter von den 
+Notaren erhaltenen Daten, ihre Verwendung zwecks Überprüfung, ob die darin erwähnten Personen der Steuerverwaltung 
+eine sichere Schuld schulden, die Notifizierung dieser Schulden, die Mitteilung dieser Schulden an die 
+betreffenden Notare und gegebenenfalls die Ergreifung der Maßnahmen, die für die Eintragung der 
+gesetzlichen Hypothek erforderlich sind.Die Daten, die in der in Artikel 93ter, 93quater beziehungsweise 
+93quinquies erwähnten Meldung, Notifizierung und Inkenntnissetzung enthalten sind, werden vom Föderalen 
+Öffentlichen Dienst Finanzen bis spätestens zum 31. Dezember des Jahres aufbewahrt, das auf das Jahr 
+folgt, in dem die Verjährungsfrist für alle Handlungen abläuft, die für die Gewährleistung der gesetzlichen 
+Hypothek der Staatskasse oder die Erhebung von Haftpflichtklagen im Hinblick auf die Gewährleistung der 
+Beitreibung der Mehrwertsteuer und der Nebenforderungen notwendig sind und die in die Zuständigkeit des 
+in Absatz 1 erwähnten für die Verarbeitung Verantwortlichen fallen, und in dem gegebenenfalls die vollständige 
+Zahlung der damit zusammenhängenden Beträge getätigt wird und die damit zusammenhängenden administrativen 
+und gerichtlichen Verfahren und Rechtsmittel endgültig abgeschlossen sind."KAPITEL 2 - Abänderungen 
+des Einkommensteuergesetzbuches 1992Art. 5 - Artikel 412bis des Einkommensteuergesetzbuches 
+1992, eingefügt durch das Gesetz vom 28. Dezember 1992 und abgeändert durch das Gesetz vom 11. Februar 
+2019, wird wie folgt abgeändert:1. Der Artikel wird wie folgt ersetzt:"Art. 412bis 
+- § 1 - In Abweichung von Artikel 412 Absatz 2 ist der Berufssteuervorabzug in Bezug auf die in 
+Artikel 272 Absatz 2 erwähnten Mehrwerte bei der Registrierung der in Artikel 270 Absatz 1 Nr. 5 erwähnten 
+Urkunden und Erklärungen zahlbar.In Artikel 270 Absatz 1 Nr. 5 erwähnte Personen sind verpflichtet, 
+bei der Registrierung der Urkunde oder der Erklärung, durch die die Abtretung festgestellt wird, dem 
+in Artikel 39 des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches bestimmten Amt den gemäß 
+Kapitel 5 Abschnitt 8 der Anlage 3 zum Königlichen Erlass vom 27. August 1993 zur Ausführung des Einkommensteuergesetzbuches 
+1992 festgelegten Berufssteuervorabzug zu zahlen, der sich auf Mehrwerte bezieht, die in den in Artikel 
+228 § 2 Nr. 3 Buchstabe a) und Nr. 4 erwähnten Gewinnen oder Profiten enthalten sind und von Steuerpflichtigen, 
+die der Steuer der Gebietsfremden unterliegen, anlässlich einer entgeltlichen Abtretung in Belgien gelegener 
+unbeweglicher Güter oder dinglicher Rechte an diesen Gütern verwirklicht werden.Artikel 169ter 
+des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches ist anwendbar auf den Berufssteuervorabzug 
+in Bezug auf die in den Absätzen 1 und 2 erwähnten Mehrwerte, der bei Registrierung der Urkunde oder 
+der Erklärung zu zahlen ist. § 2 - Wenn § 1 angewandt werden muss, damit die 
+Einnahme des Berufssteuervorabzugs in Bezug auf die Mehrwerte gewährleistet ist, sind in Artikel 270 
+Absatz 1 Nr. 5 erwähnte Schuldner des Berufssteuervorabzugs verpflichtet, die in Artikel 433 erwähnte 
+Meldung zu erstellen, in der außerdem alle Angaben vermerkt sein müssen, die für die Berechnung 
+des Berufssteuervorabzugs in Bezug auf die verwirklichten Mehrwerte erforderlich sind, und gegebenenfalls 
+die Kosten und Aufwendungen zu rechtfertigen, die der Zedent vom Preis der Abtretung abziehen oder zum 
+Erwerbspreis hinzufügen lassen möchte.In der Meldung wird auch die Identität des Absenders, 
+das Gut, das Gegenstand der in Artikel 270 Absatz 1 Nr. 5 erwähnten Urkunde oder Erklärung ist, und die 
+Identität des Eigentümers oder Inhabers eines dinglichen Rechts an diesem Gut angegeben.Für 
+die Anwendung der vorliegenden Bestimmung umfasst die Identität des Absenders Namen, Vornamen, Eigenschaft, 
+Adresse und Unternehmensnummer.Für die Anwendung der vorliegenden Bestimmung umfasst die Identität 
+des Eigentümers oder Inhabers eines dinglichen Rechts:a) für natürliche Personen: Namen, Vornamen 
+und Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, Erkennungsnummer der Zentralen 
+Datenbank der sozialen Sicherheit oder, in Ermangelung solcher Nummern, ihr Geburtsdatum,b) 
+für juristische Personen: Namen, Rechtsform und Unternehmensnummer.Für die Anwendung der vorliegenden 
+Bestimmung umfasst die Identifizierung des Gutes, das Gegenstand der in § 1 erwähnten Urkunde 
+oder Erklärung ist, Art des Gutes, Adresse, Nummer der Katastermutterrolle und, wenn diese Angaben bekannt 
+sind, Verkaufspreis und hypothekarische Situation.Die in Absatz 1 erwähnte Meldung muss vor 
+Registrierung übermittelt werden an:1. den Führungsdienst Informations- und Kommunikationstechnologie 
+des Föderalen Öffentlichen Dienstes Finanzen auf elektronischem Wege,2. den zuständigen Einnehmer, 
+wenn die Meldung aufgrund höherer Gewalt oder einer technischen Störung nicht gemäß Nr. 1 übermittelt 
+werden kann. In diesem Fall wird die Meldung per Einschreibesendung zugesandt.Wird die in § 
+1 erwähnte Urkunde oder Erklärung binnen drei Monaten nach Versendung der Meldung nicht ausgefertigt, 
+wird diese Meldung als nichtig angesehen.Wird die Meldung gemäß Absatz 6 Nr. 1 übermittelt, 
+gilt als Datum der Versendung der Meldung das Datum der Empfangsbestätigung, die vom Führungsdienst Informations- 
+und Kommunikationstechnologie des Föderalen Öffentlichen Dienstes Finanzen übermittelt wird.Wird 
+dieselbe Meldung nacheinander gemäß den in Absatz 6 Nr. 1 beziehungsweise Nr. 2 vorgesehenen Verfahren 
+versandt, ist die gemäß Absatz 6 Nr. 2 erstellte Meldung nur maßgebend, wenn das Datum ihrer 
+Versendung vor dem Datum der Versendung der gemäß Absatz 6 Nr. 1 erstellten Meldung liegt. 
+§ 3 - Einnehmer notifizieren in § 2 erwähnten Schuldnern innerhalb der in Artikel 434 vorgesehenen 
+Frist per Einschreibesendung den Betrag des in Anwendung von Artikel 273 Nr. 2 geschuldeten Berufssteuervorabzugs 
+in Bezug auf Mehrwerte, die auf die Güter verwirklicht werden, die Gegenstand der in § 1 erwähnte 
+Urkunde oder Erklärung sind.Bei einem öffentlichen Verkauf notifizieren Einnehmer den betreffenden 
+Schuldnern des Berufssteuervorabzugs in Abweichung von Absatz 1 nur den Gesamtbetrag, der vom Preis der 
+Abtretung abgezogen werden muss, um den Betrag der verwirklichten Mehrwerte zu erhalten, so dass die 
+vorerwähnten Schuldner diese Mehrwerte und den diesbezüglichen Berufssteuervorabzug selbst berechnen 
+können. § 4 - Vor der Registrierung übergibt der Schuldner des Berufssteuervorabzugs 
+dem Einnehmer, der mit der Registrierung der Urkunde oder der Erklärung beauftragt ist, durch die die 
+Abtretung festgestellt wird, die in § 3 erwähnte Notifizierung.Der Einnehmer kann die 
+Registrierung der Urkunde oder der Erklärung von der Vorlage einer Bescheinigung abhängig machen, die 
+vom zuständigen Beamten der mit der Festlegung der Einkommensteuern beauftragten Verwaltung ausgeht und 
+in der festgestellt wird, dass der Zedent kein in Artikel 227 Nr. 1 oder 2 erwähnter Steuerpflichtiger 
+ist. § 5 - Nachdem der Einnehmer des Registrierungsamtes den geschuldeten Berufssteuervorabzug 
+eingenommen hat, vervollständigt er die in § 3 erwähnte Notifizierung und händigt er dem Schuldner 
+des Berufssteuervorabzugs zwei Ausfertigungen davon aus. Letzterer händigt eine Ausfertigung dem Zedenten 
+des unbeweglichen Gutes oder der dinglichen Rechte an diesem Gut aus, damit dieser seine Erklärung zur 
+Steuer der Gebietsfremden ausfüllen kann.Der Einnehmer des Registrierungsamtes sendet dem zuständigen 
+Dienst der mit der Festlegung der Einkommensteuern beauftragten Verwaltung eine Ausfertigung der in Absatz 
+1 erwähnten Notifizierung zu. § 6 - Der König bestimmt die Angaben, die in der in § 
+2 Absatz 1 erwähnten Meldung enthalten sein müssen."2. In § 2 Absatz 1 werden die Wörter 
+"in Artikel 433" durch die Wörter "in Artikel 433 beziehungsweise in Artikel 35 des Gesetzbuches über 
+die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen" 
+ersetzt.3. In § 3 Absatz 1 werden die Wörter "in Artikel 434" durch die Wörter "in Artikel 
+434 beziehungsweise in Artikel 36 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen" ersetzt.Art. 6 - Artikel 433 § 
+1 desselben Gesetzbuches, ersetzt durch das Gesetz vom 11. Februar 2019 und aufgehoben durch das Gesetz 
+vom 13. April 2019, außer für die in Artikel 138 dieses Gesetzes erwähnten Fälle, wird wie folgt 
+abgeändert:1. Der einleitende Satz wird wie folgt ersetzt:" § 1 - Damit die 
+Staatskasse im Hinblick auf die Beitreibung der Einkommensteuern und Nebenforderungen die Möglichkeit 
+erhält, eine gesetzliche Hypothek auf ein mit einer Hypothek belastbares Gut aufzunehmen, das Gegenstand 
+eines Entwurfs einer Urkunde zur Veräußerung oder Verwendung zur Hypothekenbestellung ist, sind 
+Notare, die ersucht werden, eine Urkunde zur Veräußerung oder Verwendung zur Hypothekenbestellung 
+eines mit einer Hypothek belastbaren Gutes auszufertigen, im Sinne von Artikel 1382 des Zivilgesetzbuches 
+persönlich haftbar für die Zahlung der Steuern und Nebenforderungen, die zu einer Hypothekeneintragung 
+führen können, wenn sie es unterlassen:".2. In Nr. 2 wird das Wort "Einschreiben" durch das 
+Wort "Einschreibesendung" ersetzt.3. Der Paragraph wird durch vier Absätze mit folgendem Wortlaut 
+ergänzt:"In der Meldung wird die Identität des Absenders, das Gut, das Gegenstand der in Absatz 
+1 erwähnten Urkunde ist, und die Identität des Eigentümers oder Inhabers eines dinglichen Rechts an diesem 
+Gut angegeben.Für die Anwendung der vorliegenden Bestimmung umfasst die Identität des Absenders 
+Namen, Vornamen, Eigenschaft, Adresse und Unternehmensnummer.Für die Anwendung der vorliegenden 
+Bestimmung umfasst die Identität des Eigentümers oder Inhabers eines dinglichen Rechts:a) für 
+natürliche Personen: Namen, Vornamen und Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, 
+Erkennungsnummer der Zentralen Datenbank der sozialen Sicherheit oder, in Ermangelung solcher Nummern, 
+ihr Geburtsdatum,b) für juristische Personen: Namen, Rechtsform und Unternehmensnummer.Für 
+die Anwendung der vorliegenden Bestimmung umfasst die Identifizierung des Gutes, das Gegenstand der in 
+Absatz 1 erwähnten Urkunde ist, Art des Gutes, Adresse, Nummer der Katastermutterrolle und, wenn diese 
+Angaben bekannt sind, Verkaufspreis und hypothekarische Situation."Art. 7 - Artikel 434 desselben 
+Gesetzbuches, ersetzt durch das Gesetz vom 11. Februar 2019 und aufgehoben durch das Gesetz vom 13. April 
+2019, außer für die in Artikel 138 dieses Gesetzes erwähnten Fälle, wird wie folgt abgeändert:1. 
+In § 1 Nr. 2 wird das Wort "Einschreiben" jeweils durch das Wort "Einschreibesendung" ersetzt.2. 
+Der Artikel wird durch einen Paragraphen 4 mit folgendem Wortlaut ergänzt:" § 4 - Die 
+Informationen in der in vorliegendem Artikel erwähnten Notifizierung sind dieselben unabhängig davon, 
+ob sie auf elektronischem Wege oder per Einschreibesendung mitgeteilt werden.Im Falle der Versendung 
+auf elektronischem Wege werden Herkunft und Integrität des Inhalts der Notifizierung durch angemessene 
+Sicherheitstechniken gewährleistet.Damit eine Notifizierung gültig ist, wird ein elektronisches 
+Zertifikat verwendet.Ungeachtet der angewandten Technik ist gewährleistet, dass nur befugte 
+Personen Zugang zu den Mitteln haben, mit denen das elektronische Zertifikat erstellt wird.Die 
+angewandten Verfahren ermöglichen es, dass die natürliche Person, die für die Versendung verantwortlich 
+ist, identifiziert wird und dass der Zeitpunkt der Versendung festgestellt werden kann.Mit 
+dem alleinigen Zweck, die Bestimmungen des vorliegenden Paragraphen auszuführen, wird der Steuerschuldner 
+entweder anhand der Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, anhand der Erkennungsnummer 
+der Zentralen Datenbank der sozialen Sicherheit, wenn es sich um eine natürliche Person handelt, oder 
+der Erkennungsnummer der Zentralen Datenbank der Unternehmen, wenn es sich um eine juristische Person 
+handelt, identifiziert."Art. 8 - Artikel 438 desselben Gesetzbuches, aufgehoben durch das Gesetz 
+vom 11. Februar 2019, wird mit folgendem Wortlaut wieder aufgenommen:"Art. 438 - Der Föderale 
+Öffentliche Dienst Finanzen, vertreten vom Präsidenten des Direktionsausschusses, ist der für die Verarbeitung 
+Verantwortliche - im Sinne der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 
+27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien 
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG und des Gesetzes vom 30. Juli 2018 über den Schutz 
+natürlicher Personen hinsichtlich der Verarbeitung personenbezogener Daten - für die Erhebung und Speicherung 
+der in Ausführung der Artikel 412bis und 433 von den Notaren erhaltenen Daten, ihre Verwendung zwecks 
+Überprüfung, ob die darin erwähnten Personen der Steuerverwaltung eine sichere Schuld schulden, die Notifizierung 
+dieser Schulden, die Mitteilung dieser Schulden an die betreffenden Notare und gegebenenfalls die Ergreifung 
+der Maßnahmen, die für die Eintragung der gesetzlichen Hypothek erforderlich sind.Die 
+Daten, die in der in Artikel 412bis § 2 beziehungsweise § 3 erwähnten Meldung und Notifizierung 
+und in der in Artikel 433, 434 beziehungsweise 435 erwähnten Meldung, Notifizierung und Inkenntnissetzung 
+enthalten sind, werden vom Föderalen Öffentlichen Dienst Finanzen bis spätestens zum 31. Dezember des 
+Jahres aufbewahrt, das auf das Jahr folgt, in dem die Verjährungsfrist für alle Handlungen abläuft, die 
+für die Gewährleistung der gesetzlichen Hypothek der Staatskasse oder die Erhebung von Haftpflichtklagen 
+im Hinblick auf die Gewährleistung der Beitreibung des Berufssteuervorabzugs in Bezug auf die in Artikel 
+272 Absatz 2 erwähnten Mehrwerte und der Einkommensteuern und Nebenforderungen notwendig sind und die 
+in die Zuständigkeit des in Absatz 1 erwähnten für die Verarbeitung Verantwortlichen fallen, und in dem 
+gegebenenfalls die vollständige Zahlung der damit zusammenhängenden Beträge getätigt wird und die damit 
+zusammenhängenden administrativen und gerichtlichen Verfahren und Rechtsmittel endgültig abgeschlossen 
+sind."KAPITEL 3 - Abänderungen des Programmgesetzes (I) vom 29. März 2012Art. 9 - 
+Artikel 157 des Programmgesetzes (I) vom 29. März 2012, ersetzt durch das Gesetz vom 13. April 2019, 
+wird wie folgt ersetzt:"Art. 157 - § 1 - Damit die Einnahme sicherer und feststehender 
+Steuerschulden im Sinne von Artikel 158, die von dem Erblasser, seinen Erben und Vermächtnisnehmern oder 
+von den Begünstigten einer vom Erblasser vorgenommenen vertraglichen Erbeinsetzung geschuldet werden, 
+gewährleistet ist, sind Notare, die ersucht werden, eine Erburkunde oder einen Erbschein erwähnt in Artikel 
+1240bis des Zivilgesetzbuches zu erstellen, im Sinne von Artikel 1382 des Zivilgesetzbuches persönlich 
+haftbar für die Zahlung der Schulden, die von dem Erblasser, seinen Erben und Vermächtnisnehmern, deren 
+Identität in der Urkunde oder im Schein angegeben ist, oder von den Begünstigten einer vom Erblasser 
+vorgenommenen vertraglichen Erbeinsetzung geschuldet werden und die gemäß Artikel 158 notifiziert 
+werden können, wenn sie es unterlassen:1. den mit Informations- und Kommunikationstechnologie 
+beauftragten Dienst des Föderalen Öffentlichen Dienstes Finanzen auf elektronischem Wege davon in Kenntnis 
+zu setzen,2. den vom König bestimmten Beamten der Generalverwaltung Vermögensdokumentation 
+hiervon in Kenntnis zu setzen, wenn die Meldung aufgrund höherer Gewalt oder einer technischen Störung 
+nicht gemäß Nr. 1 übermittelt werden kann. In diesem Fall wird die Meldung per Einschreibesendung 
+zugesandt.Handelt es sich um Schulden des Erblassers, beschränkt sich die in Absatz 1 erwähnte 
+Haftung auf den Wert des Nachlasses.Handelt es sich um Schulden von Rechtsnachfolgern, beschränkt 
+sich die in Absatz 1 erwähnte Haftung auf den Wert der Vermögenswerte, die dem Rechtsnachfolger zufallen, 
+dessen Identität in der Urkunde oder im Schein angegeben ist und für den der Notar haftbar gemacht werden 
+kann. § 2 - Wird die betreffende Urkunde oder der betreffende Schein binnen drei Monaten 
+nach Versendung der Meldung nicht ausgefertigt, wird diese Meldung als nichtig angesehen. § 
+3 - Wird dieselbe Meldung nacheinander gemäß den in § 1 Absatz 1 Nr. 1 beziehungsweise Nr. 
+2 erwähnten Verfahren versandt, ist die gemäß § 1 Absatz 1 Nr. 2 erstellte Meldung nur maßgebend, 
+wenn das Datum ihrer Versendung vor dem Datum der Versendung der gemäß § 1 Absatz 1 Nr. 
+1 erstellten Meldung liegt. § 4 - Wird die Meldung gemäß § 1 Absatz 1 Nr. 
+1 übermittelt, gilt als Datum der Versendung der Meldung das Datum der Empfangsbestätigung, die von dem 
+mit Informations- und Kommunikationstechnologie beauftragten Dienst des Föderalen Öffentlichen Dienstes 
+Finanzen übermittelt wird. § 5 - In der Meldung wird die Identität des Erblassers, seiner 
+Erben oder Vermächtnisnehmer und des möglichen Begünstigten einer vertraglichen Erbeinsetzung angegeben.Für 
+die Anwendung dieser Bestimmung umfasst die Identität:a) für natürliche Personen: Namen, Vornamen 
+und gegebenenfalls Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, Erkennungsnummer 
+der Zentralen Datenbank der sozialen Sicherheit der Betreffenden oder, in Ermangelung solcher Nummern, 
+ihr Geburtsdatum,b) für juristische Personen, Trusts, Treuhandgesellschaften und ähnliche Rechtsvereinbarungen: 
+Gesellschaftsnamen, Gesellschaftssitz und gegebenenfalls Erkennungsnummer der Zentralen Datenbank der 
+Unternehmen. § 6 - Der König legt die praktischen Bedingungen für die Anwendung des 
+vorliegenden Artikels fest."Art. 10 - In dasselbe Gesetz wird ein Artikel 157/1 mit folgendem 
+Wortlaut eingefügt:"Art. 157/1 - § 1 - Damit die Einnahme sicherer und feststehender 
+Steuerschulden im Sinne von Artikel 158/1, die von dem Erblasser, seinen Erben und Vermächtnisnehmern 
+oder von den Begünstigten einer vom Erblasser vorgenommenen vertraglichen Erbeinsetzung geschuldet werden, 
+gewährleistet ist, sind Notare, die ersucht werden, eine Erburkunde oder einen Erbschein erwähnt in Artikel 
+1240bis des Zivilgesetzbuches zu erstellen, im Sinne von Artikel 1382 des Zivilgesetzbuches persönlich 
+haftbar für die Zahlung der Schulden, die von dem Erblasser, seinen Erben und Vermächtnisnehmern, deren 
+Identität in der Urkunde oder im Schein angegeben ist, oder von den Begünstigten einer vom Erblasser 
+vorgenommenen vertraglichen Erbeinsetzung geschuldet werden und die gemäß Artikel 158/1 notifiziert 
+werden können, sofern es für die Beitreibung dieser Schulden vor dem 1. Januar 2020 einen Vollstreckungstitel 
+wie in Artikel 138 des Gesetzes vom 13. April 2019 zur Einführung des Gesetzbuches über die gütliche 
+Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen erwähnt 
+gibt, wenn sie es unterlassen:1. den mit Informations- und Kommunikationstechnologie beauftragten 
+Dienst des Föderalen Öffentlichen Dienstes Finanzen auf elektronischem Wege davon in Kenntnis zu setzen,2. 
+folgende Beamte hiervon in Kenntnis zu setzen, wenn die Meldung aufgrund höherer Gewalt oder einer technischen 
+Störung nicht gemäß Nr. 1 übermittelt werden kann:- die Einnehmer, die für den Erblasser 
+und die Rechtsnachfolger zuständig sind, deren Identität in der Erburkunde oder im Erbschein angegeben 
+ist, und den Einnehmer des vom König zu diesem Zweck bestimmten Dienstes, wenn der Erblasser und/oder 
+einer seiner Rechtsnachfolger ihren Wohnort im Ausland haben,- den vom König bestimmten Beamten 
+der Generalverwaltung Vermögensdokumentation.In diesem Fall wird die Meldung per Einschreibesendung 
+zugesandt.Handelt es sich um Schulden des Erblassers, beschränkt sich die in Absatz 1 erwähnte 
+Haftung auf den Wert des Nachlasses.Handelt es sich um Schulden von Rechtsnachfolgern, beschränkt 
+sich die in Absatz 1 erwähnte Haftung auf den Wert der Vermögenswerte, die dem Rechtsnachfolger zufallen, 
+dessen Identität in der Urkunde oder im Schein angegeben ist und für den der Notar haftbar gemacht werden 
+kann. § 2 - Wird die betreffende Urkunde oder der betreffende Schein binnen drei Monaten 
+nach Versendung der Meldung nicht ausgefertigt, wird diese Meldung als nichtig angesehen. § 
+3 - Wird dieselbe Meldung nacheinander gemäß den in § 1 Absatz 1 Nr. 1 beziehungsweise Nr. 
+2 erwähnten Verfahren versandt, ist die gemäß § 1 Absatz 1 Nr. 2 erstellte Meldung nur maßgebend, 
+wenn das Datum ihrer Versendung vor dem Datum der Versendung der gemäß § 1 Absatz 1 Nr. 
+1 erstellten Meldung liegt. § 4 - Wird die Meldung gemäß § 1 Absatz 1 Nr. 
+1 übermittelt, gilt als Datum der Versendung der Meldung das Datum der Empfangsbestätigung, die von dem 
+mit Informations- und Kommunikationstechnologie beauftragten Dienst des Föderalen Öffentlichen Dienstes 
+Finanzen übermittelt wird. § 5 - In der Meldung wird die Identität des Erblassers, seiner 
+Erben oder Vermächtnisnehmer und des möglichen Begünstigten einer vertraglichen Erbeinsetzung angegeben.Für 
+die Anwendung dieser Bestimmung umfasst die Identität:a) für natürliche Personen: Namen, Vornamen 
+und gegebenenfalls Erkennungsnummer des Nationalregisters oder, in deren Ermangelung, Erkennungsnummer 
+der Zentralen Datenbank der sozialen Sicherheit der Betreffenden oder, in Ermangelung solcher Nummern, 
+ihr Geburtsdatum,b) für juristische Personen, Trusts, Treuhandgesellschaften und ähnliche Rechtsvereinbarungen: 
+Gesellschaftsnamen, Gesellschaftssitz und gegebenenfalls Erkennungsnummer der Zentralen Datenbank der 
+Unternehmen. § 6 - Der König legt die praktischen Bedingungen für die Anwendung des 
+vorliegenden Artikels fest."Art. 11 - Artikel 158 desselben Gesetzes, ersetzt durch das Gesetz 
+vom 13. April 2019, wird wie folgt ersetzt:"Art. 158 - Vor Ablauf des zwölften Werktages nach 
+dem Datum der Versendung der in Artikel 157 erwähnten Meldung kann der für die Beitreibung der Steuerschuld 
+zuständige Einnehmer der Generalverwaltung Vermögensdokumentation dem Notar, der diese Meldung versandt 
+hat, das Bestehen einer aus Hauptsumme, Geldbußen und Nebenforderungen gebildeten Steuerschuld 
+des Erblassers oder einer anderen in der Meldung angegebenen Person und für jeden Schuldner den Betrag 
+der vorerwähnten Schuld notifizieren, und zwar:1. auf elektronischem Wege gemäß einem 
+vom König bestimmten Verfahren,2. per Einschreibesendung, wenn die Notifizierung aufgrund höherer 
+Gewalt oder einer technischen Störung nicht gemäß Nr. 1 übermittelt werden kann oder wenn der Notar 
+die in Artikel 157 § 1 erwähnte Meldung per Einschreibesendung zugesandt hat.Wird dieselbe 
+Notifizierung nacheinander gemäß den in Absatz 1 Nr. 1 beziehungsweise Nr. 2 vorgesehenen Verfahren 
+versandt, ist die gemäß Absatz 1 Nr. 2 erstellte Meldung nur maßgebend, wenn das Datum ihrer 
+Versendung vor dem Datum der Versendung der gemäß Absatz 1 Nr. 1 erstellten Meldung liegt.Absatz 
+1 ist nur anwendbar in dem Maße, wie diese Steuerschuld eine sichere und feststehende Schuld darstellt.Wird 
+die Notifizierung gemäß Absatz 1 Nr. 1 übermittelt, gilt als Datum der Versendung der Notifizierung 
+das Datum der Empfangsbestätigung, die vom Dienst Informations- und Kommunikationstechnologie des Absenders 
+der in Artikel 157 §  1 erwähnten Meldung übermittelt wird.Die Informationen in der 
+in vorliegendem Artikel erwähnten Notifizierung sind dieselben unabhängig davon, ob sie auf elektronischem 
+Wege oder per Einschreibesendung mitgeteilt werden.Im Falle der Versendung auf elektronischem 
+Wege werden Herkunft und Integrität des Inhalts der Notifizierung durch angemessene Sicherheitstechniken 
+gewährleistet.Damit eine Notifizierung gültig ist, wird ein elektronisches Zertifikat verwendet.Ungeachtet 
+der angewandten Technik ist gewährleistet, dass nur befugte Personen Zugang zu den Mitteln haben, mit 
+denen das elektronische Zertifikat erstellt wird.Die angewandten Verfahren ermöglichen es, 
+dass die natürliche Person, die für die Versendung verantwortlich ist, identifiziert wird und dass der 
+Zeitpunkt der Versendung festgestellt werden kann.Mit dem alleinigen Zweck, die Bestimmungen 
+der Absätze 5 bis 9 auszuführen, wird der Steuerschuldner entweder anhand der Erkennungsnummer des Nationalregisters 
+oder, in deren Ermangelung, anhand der Erkennungsnummer der Zentralen Datenbank der sozialen Sicherheit, 
+wenn es sich um eine natürliche Person handelt, oder der Erkennungsnummer der Zentralen Datenbank der 
+Unternehmen, wenn es sich um eine juristische Person handelt, identifiziert."Art. 12 - In dasselbe 
+Gesetz wird ein Artikel 158/1 mit folgendem Wortlaut eingefügt:"Art. 158/1 - Vor Ablauf des 
+zwölften Werktages nach dem Datum der Versendung der in Artikel 157/1 erwähnten Meldung kann der für 
+die Beitreibung der Steuerschuld zuständige Einnehmer oder Dienst dem Notar, der diese Meldung versandt 
+hat, das Bestehen einer aus Steuern, Nebenforderungen, Zuschlägen und Geldbußen gebildeten Steuerschuld 
+des Erblassers oder einer anderen in der Meldung angegebenen Person und für jeden Schuldner den Betrag 
+der vorerwähnten Schuld notifizieren, sofern es für die Beitreibung dieser Schulden vor dem 1. Januar 
+2020 einen Vollstreckungstitel wie in Artikel 138 des Gesetzes vom 13. April 2019 zur Einführung des 
+Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen 
+Forderungen erwähnt gibt, und zwar:1. auf elektronischem Wege gemäß einem vom König bestimmten 
+Verfahren,2. per Einschreibesendung, wenn die Notifizierung aufgrund höherer Gewalt oder einer 
+technischen Störung nicht gemäß Nr. 1 übermittelt werden kann oder wenn der Notar die in Artikel 
+157/1 § 1 erwähnte Meldung per Einschreibesendung zugesandt hat.Wird dieselbe Notifizierung 
+nacheinander gemäß den in Absatz 1 Nr. 1 beziehungsweise Nr. 2 vorgesehenen Verfahren versandt, 
+ist die gemäß Absatz 1 Nr. 2 erstellte Meldung nur maßgebend, wenn das Datum ihrer Versendung 
+vor dem Datum der Versendung der gemäß Absatz 1 Nr. 1 erstellten Meldung liegt.Absatz 
+1 ist nur anwendbar in dem Maße, wie diese Steuerschuld eine sichere und feststehende Schuld darstellt.Wird 
+die Notifizierung gemäß Absatz 1 Nr. 1 übermittelt, gilt als Datum der Versendung der Notifizierung 
+das Datum der Empfangsbestätigung, die vom Dienst Informations- und Kommunikationstechnologie des Absenders 
+der in Artikel 157/1 § 1 erwähnten Meldung übermittelt wird.Die Informationen in der 
+in vorliegendem Artikel erwähnten Notifizierung sind dieselben unabhängig davon, ob sie auf elektronischem 
+Wege oder per Einschreibesendung mitgeteilt werden.Im Falle der Versendung auf elektronischem 
+Wege werden Herkunft und Integrität des Inhalts der Notifizierung durch angemessene Sicherheitstechniken 
+gewährleistet.Damit eine Notifizierung gültig ist, wird ein elektronisches Zertifikat verwendet.Ungeachtet 
+der angewandten Technik ist gewährleistet, dass nur befugte Personen Zugang zu den Mitteln haben, mit 
+denen das elektronische Zertifikat erstellt wird.Die angewandten Verfahren ermöglichen es, 
+dass die natürliche Person, die für die Versendung verantwortlich ist, identifiziert wird und dass der 
+Zeitpunkt der Versendung festgestellt werden kann.Mit dem alleinigen Zweck, die Bestimmungen 
+der Absätze 5 bis 9 auszuführen, wird der Steuerschuldner entweder anhand der Erkennungsnummer des Nationalregisters 
+oder, in deren Ermangelung, anhand der Erkennungsnummer der Zentralen Datenbank der sozialen Sicherheit, 
+wenn es sich um eine natürliche Person handelt, oder der Erkennungsnummer der Zentralen Datenbank der 
+Unternehmen, wenn es sich um eine juristische Person handelt, identifiziert."Art. 13 - Artikel 
+159 desselben Gesetzes, ersetzt durch das Gesetz vom 13. Dezember 2012 und abgeändert durch das Gesetz 
+vom 11. Februar 2019, wird wie folgt abgeändert:a) In Absatz 1 werden die Wörter "in Anwendung 
+von Artikel 158" jeweils durch die Wörter "in Anwendung der Artikel 158 und 158/1" ersetzt.b) 
+In Absatz 3 werden die Wörter "aufgrund von Artikel 158" durch die Wörter "aufgrund der Artikel 158 und 
+158/1" und die Wörter "in Artikel 157 § 1 erwähnte" durch die Wörter "in den Artikeln 157 § 
+1 und 157/1 § 1 erwähnte" ersetzt.Art. 14 - Artikel 160 desselben Gesetzes, abgeändert 
+durch die Gesetze vom 13. Dezember 2012 und 11. Februar 2019, wird wie folgt abgeändert:a) 
+In § 1 werden die Wörter "aufgrund von Artikel 158" durch die Wörter "aufgrund der Artikel 158 
+und 158/1" und die Wörter "im Sinne von Artikel 158" durch die Wörter "im Sinne der Artikel 158 und 158/1" 
+ersetzt.b) In § 2 Buchstabe a) werden die Wörter "gemäß Artikel 158" durch die 
+Wörter "gemäß den Artikeln 158 und 158/1" ersetzt.c) In § 3 werden die Wörter 
+"in Artikel 158 erwähnten" durch die Wörter "in den Artikeln 158 und 158/1 erwähnten" ersetzt.Art. 
+15 - Artikel 161 desselben Gesetzes, ersetzt durch das Gesetz vom 11. Februar 2019, wird wie folgt ersetzt:"Art. 
+161 - Die in den Artikeln 157 und 157/1 erwähnte Meldung wird gemäß dem vom König festgelegten 
+Muster erstellt."Art. 16 - In dasselbe Gesetz wird ein Artikel 161/1 mit folgendem Wortlaut 
+eingefügt:"Art. 161/1 - Der Föderale Öffentliche Dienst Finanzen, vertreten vom Präsidenten 
+des Direktionsausschusses, ist der für die Verarbeitung Verantwortliche - im Sinne der Verordnung (EU) 
+2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen 
+bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 
+95/46/EG und des Gesetzes vom 30. Juli 2018 über den Schutz natürlicher Personen hinsichtlich der Verarbeitung 
+personenbezogener Daten - für die Erhebung und Speicherung der in Ausführung der Artikel 157 und 157/1 
+von den Notaren erhaltenen Daten, ihre Verwendung zwecks Überprüfung, ob die darin erwähnten Personen 
+der Steuerverwaltung eine sichere Schuld schulden, die Notifizierung dieser Schulden und die Mitteilung 
+dieser Schulden an die betreffenden Notare im Hinblick auf die Gewährleistung der Einnahme dieser Schulden.Die 
+Daten, die in der in Artikel 157 beziehungsweise 158 erwähnten Meldung und Notifizierung und in der in 
+Artikel 157/1 beziehungsweise 158/1 erwähnten Meldung und Notifizierung enthalten sind, werden vom Föderalen 
+Öffentlichen Dienst Finanzen bis spätestens zum 31. Dezember des Jahres aufbewahrt, das auf das Jahr 
+folgt, in dem die Verjährungsfrist für alle Handlungen abläuft, die für die Gewährleistung der Einnahme 
+der sicheren und feststehenden Steuerschulden im Sinne der Artikel 158 und 158/1, die von dem Erblasser, 
+seinen Erben und Vermächtnisnehmern oder von den Begünstigten einer vom Erblasser vorgenommenen vertraglichen 
+Erbeinsetzung geschuldet werden, oder die Erhebung von Haftpflichtklagen im Hinblick auf die Gewährleistung 
+der Beitreibung dieser Schulden notwendig sind und die in die Zuständigkeit des in Absatz 1 erwähnten 
+für die Verarbeitung Verantwortlichen fallen, und in dem gegebenenfalls die vollständige Zahlung der 
+damit zusammenhängenden Beträge getätigt wird und die damit zusammenhängenden administrativen und gerichtlichen 
+Verfahren und Rechtsmittel endgültig abgeschlossen sind."KAPITEL 4 - Abänderungen des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen ForderungenArt. 
+17 - 23 - [Bestimmungen zur Abänderung des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen]TITEL 3 - InkrafttretenArt. 
+24 - Titel 2 Kapitel 1 bis 3 wird wirksam mit 30. Dezember 2019, mit Ausnahme von Artikel 5 Nr. 2 und 
+3 und der Artikel 9 und 11, die mit 1. Januar 2020 wirksam werden.Titel 2 Kapitel 4 wird wirksam 
+mit 1. Januar 2020.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel 
+versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 23. 
+April 2020PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der Minister der JustizK. 
+GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-12Numac : 2021032728
+

@@ -1,0 +1,197 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/21/2021042430/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021042430
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 21 JUNI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering betreffende steun aan de ondernemingen van de toeristische logiessector in het kader van de gezondheidscrisis COVID-19 
+De Brusselse 
+Hoofdstedelijke Regering,Gelet op de ordonnantie van 3 mei 2018 betreffende de steun voor de 
+economische ontwikkeling van ondernemingen, de artikelen 28 en 30;Gelet op artikel 2, § 
+3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het advies van de Economische en Sociale Raad voor het Brussels Hoofdstedelijk Gewest, gegeven op 
+22 maart 2021;Gelet op het advies van de Inspecteur van Financiën, gegeven op 12 april 2021;Gelet 
+op het akkoord van de Minister van Begroting, gegeven op 14 april 2021;Gelet op het advies 
+van de Economische en Sociale Raad voor het Brussels Hoofdstedelijk Gewest, gegeven op 22 april 2021;Gelet 
+op de spoedeisendheid, gemotiveerd door het feit dat de COVID-19-gezondheidscrisis aanzienlijke economische 
+gevolgen heeft voor veel ondernemingen;Dat deze context de omzet van de ondernemingen van de 
+toeristische logies sector sterk vermindert; dat deze vaste kosten moeten blijven dragen en vaak hebben 
+moeten investeren om aan de gezondheidsvoorschriften te voldoen; dat als gevolg daarvan een aanzienlijk 
+deel van deze ondernemingen momenteel in een zeer slechte financiële positie verkeert en, voor sommige, 
+zelfs op de rand van het failliet; dat deze ondernemingen veel personeel in dienst hebben; dat de ineenstorting 
+van deze economische sector negatieve gevolgen zou hebben voor andere verwante sectoren ;Dat 
+het om deze verschillende redenen gepast is om deze ondernemingen onverwijld opnieuw financieel te steunen 
+en hun zo snel mogelijk steun uit te keren; dat de spoedeisendheid gerechtvaardigd is;Gelet 
+op advies 69.250/1 van de Raad van State, gegeven op 22 april 2021, met toepassing van artikel 84, § 
+1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op het advies van de Gegevensbeschermingsautoriteit, gegeven op 30 april 2021;Gelet op de goedkeuring 
+van de Europese Commissie, gegeven op 18 juni 2021;Op voorstel van de Minister-President, bevoegd 
+voor Toerisme, en de Minister van Economie,Na beraadslaging,Besluit :HOOFDSTUK 
+1. - Algemene bepalingenArtikel 1. Voor de toepassing van dit besluit wordt verstaan onder:1° 
+ minister: de minister van de Brusselse Hoofdstedelijke Regering bevoegd voor Economie;2°  
+tijdelijke kaderregeling inzake staatssteun: de mededeling van de Commissie van 19 maart 2020 betreffende 
+de tijdelijke kaderregeling inzake staatssteun ter ondersteuning van de economie vanwege de huidige COVID-19-uitbraak, 
+gewijzigd bij de mededelingen van 3 april 2020, 8 mei 2020, 29 juni 2020, 13 oktober 2020 en 28 januari 
+2021;3°  KBO : de Kruispuntbank van Ondernemingen;4°  BEW: Brussel Economie en Werkgelegenheid 
+van de Gewestelijke Overheidsdienst Brussel.Art. 2. De minister verleent steun aan de ondernemingen 
+van de toeristische logiessector voor het geleden inkomensverlies, in het kader van de gezondheidscrisis 
+COVID-19.De gezondheidscrisis COVID-19 wordt erkend als een buitengewone gebeurtenis, als bedoeld 
+in artikel 28 van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling 
+van ondernemingen.De steun wordt verleend onder de voorwaarden bedoeld in punt 22 van de tijdelijke 
+kaderregeling inzake staatssteun.De in dit besluit vastgestelde steunvoorwaarden zijn van toepassing 
+onverminderd de in de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling 
+van ondernemingen vastgestelde voorwaarden.HOOFDSTUK 2. - SteunvoorwaardenArt. 3. 
+De begunstigde:1°  is ingeschreven in de KBO op 31 december 2020;2°  heeft, op 31 
+december 2020, een vestigingseenheid ingeschreven in de KBO op het grondgebied van het Gewest, oefent 
+er een economische activiteit uit en beschikt er over personele middelen en eigen goederen die specifiek 
+voor hem bestemd zijn;3°  beschikt, in overeenstemming met de ordonnantie van 8 mei 2014 betreffende 
+het toeristisch logies, op de dag van de inwerkingtreding van dit besluit over een actief, niet-geschorst 
+registratienummer voor de vestigingseenheden waarvoor de steun wordt aangevraagd ;4°  geniet 
+de btw-vrijstellingsregeling voor kleine ondernemingen bedoeld in artikel 56bis van het Btw-Wetboek niet;5° 
+ leeft zijn verplichtingen inzake de bekendmaking van zijn jaarrekeningen bij de Nationale Bank van België 
+na;6°  heeft, op het moment van de steunaanvraag, geen sociale en fiscale schulden, tenzij 
+zij het voorwerp uitmaken van een afbetalingsplan overeengekomen met de bevoegde autoriteiten dat wordt 
+nageleefd, of van een geschil bij de bevoegde beroepsinstantie;7°  verkeerde niet in moeilijkheden 
+op 31 december 2019, in de zin van punt 22, c en c bis, van de tijdelijke kaderregeling inzake staatssteun;8° 
+ heeft, in de hoedanigheid van onderneming, tot dusver onder punt 22 van de tijdelijke kaderregeling 
+inzake staatssteun, inclusief de premie bedoeld in dit besluit, niet meer dan 1.800.000 euro ontvangen.Art. 
+4. De begunstigde heeft in 2019 een omzet verwezenlijkt die hoger is dan de bedragen opgenomen in de 
+volgende tabel, berekend in functie van het aantal actieve vestigingseenheden in het Gewest waarvan de 
+begindatum in de KBO 1 januari 2020 voorafgaat:  Nombre 
+d'unités d'établissement Chiffre d'affaires 2019 Aantal vestigingseenheden Omzet 2019 1 
+25.000 euros 1 25.000 euro 2 35.000 euros 2 35.000 euro 3 
+45.000 euros 3 45.000 euro 4 55.000 euros 4 55.000 euro 5 
+et plus 65.000 euros 5 en meer 65.000 euro  De omzet bedoeld 
+in het eerste lid wordt bepaald volgens de methode en aan de hand van de bewijsstukken voorzien in artikel 
+5.Het eerste lid is niet van toepassing op de begunstigden ingeschreven in de KBO vanaf 1 januari 
+2019.Art. 5.  § 1. Indien de begunstigde een vennootschap is, voldoet hij minstens aan 
+één van de drie volgende voorwaarden inzake financiële gezondheid:1°  het eigen vermogen, opgenomen 
+in de boekhoudkundige code 10/15 vermeerderd met de code 101, is groter dan de helft van het geplaatst 
+kapitaal, code 100, plus de uitgiftepremies, code 11, tenzij de begunstigde tussen het einde van het 
+betrokken boekjaar en de dag van de steunaanvraag zijn eigen vermogen heeft wedersamengesteld zodat het 
+groter is dan de helft van het geplaatst kapitaal, plus de uitgiftepremies;2°  de omzet, code 
+70, van 2019 is groter dan die van 2018;3°  het resultaat van de winst van het boekjaar voor 
+belasting, code 9903, is positief.Indien de begunstigde een vereniging is, voldoet hij aan 
+minstens één van de twee volgende voorwaarden inzake financiële gezondheid:1°  de omzet, code 
+70, van 2019 is groter dan die van 2018;2°  het resultaat uit de gewone bedrijfsuitoefening, 
+code 9902, of het resultaat van de winst van het boekjaar voor belasting, code 9903, is positief.De 
+voorwaarden voorzien in het eerste en tweede lid worden bepaald aan de hand van de jaarrekeningen die 
+werden afgesloten op 31 december 2019 of een eerdere datum in 2019.Indien de begunstigde, overeenkomstig 
+de toepasselijke regelgeving, geen jaarrekeningen heeft afgesloten in 2018, is de voorwaarde voorzien 
+in het eerste lid, 2°,  of het tweede lid, 1°,  niet van toepassing. In dat geval voldoet hij aan minstens 
+één van de overblijvende voorwaarden voorzien.Indien de afgesloten jaarrekeningen onvoldoende 
+gegevens bevatten om de naleving van de voorwaarden voorzien in het eerste en tweede lid na te gaan, 
+worden de ontbrekende gegevens bepaald aan de hand van een getuigschrift van een gecertificeerd accountant. 
+§ 2. Indien de begunstigde een onderneming natuurlijk persoon is, voldoet hij aan minstens één 
+van de twee volgende voorwaarden inzake financiële gezondheid:1°  de omzet van 2019 is groter 
+dan die van 2018;2°  het resultaat van de exploitatie voor belastingen in 2019 is positief.De 
+voorwaarden voorzien in het eerste lid worden bepaald aan de hand van een getuigschrift van een gecertificeerd 
+accountant met betrekking tot 2018 en 2019, gestaafd door de relevante fragmenten van deel 2 van de aangifte 
+en het aanslagbiljet van de personenbelasting voor het aanslagjaar 2020 (inkomsten 2019).Indien 
+de begunstigde geen omzet uit een toeristische logiesactiviteit heeft verwezenlijkt in 2018, voldoet 
+hij aan de voorwaarde voorzien in het eerste lid, 2°.  § 3. De paragrafen 1 en 2 zijn 
+niet van toepassing op de begunstigden die sinds minder dan drie jaar in de KBO ingeschreven zijn op 
+de datum van de inwerkingtreding van dit besluit.Art. 6. Enkel de gegevens ingeschreven in 
+de KBO op de datum van de steunaanvraag gelden.HOOFDSTUK 3. - Vorm en omvang van de steunArt. 
+7. De steun bestaat uit een premie per actieve vestigingseenheid in het Gewest geregistreerd overeenkomstig 
+artikel 3, 3°,  waarvan de begindatum in de KBO 1 januari 2021 voorafgaat, van:1°  12.500 euro, 
+indien het aantal voltijdsequivalenten minder dan 5 bedraagt;2°  37.500 euro, indien het aantal 
+voltijdsequivalenten 5 of meer en minder dan 10 bedraagt;3°  62.500 euro, indien het aantal 
+voltijdsequivalenten 10 of meer bedraagt.De premie wordt toegekend voor een maximum van vijf 
+vestigingseenheden per begunstigde.Art. 8. Het aantal voltijdsequivalenten bedoeld in artikel 
+7, eerste lid, wordt bepaald op basis van het gemiddeld aantal werknemers totaal in voltijdse equivalenten 
+opgenomen in de sociale balans van de begunstigde afgesloten op 31 december 2019 of een eerdere datum 
+in 2019, neergelegd en bekendgemaakt bij de Nationale Bank van België, overeenkomstig de wettelijke verplichtingen, 
+ten laatste op de dag van de dag van de inwerkingtreding van dit besluit.Voor de begunstigden 
+die niet verplicht zijn hun sociale balans neer te leggen en bekend te maken of waarvan de neerleggings- 
+en bekendmakingstermijn nog niet verstreken is, wordt het aantal voltijdsequivalenten bepaald op basis 
+van een getuigschrift afgeleverd door een sociaal secretariaat dat het gemiddeld aantal werknemers in 
+voltijdse equivalenten voor het jaar 2019 herneemt.HOOFDSTUK 4. - Procedure voor de behandeling 
+van de steunaanvraagdossiers en de vereffening van de steunArt. 9. De begunstigde dient de 
+steunaanvraag in bij BEW door middel van een formulier dat BEW ter beschikking stelt op zijn website 
+aan de ondernemingen die voldoen aan de voorwaarden bepaald in artikel 3, 1°  tot 3°,  van dit besluit 
+en die zich niet in een van de situaties bedoeld in artikel 41, eerste lid, 3°,  van de ordonnantie van 
+3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen bevinden. Het formulier 
+bepaalt de bewijsstukken die de begunstigde bij zijn aanvraag voegt.BEW ontvangt de steunaanvraag 
+ten laatste op 28 juli 2021.De begunstigde vermeldt in zijn aanvraag alle steun die hij onder 
+punt 22 van de tijdelijke kaderregeling inzake staatssteun heeft ontvangen.BEW kan per e-mail 
+alle documenten of informatie opvragen die noodzakelijk is voor het onderzoek van de aanvraag. De begunstigde 
+verstrekt de aanvullende documenten en informatie binnen de tien dagen. Indien binnen deze termijn geen 
+antwoord wordt ontvangen, wordt de aanvraag geweigerd.Art. 10. De toekenningsbeslissing wordt 
+ten laatste op 30 september 2021 aan de begunstigde betekend.BEW deelt de begunstigde mee dat 
+de steun overeenkomstig de tijdelijke kaderregeling inzake staatssteun wordt verleend.Art. 
+11. De steun wordt in één enkele schijf vereffend op een Belgische zichtrekening op naam van de begunstigde.Art. 
+12. BEW maakt binnen de twaalf maanden na de toekenning ervan de nodige informatie over elke steun van 
+meer dan 100.000 euro toegekend op grond van dit besluit bekend op de uitgebreide staatssteunwebsite 
+of via het IT-instrument van de Europese Commissie.De nodige informatie is die bedoeld in bijlage 
+III bij de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën 
+steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.BEW 
+bewaart gedurende een periode van tien jaar na de toekenning van de steun alle informatie die nodig is 
+om te kunnen nagaan of aan de vastgestelde voorwaarden is voldaan. BEW verstrekt deze informatie aan 
+de Europese Commissie indien zij daarom verzoekt.Art. 13.  § 1. Het onderzoek, het beheer 
+en de controle van de aanvragen, het beheer van de toegang tot het aanvraagformulier en de bekendmaking 
+van de gegevens bedoeld in artikel 12 kunnen de verwerking van de volgende categorieën van persoonsgegevens 
+betreffen:1°  de identificatie- en contactgegevens van de personen die namens de begunstigden 
+de aanvraag indienen;2°  de identificatie-, adres-, contact- en belastinggegevens van de zelfstandige 
+ondernemingen natuurlijk persoon die de premie aanvragen;3°  de gegevens die noodzakelijk zijn 
+om de naleving van de voorwaarden bedoeld in de artikelen 3, 4 en 5 na te gaan;4°  de gegevens 
+die noodzakelijk zijn voor het beheer van de toegang tot het steunaanvraagformulier;5°  de 
+gegevens die noodzakelijk zijn voor de bepaling van het premiebedrag;6°  de gegevens die noodzakelijk 
+zijn voor de bekendmaking van gegevens in uitvoering van artikel 12. § 2. BEW is de 
+verantwoordelijke voor de verwerkingen van persoonsgegevens bedoeld in § 1.BEW kan de 
+persoonsgegevens, en andere gegevens, bekomen van de aanvrager of van een andere overheidsinstantie, 
+waaronder de FOD Economie, de Nationale Bank van België en de FOD Financiën. § 3. Onverminderd 
+artikel 12 bedraagt de maximale bewaringstermijn voor persoonsgegevens die op grond van dit artikel worden 
+verwerkt, tien jaar vanaf de dag van de vereffening van de steun, behalve voor persoonsgegevens die eventueel 
+nodig zouden zijn voor de behandeling van geschillen met de steunaanvrager, die worden bewaard gedurende 
+de tijd die nodig is om dergelijke geschillen te behandelen.HOOFDSTUK 5. - SlotbepalingenArt. 
+14. Dit besluit treedt in werking op 24 juni 2021.Art. 15. De minister is belast met de uitvoering 
+van dit besluit.Brussel, 21 juni 2021.Voor de Brusselse Hoofdstedelijke Regering:De 
+Minister-President van de Brusselse Hoofdstedelijke Regering, bevoegd voor Toerisme,R. VERVOORTDe 
+Minister van de Brusselse Hoofdstedelijke Regeringbevoegd voor Economie,A. MARON  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021042430
+

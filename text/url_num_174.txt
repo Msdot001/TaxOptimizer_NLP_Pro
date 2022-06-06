@@ -1,0 +1,92 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020041861/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-24Numac : 2020041861
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 18 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap betreffende de door de School voor openbaar bestuur per teleconferentie georganiseerde vergaderingen in het kader van de gezondheidscrisis COVID-19 
+De Regering van de Franse Gemeenschap,Gelet op het decreet van 17 maart 
+2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis COVID-19, 
+artikel 1, § 1, g) ;Gelet op het decreet van 20 december 2011 van de Franse Gemeenschap 
+tot goedkeuring van het samenwerkingsakkoord van 10 november 2011 tussen de Franse Gemeenschap en het 
+Waals Gewest tot oprichting van een gemeenschappelijke School voor openbaar bestuur voor de Franse Gemeenschap 
+en het Waals Gewest;Gelet op het besluit van de Regering van de Franse Gemeenschap van 19 april 
+2012 betreffende de reiskostenvergoedingen en de presentiegelden voor de voorzitters en leden van de 
+Raad van Bestuur en het Wetenschappelijk College van de School voor openbaar bestuur die de Franse Gemeenschap 
+en het Waals Gewest gemeen hebben ;Overwegende dat de maatregelen die zijn genomen om de verspreiding 
+van het virus in de bevolking te beperken, de goede werking van de organen van de School voor openbaar 
+bestuur kunnen beïnvloeden;Overwegende dat ten gevolge van de inperkingsmaatregelen die in 
+het kader van de strijd tegen COVID-19 zijn genomen, de organen van de School voor openbaar bestuur ertoe 
+gebracht worden bijeen te komen en beslissingen te nemen volgens methoden die het mogelijk maken fysiek 
+contact tussen personen te vermijden;Overwegende dat dergelijke werkwijzen niet uitdrukkelijk 
+zijn voorzien in de regels die zijn vastgesteld in het bovengenoemde samenwerkingsakkoord van 10 november 
+2011 en in het huishoudelijk reglement;Overwegende dat deze toestand tot rechtsonzekerheid 
+kan leiden en beslissingen of adviezen die via een teleconferentie worden aangenomen, kan ondermijnen;Overwegende 
+dat een teleconferentie een vergadering is die wordt bijgewoond door meerdere personen op afgelegen locaties, 
+die met elkaar verbonden zijn door een of meer telecommunicatiemiddelen, zoals een telefoonconferentie, 
+videoconferentie en online conferentie;Overwegende de noodzaak om een beslissing vast te stellen 
+die de validatie mogelijk maakt van vergaderingen die per teleconferentie worden gehouden en van beslissingen 
+die daarin sinds 18 maart 2020 zijn genomen;Overwegende dat de Waalse Regering bij besluit 
+nr. 25 van 27 april 2020 van bijzondere machten betreffende de vergaderingen van de Waalse overheidsorganen, 
+de toekenning van zitpenningen voor de vergaderingen van de organen van deze organen heeft gehandhaafd 
+in geval van deelname aan vergaderingen via teleconferentie; dat deze beschikking van toepassing is op 
+de School voor openbaar bestuur;Op de voordracht van de Minister van Ambtenarenzaken;Na 
+beraadslaging,Besluit : Artikel 1. Elektronische raadpleging van documenten is toegestaan 
+en de vergaderingen en de stemming en alle besluitvorming binnen de besluitvormings- en adviesorganen 
+van de School voor openbaar bestuur kunnen per teleconferentie plaatsvinden.Art. 2. Bij gebreke 
+van andersluidende bepalingen in een decreet, een besluit, een huishoudelijk reglement of in het samenwerkingsakkoord 
+van de School voor openbaar bestuur:1°  neemt de persoon die belast is met de bijeenroeping 
+de beslissing om een vergadering per teleconferentie te organiseren;2°  zorgt de persoon die 
+de vergadering voorzit, er op het meest geschikte moment voor dat een quorum aanwezig is om een geldige 
+beslissing te nemen;3°  wordt de toekenning van presentiegeld zoals voorzien voor vergaderingen 
+van de organen van de School voor openbaar bestuur gehandhaafd in geval van deelname aan vergaderingen 
+die per teleconferentie worden gehouden.Art. 3. Dit decreet besluit heeft uitwerking met ingang 
+van 18 maart 2020 en houdt op van kracht te zijn op 31 december 2020.Brussel, 18 juni 2020.Voor 
+de Regering:De Minister-President,P.-Y. JEHOLETDe Minister van Begroting, 
+Ambtenarenzaken, Gelijke Kansen en het Toezicht op WBE,Fr. DAERDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-24Numac : 2020041861
+

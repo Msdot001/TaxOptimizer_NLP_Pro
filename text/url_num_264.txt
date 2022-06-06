@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-31Numac : 2020042411
+MINISTERIE VAN LANDSVERDEDIGING 
+ 27 JUNI 2020. - Koninklijk besluit nr. 42 tot instelling van een coronaverlof voor ouderschapsbescherming voor de militairen in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19. - Erratum 
+In het Belgisch Staatsblad nr. 193 van 3 juli 2020, bladzijde 49164, in het artikel 
+8, § 2, van de Nederlandstalige tekst, dient men "eerste lid tot vierde lid" te vervangen door 
+"vierde lid tot zesde lid".   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-31Numac : 2020042411
+

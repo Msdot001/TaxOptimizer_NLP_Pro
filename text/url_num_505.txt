@@ -1,0 +1,110 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/03/29/2021020803/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-19Numac : 2021020803
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 29 MAART 2021. - Koninklijk besluit houdende tweede verdeling van het provisioneel krediet ingeschreven in het programma 06-90-1 van de wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2021 en bestemd tot het dekken van de uitgaven betreffende de versterking van de genomen maatregelen alsook de nieuwe initiatieven inzake de strijd tegen het COVID-19 
+FILIP, Koning 
+der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de 
+wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2021, artikel 
+2.06.2; Gelet op het advies van de Inspecteur van Financiën, gegeven op 24 maart 2021;Overwegende 
+dat op het programma 06-90-1 van de wet van 22 december 2020 houdende de algemene uitgavenbegroting voor 
+het begrotingsjaar 2021 een provisioneel vastleggingskrediet en een provisioneel vereffeningskrediet 
+van 906.850.000 euro is ingeschreven, bestemd tot het dekken van de uitgaven betreffende de versterking 
+van de genomen maatregelen alsook de nieuwe initiatieven inzake de strijd tegen het COVID-19 virus;Overwegende 
+dat op de secties 13 - FOD Binnenlandse Zaken; 18 - FOD Financiën en 25 - FOD Volksgezondheid, Veiligheid 
+van de Voedselketen en Leefmilieu van de wet van 22 december 2020 houdende de algemene uitgavenbegroting 
+voor het begrotingsjaar 2021 geen enkel krediet is uitgetrokken om de uitgaven te dekken in verband met 
+de strijd tegen het Coronavirus COVID-19;Op de voordracht van de Staatssecretaris voor Begroting,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. Een vastleggingskrediet van 26.955.011 euro en een 
+vereffeningskrediet van 472.027.610 euro worden afgenomen van het provisioneel krediet, ingeschreven 
+op het programma 06-90-1 (basisallocatie 90.10.01.00.05) van de wet van 22 december 2020 houdende de 
+algemene uitgavenbegroting voor het begrotingsjaar 2021, en wordt verdeeld overeenkomstig de bijgevoegde 
+tabel.De in deze tabel vermelde bedragen worden gevoegd bij de kredieten die onder de betrokken 
+programma's en basisallocaties zijn uitgetrokken voor het begrotingsjaar 2021.Art. 2.  Dit 
+besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Art. 
+3.  De Staatssecretaris bevoegd voor Begroting is belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 29 maart 2021. FILIPVan Koningswege :De Staatssecretaris voor 
+Begroting,E. DE BLEEKER BIJLAGE 
+Articles légaux -Wettelijke artikels 
+Activités-Activiteiten   Allocations 
+de baseBasisallocaties Crédits d'engagement (en euros)Vastleggings- 
+kredieten (in euro) Crédits de liquidation (en euros)Vereffenings-kredieten 
+(in euro) DépartementsDepartementen DivisionsAfdelingen ProgrammesProgramma's 
+Section 13 : SPF Intérieur - Sectie 13 : FOD Binnenlandse 
+Zaken 13 40 7 0 12.11.01 170.000 170.000 13 
+50 0 2 12.11.01 274.300 274.300 13 50 0 2 74.22.01 
+16.000 16.000 13 50 0 2 74.22.04 
+ 
+ 134.300 
+ 
+ 
+ 
+ Total 
+- Totaal 460.300 594.600 Section 18 : SPF Finances 
+- Sectie 18 : FOD Financiën 18 61 0 2 12.11.12 300.000 300.000 
+
+ 
+ 
+ 
+ Total - Totaal 300.000 300.000 Section 25 : SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement 
+Sectie 25 : FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu 25 21 
+2 2 12.11.04 80.000 427.750 25 52 2 3 12.11.13 
+
+ 
+ 911.654 25 52 2 3 12.11.02 26.114.711 469.793.606 
+ 
+ 
+ 
+ Total 
+- Totaal 26.194.711 471.133.010 TOTAL - TOTAAL 26.955.011 
+472.027.610   Gezien om te worden gevoegd bij Ons besluit van 29 maart 
+2021.FILIPVan Koningswege :De Staatssecretaris voor Begroting,E. 
+DE BLEEKER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-19Numac : 2021020803
+

@@ -1,0 +1,137 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/03/10/2022020550/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020550
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 10 MAART 2022. - Ministerieel besluit houdende de opheffing van het ministerieel besluit van 13 maart 2020 houdende de afkondiging van de federale fase betreffende de coördinatie en het beheer van de crisis coronavirus COVID-19. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van 
+het ministerieel besluit van 10 maart 2022 houdende de opheffing van het ministerieel besluit van 13 
+maart 2020 houdende de afkondiging van de federale fase betreffende de coördinatie en het beheer van 
+de crisis coronavirus COVID-19 (Belgisch Staatsblad van 11 maart 2022).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST INNERES10. MÄRZ 2022 - Ministerieller Erlass zur Aufhebung des Ministeriellen Erlasses 
+vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements 
+in Bezug auf das Coronavirus COVID-19Die Ministerin des Innern,Aufgrund des Königlichen 
+Erlasses vom 31. Januar 2003 zur Festlegung des Noteinsatzplans für Krisenereignisse und Krisensituationen, 
+die eine Koordination oder eine Bewältigung auf nationaler Ebene erfordern;Aufgrund des Königlichen 
+Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler 
+und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen 
+und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern, 
+des Artikels 37;Aufgrund des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der föderalen 
+Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus COVID-19;Aufgrund 
+der Konzertierung vom 4. März 2022 mit den betreffenden Provinzgouverneuren, um gemäß Artikel 37 
+Absatz 2 des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von 
+Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern, die Kontinuität und Kohärenz der ergriffenen Maßnahmen zu gewährleisten;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 8. März 2022;Aufgrund des Einverständnisses des 
+Staatssekretärs für Haushalt vom 9. März 2022;Aufgrund der am 9. März 2022 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;In der Erwägung, dass vorliegender Erlass nicht 
+den erforderlichen Verordnungscharakter im Sinne von Artikel 3 § 1 der koordinierten Gesetze über 
+den Staatsrat hat; dass vorliegender Erlass daher der Gesetzgebungsabteilung nicht zur Begutachtung vorgelegt 
+werden muss;In Erwägung des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen 
+in einer epidemischen Notsituation, insbesondere des Artikels 3 § 4;In Erwägung des 
+Gesetzes vom 10. November 2021 zur Bestätigung des Königlichen Erlasses vom 28. Oktober 2021 zur Ausrufung 
+der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;In Erwägung 
+des Gesetzes vom 11. Februar 2022 zur Bestätigung des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung 
+der Aufrechterhaltung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;In 
+Erwägung des Gesetzes vom 11. März 2022 zur Aufhebung der Aufrechterhaltung der epidemischen Notsituation 
+in Bezug auf die Pandemie des Coronavirus COVID-19;In Erwägung des Königlichen Erlasses vom 
+28. Oktober 2021 zur Ausrufung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus 
+COVID-19;In Erwägung des Königlichen Erlasses vom 28. Oktober 2021 über die verwaltungspolizeilichen 
+Maßnahmen, die erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug 
+auf die Pandemie des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken;In 
+Erwägung des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung der Aufrechterhaltung der epidemischen 
+Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;In der Erwägung, dass die Weltgesundheitsorganisation 
+(WHO) am 30. Januar 2020 eine gesundheitliche Notlage internationaler Tragweite (GNIT) ausgerufen hat;In 
+Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere 
+hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 
+von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, 
+dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen 
+hatte;In der Erwägung, dass sich die negativen Folgen der Pandemie des Coronavirus COVID-19 
+in Belgien auf mehrere Provinzen erstreckt haben; dass es im allgemeinen Interesse lag, dass die ergriffenen 
+Maßnahmen kohärent waren;In der Erwägung, dass Maßnahmen auf nationaler Ebene zum 
+Schutz der Bevölkerung und zur Verringerung des Drucks auf das Gesundheitspflegesystem, einschließlich 
+der Primärpflege, erforderlich waren;In der Erwägung, dass die Bedingungen für die Auslösung 
+einer föderalen Phase somit erfüllt waren; dass diese Phase für die Dauer der Gesundheitskrise aufrechterhalten 
+werden musste;In der Erwägung, dass aus der Stellungnahme der RAG vom 28. Februar 2022 und 
+der Stellungnahme des COVID-19-Kommissariats vom 28. Februar 2022 hervorgeht, dass nicht mehr alle in 
+Artikel 2 Nr. 3 des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer 
+epidemischen Notsituation enthaltenen Bedingungen für eine epidemische Notsituation erfüllt sind; dass 
+diese Stellungnahme am 3. März 2022 vom föderalen Minister der Volksgesundheit bestätigt wurde;In 
+der Erwägung, dass der Konzertierungsausschuss vom 4. März 2022 zur Kenntnis genommen hat, dass die epidemische 
+Notsituation aufgehoben werden muss;In der Erwägung, dass die Ausrufung einer epidemischen 
+Notsituation ebenfalls die Auslösung (oder Aufrechterhaltung) einer föderalen Phase erfordert, und zwar 
+so lange, wie die epidemische Notsituation anhält oder aufrechterhalten wird; dass im Gegensatz dazu 
+der Wegfall der epidemischen Notsituation nicht unbedingt die sofortige Aufhebung der föderalen Phase 
+bedeutet; dass, wenn die Bedingungen für die epidemische Notsituation nicht mehr erfüllt sind und diese 
+aufgehoben wird, es daher angebracht ist zu beurteilen, ob auch die föderale Phase aufgehoben werden 
+muss;In der Erwägung, dass die günstige Entwicklung der Gesundheitslage, wie im Bericht der 
+RAG vom 2. März 2022 beschrieben, den Schluss zulässt, dass die Situation nicht mehr so schwerwiegend 
+ist, dass sie der Aufrechterhaltung einer föderalen Phase bedarf, und dass sie nicht weiterhin als Krisensituation 
+bezeichnet werden kann, die ein Management auf nationaler Ebene erfordert, sowohl was die Koordinierung 
+als auch was die Mittel betrifft; dass der Konzertierungsausschuss vom 4. März 2022 zur Kenntnis genommen 
+hat, dass die föderale Phase des nationalen Noteinsatzplans ebenfalls aufgehoben werden muss;In 
+der Erwägung, dass angesichts des Vorhergehenden die Dringlichkeit und die von dieser Krise ausgehende 
+Gesundheitsgefahr auf nationaler Ebene nunmehr begrenzter sind; dass der für Inneres zuständige Minister 
+eine föderale Phase aufheben muss, wenn die Notsituation nicht länger ein Management auf seiner Ebene 
+erfordert;In der Erwägung, dass sich aus all dem ableiten lässt, dass eine Koordinierung dieser 
+Krise auf nationaler Ebene nicht mehr erforderlich ist; dass dennoch jede Behörde den Kampf gegen das 
+Coronavirus COVID-19 im Rahmen ihrer eigenen Zuständigkeiten fortsetzen muss;In der Erwägung, 
+dass die Föderalbehörde im Rahmen des Zeitraums der Wiederherstellung, der nach Ablauf der föderalen 
+Phase beginnt, in Absprache mit den anderen zuständigen Behörden und Diensten weiterhin Beschlüsse fasst, 
+die in ihre Zuständigkeit fallen; dass sie dafür Sorge trägt, dass eine Übertragung und Überwachung der 
+Maßnahmen erfolgt, die nicht mehr in ihre Zuständigkeit fallen, und dass die dafür erforderlichen 
+Zusammenarbeitsstrukturen eingerichtet werden; dass die betreffenden Gouverneure und Bürgermeister die 
+Umsetzung der von der Föderalbehörde beschlossenen Wiederherstellungsstrategie gewährleisten,Erlässt:Artikel 
+1 - Der Ministerielle Erlass vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung 
+und des Krisenmanagements in Bezug auf das Coronavirus COVID-19 wird aufgehoben.Art. 2 - Vorliegender 
+Erlass tritt am 11. März 2022 in Kraft.Brüssel, den 10. März 2022Die Ministerin des 
+InnernA. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020550
+

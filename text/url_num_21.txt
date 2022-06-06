@@ -1,0 +1,58 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/02/11/2020040437/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-03-06Numac : 2020040437
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN
+ 11 FEBRUARI 2019. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde met betrekking tot de behandeling van vouchers en de bijzondere regelingen voor telecommunicatiediensten, radio- en televisieomroepdiensten of elektronische diensten verricht voor niet-belastingplichtigen. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 11 februari 
+2019 tot wijziging van het Wetboek van de belasting over de toegevoegde waarde met betrekking tot de 
+behandeling van vouchers en de bijzondere regelingen voor telecommunicatiediensten, radio- en televisieomroepdiensten 
+of elektronische diensten verricht voor niet-belastingplichtigen (Belgisch Staatsblad van 22 februari 
+2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-03-06Numac : 2020040437
+

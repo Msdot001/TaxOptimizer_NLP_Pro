@@ -1,0 +1,70 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/07/03/2020015511/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-21Numac : 2020015511
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 3 JULI 2020. - Wet met het oog op de tenlasteneming van de kosten van het dringend ziekenvervoer van de COVID-19-patiënten. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van 
+de wet van 3 juli 2020 met het oog op de tenlasteneming van de kosten van het dringend ziekenvervoer 
+van de COVID-19-patiënten (Belgisch Staatsblad van 30 juli 2020).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST VOLKSGESUNDHEIT, SICHERHEIT DER NAHRUNGSMITTELKETTE UND UMWELT3. JULI 2020 - Gesetz 
+zur Übernahme der Kosten für den dringenden Krankentransport von COVID-19-PatientenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt 
+eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - In Artikel 101 des am 10. 
+Juli 2008 koordinierten Gesetzes über die Krankenhäuser und andere Pflegeeinrichtungen, zuletzt abgeändert 
+durch den Königlichen Erlass vom 19. April 2020, wird ein Absatz mit folgendem Wortlaut hinzugefügt:"Patienten 
+oder Opfern einer Pandemie oder einer Katastrophe dürfen keine Kosten für dringende Transporte in Rechnung 
+gestellt werden.".Art. 3 - Vorliegendes Gesetz wird wirksam mit 1. März 2020.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 3. Juli 2020PHILIPPEVon 
+Königs wegen:Die Ministerin der Sozialen Angelegenheiten und der VolksgesundheitM. 
+DE BLOCKMit dem Staatssiegel versehen:Der Minister der JustizK. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-21Numac : 2020015511
+

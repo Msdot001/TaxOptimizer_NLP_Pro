@@ -1,0 +1,95 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021031375
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 19 APRIL 2021. - Koninklijk besluit tot vaststelling en uitkering van het bedrag van een eenmalige aanmoedigingspremie ter compensatie voor de extra inspanningen tijdens de 2de golf van de COVID-19-pandemie voor de zelfstandige zorgverleners in de thuisverpleging of voor de loontrekkenden in de medische huizen. - Erratum 
+In het Belgisch Staatsblad van 26 april 2021, dient men op bladzijde 37946 te lezen:Artikel 
+1. Aan de zorgverleners die op zelfstandige basis prestaties verlenen zoals voorzien in artikel 8 van 
+het koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige 
+verstrekkingen inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen (hierna: `de 
+nomenclatuur') of aan de zelfstandige verpleegkundigen die verstrekkingen inzake diabeteseducatie verlenen 
+zoals bedoeld in het koninklijk besluit van 10 januari 1991 tot vaststelling van de nomenclatuur van 
+de revalidatieverstrekkingen bedoeld in artikel 23, § 2, tweede lid van de wet betreffende de 
+verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994, tot 
+vaststelling van de honoraria en prijzen van die verstrekkingen en tot vaststelling van het bedrag van 
+de verzekeringstegemoetkoming in die honoraria en prijzen (hierna: `de revalidatienomenclatuur in het 
+kader van diabeteseducatie'), wordt door het Rijksinstituut voor ziekte- en invaliditeitsverzekering 
+(RIZIV) een eenmalige aanmoedigingspremie gestort onder de volgende voorwaarden:a) de eenmalige 
+aanmoedigingspremie bedraagt maximum 985 euro.b) de verschuldigde premie wordt bepaald op basis 
+van het aantal patiëntcontacten. Het aantal patiëntcontacten wordt berekend door het aantal patiënten 
+te vermenigvuldigen met het aantal dagen dat er minstens één contact geweest is met deze patiënten door 
+de desbetreffende zorgverlener, en waarbij tijdens het contact ofwel een verstrekking werd aangerekend 
+uit artikel 8 van de nomenclatuur ofwel een verstrekking uit de revalidatienomenclatuur in het kader 
+van diabeteseducatie (794253, 794334, 794415, 794430, 794452 en 794312). Dit aantal wordt bepaald op 
+basis van de verstrekkingen die in de periode van 1 september 2020 tot 30 november 2020 zijn verricht 
+en die uiterlijk op 31 januari 2021 werden ten laste gelegd en aanvaard bij de verzekeringsinstellingen.Deze 
+berekening wordt gemaakt door het Nationaal Intermutualistisch College in hoofde van de persoon die als 
+verstrekker is aangeduid op het getuigschrift of in de elektronische facturatiegegevens en dus niet in 
+hoofde van de persoon die dit heeft ingediend of die daarvoor de betaling heeft ontvangen. Het resultaat 
+daarvan wordt in de loop van de maand april 2021 ter beschikking gesteld aan het Riziv.c) de 
+maximale premie van 985 euro is verschuldigd van zodra in de periode van 1 september tot 30 november 
+2020 een activiteitsniveau wordt bereikt van minstens 739 patiëntcontacten. In de gevallen waarbij het 
+niveau onder de 739 ligt wordt de premie proportioneel berekend. d) voor de zelfstandige zorgverleners 
+die deze verstrekkingen hebben gerealiseerd onder zowel het statuut van zelfstandige als van loontrekkende, 
+wordt de contractuele arbeidsduur als loontrekkende in de periode van 1 september tot 30 november 2020 
+in mindering gebracht van het voltijdsequivalent dat wordt bepaald op basis van het aantal patiëntcontacten, 
+waarbij 739 patiëntcontacten overeenstemt met 1 voltijdsequivalent. Indien dit resultaat positief is 
+wordt op basis daarvan de verschuldigde tegemoetkoming bepaald (proportioneel t.a.v. 985 euro voor 1 
+VTE). De informatie omtrent het statuut van zelfstandige wordt door het Rijksinstituut voor de sociale 
+verzekeringen der zelfstandigen (RSVZ) meegedeeld aan het Riziv in de lijst van betrokken zorgverleners 
+dat het Riziv haar heeft voorgelegd. Het voltijdsequivalent als loontrekkende wordt aan het Riziv meegedeeld 
+door het Fonds Sociale Maribel van de gezondheidsinrichtingen en -diensten van het paritair comité 330 
+- Kamer 3 Thuisverpleging en door het Fonds Sociale Maribel van de overheidssector, en dit volgens de 
+informatie waarover ze beschikken op 31 maart 2021.e) om voor de financiële tussenkomst in 
+aanmerking te komen dienen de betrokken zelfstandige zorgverleners te beschikken over een RIZIV-nummer 
+en dienen deze op straffe van verval uiterlijk op de 20ste dag na de dag van publicatie 
+van dit besluit een rekeningnummer geregistreerd te hebben in de daartoe voorziene webtoepassing van 
+het RIZIV.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021031375
+

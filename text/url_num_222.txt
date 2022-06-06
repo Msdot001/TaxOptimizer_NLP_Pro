@@ -1,0 +1,425 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/26/2020202903/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-08Numac : 2020202903
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID 
+ 26 JUNI 2020. - Koninklijk besluit nr. 39 tot wijziging van het koninklijk besluit van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling en tot vaststelling van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze ziekten moet voldoen wegens COVID-19 
+VERSLAG AAN DE KONINGSire,Het koninklijk 
+besluit waarvan wij de eer hebben aan uwe Majesteit ter ondertekening voor te leggen, heeft als doel, 
+op basis van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in 
+de strijd tegen de verspreiding van het coronavirus COVID-19 (II), dringende maatregelen te nemen voor 
+de werknemers in bedrijven van de cruciale sectoren en de essentiële diensten die hun beroepsactiviteiten 
+hebben voortgezet zonder zich te kunnen houden aan de regels van social distancing of zonder te kunnen 
+telewerken in de periode van 18 maart 2020 tot en met 17 mei 2020.De toename van sociale contacten 
+verhoogt het risico op besmetting, gezien de wijze van overbrenging van het virus. Daarom heeft de regering 
+gekozen voor een lockdown van de bevolking en een aantal daarmee samenhangende maatregelen, zoals de 
+sluiting van arbeidsplaatsen waar de regels van social distancing niet kunnen worden nageleefd, de sluiting 
+van bepaalde handelszaken, maximaal gebruik van telewerk of het verbod op bepaalde evenementen. Deze 
+maatregelen hebben tot doel de sociale interacties te verminderen om het risico op besmetting zoveel 
+mogelijk te beperken.Telewerk en social distancing zijn evenwel niet in alle sectoren mogelijk. 
+Dit is met name het geval in bedrijven van de cruciale sectoren en de essentiële diensten, waar de voortzetting 
+van de activiteiten werd toegestaan, ondanks het verhoogde risico op besmetting wegens voortzetting van 
+deze activiteiten. Deze bedrijven zijn opgenomen in een bijlage bij het ministerieel besluit van 23 maart 
+2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. Het 
+ministerieel besluit en de bijlage werden regelmatig aangepast aan de beslissingen van de Nationale Veiligheidsraad 
+met betrekking tot de sectoren die hun activiteiten mogen voortzetten of hervatten. Werknemers 
+die in bedrijven van de cruciale sectoren en de essentiële diensten zijn blijven werken zonder zich te 
+kunnen houden aan de regels van social distancing, liepen dus een groter risico op COVID-19.De 
+huidige wetgeving inzake beroepsziekten staat echter niet toe om alle werknemers te dekken in geval van 
+besmetting met COVID-19. Enkel personeel dat zich bezighoudt met preventie, zorg, thuiszorg of laboratoriumwerk 
+en andere beroepsactiviteiten in verzorgingsinstellingen waar een verhoogd infectierisico bestaat, kunnen 
+erkend worden als lijdend aan een beroepsziekte (onder de code 1.404.03).De Minister van Sociale 
+Zaken heeft het Beheerscomité voor de beroepsziekten van Fedris dan ook gevraagd na te gaan of de lijst 
+van de personen die in aanmerking kunnen komen voor schadeloosstelling wegens beroepsziekte na blootstelling 
+aan COVID-19, kan worden uitgebreid en onder welke voorwaarden. De minister van Ambtenarenzaken heeft 
+ook gevraagd om rekening te houden met personen die in de publieke sector werkzaam zijn.Het 
+Beheerscomité heeft dit bekeken en mogelijke uitbreidingen voorgesteld.Dit besluit heeft dus 
+tot doel tijdelijk, in het kader van de bij voornoemde wet van 27 maart 2020 toegekende bijzondere machten, 
+een uitzonderingsregeling in te stellen om de erkenning van COVID-19 als beroepsziekte mogelijk te maken 
+voor werknemers in bedrijven van de cruciale sectoren en de essentiële diensten die hun beroepsactiviteiten 
+hebben moeten voortzetten zonder te kunnen telewerken en zonder zich te kunnen houden aan de regels van 
+social distancing.Het uitoefenen van een beroepsactiviteit in contact met andere mensen zonder 
+dat social distancing kan worden gewaarborgd, brengt een specifiek risico op besmetting met zich mee. 
+Dit risico bestaat niet voor de bevolking in het algemeen tijdens de lockdownperiode waarbij de sociale 
+contacten tot een minimum worden beperkt, en evenmin voor werknemers die hun werk via telewerk of met 
+inachtneming van de regels van social distancing verrichten.Dit specifieke risico blijft bestaan 
+zolang de algemene bevolking geen interpersoonlijke contacten heeft buiten die onder hetzelfde dak.Aangezien 
+vanaf 18 mei 2020 fase 2 van de exitstrategie ingaat, kan iedereen vanaf dan weer sociaal contact hebben. 
+Vanaf 18 mei 2020 zal het dus niet meer mogelijk zijn aan te nemen dat de uitoefening van de in dit ontwerp 
+bedoelde activiteiten leidt tot blootstelling aan COVID-19 die aanzienlijk hoger is dan die van de bevolking 
+in het algemeen, of zelfs inherent is aan de uitgeoefende activiteit.Daarom is de bij dit besluit 
+ingevoerde dekking voor beroepsziekten beperkt in de tijd en bedoeld voor werknemers die in de periode 
+van 18 maart 2020 tot en met 17 mei 2020 een beroepsactiviteit hebben uitgeoefend in bedrijven van de 
+cruciale sectoren en de essentiële diensten, voor zover de ziekte wordt vastgesteld in de periode van 
+20 maart 2020 tot en met 31 mei 2020. De data 20 maart 2020 en 31 mei 2020 werden gekozen omdat ze de 
+thans wetenschappelijk aanvaarde incubatietijd van de ziekte weerspiegelen, d.w.z. tussen 2 en 14 dagen 
+na blootstelling aan het virus. Concreet betekent dit dat er niet meer dan 14 dagen mogen verstrijken 
+tussen de datum van de laatste daadwerkelijke werkdag buitenshuis (d.w.z. niet telewerken) en het optreden 
+van de ziekte.Wat betreft het bewijs dat is voldaan aan de voorwaarden van blootstelling aan 
+beroepsrisico's zoals geformuleerd in de bijlage bij het koninklijk besluit van 28 maart 1969, kan dit 
+met alle wettelijke middelen worden aangebracht. Fedris zal, als socialezekerheidsinstelling, meewerken 
+aan de bewijslast, zoals bij elk verzoek om erkenning van een beroepsziekte, door aan de aanvrager aan 
+te geven welk bewijs van hem wordt verwacht, wanneer het verzoek niet meteen kan worden ingewilligd.Fedris 
+is namelijk gewoon om dossiers te onderzoeken waarbij de zeer concrete activiteiten op het werkveld van 
+de werknemers in rekening dienen te worden gebracht. Met betrekking tot het bewijs dat het onmogelijk 
+is om een afstand van 1,5 meter aan te houden in de contacten met andere mensen, zal Fedris op basis 
+van een reeks aanwijzingen, afhankelijk van de aard van de activiteit, kunnen beoordelen in hoeverre 
+de vastgestelde voorzorgsmaatregelen waarschijnlijk niet tot op de letter kunnen worden nageleefd. Een 
+politiepatrouille die een interventie uitvoert, kan bijvoorbeeld moeilijk een afstand van 1,5 m in acht 
+nemen.Artikel 3 is noodzakelijk omdat de invoering van een nieuwe ziektecode op zich, gelet 
+op de uitzonderlijke situatie, problemen voor de schadeloosstelling met zich mee kan brengen ten gevolge 
+van het bestaan van specifieke bepalingen van de gecoördineerde wetten van 3 juni 1970: - artikel 
+36, tweede lid, bepaalt: 'Wanneer de tijdelijke arbeidsongeschiktheid of het overlijden zich hebben voorgedaan 
+voorafgaand aan de inschrijving van de ziekte op de in artikel 30 bedoelde lijst, dan kunnen de getroffene 
+of zijn rechthebbenden aanspraak maken op schadeloosstelling vanaf de datum waarop de ziekte werd ingeschreven';- 
+artikel 52, vierde lid, bepaalt: '(...) In de gevallen van tijdelijke arbeidsongeschiktheid moeten de 
+aanvragen evenwel worden ingediend, hetzij in de loop van de periode van tijdelijke arbeidsongeschiktheid, 
+al dan niet onderbroken door een of meerdere periodes van werkhervatting, hetzij in de periode waarin 
+de symptomen van de beroepsziekten aanwezig zijn.'.De toepassing van deze bepalingen zou tot 
+gevolg hebben dat: - de schadeloosstelling voor tijdelijke arbeidsongeschiktheid pas zou kunnen 
+ingaan vanaf de datum van inwerkingtreding van het koninklijk besluit tot opname van de nieuwe code in 
+de lijst van beroepsziekten, op voorwaarde dat de betrokkene bij de indiening van de aanvraag nog steeds 
+de ziektesymptomen vertoont;- de schadeloosstelling als gevolg van overlijden pas zou kunnen 
+beginnen vanaf de datum van inwerkingtreding van het besluit tot opneming van de nieuwe code in de lijst 
+van beroepsziekten.Aangezien het om een tijdelijke regeling gaat die door uitzonderlijke overwegingen 
+wordt gerechtvaardigd, moet de toepassing van deze regels worden vermeden, zo niet verliest het voorstel 
+grotendeels het beoogde nut. Omdat ze worden genomen in het kader van tijdelijke en voorlopige maatregelen 
+van bijzondere machten, werd het bovendien wenselijk geacht de tijdelijke verwijdering van deze twee 
+bepalingen niet rechtstreeks op te nemen in het koninklijk besluit van 28 maart 1969, om de tekst niet 
+nodeloos omslachtig en ingewikkeld te maken.De hierboven gegeven toelichting over de procedure 
+voor de erkenning van de beroepsziekte enerzijds en het beperkte toepassingsgebied in de tijd anderzijds 
+tonen voldoende aan dat deze beperkingen juist zijn vastgesteld om elke vorm van discriminatie ten opzichte 
+van andere slachtoffers van beroepsziekten tegen te gaan en dat zij bijgevolg volledig in overeenstemming 
+zijn met de grondwettelijke beginselen van gelijkheid en non-discriminatie.Tot slot doet de 
+situatie waarmee we te maken hebben gehad vanwege COVID-19 en de beschouwingen die volgden over de dekking 
+van beroepsziekten door het stelsel van de beroepsziekten, ons beseffen dat deze regeling moet worden 
+heroverwogen, of zelfs hervormd, rekening houdend met nieuwe ziekten waarmee we in de toekomst te maken 
+zullen krijgen.Artikelsgewijze besprekingArtikel 1. In artikel 1 van het koninklijk 
+besluit van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten die aanleiding geven 
+tot schadeloosstelling en tot vaststelling van de criteria waaraan de blootstelling aan het beroepsrisico 
+voor sommige van deze ziekten moet voldoen, wordt een nieuw codenummer 1.404.04 ingevoegd om voor de 
+vastgestelde periode de werknemers te dekken die een beroepsactiviteit hebben uitgeoefend in bedrijven 
+van de cruciale sectoren en de essentiële diensten die zijn opgenomen in de bijlage bij het ministerieel 
+besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken. Art. 2. Dit artikel legt in de bijlage bij voornoemd koninklijk besluit van 28 
+maart 1969 de blootstellingscriteria voor deze nieuwe code vast.Art. 3. Aangezien het een tijdelijke 
+regeling betreft die is gerechtvaardigd door uitzonderlijke overwegingen, moet de toepassing van deze 
+regels worden opzijgezet, opdat deze regels het verwachte nut van het voorstel niet grotendeels tenietdoen.Art. 
+4. Dit artikel bepaalt de datum van inwerkingtreding van het besluit. Ik heb de eer te zijn,Sire,Van 
+Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De Minister van Ambtenarenzaken,D. 
+CLARINVALDe Minister van Veiligheid en Binnenlandse Zaken,P. DE CREMDe 
+Minister van Sociale Zaken,M. DE BLOCKRAAD VAN STATE,afdeling 
+WetgevingAdvies 67.608/1, van 19 juni 2020, over, een ontwerp van koninklijk besluit nr... 
+'tot wijziging van het koninklijk besluit van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten 
+die aanleiding geven tot schadeloosstelling en tot vaststelling van de criteria waaraan de blootstelling 
+aan het beroepsrisico voor sommige van deze ziekten moet voldoen wegens COVID-19'Op 12 juni 
+2020 is de Raad van State, afdeling Wetgeving, door de Minister van Sociale Zaken verzocht binnen een 
+termijn van vijf werkdagen een advies te verstrekken over een ontwerp van koninklijk besluit nr... 'tot 
+wijziging van het koninklijk besluit van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten 
+die aanleiding geven tot schadeloosstelling en tot vaststelling van de criteria waaraan de blootstelling 
+aan het beroepsrisico voor sommige van deze ziekten moet voldoen wegens COVID-19'.Het ontwerp 
+is door de eerste kamer onderzocht op 16 juni 2020. De kamer was samengesteld uit Marnix VAN DAMME, kamervoorzitter, 
+Wilfried VAN VAERENBERGH en Chantal BAMPS, staatsraden, en Wim GEURTS, griffier.Het verslag 
+is uitgebracht door Barbara SPEYBROUCK, eerste auditeur.De overeenstemming tussen de Franse 
+en de Nederlandse tekst van het advies is nagezien onder toezicht van Chantal BAMPS, staatsraad.Het 
+advies, waarvan de tekst hierna volgt, is gegeven op 19 juni 2020.1. Met toepassing van artikel 
+4, eerste lid, van de wet van 27 maart 2020 'die machtiging verleent aan de Koning om maatregelen te 
+nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I)', waarin verwezen wordt naar 
+artikel 84, § 1, eerste lid, 3°, van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973, heeft de afdeling Wetgeving zich moeten beperken tot het onderzoek van de bevoegdheid van de steller 
+van de handeling, van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten is voldaan.STREKKING 
+EN RECHTSGROND VAN HET ONTWERP 2. Het om advies voorgelegde ontwerp van koninklijk besluit 
+strekt ertoe tijdelijk, in het kader van de wet van 27 maart 2020 'die machtiging verleent a)an de Koning 
+om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II)', een uitzonderingsregeling 
+in te voeren om de erkenning van elke ziekte veroorzaakt door SARS CoV-2 als beroepsziekte mogelijk te 
+maken voor werknemers in bedrijven van de cruciale sectoren en de essentiële diensten die hun beroepsactiviteiten 
+hebben moeten voortzetten zonder te kunnen telewerken en zonder zich te kunnen houden aan de regels van 
+social distancing.Hiertoe wordt in artikel 1 van het koninklijk besluit van 28 maart 1969 'houdende 
+vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling en tot vaststelling 
+van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze ziekten moet voldoen' 
+een nieuw codenummer ingevoerd om voor de vastgestelde periode de desbetreffende werknemers te dekken 
+(artikel 1 van het ontwerp); worden de artikelen 36, tweede lid, en 52, vierde lid, van de 'wetten betreffende 
+de preventie van beroepsziekten en de vergoeding van de schade die uit die ziekten voortvloeit, gecoördineerd 
+op 3 juni 1970' (hierna: beroepsziektenwet) in het kader van de erkenning van die nieuwe code niet van 
+toepassing verklaard (artikel 2); worden in de bijlage bij het koninklijk besluit van 28 maart 1969 de 
+criteria voor blootstelling betreffende de nieuwe code ingevoegd (artikel 3) en wordt de Koning tot en 
+met 31 december 2020 gemachtigd om de toepassing van het ontworpen besluit uit te breiden tot andere 
+periodes van uitoefening van een beroepsactiviteit door de betrokken werknemers indien nieuwe lockdownmaatregelen 
+worden opgelegd (artikel 4).Artikel 5 van het ontwerp bepaalt dat het te nemen besluit uitwerking 
+heeft met ingang van 18 maart 2020. Artikel 6 van het ontwerp bevat de uitvoeringsbepaling. 3. 
+Uit het eerste lid van de aanhef van het ontwerp blijkt dat voor het ontwerp rechtsgrond wordt gezocht 
+in artikel 5, § 1, 3° en 5°, van de wet van 27 maart 2020 (II). 3.1. Artikel 2 van de 
+wet van 27 maart 2020 (II) bepaalt dat teneinde het België mogelijk te maken te reageren op de coronavirus 
+COVID-19 epidemie of pandemie en de gevolgen ervan op te vangen, de Koning, bij een besluit vastgesteld 
+na overleg in de Ministerraad, de in artikel 5, § 1, 1° tot 8°, van de wet bedoelde maatregelen 
+kan nemen en dat deze maatregelen zo nodig een terugwerkende kracht kunnen hebben, die echter niet verder 
+kan teruggaan dan 1 maart 2020.Met het oog op de in artikel 2, eerste lid, van de wet van 27 
+maart 2020 (II) vermelde doelstellingen, machtigt artikel 5, § 1, 3° en 5°, van die wet de Koning 
+om inzonderheid maatregelen te nemen om enerzijds directe of indirecte steun te bieden aan of beschermende 
+maatregelen te nemen voor de getroffen financiële sectoren, de economische sectoren, de profit- en non-profitsector, 
+de bedrijven en de huishoudens om de gevolgen van de pandemie te beperken en anderzijds aanpassingen 
+door te voeren in het arbeidsrecht en het socialezekerheidsrecht, met het oog op de bescherming van de 
+werknemers en van de bevolking, de goede organisatie van de ondernemingen en de overheid, met vrijwaring 
+van de economische belangen van het land en de continuïteit van de kritieke sectoren.Over deze 
+machtigingen werd in de toelichting bij het voorstel dat heeft geleid tot de wet van 27 maart 2020 (II) 
+gespecificeerd dat ook op het vlak van steun aan de economische sectoren en de huishoudens de regering 
+de nodige machtiging zal krijgen om, bovenop de bestaande machtigingen die reeds voorzien zijn in de 
+vigerende wetgeving, snel te kunnen optreden binnen haar bevoegdheidsdomein, door het nemen van directe 
+of indirecte steunmaatregelen waar flankerende maatregelen, zoals uitstel- of garantieregelingen onder 
+vallen. Tevens werd er in de toelichting op gewezen dat zich in het arbeidsrecht en het socialezekerheidsrecht 
+situaties kunnen voordoen waarbij het bestaande wettelijk kader niet toelaat de omwille van de volksgezondheid 
+ingegeven maatregelen te verzoenen met de noodzaak van een blijvende economische productie of dienstverlening, 
+zowel in de private sector als in de publieke sector, bijvoorbeeld omwille van het opgelegd telewerk 
+of van de wijzigingen in het uurrooster.33.2. Door de gemachtigde werd met 
+betrekking tot voornoemde rechtsgrondbepalingen de volgende toelichting gegeven: "Concernant 
+la référence au préambule au 3°, une protection sociale adequate pour les travailleurs ressortissant 
+aux secteurs de la santé et aux secteurs essentiels durant la période au cours de laquelles des mesures 
+de lutte contre la pandémie sont prises peuvent être vues comme étant des mesures de soutien direct ou 
+indirect.C'est toutefois la référence au 5° qui constitue la base principale du fondement légale 
+de l'arrêté en projet qui vise la protection des travailleurs."De ontworpen regeling betreft 
+de erkenning als beroepsziekte van elke ziekte veroorzaakt door SARS-CoV-2 die in de tijd is beperkt 
+en geldt voor een specifieke groep van werknemers. De betrokken regeling heeft bijgevolg betrekking op 
+een aanpassing van het socialezekerheidsrecht met het oog op de bescherming van de werknemers.Bijgevolg 
+biedt artikel 5, § 1, 5°, van de wet van 27 maart 2020 (II), een voldoende rechtsgrond voor de 
+ontworpen regeling en dient de verwijzing naar artikel 5, § 1, 3°, van die wet in het eerste lid 
+van de aanhef van het ontwerp te worden geschrapt.ONDERZOEK VAN DE TEKSTALGEMENE 
+OPMERKING4.1. Krachtens artikel 30, eerste lid, van de beroepsziektenwet maakt de Koning de 
+lijst op van de beroepsziekten die tot schadeloosstelling aanleiding geven, op voorstel van de in de 
+schoot van Fedris4 opgerichte Wetenschappelijke Raad (artikel 16 van de beroepsziektenwet). 
+Bovendien kan de Koning op grond van artikel 32, derde lid, van dezelfde wet voor sommige beroepsziekten 
+en voor ziekten zoals bedoeld in artikel 30bis van die wet blootstellingscriteria vastleggen, op voorstel 
+van het Beheerscomité en na advies van de Wetenschappelijke Raad.Door de ontworpen regeling 
+wordt beoogd een tijdelijke uitzonderingsregeling in te voeren voor de erkenning van elke ziekte veroorzaakt 
+door SARS-CoV-2 als beroepsziekte voor werknemers in bedrijven van de cruciale sectoren en de essentiële 
+diensten die tijdens de lockdownperiode hun beroepsactiviteiten hebben moeten voortzetten zonder te kunnen 
+telewerken en zonder zich te kunnen houden aan de regels van social distancing en worden dienaangaande 
+blootstellingscriteria vastgesteld. Noch de opname op de lijst van beroepsziekten, noch de vaststelling 
+van de blootstellingscriteria gebeurden met de tussenkomst van de Wetenschappelijke Raad, hetgeen nochtans 
+door de wetgever als essentieel werd beschouwd voor de totstandkoming van de lijst van beroepsziekten 
+en de vaststelling van de blootstellingscriteria.Voor wat de werkingssfeer ratione temporis 
+van de ontworpen regeling betreft, die betrekking heeft, enerzijds, op de periode van 18 maart 2020 tot 
+en met 17 mei 20205 tijdens dewelke de werknemers buitenshuis beroepsactiviteiten hebben 
+uitgeoefend in bedrijven van de cruciale sectoren en de essentiële diensten en, anderzijds, op de periode 
+van 20 maart 2020 tot en met 31 mei 2020 waarbinnen de ziekte moet worden vastgesteld, werd in het verslag 
+aan de Koning de volgende verduidelijking gegeven: "Aangezien vanaf 18 mei 2020 fase 2 van 
+de exitstrategie ingaat, kan iedereen vanaf dan weer sociaal contact hebben. Vanaf 18 mei 2020 zal het 
+dus niet meer mogelijk zijn aan te nemen dat de uitoefening van de in dit ontwerp bedoelde activiteiten 
+leidt tot blootstelling aan Covid-l9 die aanzienlijk hoger is dan die van de bevolking in het algemeen, 
+of zelfs inherent is aan de uitgeoefende activiteit.Daarom is de bij dit besluit ingevoerde 
+dekking voor beroepsziekten beperkt in de tijd en bedoeld voor werknemers die in de periode van 18 maart 
+2020 tot en met 17 mei 2020 een beroepsactiviteit hebben uitgeoefend in bedrijven van de cruciale sectoren 
+en de essentiële diensten, voor zover de ziekte wordt vastgesteld in de periode van 20 maart 2020 tot 
+en met 31 mei 2020.De data 20 maart 2020 en 31 mei 2020 werden gekozen omdat ze de thans wetenschappelijk 
+aanvaarde incubatietijd van de ziekte weerspiegelen, d.w.z. tussen 2 en 14 dagen na blootstelling aan 
+het virus. Concreet betekent dit dat er niet meer dan 14 dagen mogen verstrijken tussen de datum van 
+de laatste daadwerkelijke werkdag buitenshuis (d.w.z. niet telewerken) en het voorkomen van de ziekte."4.2. 
+Het grondwettelijk beginsel van gelijkheid en niet-discriminatie vereist dat het gecreëerde onderscheid 
+tussen gevallen die wel en niet onder het toepassingsgebied vallen, op een objectief criterium berust 
+en redelijk verantwoord is. Het bestaan van een dergelijke verantwoording moet worden beoordeeld rekening 
+houdend met het doel en de gevolgen van de betwiste maatregel en met de aard van de ter zake geldende 
+beginselen; het beginsel van gelijkheid en niet-discriminatie is geschonden wanneer vaststaat dat er 
+geen redelijk verband van evenredigheid bestaat tussen de aangewende middelen en het beoogde doel.6Er 
+dient te worden opgemerkt dat de ontworpen regeling enerzijds afwijkt van de reguliere procedure voor 
+de erkenning als beroepsziekte, zoals vastgesteld door de beroepsziektenwet, en anderzijds haar toepasselijkheid 
+in de tijd laat afhangen van bepaalde data, vastgesteld op basis van criteria die als weinig pertinent, 
+laat staan als wetenschappelijk onderbouwd, overkomen. De hieruit voortvloeiende verschillen in behandeling 
+dienen in het licht van het gelijkheidsbeginsel door de stellers van het te nemen besluit te kunnen worden 
+verantwoord.Hierbij zal dienen te worden nagegaan of de voornoemde verschillen in behandeling 
+voldoen aan de voorwaarden inzake doelmatigheid, objectiviteit, pertinentie en evenredigheid om in overeenstemming 
+te kunnen worden geacht met het grondwettelijke gelijkheidsbeginsel en verdient het aanbeveling om een 
+afdoende verantwoording op te nemen in het verslag aan de Koning. Het louter omschrijven van het gezondheidsrisico 
+biedt weliswaar enige duiding, maar vormt op zich geen afdoende verantwoording in het licht van het gelijkheidsbeginsel.4.3. 
+Het is aangewezen de wijzigingen aan het koninklijk besluit van 28 maart 1969 in volgorde van de te wijzigen 
+artikelen op te nemen in het ontwerp. Bijgevolg dient de bepaling onder artikel 3 van het ontwerp opgenomen 
+te worden als artikel 2 en omgekeerd.BIJZONDERE OPMERKINGENAanhef5. Gelet 
+op hetgeen sub 3 tot 3.2 in verband met de rechtsgrond is opgemerkt dient in het eerste lid van de aanhef 
+de verwijzing naar artikel 5, § 1, 3°, van de wet van 27 maart 2020 (II) te worden geschrapt.Artikel 
+16. In de ontworpen bepaling dient te worden geëxpliciteerd dat het de bedrijven van de cruciale 
+sectoren en de essentiële diensten betreft zoals bedoeld in de bijlage van het ministerieel besluit van 
+23 maart 2020 'houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken'.Artikel 
+27. In artikel 2 van het ontwerp wordt bepaald dat de artikelen 36, tweede lid, en 52, vierde 
+lid, van de beroepsziektenwet, niet van toepassing zijn in het kader van de erkenning onder code 1.404.04.Door 
+de gemachtigde werd de noodzaak van deze bepaling als volgt toegelicht: "L'article 2 est rendu 
+nécessaire parce que l'introduction d'un nouveau code maladie peut poser, en soi, par rapport au caractère 
+exceptionnel de la situation actuelle, certaines difficultés pour l'indemnisation en raison de l'existence 
+de certaines dispositions des lois coordonnées le 3 juin 1970: * l'article 36, alinéa 2 qui 
+stipule que 'Lorsque l'incapacité temporaire ou le décès sont antérieurs à l'inscription de la maladie 
+sur la liste visée à l'article 30, la victime ou ses ayants droit peuvent prétendre à réparation à partir 
+de la date à laquelle la maladie a été inscrite';* l'article 52, alinéa 4 qui stipule que '(...)Toutefois, 
+en ce qui concerne les cas d'incapacité temporaire, les demandes doivent être introduites soit au cours 
+de la période d'incapacité temporaire de travail, interrompue ou non par une ou plusieurs périodes de 
+reprise de travail, soit au cours de la période où se manifestent les symptômes de la maladie professionnelle'.L'application 
+de ces dispositions auraient pour conséquences que : * l'indemnisation de l'incapacité de travail 
+temporaire ne pourrait débuter qu'à partir de la date d'entrée en vigueur de l'arrêté royal insérant 
+le nouveau code au sein de la liste des maladies professionnelles, pour autant qu'au moment de l'introduction 
+de la demande, l'intéressé présente encore les symptômes de la maladie;* l'indemnisation des 
+dommages résultant du décès ne pourrait débuter qu'à partir de la date d'entrée en vigueur de l'arrêté 
+insérant le nouveau code au sein de la liste des maladies professionnelles.S'agissant d'un 
+régime temporaire justifié par des considérations exceptionnelles, l'application de ces règles doit être 
+écartée, sauf à priver la proposition d'une grande part de son utilité attendue.Par ailleurs, 
+parce qu'ils sont pris dans le cadre de mesures temporaires et provisoires de pouvoirs spéciaux il a 
+été jugé préférable de ne pas intégrer l'écartement temporaire de ces deux dispositions directement dans 
+l'AR de 1969 pour ne pas en alourdir et complexifier inutilement le texte." 7Het 
+verdient aanbeveling deze toelichting op te nemen in het verslag aan de Koning.Artikel 38.1. 
+Als eerste criterium voor blootstelling betreffende de code 1.404.04 wordt vereist dat de werkomstandigheden 
+of de aard van de uitgeoefende beroepsactiviteiten het geregeld onmogelijk maken om een afstand van 1,5 
+meter te bewaren in de contacten met andere personen. Gevraagd hoe dit bewijs kan worden geleverd, 
+of dit geen te zware bewijslast oplegt en hoe de administratie dit bewijs controleert en beoordeelt, 
+antwoordde de gemachtigde: "Fedris est coutumier de l'examen de dossiers pour lesquels il importe 
+de prendre en compte l'exercice très concret sur le terrain de l'activité des travailleurs. Les victimes 
+sont susceptibles d'apporter tout type de preuve par toute voie de droit comme pour toute maladie professionnelle. 
+Ce seront un faisceau d'indices qui permettront à Fedris en fonction de la nature de l'activité d'évaluer 
+dans quelle mesure il apparait que les précautions édictée n'ont probablement pu être toute respectées 
+à la lettre. Par exemple une patrouille de police qui procède à une intervention peut difficilement respecter 
+une distance de 1,5 m."Het verdient aanbeveling deze verduidelijking eveneens op te nemen in 
+het verslag aan de Koning. 8.2. Om in overeenstemming te zijn met de inhoud van de bijlage 
+bij het besluit van 28 maart 1969 dient het opschrift "Criteria voor blootstelling betreffende de code 
+1.404.04" te worden vervangen door het opschrift "Code 1.404.04 - SARS-CoV-2".8.3. Het woord 
+"indien" dient te worden weggelaten in de bepaling van het tweede en derde criterium.Artikel 
+49.1. Artikel 4, eerste lid, van het ontwerp, bepaalt dat tot en met 31 december 2020 de Koning, 
+bij een besluit vastgesteld na overleg in de Ministerraad, de toepassing van dit besluit kan uitbreiden 
+tot andere periodes van uitoefening van een beroepsactiviteit in bedrijven van de cruciale sectoren en 
+de essentiële diensten die hun activiteiten mogen voortzetten wanneer nieuwe lockdownmaatregelen worden 
+opgelegd om de verspreiding van het coronavirus te beperken, dat Hij de periodes bepaalt waarin rekening 
+wordt gehouden met de activiteit en de periodes waarin de ziekte wordt vastgesteld en dat Hij daartoe 
+de bepalingen van de artikelen 1 en 3 van het koninklijk besluit van 28 maart 1969 kan wijzigen of vervangen.De 
+gemachtigde geeft dienaangaande de volgende toelichting: "Dans la mesure où la faculté n'est 
+donnée au Roi que jusqu'au 31 décembre 2020 d'étendre l'application du code à d'autre périodes, il est 
+induit que de nouvelles mesures de confinement soient avant cette date prises. Toute éventuelle prolongation 
+serait ipso facto conditionnée par la durée de ces nouvelles mesures de confinement en cas de seconde 
+vague de contamination.La possibilité pour le Roi de modifier ou remplacer les dispositions 
+introduites par les articles 1er et 3 portent effectivement sur les dispositions introduites 
+par l'article 1er dans l'AR de 1969 et par l'article 3 dans l'annexe de l'AR de 1969.L'intention 
+est effectivement que la disposition de l'article 2 reste d'application en cas de prolongation de l'application 
+de code spécifique."9.2. Er dient op te worden gewezen dat het niet nodig is en bovendien af 
+te raden dat een overheid aan zichzelf een machtiging toekent. In het voorliggende geval lijkt het evenwel 
+de bedoeling van de stellers te zijn dat het te nemen bijzonderemachtenbesluit op zijn beurt een "gewone" 
+machtiging zou toekennen aan de Koning.De aan de Koning toegekende delegatie impliceert dat 
+het volledige temporele toepassingsgebied van de ontworpen regeling door de Koning zal kunnen worden 
+bepaald. Een dergelijke bepaling, die erop neerkomt dat de Koning zichzelf machtigt om in voorkomend 
+geval buiten het kader van de bijzondere machten waarover hij op grond van de wet van 27 maart 2020 (II) 
+beschikt bedoelde regeling nog uit te breiden tot andere periodes van uitoefening van een beroepsactiviteit, 
+hoort niet thuis in het voorliggende besluit maar kan in voorkomend geval wel worden opgenomen in de 
+wet waarbij het besluit wordt bekrachtigd.In zoverre voornoemde bepaling zou worden opgenomen 
+in een bekrachtigingswet dient erop te worden gewezen dat er naar "artikel 1 en de bijlage van voornoemd 
+koninklijk besluit" dient te worden verwezen in plaats van naar "de artikelen 1 en 3 van voornoemd koninklijk 
+besluit van 28 maart 1969".DE GRIFFIER    Wim GEURTSDE VOORZITTERMarnix 
+VAN DAMME_______Nota's1 Zoals opgenomen in de bijlage 
+van het ministerieel besluit van 23 maart 2020 'houdende dringende maatregelen om de verspreiding van 
+het coronavirus COVID-19 te beperken'.2 Parl.St. Kamer 2019-2020, nr. 55- 
+1104/001, 6.3 Parl.St. Kamer 2019-2020, nr. 55- 1104/001, 6-7.4 
+Federaal agentschap voor beroepsrisico's.5 De periode van 18 maart 2020 tot 
+en met 17 mei 2020 is gesteund op het gegeven dat vanaf 18 maart 2020 de eerste lockdownmaatregelen werden 
+ingevoerd. Deze maatregelen werden voor het eerst genomen bij het ministerieel besluit van 18 maart 2020 
+'houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken', dat werd 
+opgeheven door het ministerieel besluit van 23 maart 2020 'houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken'.6 Vaste rechtspraak van het Grondwettelijk 
+Hof. Zie bv. GwH 17 juli 2014, nr. 107/2014, B.12; GwH 25 september 2014, nr. 141/2014, B.4.1; GwH 30 
+april 2015, nr. 50/2015, B.16; GwH 18 juni 2015, nr. 91/2015, B.5.1.; GwH 16 juli 2015, nr. 104/2015, 
+B.6.7 Zie ook het advies van Fedris van 13 mei 2020 (p. 7-8).26 
+JUNI 2020. - Koninklijk besluit nr. 39 tot wijziging van het koninklijk besluit van 28 maart 1969 houdende 
+vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling en tot vaststelling 
+van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze ziekten moet voldoen 
+wegens COVID-19FILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, 
+Onze Groet.Gelet op de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), artikel 5, § 1, 
+5°;Gelet op de wetten betreffende de preventie van beroepsziekten en de vergoeding van de schade 
+die uit die ziekten voortvloeit, gecoördineerd op 3 juni 1970;Gelet op het koninklijk besluit 
+van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling 
+en tot vaststelling van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze 
+ziekten moet voldoen;Gelet op artikel 6, tweede lid, van de wet van 27 maart 2020 dat machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II), is dit besluit vrijgesteld van adviesverplichting gezien de hoogdringendheid gemotiveerd 
+door de COVID-19-pandemie;Overwegende het advies van het Beheerscomité voor de beroepsziekten 
+van Fedris, gegeven op 13 mei 2020;Gelet op de adviezen van de inspecteurs van Financiën, gegeven 
+op 25 mei 2020 en 27 mei 2020;Gelet op de akkoordbevinding van de Minister van Begroting, d.d. 
+5 juni 2020;Gelet op het protocol nr. 224/3 van 19 juni 2020 van het Gemeenschappelijk Comité 
+voor alle overheidsdiensten;Gelet op artikel 8, § 2, 2°, van de wet van 15 december 
+2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, is dit besluit vrijgesteld van 
+een regelgevingsimpactanalyse gezien de hoogdringendheid gemotiveerd door het gezondheidsrisico dat het 
+coronavirus COVID-19 met zich brengt; Gelet op advies nr. 67.608/1 van de Raad van State, gegeven 
+op 19 juni 2020, bij toepassing van artikel 4, derde lid, van de wet van 27 maart 2020 dat machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (I); Overwegende dat de crisis als gevolg van de COVID-19-pandemie dringende maatregelen 
+vereist met betrekking tot het aanzienlijke gezondheidsrisico voor de werknemers of ambtenaren die beroepsactiviteiten 
+uitoefenen in bedrijven van de cruciale sectoren en de essentiële diensten en voor wie een COVID-19-besmetting 
+momenteel niet kan worden erkend als beroepsziekte, behalve in het open systeem;Op de voordracht 
+van de Minister van Ambtenarenzaken, van de Minister van Veiligheid en Binnenlandse Zaken en de Minister 
+van Sociale Zaken en op het advies van de in Raad vergaderde Ministers,Hebben Wij besloten 
+en besluiten Wij : Artikel 1. In artikel 1 van het koninklijk besluit van 28 maart 1969 houdende 
+vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling en tot vaststelling 
+van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze ziekten moet voldoen, 
+laatst gewijzigd bij het koninklijk besluit van 22 januari 2013, wordt het volgende codenummer ingevoegd 
+tussen het codenummer "1.404.03" en het codenummer "1.6.": "1.404.04 - Elke ziekte veroorzaakt 
+door SARS-CoV-2 bij werknemers die in de periode van 18 maart 2020 tot en met 17 mei 2020 beroepsactiviteiten 
+hebben uitgeoefend in bedrijven van de cruciale sectoren en de essentiële diensten zoals bedoeld in de 
+bijlage van het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken, voor zover het optreden van de ziekte wordt vastgesteld in 
+de periode van 20 maart 2020 tot en met 31 mei 2020.".Art. 2. De bijlage bij dit besluit, vervangen 
+bij het koninklijk besluit van 9 december 2019, wordt aangevuld als volgt: "Code 1.404.04 - 
+SARS-CoV-2Zijn blootgesteld aan het beroepsrisico van de ziekte 1.404.04: de werknemers 
+die in de periode van 18 maart 2020 tot en met 17 mei 2020 beroepsactiviteiten hebben uitgeoefend in 
+bedrijven van de cruciale sectoren en de essentiële diensten bedoeld in de bijlage van het ministerieel 
+besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, voor zover: - de werkomstandigheden of de aard van de uitgeoefende beroepsactiviteiten 
+het geregeld onmogelijk maken om een afstand van 1,5 meter te bewaren in de contacten met andere personen,- 
+er niet meer dan 14 dagen zijn verstreken tussen het optreden van de ziekte en de datum van de laatste 
+daadwerkelijke werkzaamheden van de werknemer buitenshuis,- en er niet meer dan 14 dagen zijn 
+verstreken tussen het optreden van de ziekte en de datum waarop de onderneming waarin de werknemer zijn 
+beroepsactiviteit uitoefende niet meer opgenomen werd in de bijlage bij voornoemd ministerieel besluit 
+van 23 maart 2020.".Art. 3. De artikelen 36, tweede lid, en 52, vierde lid, van de wetten betreffende 
+de preventie van beroepsziekten en de vergoeding van de schade die uit die ziekten voortvloeit, gecoördineerd 
+op 3 juni 1970, zijn niet van toepassing in het kader van de erkenning onder code 1.404.04.Art. 
+4. Dit besluit heeft uitwerking met ingang van 18 maart 2020.Art. 5. De minister bevoegd voor 
+Ambtenarenzaken, de Minister die de Binnenlandse Zaken onder zijn bevoegdheid heeft en de minister bevoegd 
+voor Sociale Zaken zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 26 juni 2020. FILIPVan Koningswege : De Minister van Ambtenarenzaken,D. 
+CLARINVALDe Minister van Veiligheid en Binnenlandse Zaken,P. DE CREMDe 
+Minister van Sociale Zaken,M. DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-08Numac : 2020202903
+

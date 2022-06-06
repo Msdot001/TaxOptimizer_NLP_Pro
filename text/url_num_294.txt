@@ -1,0 +1,105 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/01/15/2020043065/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043065
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 15 JANUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de occasionele redders en de slachtoffers van zogenaamde "cold cases" betreft. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de wet van 15 januari 2019 tot wijziging van de wet 
+van 1 augustus 1985 houdende fiscale en andere bepalingen wat de occasionele redders en de slachtoffers 
+van zogenaamde "cold cases" betreft (Belgisch Staatsblad van 8 februari 2019).Deze vertaling 
+is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST JUSTIZ15. JANUAR 2019 - Gesetz zur Abänderung des Gesetzes vom 1. August 
+1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen hinsichtlich der Gelegenheitsretter und 
+der Opfer in unaufgeklärten FällenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 
+1 - Allgemeine BestimmungArtikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung 
+erwähnte Angelegenheit.KAPITEL 2 - Abänderungen des Gesetzes vom 1. August 1985 zur Festlegung 
+steuerrechtlicher und anderer BestimmungenArt. 2 - Artikel 31bis § 2 Nr. 3 des Gesetzes 
+vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen, eingefügt durch das Gesetz 
+vom 27. Dezember 2004, wird durch einen Absatz mit folgendem Wortlaut ergänzt:"Wenn der Antragsteller 
+infolge der Taten eine Anzeige erstattet, die Eigenschaft als geschädigte Partei erwirbt, als Zivilpartei 
+auftritt, eine Klage einreicht oder ein Urteil erwirkt, gilt je nach Fall dieselbe Frist wie in Artikel 
+31bis § 1 Nr. 3 oder 4 vorgesehen."Art. 3 - Artikel 32 desselben Gesetzes, ersetzt durch 
+das Gesetz vom 26. März 2003 und abgeändert durch die Gesetze vom 27. Dezember 2004 und 31. Mai 2016, 
+wird wie folgt abgeändert:1. Paragraph 1 wird durch eine Nr. 9 mit folgendem Wortlaut ergänzt:"9. 
+den außergewöhnlichen Schaden, der sich aus der langfristigen Ungewissheit über die Identität und 
+die Motive des beziehungsweise der Täter ergibt."2. Paragraph 2 wird durch eine Nr. 7 mit folgendem 
+Wortlaut ergänzt:"7. den außergewöhnlichen Schaden, der sich aus der langfristigen Ungewissheit 
+über die Identität und die Motive des beziehungsweise der Täter ergibt."3. Paragraph 3 wird 
+durch eine Nr. 4 mit folgendem Wortlaut ergänzt:"4. den außergewöhnlichen Schaden, der 
+sich aus der langfristigen Ungewissheit über die Identität und die Motive des beziehungsweise der Täter 
+ergibt."Art. 4 - In dasselbe Gesetz wird ein Artikel 37ter mit folgendem Wortlaut eingefügt:"Art. 
+37ter - Die in den Artikeln 33, 36 und 37bis erwähnten Höchstbeträge können durch einen im Ministerrat 
+beratenen Königlichen Erlass erhöht werden."Art. 5 - In Artikel 39 desselben Gesetzes, ersetzt 
+durch das Gesetz vom 26. März 2003, wird ein §  2bis mit folgendem Wortlaut eingefügt:" 
+§ 2bis - Unbeschadet des in Artikel 31bis § 1 Nr. 5 und § 2 Nr. 4 und in Artikel 
+42quinquies § 1 Nr. 3 und § 2 Nr. 4 definierten Subsidiaritätsprinzips der finanziellen 
+Hilfe tritt der Staat ebenfalls von Rechts wegen in Höhe des Betrags der gewährten Hilfe in die Rechte 
+des Antragstellers gegenüber dem Versicherer ein, der infolge der vorsätzlichen Gewalttat oder der in 
+Artikel 31bis § 2 Nr. 2 erwähnten Tat zugunsten des Antragstellers eingreifen könnte."KAPITEL 
+3 - ÜbergangsbestimmungenArt. 6 - Artikel 32 § 1 Nr. 9, Artikel 32 § 2 Nr. 7 
+und Artikel 32 § 3 Nr. 4 des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und 
+anderer Bestimmungen, so wie durch Artikel 3 des vorliegenden Gesetzes eingefügt, finden Anwendung auf 
+Schäden, die auf eine vorsätzliche Gewalttat zurückzuführen sind, auch wenn eine Akte bereits vor Inkrafttreten 
+des vorliegenden Gesetzes eingereicht und von der Kommission abgeschlossen worden ist. Antragsteller, 
+deren Akte bereits vor Inkrafttreten des vorliegenden Gesetzes abgeschlossen worden ist, müssen binnen 
+drei Jahren nach Inkrafttreten des vorliegenden Gesetzes einen Antrag einreichen.Art. 7 - Artikel 
+39 § 2bis desselben Gesetzes, so wie durch Artikel 5 des vorliegenden Gesetzes eingefügt, findet 
+Anwendung auf Akten, in denen eine Hilfe nach Inkrafttreten des vorliegenden Gesetzes gewährt wird.KAPITEL 
+4 - InkrafttretenArt. 8 - Vorliegendes Gesetz tritt am Tag des Inkrafttretens des Gesetzes 
+vom 3. Februar 2019 zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und 
+anderer Bestimmungen hinsichtlich der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern 
+vorsätzlicher Gewalttaten und von Gelegenheitsrettern in Bezug auf die Hilfe zugunsten von Opfern in 
+unaufgeklärten Fällen und zur näheren Bestimmung der Untersuchungsbefugnis der Kommission in Kraft.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 15. Januar 2019PHILIPPEVon 
+Königs wegen:Der Minister der JustizK. GEENSMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043065
+

@@ -1,0 +1,148 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State   Kamer van volksvertegenwoordigers ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2021/12/23/2021206128/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-01-12Numac : 2021206128
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 23 DECEMBER 2021. - Wet houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.De Kamer 
+van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen hetgeen volgt: Hoofdstuk 1. 
+- Algemene bepalingArtikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 74 
+van de Grondwet.Hoofdstuk 2. - Wijziging van de wet van 28 maart 2021 houdende toekenning van 
+een recht op klein verlet voor werknemers met het oog op het toegediend krijgen van een vaccin ter bescherming 
+tegen het coronavirus COVID-19, teneinde het recht op klein verlet ook toe te kennen voor de begeleiding 
+van een minderjarig kind naar een vaccinatieplaats Art. 2.  In artikel 3 van de wet van 28 
+maart 2021 houdende toekenning van een recht op klein verlet voor werknemers met het oog op het toegediend 
+krijgen van een vaccin ter bescherming tegen het coronavirus COVID-19, worden de volgende wijzigingen 
+aangebracht: 1° het eerste lid wordt aangevuld met de volgende zinnen: "De werknemer 
+heeft dit recht eveneens om een minderjarig kind, dat met hem samenwoont, te begeleiden gedurende de 
+tijd die nodig is om dit kind te laten vaccineren tegen het coronavirus COVID-19. Wanneer de werknemer 
+samenwoont met de andere ouder van het kind, kan dit recht voor éénzelfde periode slechts door één van 
+hen worden uitgeoefend. De werknemer heeft eveneens het recht een meerderjarige persoon met een handicap 
+of onder voogdij te begeleiden, ongeacht of het om zijn eigen kind gaat dan wel om iemand over wie hij 
+het wettelijk voogdijschap uitoefent, en wel gedurende de tijd die nodig is om die persoon tegen het 
+COVID-19-coronavirus te laten vaccineren. Dat recht kan echter uitsluitend worden uitgeoefend door een 
+van de ouders of door een van de voogden. De werknemer heeft eveneens het recht een meerderjarige persoon 
+met een handicap of onder voogdij te begeleiden, ongeacht of het om zijn eigen kind gaat dan wel om iemand 
+over wie hij het wettelijk voogdijschap uitoefent, en wel gedurende de tijd die nodig is om die persoon 
+tegen het COVID-19-coronavirus te laten vaccineren. Dat recht kan echter uitsluitend worden uitgeoefend 
+door een van de ouders of door een van de voogden.";2° in het derde lid worden de woorden "vanaf 
+het tijdstip of tijdsslot van de vaccinatie voor hem bekend is" vervangen door de woorden "vanaf het 
+moment waarop hij kennis heeft van het tijdstip of tijdsslot van de vaccinatie voor hem, voor het in 
+het eerste lid bedoelde kind of voor de persoon met een beperking of over wie men de voogdij heeft zoals 
+bedoeld in het eerste lid, of voor de persoon met een beperking of over wie men de voogdij heeft zoals 
+bedoeld in het eerste lid.";3° in het vierde lid worden de woorden ", het in het eerste lid 
+bedoelde kind of de persoon met een beperking of over wie men de voogdij heeft zoals bedoeld in het eerste 
+lid of de persoon met een beperking of over wie men de voogdij heeft zoals bedoeld in het eerste lid" 
+ingevoegd tussen de woorden "wanneer de werknemer" en de woorden "aanwezig dient te zijn". Art. 
+3.  In artikel 4 van dezelfde wet de woorden "31 december 2021" vervangen door de woorden "30 juni 2022" 
+en de woorden "30 juni 2022" vervangen door de woorden "31 december 2022".Hoofdstuk 3. - Specifieke 
+maatregelen voor de sector van de dienstencheques Art. 4.   § 1. Onverminderd de verplichtingen 
+inzake preventie, veiligheid en bescherming op het werk, voorzien de werkgevers die werknemers tewerkstellen 
+met een arbeidsovereenkomst dienstencheques zoals bedoeld in hoofdstuk II van de wet van 20 juli 2001 
+tot bevordering van buurtdiensten en -banen, hun werknemers minstens van volgende materialen:1° 
+hetzij, per week, wegwerpmondmaskers waarvan het aantal minstens gelijk is aan het aantal werkplaatsen 
+waar de werknemer gedurende één dag tewerkgesteld wordt, verhoogd met het aantal extra wegwerpmondmaskers 
+per prestatie van meer dan 4 uur op dezelfde werkplaats; hetzij een set herbruikbare mondmaskers, waarvan 
+het aantal minstens gelijk is aan het aantal werkplaatsen waar de werknemer per week werkzaam is, verhoogd 
+met het aantal extra herbruikbare mondmaskers per prestatie van meer dan 4 uur op dezelfde werkplaats. 
+Herbruikbare mondmaskers worden ten minste om de 15 weken vernieuwd of, op verzoek van de werknemer, 
+in geval van slijtage of verslechtering;2° desinfecterende gel of een gelijkaardig product 
+om de handen te kunnen ontsmetten voor, tijdens en na de verschillende prestaties. § 
+2. Wanneer de werknemer vaststelt dat hij het werk niet in veilige omstandigheden kan aanvatten of verderzetten 
+omdat de preventiemaatregelen bedoeld in artikel 2, § 2, van het ministerieel besluit van 28 oktober 
+2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken niet 
+worden toegepast, verwittigt hij zijn werkgever hiervan onmiddellijk en heeft hij het recht om zijn prestaties 
+op te schorten zolang de situatie aanhoudt. Indien de situatie op korte termijn niet opgelost kan worden, 
+heeft de werknemer, met het akkoord van zijn werkgever, het recht om de arbeidsplaats te verlaten. De 
+werknemer heeft in elk geval het recht om de werkplaats te verlaten indien de situatie langer dan de 
+helft van de voorziene prestatietijd duurt. Art. 5.  In artikel 238, eerste lid, van het Sociaal 
+Strafwetboek wordt de eerste zin aangevuld met de volgende woorden: "of artikel 2/1 van de wet van ... 
+houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie. Art. 6. 
+ Dit hoofdstuk treedt in werking de dag waarop deze wet in het Belgisch Staatsblad wordt bekendgemaakt 
+en houdt op uitwerking te hebben op 31 januari 2022.De Koning kan de datum van uitwerkingtreding 
+uitstellen via een besluit vastgesteld na overleg in de Ministerraad.Hoofdstuk 4. - Inwerkingtreding 
+van hoofdstuk 2 Art. 7.  Het hoofdstuk 2 van deze wet treedt in werking de dag waarop deze 
+wet in het Belgisch Staatsblad wordt bekendgemaakt.Hoofdstuk 5. - Tijdelijke werkloosheid overmacht 
+corona voor werknemers in de gevallen waarin het onmogelijk is voor hun kind om naar het kinderdagverblijf, 
+de school, of het centrum voor opvang voor personen met een handicap te gaan Art. 8.  De werknemer 
+heeft het recht om, zonder loonbehoud, van het werk afwezig te zijn: 1° wanneer een minderjarig 
+kind dat met hem samenwoont hetzij niet naar zijn kinderdagverblijf kan gaan, hetzij niet naar school 
+kan gaan, omdat het kinderdagverblijf, de klas of de school waarvan het deel uitmaakt wordt gesloten 
+als gevolg van een maatregel om de verspreiding van het coronavirus COVID-19 te beperken, of omdat het 
+minderjarig kind verplicht afstandsonderwijs moet volgen of omdat het kind omwille van een andere reden 
+in quarantaine of in isolatie moet om de verspreiding van het coronavirus COVID-19 te beperken;2° 
+wanneer hij een gehandicapt kind ten laste heeft, ongeacht de leeftijd van dat kind, en dat kind niet 
+naar een centrum voor opvang van gehandicapte personen kan gaan, of de intramurale of extramurale dienstverlening 
+of behandeling georganiseerd of erkend door de Gemeenschappen niet langer kan genieten, als gevolg van 
+een maatregel om de verspreiding van het coronavirus COVID-19 te beperken.De werknemer heeft 
+dit recht gedurende de gehele periode waarop het attest of de aanbeveling voorzien in het vierde lid 
+betrekking heeft.Wanneer de werknemer samenwoont met de andere ouder van het kind, kan dit 
+recht voor éénzelfde periode slechts door één van hen worden uitgeoefend.De werknemer die gebruik 
+maakt van dit recht dient zijn werkgever daarvan onmiddellijk op de hoogte te brengen. De werknemer dient 
+onverwijld aan de werkgever een medisch certificaat tot bevestiging van quarantaine of isolatie van het 
+kind, een aanbeveling tot quarantaine of isolatie afgegeven door de bevoegde instantie of een attest 
+van het kinderdagverblijf, van de school of het centrum voor opvang van gehandicapte personen te overhandigen, 
+dat de sluiting bevestigt van de betrokken instelling of de klas als gevolg van een maatregel om de verspreiding 
+van het coronavirus COVID-19 te beperken. In dit attest staat de periode vermeld waarin de sluiting van 
+toepassing is.De werknemer heeft, voor de periode waarin hij gebruik maakt van het recht dat 
+hem door dit artikel wordt toegekend, ten laste van de RVA recht op tijdelijke werkloosheid wegens overmacht 
+die het gevolg is van de COVID-19-epidemie en de eraan gekoppelde dagelijkse toeslag ten laste van de 
+RVA, voor zover hij aan alle toelaatbaarheids- en vergoedbaarheidsvoorwaarden voldoet die daartoe in 
+de werkloosheidsreglementering worden gesteld. Art. 9.  Dit hoofdstuk heeft uitwerking met 
+ingang van 1 oktober 2021 en treedt buiten werking op 31 maart 2022.De Koning kan de datum 
+van buitenwerkingtreding uitstellen.Kondigen deze wet af, bevelen dat zij met 's Lands zegel 
+zal worden bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.Gegeven te Brussel, 
+23 december 2021.FILIPVan Koningswege : De Minister van Werk,P.-Y. 
+DERMAGNE Met 's Lands zegel gezegeld :De Minister van Justitie,V. VAN QUICKENBORNE_______Nota 
+Kamer van volksvertegenwoordigers (www.dekamer.be): Stukken: Doc 55 2342/ (2021/2022)001: 
+Wetsontwerp002 tot 004: Amendementen005: Verslag006: Tekst aangenomen door 
+de Commissie Sociale Zaken, Werk en Pensioenen.007: Tekst aangenomen door de plenaire vergadering 
+en aan de Koning ter bekrachtiging voorgelegd.Integraal verslag: 22 december 2021.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-01-12Numac : 2021206128
+

@@ -1,0 +1,155 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/02/2020042128/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-08Numac : 2020042128
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 2 JULI 2020. - Besluit van de Brusselse Hoofdstedelijke Regering houdende maatregelen inzake rijopleiding voor de versoepeling van de lockdown om de verspreiding van COVID-19 in te perken 
+De Brusselse 
+Hoofdstedelijke Regering,A. Gelet op de volgende teksten en adviezen:A.1. Artikel 
+6, § 1, XII van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen; 
+A.2. Artikels 4 en 8 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen;A.3. 
+Volmachtenbesluit nr. 2020/001 van de Brusselse Hoofdstedelijke Regering van 2 april 2020 betreffende 
+de tijdelijke opschorting van de verval- en beroepstermijnen die vastgelegd zijn in de Brusselse wetgeving 
+en reglementering of die op grond daarvan zijn ingevoerd;A.4. Volmachtenbesluit nr. 2020/002 
+van de Brusselse Hoofdstedelijke Regering van 9 april 2020 houdende maatregelen inzake mobiliteit, openbare 
+werken en verkeersveiligheid om de verspreiding van het coronavirus in te perken;A.5. De wet 
+betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968;A.6. Het koninklijk 
+besluit van 23 maart 1998 betreffende het rijbewijs;A.7. Het koninklijk besluit van 29 juni 
+2003 betreffende de opleiding van bestuurders van transporteenheden die andere gevaarlijke goederen dan 
+radioactieve stoffen over de weg vervoeren;A.8. Het koninklijk besluit van 11 mei 2004 betreffende 
+de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen; A.9. Het koninklijk 
+besluit van 4 mei 2007 betreffende het rijbewijs, de vakbekwaamheid en de nascholing van bestuurders 
+van voertuigen van de categorieën C1, C1+E, C, C+E, D1, D1+E, D, D+E; A.10. Het besluit van 
+de Brusselse Hoofdstedelijke Regering van 21 januari 2010 tot vaststelling van de voorwaarden voor de 
+toegang tot het beroep van ondernemer van personenvervoer over de weg voor het geregeld vervoer en de 
+bijzondere vormen van geregeld vervoer; A.11. Het koninklijk besluit van 13 juni 2010 houdende 
+de erkenning van de beroepskwalificaties die door rijinstructeurs en directeurs van rijscholen werden 
+verworven in de lidstaten van de Europese Gemeenschap, alsook tot wijziging van het koninklijk besluit 
+van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen; 
+A.12. Het besluit van de Brusselse Hoofdstedelijke Regering van 29 maart 2018 betreffende de rijopleiding 
+en het rijexamen van categorie van motorvoertuigen B en bepaalde aspecten voor alle categorieën van motorvoertuigen; 
+A.13. Het ministerieel besluit van 23 oktober 2018 tot vaststelling van de regels inzake de rijopleiding, 
+en het rijexamen, de retributies en de beroepscommissie; A.14. Het ministerieel besluit van 
+18 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken; 
+A.15. Advies 67.678/4 van de Raad van State, gegeven op 29 juni 2020, bij toepassing van artikel 
+84, § 1, lid 1, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973 (de 
+motivatie van de noodsituatie wordt uitgewerkt in de punten B.4 tot en met B.8 hieronder); B. 
+Overwegende wat volgt:B.1. België maakt momenteel een grootschalige gezondheidscrisis door 
+in verband met de pandemie van het coronavirus SARS-CoV2, drager van de ziekte COVID-19;B.2. 
+De zogenaamde maatregelen van "lockdown" en "social distancing" die de federale minister van Binnenlandse 
+Zaken heeft genomen in maart 2020 om de verspreiding van het virus te beperken, hebben tot gevolg dat 
+vele onderdelen van de economie verlamd raken; alle operatoren die actief zijn in de rijopleidingssector 
+hebben als gevolg van deze maatregelen en van de volmachtbesluit nr. 2020/002 van de Brusselse Hoofdstedelijke 
+Regering van 9 april 2020 houdende maatregelen inzake mobiliteit, openbare werken en verkeersveiligheid 
+om de verspreiding van het coronavirus in te perken, hun activiteiten onmiddellijk moeten opschorten;B.3. 
+Aangezien de genomen maatregelen momenteel de verwachte effecten hebben, moet er vanaf nu, rekening houdend 
+met de geleidelijke opheffing van deze maatregelen en met de laatste aanbevelingen van het Nationaal 
+Crisiscentrum, gezorgd worden voor een geleidelijke en ordelijke heropstart van de activiteiten waarvan 
+de werking door deze maatregelen aangepast was; B.4. Voor de rijopleiding is het dringend noodzakelijk 
+de hervatting van de activiteiten te organiseren, aangezien de opschorting van de activiteiten gedurende 
+drie maanden betekent dat degenen die niet in staat zijn geweest de vereiste opleiding te volgen of de 
+vereiste examens in deze periode af te leggen, worden toegevoegd aan degenen die dat in de komende maanden 
+wel van plan waren; de sector zal deze uitzonderlijke hoeveelheid verzoeken dus niet tijdig kunnen opvangen;B.5 
+Deze toevloed van aanvragen heeft tot gevolg dat, indien er geen maatregelen worden genomen, bepaalde 
+personen, om hun opleidings- en/of testproces voort te zetten, bepaalde reeds genomen stappen moeten 
+herhalen, omdat ze niet binnen de door de verschillende hierboven vermelde besluiten vereiste termijnen 
+zijn genomen;B.6. Aangezien de gezondheidscrisis nog niet voorbij is, is het van essentieel 
+belang om de vermenigvuldiging van de contacten tussen mensen zoveel mogelijk te vermijden, en daarom 
+moeten de betrokken termijnen worden verlengd;B.7. De formele goedkeuring van dit besluit is 
+urgent, om dezelfde reden: het is absoluut noodzakelijk om het aantal personen dat zich in de periode 
+tussen de hervatting van de activiteiten en de verlenging van de termijnen zou engageren, zoveel mogelijk 
+te beperken, om - bovendien onnodig, gezien de verlenging van de termijnen - de betrokken stappen te 
+herhalen;B.8. Aangezien iedere dag die verstrijkt bijdraagt aan de verzadiging van de sector 
+en de gezondheidsrisico's, dient het huidige besluit dringend te worden aangenomen;Op voorstel 
+van de minister belast met Mobiliteit, Openbare Werken en Verkeersveiligheid;Na beraadslaging,Besluit 
+:Artikel 1. In afwijking van artikel 34, lid 1 van het koninklijk besluit van 23 maart 1998 
+betreffende het rijbewijs en artikel 3.2.4, § 2 van het besluit van de Brusselse Hoofdstedelijke 
+Regering van 29 maart 2018 betreffende de rijopleiding en het rijexamen van categorie van motorvoertuigen 
+B en bepaalde aspecten voor alle categorieën van motorvoertuigen, wordt de geldigheid van het attest 
+van het slagen in het theoretisch examen die vervalt vanaf 13 maart tot en met 30 december 2020 verlengd 
+tot en met 31 december 2020.Art. 2.  In afwijking van artikel 2.2.13 van voormeld besluit van 
+de Brusselse Hoofdstedelijke Regering van 29 maart 2018 en van artikel 16, lid 3 van het koninklijk besluit 
+van 23 maart 1998 betreffende het rijbewijs, wordt de termijn van drie jaar tijdens dewelke de gevolgde 
+lesuren in een rijschool in aanmerking genomen worden die vervalt vanaf 13 maart tot en met 30 december 
+2020 verlengd tot en met 31 december 2020.Art. 3. In afwijking van artikel 39, § 2, 
+lid 1 van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs wordt de geldigheidsduur 
+van het slagen voor de proef op een terrein buiten het verkeer die vervalt vanaf 13 maart tot en met 
+30 december 2020 verlengd tot en met 31 december 2020.Art. 4. In afwijking van artikel 3.2.12, 
+§ 1, lid 2, van voormeld besluit van de Brusselse Hoofdstedelijke Regering van 29 maart 2018 wordt 
+de geldigheidsperiode van een jaar van het slagen voor de risicoperceptietest die vervalt vanaf 13 maart 
+tot en met 30 december 2020 verlengd tot en met 31 december 2020.Art. 5.  In afwijking van 
+artikel 2.2.14, lid 4 van voormeld besluit van de Brusselse Hoofdstedelijke Regering van 29 maart 2018 
+en van artikels 11 en 12 van het ministerieel besluit van 23 oktober 2018 tot vaststelling van de regels 
+inzake de rijopleiding, en het rijexamen, de retributies en de beroepscommissie wordt de geldigheidsduur 
+van twee jaar van de attesten van de EHBO-opleiding, van de brevetten en getuigschriften die toelaten 
+een vrijstelling voor de EHBO-opleiding te bekomen zoals bedoeld in voormeld artikel 2.2.14 en van deze 
+vrijstellingen die vervalt vanaf 13 maart tot en met 30 december 2020 verlengd tot en met 31 december 
+2020.Art. 6.  De rijgeschiktheidsattesten vermeld in bijlage 6, XII van het koninklijk besluit 
+van 23 maart 1998 betreffende het rijbewijs waarvan de geldigheid vervalt vanaf 13 maart tot en met 30 
+december 2020 verlengd tot en met 31 december 2020.Art. 7.  Worden verminderd ten belope van 
+een zesde van het voor het jaar 2020 opeisbare bedrag, de jaarlijkse retributies te betalen door: 1° 
+ de erkende rijscholen in overeenstemming met artikel 10, § 2 van het koninklijk besluit van 11 
+mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen;2° 
+ de opleidingscentra in overeenstemming met artikel 26bis, § 6, lid 2, van het koninklijk besluit 
+van 23 maart 1998.Art. 8.  In afwijking van artikel 33, § 2, lid 1 van het koninklijk 
+besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen 
+wordt de geldigheidsduur voor de stagetoelating verlengd:1°  met zes maanden voor kandidaten 
+die hun examens in het Vlaamse Gewest hebben afgelegd en waarvan de toelating is afgegeven vóór 11 mei 
+2020; 2°  tot en met 31 december 2020 voor kandidaten die hun examens in het Waalse Gewest 
+hebben afgelegd en waarvan de toelating verloopt vanaf 16 maart 2020 tot en met 30 september 2020.Art. 
+9.  In afwijking van artikel 33, § 6, lid 3 van voormeld koninklijk besluit van 11 mei 2004 wordt 
+de geldigheidsduur van het stageattest dat vervalt vanaf 13 maart tot en met 30 december 2020 tot en 
+met 31 december verlengd.Afdeling 3. - SlotbepalingenArt. 10.  Dit besluit treedt 
+in werking op de dag van de publicatie ervan in het Belgisch Staatsblad.Art. 11.  De minister 
+belast met Mobiliteit, Openbare Werken en Verkeersveiligheid wordt belast met de uitvoering van dit besluit.Brussel, 
+2 juli 2020.Voor de Brusselse Hoofdstedelijke Regering:De Minister-president van 
+de Brusselse Hoofdstedelijke Regering, belast met Territoriale Ontwikkeling en Stadsvernieuwing, Toerisme, 
+de Promotie van het Imago van Brussel en Biculturele Zaken van Gewestelijk Belang, R. VERVOORTDe 
+Minister belast met Mobiliteit, Openbare Werken en Verkeersveiligheid, E. VAN DEN BRANDT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-08Numac : 2020042128
+

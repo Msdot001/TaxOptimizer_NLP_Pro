@@ -1,0 +1,108 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-28Numac : 2021021582
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 20 JULI 2021. - Besluit van de Voorzitter van het Directiecomité tot wijziging van het besluit van de Voorzitter van het Directiecomité van 9 december 2015 tot oprichting van de KMO Centra binnen de Administratie Kleine en Middelgrote Ondernemingen van de Algemene Administratie van de Fiscaliteit en tot vaststelling van hun zetel en hun materiële en territoriale bevoegdheid zoals gewijzigd door de besluiten van de Voorzitter van het Directiecomité van 28 juni 2016, 2 december 2016, 8 december 2017, 24 januari 2018, 11 juli 2018, 14 september 2018, 20 maart 2019, 10 juli 2019, 24 december 2019, 4 juni 2020 en 26 november 2020 
+De 
+Voorzitter van het Directiecomité,Gelet op het advies van de Inspecteur van Financiën, gegeven 
+op 15 juli 2021,Besluit :Artikel 1. In artikel 1 van het besluit van de Voorzitter 
+van het Directiecomité van 9 december 2015 tot oprichting van de KMO Centra binnen de Administratie Kleine 
+en Middelgrote Ondernemingen van de Algemene Administratie van de Fiscaliteit en tot vaststelling van 
+hun zetel en hun materiële en territoriale bevoegdheid, zoals gewijzigd door de besluiten van de Voorzitter 
+van het Directiecomité van 28 juni 2016, 2 december 2016, 8 december 2017, 24 januari 2018, 11 juli 2018,14 
+september 2018, 20 maart 2019, 10 juli 2019, 24 december 2019, 04 juni 2020 en 26 november 2020 worden 
+de bepalingen onder 7°,  10°,  12°  en 13°  vervangen als volgt: "7°  KMO Centrum Hasselt waarvan 
+de zetel gevestigd is in Hasselt en met een standplaats in Genk, Pelt en Tongeren;10°  KMO 
+Centrum Gent waarvan de zetel gevestigd is in Gent en met een standplaats in Oudenaarde; 12° 
+ KMO Centrum Leuven waarvan de zetel gevestigd is in Leuven en met een standplaats in Diest, Dilbeek, 
+Halle, Ternat en Vilvoorde; 13°  KMO Centrum Brugge waarvan de zetel gevestigd is in Brugge 
+en met een standplaats in Oostende en Roeselare;".Art. 2. In artikel 1bis van hetzelfde besluit 
+worden de volgende wijzigingen aangebracht:a) de woorden "de volgende dienst" worden vervangen 
+door de woorden "de volgende diensten"b) worden de bepalingen onder 2°  tot 6°  ingevoegd, 
+luidende:" 2°  de dienst Management Ondersteuning - PB en CRM; 3°  de dienst Management 
+Ondersteuning - VenB; 4°  de dienst Management Ondersteuning - btw; 5°  de dienst 
+Management Ondersteuning - Specifieke materies; 6°  de Dienst Taks Audit & Compliance Management."Art. 
+3. In de artikelen 3bis en 4bis van hetzelfde besluit worden de woorden "de dienst bedoelde in artikel 
+1bis" vervangen door de woorden "de diensten bedoeld in artikel 1bis".Art. 4. In hetzelfde 
+besluit wordt de bijlage 1 vervangen door de bijlage 1 gevoegd bij dit besluit.Art. 5. Dit 
+besluit treedt in werking op 1 september 2021 met uitzondering van de bepalingen 10°  en 13°  van artikel 
+1 die op 1 oktober 2021 in werking treden.Brussel, 20 juli 2021.H. D'HONDTBijlage 
+1 bij het besluit van de Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën 
+van 20 juli 2021 tot wijziging van het besluit van de Voorzitter van het Directiecomité van 9 december 
+2015 tot oprichting van de KMO Centra en het Centrum Buitenland binnen de Administratie Kleine en Middelgrote 
+Ondernemingen van de Algemene Administratie van de Fiscaliteit en tot vaststelling van hun zetel en hun 
+materiële en territoriale bevoegdheid zoals gewijzigd door de besluiten van de Voorzitter van het Directiecomité 
+van 28 juni 2016, 2 december 2016, 8 december 2017, 24 januari 2018, 17 juli 2018, 14 september 2018, 
+20 maart 2019, 10 juli 2019, 24 december 2019, 4 juni 2020 en 26 november 2020. 
+ Benaming KMO Centrum Territoriale bevoegdheid Met betrekking tot de in artikel 3 van het 
+besluit van 9 december 2015 bedoelde materiële bevoegdheden met uitzondering van de vennootschapsbelasting, 
+de belasting niet-inwoners vennootschappen en de belasting over de toegevoegde waarde Met betrekking 
+tot de volgende materiële bevoegdheden : - de vennootschapsbelasting- de belasting niet-inwoners 
+vennootschappen- de belasting over de toegevoegde waarde KMO Centrum Antwerpen 
+KMO Centrum MechelenKMO Centrum HasseltKMO Centrum GentKMO Centrum AalstKMO 
+Centrum LeuvenKMO Centrum BruggeKMO Centrum Kortrijk Het Nederlandse taalgebied 
+Het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad KMO Centrum 
+CharleroiKMO Centrum BergenKMO Centrum Namen Het Franse taalgebied Het Franse 
+taalgebied en het tweetalige gebied Brussel-Hoofdstad KMO Centrum Brussel IKMO 
+Centrum Brussel II Het Koninkrijk België met uitzondering van 
+de gemeenten Amel, Büllingen, Burg-Reuland, Bütgenbach, Eupen, Kelmis, Lontzen, Raeren en Sankt-Vith 
+KMO Centrum Luik Het Franse taalgebied en het Duitse taalgebied Het Franse 
+taalgebied, het tweetalige gebied Brussel-Hoofdstad en het Duitse taalgebied KMO Centrum 
+Specifieke Materies Het Koninkrijk België met uitzondering van 
+de gemeenten Amel, Büllingen, Burg-Reuland, Bütgenbach, Eupen, Kelmis, Lontzen, Raeren en Sankt-Vith
+ Gezien om te worden gevoegd bij het besluit van 20 juli 2021 van de Voorzitter van 
+het Directiecomité tot wijziging van het besluit van de Voorzitter van het Directiecomité van 9 december 
+2015 tot oprichting van de KMO Centra en het Centrum Buitenland binnen de Administratie Kleine en Middelgrote 
+Ondernemingen van de Algemene Administratie van de Fiscaliteit en tot vaststelling van hun zetel en hun 
+materiële en territoriale bevoegdheid zoals gewijzigd door de besluiten van de Voorzitter van het Directiecomité 
+van 28 juni 2016, 2 december 2016, 8 december 2017, 24 januari 2018, 17 juli 2018, 14 september 2018, 
+20 maart 2019, 10 juli 2019, 24 december 2019, 4 juni 2020 en 26 november 2020.Brussel, 20 
+juli 2021.De Voorzitter van het Directiecomité,H. D'HONDT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-28Numac : 2021021582
+

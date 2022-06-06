@@ -1,0 +1,104 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/09/22/2021021980/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-30Numac : 2021021980
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 22 SEPTEMBER 2021. - Ministerieel besluit tot wijziging van het ministerieel besluit van 11 februari 2021 tot vastlegging van de forfaitaire tegemoetkomingen zoals voorzien in artikel 3, § 1, van het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus COVID-19 epidemie, voor wat betreft de psychiatrische ziekenhuizen 
+De Minister van Volksgezondheid 
+en Sociale Zaken,Gelet op de Grondwet, artikel 108;Gelet op het koninklijk besluit 
+nr. 10 van 19 april 2020 voor de toekenning van en de regels voor de verdeling en vereffening van een 
+voorschot aan de algemene ziekenhuizen in het kader van de coronavirus COVID-19 epidemie, artikel 3/1, 
+ingevoegd bij het koninklijk besluit nr. 35 van 24 juni 2020, bekrachtigd bij de wet van 24 december 
+2020;Gelet op het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels 
+voor de toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het 
+kader van de coronavirus COVID-19 epidemie, artikel 3, § 2;Gelet op het ministerieel 
+besluit van 11 februari 2021 tot vastlegging van de forfaitaire tegemoetkomingen zoals voorzien in artikel 
+3, § 1, van het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor 
+de toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader 
+van de coronavirus COVID-19 epidemie, voor wat betreft de psychiatrische ziekenhuizen;Gelet 
+op het advies van de Federale Raad voor Ziekenhuisvoorzieningen, gegeven op 11 maart 2021;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 23 augustus 2021;Gelet op de akkoordbevinding 
+van de Staatsecretaris voor Begroting, gegeven 7 september 2021;Gelet op de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid; 
+Overwegende dat in het kader van de rechtszekerheid de ziekenhuizen zo snel mogelijk een duidelijk 
+beeld dienen te krijgen met betrekking tot hun rechten voor de jaren 2020 en 2021 op de voorschotten 
+en eventueel bijkomende middelen;Overwegende dat de ziekenhuizen zekerheid nodig hebben over 
+hun financiële toestand om met hun zorgaanbod en organisatie opnieuw de evoluties in de reguliere zorgvragen 
+te kunnen bijhouden; dat ze hiervoor immers moeten kunnen overgaan tot het vrijmaken en aanwenden van 
+eigen middelen of tot het ter beschikking krijgen van fondsen vanwege investeerders of banken ter aanvulling 
+van de publieke middelen;Overwegende dat de COVID-19 steunmaatregelen voor verschillende andere 
+sectoren aflopen op 30 september 2021;Overwegende dat de COVID-19 crisis stabiliseert en we 
+evolueren naar een toestand waarbij het een normale toestand wordt dat er COVID-19 patiënten in ziekenhuizen 
+zijn opgenomen, zonder dat dit nog de gehele organisatie van die ziekenhuizen zal beïnvloeden;Overwegende 
+dat het daarom noodzakelijk is dat de tegemoetkomingen voor de ziekenhuissector ook op 30 september 2021 
+aflopen in een context van gelijke behandeling, temeer deze tegemoetkomingen niet langer corresponderen 
+met evenredige kosten;Op de voordracht van de Minister van Sociale Zaken en Volksgezondheid,Besluit 
+:Artikel 1. In artikel 1 van het ministerieel besluit van 11 februari 2021 tot vastlegging 
+van de forfaitaire tegemoetkomingen zoals voorzien in artikel 3, § 1, van het koninklijk besluit 
+van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning van een uitzonderlijke federale 
+financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus COVID-19 epidemie, voor 
+wat betreft de psychiatrische ziekenhuizen, wordt het eerste lid vervangen als volgt:"De forfaitaire 
+tegemoetkoming, zoals voorzien in artikel 3, § 1, a), tweede streepje van het koninklijk besluit 
+van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning van een uitzonderlijke federale 
+financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus COVID-19 epidemie, voor 
+het COVID-19-klaar maken van het ziekenhuis, wordt vastgesteld op 130,12 euro per VTE.".Art. 
+2. Artikel 2 van hetzelfde besluit wordt vervangen als volgt:"De forfaitaire tegemoetkoming 
+zoals voorzien in artikel 3 § 1, b) van hetzelfde besluit, voor de niet-intensieve zorg aan COVID-19-patiënten 
+in psychiatrische ziekenhuizen, wordt vastgesteld op 144,10 euro per verpleegdag van de patiënt op een 
+niet-intensieve bed tijdens de maanden maart tot juni 2020.Voor de maanden juli 2020 tot september 
+2021 wordt de forfaitaire tegemoetkoming voor de zorgverlening zoals bedoeld in het eerste lid vastgesteld 
+op 159,00 euro per verpleegdag van de patiënt op een niet-intensieve bed.".Art. 3. In artikel 
+3 van hetzelfde besluit wordt vervangen als volgt:"De forfaitaire tegemoetkoming voorzien in 
+artikel 3, §  1, c), van hetzelfde besluit, voor de zorg aan niet-COVID-19-patiënten in psychiatrische 
+ziekenhuizen, wordt vastgesteld op 165,96 euro per VTE en per maand van maart tot juni 2020.Voor 
+de maanden juli 2020 tot en met september 2021, wordt de forfaitaire tegemoetkoming zoals bedoeld in 
+het eerste lid, vastgelegd op 120,57 euro per VTE en per maand.".Art. 4. Dit besluit heeft 
+uitwerking met ingang van 23 februari 2021.Brussel, 22 september 2021.Fr. VANDENBROUCKE 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-30Numac : 2021021980
+

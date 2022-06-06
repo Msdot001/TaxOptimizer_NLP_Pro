@@ -1,0 +1,701 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/09/26/2021021967/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-30Numac : 2021021967
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 26 SEPTEMBER 2021. - Koninklijk besluit tot wijziging van het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus COVID-19 epidemie 
+VERSLAG AAN DE KONINGSire,Het 
+ontwerp van koninklijk besluit dat ik de eer heb aan Uwe Majesteit ter ondertekening voor te leggen, 
+strekt ertoe het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor de 
+toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader 
+van de COVID-19 epidemie aan te vullen (hierna: KB UFFT) en hier verschillende technische aanpassingen 
+op aan te brengen. De voornaamste aanvullingen hebben betrekking op:- Een temporele uitbreiding 
+naar het tweede semester 2020 van bepaalde tegemoetkomingen (tegemoetkomingen met betrekking tot de dalende 
+reguliere activiteit en de bijkomende activiteiten van zorgverleners). Tevens wordt er voorzien in een 
+einddatum voor de meerkostenforfaits en het beschikbaarheidsforfait, namelijk 30 september 2021;- 
+Een materiële uitbreiding van de tegemoetkomingen door voor 2020 in een tegemoetkoming te voorzien ten 
+voordele van de ziekenhuizen waarbij rekening gehouden wordt met de gemiste inkomsten uit persoonlijke 
+aandelen van patiënten en vanwege patiënten die niet via een verzekeringsinstelling zijn aangesloten. 
+Voor de zelfstandige zorgverleners gefinancierd door honoraria wordt er in een betrokkenheidsforfait 
+voorzien voor de periode waarin de ziekenhuizen zich in fase 2B van het `Surge Capacity' Plan bevond. 
+Bovendien voorziet het voorliggende besluit in de toekenning van de aanmoedigingspremie aan de artsen-specialisten 
+in opleiding (ASO) en de huisartsen-in-opleiding (HAIO) in ziekenhuisstage, overeenkomstig aan de premie 
+voor het ziekenhuispersoneel zoals voorzien in artikel 74undecies van het Koninklijk besluit van 25 april 
+2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen. 
+Tot slot wordt de tegemoetkoming voor de ASO in drie onderdelen opgesplitst: de garantie voor de basisvergoeding, 
+een maandelijkse bruto premie van 250 EUR en de verdeling van een ziekenhuisbrede enveloppe. Deze laatste 
+twee zijn ook van toepassing op de HAIO in ziekenhuisstage;- Er worden een aantal controlemaatregelen 
+geëxpliciteerd, of, met betrekking tot uitbreidingen naar het tweede semester, sterker verankerd.Artikel 
+1 en 9 voorzien een tegemoetkoming voor de maanden oktober tot en met december 2020 voor de zelfstandige 
+zorgverleners gefinancierd door honoraria die op eigen initiatief of op vraag van de hoofdarts andere 
+activiteiten binnen het ziekenhuis hebben uitgevoerd ten gevolge van de door het Comité `Hopsital & Transport 
+Surge Capacity' gevraagde opschalingen in deze periode. Het opzet van deze financiering is om een bedrag 
+toe te kennen in verhouding met de getoonde inzet.Artikel 2 beschrijft welk personeelskosten 
+gedekt worden met tegemoetkomingen in het kader van het KB UFFT.Artikel 3 bevat enkele technische 
+aanpassingen en legt een einddatum vast voor de forfaitaire vergoedingen op 30 september 2021.Artikel 
+4 bevat technische correcties en in een uitbreiding van de tegemoetkomingen:- er wordt een 
+forfaitaire tegemoetkoming voorzien voor de gemiste inkomsten van ziekenhuizen uit facturaties ten laste 
+van de patiënt op basis van de tariefreglementering van de Ziekteverzekering. Deze vormen in de logica 
+van de Ziekteverzekering immers deel van de vergoeding voor de werkingskosten van de ziekenhuizen;- 
+er wordt een tussenkomst voorzien om de gemiste opbrengsten te dekken voor zorg aan patiënten die niet 
+bij een verzekeringsinstelling zijn aangesloten;- de voorziene tegemoetkomingen worden verlengd 
+naar het tweede semester 2020. Indien blijkt dat bepaalde ASO en HAIO die ten laste zijn van het ziekenhuis, 
+niet uitbetaald werden, kunnen deze bedragen afgehouden worden van de garantie op de afdrachten van het 
+daaropvolgende semester.Artikel 5 verduidelijkt in welke afrekeningsposten de tegemoetkomingen 
+worden opgenomen.In artikel 6 worden verschillende uitbreidingen en verduidelijkingen opgenomen:- 
+Bepaalde tegemoetkomingen worden uitgebreid naar de HAIO die in ziekenhuisstage waren tijdens de periodes 
+die in aanmerking komen;- De term `artsen-specialisten' wordt vervangen door `zorgverleners 
+gefinancierd door honoraria' gezien de tegemoetkoming ten goede van alle zorgverleners gefinancierd door 
+honoraria die bij de activiteit betrokken waren. .- De verwijzing naar de tegemoetkoming die 
+de afdrachten garandeert wordt gecorrigeerd;- De tegemoetkoming opgenomen in artikel 6, § 
+3, e) van het KB UFFT wordt uitgebreid, verfijnd en in drie onderdelen opgesplitst :- Het eerste 
+onderdeel heeft nog steeds betrekking op basisvergoeding voor de ASO. Hier wordt verduidelijkt dat het 
+gaat om de ASO die ten laste is van een zelfstandige arts, om te vermijden dat er sprake zou zijn van 
+een dubbele financiering. Sommige ASO worden immers betaald via de afdrachten op de honoraria, waarin 
+reeds wordt tegemoetgekomen in artikel 4, § 3, van het KB UFFT, en andere ASO zijn voor hun basisvergoeding 
+ten laste van een derde partij (Defensie, academische of wetenschappelijke instelling, gefinancierd via 
+een beurs). Het doel van deze tegemoetkoming is in eerste instantie de basisvergoeding garanderen. Indien 
+er nog een restsaldo blijft, dient dit te worden aangewend om aan de andere contractuele verplichtingen 
+te voldoen ten aanzien van ASO en HAIO, in zoverre deze ten laste zijn van een zelfstandig arts. Het 
+betreft hier met name de zogenaamde `variabele vergoedingen'. De `garantie' beoogt immers geenszins de 
+vergoeding van de ASO te beperken tot de basisvergoeding (de totale bruto vergoeding per maand van 5.000 
+EUR opgenomen in de berekeningsformule dekt immers zowel de bruto kost van de basisvergoeding als van 
+de variabele kosten). In artikel 10 van het besluit wordt artikel 8 van het KB UFFT gewijzigd om te verduidelijken 
+dat een andere aanwending mogelijk is, in zoverre dit beantwoordt aan de vereisten opgenomen in het besluit 
+en op voorwaarde dat de ASO en HAIO hun contractueel rechtmatige vergoedingen verkregen hebben. Deze 
+verduidelijking beoogt aldus het principe van een `garantie' duidelijker te verankeren en te vermijden 
+dat deze tegemoetkoming wordt aangewend om de `gewoonlijke lasten' op het honorarium te verlichten, zonder 
+dat er sprake is van een evenredige impact op de honoraria-inkomsten door de COVID-19-epidemie;- 
+het tweede deel moet toelaten om aan iedere ASO en HAIO werkzaam in het ziekenhuis een bruto premie van 
+250 euro bruto per maand te voorzien. Indien zij werkzaam waren in meerdere ziekenhuizen, gebeurt de 
+uitbetaling in onderlinge afspraak tussen deze ziekenhuizen om te verzekeren dat deze ASO slechts éénmaal 
+het brutobedrag krijgt uitbetaald per maand. Dit wordt aan de hand van het systeem van rapportering nagegaan 
+en op deze wijze in de afrekeningen opgenomen.- Een derde onderdeel bestaat uit een enveloppe 
+op ziekenhuisniveau waarmee, zo nodig, een aandeel van de variabele vergoedingen van de ASO en de extra-facturaties 
+van de HAIO gefinancierd kunnen worden. Naast deze aanwending, die beperkt dient te blijven tot het nodige, 
+is het opzet van deze tegemoetkoming om de ASO en HAIO die zich extra hebben ingezet te kunnen vergoeden 
+via een verhoging van hun variabele vergoeding wat de ASO betreft, of een bijkomende tegemoetkoming, 
+wat de HAIO betreft. Indien er in het ziekenhuis reeds beslist was om in het kader van COVID-19 extra 
+bedragen toe te kennen, dan mag het surplus ten aanzien van de gewoonlijke vergoedingen verrekend worden 
+op de enveloppe. Een saldo op deze enveloppe dient steeds te worden aangewend ten behoeve van de ASO 
+en HAIO die tijdens de betrokken maand werkzaam waren in het ziekenhuis: hetzij in de vorm van een specifieke 
+vergoeding voor een ASO of HAIO ter erkenning van een bijzondere inzet, hetzij door het verhogen van 
+de maandelijkse bruto premie van alle ASO en HAIO.- De tegemoetkomingen in artikel 6, a) t.e.m. 
+e) van het KB UFFT worden verlengd naar het tweede semester 2020.- deze verlenging wordt wat 
+betreft de tegemoetkomingen onder e) afhankelijk gemaakt van het respecteren van de gestelde voorwaarden. 
+Dit om te vermijden dat er bedragen worden toegekend die niet voor het beoogde doeleinde worden aangewend.- 
+vanuit hetzelfde achterliggende idee, wordt bij de verlenging van de tegemoetkomingen onder a) tot d) 
+rekening gehouden met bedragen van het voorgaande semester die kennelijk in strijd met de in het besluit 
+opgenomen verdelingsprincipes werden uitbetaald door deze in mindering te brengen van de afrekening van 
+het daaropvolgende semester.- er wordt een uitzonderlijke aanmoedigingspremie voorzien voor 
+de ASO en HAIO in het ziekenhuis, naar analogie van deze voor het ziekenhuispersoneel.Artikel 
+7 past het opschrift van hoofdstuk 5 van het KB UFFT aan om hierin ook het betrokkenheidsforfait te includeren.Artikel 
+8 worden de bepalingen van artikel 7 van het KB UFFT duidelijker geformuleerd en wordt er een begrenzing 
+in de tijd voorzien door een einddatum toe te voegen.In artikel 9 van het besluit wordt er 
+in een nieuwe tegemoetkoming voorzien, namelijk een` betrokkenheidsforfait'. Dit wordt toegekend voor 
+de maanden oktober tot en met december 2020 op basis van het aantal gereserveerde bedden in fase 2B. 
+Deze `enveloppe' is bedoeld om een bedrag toe te kennen aan zelfstandige zorgverleners gefinancierd door 
+honoraria in het ziekenhuis die vrijwillig of in opdracht van de hoofdarts belast werden met andere taken 
+dan de taken die ze gewoonlijk uitvoeren.In artikel 10 van het wijzigingsbesluit worden er 
+een aantal verduidelijkingen en aanpassingen voorzien:- de toekenning van tegemoetkomingen 
+aan zelfstandige zorgverleners gefinancierd door honoraria houdt rekening met het aantal VTE van de zelfstandige 
+zorgverleners ten aanzien van het totale aantal VTE van zorgverleners gefinancierd door honoraria. Dit 
+betreft slechts een verduidelijking van wat er bedoeld werd met de verwijzing naar `aandeel' en de relatie 
+met het opgevraagde `tewerkstellingspercentage';- voor de toekenning aan het ziekenhuis van 
+de waarborg van de permanentie-honoraria op het niveau van 2019 wordt er in rekening gehouden met de 
+verhouding VTE zelfstandige artsen t.a.v. de VTE van alle artsen. Deze aanpassing houdt rekening met 
+het gegeven dat deze honoraria uitsluitend door artsen kunnen aangerekend worden. Dit vormt een uitbreiding 
+van de tegemoetkoming. Het toegekende bedrag wordt echter niet voorbehouden aan de verdeling door de 
+medische raad of aan zelfstandige artsen. Dit bedrag wordt zoals andere bedragen voor zelfstandige zorgverleners 
+eerst verdeeld tussen medische raad en het `ad hoc' orgaan voor andere zelfstandige zorgverleners gefinancierd 
+door honoraria, m.a.w. tussen de zelfstandige artsen en de zelfstandige andere zorgverleners gefinancierd 
+door honoraria. Het gaat immers niet om een inkomenswaarborg, maar om een tegemoetkoming ten voordele 
+van zowel artsen als andere zorgverleners gefinancierd door honoraria die permanenties verzorgden gedurende 
+de betrokken COVID-19 periode;- er wordt een verdelingswijze voorzien voor de budgetten voor 
+zelfstandige zorgverleners gefinancierd door honoraria, namelijk tussen de zelfstandige artsen en de 
+andere zelfstandige zorgverleners gefinancierd door honoraria. Aangezien de budgetten voor gesalarieerde 
+zorgverleners gefinancierd door honoraria bij één beslissingsorgaan terecht komen, namelijk het ziekenhuis, 
+wordt voor deze groep geen expliciete opsplitsing voorzien.- Er wordt verduidelijkt dat de 
+berekeningen van de tegemoetkomingen voor de ASO en HAIO eveneens vertrekken van lijsten aangeleverd 
+door het ziekenhuis.- De toekenningsmogelijkheden aan de individuele zorgverleners worden duidelijker 
+gedefinieerd.- Er wordt een expliciete mogelijkheid voor herziening van de tegemoetkomingen 
+voor de ASO en HAIO ingeschreven op basis van de werkelijke uitbetaling.Artikel 11 van het 
+wijzigingsbesluit past als volgt aangepast:- Er wordt een schuldvergelijking mogelijk gemaakt 
+tussen semesters indien een ziekenhuis dat voor een gegeven semester een positief voorlopig saldo heeft, 
+een negatief voorlopig saldo of negatieve voorlopige saldi heeft uit vorige semesters. Dit om te vermijden 
+dat er bijstortingen gebeuren ten laste van de ziekteverzekering, terwijl er nog bedragen teruggevorderd 
+dienen te worden. Op het moment van de definitieve afrekening wordt er rekening gehouden met alle laatst 
+mogelijke informatie;- de bepaling inzake de tijdelijke werkloosheid wordt aangepast om correcter 
+de werkelijke kostprijs te benaderen van de betrokken werknemer die op tijdelijke werkloosheid werd gezet.Artikel 
+12 past artikel 10 van het KB UFFT aan door inzake de eerste twee voorwaarden te verduidelijken dat er 
+geen oogmerk mag zijn om de kosten gelieerd aan de COVID-19 crisis door te schuiven naar de patiënt. 
+Dit is niet het geval indien een verhoging van ereloonsupplementen of afdrachten het gevolg is van reeds 
+lang vaststaande investeringsbeslissingen, waarbij de COVID-19 epidemie geen invloed heeft op de herkomst 
+van de middelen en er ook zonder de COVID-19 crisis sprake geweest zou zijn van een verhoging. Deze voorwaarden 
+met betrekking tot de verhogingen van ereloonsupplementen of afdrachten blijven van toepassing zolang 
+er sprake is van tegemoetkomingen.Artikel 13 van het besluit voegt een nieuw artikel 10/1 toe 
+aan het KB UFFT waarin geëxpliciteerd wordt dat de gewoonlijke controle door de dossierbeheerders van 
+de FOD VVVL en de Dienst geneeskundige evaluatie en controle van het RIZIV van toepassing blijft. Gezien 
+het om bedragen van de Ziekteverzekering gaat, kunnen bedragen teruggevorderd worden volgens de procedure 
+voorzien in de wet op de verplichte verzekering voor geneeskundige verzorging en uitkeringen.Artikel 
+14 van het besluit voorziet een inwerkingtreding op 12 november 2020, overeenkomstig de inwerkingtreding 
+van het KB UFFT dat door het voorliggend besluit gewijzigd wordt.Ik heb de eer te zijn,Sire,Van 
+Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De Minister van Sociale 
+Zaken en Volksgezondheid,F. VANDENBROUCKE26 SEPTEMBER 2021. - Koninklijk 
+besluit tot wijziging van het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels 
+voor de toekenning van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het 
+kader van de coronavirus COVID-19 epidemieFILIP, Koning der Belgen, Aan allen die 
+nu zijn en hierna wezen zullen, Onze Groet.Gelet op de Grondwet, artikel 108;Gelet 
+op de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, artikelen 
+92, 101, eerste lid, 2°,  105, § 1 en 127;Gelet op het koninklijk besluit nr. 10 van 
+19 april 2020 voor de toekenning van en de regels voor de verdeling en vereffening van een voorschot 
+aan de algemene ziekenhuizen in het kader van de coronavirus COVID-19 epidemie, artikel 3/1, ingevoegd 
+bij het koninklijk besluit nr. 35 van 24 juni 2020, bekrachtigd bij de wet van 24 december 2020;Gelet 
+op het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning 
+van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus 
+COVID-19 epidemie;Gelet op het advies van de Federale Raad voor Ziekenhuisvoorzieningen, gegeven 
+op 12 november 2020;Gelet op het artikel 8 van de wet van 15 december 2013 houdende diverse 
+bepalingen inzake administratieve vereenvoudiging, is dit besluit vrijgesteld van een regelgevingsimpactanalyse 
+gezien de hoogdringendheid gemotiveerd door de noodzaak de ziekenhuizen zo snel mogelijk een duidelijk 
+beeld te geven met betrekking tot hun rechten voor de jaren 2020 en 2021 op de voorschotten en eventueel 
+bijkomende middelen;Gelet op het advies van de inspecteur van Financiën, gegeven op 23 augustus 
+2021;Gelet op de akkoordbevinding van de Staatssecretaris voor Begroting, gegeven op 7 september 
+2021;Gelet op het Besluit van de Commissie van 20 december 2011 betreffende de toepassing van 
+artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de 
+vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen 
+economisch belang belaste ondernemingen;Gelet op de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid; Overwegende 
+dat in het kader van de rechtszekerheid de ziekenhuizen zo snel mogelijk een duidelijk beeld dienen te 
+krijgen met betrekking tot hun rechten voor de jaren 2020 en 2021 op de voorschotten en eventueel bijkomende 
+middelen;Overwegende dat de ziekenhuizen zekerheid nodig hebben over hun financiële toestand 
+om met hun zorgaanbod en organisatie opnieuw de evoluties in de reguliere zorgvragen te kunnen bijhouden; 
+dat ze hiervoor immers moeten kunnen overgaan tot het vrijmaken en aanwenden van eigen middelen of tot 
+het ter beschikking krijgen van fondsen vanwege investeerders of banken ter aanvulling van de publieke 
+middelen;Overwegende dat de COVID-19 steunmaatregelen voor verschillende andere sectoren aflopen 
+op 30 september 2021;Overwegende dat de COVID-19 crisis stabiliseert en we evolueren naar een 
+toestand waarbij het een normale toestand wordt dat er COVID-19 patiënten in ziekenhuizen zijn opgenomen, 
+zonder dat dit nog de gehele organisatie van die ziekenhuizen zal beïnvloeden;Overwegende dat 
+het daarom noodzakelijk is dat de tegemoetkomingen voor de ziekenhuissector ook op 30 september 2021 
+aflopen in een context van gelijke behandeling, temeer deze tegemoetkomingen niet langer corresponderen 
+met evenredige kosten;Overwegende dat er veel onduidelijkheid bestaat op het terrein over de 
+precieze verdelingsmodaliteiten van de toegekende middelen en de voorliggende wijzigingen hierin meer 
+duidelijkheid verschaffen;Overwegende dat de ASO's en HAIO's van stageplaats veranderen of 
+hun opleiding finaliseren en de ziekenhuizen hen zo snel mogelijk de tegemoetkomingen moeten kunnen overmaken 
+waar zij aanspraak op hebben; evenals aan eventuele andere zorgverleners die het ziekenhuis verlaten;Overwegende 
+dat de ziekenhuizen bepaalde opbrengsten met een andere bron dan de Ziekteverzekering derven, namelijk 
+deze gelieerd aan het persoonlijk aandeel van de patiënt en deze met betrekking tot patiënten die niet 
+zijn aangesloten bij een verzekeringsinstelling, zoals bedoeld in de wet van 14 juli 1994 betreffende 
+de verplichte verzekering voor geneeskundige verzorging en uitkeringen; dat deze inkomsten vanuit de 
+logica van de Verplichte Ziekteverzekering een functioneel complement vormen in de compensatie van de 
+werkingskosten van de ziekenhuizen en nodig zijn om continuïteit in de zorgcapaciteit te verzekeren;Overwegende 
+dat gedurende de periode van juli tot september 2020, de hervatting van de normale ziekenhuisactiviteit 
+nog beperkt bleef omwille van de aangehouden sanitaire maatregelen en de voortgezette maatregelen om 
+ziekenhuiscapaciteit beschikbaar te houden om een eventuele heropleving van de epidemie te kunnen opvangen; 
+dat er vanaf oktober 2020 sprake was van een sterke heropleving van de epidemie en dat een opschaling 
+van de COVID-19 capaciteit werd uitgevoerd in het kader van het Surge Capacity Plan op basis van de verschillende 
+fases voorzien door het `Hospital & transport surge capacity' Comité waardoor de ziekenhuizen en ziekenhuiszorgverleners 
+zich opnieuw moesten toespitsen op zorg aan COVID-19 patiënten en zich voor het overige moesten beperken 
+tot patiënten die niet-uitstelbare en dringende zorg behoefden; dat er zich ook vanaf midden maart 2021 
+een nieuwe golf voordeed;Overwegende dat deze gezondheidscrisis een enorme druk meebrengt voor 
+de zorgverleners die zich onverminderd blijven inzetten en zich steeds opnieuw schikken naar de noden 
+die zich aandienen; dat bij het koninklijk besluit van 14 december 2020 tot wijziging van het koninklijk 
+besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële 
+middelen van de ziekenhuizen er een uitzonderlijke aanmoedigingspremie voorzien wordt voor werknemers 
+en statutairen op de payroll van een ziekenhuis, alsook aan elk interim personeelslid en aan personeel 
+dat door een provinciale of plaatselijke overheidsdienst of door een andere entiteit aan een ziekenhuis 
+ter beschikking gesteld is; en dat middels dit voorliggend besluit maatregelen worden getroffen om ook 
+in een billijke ondersteuning te voorzien van de artsen-specialisten in opleiding (ASO) en de huisartsen-in-opleiding 
+(HAIO) in het ziekenhuis en van de zelfstandige zorgverleners die betrokken blijven in de ziekenhuiszorg, 
+maar een grondige wijziging in hun taakbedeling ondergaan ten gevolge van de huidige context;Op 
+de voordracht van de Minister van Sociale Zaken en Volksgezondheid en op het advies van de in Raad vergaderde 
+Ministers,Hebben Wij besloten en besluiten Wij :Artikel 1. In artikel 1, enige lid, 
+van het koninklijk besluit van 30 oktober 2020 tot vaststelling van de nadere regels voor de toekenning 
+van een uitzonderlijke federale financiële tegemoetkoming aan de ziekenhuizen in het kader van de coronavirus 
+COVID-19 epidemie, wordt de bepaling onder 4°  vervangen als volgt:"4°  De impact van de verplichte 
+reservatie van een percentage van de capaciteit aan ziekenhuisbedden voor COVID-19 zorg op de activiteit 
+van de zorgverleners die worden gefinancierd door honoraria, ofwel doordat ze verplicht beschikbaar dienen 
+te blijven voor deze gereserveerde capaciteit wegens hun inzetbaarheid voor COVID-19 zorg, ofwel doordat 
+ze ten gevolge van deze reorganisatie van de zorgcapaciteit andere taken uitvoeren op ziekenhuisniveau 
+dan gewoonlijk.".Art. 2. In artikel 2, § 2 van hetzelfde besluit, wordt de bepaling 
+onder b) vervangen als volgt:"b) bijkomende personeelskosten, met name bijkomend personeel 
+ingezet binnen een kostenplaats tussen 020 en 899 zoals voorzien in het koninklijk besluit van 14 augustus 
+1987 tot bepaling van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen, bovenop 
+het reguliere personeel, en met uitzondering van zowel het in de normen van de ziekenhuisdiensten opgenomen 
+zorgpersoneel als het ondersteunend personeel dat gefinancierd wordt door het Zorgpersoneelfonds, opgericht 
+ter uitvoering van de wet van 9 december 2019; daarnaast komen ook andere bijkomende personeelskosten 
+in aanmerking voor de tegemoetkoming, die bijvoorbeeld gerelateerd zijn aan meerprestaties en wachtdiensten, 
+bovenop de reguliere prestaties en dienstverlening;".Art. 3. In artikel 3 van hetzelfde besluit, 
+worden de volgende wijzigingen aangebracht:1°  paragraaf 1 wordt vervangen als volgt:" 
+§ 1. De forfaitaire tegemoetkoming, beoogd in artikel 2, § 1, voor de kosten die in artikel 
+2, § 2, in aanmerking worden genomen, wordt als volgt vastgelegd:a) voor het COVID-19-klaar 
+maken van het ziekenhuis wordt éénmalig toegekend:- aan de algemene ziekenhuizen: een bedrag 
+per COVID-19-bed dat werd klaargemaakt voor COVID-19-zorg. Het aantal COVID-19 bedden dat in aanmerking 
+komt voor elk ziekenhuis is het totaal aan COVID-19 bedden zoals vastgelegd in een ministerieel besluit;- 
+aan de psychiatrische ziekenhuizen: een vast bedrag per betaalde VTE ten laste van een kostenplaats tussen 
+020 en 899; het aantal betaalde VTE wordt vastgelegd is afkomstig van de FINHOSTA-gegevens voor het jaar 
+2018;b) voor de zorg aan COVID-19-patiënten wordt toegekend tot en met 30 september 2021:- 
+een bedrag per verpleegdag voor een COVID-19-patiënt. Dit bedrag verschilt naargelang het gaat om verpleegdag 
+op een niet-intensieve eenheid en op een intensieve eenheid. Bij het bedrag per verpleegdag op een niet-intensieve 
+eenheid wordt er een bijkomend onderscheid gemaakt tussen algemene en psychiatrische ziekenhuizen. Bij 
+het bedrag per verpleegdag op een intensieve eenheid wordt een bijkomend onderscheid gemaakt tussen patiënten 
+zonder ademhalingsondersteuning, met ademhalingsondersteuning en extracorporale membraanoxygenatie (ECMO) 
+-patiënten;- een bedrag per patiënt voor de COVID-19- en COVID-19-suspect-patiënten die op 
+de spoedgevallen werden gezien, zoals gedefinieerd door Sciensano;c) voor de zorg aan niet-COVID-19-patiënten 
+wordt toegekend voor de maanden waarin aanvullende beschermingsmaatregelen in het kader van de coronavirus 
+COVID-19 epidemie van toepassing zijn en uiterlijk tot en met 30 september 2021: een forfait dat de meerkosten 
+op niet-COVID-19-diensten dekt. Dit forfait wordt berekend op basis van het aantal betaalde VTE's ten 
+laste van een kostenplaats tussen 020 en 899. Dit forfait kan verschillen tussen algemene ziekenhuizen 
+en psychiatrische ziekenhuizen.";2°  paragraaf 3 wordt vervangen als volgt:" § 
+3. De aldus toegekende bedragen vormen post 1 van de voorlopige afrekeningen voorzien in artikel 9, van 
+het semester waar ze betrekking op hebben.".Art. 4. In artikel 4 van hetzelfde besluit, worden 
+de volgende wijzigingen aangebracht:1°  paragraaf 2 wordt vervangen als volgt:" § 
+2. De forfaitaire tegemoetkomingen, beoogd in de eerste paragraaf worden als volgt vastgelegd:1° 
+ Het budget van financiële middelen van de ziekenhuizen betekend op 1 januari 2020 en van toepassing 
+voor de periode van het eerste semester 2020 wordt voor 100 % gegarandeerd zowel voor de patiënten die 
+via een verzekeringsinstelling zijn aangesloten als voor patiënten die niet bij een verzekeringsinstelling 
+zijn aangesloten, door een tegemoetkoming die gelijk is aan het bedrag dat wordt vastgesteld na aftrek 
+van de facturaties voor het eerste semester van 2020 van het variabele gedeelte. Indien dit bedrag kleiner 
+is dan nul, wordt de tegemoetkoming op nul gezet;2°  Het budget van de RIZIV-overeenkomsten 
+wordt gegarandeerd, inclusief het persoonlijk aandeel van de patiënt, per type van overeenkomst, door 
+een tegemoetkoming die berekend wordt op basis van de bedragen die van toepassing zijn voor elk type 
+van overeenkomst voor de periode maart, april, mei en juni 2020, maar die wordt vastgesteld op basis 
+van de activiteit in diezelfde referentieperiode in het jaar 2019, zoals zij in `Documenten FH' 2019 
+van het RIZIV is opgenomen. De tegemoetkoming wordt toegekend na aftrek van de facturatie voor de prestaties 
+uitgevoerd in de periode maart, april, mei en juni 2020, in zoverre een positief bedrag resteert. De 
+honoraria die eventueel in die RIZIV-overeenkomsten zijn opgenomen, vallen niet onder de toegekende garantie;3° 
+ Het budget wordt voor elk type forfait voor het dagziekenhuis gegarandeerd door een tegemoetkoming die 
+berekend wordt op basis van de bedragen die van toepassing zijn voor elk type forfait voor de periode 
+maart, april, mei en juni 2020, maar bepaald op basis van de activiteit in diezelfde referentieperiode 
+in het jaar 2019, zoals zij in `Documenten FH' 2019 van het RIZIV is opgenomen. De tegemoetkoming wordt 
+toegekend na aftrek van de facturatie voor de prestaties uitgevoerd in de periode maart, april, mei en 
+juni 2020, in zoverre een positief bedrag resteert;4°  Het budget van de geneesmiddelenforfaits 
+wordt gegarandeerd door een tegemoetkoming, die berekend wordt op basis van het toepasbare budget voor 
+de periode maart, april, mei en juni 2020 en toegekend wordt na aftrek van de facturaties voor de periode 
+maart, april, mei en juni 2020 van die forfaits, in zoverre een positief bedrag resteert.";2° 
+ er wordt een paragraaf 3/1 ingevoegd, luidende:" § 3/1. Voor de periode maart, april, 
+mei en juni 2020 wordt een forfaitaire tegemoetkoming toegekend aan de ziekenhuizen om, gelet op de verminderde 
+activiteit, rekening te houden met de gederfde inkomsten die betrekking hebben op de bedragen die op 
+basis van de tariefreglementering van de verplichte verzekering voor geneeskundige verzorging en uitkeringen 
+ten laste van de patiënt zijn. Deze forfaitaire tegemoetkoming bestaat uit volgende onderdelen:1° 
+ Een tegemoetkoming om rekening te houden met de verminderde afhouding op de persoonlijke aandelen die 
+deel uitmaken van de honoraria zoals bedoeld in paragraaf 3. Deze tegemoetkoming wordt berekend volgens 
+de methode in paragraaf 3 toegepast op het deel van deze honoraria ten laste van de patiënt voor de betrokken 
+periode;2°  Een tegemoetkoming voor het gederfd forfaitair persoonlijk aandeel op de geneesmiddelen 
+ten laste van de patiënt tijdens een opname in de algemene ziekenhuizen. Deze inkomsten worden gegarandeerd, 
+als complement op de tegemoetkoming opgenomen in paragraaf 2, enige lid, 4°,  aan een bedrag op basis 
+van de activiteit in de referentieperiode 2019 en de bedragen van toepassing in 2020. Deze tegemoetkoming 
+wordt toegekend na aftrek van de facturaties van dit persoonlijk aandeel in de periode maart, april, 
+mei en juni 2020;3°  Een tegemoetkoming waarmee de inkomsten met betrekking tot de afleveringsmarge 
+van implantaten en invasieve medische hulpmiddelen die terugbetaald worden door de verplichte verzekering 
+voor geneeskundige verzorging en uitkeringen voor de periode maart, april, mei en juni 2020, gewaarborgd 
+worden aan een bedrag op basis van het volume van deze aanrekeningen tijdens dezelfde periode in het 
+jaar 2019, zoals opgenomen in de `Documenten AZV' 2019 van het RIZIV, en de index van 2020 en rekening 
+houdende met de vastgelegde grensbedragen. Deze tegemoetkoming wordt toegekend na aftrek van de facturaties 
+van deze afleveringsmarge met betrekking tot afleveringen uitgevoerd in de periode maart, april, mei 
+en juni 2020.";3°  er wordt een paragraaf 3/2 ingevoegd, luidende:" § 3/2. 
+Voor de periode maart, april, mei en juni 2020, wordt een forfaitaire tegemoetkoming voorzien om rekening 
+te houden met de gederfde inkomsten met betrekking tot de zorg aan patiënten die niet aangesloten zijn 
+bij een verzekeringsinstelling (hierna: `niet-VI patiënten') als gevolg van de verminderde activiteit, 
+en dit overeenkomstig de voorziene tegemoetkomingen opgenomen in de paragrafen 2, enige lid 2°  tot 4°, 
+ 3 en 3/1, met dien verstande dat: - voor de berekening van de tegemoetkoming voor niet-VI 
+patiënten overeenkomstig de tegemoetkomingen in paragraaf 2, enige lid, 2°  en 3°,  wordt het voor dezelfde 
+periode gegarandeerde bedrag aan inkomsten, zoals bedoeld in voornoemde bepalingen, op het activiteitsniveau 
+van de referentieperiode in 2019, vermenigvuldigd met het percentage niet-VI patiënten zoals dit volgt 
+uit de FINHOSTA-gegevensinzameling 2019 (hierna: het % niet-VI 2019). Deze bedragen worden toegekend 
+na aftrek van het product van de facturatie 2020 voor de betrokken periode, zoals bedoeld in de overeenkomstige 
+bepalingen, met het percentage niet-VI patiënten zoals dit volgt uit de FINHOSTA-gegevensinzameling 2020 
+(hierna: het % niet-VI 2020);- voor de berekening van de tegemoetkoming voor niet-VI patiënten 
+overeenkomstig de tegemoetkoming in paragraaf 2, enige lid, 4°  wordt het voor dezelfde periode gegarandeerde 
+bedrag 2020, zoals bedoeld in voornoemde bepaling, vermenigvuldigd met het % niet-VI 2020;- 
+voor de berekening van de tegemoetkoming voor niet-VI patiënten overeenkomstig de tegemoetkomingen in 
+de paragrafen 3 en 3/1, enige lid, 1°,  wordt bij de toepassing van de stappen van paragraaf 3, het bedrag 
+`facturatie 2020' met betrekking tot dezelfde periode vermenigvuldigd met het % niet-VI 2020 en het bedrag 
+`facturatie 2019' met betrekking tot de overeenkomstige referentieperiode 2019 vermenigvuldigd met het 
+% niet-VI 2019;- voor de berekening van de tegemoetkoming voor niet-VI patiënten overeenkomstig 
+de tegemoetkomingen in paragraaf 3/1, enige lid, 2°  en 3°,  wordt het voor dezelfde periode gegarandeerd 
+bedrag op basis van deze bepalingen vermenigvuldigd met het % niet-VI 2019. Deze bedragen worden toegekend 
+na aftrek van het product van de opgenomen facturaties voor betrokken periode van de tegemoetkoming, 
+zoals bedoeld in de overeenkomstige bepalingen, met het % niet-VI 2020.";4°  paragraaf 4 wordt 
+vervangen als volgt:" § 4. Er wordt een tegemoetkoming toegekend voor het tweede semester 
+2020, volgens dezelfde mechanismen als deze in paragrafen 2, 3, 3/1 en 3/2, met dien verstande dat:- 
+bij de toepassing van paragraaf 2, enige lid, 1°  wordt enerzijds het budget financiële middelen dat 
+betekend werd op 1 juli 2020 en anderzijds de facturatie van het tweede semester 2020 in aanmerking genomen;- 
+bij de toepassing van paragraaf 2, enige lid, 2°  en 3°,  worden de tegemoetkomingen voor de maanden 
+van het tweede semester 2020 berekend op basis van de bedragen van toepassing gedurende het tweede semester 
+2020 en op basis van de activiteit tijdens het tweede semester 2019. Voor de in deze bepalingen voorziene 
+vermindering met facturaties voorafgaand aan de toekenning van de tegemoetkoming, wordt rekening gehouden 
+met de facturatie van de prestaties uitgevoerd tijdens het tweede semester 2020;- bij de toepassing 
+van paragraaf 2, enige lid, 4°,  wordt deze tegemoetkoming berekend op basis van het toepasbare budget 
+voor de periode van het tweede semester 2020 en worden de tegemoetkomingen toegekend na aftrek van de 
+facturatie tijdens de periode van het tweede semester 2020 van die forfaits;- bij de toepassing 
+van paragrafen 3 en 3/1, enige lid, 1°,  worden enkel stap 1 en 3 herhaald, op basis van de maanden in 
+het tweede semester van 2020 waarbij de vergelijking wordt uitgevoerd met het tweede semester van het 
+referentiejaar 2019;- indien de basisvergoeding en/of variabele vergoedingen van de artsen-specialisten 
+in opleiding (ASO) of vergoedingen van de huisartsen-in-opleiding (HAIO) werkzaam in het ziekenhuis ten 
+laste zijn van het ziekenhuis via de afhoudingen op de honoraria van de zorgverleners, en het ziekenhuis 
+deze bedragen niet of slechts gedeeltelijk heeft uitbetaald aan de ASO of HAIO werkzaam in het ziekenhuis 
+gedurende de periode maart tot en met december 2020 zoals blijkt uit het systeem van rapportering bedoeld 
+in artikel 10, eerste lid, 3°,  dan wordt het bedrag van de tegemoetkoming voorzien in paragraaf 3 voor 
+het tweede semester 2020 verminderd met de niet-uitbetaalde bedragen ten behoeve van deze ASO of HAIO. 
+Onder `variabele vergoeding' dient begrepen te worden de vergoedingen voor de opting-out, de wachtdiensten, 
+de permanenties, en de zogenaamde `oncomfortabele uren' ;- bij de toepassing van paragraaf 
+3/1, enige lid, 2°  en 3°  voor de berekening van deze tegemoetkomingen voor het tweede semester 2020, 
+worden de overeenkomstige maanden uit 2019 als referentie gehanteerd voor de activiteit in combinatie 
+met de van toepassing zijnde bedragen van tijdens het tweede semester 2020, waarbij ook telkens de facturatie 
+uit de periode waarop de tegemoetkoming betrekking heeft in mindering wordt gebracht.".Art. 
+5. In artikel 5 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:1°  paragrafen 
+1 en 2 worden respectievelijk aangevuld met de volgende zin:"Dezelfde post bevat eveneens de 
+overeenkomstig berekende bedragen in toepassing van artikel 4, § 4.";2°  er worden een 
+paragraaf 3 en 4 toegevoegd, die als volgt luiden:" § 3. Het aldus in toepassing van 
+artikel 4, § 3/1 berekende bedrag, vormt de post 2.C. van de voorlopige afrekeningen die zijn 
+vastgesteld in artikel 9. Dezelfde post bevat eveneens de overeenkomstig berekende bedragen in toepassing 
+van artikel 4, § 4. § 4. Het aldus in toepassing van artikel 4, § 3/2 
+berekende bedrag, vormt de post 2.D. van de voorlopige afrekeningen die zijn vastgesteld in artikel 9. 
+Dezelfde post bevat eveneens de overeenkomstig berekende bedragen in toepassing van artikel 4, § 
+4.".Art. 6. In artikel 6, van hetzelfde besluit, worden de volgende wijzigingen aangebracht:1° 
+ in paragraaf 2, wordt de bepaling onder e) vervangen als volgt:"e) De waarborg, voor de artsen-specialisten 
+in opleiding (ASO) in het ziekenhuis, van de betaling van de basisvergoeding, en de waarborg, voor zowel 
+de artsen-specialisten in opleiding (ASO) als de huisartsen-in-opleiding (HAIO) in het ziekenhuis van 
+enerzijds een billijke wachtvergoeding, pro rata het aantal gepresteerde permanenties, en anderzijds 
+van een vergoeding voor hun extra-activiteiten en extrakosten voor de periode maart, april, mei en juni 
+2020, zowel in de algemene als in de psychiatrische ziekenhuizen." ;2°  in de bepaling onder 
+g) worden de woorden "artsen-specialisten" vervangen door de woorden "zorgverleners";3°  in 
+paragraaf 3, c) en d), worden de woorden "op grond van artikel 4, § 4" respectievelijk vervangen 
+door de woorden "op grond van artikel 4, § 3";4°  in paragraaf 3, wordt de bepaling 
+onder e) vervangen als volgt:"e) Om de betaling van de basisvergoeding van alle ASO in de ziekenhuizen 
+te garanderen, alsook de vergoeding van alle ASO en HAIO in de ziekenhuizen voor de wachtdiensten die 
+ze hebben verzorgd en voor hun extra-activiteiten en extrakosten, wordt voor de periode maart, april, 
+mei en juni 2020 een globaal bedrag toegewezen, onderverdeeld in drie delen:2°  Het eerste 
+deel moet toelaten de basisvergoeding, ondanks dalende honorariuminkomsten, uit te betalen aan alle ASO, 
+die voor wat betreft hun volledige basisvergoeding ten laste zijn van een zelfstandige arts in het ziekenhuis 
+en voor wie de kost van de basisvergoeding aldus niet voor rekening is van een ziekenhuis via de afhoudingen 
+op de honoraria van de zorgverleners, zoals bedoeld in artikel 4, § 3 of voor rekening van een 
+derde partij.Voor de berekening wordt er een vergelijking gemaakt tussen de nationale honorariamassa 
+gepresteerd in de ziekenhuizen in de periode maart, april, mei en juni 2020 en deze in dezelfde periode 
+in 2019, rekening houdende met de indexatie, om het percentage daling in de honoraria, P, vast te stellen.Het 
+deelbudget per maand wordt voor elk ziekenhuis als volgt berekend: 5000 euro * P * aantal VTE ASO beschouwd 
+op maandbasis die ten laste zijn van een zelfstandig arts in het ziekenhuis.Op voorwaarde dat 
+elke ASO effectief zijn basisvergoeding ontvangen heeft, wordt het restsaldo gebruikt voor de betaling 
+van andere verschuldigde bedragen aan ASO en HAIO in het kader van contractuele verplichtingen ten laste 
+van een zelfstandig arts, met name betreffende de variabele vergoedingen.Voor de ASO van wie 
+de basisvergoeding ten laste is van een ziekenhuis, wordt dit eerste deel geacht vervat te zitten in 
+het bedrag dat wordt toegekend op basis artikel 4, § 3.3°  Het tweede deel moet toelaten 
+om alle ASO en HAIO werkzaam in de ziekenhuizen tijdens de periode maart, april, mei en juni 2020 een 
+bijkomend bedrag van 250 euro bruto per maand per persoon uit te betalen en de patronale RSZ-bijdrage 
+op dit bedrag te dekken, met het oog op het dekken van hun extra-activiteiten en extrakosten ten gevolge 
+van de epidemie.Het deelbudget per maand wordt voor elk ziekenhuis als volgt berekend: 250 
+euro * 1,2108 * totaal aantal ASO en HAIO beschouwd op maandbasis, waarbij iedere ASO en HAIO slechts 
+in het deelbudget van één ziekenhuis kan opgenomen worden. Iedere betrokken ASO en HAIO krijgt één keer 
+de bruto premie van 250 euro voor eenzelfde maand. Indien een ASO of HAIO in het kader van zijn stageplan 
+of, voor wat betreft de ASO die gefinancierd worden via een universitaire of wetenschappelijke instelling, 
+een beurs of via Defensie, buiten een stageplan om, werkzaam was in meerdere ziekenhuizen tijdens dezelfde 
+maand, dan wordt de uitbetaling van de bruto premie met betrekking tot die maand in onderling afspraak 
+tussen deze ziekenhuizen aan één ziekenhuis toevertrouwd.Het deelbudget per ziekenhuis wordt, 
+wat betreft de ASO of HAIO die voor eenzelfde maand opgenomen werd in de lijsten van verschillende ziekenhuizen 
+zoals bedoeld in artikel 8, § 6, herzien op basis van de gekozen uitbetalingswijze, zoals blijkt 
+uit het systeem van rapportering bedoeld in artikel 10, eerste lid, 3°.  De deelbudgetten van de verschillende 
+ziekenhuizen waarin deze ASO of HAIO tijdens eenzelfde maand werkzaam was en die een bedrag in toepassing 
+van deze bepaling aan de ASO of HAIO hebben uitbetaald, kunnen aangepast worden in functie van het aantal 
+VTE dat in ieder ziekenhuis door dezelfde ASO of HAIO gepresteerd werd, om tot een maximale tegemoetkoming 
+van 250 euro * 1,2108 per individuele ASO of HAIO over de deelbudgetten van de verschillende ziekenhuizen 
+heen te komen.4°  Het derde deel vormt een enveloppe op ziekenhuisniveau om:4°  ondanks 
+de COVID-19-omstandigeheden, de variabele vergoedingen van de ASO en de extra-facturaties van de HAIO 
+boven op de contractueel bepaalde vaste maandelijkse vergoeding te kunnen financieren, in zoverre dit 
+niet mogelijk is op basis van de honorariuminkomsten en het eerste deel van de tegemoetkoming opgenomen 
+onder 1°  zoals verklaard op erewoord door het ziekenhuis en de medische raad in het kader van het systeem 
+van rapportering zoals opgenomen in artikel 10, eerste lid, 3°.  De variabele vergoedingen van een ASO 
+waarvan de basisvergoeding volgens de lijst zoals bedoeld in artikel 8, § 6, eerste lid, ten laste 
+van het ziekenhuis is, kunnen niet betaald worden vanuit deze enveloppe wanneer de variabele vergoedingen 
+deel uitmaken van de afdracht, gelet op de tegemoetkoming voorzien in artikel 4, § 3.- 
+een aan de omstandigheden van de COVID-19 epidemie aangepaste vergoeding te kunnen voorzien voor ASO 
+en HAIO in het ziekenhuis die zich extra hebben ingezet, via het verhogen van de variabele vergoeding 
+voor wat deze ASO betreft of via een bijkomende vergoeding wat deze HAIO betreft. Indien deze variabele 
+vergoedingen met het oog op de omstandigheden van de COVID-19 epidemie reeds bijgesteld waren, dan mag 
+het surplus verrekend worden op deze enveloppe.Een eventueel saldo op dit deelbudget komt rechtstreeks 
+toe aan de ASO en HAIO werkzaam in het ziekenhuis tijdens de periode waarvoor deze tegemoetkoming wordt 
+toegekend door in de eerste plaats aangewend te worden voor de inzet van deze begunstigden die nog onvoldoende 
+vergoed is of toegevoegd te worden aan het tweede deel zoals bedoeld in 2°  om het maandelijkse bedrag 
+van alle betrokken ASO en HAIO te verhogen.Het deelbudget per maand wordt voor dit derde deel 
+voor elk ziekenhuis, inclusief de patronale RSZ-bijdrage op de bedragen die op basis van deze enveloppe 
+worden toegekend, als volgt berekend: 600 euro * aantal VTE ASO en HAIO in het ziekenhuis beschouwd op 
+maandbasis.";5°  in paragraaf 3, f) en g), worden de woorden "artsen-specialisten" telkens 
+vervangen door "zorgverleners in het ziekenhuis gefinancierd door honoraria" en de woorden "op grond 
+van artikel 4, § 4" telkens vervangen door de woorden "op grond van artikel 4, § 3";6° 
+ paragraaf 4 wordt vervangen als volgt:" § 4. Een tegemoetkoming wordt toegekend voor 
+het tweede semester 2020 volgens dezelfde mechanismen als die welke in § 3 zijn bepaald, met uitsluiting 
+van de budgetten in de bepalingen onder f) en g), en met dien verstande dat:- de bedragen van 
+de onderdelen in paragraaf 3, e) elk slechts verlengd worden indien uit het systeem van rapportering, 
+zoals bedoeld in artikel 10, eerste lid, 3°,  blijkt dat de bedragen van deze tegemoetkomingen voor de 
+periode maart tot en met juni 2020 overeenkomstig de gestelde voorwaarden in dit besluit zijn toegekend 
+en uitbetaald aan de gerechtigde ASO en HAIO;- de bedragen van de tegemoetkomingen van artikel 
+6, §  3, a) tot en met d) voor het tweede semester 2020 kunnen elk verminderd worden met de bedragen 
+van de tegemoetkomingen van het eerste semester 2020 die kennelijk in strijd met de verdelingsprincipes 
+van artikel 8 werden uitbetaald, zoals blijkt uit het systeem van rapportering, zoals bedoeld in artikel 
+10, eerste lid, 3°. " ;7°  een paragraaf 4/1 wordt toegevoegd, die als volgt luidt:" 
+§ 4/1. Een uitzonderlijke aanmoedigingspremie wordt toegekend aan elke ASO en aan elke HAIO die 
+tussen 1 september en 30 november 2020 in een algemeen of psychiatrisch ziekenhuis hebben gewerkt. Deze 
+premie wordt vastgesteld op 985 euro bruto per voltijds equivalent, te verhogen met de patronale RSZ-bijdrage 
+van 21,08 % .Voor de berekening van de arbeidstijd in VTE wordt rekening gehouden met de gepresteerde 
+arbeidstijd gedurende de in het eerste lid genoemde periode, met dien verstande dat perioden van afwezigheid 
+van meer dan 30 kalenderdagen niet in aanmerking worden genomen.Het deelbudget voor deze eenmalige 
+tegemoetkoming wordt per ziekenhuis als volgt berekend: 985 euro * 1,2108 * aantal VTE ASO en HAIO in 
+het ziekenhuis.".Art. 7. Het opschrift van hoofdstuk 5 van hetzelfde besluit wordt vervangen 
+als volgt:« HOOFDSTUK 5. Tegemoetkoming die in artikel 1, 4°,  is bepaald, voor de impact op 
+de activiteit van de zorgverleners gefinancierd door honoraria in een ziekenhuis, ten gevolge van de 
+verplichte reservatie van een percentage van de capaciteit aan ziekenhuisbedden voor COVID-19 zorg ».Art. 
+8. In artikel 7 van hetzelfde besluit worden de paragrafen 1 tot 3 vervangen als volgt:" § 
+1. Een tegemoetkoming wordt toegekend voor een uitzonderlijk beschikbaarheidsforfait voor de zorgverleners 
+in een ziekenhuis gefinancierd door honoraria, ter compensatie van de impact op hun activiteit door de 
+verplichting beschikbaar te blijven ten gevolge van de verplichte reservatie van een percentage van de 
+capaciteit aan zowel intensieve als niet-intensieve ziekenhuisbedden die door de overheid is opgelegd 
+in het kader van de coronavirus COVID-19 epidemie, teneinde de nood aan ziekenhuisopnames voor COVID-19 
+onmiddellijk te kunnen opvangen in geval van een aanzienlijke heropflakkering van de epidemie. 
+§ 2. Deze tegemoetkoming wordt per ziekenhuis berekend op basis van de opgelegde vrij te houden 
+capaciteit vanaf 1 juni 2020 en uiterlijk tot en met 30 september 2021, en uitsluitend voor de maanden 
+waarin fase 0 van toepassing is, zoals opgelegd door het Comité `Hospital & Transport Surge Capacity' 
+in de communicatie van 17 juni 2020, met name voor 15 %  van de erkende bedden met intensief karakter 
+(n) + 4*n niet-intensieve bedden. § 3. Per `gereserveerd' bed wordt een forfaitaire 
+tegemoetkoming per maand toegekend die overeenkomt met een twaalfde van het nationaal gemiddelde bedrag 
+van de honoraria, beperkt tot het gedeelte ten laste van de begroting voor geneeskundige verzorging van 
+het RIZIV, die gefactureerd werden per bed voor ziekenhuisverblijven in 2019, geïndexeerd met de globale 
+index van de honoraria tussen 2019 en het jaar waarin deze tegemoetkoming wordt toegekend.".Art. 
+9. In hoofdstuk 5 van hetzelfde besluit wordt een artikel 7/1 ingevoegd, luidende:"Art. 7/1. 
+§ 1. Een tegemoetkoming wordt toegekend om een uitzonderlijk betrokkenheidsforfait toe te kennen 
+aan de zorgverleners in een algemeen ziekenhuis gefinancierd door honoraria, ter compensatie van de impact 
+op hun activiteit van hun betrokkenheid, op eigen initiatief of op vraag van de hoofdarts, in een nieuwe 
+taakbedeling waarin ze belast worden met andere taken dan die welke zij normaal gesproken uitvoeren, 
+ten gevolge van de verplichte reservatie van een percentage van de capaciteit aan intensieve en niet-intensieve 
+ziekenhuisbedden die door de overheid is opgelegd in het kader van de coronavirus COVID-19 epidemie, 
+teneinde de nood aan ziekenhuisopnames voor COVID-19 onmiddellijk te kunnen opvangen. Deze andere taken 
+kunnen zowel betrekking hebben op activiteiten op COVID-19 afdelingen op voor andere activiteiten uitgevoerd 
+in het ziekenhuis. § 2. Deze tegemoetkoming wordt per ziekenhuis toegekend vanaf 1 oktober 
+2020 en uiterlijk tot 31 december 2020 op basis van de opgelegde vrij te houden capaciteit tijdens de 
+hoogste fase van deze periode, wat overeenstemt met fase 2B zoals opgenomen in de communicatie vanaf 
+17 juni 2020 door het Comité `Hospital & Transport Surge Capacity', inclusief de Corona High Oxygen Care 
+bedden.Indien een ziekenhuis voor eenzelfde maand in aanmerking komt voor zowel een tegemoetkoming 
+op basis van artikel 7 als een tegemoetkoming op basis van artikel 7/1, wordt enkel de tegemoetkoming 
+die resulteert in het hoogste bedrag, rekening houdende met artikel 8, § 3, eerste lid, toegekend 
+aan het ziekenhuis in kwestie. § 3. Per `gereserveerd bed' in fase 2B, wordt een forfaitaire 
+tegemoetkoming per maand toegekend die overeenkomt met een twaalfde van het nationaal gemiddelde van 
+de honoraria, beperkt tot het gedeelte ten laste van de begroting voor geneeskundige verzorging van het 
+RIZIV, die gefactureerd werden per bed voor ziekenhuisverblijven in 2019, geïndexeerd met de globale 
+index van de honoraria tussen 2019 en 2020. Het bedrag per maand wordt toegekend op voorwaarde dat het 
+ziekenhuis tijdens deze maand de instructies met betrekking tot de opschaling van COVID-19 capaciteit 
+navolgde van het comité `Hospital & Transport Surge Capacity'. § 4. Die tegemoetkoming 
+is uitsluitend van toepassing op zelfstandige zorgverleners in het ziekenhuis, gelet op de uitzonderlijke 
+aanmoedigingspremie zoals voorzien in artikel 74undecies van het koninklijk besluit van 25 april 2002 
+betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen 
+voor de gesalarieerde zorgverleners in het ziekenhuis. § 5. Het aldus berekende bedrag 
+voor het betrokkenheidsforfait vormt de post 4bis van de voorlopige berekeningen die zijn vastgesteld 
+in artikel 9.".Art. 10. In artikel 8 van hetzelfde besluit, worden de volgende wijzigingen 
+aangebracht:1°  paragraaf 3 wordt vervangen als volgt: " § 3. Voor ziekenhuizen 
+waar er zowel zelfstandige als gesalarieerde zorgverleners die door honoraria gefinancierd worden actief 
+zijn, wordt het bedrag van de tegemoetkomingen die resulteren uit de berekeningen onder artikelen 6, 
+7 en 7/1, met uitzondering van artikel 6, § 3, e), en die enkel van toepassing zijn voor zelfstandige 
+zorgverleners aan elk van deze ziekenhuizen toegekend proportioneel aan het aandeel VTE zelfstandige 
+zorgverleners ten opzichte van de VTE van alle zorgverleners die door honoraria gefinancierd worden.In 
+afwijking van het eerste lid, wordt het bedrag van de tegemoetkomingen die resulteren uit de berekeningen 
+onder artikel 6, § 3, enige lid, a), 1., proportioneel aan het aandeel VTE zelfstandige artsen 
+ten opzichte van de VTE van alle artsen in het ziekenhuis toegekend aan elk van deze ziekenhuizen.De 
+verhouding zoals bedoeld in het eerste en het tweede lid worden berekend, per semester van het jaar 2020, 
+op basis van de lijst, die het ziekenhuis aanlevert met, voor alle zorgverleners die door honoraria gefinancierd 
+worden, de naam, het RIZIV-nummer, de indicatie of het over een arts gaat of een andere zorgverlener 
+gefinancierd door honoraria, het de arbeidstijd met een maximum van éen VTE per persoon per maand, en 
+het statuut, zelfstandig of gesalarieerd.De verhouding zoals bedoeld in het eerste lid wordt 
+gehanteerd voor de interne verdeling binnen het ziekenhuis van de deelbudgetten die zowel van toepassing 
+zijn op de zelfstandige als de gesalarieerde zorgverleners. Voor de interne verdeling van de tegemoetkoming 
+van artikel 7 in 2021 wordt gebruik gemaakt van de verhouding per ziekenhuis op basis van de lijsten 
+voor 2020. Voor de interne verdeling binnen het ziekenhuis van de deelbudgetten die voor zelfstandige 
+zorgverleners bestemd zijn, zoals bedoeld in het eerste en het tweede lid, of na het toepassen van een 
+interne verdeling op deelbudgetten bestemd voor beide statuten op basis van het aantal VTE per statuut, 
+zoals bedoeld in het vierde lid, wordt het budget van de groep zelfstandige zorgverleners met betrekking 
+tot een bepaald semester verdeeld tussen de zelfstandige artsen enerzijds en de andere zelfstandige zorgverleners 
+anderzijds naar verhouding van de in 2019 door elk van deze twee groepen zelfstandigen globale gegenereerde 
+honoraria op jaarbasis, zoals vastgesteld door het ziekenhuis, tenzij de bedragen van dat semester reeds 
+verdeeld werden binnen het ziekenhuis of hier een andersluidend akkoord over werd bereikt tussen de Medische 
+raad en het ad-hoc orgaan voor de andere zorgverleners met het zelfstandigenstatuut zoals bedoeld in 
+paragraaf 5." ;2°  paragraaf 6 wordt vervangen als volgt:" § 6. De tegemoetkomingen 
+voor de ASO en HAIO opgenomen in artikel 6, § 3, e), inclusief de verlenging van deze tegemoetkomingen 
+zoals voorzien in artikel 6, § 4, en artikel 6, § 4/1, worden berekend op basis van een 
+lijst, die het ziekenhuis aanlevert met voor alle ASO en HAIO werkzaam in het ziekenhuis tijdens de periode 
+waarvoor de tegemoetkomingen worden voorzien, de naam, het RIZIV-nummer, en het tewerkstellingspercentage 
+per maand met een maximum van éen VTE per persoon per maand, en specifiek voor de ASO de indicatie wie 
+deze ASO ten laste heeft.De bedragen van de tegemoetkomingen voor de ASO of HAIO zoals opgenomen 
+in artikel 6, § 3, e), 2°  en 3°,  inclusief de bedragen ingevolge de verlenging van deze tegemoetkomingen 
+zoals voorzien in artikel 6, § 4, en het bedrag van de tegemoetkoming opgenomen in artikel 6, 
+§ 4/1, moeten integraal worden gebruikt volgens de gestelde voorwaarden. De Medische Raad kan 
+beslissen, op voorwaarde dat alle contractueel verschuldigde bedragen effectief uitbetaald werden aan 
+de ASO, dat de tegemoetkoming zoals opgenomen in artikel 6, § 3, e), 1°,  een andere aanwending 
+krijgt, met dien verstande dat de verdelingsprincipes opgenomen in het vierde lid gerespecteerd dienen 
+te worden.Het ziekenhuis dat de tegemoetkomingen van artikel 6, §  3, e) en § 
+4/1 in het kader van de voorlopige afrekeningen krijgt toegekend op basis van de tewerkstelling van de 
+ASO of HAIO tijdens de referentieperiode, neemt de nodige maatregelen om een uitbetaling aan de rechthebbende 
+ASO of HAIO te garanderen, ongeacht of de ASO of HAIO nog werkt in het ziekenhuis of inmiddels zijn opleiding 
+heeft afgerond of beëindigd. De bedragen ingevolge de verlenging van de tegemoetkomingen in artikel 6, 
+§ 3, e), op basis van artikel 6, § 4, en het bedrag van de tegemoetkoming opgenomen in 
+artikel 6, § 4/1, worden provisioneel toegekend aan deze ziekenhuizen en kunnen worden herzien 
+bij de definitieve afrekening op basis van het effectief uitbetaalde bedrag aan de ASO en HAIO en het 
+respecteren van de in dit besluit voorziene modaliteiten, zoals blijkt uit het systeem van rapportering 
+bedoeld in artikel 10, eerste lid, 3°. Wat betreft de bedragen die worden toegekend op basis 
+van artikel 6, 7 en 7/1, uitgezonderd de tegemoetkomingen zoals bedoeld in het tweede lid, voorziet de 
+verdeling in de eerste plaats in het vergoeden van de inzet of taken zoals opgenomen in deze artikelen 
+op basis van objectieve variabelen die zijn vastgesteld door de instantie die belast is met de verdeling. 
+De verdeling gebeurt onder alle zorgverleners die door honoraria worden gefinancierd en die daadwerkelijk 
+zijn betrokken in het kader van de zorg gedurende de periode van dekking van de tegemoetkomingen, en 
+bij voorrang in de COVID-19-zorg, of in het kader van het beheer van die epidemie in het ziekenhuis. 
+De met de verdeling belaste instantie kan, na het overeenkomen over een correcte tussenkomst voor de 
+inzet of taken zoals omschreven in deze artikelen, beslissen tot een aanwending van de resterende bedragen 
+ten voordele van de aanvulling van andere tegemoetkomingen voorzien in dit besluit of van andere inspanningen 
+van de zorgverleners die onder zijn bevoegdheid behoren, in zoverre het een tussenkomst voor en naar 
+verhouding van een reële bijdrage in het ziekenhuis betreft van zorgverleners die door honoraria gefinancierd 
+worden en die daadwerkelijk zijn betrokken in het kader van de zorg gedurende de periode waarop de tegemoetkomingen 
+van toepassing zijn, en bij voorrang in de COVID-19-zorg, of in het kader van het beheer van deze epidemie 
+in het ziekenhuis. Ook voor deze andere aanwending worden er door de met de verdeling belaste instantie 
+objectieve variabelen vastgelegd die een aanwending verzekeren ten voordele van niet of onvoldoende vergoede 
+inzet, met dien verstande dat inkomensverlies geen variabele uitmaakt die in aanmerking mag komen. Er 
+wordt door de met de verdeling belaste instantie ten behoeve van alle potentiële begunstigden een transparante 
+werkwijze gehanteerd over de toegepaste verdelingscriteria.";3°  paragraaf 7 wordt vervangen 
+als volgt:" § 7. Elke storting die voortvloeit uit de bedragen die krachtens de artikelen 
+6, 7 en 7/1 zijn toegekend, moet door het ziekenhuis worden gedocumenteerd op basis van de verdeling 
+die is vastgelegd door de Medische Raad voor de medische zorgverleners of door de ad-hoc instantie voor 
+de andere zorgverleners, zodat een reporting aan de federale overheid kan aantonen dat die tegemoetkomingen 
+overeenkomstig de doelstellingen zijn gebruikt. Met name met betrekking tot de ASO en HAIO, documenteert 
+het ziekenhuis voor elke ASO en HAIO voor elke tegemoetkoming en betrokken periode, welke bedragen zijn 
+uitbetaald aan hen en de datum van uitbetaling van deze bedragen, opdat dit de rapportering aan de federale 
+overheid zoals voorzien in artikel 10, eerste lid, 3°,  kan vervolledigen.".Art. 11. In artikel 
+9 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:1°  paragrafen 1 en 2 worden 
+vervangen als volgt:" § 1. De posten 1, 2.A, 2.B, 2.C, 2.D, 3, 4 en 4bis zoals hierboven 
+gedefinieerd worden voor elk semester opgeteld per ziekenhuis, in zoverre ze voor dat semester van toepassing 
+zijn.Het resultaat dat voor elk semester bekomen wordt, wordt vergeleken met de som van de 
+eventuele voorschotten die in datzelfde semester zijn toegekend aan het ziekenhuis, in toepassing van 
+het koninklijk besluit nr. 10 van 19 april 2020, gewijzigd door het koninklijk besluit nr. 35 van 24 
+juni 2020, en leidt tot een voorlopige afrekening per semester. Een eventueel positief saldo ten gunste 
+van het ziekenhuis, wordt in mindering gebracht van eventuele negatieve saldi ten laste van ditzelfde 
+ziekenhuis resulterende uit de voorlopige afrekeningen van voorgaande semesters, te beginnen met het 
+oudste negatieve saldo, waardoor het geheel van voorlopige afrekeningen voor het betrokken semester en 
+de betrokken voorgaande semesters, wordt aangezuiverd. De eerste voorlopige afrekening met betrekking 
+tot het eerste semester 2020 wordt ten vroegste uitgevoerd in de loop van het tweede semester 2020. De 
+tweede voorlopige afrekening met betrekking tot het tweede semester, met eventuele rechtzettingen voor 
+het eerste semester, ten vroegste tijdens het eerste semester 2021. De derde voorlopige afrekening met 
+betrekking tot 2021 en eventuele rechtzettingen voor de voorgaande semesters, wordt ten vroegste uitgevoerd 
+in het tweede semester 2021. § 2. Voor de vaststelling per ziekenhuis van de definitieve 
+afrekening per semester, worden van de opgetelde posten 1 t.e.m. 2.D. volgende elementen in mindering 
+gebracht:a) een bedrag per werknemer in tijdelijke werkloosheid indien het ziekenhuis beroep 
+heeft gedaan op het systeem van tijdelijke werkloosheid voor werknemers opgenomen tussen kostenplaats 
+020 tot en met 899 tijdens een semester waarvoor tegemoetkomingen zoals bedoeld in artikel 1, 2°,  aan 
+het ziekenhuis worden toegekend, te rekenen vanaf maart 2020. Dit bedrag wordt berekend op basis van 
+de gemiddelde kostprijs per VTE op jaarbasis in alle ziekenhuizen, zoals opgenomen in de FINHOSTA gegevens 
+van het jaar waarin de tijdelijke werkloosheid werd toegepast, voor de personeelscategorie, zoals opgenomen 
+in bijlage 4, afdeling 4 van het koninklijk besluit van 6 december 2020 houdende bepaling van de regels 
+en de termijn volgens dewelke de beheerder van het ziekenhuis mededeling doet van de financiële toestand, 
+van de bedrijfsuitkomsten, van het verslag van de bedrijfsrevisor en van alle statistische gegevens die 
+met zijn inrichting verband houden, waartoe de werknemer in kwestie behoort, in verhouding tot de verminderde 
+werktijd per maand van de betrokken werknemer, uitgedrukt in VTE, tijdens het semester in kwestie. Voor 
+de vaststelling van het aantal VTE in tijdelijke werkloosheid, maakt elk ziekenhuis een verklaring over 
+op erewoord aan de FOD VVVL met een lijst van de werknemers zoals hiervoor omschreven per personeelscategorie 
+en met het aantal VTE per maand in tijdelijke werkloosheid.b) de waarde van de ontvangen goederen 
+indien het ziekenhuis gebruik heeft gemaakt van federale voorraden van persoonlijke beschermingsmiddelen, 
+farmaceutische producten en/of medische hulpmiddelen.";2°  paragraaf 4 wordt vervangen als 
+volgt:" § 4. Als de voorlopige afrekening per semester, na eventuele aanzuiveringen 
+op de negatieve saldi van voorgaande semesters zoals bedoeld in paragraaf 1, een positief saldo ten gunste 
+van het ziekenhuis vertoont, zal dit positief verschil rechtstreeks op de bankrekening van het ziekenhuis 
+worden vereffend, in toepassing van art. 3/1 van het koninklijk besluit nr. 10 van 19 april 2020, zoals 
+gewijzigd door het koninklijk besluit nr. 35 van 24 juni 2020.Indien de voorlopige afrekening 
+per semester, een negatief saldo ten laste van het ziekenhuis vertoont, zal de terugbetaling door het 
+ziekenhuis geregeld worden via een negatief inhaalbedrag in het budget van financiële middelen van het 
+ziekenhuis dat volgt op de definitieve afrekening van het semester in kwestie, rekening houdende met 
+eventuele aanzuiveringen die intussen plaatsvinden zoals bedoeld in paragraaf 1.";3°  paragraaf 
+5, eerste lid, wordt vervangen als volgt:"In 2023, wanneer de bedragen waarop het ziekenhuis 
+en de betrokken zorgverleners recht hebben voor het eerste en tweede semester 2020 definitief gekend 
+zijn, wordt de regularisatie, positief of negatief, tussen deze definitieve bedragen en de voorlopige 
+bedragen waarmee rekening werd gehouden in het kader van de voorlopige afrekeningen, zoals bepaald overeenkomstig 
+de eerste paragraaf, opgenomen onder de vorm van de boeking van een inhaalbedrag in het budget van financiële 
+middelen van 1 juli 2023 van elk ziekenhuis voor het eerste semester 2020 en van 1 januari 2024 voor 
+het tweede semester 2020. In 2024, wordt voor de bedragen met betrekking tot het eerste semester 2021 
+eenzelfde vergelijking uitgevoerd, waarvan de regularisatie wordt opgenomen onder de vorm van de boeking 
+van een inhaalbedrag in het budget van financiële middelen van 1 juli 2024 van elk ziekenhuis.".Art. 
+12. Artikel 10 van hetzelfde besluit wordt vervangen als volgt:"Art. 10. De definitieve toekenning 
+van de uitzonderlijke federale financiële tegemoetkomingen hangt af van de naleving van de volgende drie 
+voorwaarden die uiterlijk bij de definitieve afrekening zullen worden geverifieerd:1°  Er wordt 
+geen akkoord tot verhoging van de ereloonsupplementen afgesloten met als oogmerk de kosten gelieerd aan 
+de epidemie ten gevolge van het coronavirus COVID-19 door te schuiven;2°  De afdrachtenregeling 
+die in het ziekenhuis wordt toegepast, leidt niet tot hogere afdrachten dan die die werden toegepast 
+in 2019 met als oogmerk de kosten gelieerd aan de epidemie ten gevolge van het coronavirus COVID-19 door 
+te schuiven;3°  De ziekenhuizen, de medische raden en het eventueel ad hoc orgaan moeten de 
+FOD VVVL en het RIZIV informatie verstrekken over de wijze waarop zij de toegewezen bedragen hebben gebruikt, 
+en dit volgens een systeem van rapportering dat door de genoemde administraties zal worden uitgewerkt.Aan 
+de eerste twee voorwaarden van het eerste lid moet worden voldaan in de periode die aanvangt op 11 maart 
+2020 en loopt tot het einde van de periode waarin de uitzonderlijke federale financiële tegemoetkomingen 
+van toepassing zijn. Indien niet aan deze twee voorwaarden wordt voldaan, moet het ziekenhuis de op grond 
+van de artikelen 4, 6, 7 en 7/1 ontvangen bedragen terugbetalen in verhouding tot de geconstateerde overschrijdingen.".Art. 
+13. In hoofdstuk 8 van hetzelfde besluit wordt een artikel 10/1 ingevoegd, luidende:"Art. 10/1. 
+§ 1. Met betrekking tot de informatie verstrekt in het kader van de uitvoering van de ministeriële 
+besluiten zoals bedoeld in artikel 3, § 2 en in het kader van artikel 8, §§ 3, 6 
+en 7, artikel 9, § 2, enige lid, a) en artikel 10, eerste lid, 3°,  kunnen de aangewezen ambtenaren 
+of aangestelden zoals bedoeld in artikel 127 van de Gecoördineerde wet van 10 juli 2008 op de ziekenhuizen 
+en andere verzorgingsinrichtingen bij de beheerder van het ziekenhuis, de Medische Raad en het eventueel 
+`ad hoc orgaan', en de Dienst voor geneeskundige evaluatie en controle van het RIZIV, zoals bedoeld in 
+artikel 139 van de Gecoördineerde wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen gecoördineerd op 14 juli 1994, bij de zorgverleners, alle gegevens opvragen 
+die nuttig zijn voor de controle en validatie van de overgemaakte gegevens. De informatie die verstrekt 
+werd ten behoeve van de uitvoering van voornoemde bepalingen van dit besluit, kan op basis van de vaststellingen 
+door de FOD VVVL en de Dienst voor geneeskundige evaluatie en controle van het RIZIV, aangepast en vervolgens 
+op die wijze verwerkt worden in het kader van de definitieve afrekeningen van de tegemoetkoming en periode 
+waarop de gegevens betrekking hebben. Deze aanpassingen worden medegedeeld overeenkomstig artikel 108 
+van de Gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen. 
+§ 2. Bedragen die kennelijk in strijd met de voorziene doelstellingen en modaliteiten werden toegekend 
+aan individuele zorgverleners, zoals blijkt uit het reporting systeem voorzien in artikel 10, eerste 
+lid, 3°,  of uit de controle op de in dat kader overgemaakte informatie, kunnen teruggevorderd worden 
+volgens de procedure voorzien in artikel 164, derde lid van de Gecoördineerde wet van 14 juli 1994 betreffende 
+de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994.".Art. 
+14. Dit besluit treedt in werking op 12 november 2020.Art. 15. De minister bevoegd voor Sociale 
+Zaken en Volksgezondheid is belast met de uitvoering van dit besluit.Brussel, 26 september 
+2021.FILIPVan Koningswege :De Minister van Sociale Zaken en Volksgezondheid,F. 
+VANDENBROUCKE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-30Numac : 2021021967
+

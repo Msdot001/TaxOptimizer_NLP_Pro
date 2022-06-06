@@ -1,0 +1,508 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/27/2021031584/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021031584
+WAALSE OVERHEIDSDIENST
+ 27 MEI 2021. - Besluit van de Waalse Regering betreffende diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net in het kader van het beheer van de crisis COVID-19 
+VERSLAG AAN DE REGERINGDe gezondheidscrisis 
+in verband met het coronavirus heeft de opleidingsactiviteiten van IFAPME sterk beïnvloed, dat de organisatie 
+van het einde van het opleidingsjaar heeft moeten aanpassen. Op 1 april 2021 heeft de Waalse 
+Regering het ontwerp van besluit van de Waalse Regering betreffende diverse bepalingen betreffende de 
+organisatie van de doorlopende evaluatie, de examens en cursussen alsook de stageovereenkomsten van het 
+IFAPME-net in het kader van het beheer van de crisis COVID-19 in eerste lezing aangenomen.Het 
+advies van LEGISA werd op 12 april ontvangen onder nr. 1859.Het ontwerp-besluit is op 12 april 
+2021 voor advies voorgelegd aan de Raad van State, die op 7 mei 2021 advies heeft uitgebracht onder nr. 
+69.245/2.Het ontwerp-besluit werd eveneens ter instemming voorgelegd aan het College van de 
+Franse Gemeenschapscommissie, zoals vereist in artikel 5, § 1, en in artikel 8, § 1 van 
+de Samenwerkingsovereenkomst betreffende de Permanente Vorming van de Middenstand en de kleine en middelgrote 
+ondernemingen, gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, de Franse Gemeenschap 
+en het Waalse Gewest. Op 22 april 2021 heeft het College van de Franse Gemeenschapscommissie 
+een gunstig advies uitgebracht over het ontwerp-besluit.AanhefOverwegende dat WHO 
+op 11 maart 2020 het coronavirus COVID-19 als een pandemie gelabeld heeft;Gelet op de verklaring 
+van WHO in verband met de kenmerken van het coronavirus COVID-19, in het bijzonder de sterke besmettelijkheid, 
+het sterfelijkheidsrisico en het aantal vastgestelde gevallen;Gelet op de verspreiding van 
+het coronavirus COVID-19 op Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid 
+en het gezondheidsrisico dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt;Gelet 
+op het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van 
+het coronavirus COVID-19 te beperken, dat met name tot doel heeft de verplaatsingen en de sociale contacten 
+te beperken;Gelet op de impact van de gezondheidscrisis op de cursussen georganiseerd door 
+de erkende opleidingscentra van het "Institut wallon de formation en alternance et des indépendants et 
+petites et moyennes entreprises" (Waals instituut voor alternerende opleiding zelfstandigen en kleine 
+en middelgrote ondernemingen), die hun face-tot-face opleidingen gedeeltelijk hebben moeten stopzetten;Overwegende 
+dat het Instituut de continuïteit van de dienstverlening heeft gewaarborgd door in de erkende opleidingscentra 
+een voorziening van afstandsopleiding en -opvolging op te zetten;Gelet op de noodzaak om de 
+beoordelingen voor het opleidingsjaar 2019-2020 te organiseren, die moesten worden uitgesteld wegens 
+de uitvoering van gezondheidsmaatregelen;Gelet op het besluit van de Waalse Regering van bijzondere 
+machten nr. 71 van 18 december 2020 betreffende diverse bepalingen betreffende de organisatie van de 
+doorlopende evaluatie, de examens en cursussen van het IFAPME-net wegens COVID-19;Overwegende 
+dat het absoluut noodzakelijk is de praktische organisatie van het einde van het opleidingsjaar 2020-2021 
+te regelen in overeenstemming met de gezondheidsmaatregelen;Overwegende dat de COVID-19- gezondheidscrisis, 
+naast de reeds genomen maatregelen om de continuïteit van de diensten tijdens het opleidingsjaar 2019-2020 
+te waarborgen, het ook noodzakelijk maakt te voorzien in specifieke regelingen voor de organisatie van 
+cursussen en leeractiviteiten voor het opleidingsjaar 2020-2021, en de vereisten inzake aanwezigheid 
+bij de cursussen en op de werkplek, beroepspraktijkvorming, evaluatie en het diploma waarmede de opleiding 
+wordt afgesloten, aan te passen;Overwegende dat de COVID-19- gezondheidscrisis een sterke weerslag 
+heeft gehad op bepaalde activiteitensectoren en dat het noodzakelijk is aan de leerlingen en cursisten 
+die in het bijzonder getroffen zijn, bijkomende cursussen beroepspraktijk moeten worden aangeboden alsook 
+extra tijd om zich voor te bereiden op hun praktijkexamen;Overwegende dat praktijkervaring 
+in het bedrijf voor bepaalde opleidingen van essentieel belang blijft;Overwegende dat het gelijkheidsbeginsel 
+en de rechtszekerheid moeten worden gewaarborgd en dat maatregelen moeten worden genomen om ervoor te 
+zorgen dat geen enkele leerling of cursist belemmerd wordt in de uitoefening van zijn rechten of in de 
+uitvoering van zijn verplichtingen wegens de impacten van de gezondheidscrisis;Overwegende 
+dat de leerlingen en cursisten, alsmede de erkende opleidingscentra, zo spoedig mogelijk in kennis moeten 
+worden gesteld van de nieuwe procedures die bij dit besluit worden voorgesteld, zodat zij zich optimaal 
+kunnen voorbereiden;Hoofdstuk I - DefinitiesArtikel 1 bepaalt dat dit besluit, overeenkomstig 
+artikel 138 van de Grondwet, een aangelegenheid bedoeld in artikel 127, § 1, ervan regelt.Artikel 
+2 bevat verschillende definities, waaronder de nieuwe definitie van een regelmatige leerling die op zoek 
+is naar een opleidingsbedrijf zoals bedoeld in punt 5°.  Deze nieuwe definitie vervangt de vorige definitie 
+van kandidaat voor alternerende opleiding.Hoofdstuk 2. Afwijkingen van het besluit van de Waalse 
+Regering van 31 augustus 2000 betreffende de doorlopende evaluatie en de examens in de permanente vorming 
+voor de middenstand en de kleine en middelgrote ondernemingenAfdeling 1 - Gemeenschappelijke 
+bepalingenArtikel 3 bepaalt dat de regelmatige cursist, de cursist is die voor het opleidingsjaar 
+2019-2020 ten minste twee derde van de cursussen georganiseerd tot 13 maart 2020, datum van de eerste 
+lockdown, heeft gevolgd.Artikel 4 bepaalt dat de examens voor de opleidingsjaren 2019-2020 
+en 2020-2021 op afstand kunnen worden georganiseerd indien de gezondheidssituatie dit vereist, de praktische 
+modaliteiten dit toelaat en na positief advies van de pedagogisch adviseur voor elke betrokken opleiding 
+en voor elk erkend opleidingscentrum.Artikel 5 bepaalt dat het Instituut voor de twee opleidingsjaren 
+de lijst vaststelt van de opleidingen in de door de COVID-19- crisis getroffen beroepen waarvoor het 
+afleggen van het C-examen en de beoordeling van de eenheden van de leerresultaten buiten de in het evaluatie-besluit 
+vastgestelde termijnen kunnen worden georganiseerd.Afdeling 2- Evaluatie aan het einde van 
+de leertijdArtikel 6 bepaalt dat de evaluaties van de algemene kennis, beroepskennis en geïntegreerde 
+kennis, voor het opleidingsjaar 2021-2021, georganiseerd worden over de vakcursussen die face-to-face 
+of op afstand werden verstrekt.Artikel 7 bepaalt dat de C-examens en de beoordelingen van de 
+eenheden van leerresultaten tot en met 30 november 2021 kunnen plaatsvinden.In artikel 8 wordt 
+melding gemaakt van de regelmatige cursist en de regelmatige leerling die kunnen worden ingeschreven 
+voor het C-examen, met inbegrip van de regelmatige leerling die op zoek is naar een opleidingsbedrijf.Artikel 
+9 bepaalt dat dat de vergadering van de raad van vormingswerkers voor de twee opleidingsjaren m.b.t. 
+de beraadslagingen face-to-face of op afstand en uiterlijk op 30 november 2021 wordt gehouden. De raad 
+van vormingswerkers beslist over het succes, over de tweede zittijd of, op basis van een gedetailleerd 
+met redenen omkleed advies, over het falen van de leerling. De toezichthoudende commissie wordt na de 
+vergadering van de raad van vormingswerkers en uiterlijk op 15 december 2021 gehouden.Afdeling 
+3- Evaluatie tijdens de leertijdArtikel 10 bepaalt dat de eerste en de tweede zittijden voor 
+de examens van algemene kennis (A), beroepskennis(B) en geïntegreerde kennis (I), voor het opleidingsjaar 
+2021-2021, tot en met 30 september 2021 georganiseerd worden en dat ze betrekking hebben op vakcursussen 
+die face-to-face of op afstand werden verstrekt.Artikel 11 bepaalt dat dat de vergadering van 
+de raad van vormingswerkers voor de twee opleidingsjaren 2020-2021 m.b.t. de beraadslagingen face-to-face 
+of op afstand en uiterlijk op 30 november 2021 wordt gehouden. De raad van vormingswerkers beslist over 
+de toelating van de leerling in het hogere studiejaar met of zonder aanbeveling, of over de weigering 
+van zijn toegang tot het hogere studiejaar op basis van een gedetailleerd met redenen omkleed advies.Artikel 
+12 bepaalt dat de toezichthoudende commissie face-to-face of op afstand en uiterlijk op 15 december 2021 
+wordt gehouden.Afdeling 4 - Evaluatie aan het einde van de vorming van bedrijfsleiderArtikel 
+13 bepaalt dat de evaluaties van de basiskennis van het bedrijfsbeheer (A), van de beroepskennis(B) en 
+geïntegreerde kennis (I), voor het opleidingsjaar 2021-2021, face-to-face of op afstand worden georganiseerd.Artikel 
+14 bepaalt dat de C-examens en de beoordelingen van de eenheden van de leerresultaten, voor het opleidingsjaar 
+2020-2021, tot en met 30 november 2021 zullen plaatsvinden. Voor het jaar 2020-2021 is bepaald dat de 
+examens A, B, I tot en met 30 september 2021 zullen plaatsvinden en dat de zittijden voor het C-examen 
+aan het einde van opleiding en de beoordelingen van de eenheden van de leerresultaten tot en met 30 november 
+2021 zullen plaatsvinden. Voor opleidingen in een beroep waarop, op de datum van bekendmaking van dit 
+besluit, reeds de exitstrategie uit de COVID-19- gezondheidscrisis van toepassing is, wordt daarentegen 
+bepaald dat het examen C en de beoordelingen van de eenheden van leerresultaten kunnen plaatsvinden binnen 
+zes maanden na de exitstrategie. Deze bijzondere bepaling is bij wijze van een conservatoire maatregel 
+getroffen.Artikel 15 bepaalt dat het erkende opleidingscentrum voor de twee opleidingsjaren 
+de kandidaat die overeenkomstig de door het Instituut vastgestelde voorwaarden en modaliteiten kan aantonen 
+dat hij over voldoende praktijkervaring beschikt, voor het examen C inschrijft. In sommige gevallen zijn 
+de stage-eisen van 250 uren per jaar en 500 uren in totaal, zoals vastgesteld in de opleidingsnormen, 
+aangepast vanwege de sluiting van de betrokken sectorArtikel 16 bepaalt dat dat de vergadering 
+van de raad van vormingswerkers voor de twee opleidingsjaren m.b.t. de beraadslagingen face-to-face of 
+op afstand en uiterlijk op 30 november 2021 wordt gehouden. De raad van vormingswerkers beslist over 
+het succes, over de tweede zittijd of, op basis van een gedetailleerd met redenen omkleed advies, over 
+het falen van de cursist. De toezichthoudende commissie wordt face-tot-face of op afstand na de vergadering 
+van de raad van vormingswerkers en uiterlijk op 15 december 2021 gehouden.Afdeling 5 - Evaluatie 
+tijdens de vorming van bedrijfsleiderArtikel 17 bepaalt dat de eerste en tweede zittijden, 
+voor het opleidingsjaar 2020-2021, tot en met 30 september 2021 georganiseerd worden.Artikel 
+18 bepaalt dat de evaluaties, voor het opleidingsjaar 2021-2021, georganiseerd worden over de vakcursussen 
+die face-to-face of op afstand werden verstrekt.Artikel 19 bepaalt dat dat de vergadering van 
+de raad van vormingswerkers voor de twee opleidingsjaren 2020-2021 m.b.t. de beraadslagingen face-to-face 
+of op afstand en uiterlijk op 30 november 2021 wordt gehouden. De raad van vormingswerkers beslist over 
+de toelating van de cursist in het hogere studiejaar met of zonder aanbeveling, over een tweede zittijd 
+of over de weigering van zijn toegang tot het hogere studiejaar op basis van een gedetailleerd met redenen 
+omkleed advies.Hoofdstuk 3. Afwijkingen van het besluit van de Waalse Regering van 31 augustus 
+2000 betreffende de vormingscursussen in de permanente vorming van de middenstand en de kleine en middelgrote 
+ondernemingenIn artikel 20 wordt eraan herinnerd dat cursussen face-to-face of op afstand kunnen 
+worden georganiseerd en dat maatregelen de toegang tot deze cursussen voor alle betrokken leerlingen 
+waarborgen.De artikelen 21 en 22 bepalen dat het erkende opleidingscentrum zowel in de leertijd 
+als in het kader va de opleiding tot bedrijfsleider bijkomende cursussen beroepspraktijk voor de door 
+het Instituut bepaalde beroepen face-to-face organiseert.Hoofdstuf 4. Afwijkingen van het besluit 
+van de Waalse Regering van 16 juli 1998 betreffende de stageovereenkomst in het kader van de permanente 
+vorming van de middenstand en de kleine en middelgrote ondernemingenArtikel 23 bepaalt dat 
+de overgang naar de hogere schaal pas kan worden gemaakt na de beslissing van de raad van vormingswerkers 
+wanneer het opleidingsjaar 2020-2021 na 30 september 2021 afloopt.Hoofdstuk 5. - WijzigingsbepalingenIn 
+artikel 24 wordt melding gemaakt van de regelmatige cursist en de regelmatige leerling voor wie het Centrum 
+de eindeleertijdsevaluatie organiseert, onder wie de regelmatige leerling die op zoek is naar een opleidingsbedrijf.In 
+artikel 25 wordt melding gemaakt van de regelmatige cursist en de regelmatige leerling voor wie het Centrum 
+de jaarlijkse evaluatie organiseert, onder wie de regelmatige leerling die op zoek is naar een opleidingsbedrijf.Hoofdstuk 
+6. Gemeenschappelijke bepalingenArtikel 26 heft de "permanente" artikelen 1 tot 4, 6 tot 9, 
+11 en 12, 14 tot 18 en 20 tot 24 van het besluit van de Waalse Regering van 19 juni 2020 betreffende 
+diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook 
+de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19 op.Hoofdstuk 
+7. SlotbepalingenArtikel 27 bepaalt dat het besluit van de Waalse Regering van 1 september 
+2020 tot en met 31 december 2021 uitwerking heeft, met uitzondering van de bepalingen met betrekking 
+tot het opleidingsjaar 2019-2020, die in werking treden op 1 december 2021 tot en met 31 december 2021.Er 
+wordt ook voorzien in een afwijking van artikel 14, lid 3, en artikel 16, lid 3, wat de duur betreft, 
+om toe te staan dat examens worden afgenomen en de toezichthoudende commissie wordt gehouden na 31 december 
+2021 voor opleidingen in beroepen waarop gedurende lange tijd de lockdown van toepassing is geweest. 
+Raad van StateAfdeling WetgevingAdvies 69.245/2 van 7 mei 
+2021 over het ontwerp van besluit van de Waalse Regering 'betreffende diverse bepalingen betreffende 
+de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de stageovereenkomsten van 
+het IFAPME-net in het kader van het beheer van de crisis COVID-19' Op 12 april 2021 werd de 
+Raad van State, afdeling wetgeving, door de Vice-Minister-President van de Waalse Regering en Minister 
+van Economie, Buitenlandse Handel, Onderzoek, Innovatie, Digitale Technologieën, Ruimtelijke Ordening, 
+Landbouw, het "IFAPME", en de Vaardigheidscentra van het Waalse Gewest verzocht binnen een termijn van 
+dertig dagen advies uit te brengen over een ontwerp-besluit van de Waalse Regering 'betreffende diverse 
+bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de 
+stageovereenkomsten van het IFAPME-net in het kader van het beheer van de COVID-19- crisis'.Het 
+ontwerp werd door de tweede kamer onderzocht op 7 mei 2021. De kamer was samengesteld uit Pierre VANDERNOOT, 
+voorzitter van de kamer, Patrick RONVAUX en Christine HOREVOETS, Staatsraden, Jacques ENGLEBERT, assessor, 
+en Esther CONTI, toegevoegd griffier.Verslag werd uitgebracht door Roger WIMMER, eerste auditeur.Daar 
+de adviesaanvraag is ingediend op grond van artikel 84, § 1, lid 1, 2°,  van de wetten `op de 
+Raad van State', gecoördineerd op 12 januari 1973, beperkt de afdeling wetgeving haar onderzoek tot de 
+rechtsgrond van het ontwerp, tot de bevoegdheid van de steller van de akte en tot het voltooien van de 
+voorafgaandelijke vormvereisten, overeenkomstig artikel 84, § 3, van voornoemde gecoördineerde 
+wetten.Op deze drie punten geeft het ontwerp aanleiding tot volgende bemerkingen.Voorafgaande 
+vormvereistenHet advies van de Raad van State wordt gelijktijdig met het eensluidend advies 
+van het College van de Franse Gemeenschapscommissie gevraagd.Indien het ontwerp als gevolg 
+van deze laatste raadpleging op andere punten dan de louter formele en los van de in dit advies behandelde 
+punten zou worden gewijzigd, zou het opnieuw aan de afdeling Wetgeving moeten worden voorgelegd.algemene 
+opmerkingen1. Het ontwerp beoogt de "wijziging" van het besluit van de Waalse Regering van 
+16 juli 1998 betreffende de stageovereenkomst in het kader van de permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingen (hoofdstuk IV, artikel 26 in ontwerp), het besluit van de Waalse 
+Regering van 31 augustus 2000 betreffende de vormingscursussen in de permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingen(hoofdstuk III, (hoofdstuk III, artikelen 23 tot en met 25 in 
+ontwerp) en het besluit van de Waalse Regering van 31 augustus 2000 betreffende de doorlopende evaluatie 
+en de examens in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingen 
+(hoofdstuk II, artikelen 2 tot en met 22 in ontwerp)De meeste bepalingen van het ontwerp voorzien 
+in tijdelijke afwijkingen, hetzij voor het opleidingsjaar 2019-2020, hetzij voor het opleidingsjaar 2020-2021 
+(artikelen 2, 3, 5, 7-10, 16-19, 24 en 25), hetzij alleen voor het opleidingsjaar 2020-2021 (artikelen 
+6, 11-14, 20-22 en 26). De andere afwijkingen zijn niet beperkt tot één opleidingsjaar (artikelen 4, 
+15 en 23).Het ontwerp zou uitwerking hebben op 1 september 2020, namelijk bij de aanvang van 
+het opleidingsjaar 2020-2021, met uitzondering van de artikelen 2, lid 1, 7, lid 1, en 16, lid 1, die 
+uitwerking hebben op 1 januari 2021.2. Het besluit van de Waalse Regering van 19 juni 2020 
+betreffende diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en 
+cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19 
+bevat reeds een reeks afwijkingen van de drie voornoemde besluiten van de Waalse Regering.Dat 
+besluit is in werking getreden op de dag van zijn bekendmaking in het Belgisch Staatsblad, namelijk op 
+6 juli 2020, met uitzondering van de artikelen 5, 10, 13 en 19, dievan 14 maart 2020 tot en met 31 december 
+2020 (artikel 25) uitwerking hebben gehad.In dat besluit is ofwel uitdrukkelijk bepaald dat 
+deze afwijkingen alleen van toepassing zijn op het opleidingsjaar 2019-2020 (artikelen 2, 8, 15, 16 en 
+22 tot en met 24), ofwel volgt uit de bewoordingen van de tekst zelf dat de afwijkingen alleen van toepassing 
+zijn op het opleidingsjaar 2019-2020 (artikelen 5 tot en met 7, 9 tot en met 14 en 17 tot en met 20).Dat 
+besluit van 19 juni 2020 bevat echter ook permanente bepalingen.Dit is het geval voor de artikelen 
+3 en 21, volgens welke cursussen en examens A, B en I op afstand kunnen worden georganiseerd. Dit is 
+ook het geval van artikel 4, dat artikel 5, § 1, van het besluit van de Waalse Regering van 31 
+augustus 2000 betreffende de doorlopende evaluatie en de examens in de permanente vorming voor de middenstand 
+en de kleine en middelgrote ondernemingen heeft vervangen.Weliswaar bevat het besluit van 19 
+juni 2020 volgens de titel "diverse bepalingen [...] voor het opleidingsjaar 2019-2020 wegens COVID 19" 
+(1).In tegenstelling tot de regels van het dispositief heeft de titel van 
+de akte evenwel geen normatieve betekenis. Bijgevolg heeft in geval van tegenstrijdigheid tussen de titel 
+van het besluit en bepaling van het dispositief, deze laatste voorrang (2).Uit 
+het voorgaande volgt dat de artikelen 3, lid 1, 5 en 23 van het ontwerp, waarin de artikelen 3, 4 en 
+21 van het besluit van de Waalse Regering van 19 juni 2020 gedeeltelijk zijn overgenomen, moeten worden 
+herzien.3. Zoals hierboven vermeld, voorzien de artikelen 2, lid 1, 3, partim, 5, partim, 7, 
+lid 1, 8, partim, 9, partim, 10, partim, 16, lid 1, 17, partim, 18, partim, 19, partim, 24, partim en 
+25, partim, van het ontwerp opnieuw in tijdelijke afwijkingen voor het opleidingsjaar 2019-2020.Deze 
+bepalingen zijn ofwel identiek aan die welke reeds zijn opgenomen in het besluit van de Waalse Regering 
+van 19 juni 2020 (3), ofwel houden zij een impliciete wijziging in (4). 
+Bijgevolg zijn de eerste bepalingen overbodig en moeten zij worden weggelaten, en moeten de tweede worden 
+opgesteld in de vorm van wijzigingsbepalingen van het besluit van 19 juni 2020.Bijzondere opmerkingenAanhef1. 
+Het ontwerp vindt rechtsgrond in de artikelen 5, § 1, 4°,  en 8, § 1, 4°,  en § 
+2, 1°,  van het samenwerkingsakkoord gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, 
+de Franse Gemeenschap en het Waalse Gewest i.v.m. de permanente vorming van de middenstand en de kleine 
+en middelgrote ondernemingen en de voogdij over het Instituut voor permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingen.Lid 1 moet derhalve op dit punt worden aangevuld.2. 
+Uit het aan de afdeling Wetgeving toegezonden dossier blijkt dat de Inspecteur van Financiën op 29 maart 
+2021 advies heeft uitgebracht en dat de Minister van Begroting op 1 april 2021 zijn instemming heeft 
+gegeven.Bijgevolg moet de vervulling van deze formaliteiten in de aanhef worden vermeld.3. 
+De leden 10 tot en met 23 horen veeleer thuis in het verslag aan de Regering.DispositiefArtikel 
+2Artikel 1, 6°,  van het besluit van de Waalse Regering van 31 augustus 2000 betreffende de 
+doorlopende evaluatie en de examens in de permanente vorming voor de middenstand en de kleine en middelgrote 
+ondernemingen bepaalt dat de regelmatige cursist, iemand is die daadwerkelijk ten minste twee derde van 
+de tijdens het opleidingsjaar georganiseerde lessen heeft gevolgd.Artikel 1 van het besluit 
+van de Waalse Regering van bijzondere machten nr. 71 van 18 december 2020 betreffende diverse bepalingen 
+betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen van het IFAPME-net wegens 
+COVID-19 voegde er de volgende zin toe:"Bij opschorting van de lessen wegens de maatregelen 
+genomen in het kader van de COVID-19- pandemie wordt de opschortingsperiode niet in rekening genomen 
+in de berekening van de twee derde.".Dat besluit van bijzondere machten nr. 71 dat het voorwerp 
+uitmaakt van een ontwerp van bekrachtigingsdecreet (5), is van kracht van 1 september 
+2020 tot en met 31 maart 2021.Uit het bovenstaande volgt dat lid 1 van de bepaling in kwestie 
+moet worden weggelaten, zoals in de algemene opmerking nr. 3 in herinnering wordt gebracht, en dat lid 
+2 moet worden aangepast.Artikelen 3, 5 en 7 tot 10Er wordt verwezen naar de algemene 
+opmerking nr. 3.Artikel 11In haar advies nr. 67.418/2 heeft de afdeling wetgeving 
+hetgeen volgt bepaald (6):"Artikel 4 is de enige bepaling van het ontwerp 
+die beoogt een bestaand besluit te wijzigen.Ook al volgt uit artikel 25 van het ontwerp dat 
+punt 4°  ingevoegd bij artikel 4 in artikel 5, § 1, van het besluit van de Waalse regering van 
+31 augustus 2000 "betreffende de doorlopende evaluatie en de examens in de permanente vorming voor de 
+middenstand en de kleine en middelgrote ondernemingen" (hierna: het "evaluatie-besluit"), op 31 december 
+2020 uit het rechtsstelsel zal verdwijnen, zou het duidelijker zijn om, net als de andere bepalingen 
+van het ontwerp, artikel 4 autonoom op te stellen en het Centrum voor de permanente vorming voor de Middenstand 
+en de kleine en middelgrote ondernemingen de bevoegdheid te geven om ook de eindeleertijdsevaluatie voor 
+"kandidaten voor een alternerende opleiding" te organiseren, naast de bevoegdheden die bedoeld Centrum 
+heeft krachtens artikel 5, § 1, van het evaluatie-besluit.De definitie die aan dit laatste 
+begrip wordt gegeven bij artikel 1, 5°,  van het ontwerp zal bijgevolg gelden voor het aldus ontworpen 
+artikel 4, wat niet het geval zou zijn indien het nieuwe punt 4°  zou worden ingevoegd in artikel 5, 
+§ 1, van het [evaluatie-besluit], zoals voorzien in de betrokken bepaling".Dezelfde 
+opmerking geldt mutatis mutandis voor artikel 11 van het ontwerp.Artikelen 16, 19 en 24 tot 
+25Er wordt verwezen naar de algemene opmerking nr. 3.Artikel 27In dat artikel 
+wordt bepaald dat het ontwerp uitwerking heeft op 1 september 2020, met uitzondering van de artikelen 
+2, lid 1, 7, lid 1, en 16, lid 1, die uitwerking hebben op 1 januari 2021.Er wordt op gewezen 
+dat bestuurshandelingen krachtens een algemeen rechtsbeginsel in de regel geen terugwerkende kracht hebben. 
+Terugwerkende kracht kan evenwel gerechtvaardigd zijn indien de wet die toestaat. Indien ze niet bij 
+de wet wordt toegestaan, is ze alleen aanvaardbaar bij wijze van uitzondering, inzonderheid wanneer dat 
+nodig is voor de continuïteit van de openbare dienst of voor de regularisatie van een rechtstoestand 
+of een feitelijke toestand en voor zover de vereisten inzake rechtszekerheid vervuld zijn en de individuele 
+rechten geëerbiedigd worden.De steller van het ontwerp dient zich ervan te vergewissen dat 
+de rechtvaardiging voor de terugwerkende kracht van deze bepalingen binnen een van de bovengenoemde hypothesen 
+valt.De GriffierEsther Conti De voorzitterPierre Vandernoot_______Nota's 
+(1) Artikel 25 van het ontwerp, dat aanleiding gaf tot het advies van de afdeling Wetgeving 
+nr. 67.418/2 van 25 mei 2020 over een ontwerp dat het besluit van de Waalse regering van 19 juni 2020 
+is geworden betreffende diverse bepalingen 'betreffende de organisatie van de doorlopende evaluatie, 
+de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 
+wegens COVID-19, (http://www.raadvst consetat.be/dbx/avis/67418) bepaalde het volgende:"De 
+artikelen 2 tot 23 van dit besluit hebben uitwerking van 18 mei 2020 tot en met 31 december 2020.Artikel 
+24 heeft uitwerking tot 15 december 2020".(2) Beginselen van de wetgevingstechniek - Handleiding 
+voor het opstellen van wetgevende en reglementaire teksten www.conseildetat.be, tabblad « Wetgevingstechniek 
+», aanbeveling nr. 13.(3) Zoals bijvoorbeeld de artikelen 2, eerste lid, 9 en 18 van het ontwerp, 
+die de inhoud weergeven van de artikelen 2, 8, eerste lid, en 16, eerste lid, van het besluit van de 
+Waalse Regering van 19 juni 2020 'betreffende de organisatie van de doorlopende evaluatie, de examens 
+en cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens 
+COVID-19'.(4) Zoals bijvoorbeeld de artikelen 7, eerste lid, 10, 16, eerste lid, en 19 van 
+het ontwerp dat impliciet de artikelen 6, b), 9, 14, b), en 17 van het besluit van de Waalse Regering 
+van 19 juni 2020 'betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook 
+de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19' wijzigt 
+.(5) Zie artikel 4 van het ontwerp van decreet houdende bekrachtiging van de besluiten van 
+de Waalse Regering van bijzondere machten genomen in het kader van het beheer van de gezondheidscrisis 
+tijdens de tweede golf COVID-19 voor de aangelegenheden bedoeld in artikel 138 van de Grondwet. (Parl. 
+St., Waals Parlement, 2020-2021, nr. 543/1, blz. 16).(6) Advies nr. 67.418/2 van 25 mei 2020 
+over een ontwerp dat het besluit van de Waalse Regering van 19 juni 2020 is geworden 'betreffende diverse 
+bepalingen 'betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de 
+stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19'.27 
+MEI 2021. - Besluit van de Waalse Regering betreffende diverse bepalingen betreffende de organisatie 
+van de doorlopende evaluatie, de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net 
+in het kader van het beheer van de crisis COVID-19De Waalse Regering,Gelet op het 
+samenwerkingsakkoord gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, de Franse Gemeenschap 
+en het Waalse Gewest i.v.m. de permanente vorming van de middenstand en de kleine en middelgrote ondernemingen 
+en de voogdij over het Instituut voor permanente vorming van de middenstand en de kleine en middelgrote 
+ondernemingen, gewijzigd bij de aanhangsels van 4 juni 2003 en 27 maart 2014, artikelen 5, § 1, 
+4°,  en 8, § 1, 4°,  en § 2, 1° ;Gelet op het besluit van de Waalse Regering 
+van 16 juli 1998 betreffende de stageovereenkomst in het kader van de permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingen;Gelet op het besluit van de Waalse Regering van 31 
+augustus 2000 betreffende de doorlopende evaluatie en de examens in de permanente vorming voor de middenstand 
+en de kleine en middelgrote ondernemingen;Gelet op het besluit van de Waalse Regering van 31 
+augustus 2000 betreffende de vormingscursussen in de permanente vorming van de middenstand en de kleine 
+en middelgrote ondernemingen;Gelet op het besluit van de Waalse Regering van 19 juni 2020 betreffende 
+diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook 
+de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19;Gelet 
+op het rapport van 16 maart 2021, opgesteld overeenkomstig artikel 4, 2°,  van het decreet van 3 maart 
+2016 houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 
+1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke 
+beleidslijnen voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet;Gelet 
+op het gunstig advies van het beheerscomité van het "IFAPME", gegeven op 24 maart 2021;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 29 maart 2021;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 1 april 2021 ;Gelet op het eensluidend advies van 
+het College van de Franse Gemeenschapscommissie, gegeven op 22 april 2021;Gelet op advies 69.245/2 
+van de Raad van State, gegeven op 7 mei 2021, overeenkomstig artikel 84, § 1, eerste lid, 2°, 
+ van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht van 
+de Minister van het "IFAPME";Na beraadslaging,Besluit : HOOFDSTUK I. - 
+ BegripsomschrijvingenArtikel 1. Dit besluit regelt overeenkomstig artikel 138 van de Grondwet 
+een aangelegenheid bedoeld in artikel 127 ervan.Art. 2. Voor de toepassing van dit besluit 
+wordt verstaan onder:1°  het erkende opleidingscentrum : het opleidingscentrum bedoeld in artikel 
+2, 12°,  van het decreet van 17 juli 2003 houdende oprichting van een " Institut wallon de formation 
+en alternance et des indépendants et petites et moyennes entreprises " (Waals instituut voor alternerende 
+opleiding, zelfstandigen en kleine en middelgrote ondernemingen);2°  het evaluatie-besluit: 
+het besluit van de Waalse Regering van 31 augustus 2000 betreffende de doorlopende evaluatie en de examens 
+in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingen;3°  
+het cursus-besluit: het besluit van de Waalse Regering van 31 augustus 2000 betreffende de vormingscursussen 
+in de permanente vorming van de middenstand en de kleine en middelgrote ondernemingen;4°  het 
+Instituut: het Instituut opgericht krachtens het decreet van 17 juli 2003 tot oprichting van een "Institut 
+wallon de formation en alternance et des indépendants et des petites et moyennes entreprises";5° 
+ de regelmatige leerling die op zoek is naar een opleidingsbedrijf: de leerling die de cursussen algemene 
+kennis en de cursussen beroepskennis of de cursussen geïntegreerde kennis in een erkend opleidingscentrum 
+volgt en die een alternerend contract wenst te sluiten.HOOFDSTUK II. -  Afwijkingen van het 
+besluit van de Waalse Regering van 31 augustus 2000 betreffende de doorlopende evaluatie en de examens 
+in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingenAfdeling 
+1 -  Gemeenschappelijke bepalingenArt. 3. Voor het opleidingsjaar 2019-2020 is de in artikel 
+1, 6°,  van het evaluatie-besluit bedoelde regelmatige cursist, de cursist die ten minste twee derde 
+van de cursussen georganiseerd tot 13 maart 2020 heeft gevolgd.Art. 4. Voor de opleidingsjaren 
+2019-2020 en 2020-2021 kunnen de in artikel 4, tweede lid, van het evaluatie-beslui bedoelde examens 
+op afstand worden georganiseerd, indien de gezondheidssituatie dit vereist, de praktische modaliteiten 
+dit toelaat en na positief advies van de pedagogisch adviseur voor elke betrokken opleiding en voor elk 
+erkend opleidingscentrum.Art. 5. Voor de opleidingsjaren 2019-2020 en 2020-2021 stelt het Instituut 
+een lijst op van opleidingen in de door de gezondheidscrisis COVID-19 getroffen beroepen waarvoor het 
+C-examen en de beoordelingen van de eenheden van leerresultaten mogen worden georganiseerd buiten de 
+in het evaluatie-besluit vastgestelde termijnen.Afdeling 2- - Evaluatie aan het einde van de 
+leertijdArt. 6. Voor het opleidingsjaar 2021-2021 worden de evaluaties van de algemene kennis, 
+beroepskennis en geïntegreerde kennis bedoeld in artikel 16 van het evaluatie-besluit georganiseerd over 
+de vakcursussen die face-to-face of op afstand werden verstrekt. Art. 7. Voor het opleidingsjaar 
+2019-2020 vinden de zittijden voor de C-examens en de beoordelingen van de eenheden van leerresultaten 
+die zijn uitgesteld in verband met de gezondheidscrisis COVID-19, in afwijking van artikel 7 van het 
+evaluatie-besluit, plaats tot en met 30 november 2021.Voor het opleidingsjaar 2020-2021 en 
+in afwijking van artikel 7 van het evaluatie-besluit: 1°  vinden de eerste en tweede zittijden 
+voor de A-, B- en I-examens plaats tot en met 30 september 2021;2°  vinden de zittijden voor 
+de C-examens en de beoordelingen van de eenheden van leerresultaten plaats tot en met 30 november 2021.Art. 
+8. Voor de opleidingsjaren 2019-2020 en 2020-2021 en in afwijking van artikel 8, § 2, van het 
+evaluatie-besluit schrijft het erkende opleidingscentrum de volgende personen voor het C-examen in :1° 
+ de regelmatige cursist die in het laatste vormingsjaar ingeschreven is;2°  de regelmatige 
+cursist bedoeld in artikel 5, § 1, 3°,  van het evaluatie-besluit;3°  de regelmatige 
+leerling die op zoek is naar een opleidingsbedrijf.Art. 9. Voor de opleidingsjaren 2019-2020 
+en 2020-2021 wordt de in artikel 13 van het evaluatie-besluit bedoelde vergadering van de raad van vormingswerkers 
+face-to-face of op afstand gehouden. Wat het diploma waarmede de opleiding wordt afgesloten betreft, 
+beslist de raad van vormingswerkers over het succes, over de tweede zittijd of, op basis van een gedetailleerd 
+met redenen omkleed advies, over het falen van de leerling.Hij vergadert uiterlijk op 30 november 
+2021.Na de vergadering van de raad van vormingswerkers wordt de vergadering van de in artikel 
+19 van het evaluatie-besluit bedoelde toezichthoudende commissie face-to-face of op afstand uiterlijk 
+op 15 december 2021 gehouden.Afdeling 3 - Evaluatie tijdens de leertijdArt. 10. Voor 
+het opleidingsjaar 2021-2021 worden de evaluaties van de algemene kennis, beroepskennis en geïntegreerde 
+kennis bedoeld in artikel 16 van het evaluatie-besluit georganiseerd over de vakcursussen die face-to-face 
+of op afstand werden verstrekt.In afwijking van artikel 16 van het evaluatie-besluit worden 
+de eerste en tweede zittijden voor de A-, B- en I-examens tot en met 30 september 2021 georganiseerd.Art. 
+11. Voor het opleidingsjaar 2021-2021 wordt de in artikel 34 van het evaluatie-besluit bedoelde vergadering 
+van de raad van vormingswerkers face-to-face of op afstand georganiseerd.De Raad van vormingswerkers 
+beslist over de toelating van de leerling in het hogere studiejaar met of zonder aanbeveling, of over 
+de weigering van zijn toegang tot het hogere studiejaar op basis van een gedetailleerd met redenen omkleed 
+advies.Hij vergadert uiterlijk op 30 november 2021.Art. 12. Voor het opleidingsjaar 
+2020-2021 wordt de vergadering van de in artikel 19 van het evaluatie-besluit bedoelde toezichthoudende 
+commissie face-to-face of op afstand gehouden.In afwijking van artikel 19 van het evaluatie-besluit 
+wordt de vergadering van de toezichthoudende commissie uiterlijk op 15 december 2021 gehouden.Afdeling 
+4 -  Evaluatie aan het einde van de vorming van bedrijfsleiderArt. 13. Voor het opleidingsjaar 
+2021-2021 worden de evaluaties van de basiskennis van het bedrijfsbeheer, van de beroepskennis en geïntegreerde 
+kennis bedoeld in artikel 27 van het evaluatie-besluit face-to-face of op afstand georganiseerd.Art. 
+14. Voor het opleidingsjaar 2019-2020 vinden de zittijden voor de C-examens en de beoordelingen van de 
+eenheden van leerresultaten die in verband met de gezondheidscrisis COVID-19 zijn uitgesteld, in afwijking 
+van artikel 28 van het evaluatie-besluit, plaats tot en met 30 november 2021.Voor het opleidingsjaar 
+2020-2021 worden de zittijden voor de opleidingen in een beroep waarop, op de datum van bekendmaking 
+van dit besluit, reeds de exitstrategie uit de COVID-19-gezondheidscrisis van toepassing is, in afwijking 
+van artikel 28 van het evaluatie-besluit, als volgt georganiseerd: 1°  de eerste en tweede 
+zittijden voor de A-, B- en I-examens vinden plaats tot en met 30 september 2021;2°  de zittijden 
+voor de C-examens en de beoordelingen van de eenheden van leerresultaten vinden plaats tot en met 30 
+november 2021.Voor het opleidingsjaar 2020-2021 worden de zittijden voor de opleidingen in 
+een beroep waarop, op de datum van bekendmaking van dit besluit, reeds de exitstrategie uit de COVID-19-gezondheidscrisis 
+van toepassing is, in afwijking van artikel 28 van het evaluatie-besluit, als volgt georganiseerd:1° 
+ de eerste en tweede zittijden voor de A-, B- en I-examens vinden plaats tot en met 30 september 2021;2° 
+ de zittijden voor de C-examens en de beoordelingen van de eenheden van leerresultaten vinden plaats 
+binnen zes maanden na de exitstrategie.Art. 15. Voor de opleidingsjaren 2019-2020 en 2020-2021 
+en in afwijking van artikel 29, § 2, van het evaluatie-besluit kan het centrum, wegens de opschorting 
+van de stages na de COVID-19-crisis, de kandidaat voor het C-examen inschrijven, die voldoende praktische 
+ervaring kan aantonen overeenkomstig de door het Instituut vastgestelde voorwaarden en modaliteiten.Art. 
+16. Voor de opleidingsjaren 2019-2020 en 2020-2021 wordt de in artikel 34 van het evaluatie-besluit bedoelde 
+vergadering van de raad van vormingswerkers face-to-face of op afstand gehouden. Wat het diploma waarmede 
+de opleiding wordt afgesloten betreft, beslist de raad van vormingswerkers over het succes, over de tweede 
+zittijd of, op basis van een gedetailleerd met redenen omkleed advies, over het falen van de cursist.Hij 
+vergadert uiterlijk op 30 november 2021.Na de in het eerste lid bedoelde vergadering van de 
+raad van vormingswerkers wordt de vergadering van de in artikel 19 van het evaluatie-besluit bedoelde 
+toezichthoudende commissie face-to-face of op afstand uiterlijk op 15 december 2021 gehouden.Voor 
+de C-examens en de beoordelingen van de eenheden van leerresultaten georganiseerd in toepassing van artikel 
+14, paragraaf 3, van dit besluit, wordt de vergadering van de toezichthoudende commissie face-tot-face 
+of op afstand gehouden binnen de vijftien dagen volgend op de datum van het C-examen of de beoordelingen 
+van de eenheden van leerresultaten. Afdeling 5 -  Evaluatie tijdens de vorming van bedrijfsleiderArt. 
+17. Voor het opleidingsjaar 2020-2021 worden de eerste en tweede zittijden voor de A-, B- en I-examens, 
+in afwijking van artikel 16 van het evaluatie-besluit, tot en met 30 september 2021 georganiseerd.Art. 
+18. Voor het opleidingsjaar 2021-2021 worden de evaluaties van de basiskennis van het bedrijfsbeheer, 
+de beroepskennis en geïntegreerde kennis bedoeld in artikel 37 van het evaluatie-besluit georganiseerd 
+over de vakcursussen die face-to-face of op afstand werden verstrekt.Art. 19. Voor het opleidingsjaar 
+2021-2021 wordt de in artikel 40 van het evaluatie-besluit bedoelde vergadering van de raad van vormingswerkers 
+face-to-face of op afstand gehouden. De Raad van vormingswerkers beslist over de toelating van de cursist 
+in het hogere studiejaar met of zonder aanbeveling, of over een tweede zittijd of over de weigering van 
+zijn toegang tot het hogere studiejaar op basis van een gedetailleerd met redenen omkleed advies.Hij 
+vergadert uiterlijk op 30 november 2021.Na de in het eerste lid en het tweede lid bedoelde 
+vergadering van de raad van vormingswerkers wordt de vergadering van de in artikel 19 van het evaluatie-besluit 
+bedoelde toezichthoudende commissie face-to-face of op afstand uiterlijk op 15 december 2021 gehouden.HOOFDSTUK 
+III. -  Afwijkingen van het besluit van de Waalse Regering van 31 augustus 2000 betreffende de vormingscursussen 
+in de permanente vorming van de middenstand en de kleine en middelgrote ondernemingenArt. 20. 
+Voor de opleidingsjaren 2019-2020 en 2020-2021 kunnen de in het cursus-besluit bedoelde cursussen op 
+afstand of face-to-face georganiseerd worden.In het geval van afstandscursussen neemt het erkende 
+opleidingscentrum maatregelen om de toegang tot deze cursussen voor alle betrokken leerlingen te waarborgen.Art. 
+21. Voor de opleidingsjaren 2019-2020 en 2020-2021 zal het erkende opleidingscentrum met betrekking tot 
+de leercursussen bijkomende cursussen beroepspraktijk voor de door het Instituut bepaalde beroepen organiseren 
+om de leerlingen in staat te stellen hun leertijd in de volgende jaren voort te zetten of hun C-examen 
+of de beoordelingen van de eenheden van de leerresultaten voor te bereiden.Art. 22. Voor de 
+opleidingsjaren 2019-2020 en 2020-2021 zal het erkende opleidingscentrum met betrekking tot de cursussen 
+voor een opleiding tot bedrijfsleider bijkomende cursussen beroepspraktijk voor de door het Instituut 
+bepaalde beroepen face-to-face organiseren om de cursisten in staat te stellen hun leertijd in de volgende 
+jaren voort te zetten of hun C-examen of de beoordelingen van de eenheden van de leerresultaten voor 
+te bereiden.HOOFDSTUK IV. -  Afwijkingen van het besluit van de Waalse Regering van 16 juli 
+1998 betreffende de stageovereenkomst in het kader van de permanente vorming van de middenstand en de 
+kleine en middelgrote ondernemingenArt. 23. In afwijking van artikel 13, § 2, van het 
+besluit van de Waalse Regering van 16 juli 1998 betreffende de stageovereenkomst in het kader van de 
+permanente vorming van de middenstand en de kleine en middelgrote ondernemingen kan de overgang naar 
+de hogere schaal, wanneer het opleidingsjaar 2020-2021 na 30 september 2020 afloopt, pas worden gemaakt 
+na de beslissing van de raad van vormingswerkers.HOOFDSTUK V -  WijzigingsbepalingenArt. 
+24. Voor de opleidingsjaren 2019-2020 en 2020-2021 wordt paragraaf 1 van artikel 5 van het besluit van 
+de Waalse Regering van 31 augustus 2000 betreffende de doorlopende evaluatie en de examens in de permanente 
+vorming voor de middenstand en de kleine en middelgrote ondernemingen vervangen als volgt:" 
+§ 1. Het Centrum organiseert de eindeleertijdsevaluatie voor :1°  de leerling die verbonden 
+is door een contract alternerend leren. De evaluatie vindt plaats in de loop van het jaar waarin het 
+contract alternerend leren eindigt;2°  de regelmatige cursist die de leercursussen volgt en 
+die, zonder aan de in 1°  bedoelde voorwaarde te voldoen, een praktijkvorming volgt die gelijkwaardig 
+is aan die van het contract alternerend leren.3°  de afgewezen regelmatige cursist die voor 
+31 januari van het evaluatiejaar een schriftelijke aanvraag indient bij het Centrum;4°  de 
+leerling die de cursussen algemene kennis en de cursussen beroepskennis of de cursussen geïntegreerde 
+kennis in een erkend opleidingscentrum volgt en die een alternerend contract wenst te sluiten.Wat 
+het eerste lid betreft, vindt de evaluatie plaats in de loop van het jaar waarin deze opleiding eindigt. 
+".Art. 25. Voor het opleidingsjaar 2020-2021 wordt paragraaf 1 van artikel 15 van het besluit 
+van de Waalse Regering van 31 augustus 2000 betreffende de vormingscursussen in de permanente vorming 
+van de middenstand en de kleine en middelgrote ondernemingen vervangen als volgt:" § 
+1. Het Centrum organiseert een jaarlijkse evaluatie voor:1°  de leerling die verbonden is door 
+een contract alternerend leren;2°  de regelmatige cursist die de leercursussen volgt en die 
+aan de in 1°  bedoelde voorwaarde niet voldoet;3°  de leerling die de cursussen algemene kennis 
+en de cursussen beroepskennis of de cursussen geïntegreerde kennis in een erkend opleidingscentrum volgt 
+en die een alternerend contract wenst te sluiten. ".HOOFDSTUK VI. -  OpheffingsbepalingenArt. 
+26. De artikelen 1 tot 4, 6 tot 9, 11 en 12, 14 tot 18 en 20 tot 24 van het besluit van de Waalse Regering 
+van 19 juni 2020 betreffende diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, 
+de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 
+wegens COVID-19 worden opgeheven.HOOFDSTUK VII. -  SlotbepalingenArt. 27. Dit besluit 
+heeft uitwerking op 1 september 2020 en houdt op uitwerking te hebben op 31 december 2021.In 
+afwijking van het eerste lid hebben artikel 7, eerste lid, en artikel 14, eerste lid, uitwerking op 1 
+december 2020 en houden ze uitwerking te hebben op 31 december 2021.In afwijking van het eerste 
+lid hebben artikel 14, derde lid, en artikel 16, derde lid, uitwerking op 1 september 2020 en behouden 
+ze hun uitwerking tot de organisatie van de toezichthoudende commissieArt. 28. De Minister 
+bevoegd voor de alternerende opleiding, zelfstandigen en kleine en middelgrote ondernemingen is belast 
+met de uitvoering van dit besluit.Namen, 27 mei 2021. Voor de Regering:De 
+Minister-President,E. DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021031584
+

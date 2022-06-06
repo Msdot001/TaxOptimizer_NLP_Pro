@@ -1,0 +1,269 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/10/14/2021022262/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-19Numac : 2021022262
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 14 OKTOBER 2021. - Politiebesluit van de Minister-President tot behoud van bepaalde sanitaire restricties ter bestrijding van COVID-19 en houdende intrekking van het politiebesluit van 30 september 2021 
+De 
+Minister-President van het Brussels Hoofdstedelijk Gewest,Gelet op artikel 166, § 2 
+van de Grondwet;Gelet op artikel 48 van de bijzondere wet van 12 januari 1989 met betrekking 
+tot de Brusselse instellingen, zoals gewijzigd bij de wet van 6 januari 2014;Gelet op artikel 
+11 van de wet van 5 augustus 1992 op het politieambt, zoals vervangen door de wet van 7 december 1998;Gelet 
+op artikel 128 van de provinciewet;Gelet op artikel 4, § 2quater, 1°  van de wet van 
+26 juli 1971 houdende organisatie van de agglomeraties en de federaties van gemeenten, zoals gewijzigd 
+door de wet van 6 januari 2014;Gelet op het ministerieel besluit van 13 maart 2020 houdende 
+de afkondiging van de federale fase betreffende de coördinatie en het beheer van de crisis coronavirus 
+COVID-19;Gelet op het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken, zoals gewijzigd door de ministeriële besluiten 
+van 1 en 28 november 2020, van 11, 19, 20, 21 en 24 december 2020, van 12, 14, 26 en 29 januari 2021, 
+6 februari 2021, 6, 20 en 26 maart 2021, 24 en 27 april 2021, 7 mei 2021, 4 en woensdag 23 juni 2021, 
+23 juni 2021, 27 juli 2021 en 27 september 2021;Gelet op de politiebesluit van de Minister-President 
+van 30 september 2021 met het oog op het behoud van bepaalde beperkingen op het Brusselse grondgebied 
+om de verspreiding van het COVID-19-virus tegen te gaan;Gelet op de vergadering van het Overlegcomité 
+van 20 augustus 2021 en van 17 september 2021;Gelet op de adviezen van de Risk Assessment Group 
+(hierna RAG) en van het Group Exit Management Strategy (hierna GEMS);Gelet op de epidemiologische 
+rapporten opgesteld door Sciensano en door de Gemeenschappelijke Gemeenschapscommissie;Gelet 
+op de vergaderingen van de Brusselse Gewestelijke Veiligheidsraad van 15 september en 13 oktober 2021;Gelet 
+op het voorafgaande overleg met het Nationaal Crisiscentrum en de coronacommissaris die door de federale 
+staat is aangesteld voor het beheer van de COVID-19-crisis;Gelet op het akkoord van de Federale 
+Ministers van Volksgezondheid en Binnenlandse Zaken;Overwegende dat uit de recentste evaluatie 
+van de epidemiologische situatie door de RAG van 8, 15, 22, 29 en 30 september en 6 en 13 oktober 2021 
+blijkt dat het aantal besmettingen op landelijk niveau daalt, maar dat er grote verschillen zijn tussen 
+de steden en de gewesten;Daardoor blijft Brussel, zoals dat sinds 12 augustus het geval is, 
+op alarmniveau 4, terwijl de rest van het land zich op niveau 2 bevindt, behalve Luik en de Duitstalige 
+Gemeenschap;Overwegende dat de RAG benadrukt dat de besmettingen in Brussel in bijna alle leeftijdsgroepen 
+toenemen;Dat de RAG de waargenomen epidemiologische situatie in het Brussels Hoofdstedelijk 
+Gewest beschouwt als vergelijkbaar met die tijdens de derde golf;Overwegende dat de deltavariant 
+dominant is (bijna alle besmettingen) en besmettelijker is dan de alfavariant; dat het virus bijgevolg 
+nog sneller onder de bevolking circuleert;Overwegende dat de overheid vreest dat de seizoenswissel 
+en het minder mooie weer dat daarmee gepaard gaat, een grotere circulatie van het virus in de hand zullen 
+werken, doordat de bevolking zich voor activiteiten vaker in waarschijnlijk minder goed verluchte binnenruimten 
+zal begeven;Overwegende dat niet meer hoeft te worden aangetoond dat vaccinatie een doeltreffend 
+middel is om de viruscirculatie te beperken;Dat de volledige vaccinatiegraad van de bevolking 
+ouder dan 18 jaar in Brussel lager is dan in Vlaanderen en in Wallonië;Dat dit nog meer het 
+geval is in de jongere leeftijdscategorieën;Dat de in vergelijking met de andere gewesten lagere 
+vaccinatiegraad in het Brussels Hoofdstedelijk Gewest en de sterke viruscirculatie waarmee sommige gemeenten 
+van het Brussels Hoofdstedelijk Gewest daardoor te maken krijgen, nu leiden tot een toegenomen belasting 
+van de Brusselse ziekenhuizen;Overwegende dat in Brussel 20 % van de bedden op intensieve zorgen 
+bezet is, terwijl dat percentage landelijk ongeveer 10 % bedraagt;Overwegende dat de overheid 
+vindt dat het essentieel is om het gezondheidszorgsysteem en de ziekenhuisinfrastructuur te vrijwaren, 
+niet alleen om patiënten met COVID-19 op te vangen, maar ook om ervoor te zorgen dat patiënten met andere 
+pathologieën kunnen worden opgevolgd; dat een verzadiging van het ziekenhuissysteem leidt tot een reorganisatie 
+van de verzorgingsdiensten (waarbij ook patiënten naar andere gewesten worden overgebracht) en tot een 
+wijziging van de prioriteiten op het vlak van de medische verzorging van patiënten; dat daardoor andere 
+pathologieën minder zullen kunnen worden opgespoord en opgevolgd; dat het daarom van het allergrootste 
+belang is om het gezondheidszorgsysteem te vrijwaren teneinde het basisrecht van de bevolking op leven 
+en gezondheid te waarborgen;Overwegende dat de diensten van de GGC tijdens de vergadering van 
+de Gewestelijke Veiligheidsraad van 15 september en 13 oktober 2021 een overzicht hebben gegeven van 
+de epidemiologische situatie en de vaccinatietoestand in het Brussels Hoofdstedelijk Gewest;Dat 
+de doelstelling van deze vergaderingen eveneens was de grote lijnen te presenteren van de Brusselse operationele 
+uitvoering van de aan de deelstaten geboden mogelijkheid om het gebruik van het COVID Safe Ticket (hierna 
+CST) uit te breiden naar verschillende sectoren;Overwegende dat de GEMS op 18 augustus en 31 
+augustus 2021 adviezen heeft uitgebracht ter zake;Overwegende dat de uitbreidingen van het 
+gebruik van het CST zijn toegestaan door een samenwerkingsakkoord van 27 september 2021 houdende wijziging 
+van het samenwerkingsakkoord van 14 juli 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse 
+Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest 
+en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal 
+EU-COVID-certificaat, het COVID Safe Ticket, het PLF, de verwerking van persoonsgegevens van in het buitenland 
+wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België;Dat 
+in het licht van de achteruitgang van de epidemiologische toestand op het grondgebied van het Brussels 
+Hoofdstedelijk Gewest sinds het einde van de zomer en van de vaststelling dat de vaccinatiegraad nog 
+steeds te laag is, het Verenigd College het advies van de RAG gevraagd heeft over de noodzaak om het 
+gebruik van het CST uit te breiden in het Brussels Hoofdstedelijk Gewest;Dat de RAG op 30 september 
+2021 zijn advies heeft doorgestuurd met de stelling dat in Brussel dreigingsniveau 4 gold (ook vandaag 
+nog) en dat het akkoord kon gaan met de gevraagde uitbreidingen;Dat de Verenigde Vergadering 
+van de Gemeenschappelijke Gemeenschapscommissie op 8 oktober 2021 een ordonnantie heeft aangenomen betreffende 
+de uitbreiding van het COVID Safe Ticket in geval van noodzakelijkheid voortvloeiend uit een specifieke 
+epidemiologische situatie; dat de inwerkingtreding van deze ordonnantie voorzien is op 15 oktober 2021;Overwegende 
+dat de uitbreidingen die op deze basis worden uitgevaardigd een aanvulling vormen bij de beheersmaatregelen 
+die zijn ingevoerd op het grondgebied van het Brussels Hoofdstedelijk Gewest om de circulatie van het 
+virus te beperken en een nieuwe sluiting van bepaalde sectoren van de maatschappij te voorkomen;Dat 
+de Overheid met het oog op de evenwichtigheid en de proportionaliteit van de maatregelen die aan de burgers 
+worden opgelegd, voor wat betreft de in Brussel aangenomen uitbreidingen van het CST, de sanitaire restricties 
+wenst te beperken tot de situaties en plaatsen die het grootste risico inhouden aangezien zij niet aan 
+een CST zijn onderworpen;Dat moet worden benadrukt dat dit politiebesluit geldt onverminderd 
+de mondmaskerplicht en de social distancing die uitdrukkelijk worden geregeld door de CST-ordonnantie 
+en het ministerieel besluit van 28 oktober 2020; dat hieruit volgt dat dit politiebesluit de verplichtingen 
+inzake voorzorgsmaatregelen aanvult waar dit nodig blijkt;Overwegende dat dit politiebesluit 
+het dragen van een mondmasker en de naleving van de social distancing oplegt voor een aantal plaatsen 
+en evenementen;Dat de gezondheidsmaatregelen die gelden op werkplekken reeds geregeld worden 
+door het ministerieel besluit van 28 oktober 2020;Dat dit besluit bepaalt dat er gepaste preventiemaatregelen 
+worden uitgewerkt op ondernemings-, verenigings- of dienstniveau en genomen worden met naleving van de 
+geldende regels inzake sociaal overleg en in samenspraak met de diensten voor preventie en bescherming 
+op het werk; dat er eveneens een generieke gids ter beschikking is van de werkgevers op de website van 
+de Federale Overheidsdienst Werkgelegenheid, Arbeid en Sociaal Overleg;Dat niettemin de noodzaak 
+blijft bestaan om te voorzien in de bescherming van de burger in delen van werkplekken die toegankelijk 
+zijn voor het publiek; dat derhalve maatregelen genomen dienen te worden ter zake;Overwegende 
+dat krachtens dit politiebesluit de maskerdracht verplicht blijft op alle plaatsen en evenementen die 
+staan opgesomd in artikel 2, behalve indien een CST moet worden getoond om hiertoe toegang te krijgen; 
+dat in deze hypothese de maskerplicht en de social distancing niet langer vereist zijn;Dat 
+bij de opheffing van de preventiemaatregelen evenwel een uitzondering moet gelden, met name voor de residentiële 
+zorginstellingen voor kwetsbare personen zoals deze in de CST-ordonnantie staan omschreven;Dat 
+ook al dient een CST voorgelegd te worden om toegang te krijgen tot deze inrichtingen, het dragen van 
+een mondmasker verplicht blijft gelet op de kwetsbaarheid van bewoners en patiënten;Dat dit 
+politiebesluit bovendien de door de CST-ordonnantie opgelegde mondmaskerplicht niet opheft voor personen 
+die het CST niet hoeven voor te leggen om toegang te krijgen tot een plaats of evenement waar een CST 
+vereist is om toegang te krijgen;Overwegende dat in artikel 27, § 1, derde lid van het 
+ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus 
+COVID-19 te beperken, bepaald is dat "wanneer de burgemeester of de gouverneur door het gezondheidsorganisme 
+van de betrokken gefedereerde entiteit wordt ingelicht over een plaatselijke toename van de epidemie 
+op diens grondgebied, of wanneer hij dit vaststelt, hij bijkomende maatregelen moet nemen vereist door 
+de situatie";Overwegende dat de woorden "de gouverneur" in voormelde wettelijke bepaling voor 
+wat het grondgebied van het Brussels Hoofdstedelijk Gewest betreft, begrepen moeten worden als "de minister-president";Overwegende 
+dat, zoals de Raad van State in arrest nr. 247.452 van 27 april 2020 benadrukt, de minister van Binnenlandse 
+Zaken bij de keuze van de maatregelen om de gezondheidscrisis aan te pakken over "de ruimste beoordelingsbevoegdheid" 
+beschikt;Overwegende dat de minister-president vanuit een gelijkaardige redenering over de 
+ruimste beoordelingsbevoegdheid beschikt om binnen zijn bestuurlijke politiebevoegdheid bijkomende maatregelen 
+te nemen om de coronacrisis aan te pakken;Overwegende dat de Raad van State in arrest nr. 241.671 
+van 30 mei 2018 benadrukt dat: "iedere bestuurlijke politiewet de bevoegde overheden machtigt preventieve 
+maatregelen te nemen om verstoringen van de openbare orde, nog voor zij zich voordoen, te vermijden" 
+en dat "de overheid in dat verband over een ruime beoordelingsbevoegdheid beschikt en rekening kan houden 
+met iedere mogelijk gevaarlijke situatie en met ieder risico, hoe klein ook, voor de openbare veiligheid";Dat 
+de lokale overheden bijgevolg de mogelijkheid behouden om, naast de maatregelen die al door de federale 
+overheid zijn uitgevaardigd, omwille van de bijzondere gezondheidssituatie op hun grondgebied bijkomende 
+maatregelen goed te keuren;Overwegende dat een overheid in het licht van de vastgestelde gezondheidstoestand 
+en het basisrecht van de bevolking op leven en gezondheid naar aanleiding van een gezondheidscrisis vanuit 
+een normale voorzichtigheid en plichtsbewustzijn niet anders kan dan in het Brussels Hoofdstedelijk Gewest 
+een bepaald aantal beperkende gezondheidsmaatregelen die in verhouding staan tot de epidemiologische 
+situatie waarin het zich bevindt, te behouden;Besluit :HOOFDSTUK 1. - DefinitiesArtikel 
+1. Voor de toepassing van dit besluit wordt verstaan onder:1° "een mondmasker of elk ander 
+alternatief in stof": hiervoor wordt verwezen naar de definitie vermeld in artikel 1, 15°,  van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken;2°  "de CST-ordonnantie": de ordonnantie van de Vergadering van de Gemeenschappelijke 
+Gemeenschapscommissie van 8 oktober 2021 betreffende de uitbreiding van het COVID Safe Ticket in geval 
+van noodzakelijkheid voortvloeiend uit een specifieke epidemiologische situatie";3°  "CERM": 
+hiervoor wordt verwezen naar de definitie vermeld in artikel 1, 18°,  van het ministerieel besluit van 
+28 oktober 2020;4°  "CIRM": hiervoor wordt verwezen naar de definitie vermeld in artikel 1, 
+19°,  van het ministerieel besluit van 28 oktober 2020;5°  « residentiële zorginstellingen 
+voor kwetsbare personen »: hiervoor wordt verwezen naar artikel 2, 11°,  van de CST-ordonnantie.HOOFDSTUK 
+2. - Het dragen van een mondmasker en social distancingArt. 2.  § 1. Onverminderd de 
+maatregelen die reeds zijn uitgevaardigd op het federaal niveau en in de CST-ordonnantie is het dragen 
+van een mondmasker of een stoffen alternatief verplicht voor iedereen die ouder is dan 12 jaar:- 
+In residentiële zorginstellingen voor kwetsbare personen;- In de publiek toegankelijke ruimten 
+van bedrijven, overheidsbesturen en verenigingen;- Van bij de ingang van een station, in een 
+(pre)metrostation, op het perron of aan een halte, in een bus, een (pre)metro, een tram, een trein of 
+enig ander door de overheid ingericht vervoermiddel;- In de winkels en de winkelcentra;- 
+In de winkelstraten en op elke private of publieke druk bezochte plaats, zoals bepaald door de bevoegde 
+lokale overheid en afgebakend met een aanplakking die de tijdstippen preciseert waarop de verplichting 
+van toepassing is;- Op de markten, kermissen, braderijen, jaarmarkten, brocante- en rommelmarkten;- 
+In de bibliotheken, de spelotheken en de mediatheken;- In de auditoria;- In de gebouwen 
+voor een eredienst en de gebouwen bestemd voor de openbare uitoefening van niet-confessionele morele 
+dienstverlening;- Tijdens betogingen.- - In de publiek toegankelijke ruimten van 
+de inrichtingen die behoren tot de culturele, feestelijke, recreatieve en evenementensector.Met 
+uitzondering van de residentiële zorginstellingen voor kwetsbare personen en onverminderd de CST-ordonnantie 
+is het niet verplicht een mondmasker te dragen op de plaatsen en evenementen bedoeld in het eerste lid 
+waarvan de toegang de voorlegging van een COVID Safe Ticket vereist. § 2. Wanneer het 
+dragen van een mondmasker of een stoffen alternatief wegens medische redenen niet mogelijk is, mag een 
+gelaatsscherm worden gebruikt.De personen die in de onmogelijkheid zijn een mondmasker, een 
+stoffen alternatief of een gelaatsscherm te dragen omwille van een beperking, gestaafd door middel van 
+een medisch attest, moeten niet voldoen aan de bepalingen van dit besluit die deze verplichting voorzien.Art. 
+3. De regels inzake social distancing moeten worden nageleefd:1°  in de publiek toegankelijke 
+ruimten van bedrijven, overheidsbesturen en overheidsgebouwen;2°  in de publiek toegankelijke 
+ruimten van de inrichtingen die behoren tot de culturele, feestelijke, recreatieve en evenementensector 
+wanneer de toegang hiertoe niet valt binnen het toepassingsgebied en de modaliteiten vastgesteld in de 
+CST-ordonnantie;De bepalingen van dit artikel dienen eveneens te worden nageleefd door de personen 
+die buiten de inrichting wachten.HOOFDSTUK 4. - Erediensten en plechtighedenArt. 
+5. § 1. Een maximum van 200 personen, kinderen tot en met 12 jaar, de ambtenaar van de burgerlijke 
+stand en de bedienaar van de eredienst niet meegeteld, mogen tegelijkertijd aanwezig zijn bij de volgende 
+activiteiten in de gebouwen die daarvoor bestemd zijn, ongeacht het aantal ruimtes binnen het gebouw:1° 
+ burgerlijke huwelijken;2°  de collectieve uitoefening van de eredienst en de collectieve uitoefening 
+van de niet-confessionele morele dienstverlening en van activiteiten binnen een niet-confessionele levensbeschouwelijke 
+vereniging;3°  de individuele uitoefening van de eredienst en de individuele uitoefening van 
+de niet-confessionele morele dienstverlening en van activiteiten binnen een niet-confessionele levensbeschouwelijke 
+vereniging;4°  het individueel of collectief bezoek aan een gebouw voor de eredienst of een 
+gebouw voor de openbare uitoefening van niet-confessionele morele dienstverlening.Een maximum 
+van 200 personen, kinderen tot en met 12 jaar en de bedienaar van de eredienst niet meegeteld, mag tegelijkertijd 
+aanwezig zijn bij begrafenissen en crematies in afzonderlijke ruimtes van de gebouwen die daarvoor bestemd 
+zijn.Een maximum van 400 personen, kinderen tot en met 12 jaar, de ambtenaar van de burgerlijke 
+stand en de bedienaar van de eredienst niet meegeteld, mag tegelijkertijd aanwezig zijn bij de volgende 
+activiteiten:1°  het bezoek aan een begraafplaats naar aanleiding van een begrafenis;2° 
+ de activiteiten bedoeld in het eerste lid, 1°,  2°  en 3°,  voor zover deze buiten worden georganiseerd 
+op de daartoe bestemde plaatsen, desgevallend overeenkomstig het toepasselijke protocol. § 
+2. In afwijking van het eerste, tweede en derde lid van de eerste paragraaf kan het maximumaantal aanwezige 
+personen na toelating van de bevoegde gemeentelijke overheid die gebruik maakt van het CERM of het CIRM 
+indien het van toepassing is, verhoogd worden tot maximum 2000 binnen en 2500 buiten. § 
+3. Tijdens de activiteiten bedoeld in dit artikel dienen de volgende minimale regels te worden nageleefd, 
+onverminderd de toepasselijke protocollen:1°  de uitbater of organisator informeert de aanwezigen 
+tijdig en duidelijk zichtbaar over de geldende preventiemaatregelen;2°  er wordt een afstand 
+van 1,5 meter tussen elke groep of persoon gegarandeerd, behalve indien die personen tot hetzelfde huishouden 
+behoren;3°  het bedekken van de mond en neus met een mondmasker is verplicht en het dragen 
+van andere persoonlijke beschermingsmiddelen wordt steeds sterk aanbevolen;4°  de activiteit 
+moet zo worden georganiseerd dat de regels inzake social distancing kunnen worden nageleefd, ook door 
+de personen die buiten de inrichting of de gebouwen wachten;5°  de uitbater of organisator 
+stelt de nodige middelen voor handhygiëne ter beschikking van het personeel en de aanwezigen;6° 
+ de uitbater of organisator neemt de gepaste hygiënemaatregelen om de inrichting en het gebruikte materiaal 
+regelmatig te desinfecteren;7°  de uitbater of organisator zorgt voor een goede verluchting;8° 
+ fysieke aanrakingen tussen personen zijn verboden, behalve tussen de leden van een zelfde groep of huishouden;9° 
+ als het lichaam tijdens een begrafenis of crematie wordt opgebaard, dient een afstand van 1,5 meter 
+ten opzichte van het opgebaarde lichaam te worden gerespecteerd.HOOFDSTUK 6. - SanctiesArt. 
+8. Inbreuken op de bepalingen van dit besluit worden bestraft met de straffen bepaald door artikel 1 
+van de wet van 6 maart 1818, zoals gewijzigd door de wet van 5 juni 1934 en de wet van 14 juni 1963 betreffende 
+de overtredingen van administratieve reglementen.HOOFDSTUK 7. - Inwerkingtreding, bekendmaking 
+en beroepsmogelijkhedenArt. 9. Dit besluit treedt in werking op 15 oktober 2021.Art. 
+10. De maatregelen opgelegd door dit besluit gelden tot en met 30 november.Art. 11. Het politiebesluit 
+van 30 september 2021 met het oog op het behoud van bepaalde beperkingen op het Brusselse grondgebied 
+om de verspreiding van het COVID-19-virus tegen te gaan, wordt ingetrokken.Art. 11. De bevoegde 
+bestuurlijke overheden op het grondgebied van de Brusselse agglomeratie worden belast met de uitvoering 
+van dit besluit. De politiediensten zijn verantwoordelijk voor de naleving van dit besluit, zo nodig 
+met dwang en/of geweld.Dit besluit wordt meegedeeld aan het Nationaal Crisiscentrum en aan 
+de burgemeesters, zodat zij het op de gebruikelijke plaatsen voor officiële bekendmakingen kunnen aanplakken.Brussel 
+Preventie & Veiligheid zorgt voor een zo breed mogelijke verspreiding.Art. 12. Overeenkomstig 
+artikel 14 van de gecoördineerde wetten op de Raad van State kan een beroep tot nietigverklaring van 
+dit besluit worden ingediend bij de afdeling administratie van de Raad van State wegens schending van 
+hetzij substantiële, hetzij op straffe van nietigheid voorgeschreven vormen, overschrijding of afwending 
+van macht. Het verzoek tot nietigverklaring moet, op straffe van onontvankelijkheid, worden ingediend 
+binnen de 60 dagen na de bekendmaking in het Belgisch Staatsblad. Het verzoekschrift wordt ofwel per 
+post aangetekend verzonden naar de griffie van de Raad van State, Wetenschapsstraat 33 te 1040 Brussel, 
+ofwel wordt het ingediend volgens de elektronische procedure met behulp van de identiteitskaart op de 
+beveiligde website van de Raad van State http://eproadmin.raadvst-consetat.be. Er kan tevens een vordering 
+tot schorsing van het besluit worden ingediend, conform de bepalingen van het koninklijk besluit van 
+5 december 1991 tot bepaling van de rechtspleging in kort geding voor de Raad van State.Brussel, 
+14 oktober 2021.De Minister-President van het Brussels Hoofdstedelijk GewestR. VERVOORT 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-19Numac : 2021022262
+

@@ -1,0 +1,190 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/08/28/2020042763/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-07Numac : 2020042763
+FEDERALE OVERHEIDSDIENST MOBILITEIT EN VERVOER 
+ 28 AUGUSTUS 2020. - Koninklijk besluit tot wijziging van bepaalde maatregelen betreffende het rijbewijs naar aanleiding van de COVID-19-crisis 
+FILIP, Koning der Belgen, Aan allen die nu 
+zijn en hierna wezen zullen, Onze Groet.Gelet op de wet betreffende de politie over het wegverkeer, 
+gecoördineerd op 16 maart 1968, artikel 1, eerste lid, artikel 21, vervangen bij de wet van 9 juli 1976 
+en gewijzigd bij de wet van 18 juli 1990, artikel 26, vervangen bij de wet van 9 juli 1976 en artikel 
+46, vervangen bij de wet van 18 juli 1990;Gelet op verordening (EU) 2020/698 van het Europees 
+Parlement en de Raad van 25 mei 2020 tot vaststelling van specifieke en tijdelijke maatregelen naar aanleiding 
+van de COVID-19-uitbraak in verband met de vernieuwing of verlenging van bepaalde certificaten, getuigschriften 
+en vergunningen, en het uitstel van bepaalde periodieke controles en periodieke opleidingen op bepaalde 
+gebieden van de vervoerswetgeving;Gelet op het koninklijk besluit van 23 maart 1998 betreffende 
+het rijbewijs;Gelet op het koninklijk besluit van 4 mei 2007 betreffende het rijbewijs, de 
+vakbekwaamheid en de nascholing van bestuurders van voertuig en van de categorieën C1, C1+E, C, C+E, 
+D1, D1+E, D, D+E;Gelet op de betrokkenheid van de gewestregeringen;Gelet op de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende 
+noodzakelijkheid;Overwegende het koninklijk besluit van 23 april 2020 houdende maatregelen 
+betreffende het rijbewijs naar aanleiding van de COVID-19-crisis, bekendgemaakt op 7 mei 2020;Overwegende 
+de inwerkingtreding van Europese verordening 2020/698, bekendgemaakt op 27 mei 2020, die voorziet dat 
+Belgische rijbewijzen, de daarop vermelde categorieën en Uniecodes 95 automatisch verlengd worden met 
+zeven maanden indien zij uitgereikt zijn na 31 januari 2020 en voor 1 september 2020, en dit met terugwerkende 
+kracht;Overwegende dat het koninklijk besluit van 23 april 2020 voorziet dat een rijbewijs, 
+een daarop vermelde categorie of een code 95 waarvan de geldigheid afloopt na 15 maart 2020 verlengd 
+werd tot 30 september 2020 om hun houder voldoende tijd te geven om de nodige handelingen te stellen 
+na het einde van de afzonderingsmaatregelen;Overwegende dat België een stapsgewijze afbouw 
+van de afzonderingsmaatregelen naar aanleiding van de COVID-19-crisis voorzien heeft (zie de ministeriële 
+besluiten van 23 maart 2020, 24 maart 2020, 3 april 2020, 17 april 2020, 30 april 2020, 8 mei 2020, 15 
+mei 2020, 20 mei 2020, 25 mei 2020, 30 mei 2020 en 5 juni 2020) en dat heden geen enkel wetenschappelijk 
+bewijs duidt op het mislukken van de afbouw van de afzonderingsmaatregelen, dat bijgevolg wordt voortgezet 
+om terug te keren naar een normale toestand;Overwegende dat burgers weer toegang hebben tot 
+gemeentediensten, mits inachtname van de regels inzake sociale afstand en eventueel op afspraak, en dat 
+de toestand weer normaal zal worden in de loop van de zomer;Overwegende dat Europese verordening 
+2020/698 voorziet dat rijbewijzen, categorieën en codes 95 die tot 31 augustus 2020 vervallen, automatisch 
+met 7 maanden worden verlengd ;Overwegende dat de Belgische nationale regel voorziet in een 
+kortere verlenging van deze documenten, waarvan de duur variabel is, maar die eindigt op 30 september 
+2020 ;Overwegende dat het regime van de Europese verordening dus gunstiger is dan het Belgische 
+regime voor alle houders van een rijbewijs, de daarop vermelde categorieën en de Uniecodes 95 tijdens 
+de crisisperiode (16 maart 2020 tot mei 2020);Overwegende dat bovendien rijbewijzen die na 
+31 augustus 2020 verlopen, in de huidige staat van de SARS-CoV-2-pandemie geen moeilijkheden zullen ondervinden 
+bij de verlenging ervan, aangezien de Europese maatregelen de rijbewijzen, de daarop vermelde categorieën 
+en de codes 95 die in de periode na 31 januari en vóór 1 september 2020 zouden verlopen, met zeven maanden 
+verlengen tot de periode van 1 augustus 2020 tot en met 31 maart 2021;Overwegende dat de Europese 
+regelgeving enkel van toepassing is op de rijbewijzen, de daarop vermelde categorieën en de Uniecodes 
+95, terwijl het koninklijk besluit ook van toepassing is op andere documenten die louter op Belgisch 
+nationaal niveau bestaan;Overwegende dat de maatregelen van de verordening, in tegenstelling 
+tot de maatregelen van het voormelde koninklijk besluit, niet alleen rechtstreeks van toepassing zijn 
+in België, maar ook in alle lidstaten van de EU en de EER;Overwegende dat het dringend noodzakelijk 
+is om de burgers niet de indruk te geven dat de minder gunstige Belgische maatregelen nog steeds van 
+toepassing zijn ondanks de publicatie van een gunstiger Europese regelgeving en dat de twijfel deze bestuurders 
+op dit moment bijkomende stress en onnodige onrust bezorgt;Overwegende dat dringend moet worden 
+voorkomen dat houders van een rijbewijs, de daarop vermelde categorieën en de Uniecodes 95 die na 31 
+augustus 2020 vervallen, ten onrechte denken dat zij tot 30 september 2020 geldig in het buitenland kunnen 
+circuleren;Overwegende dat de Europese verordening het ongewenste effect heeft dat door de 
+verlenging met 7 maanden van de geldigheidsduur van de rijbewijzen, de daarop vermelde categorieën en 
+de Uniecodes 95 die na 31 januari maar vóór 1 maart 2020 afliepen, tot respectievelijk na 31 augustus 
+2020 maar vóór 1 oktober 2020, deze rijbewijzen in het toepassingsgebied van de nationale regelgeving 
+vallen omdat ze nu na 15 maart 2020 aflopen, terwijl de verlenging met 7 maanden die op Europees niveau 
+is voorzien, volstaat voor de crisisperiode die zich in België heeft voorgedaan.Overwegende 
+dat de vrijstelling van het rijbewijs voor houders van Europese rijbewijzen in België niet langer nodig 
+is, aangezien de Europese verordening betrekking heeft op alle Europese rijbewijzen en het probleem dus 
+oplost op een wijze die meer in overeenstemming is met de Belgische doelstellingen op het gebied van 
+verkeersveiligheid;Overwegende dat de rechtszekerheid die door de publicatie van de latere 
+Europese verordening is geschaad, dringend moet worden hersteld en dat duidelijkheid over de na te leven 
+regels met betrekking tot het rijbewijs, de daarop vermelde categorie, en de Uniecode 95 absoluut noodzakelijk 
+is voor de verkeersveiligheid in België;Overwegende dat de inwerkingtreding van de Europese 
+verordening met terugwerkende kracht een ab initio wijziging van de Belgische regels vereist;Overwegende 
+dat voorts het Vlaams ministerieel besluit van 24 maart 2020 houdende noodmaatregelen inzake mobiliteit 
+en openbare werken, dat houders van voorlopige rijbewijzen die tussen 16 maart en 30 december 2020 zijn 
+verlopen, de mogelijkheid biedt om het praktijkexamen op 31 december 2020 geldig af te leggen;Overwegende 
+dat hierdoor een periode van drie maanden wordt gecreëerd waarin bepaalde houders van verlopen voorlopige 
+rijbewijzen wettelijk niet meer op de openbare weg mogen rijden, terwijl ze toch nog het praktijkexamen 
+kunnen afleggen, hetgeen in hun ogen tot de conclusie kan leiden dat het voorlopige rijbewijs waarover 
+ze beschikken wordt in feit verlengd tot 31 december 2020;Overwegende dat het verschil tussen 
+de data het gevolg is van het feit dat de betrokken overheden een koninklijk besluit van 23 april 2020 
+en een gewestelijk ministerieel besluit van 30 april 2020 niet in onderling overleg hebben genomen;Overwegende 
+dat dit verschil tussen de data de burger in een situatie kan brengen waarin hij te goeder trouw rijdt 
+met een ongeldig document, dat hem niettemin toegang geeft tot het praktijkexamen, een feit waaruit hij 
+terecht de geldigheid van dit document kan afleiden, en dat het naar aanleiding hiervan gepleegde strafbare 
+feit uitsluitend aan deze omstandigheden te wijten zou zijn geweest;Overwegende dat de datum 
+van 30 september werd vastgesteld bij het begin van de crisis en moest worden geëvalueerd zodra de afbouw 
+van de afzonderingsmaatregelen al enige tijd gaande was, wat al op 18 mei 2020 gebeurde voor de rijexamencentra;Overwegende 
+dat er tussen 2015 en 2019, dus over een periode van 5 jaar, gemiddeld 1801 rijbewijzen per werkdag zijn 
+afgegeven, en dat voor het jaar 2020 het aantal per werkdag 901 tijdens de periode van 1 januari tot 
+en met 13 juni, en in het bijzonder:- 1492 van 1 januari tot 14 maart;- 220 van 16 
+maart tot 2 mei;- 392 van 4 mei tot 16 mei;- 897 van 18 mei tot 13 juni;Overwegende 
+dat de gemeentebesturen waarschijnlijk te maken zullen krijgen met een toestroom van burgers tijdens 
+de zomervakantie (wanneer hun personeel mogelijk onderbezet is) en vooral tijdens de maand september, 
+voor burgers een zware administratieve maand, is de kans groot dat ze worden geconfronteerd met een toestroom 
+van burgers;Overwegende dat de wijziging van de automatische verlenging van 30 september naar 
+31 december het mogelijk maakt gevallen van "achterstand" beter te verdelen en de aanwezigheidscurve 
+in de kantoren van de gemeentebesturen waar de houders van de voorlopige rijbewijzen in kwestie naartoe 
+zullen gaan nadat zij hun examens over een langere periode van drie maanden hebben afgelegd en dus beter 
+in de tijd kunnen worden gespreid, opdat de situatie tegen 2021 weer normaal is en dat er geen situatie 
+ontstaat waarin te veel burgers tegelijkertijd gemeentediensten (en examencentra) moeten bezoeken, wat 
+hen indirect zou verhinderen om de fysieke afstand te bewaren die nodig is om het SARS-CoV-2-virus te 
+bestrijden;Overwegende dat de door de federale staat vastgestelde datum overal in België bindend 
+is, aangezien het voorlopig rijbewijs op Belgisch niveau wordt geldig gemaakt;Overwegende dat 
+eveneens het uitstellen van de einddatum voor voorlopige rijbewijzen van 30 september tot 31 december 
+zal toelaten dat de examencentra in alle gewesten de examens van kandidaten met een voorlopig rijbewijs 
+ruimer spreiden en zo het aantal kandidaten per dag en per uur kunnen verminderen;Overwegende 
+dat de vermindering van het aantal kandidaten per dag en per uur bijdraagt tot de Belgische strategie 
+van progressieve afbouw van de afzonderingsmaatregelen en het vermijden van een mogelijke "tweede golf" 
+van besmettingen;Overwegende dat het ook dringend noodzakelijk is om over dit onderwerp te 
+communiceren voordat burgers met deze documenten zich naar de examencentra haasten en zo nodeloze congestie 
+veroorzaken;Op de voordracht van de Minister van Mobiliteit,Hebben Wij besloten en 
+besluiten Wij :Artikel 1. In artikel 90quinquies van het koninklijk besluit van 23 maart 1998 
+betreffende het rijbewijs, ingevoegd bij het koninklijk besluit van 23 april 2020, worden de volgende 
+wijzigingen aangebracht:a) in paragraaf 1, eerste lid, worden de woorden "30 september 2020" 
+vervangen door de woorden "31 december 2020";b) in paragraaf 1, tweede lid, wordt de bepaling 
+onder 1°  opgeheven;c) in paragraaf 2, eerste lid, worden de woorden "30 september 2020" vervangen 
+door de woorden "31 december 2020";d) in paragraaf 2, wordt het tweede lid opgeheven;e) 
+paragraaf 7 wordt opgeheven;f) in paragraaf 8, worden de woorden "30 september 2020" vervangen 
+door de woorden "31 december 2020".Art. 2. In artikel 1 van het koninklijk besluit van 23 april 
+2020, worden het volgende wijzigingen aangebracht:a) de zin "In afwijking van dit besluit en 
+van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B, 
+worden de in het tweede lid opgesomde documenten, die na 15 maart 2020 vervallen, automatisch verlengd 
+tot en met 30 september 2020, indien hun geldigheidsduur verstrijkt voor deze datum" wordt vervangen 
+door de zin "In afwijking van dit besluit en van het koninklijk besluit van 10 juli 2006 betreffende 
+het rijbewijs voor voertuigen van categorie B, worden de in het tweede lid opgesomde documenten, die 
+na 15 maart 2020 vervallen, automatisch verlengd tot en met 31 december 2020, indien hun geldigheidsduur 
+verstrijkt voor deze datum";b) de woorden "1°  het Belgisch rijbewijs;" worden ingetrokken;c) 
+de zin " § 2. In afwijking van dit besluit worden de datums van het einde van de geldigheid van 
+de rijbewijscategorieën vermeld op de in § 1 bedoelde documenten automatisch verlengd tot en met 
+30 september 2020 indien zij voor die datum vervallen." wordt vervangen door de zin " § 2. In 
+afwijking van dit besluit worden de datums van het einde van de geldigheid van de rijbewijscategorieën 
+vermeld op de in § 1 bedoelde documenten automatisch verlengd tot en met 31 december 2020 indien 
+zij voor die datum vervallen.";d) de zin " In afwijking van dit besluit en het besluit van 
+4 mei 2007 betreffende het rijbewijs, de vakbekwaamheid en de nascholing van bestuurders van voertuig 
+en van de categorieën C1, C1+E, C, C+E, D1, D1+E, D, D+E, wordt elke mogelijk op het rijbewijs vermelde 
+Uniecode 95 voor groep C en/of groep D automatisch verlengd tot en met 30 september 2020 indien zij vervalt 
+na 15 maart 2020." wordt ingetrokken;e) de zin " § 7. Zijn ontslagen van de verplichting 
+houder te zijn van een rijbewijs geldig voor het besturen van één of meerdere van de in artikel 2 bedoelde 
+categorieën en het bij zich te hebben, de bestuurders die houder zijn van, en bij zich hebben, een Europees 
+rijbewijs waarvan de administratieve geldigheid en deze van de categorie(ën) waarvoor het geldig verklaard 
+is na 15 maart 2020 afloopt." wordt ingetrokken.f) de zin " § 8. Dit artikel treedt 
+buiten werking op de dag die volgt op 30 september 2020." wordt vervangen door de zin " § 8. Dit 
+artikel treedt buiten werking op de dag die volgt op 31 december 2020.".Art. 3. Dit besluit 
+heeft uitwerking met ingang van 16 maart 2020.Art. 4. De minister bevoegd voor het Wegverkeer 
+is belast met de uitvoering van dit besluit.Gegeven te Brussel, 28 augustus 2020.FILIPVan 
+Koningswege :De Minister van Pensioenen voorFr. BELLOT,D. BACQUELAINE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-07Numac : 2020042763
+

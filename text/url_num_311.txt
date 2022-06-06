@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2020043235/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-13Numac : 2020043235
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 7 APRIL 2019. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde teneinde schenkingen van niet-voedingsmiddelen aan de meest behoeftigen van btw vrij te stellen. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de wet van 7 april 2019 tot wijziging van het Wetboek 
+van de belasting over de toegevoegde waarde teneinde schenkingen van niet-voedingsmiddelen aan de meest 
+behoeftigen van btw vrij te stellen (Belgisch Staatsblad van 6 mei 2019).Deze vertaling is 
+opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN7. APRIL 2019 - Gesetz zur Abänderung des Mehrwertsteuergesetzbuches 
+im Hinblick auf die Befreiung von der Mehrwertsteuer in Bezug auf Nichtlebensmittel-Spenden für die am 
+stärksten benachteiligten PersonenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 
+1.  Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 
+2.  Artikel 12 § 1 des Mehrwertsteuergesetzbuches, zuletzt abgeändert durch das Gesetz vom 30. 
+Juli 2018, wird wie folgt abgeändert:1. Absatz 1 Nr. 2 wird durch einen Buchstaben c) mit folgendem 
+Wortlaut ergänzt:"c) die Aushändigung für wohltätige Zwecke von lebenswichtigen Nichtlebensmitteln 
+- mit Ausnahme von langlebigen Gütern -, deren inhärente Eigenschaften es nicht mehr erlauben, dass sie 
+in gleich welcher Stufe des Wirtschaftskreislaufs unter den ursprünglichen Bedingungen des Inverkehrbringens 
+verkauft werden,".2. In Absatz 3 werden die Wörter "Absatz 1 Nr. 2 Buchstabe b)" durch die 
+Wörter "Absatz 1 Nr. 2 Buchstabe b) und c)" ersetzt.Wir fertigen das vorliegende Gesetz aus 
+und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 7. April 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der JustizK. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-13Numac : 2020043235
+

@@ -1,0 +1,82 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/29/2020043487/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-04Numac : 2020043487
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 29 OKTOBER 2020. - Koninklijk besluit tot opheffing van artikel 66, § 4, van het koninklijk besluit nr. 20 van 13 mei 2020 houdende tijdelijke maatregelen in de strijd tegen de COVID-19 pandemie en ter verzekering van de continuïteit van zorg in de verplichte verzekering voor geneeskundige verzorging 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op het koninklijk besluit nr. 20 van 13 mei 2020 houdende tijdelijke maatregelen in de strijd tegen de 
+COVID-19-pandemie en ter verzekering van de continuïteit van zorg in de verplichte verzekering voor geneeskundige 
+verzorging, artikel 72;Gelet op artikel 15 van de wet van 25 april 1963 betreffende het beheer 
+van de instellingen van openbaar nut voor sociale zekerheid en sociale voorzorg;Gelet op de 
+wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet 
+op de dringende noodzakelijkheid;Overwegende de toestand van de pandemie coronavirus COVID-19 
+op het Belgisch grondgebied;Overwegende de richtlijnen van de Risk Management Group inzake 
+de opsporing van het SARS-CoV-2-virus;Overwegende dat de bepaling inzake onderaanneming van 
+testen van klinische biologie met het oog op het opsporen van het SARS-CoV-2-virus zoals voorzien in 
+artikel 66, § 4, van het voornoemde koninklijk besluit nr. 20 overeenkomt met de procedure die 
+wordt gehanteerd voor onderaanneming van andere PCR testen uit artikel 24bis van de nomenclatuur, die 
+slechts worden uitgevoerd door een klein aantal laboratoria;Overwegende dat ondertussen de 
+PCR testen in een 100-tal klinische laboratoria gebeuren en de praktijk uitwijst dat de klassieke regeling 
+van onderaanneming zoals voor de verstrekkingen uit artikelen 3, 18 en 24 van de nomenclatuur praktische 
+voordelen heeft doordat het doorsturend laboratorium dat de stalen als eerste ontvangt van de voorschrijvers 
+vaak beter geplaatst is om de administratieve opvolging te voorzien;Overwegende dat het omwille 
+van de volksgezondheid, en in het bijzonder de terbeschikkingstelling van voldoende testcapaciteit in 
+het kader van de pandemie, noodzakelijk is dat de modaliteiten inzake samenwerking tussen laboratoria 
+kunnen worden aangepast, zodat dit besluit zo snel mogelijk moet genomen en gepubliceerd worden;Op 
+de voordracht van de Minister van Sociale Zaken,Hebben Wij besloten en besluiten Wij :Artikel 
+1. Artikel 66, § 4, van het koninklijk besluit nr. 20 van 13 mei 2020 houdende tijdelijke maatregelen 
+in de strijd tegen de COVID-19-pandemie en ter verzekering van de continuïteit van zorg in de verplichte 
+verzekering voor geneeskundige verzorging wordt opgeheven.Art. 2. Dit besluit treedt in werking 
+op de dag volgend op de bekendmaking ervan in het Belgisch Staatsblad.Art. 3. De minister bevoegd 
+voor Sociale Zaken is belast met de uitvoering van dit besluit.Gegeven te Brussel, 29 oktober 
+2020.FILIPVan Koningswege :De Minister van Sociale Zaken en Volksgezondheid,Fr. 
+VANDENBROUCKE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-04Numac : 2020043487
+

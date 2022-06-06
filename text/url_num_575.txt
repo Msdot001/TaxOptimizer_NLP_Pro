@@ -1,0 +1,387 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State  
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-14Numac : 2021042139
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 11 JUNI 2021. - Samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de operationalisering van de Verordening (EU) van het Europees Parlement en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken (EU Digitaal COVID Certificaat) 
+ALGEMENE TOELICHTINGBij de verordening betreffende 
+een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten 
+teneinde het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken (EU Digitaal COVID Certificaat) 
+(hierna de verordening EU Digitaal COVID Certificaat te noemen), wordt een kader voor de afgifte, verificatie 
+en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten inzake COVID-19 vastgesteld, 
+teneinde het voor de houders gemakkelijker te maken hun recht van vrij verkeer tijdens de COVID-19-pandemie 
+uit te oefenen ("EU Digitaal COVID Certificaat").Iedere burger van de Unie heeft het recht 
+vrij op het grondgebied van de lidstaten te reizen en te verblijven, onder voorbehoud van de beperkingen 
+en voorwaarden die bij de Verdragen en de bepalingen ter uitvoering daarvan zijn vastgesteld. Het vergemakkelijken 
+van het vrije verkeer is een van de belangrijkste voorwaarden voor een economisch herstel.Personen 
+die gevaccineerd zijn of een recente negatieve diagnosetest hebben ondergaan, of personen die in de afgelopen 
+zes maanden hersteld zijn van COVID-19, lijken volgens de huidige wetenschappelijke kennis, die nog evolueert, 
+een kleiner risico te lopen mensen met SARS-CoV-2 te besmetten. Zoals in de overweging 7 van de verordening 
+EU Digitaal COVID Certificaat is opgenomen, het vrije verkeer van personen die op basis van deugdelijk 
+wetenschappelijk bewijs geen significant risico voor de volksgezondheid vormen, bijvoorbeeld omdat zij 
+immuun zijn voor SARS-CoV-2 en dit niet kunnen overdragen, mag niet worden beperkt, aangezien dergelijke 
+beperkingen niet nodig zouden zijn om het nagestreefde doel te bereiken.Artikel 3, lid 2, van 
+de verordening EU Digitaal COVID Certificaat bepaalt dat de vaccinatie-, test- en herstelcertificaten 
+inzake COVID-19 worden afgegeven in digitale vorm of op papier, of in beide vormen. De kandidaat-houders 
+hebben het recht de certificaten te ontvangen in het door hen gekozen formaat.Ingevolge artikel 
+3, lid 3, van de verordening EU Digitaal COVID Certificaat heeft de houder van een vaccinatie-, test- 
+of herstelcertificaat het recht te verzoeken om afgifte van een nieuw certificaat indien de persoonsgegevens 
+in het certificaat niet of niet meer nauwkeurig of actueel zijn, waaronder met betrekking tot de vaccinatie-, 
+test- of herstelstatus van de houder, of indien de houder niet meer over het certificaat beschikt.Conform 
+artikel 9, lid 4, van de verordening EU Digitaal COVID Certificaat, worden de instanties die verantwoordelijk 
+zijn voor de afgifte van de certificaten, beschouwd als verwerkingsverantwoordelijken in de zin van artikel 
+4, lid 7, van Verordening (EU) 2016/679 (algemene verordening gegevensbescherming).Het samenwerkingsakkoord 
+van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige 
+Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie 
+betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19, hierna het samenwerkingsakkoord 
+van 12 maart 2021, regelt het gemeenschappelijke informatiesysteem dat is opgezet voor de uitnodiging 
+van personen voor vaccinatie, voor de organisatie van de vaccinatie en voor de registratie van de vaccinatie. 
+Door de gefedereerde entiteiten en de federale overheid werd de instelling van een gemeenschappelijk 
+informatiesysteem hiertoe als een cruciale vereiste geformuleerd. Voor de ondersteuning van de uitnodiging 
+van personen voor vaccinatie en de organisatie van de vaccinatie was immers een gemeenschappelijk informatiesysteem 
+nodig om te vermijden dat personen ongecoördineerd worden uitgenodigd of dat reeds gevaccineerde personen 
+opnieuw worden uitgenodigd. Daarnaast maakt het systeem het mogelijk om het geschikt doseringsschema 
+te bepalen, onder meer wat de verschillende doses van een toe te dienen vaccin betreft (juiste interval 
+in geval van vaccin met meerdere dosissen) en ervoor zorgen dat de vaccinatie goed georganiseerd verloopt 
+in functie van de beschikbaarheid van het daartoe benodigde materiaal en (medisch) personeel. De registratie 
+van vaccinaties in een gemeenschappelijk informatiesysteem (Vaccinnet) door zowel Vlaamse, Brusselse, 
+Waalse als Duitstalige vaccinatoren, was dan ook noodzakelijk. Die databank wordt in heel nauwe samenwerking 
+tussen de gefedereerde entiteiten en de Federale Staat uitgewerkt en beheerd. Daarom is het ook aangewezen 
+om ook voor de uitreiking van de certificaten aan de hand van eenzelfde operationeel systeem te werken.Artikel 
+7 van het voornoemd samenwerkingsakkoord van 12 maart 2021 bepaalt dat de bevoegde gefedereerde entiteiten 
+of de door de bevoegde gefedereerde entiteiten aangeduide agentschappen, en de federale overheid, ieder 
+voor hun bevoegdheid, optreden als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens 
+bedoeld in voornoemd samenwerkingsakkoord.Het gaat meer bepaald over de volgende entiteiten 
+of agentschappen:1°  voor de personen die gevaccineerd worden op het grondgebied van het Vlaams 
+Gewest of in een instelling in het tweetalige gebied Brussel-Hoofdstad die wegens zijn organisatie moet 
+worden beschouwd als een instelling die uitsluitend behoort tot de Vlaamse Gemeenschap: het Agentschap 
+Zorg en Gezondheid;2°  voor de personen waarvoor de Franse Gemeenschap bevoegd is: l'Office 
+de la Naissance et de l'Enfance;3°  voor de personen waarvoor het Waals Gewest bevoegd is: 
+l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles;4°  voor 
+de personen waarvoor de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad bevoegd is: de 
+Gemeenschappelijke Gemeenschapscommissie;5°  voor de personen waarvoor de Franse Gemeenschapscommissie 
+van Brussel-Hoofdstad bevoegd is: de Franse Gemeenschapscommissie;6°  voor de personen waarvoor 
+de Duitstalige Gemeenschap bevoegd is: Ministerium der Deutschsprachigen Gemeinschaft;7°  voor 
+de personen waarvoor de federale overheid bevoegd is: Sciensano.De entiteiten, vernoemd in 
+voornoemd artikel 7, 1°  tot en met 6°,  die ieder voor wat hun bevoegdheid betreft, de verwerkingsverantwoordelijken 
+zijn voor de gegevensverwerkingen in het kader van de vaccinatiegegevens in Vaccinnet, zijn verantwoordelijk 
+voor de afgifte van de vaccinatiecertificaten, vermeld in artikel 3, lid 1, a), van de verordening EU 
+Digitaal COVID Certificaat. Ingevolge artikel 9, lid 4, van de verordening EU Digitaal COVID Certificaat 
+zijn diezelfde entiteiten de verwerkingsverantwoordelijken voor de gegevensverwerkingen in het kader 
+van de vaccinatiecertificaten.Artikel 2, § 4, van het samenwerkingsakkoord van 25 augustus 
+2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap 
+en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano 
+en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, 
+gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) 
+met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano bepaalt dat Sciensano 
+de verwerkingsverantwoordelijke is van de Gegevensbank I, vermeld in artikel 6 van voornoemd samenwerkingsakkoord. 
+Sciensano is verantwoordelijk voor de afgifte van de test- en herstelcertificaten, vermeld in artikel 
+3, lid 1, b) en c), van de verordening EU Digitaal COVID Certificaat. Ingevolge artikel 9, lid 4, van 
+de verordening EU Digitaal COVID Certificaat is Sciensano de verwerkingsverantwoordelijke voor de gegevensverwerkingen 
+in het kader van de test- en herstelcertificaten.De verordening EU Digitaal COVID Certificaat 
+treedt in werking op de dag van haar bekendmaking in het Publicatieblad van de Europese Unie.De 
+verordening EU Digitaal COVID Certificaat is verbindend in al haar onderdelen en is rechtstreeks toepasselijk 
+in elke lidstaat.Ingevolge de inwerkingtreding van de verordening EU Digitaal COVID Certificaat 
+vanaf de dag van de bekendmaking ervan, wordt voor de operationele uitvoering van de voornoemde verordening 
+door de instanties die verantwoordelijk zijn voor de afgifte van de respectieve certificaten beroep gedaan 
+op het agentschap Digitaal Vlaanderen, opgericht bij besluit van de Vlaamse Regering van 18 maart 2016 
+houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling 
+van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen. Dat agentschap 
+staat in voor de aanmaak en de terbeschikkingstelling van de betreffende certificaten en de ontwikkeling 
+van een app overeenkomstig de modaliteiten die in de voornoemde verordening zijn vastgelegd. Zodoende 
+gebeurt de afgifte van alle certificaten op operationeel niveau via een zelfde systeem. Aangezien de 
+verordening onmiddellijk in werking treedt en aldus de certificaten vanaf dan ook moeten kunnen worden 
+uitgereikt, hebben alle betreffende instanties, verantwoordelijk voor de afgifte van certificaten, beslist 
+beroep te doen op het agentschap Digitaal Vlaanderen.Met voorliggend samenwerkingsakkoord wordt 
+beoogd de operationele uitvoering van de verordening EU Digitaal COVID Certificaat. Het betreft aldus 
+een louter interne organisatieregeling. De verordening zelf bepaalt de doelstelling, namelijk vrij verkeer 
+van personen, en welke gegevens in dat kader moeten worden verwerkt. Daaromtrent ligt alles reeds vast 
+in de verordening die rechtstreeks van toepassing is en geen verdere uitvoeringsbepalingen inzake verwerkingen 
+van persoonsgegevens vergen.Aangezien niet-essentiële reizen naar het buitenland zijn toegelaten 
+en er wordt vastgesteld dat valse certificaten in omloop zijn, dat om dergelijke onwettige praktijken 
+zo veel mogelijk te vermijden, het aangewezen is dat in afwachting van de inwerkingtreding van de verordening 
+EU Digitaal COVID Certificaat, op uniforme manier wordt voorzien dat de betrokken burger zijn vaccinatie- 
+of testgegevens in een officiële vorm kan inzien op basis van zijn recht op inzage zoals voorzien in 
+artikel 15 van de Verordening (EU) 2016/679 (algemene verordening gegevensbescherming) en dat daartoe 
+door de betreffende verwerkingsverantwoordelijken beroep wordt gedaan op het agentschap Digitaal Vlaanderen;Opdat 
+een agentschap van de Vlaamse overheid in opdracht van en voor rekening van entiteiten van andere overheidsniveaus 
+operationele diensten kan leveren, is het sluiten van een samenwerkingsakkoord tussen alle gefedereerde 
+entiteiten en de Federale Staat noodzakelijk.ARTIKELSGEWIJZE TOELICHTINGArtikel 1. 
+Artikel 1 bevat de definitie van de verordening EU Digitaal COVID Certificaat: verordening (EU) van het 
+Europees Parlement en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele 
+vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te 
+vergemakkelijken (EU Digitaal COVID Certificaat).Artikel 2. De entiteiten, vermeld in artikel 
+7, 1°  tot en met 6°,  van het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse 
+Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, 
+het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking 
+tot vaccinaties tegen COVID-19, die ieder voor wat hun bevoegdheid betreft, de verwerkingsverantwoordelijken 
+zijn voor de gegevensverwerkingen in het kader van de vaccinatiegegevens in Vaccinnet, zijn verantwoordelijk 
+voor de afgifte van de vaccinatiecertificaten, vermeld in artikel 3, lid 1, a), van de verordening EU 
+Digitaal COVID Certificaat. Ingevolge artikel 9, lid 4, van de verordening EU Digitaal COVID Certificaat, 
+zijn diezelfde entiteiten de verwerkingsverantwoordelijken voor de gegevensverwerkingen in het kader 
+van de vaccinatiecertificaten.Artikel 3. Sciensano, vermeld in artikel 2, § 4, van het 
+samenwerkingsakkoord van 25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse 
+Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke 
+gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde 
+agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek 
+bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank 
+bij Sciensano, is verantwoordelijk voor de afgifte van de test- en herstelcertificaten, vermeld in artikel 
+3, lid 1, b) en c), van de verordening EU Digitaal COVID Certificaat. Ingevolge artikel 9, lid 4, van 
+de verordening EU Digitaal COVID Certificaat is Sciensano de verwerkingsverantwoordelijke voor de gegevensverwerkingen 
+in het kader van de test- en herstelcertificaten.Artikel 4. Ingevolge de inwerkingtreding van 
+de verordening EU Digitaal COVID Certificaat vanaf de dag van de bekendmaking ervan, wordt voor de operationele 
+uitvoering van de voornoemde verordening door de instanties die verantwoordelijk zijn voor de afgifte 
+van de respectieve certificaten beroep gedaan op het agentschap Digitaal Vlaanderen, opgericht bij besluit 
+van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap 
+Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen 
+Digitaal Vlaanderen. Dat agentschap wordt belast als verwerker voor de aanmaak en de terbeschikkingstelling 
+van de betreffende certificaten overeenkomstig de modaliteiten die in de voornoemde verordening zijn 
+vastgelegd. Zodoende gebeurt de afgifte van alle certificaten op operationeel niveau via een zelfde systeem. 
+De certificaten kunnen via diverse digitale overheidsloketten worden aangevraagd en in het door de betrokkene 
+gewenste formaat worden afgeleverd.Artikel 5. Het e-Health-platform, vermeld in artikel 2 van 
+de wet van 21 augustus 2008 houdende oprichting en organisatie van het eHealth-platform en diverse bepalingen, 
+belast het agentschap Digitaal Vlaanderen met de ontwikkeling van een applicatie aan de hand waarvan 
+de respectieve certificaten digitaal leesbaar zijn conform de verordening EU Digitaal COVID Certificaat.Artikel 
+6. Artikel 6 bepaalt dat in afwachting van de inwerkingtreding van de verordening EU Digitaal COVID Certificaat, 
+de entiteiten, vermeld in artikel 4 en 5, aan het agentschap Digitaal Vlaanderen de opdracht geven om 
+de betrokkene inzage en toegang te geven in een officiële vorm tot zijn vaccinatiegegevens, vermeld in 
+artikel 3, § 2, van het samenwerkingsakkoord van 12 maart 2021, en testgegevens, vermeld in artikel 
+6 van het samenwerkingsakkoord van 25 augustus 2020.Artikel 7. Artikel 7 voorziet dat de Vlaamse 
+Gemeenschap als aankoopcentrale in de zin van artikel 2, 6°,  a), van de wet van 17 juni 2016 inzake 
+overheidsopdrachten gecentraliseerde aankoopactiviteiten en aanvullende aankoopactiviteiten kan verrichten 
+die bestemd zijn voor de partijen bij dit samenwerkingsakkoord en dienen voor de operationele uitvoering 
+van de opdrachten, vermeld in artikel 4 tot en met 6.Artikel 8. Artikel 8 regelt de beslechting 
+van geschillen tussen de partijen door een samenwerkingsgerecht.Artikel 9. Artikel 9 draagt 
+de Interministeriële Conferentie Volksgezondheid op om toezicht te houden op de uitvoering en naleving 
+van de bepalingen van dit samenwerkingsakkoord en om aanpassingen voor te stellen.Artikel 10. 
+Artikel 10 bevat een inwerkingtredingsbepaling en regelt de uitwerking in de tijd.11 
+JUNI 2021. - Samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, 
+de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse 
+Gemeenschapscommissie betreffende de operationalisering van de Verordening (EU) van het Europees Parlement 
+en de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, 
+test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken 
+(EU Digitaal COVID Certificaat)Gelet op de Verordening (EU) van het Europees Parlement en de 
+Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, 
+test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken 
+(EU Digitaal COVID Certificaat);Gelet op de Verordening (EU) van het Europees Parlement en 
+de Raad betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, 
+test- en herstelcertificaten voor onderdanen van derde landen die legaal op het grondgebied van de lidstaten 
+wonen of verblijven tijdens de COVID-19-pandemie (EU-COVID-19-certificaat);Gelet op de Verordening 
+(EG) nr. 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming 
+van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer 
+van die gegevens en tot intrekking van de Richtlijn 95/46/EG (algemene verordening gegevensbescherming), 
+artikel 15;Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, 
+artikelen 5, § 1, I, 87, § 1, en 92bis;Overwegende het samenwerkingsakkoord van 
+25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige 
+Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie, betreffende de gezamenlijke gegevensverwerking 
+door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide 
+contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen 
+die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano, 
+artikel 2, § 4;Overwegende het samenwerkingsakkoord van 12 maart 2021 tussen de Federale 
+Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke 
+Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking 
+van gegevens met betrekking tot vaccinaties tegen COVID-19, artikel 4, § 2, 11°,  en artikel 7;Overwegende 
+de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap, artikel 
+4, § 2;Overwegende het besluit van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie 
+van 23 april 2009 betreffende de profylaxe tegen overdraagbare ziekten;Overwegende het Waalse 
+Wetboek van Sociale Actie en Gezondheid, artikel 47/17bis,Overwegende het decreet van 17 juli 
+2002 van de Franse Gemeenschap houdende hervorming van de Office de la Naissance et de l'Enfance, afgekort 
+O.N.E, artikel 2, § 2. 8° ;Overwegende het decreet van 18 februari 2016 van de Franse 
+Gemeenschapscommissie betreffende de gezondheidspromotie;Overwegende het feit dat de Gemeenschappen 
+en Gewesten in het algemeen bevoegd zijn voor het gezondheidsbeleid;Overwegende dat een aantal 
+materies met betrekking tot het gezondheidsbeleid tot de bevoegdheid blijven behoren van de Federale 
+Staat;Overwegende het decreet van het Vlaamse Parlement van 21 november 2003 betreffende het 
+preventieve gezondheidsbeleid, artikel 43, § 3;Overwegende het decreet van 1 juni 2004 
+betreffende de gezondheidspromotie en inzake medische preventie;Overwegende de wet van 21 augustus 
+2008 houdende oprichting en organisatie van het eHealth-platform en diverse bepalingen, artikel 2;Overwegende 
+het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, 
+artikel 3;Overwegende het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting 
+van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het 
+beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;Overwegende het besluit 
+van de Vlaamse Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het decreet van 
+21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging van uitvoeringsbesluiten 
+van dit decreet;Overwegende de ordonnantie van 19 juli 2007 betreffende het preventieve gezondheidsbeleid;Overwegende 
+het besluit van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie van 23 april 2009 
+betreffende de profylaxe tegen overdraagbare ziekten;Overwegende dat dit samenwerkingsakkoord 
+tot stand is gekomen met respect voor de bevoegdheidsverdeling die krachtens de bijzondere wet tot hervorming 
+der instellingen aan de verschillende bevoegdheidsniveaus werden toegekend dankzij een intense samenwerking 
+in de schoot van de Interministeriële Conferentie die kadert in een lange traditie van samenwerking binnen 
+de Interministeriële Conferentie Volksgezondheid tussen de verschillende bevoegdheidsniveaus van ons 
+land;Overwegende dat het van belang is het recht van vrij verkeer tussen de EU-landen tijdens 
+de COVID-19-pandemie te kunnen uitoefenen;Overwegende dat het samenwerkingsakkoord van 12 maart 
+2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, 
+de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende 
+de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19 reeds een gemeenschappelijke 
+informatiesysteem regelt dat is opgezet voor de uitnodiging van personen voor vaccinatie, voor de organisatie 
+van de vaccinatie en voor de registratie van de vaccinatie. Door de gefedereerde entiteiten en de federale 
+overheid werd de instelling van een gemeenschappelijk informatiesysteem hiertoe een cruciale vereiste 
+geformuleerd. De registratie van vaccinaties in een gemeenschappelijk informatiesysteem (Vaccinnet) door 
+zowel Vlaamse, Brusselse, Waalse als Duitstalige vaccinatoren, was dan ook noodzakelijk. Die databank 
+wordt in heel nauwe samenwerking tussen de gefedereerde entiteiten en de Federale Staat uitgewerkt en 
+beheerd. Daarom is het ook aangewezen om ook voor de uitreiking van de certificaten aan de hand van eenzelfde 
+operationeel systeem te werken;Overwegende dat de Verordening (EU) betreffende een kader voor 
+de afgifte, verificatie en aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten teneinde 
+het vrije verkeer tijdens de COVID-19-pandemie te vergemakkelijken (EU Digitaal COVID Certificaat) in 
+werking treedt op de dag van de bekendmaking ervan in het Publicatieblad van de Europese Unie;Overwegende 
+dat de Verordening (EU) betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele 
+vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens de COVID-19-pandemie te 
+vergemakkelijken (EU Digitaal COVID Certificaat) met betrekking tot de betreffende gegevensverwerkingen 
+alles heeft vastgelegd zoals de doelstelling, namelijk vrij verkeer van personen, en welke gegevens in 
+dat kader moeten worden verwerkt en dat die bepalingen rechtstreeks van toepassing zijn en geen verdere 
+uitvoeringsbepalingen inzake verwerkingen van persoonsgegevens vergen;Overwegende de inwerkingtreding 
+van de verordening EU Digitaal COVID Certificaat vanaf de dag van de bekendmaking ervan, wordt voor de 
+operationele uitvoering van de voornoemde verordening door de instanties die verantwoordelijk zijn voor 
+de afgifte van de respectieve certificaten beroep gedaan op het agentschap Digitaal Vlaanderen, opgericht 
+bij besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd 
+agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het 
+Eigen Vermogen Digitaal Vlaanderen;Overwegende dat niet-essentiële reizen naar het buitenland 
+zijn toegelaten en er wordt vastgesteld dat valse certificaten in omloop zijn, dat om dergelijke onwettige 
+praktijken zo veel mogelijk te vermijden, het aangewezen is dat in afwachting van de inwerkingtreding 
+van de verordening EU Digitaal COVID Certificaat, op uniforme manier wordt voorzien dat de betrokken 
+burger zijn vaccinatie- of testgegevens in een officiële vorm kan inzien op basis van zijn recht op inzage 
+zoals voorzien in artikel 15 van de Verordening (EU) 2016/679 (algemene verordening gegevensbescherming) 
+en dat daartoe door de betreffende verwerkingsverantwoordelijken beroep wordt gedaan op het agentschap 
+Digitaal Vlaanderen;Overwegende dat een agentschap van de Vlaamse overheid in opdracht van 
+en voor rekening van entiteiten van andere overheidsniveaus operationele diensten zal leveren en de gefedereerde 
+entiteiten daartoe in de betreffende gemaakte onkosten zullen tussenkomen;is het noodzakelijk 
+een samenwerkingsakkoord te sluitenTUSSENDe Federale Staat, vertegenwoordigd door 
+de Federale Regering, in de persoon van Alexander De Croo, Eerste minister, en Frank Vandenbroucke, Vice-eerste 
+Minister en Minister van Sociale Zaken en Volksgezondheid;De Vlaamse Gemeenschap, vertegenwoordigd 
+door de Vlaamse Regering, in de persoon van Jan Jambon, Minister-President van de Vlaamse Regering en 
+Vlaams Minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management, en Wouter Beke, Vlaams 
+Minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding;De Franse Gemeenschap, vertegenwoordigd 
+door zijn regering, in de persoon van Pierre-Yves Jeholet, Minister-President en Bénédicte Linard, Vice-President 
+en Minister van Kind, Gezondheid, Cultuur, Media en Vrouwenrechten en Valérie Glatigny, minister voor 
+Hoger Onderwijs, Onderwijs voor Sociale Promotie, Wetenschappelijk Onderzoek, Universitaire Ziekenhuizen, 
+Jeugdzorg, Justitiehuizen, Jeugd, Sport en de Promotie van Brussel;Het Waalse Gewest, vertegenwoordigd 
+door zijn regering, in de persoon van Elio Di Rupo, Minister-President van de Waalse Regering en Christie 
+Morreale, Vice-Minister-President van de Waalse Regering en Minister van Werk, Vorming, Gezondheid, Sociale 
+Actie, Gelijke Kansen en Vrouwenrechten;De Duitstalige Gemeenschap, vertegenwoordigd door zijn 
+regering in de persoon van Oliver Paasch, Minister-President en Minister van Lokale Besturen en Financiën 
+en Antonios Antoniadis, Vice-Minister-President en Minister van Gezondheid en Sociale Aangelegenheden, 
+Ruimtelijke Ordening en Huisvesting;De Gemeenschappelijke Gemeenschapscommissie, vertegenwoordigd 
+door het Verenigd College in de persoon van Rudi Vervoort,Voorzitter van het Verenigd College 
+en Alain Maron en Elke Van Den Brandt, leden belast met Gezondheid en Welzijn;De Franse Gemeenschapscommissie, 
+vertegenwoordigd door zijn College in de persoon van Barbara Trachte, Minister-President belast met de 
+promotie van de gezondheid en Alain Maron Minister belast met Maatschappelijk welzijn en Gezondheid;Artikel 
+1. Voor de toepassing van dit samenwerkingsakkoord wordt verstaan onder:1°  verordening EU 
+Digitaal COVID Certificaat: de verordening (EU) betreffende een kader voor de afgifte, verificatie en 
+aanvaarding van interoperabele vaccinatie-, test- en herstelcertificaten teneinde het vrije verkeer tijdens 
+de COVID-19-pandemie te vergemakkelijken (EU Digitaal COVID Certificaat);2°  samenwerkingsakkoord 
+van 12 maart 2021: het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, 
+de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse 
+Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties 
+tegen COVID-19;3°  het samenwerkingsakkoord van 25 augustus 2020: het samenwerkingsakkoord 
+van 25 augustus 2020 tussen de Federale staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige 
+Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking 
+door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide 
+contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen 
+die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano;4° 
+ het agentschap Digitaal Vlaanderen: het agentschap Digitaal Vlaanderen, opgericht bij besluit van de 
+Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal 
+Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal 
+Vlaanderen.Art. 2. De bevoegde gefedereerde entiteiten of de door de bevoegde gefedereerde 
+entiteiten aangeduide agentschappen, vermeld in artikel 7, § 1, tweede lid, 1°  tot en met 6°, 
+ van het samenwerkingsakkoord van 12 maart 2021, zijn verantwoordelijk voor de afgifte van de vaccinatiecertificaten, 
+vermeld in artikel 3, lid 1, a), van de verordening EU Digitaal COVID Certificaat.Art. 3. Sciensano, 
+vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augustus 2020, is verantwoordelijk 
+voor de afgifte van de test- en herstelcertificaten, vermeld in artikel 3, lid 1, b) en c), van de verordening 
+EU Digitaal COVID Certificaat.Art. 4. De entiteiten, vermeld in artikel 2 en 3, belasten het 
+agentschap Digitaal Vlaanderen om de verordening EU Digitaal COVID Certificaat op operationeel niveau 
+uit te voeren ten einde de afgifte van de respectieve certificaten overeenkomstig de voornoemde verordening 
+te realiseren.Art. 5. Het e-Health-platform, vermeld in artikel 2 van de wet van 21 augustus 
+2008 houdende oprichting en organisatie van het eHealth-platform en diverse bepalingen, belast het agentschap 
+Digitaal Vlaanderen met de ontwikkeling van een applicatie aan de hand waarvan de respectieve certificaten 
+digitaal leesbaar zijn conform de verordening EU Digitaal COVID Certificaat.Art. 6. In afwachting 
+van de inwerkingtreding van de verordening EU Digitaal COVID Certificaat, geven de entiteiten, vermeld 
+in artikel 4 en 5, aan het agentschap Digitaal Vlaanderen de opdracht om de betrokkene inzage en toegang 
+te geven in een officiële vorm tot zijn vaccinatiegegevens, vermeld in artikel 3, § 2, van het 
+samenwerkingsakkoord van 12 maart 2021, en testgegevens, vermeld in artikel 6 van het samenwerkingsakkoord 
+van 25 augustus 2020.Art. 7. De Vlaamse Gemeenschap kan als aankoopcentrale in de zin van artikel 
+2, 6°,  a), van de wet van 17 juni 2016 inzake overheidsopdrachten gecentraliseerde aankoopactiviteiten 
+en aanvullende aankoopactiviteiten verrichten die bestemd zijn voor de partijen bij dit samenwerkingsakkoord 
+en dienen voor de operationele uitvoering van de opdrachten, vermeld in artikel 4 tot en met 6.Art. 
+8. De geschillen tussen de partijen bij dit samenwerkingsakkoord met betrekking tot de interpretatie 
+of de uitvoering van dit samenwerkingsakkoord worden voorgelegd aan een samenwerkingsgerecht, in de zin 
+van artikel 92bis, § 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.De 
+leden van dit rechtscollege worden respectievelijk aangeduid door de Ministerraad, de Vlaamse regering, 
+de regering van de Franse Gemeenschap, de regering van de Duitstalige Gemeenschap, het Verenigd College 
+van de Gemeenschappelijke Gemeenschapscommissie, de Waalse regering en het College van de Franse Gemeenschapscommissie.De 
+werkingskosten van het rechtscollege worden gelijk verdeeld over de Federale Staat, de Vlaamse Gemeenschap, 
+de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waals 
+Gewest en de Franse Gemeenschapscommissie.Art. 9.  § 1. De Interministeriële conferentie 
+Volksgezondheid houdt toezicht op de uitvoering en naleving van dit samenwerkingsakkoord en legt, indien 
+nodig, voorstellen tot aanpassing voor. Eveneens oefent de Interministeriële conferentie Volksgezondheid 
+een bemiddelingsfunctie uit in het kader van dit samenwerkingsakkoord alvorens geschillen worden voorgelegd 
+aan een samenwerkingsgerecht zoals bepaald in artikel 8. § 2. De Interministeriële conferentie 
+Volksgezondheid komt bijeen zodra een partij bij de samenwerkingsovereenkomst daarom verzoekt.Art. 
+10. Dit samenwerkingsakkoord treedt in werking op 16 juni 2021.Dit samenwerkingsakkoord houdt 
+op uitwerking te hebben op de dag dat de verordening EU Digitaal COVID Certificaat niet langer van toepassing 
+is overeenkomstig artikel 15 van de verordening EU Digitaal COVID Certificaat.Gedaan te Brussel, 
+op 11 juni 2021 in één origineel exemplaar.De Eerste Minister,A. DE CROODe 
+Vice-eerste Minister en Minister van Sociale Zaken en Volksgezondheid,F. VANDENBROUCKEDe 
+Minister-President van de Vlaamse Regering en Vlaams Minister van Buitenlandse Zaken, Cultuur, ICT en 
+Facilitair Management van de Vlaamse Regering,J. JAMBONDe Vlaams Minister van Welzijn, 
+Volksgezondheid, Gezin en Armoedebestrijding van de Vlaamse Regering,W. BEKEDe Minister-President 
+van de Franse Gemeenschap,P.-Y. JEHOLETDe Vice-President en Minister van Kind, Gezondheid, 
+Cultuur, Media en Vrouwenrechten,B. LINARDDe Minister voor Hoger Onderwijs, Onderwijs 
+voor Sociale Promotie, Wetenschappelijk Onderzoek, Universitaire Ziekenhuizen, Jeugdzorg, Justitiehuizen, 
+Jeugd, Sport en de Promotie van Brussel,V. GLATIGNYDe Minister-President van de Waalse 
+Regering,E. DI RUPODe Vice-Minister-President en Minister van Werk, Vorming, Gezondheid, 
+Sociale Actie, Gelijke Kansen en Vrouwenrechten van de Waalse Regering,Ch. MORREALEDe 
+Minister-President en Minister van Lokale Besturen en Financiën van de Duitstalige Gemeenschap,O. 
+PAASCHDe Vice-Minister-President en Minister van Gezondheid en Sociale Aangelegenheden, Ruimtelijke 
+Ordening en Huisvesting van de Regering van de Duitstalige Gemeenschap,A. ANTONIADISDe 
+Voorzitter van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie,R. VERVOORTHet 
+lid van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie, belast met Gezondheid en 
+Welzijn,A. MARONHet lid van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie, 
+belast met Gezondheid en Welzijn,E. VAN DEN BRANDTDe Minister-President belast met 
+de promotie van de gezondheid,B. TRACHTEDe Minister, lid van het College belast met 
+Maatschappelijk welzijn en Gezondheid,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-14Numac : 2021042139
+

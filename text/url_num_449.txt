@@ -1,0 +1,79 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/15/2021030418/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-17Numac : 2021030418
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 15 FEBRUARI 2021. - Besluit van de regering van de Franse Gemeenschap van bijzondere machten nr. 61 betreffende de aangepaste begroting van het cinematografisch en audiovisueel centrum ter ondersteuning van de herschikking van de bioscoop in het kader van de COVID-19-crisis 
+De regering van de 
+Franse Gemeenschap,Gelet op het decreet van 14 november 2020 tot toekenning aan de regering 
+van bijzondere machten in het kader van de Covid-19-gezondheidscrisis, artikel 1, § 1, g); Gelet 
+op artikel 69 van het decreet van 20 november 2011 houdende de organisatie van de begroting en van de 
+boekhouding van de regeringsdiensten van de Franse Gemeenschap; Gelet op het advies van de 
+Financiële Inspectie, uitgebracht op 12 februari 2021; Gelet op de akkoordbevinding van de 
+minister van Begroting van 15 februari 2021; Gelet op de dringende noodzaak die wordt ingegeven 
+door de behoefte om met voortvarendheid maatregelen te nemen ter ondersteuning van de actoren van de 
+filmsector die worden getroffen door de maatregelen die zijn genomen om de verspreiding van Covid-19 
+tegen te gaan en wier levensvatbaarheid op zeer korte termijn wordt bedreigd door de economische en sociale 
+gevolgen van deze maatregelen; Overwegende dat het besluit van de minister van Binnenlandse 
+Zaken van 28 oktober 2020 inzake noodmaatregelen om de verspreiding van het coronavirus Covid-19 te beteugelen, 
+laatst gewijzigd bij het besluit van de minister van Binnenlandse Zaken van 6 februari 2021, dat onder 
+meer voorziet in de handhaving van de sluiting van bioscopen, ten minste tot en met 26 februari; Overwegende 
+dat in de eerste weken van december 2020 overleg is gepleegd met de gehele filmsector, het kabinet van 
+de minister van Media en het Centrum voor de Film en de Audiovisuele Sector; Overwegende dat 
+dit overleg het mogelijk heeft gemaakt een plan op te stellen voor de omschakeling van de sector via 
+steunmaatregelen voor de gehele creatieve keten;Overwegende dat voor dit herstelplan een beroep 
+moet worden gedaan op de reserves van het Centre du cinéma et de l'audiovisuel, Administratieve dienst 
+met autonome boekhouding; Op de voordracht van de minister van Cultuur;Na beraadslaging,Besluit 
+: Artikel 1. De aangepaste begroting van het Film- en Audiovisueel Centrum wordt goedgekeurd 
+en als bijlage bij dit besluit gevoegd.Art. 2. Dit besluit treedt in werking de dag waarop 
+het in het Belgisch Staatsblad wordt bekendgemaakt. Art. 3. De minister van Cultuur is belast 
+met de uitvoering van dit besluit.Brussel, 15 februari 2021.De minister-president,P.-Y. 
+JEHOLETDe minister van Kinderen, Volksgezondheid, Cultuur, Media en Vrouwenrechten,B. 
+LINARD   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-17Numac : 2021030418
+

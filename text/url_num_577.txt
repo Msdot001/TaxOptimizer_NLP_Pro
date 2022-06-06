@@ -1,0 +1,57 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/04/2021031672/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-15Numac : 2021031672
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 4 JUNI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+4 juni 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 4 juni 2021).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-15Numac : 2021031672
+

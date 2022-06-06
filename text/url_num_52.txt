@@ -1,0 +1,124 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2020030602/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030602
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN
+ 13 APRIL 2019. - Wet tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven wat bepaalde publicaties betreft. - Duitse vertaling 
+De hierna volgende tekst 
+is de Duitse vertaling van de wet van 13 april 2019 tot wijziging van het koninklijk besluit nr. 20 van 
+20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling 
+van de goederen en de diensten bij die tarieven wat bepaalde publicaties betreft (Belgisch Staatsblad 
+van 26 april 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN13. APRIL 2019 - 
+Gesetz zur Abänderung hinsichtlich bestimmter Veröffentlichungen des Königlichen Erlasses Nr. 20 vom 
+20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen 
+nach diesen SätzenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 -  Vorliegendes 
+Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 -  Artikel 1 
+des Königlichen Erlasses Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung 
+der Güter und Dienstleistungen nach diesen Sätzen, ersetzt durch das Programmgesetz vom 27. Dezember 
+2006, wird durch einen Buchstaben c) mit folgendem Wortlaut ergänzt:"c) 0 Prozent für die in 
+Tabelle C der Anlage zu vorliegendem Erlass aufgezählten Güter und Dienstleistungen."Art. 3 
+- Tabelle A Rubrik XIX der Anlage zu demselben Erlass, ersetzt durch den Königlichen Erlass vom 29. Dezember 
+1992, wird wie folgt ersetzt:"XIX. Zeitungen, Zeitschriften und BücherDer ermäßigte 
+Steuersatz ist anwendbar auf:1. Bücher, Broschüren, Prospekte und ähnliche Veröffentlichungen, 
+einschließlich Atlanten,2. Zeitungen und Zeitschriften, auch illustrierte, auf die der 
+in Tabelle C Rubrik I erwähnte ermäßigte Steuersatz von 0 Prozent nicht anwendbar ist,3. 
+Bilderalben, Bilderbücher und Zeichen- oder Malbücher für Kinder,4. Partituren, auch mit Illustrationen.Der 
+ermäßigte Steuersatz ist auf die in Absatz 1 erwähnten Veröffentlichungen anwendbar, ganz gleich, 
+in welcher Form sie dem Leser zur Verfügung gestellt werden:1. auf Papier oder Pappe oder einem 
+anderen physischen Träger,2. auf elektronischem Wege.Von dieser Rubrik ausgeschlossen 
+sind Veröffentlichungen, die:1. vollständig oder im Wesentlichen Werbezwecken dienen,2. 
+vollständig oder im Wesentlichen aus Videoinhalten oder hörbarer Musik bestehen."Art. 4 -  
+In der Anlage zu demselben Erlass, zuletzt abgeändert durch das Gesetz vom 27. Februar 2019, wird eine 
+Tabelle C mit folgendem Wortlaut eingefügt:"TABELLE CDem Satz von 0 Prozent unterliegende 
+Güter und DienstleistungenI. Periodische Veröffentlichungen§ 1 - Der ermäßigte 
+Steuersatz ist auf gedruckte periodische Veröffentlichungen anwendbar, die:1. unter Berücksichtigung 
+der Art der Themen und der Art und Weise, wie diese behandelt werden, für die breite Öffentlichkeit bestimmt 
+sind,2. nicht vollständig oder im Wesentlichen Werbezwecken dienen,3. ein zusammenhängendes 
+Ganzes von Presseartikeln umfassen, die:a) urheberrechtlich geschützt sind,b) verfasst 
+und zusammengestellt werden unter der letztendlichen Verantwortung einer professionellen Redaktion, die 
+hauptsächlich aus Journalisten besteht, die:- gemäß dem Gesetz vom 30. Dezember 1963 
+über die Anerkennung und den Schutz des Titels des Berufsjournalisten den Titel eines Berufsjournalisten 
+tragen dürfen oder gemäß dem Königlichen Erlass vom 12. April 1965 zur Einführung von Identifizierungsdokumenten 
+und Identifikationsabzeichen für die Mitglieder der periodischen Presse für Fachinformationen den Titel 
+eines Berufsjournalisten tragen dürfen, insofern es um belgische periodische Veröffentlichungen geht,- 
+als Berufsjournalist akkreditiert sind, insofern es um ausländische periodische Veröffentlichungen geht,4. 
+a) ohne zeitliche Begrenzung,b) in regelmäßigen, vorab festgelegten Abständen,c) 
+mindestens achtundvierzig Mal pro Jahr,d) unter einer gemeinsamen Bezeichnung,e) 
+mit deutlichem Vermerk ihrer Periodizitäterscheinen.§ 2 - Der ermäßigte 
+Steuersatz ist nicht auf folgende Kategorien von gedruckten periodischen Veröffentlichungen anwendbar:1. 
+Veröffentlichungen, die hauptsächlich einen vollständigen Roman, eine vollständige Erzählung oder ein 
+vollständiges Werk gleich welcher Art oder Fortsetzungen davon enthalten, sei es in Form eines Textes 
+mit oder ohne Illustrationen oder in Form einer Bildergeschichte mit oder ohne Bildtext,2. 
+in Fortsetzungen veröffentlichte Werke, deren Erscheinen auf einen festen Zeitraum beschränkt ist oder 
+die eine Ergänzung oder Fortschreibung bereits erschienener Werke darstellen,3. Anzeigenblätter, 
+Prospekte, Kataloge, Almanache, Preislisten, Kursblätter, Seeverkehrsinformationen, notarielle Meldungen, 
+Fahrpläne,4. Fachpublikationen zur gewerblichen Nutzung,5. Veröffentlichungen, die 
+nur Denkspiele enthalten,6. Veröffentlichungen, die unter dem Namen eines Industrie- Finanz-, 
+Handels- oder anderen Unternehmens herausgegeben werden, auch wenn sie ausschließlich Texte oder 
+Illustrationen allgemeinen Interesses ohne direkte Werbung enthalten,7. Veröffentlichungen, 
+deren Hauptzweck es ist, Industrie- Finanz-, Handels- oder andere Geschäfte zu suchen, fortzuführen oder 
+auszuweiten, und die für Unternehmen nur ein Werbemittel darstellen,8. Veröffentlichungen, 
+die nach Ablauf einer Frist von einem Jahr ab ihrem Erscheinungsdatum geliefert, innergemeinschaftlich 
+erworben oder eingeführt werden,9. Veröffentlichungen, die in vollständigen oder unvollständigen 
+Sammlungen unter demselben Einband oder in periodischen oder nicht periodischen Alben vereinigt sind,10. 
+Veröffentlichungen, die vollständig oder im Wesentlichen aus Videoinhalten oder hörbarer Musik bestehen,11. 
+Veröffentlichungen, die als Altpapier oder alte Pappe verkauft werden.§ 3 - Der ermäßigte 
+Steuersatz ist auf digitale Veröffentlichungen anwendbar, die:1. die in § 1 Nr. 1 bis 
+3 erwähnten Bedingungen erfüllen,2. die in § 1 Nr. 4 erwähnte Bedingung erfüllen oder 
+regelmäßig und ausreichend fortgeschrieben und auf den neuesten Stand gehalten werden, insbesondere 
+durch das Hinzufügen neuer Presseartikel.§ 4 - Der ermäßigte Steuersatz ist nicht 
+auf digitale Veröffentlichungen wie in § 2 Nr. 1 bis 10 erwähnt anwendbar."Art. 5 - 
+Vorliegendes Gesetz wird wirksam mit 1. April 2019.Wir fertigen das vorliegende Gesetz aus 
+und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 13. April 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030602
+

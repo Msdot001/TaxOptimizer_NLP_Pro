@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-07Numac : 2022030674
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 21 JANUARI 2022. - Wet houdende diverse fiscale bepalingen (1). - Errata 
+Op bladzijde 7618, 
+van het Belgisch Staatsblad van 28 januari 2022, dient in artikel 60 te worden gelezen "Artikel 36, 3°," 
+in plaats van "Artikel 36, 2°,".   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-07Numac : 2022030674
+

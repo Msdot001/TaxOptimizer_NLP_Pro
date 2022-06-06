@@ -1,0 +1,102 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-08Numac : 2020042863
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie van de Fiscaliteit Bericht in verband met de investeringsaftrekDe artikelen 
+11 en 12 van de wet van 15.07.2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 
+pandemie (CORONA III) (Belgisch Staatsblad van 23.07.2020, blz. 55187) hebben wijzigingen aangebracht 
+op het vlak van de investeringsaftrek.Als gevolg van die wijzigingen moet het Bericht in verband 
+met de investeringsaftrek, gepubliceerd in het Belgisch Staatsblad van 22.05.2020 (blz. 37184-37186) 
+als volgt worden aangepast:1°  onder de titel 'Eenmalige aftrek' moet rubriek A worden vervangen 
+door:'A. Natuurlijke personen- digitale investeringen (*), octrooien, milieuvriendelijke 
+investeringen voor onderzoek en ontwikkeling, energiebesparende investeringen en rookafzuig- of verluchtingssystemen 
+in horeca-inrichtingen:* verkregen of tot stand gebracht van 01.01.2019 tot 31.12.2019 (**): 
+ . . . . . 20 %* verkregen of tot stand gebracht van 01.01.2020 tot 11.03.2020:  . . . . . 
+13,5 %* verkregen of tot stand gebracht van 12.03.2020 tot 31.12.2020 (**):  . . . . . 25 %* 
+verkregen of tot stand gebracht vanaf 01.01.2021:  . . . . . 13,5 %- investeringen in beveiliging:* 
+verkregen of tot stand gebracht van 01.01.2019 tot 11.03.2020:  . . . . . 20,5 %* verkregen 
+of tot stand gebracht van 12.03.2020 tot 31.12.2020 (**):  . . . . . 25 %* verkregen of tot 
+stand gebracht vanaf 01.01.2021: . . . . . 20,5 %- andere investeringen:* verkregen 
+of tot stand gebracht van 01.01.2019 tot 31.12.2019:  . . . . . 20 %* verkregen of tot stand 
+gebracht van 01.01.2020 tot 11.03.2020:  . . . . . 8 %* verkregen of tot stand gebracht van 
+12.03.2020 tot 31.12.2020:  . . . . . 25 %* verkregen of tot stand gebracht vanaf 01.01.2021: 
+. . . . . 8 %2°  onder de titel 'Eenmalige aftrek' moet rubriek B worden vervangen door:'B. 
+Vennootschappen1. Alle vennootschappen- octrooien (***), milieuvriendelijke investeringen 
+voor onderzoek en ontwikkeling (***), energiebesparende investeringen en rookafzuig- of verluchtingssystemen 
+in horeca inrichtingen: . . . . . 13,5 %- investeringen tot aanmoediging van het hergebruik 
+van verpakkingen van dranken en nijverheidsproducten: . . . . . . 3 %2. Vennootschappen bedoeld 
+in artikel 1:24, §§ 1 tot 6, van het Wetboek van vennootschappen en verenigingen (of, in 
+voorkomend geval, in artikel 15, §§ 1 tot 6, van het Wetboek van vennootschappen)- 
+digitale investeringen: . . . . . 13,5 %- investeringen in beveiliging: . . . . . . 20,5 %- 
+andere dan de in B, 1 en B, 2, eerste en tweede streepje, en B, 3 vermelde investeringen (****):* 
+verkregen of tot stand gebracht tussen 01.01.2019 en 31.12.2019: . . . . . 20 %* verkregen 
+of tot stand gebracht tussen 01.01.2020 en 11.03.2020:  . . . . . 8 %* verkregen of tot stand 
+gebracht tussen 12.03.2020 en 31.12.2020:  . . . . . 25 %* verkregen of tot stand gebracht 
+vanaf 01.01.2021: . . . . . 8 %- in B, 1, eerste streepje en B, 2, eerste streepje bedoelde 
+investeringen (**) (*****):* verkregen of tot stand gebracht tussen 01.01.2019 en 31.12.2019: 
+ . . . . . 20 %* verkregen of tot stand gebracht tussen 12.03.2020 en 31.12.2020:  . . . . 
+. 25 %- in B, 2, tweede streepje bedoelde investeringen (**) (*****):* verkregen 
+of tot stand gebracht tussen 12.03.2020 en 31.12.2020:  . . . . . 25 %3. Vennootschappen die 
+uitsluitend winst uit zeescheepvaart verkrijgen- investeringen in zeeschepen: . . . . . 30 
+%'3°  de voetnoot (**) moet worden vervangen door:'Het in artikel 69, § 1, 
+eerste lid, 2°,  WIB 92, bedoelde verhoogde percentage is niet van toepassing als het in artikel 69, 
+§ 1, eerste lid, 1°,  of in artikel 201, § 1, eerste lid, 1°,  WIB 92 vermelde basispercentage 
+gunstiger is (Kamer, Doc 54/2864-001, blz. 36). Naar analogie hiermee kan dezelfde redenering worden 
+gevolgd voor wat betreft het in artikel 69, § 1, eerste lid, 3°,  WIB 92, bedoelde verhoogde percentage.'4° 
+ de voetnoot (*****) moet worden vervangen door:'(*****) De toepassing van het tarief van 20 
+% of 25 % brengt de beperkingen bedoeld in artikel 201, § 1, derde lid (verzaking aan de aftrek 
+voor risicokapitaal) en vijfde lid (overdracht beperkt tot het volgend belastbaar tijdperk, of met betrekking 
+tot de in 2019 verkregen of tot stand gebrachte vaste activa, overdracht beperkt tot de twee belastbare 
+tijdperken volgend op dat waarin de betrokken vaste activa werden verkregen of tot stand gebracht), WIB 
+92 mee, alsook de verplichting voor alle vennootschappen om, in dit geval de algemene opgave zoals bedoeld 
+in artikel 47, 2°,  KB/WIB 92, ter beschikking van de administratie te houden.'(De pers wordt 
+verzocht dit bericht over te nemen)   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-08Numac : 2020042863
+

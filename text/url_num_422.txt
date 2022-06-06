@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/06/06/2021040252/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-23Numac : 2021040252
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 6 JUNI 2019. - Wet tot wijziging van koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de 
+wet van 6 juni 2019 tot wijziging van koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van 
+de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten 
+bij die tarieven (Belgisch Staatsblad van 26 juni 2019).Deze vertaling is opgemaakt door de 
+Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST 
+FINANZEN6. JUNI 2019 - Gesetz zur Abänderung des Königlichen Erlasses Nr. 20 vom 20. Juli 1970 
+zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen nach diesen 
+SätzenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes 
+Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - Tabelle A Rubrik 
+XXXIV Nr. 4 der Anlage zum Königlichen Erlass Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze 
+und zur Einteilung der Güter und Dienstleistungen nach diesen Sätzen, aufgehoben durch den Königlichen 
+Erlass vom 29. Dezember 1992, wird mit folgendem Wortlaut wieder aufgenommen:"4. Sterilisation 
+von Katzen durch einen Tierarzt im Sinne von Artikel 1 des Gesetzes vom 28. August 1991 über die Ausübung 
+der Veterinärmedizin".Art. 3 - Das Inkrafttreten des vorliegenden Gesetzes ist abhängig von 
+der Zustimmung der Europäischen Union zu einer Abänderung von Anhang III der Mehrwertsteuerrichtlinie 
+2006/112/EG hinsichtlich der in Artikel 2 erwähnten Dienstleistung.Wir fertigen das vorliegende 
+Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 6. Juni 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-23Numac : 2021040252
+

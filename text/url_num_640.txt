@@ -1,0 +1,193 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/07/08/2021031822/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-14Numac : 2021031822
+WAALSE OVERHEIDSDIENST 
+ 8 JULI 2021. - Besluit van de Waalse Regering houdende verscheidene maatregelen met het oog op het aanpakken van de gevolgen van de COVID-19-crisis inzake werkgelegenheid, vorming en inschakeling, met inbegrip van de sociale economie 
+ De Waalse Regering, Gelet op de besluitwet van 
+28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;Gelet op het Waalse 
+Wetboek van sociale actie en gezondheid;Gelet op het decreet van 10 april 2003 betreffende 
+de opleiding van werknemers die bij een onderneming in dienst zijn;Gelet op het decreet van 
+11 maart 2004 betreffende de erkenning en de subsidiëring van de gewestelijke zendingen voor arbeidsbemiddeling;Gelet 
+op het decreet van 27 mei 2004 betreffende de adviesverlenende agentschappen inzake sociale economie; 
+Gelet op het besluit van 14 december 2006 betreffende de erkenning en de subsidiëring van de 
+"Initiatives de développement de l'emploi dans le secteur des services de proximité à finalité sociale" 
+(Initiatieven tot ontwikkeling van de werkgelegenheid in de sector van de buurtdiensten met een maatschappelijk 
+doel), afgekort "I.D.E.S.S.";; Gelet op het decreet van 27 oktober 2011 betreffende steunverlening 
+voor banencreatie via de bevordering van beroepsovergang naar het statuut van zelfstandige als hoofdactiviteit; 
+Gelet op het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering; 
+Gelet op het besluit van de Waalse Regering van 26 januari 2006 tot uitvoering van het decreet 
+van 27 mei 2004 betreffende de adviesverlenende agentschappen inzake sociale economie; Gelet 
+op het besluit van de Waalse Regering van 21 juni 2007 tot uitvoering van het decreet van 14 december 
+2006 betreffende de erkenning en de subsidiëring van de initiatieven tot ontwikkeling van de werkgelegenheid 
+in de sector van de buurtdiensten met een maatschappelijk doel; Gelet op het besluit van 27 
+mei 2009 tot uitvoering van het decreet van 11 maart 2004 betreffende de erkenning en de subsidiëring 
+van de gewestelijke zendingen voor arbeidsbemiddeling;Gelet op het besluit van de Waalse Regering 
+van 3 mei 2012 tot uitvoering van het decreet van 27 oktober 2011 betreffende steunverlening voor banencreatie 
+via de bevordering van beroepsovergang naar het statuut van zelfstandige als hoofdactiviteit; Gelet 
+op het besluit van de Waalse Regering van 25 april 2019 houdende uitvoering van het decreet van 4 april 
+2019 betreffende de individuele beroepsopleiding; Gelet op het advies van de Inspecteur van 
+Financiën, gegeven op 31 mei 2021; Gelet op de instemming van de Minister van Begroting, gegeven 
+op 3 juni 2021; Gelet op het rapport van 13 november 2020, opgesteld overeenkomstig artikel 
+3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen; Gelet op de dringende noodzakelijkheid, gemotiveerd 
+door de COVID-crisis inzake werkgelegenheid, vorming en inschakeling, met inbegrip van de sociale economie; 
+Gelet op de diepgaande impact van deze crisis en op de maatregelen die nodig zijn om de COVID-19-epidemie 
+te bestrijden, in het bijzonder op het Waalse beleid inzake werkgelegenheid, sociaal-professionele inschakeling 
+en sociale economie; Overwegende dat de crisis de sectoren en openbare regelingen inzake werkgelegenheid, 
+sociaal-professionele inschakeling en sociale economie in het gedrang kan brengen, evenals de doelstellingen 
+die met deze regelingen worden nagestreefd;Overwegende dat de voorziene maatregelen onontbeerlijk 
+zijn om de werkgelegenheid in deze sectoren en de handhaving van de sociale prestaties voortvloeiend 
+uit deze regelingen te garanderen; Overwegende dat het passend is de toegekende subsidies vrij 
+te stellen en de eerbiediging van de rechten van de begunstigden te waarborgen in het kader van de regelingen 
+betreffende het beleid inzake werkgelegenheid, sociaal-professionele inschakeling en sociale economie, 
+teneinde de onvermijdelijke gevolgen van de COVID-19-epidemie te vernietigen, met uitsluiting van elk 
+buitenkanseffect dat daaruit kan voortvloeien; Gelet op het effect van de gezondheidscrisis 
+op de omvang van de activiteiten van de plaatselijke werkgelegenheidsagentschappen en de "I.D.E.S.S."-activiteiten, 
+tegelijkertijd de behoeften van de sector personenzorg op het gebied van het werk en de organisatie van 
+de sector; Overwegende dat het verlenen van PWA diensten ten behoeve van de structuren voor 
+persoonlijke bijstand het mogelijk maakt PWA's te ondersteunen en tegelijkertijd tegemoet te komen aan 
+de dienstverleningsbehoeften van de structuren; Overwegende dat de verplichtingen van de MIRE 
+(gewestelijke zendingen voor arbeidsbemiddeling) op het gebied van het begeleid publiek en de inschakeling 
+in het arbeidsproces niet kunnen worden nagekomen vanwege de gevolgen en de maatregelen die zijn genomen 
+om de COVID-19-gezondheidscrisis te bestrijden; Gelet op de gevolgen van de gezondheidscrisis 
+voor mensen die als hoofdactiviteit zelfstandig zijn gaan werken en die in dit verband profiteren van 
+de Airbag-steun; Overwegende dat de maatregelen bepaald in dit besluit ertoe strekken, de gevolgen 
+van de crisis waaraan de actoren en begunstigden van de regelingen inzake werkgelegenheid, vorming en 
+inschakeling blootgesteld zijn, aan te pakken; Gelet op de dringende noodzaak om deze maatregelen 
+uit te voeren om het beoogde doel te bereiken en gelet op het feit dat elke vertraging bij de vaststelling 
+ervan het effect ervan waarschijnlijk zal verminderen;Gelet op het verzoek om adviesverlening 
+binnen een termijn van vijf dagen, gericht aan de Raad van State op 4 juni 2021 overeenkomstig artikel 
+84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op het gebrek aan adviesverlening binnen die termijn;Gelet op artikel 84, § 4, tweede 
+lid, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op advies nr 
+21/07 van het beheerscomité van "Forem", gegeven op 24 juni 2021;Gelet op advies nr. 1469 van 
+de "Conseil économique et social de Wallonie" (Sociaal-economische raad van Wallonië), gegeven op 14 
+juni 2021; Op de voordracht van de Minister van Werk en Vorming; Na beraadslaging, 
+Besluit : HOOFDSTUK I. - Algemene bepalingenArtikel 1. Voor de toepassing 
+van dit besluit en voor elke van de bepalingen die met betrekking tot de subsidiëring zijn vastgesteld, 
+mag het bedrag van de subsidie niet hoger zijn dan de kosten die daadwerkelijk door de begunstigde worden 
+gedragen, voor wat gesubsidieerd wordt. HOOFDSTUK II. - Maatregelen betreffende sociale economieArt. 
+2. In afwijking van artikel 11, § 1, lid 1, 3 en 4, van het besluit van de Waalse Regering van 
+21 juni 2007 tot uitvoering van het decreet van 14 december 2006 betreffende de erkenning en de subsidiëring 
+van de "Initiatives de développement de l'emploi dans le secteur des services de proximité à finalité 
+sociale" (Initiatieven tot ontwikkeling van de werkgelegenheid in de sector van de buurtdiensten met 
+een maatschappelijk doel), is het bedrag van de in dit artikel bedoelde subsidie van I.D.E.S.S., met 
+betrekking tot het jaar 2021, gelijk aan het bedrag van zijn subsidie voor 2019, indien het aldus verkregen 
+bedrag hoger is dan het voor het jaar 2021 berekende bedrag. Art. 3. In afwijking van artikel 
+13, § 2, van besluit van de Waalse Regering van 26 januari 2006 tot uitvoering van het decreet 
+van 27 mei 2004 betreffende de adviesverlenende agentschappen inzake sociale economie, is het bedrag 
+van de subsidie, bedoeld in artikel 23 van het decreet van 27 mei 2004 betreffende de adviesverlenende 
+agentschappen inzake sociale economie, van het adviesverlenende agentschap, met betrekking tot het jaar 
+2021, gelijk aan het bedrag van zijn subsidie voor 2019, indien het aldus verkregen bedrag hoger is dan 
+het voor het jaar 2021 berekende bedrag.HOOFDSTUK III. - Maatregelen voor de plaatselijke agentschappen 
+voor arbeidsvoorzieningArt. 4. In afwijking van artikel 79, § 4, lid 1, van het koninklijk 
+besluit van 25 november 1991 houdende de werkloosheidsreglementering wordt, te rekenen van 1 juli 2021, 
+als langdurige werkloze die actief kan zijn in een PWA beschouwd de persoon die aan volgende samengevoegde 
+voorwaarden voldoet :1°  sinds ten minste twaalf maanden ingeschreven zijn als niet-werkende 
+werkzoekende bij de "Office wallon de la formation professionnelle et de l'emploi" (Waalse dienst voor 
+beroepsopleiding en arbeidsbemiddeling), afgekort "FOREM";2°  genieten van een werkloosheids-, 
+inschakelings- of beschermingsuitkering of genieten van een leefloon of financiële sociale hulpArt. 
+5. In afwijking van artikel 79bis, § 4, lid 2, van hetzelfde koninklijk besluit wordt, tussen 
+1 juli 2021 en 31 december 2021, het maximumaantal activiteitsuren die door een PWA-werknemer gepresteerd 
+kunnen worden, vastgesteld op 70 uur per maand. HOOFDSTUK IV. - Maatregelen betreffende de 
+gewestelijke zendingen voor arbeidsbemiddelingArt. 6. In afwijking van artikel 16, leden 6 
+en 7, van het besluit van de Waalse Regering van 27 mei 2009 tot uitvoering van het decreet van 11 maart 
+2004 betreffende de erkenning en de subsidiëring van de gewestelijke zendingen voor arbeidsbemiddeling 
+wordt elke gewestelijke zending voor arbeidsbemiddeling onweerlegbaar geacht de doelstellingen van haar 
+jaarlijkse actieplan voor het jaar 2021 te hebben bereikt.HOOFDSTUK V. - Maartregelen betreffende 
+steunverlening voor banencreatievia de bevordering van overgang naar het statuut van zelfstandige 
+als hoofdactiviteitArt. 7.  § 1. In afwijking van artikel 9, § 1, van het besluit 
+van de Waalse Regering van 3 mei 2012 tot uitvoering van het decreet van 27 oktober 2011 betreffende 
+steunverlening voor banencreatie via de bevordering van beroepsovergang naar het statuut van zelfstandige 
+als hoofdactiviteit wordt de termijn voor de storting van de eerste schijf van de financiële incentive 
+verlengd met een duur gelijk aan de période tijdens welke de gerechtigde van de financiële incentive, 
+tussen 1 april 2021 en 31 december 2021, de uitoefening van zijn beroepsactiviteiten onderbroken heeft 
+wegens de COVID-19-epidemie.  § 2. In afwijking van artikel 9, § 2, eerste lid, 
+§ 3, eerste lid, en § 4, eerste lid, van hetzelfde besluit, wordt de termijn voor de toezending 
+van het document of het verslag verlengd met een duur die gelijk is aan de periode waarin de gerechtigde 
+van de financiële incentive de uitoefening van zijn activiteiten tijdelijk heeft onderbroken tussen 1 
+april 2021 en 31 december 2021 als gevolg van de COVID-19-epidemie. In afwijking van artikel 9, § 
+2, lid 4, § 3, lid 7, en § 4, lid 1, van hetzelfde besluit, worden de termijnen voor de 
+betaling van de schijven van de financiële incentive uitgesteld voor een periode die gelijk is aan de 
+periode waarin de gerechtigde van de financiële incentive de uitoefening van zijn activiteiten tijdelijk 
+heeft onderbroken tussen 1 april 2021 en 31 december 2021 als gevolg van de COVID-19-epidemie.HOOFDSTUK 
+VI. - Maatregelen betreffende de individuele beroepsopleidingArt. 8. In afwijking van artikel 
+6, § 2, lid 1, van het besluit van de Waalse Regering van 25 april 2019 tot uitvoering van het 
+decreet van 4 april 2019 betreffende de individuele beroepsopleiding leidt iedere opschorting van de 
+tusen 1 april 2021 en 31 december 2021 lopende overeenkomst voor een instapopleiding wegens de gezondheidscrisis 
+in verband met COVID-19 tot een automatische verlenging van de aanvankelijke duur van de instapopleiding 
+met een gelijke duur als die van de opschortingsperiodes. In geval van opschorting van de uitvoering 
+van de in lid 1 bedoelde overeenkomst instapopleiding stelt de werkgever de FOREM zo spoedig mogelijk 
+in kennis van de datum van begin en einde van de opschorting. De opschorting van de uitvoering 
+van de in lid 1 bedoelde overeenkomst instapopleiding eindigt uiterlijk op 31 december 2021. De 
+verlenging van de instapopleiding is automatisch en houdt het sluiten van een aanhangsel bij de overeenkomst, 
+waarvan de uitvoering is opgeschort, niet in. Art. 9. In artikel 7 van het besluit van de Waalse 
+Regering van 25 april 2019 tot uitvoering van het decreet van 4 april 2019 betreffende de individuele 
+beroepsopleiding, wordt lid 3 vervangen door hetgeen volgt: "Elkeen der partijen kan de overeenkomst 
+voor de instapopleiding beëindigen, mits een vooropzeg van zeven dagen waarvan tegelijk aan de twee andere 
+partijen kennis is gegeven middels een eenvoudige zending waarin het (de) motieven van de verbreking 
+wordt (worden) opgegeven, waarbij deze hun effect sorteren de derde werkdag volgens op de datum van verzending 
+ervan.".HOOFDSTUK VII. - Maatregelen betreffende de vrijstellingen van beschikbaarheidArt. 
+10. De toepassing van de artikelen 91, lid 2, 92, § 2, tweede en derde lid, 93, § 2, tweede 
+lid, en 94, § 2, eerste en derde lid, § 5, vierde lid, en § 6, vierde lid, van het 
+koninklijk besluit van 25 november 1991 houdende werkloosheidsreglementering wordt opgeschort tussen 
+1 juli 2021 en 31 december 2021.De vrijstelling bedoeld in artikel 94, § 4, van hetzelfde 
+besluit wordt verlengd met een duur gelijk aan de opschorting van de opleiding bedoeld in artikel 94, 
+§ 4, lid 1, 1°  en 2°,  wegens de gezondheidscrisis.HOOFDSTUK VIII. - Maatregel betreffende 
+de opleidingschèqueArt. 11. In afwijking van artikel 6 van het besluit van de Waalse Regering 
+tot uitvoering van het decreet van 11 oktober 2007 tot uitvoering van het decreet van 10 april 2003 betreffende 
+de financiële incentives voor de opleiding van werknemers die bij een onderneming in dienst zijn, kunnen 
+de eerder door de Regering erkende opleidingen tussen 1 april en 31 december 2021 op afstand worden gegeven.HOOFDSTUK 
+IX. - SlotbepalingenArt. 12. De Minister bevoegd voor Tewerkstelling en Vorming is belast met 
+de uitvoering van dit besluit. Namen, 8 juli 2021.Voor de Regering:De Minister-President,E. 
+DI RUPODe Minister van Werk, Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. 
+MORREALE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-14Numac : 2021031822
+

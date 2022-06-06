@@ -1,0 +1,539 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/18/2020043234/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-22Numac : 2020043234
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 18 MEI 2020. - Koninklijk besluit nr. 59 met betrekking tot de onttrekking van handelsgeschenken van geringe waarde en de onttrekking voor liefdadigheids-doeleinden van voedingsmiddelen en levensnoodzakelijke niet-voedingsmiddelen andere dan goederen die op duurzame wijze kunnen worden gebruikt, wat de belasting over de toegevoegde waarde betreft. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van het koninklijk besluit nr. 59 van 18 mei 2020 met betrekking tot de onttrekking van handelsgeschenken 
+van geringe waarde en de onttrekking voor liefdadigheidsdoeleinden van voedingsmiddelen en levensnoodzakelijke 
+niet-voedingsmiddelen andere dan goederen die op duurzame wijze kunnen worden gebruikt, wat de belasting 
+over de toegevoegde waarde betreft (Belgisch Staatsblad van 25 mei 2020).Deze vertaling is 
+opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN18. MAI 2020 - Königlicher Erlass Nr. 59 über die Entnahme von 
+Werbegeschenken von geringem Wert und die Entnahme für wohltätige Zwecke von Lebensmitteln und lebenswichtigen 
+Nichtlebensmitteln mit Ausnahme von langlebigen Gütern in Bezug auf die MehrwertsteuerBERICHT 
+AN DEN KÖNIGSire,vorliegender Entwurf eines Königlichen Erlasses ersetzt den Königlichen 
+Erlass Nr. 59 vom 28. Mai 2019 über die Entnahme von Werbegeschenken von geringem Wert und von Lebensmitteln 
+für wohltätige Zwecke in Bezug auf die Mehrwertsteuer - Belgisches Staatsblatt vom 20. Juni 2019, Ausg. 
+2 (nachstehend "Königlicher Erlass Nr. 59 vom 28. Mai 2019" genannt).Die Ersetzung erfolgt 
+wegen der Einführung eines Buchstabens c) in Artikel 12 § 1 Absatz 1 Nr. 2 des Mehrwertsteuergesetzbuches 
+(nachstehend "Gesetzbuch" genannt) durch das Gesetz vom 7. April 2019 zur Abänderung des Mehrwertsteuergesetzbuches 
+im Hinblick auf die Befreiung von der Mehrwertsteuer in Bezug auf Nichtlebensmittel-Spenden für die am 
+stärksten benachteiligten Personen - Belgisches Staatsblatt vom 6. Mai 2019. In dieser Bestimmung ist 
+eine Regelung vorgesehen, die ähnlich ist wie die Regelung für Entnahmen von Lebensmitteln im Hinblick 
+auf ihre unentgeltliche Aushändigung für wohltätige Zwecke. Auf der Grundlage dieser Bestimmung werden 
+daher Entnahmen von lebenswichtigen Nichtlebensmitteln durch einen Steuerpflichtigen aus seinem Unternehmen 
+im Hinblick auf die unentgeltliche Aushändigung für wohltätige Zwecke einer Lieferung gegen Entgelt nicht 
+gleichgesetzt, sofern es sich um Güter handelt, die nicht dauerhaft nutzbar sind und deren inhärente 
+Eigenschaften es nicht mehr erlauben, dass sie in gleich welcher Stufe des Wirtschaftskreislaufs unter 
+den ursprünglichen Bedingungen des Inverkehrbringens verkauft werden.Unter Berücksichtigung 
+der zahlreichen Abänderungen des Königlichen Erlasses Nr. 59 vom 28. Mai 2019, die die Einführung dieser 
+neuen Bestimmung zur Folge gehabt hätte, ist entschieden worden, diesen Königlichen Erlass zu ersetzen, 
+anstatt ihn abzuändern.KAPITEL 1 - Entnahmen von Gütern im Hinblick auf die Aushändigung von 
+Werbegeschenken von geringem WertIn Artikel 1 des vorliegenden Entwurfs wird Artikel 1 des 
+Königlichen Erlasses Nr. 59 vom 28. Mai 2019, in dem die Bedingungen festgelegt sind, unter denen Entnahmen 
+von Gütern im Hinblick auf die Aushändigung von Werbegeschenken von geringem Wert Lieferungen von Gütern 
+gegen Entgelt nicht gleichgesetzt werden, unverändert übernommen.KAPITEL 2 - Entnahmen von 
+Gütern im Hinblick auf deren Aushändigung für wohltätige ZweckeKapitel 2 des vorliegenden Entwurfs 
+betrifft künftig die Bedingungen und Modalitäten für die Anwendung der Regel, dass einer Lieferung von 
+Gütern gegen Entgelt nicht gleichgesetzt werden:- in Artikel 12 § 1 Absatz 1 Nr. 2 Buchstabe 
+b) des Gesetzbuches vorgesehene Lebensmittelspenden für wohltätige Zwecke (Abschnitt 1),- in 
+Artikel 12 § 1 Absatz 1 Nr. 2 Buchstabe c) des Gesetzbuches vorgesehene Spenden für wohltätige 
+Zwecke von lebenswichtigen Nichtlebensmitteln mit Ausnahme von langlebigen Gütern (Abschnitt 2).In 
+Abschnitt 3 dieses Kapitels werden die Bedingungen und Modalitäten vorgesehen, gemäß denen solche 
+Spenden zugunsten zugelassener Verteilungsplattformen vorgenommen werden können.Abschnitt 1 
+- Entnahmen von Lebensmitteln im Hinblick auf deren Aushändigung für wohltätige ZweckeIn den 
+Artikeln 2 und 3 des vorliegenden Entwurfs werden die Artikel 2 und 3 des Königlichen Erlasses Nr. 59 
+vom 28. Mai 2019 hinsichtlich der Entnahme von Lebensmitteln für wohltätige Zwecke bis auf die Anpassung 
+der Verweise unverändert übernommen.In Artikel 4 Absatz 1 des vorliegenden Entwurfs werden 
+die verschiedenen Kategorien von Empfängern von Lebensmittelspenden, die für die Anwendung dieser Regelung 
+in Betracht kommen, erschöpfend aufgezählt. Neben den Kategorien, die bereits in Artikel 4 des Königlichen 
+Erlasses Nr. 59 vom 28. Mai 2019 aufgenommen sind, werden künftig ebenfalls Verteilungsplattformen erwähnt, 
+die vom Minister der Finanzen oder von seinem Beauftragten zugelassen sind. Kapitel 2 Abschnitt 3 des 
+vorliegenden Entwurfs ist ganz der Regelung gewidmet, die auf diese Verteilungsplattformen Anwendung 
+findet, ungeachtet, ob sie im Rahmen der Verteilung für wohltätige Zwecke von Lebensmitteln oder Nichtlebensmitteln 
+tätig sind. Daher wird diesbezüglich auf diesen Abschnitt verwiesen.Insbesondere in Bezug auf 
+Organisationen der Wohlfahrtspflege, die von einer öffentlichen Behörde anerkannt sind (Artikel 4 Absatz 
+1 Nr. 3 des vorliegenden Entwurfs), hat sich gezeigt, dass nicht alle zuständigen Behörden unbedingt 
+ein formelles Verfahren für die Anerkennung dieser Organisationen der Wohlfahrtspflege vorsahen. Um Organisationen 
+der Wohlfahrtspflege, die für ihre Anerkennung von solchen Behörden abhängen, nicht zu benachteiligen, 
+wird in Artikel 4 Absatz 2 des Entwurfs bestimmt, dass eine Organisation als anerkannt gelten wird, wenn 
+sie eine Bescheinigung der zuständigen Behörde vorlegen kann, in der diese bestätigt, dass die Organisation:- 
+sich für die Armutsbekämpfung und die Verteilung der in Artikel 2 erwähnten Güter einsetzt,- 
+in der Lage ist, in Artikel 2 erwähnte Güter unter guten Bedingungen zu verteilen,- sich verpflichtet, 
+in Artikel 2 erwähnte Güter nicht zu kommerziellen Zwecken zu verwenden und sie ausschließlich 
+an Bedürftige zu verteilen, und dies ohne andere Gegenleistung als einen finanziellen Beitrag, der die 
+unmittelbar mit dieser Verteilung verbundenen Ausgaben nicht überschreitet.Schließlich 
+wird in Artikel 5 des Entwurfs Artikel 5 des Königlichen Erlasses Nr. 59 vom 28. Mai 2019 übernommen, 
+der sich auf das Dokument bezieht, das der Steuerpflichtige, der Lebensmittel zugunsten eines in Artikel 
+4 des Entwurfs erwähnten Empfängers spendet, (einzeln pro Spende oder zusammenfassend pro Monat) erstellen 
+muss. Jedoch wird in Artikel 5 § 1 Absatz 1 des Entwurfs eine zusätzliche Angabe für dieses Dokument 
+festgelegt, und zwar der Grund, weshalb die Güter nicht mehr unter den normalen Bedingungen des Inverkehrbringens 
+wie in Artikel 3 Absatz 1 Nr. 2 des Entwurfs erwähnt verkauft werden können. Aus Gründen der Einheitlichkeit 
+mit ähnlichen Verpflichtungen in Abschnitt 2 in Bezug auf Nichtlebensmittel (Artikel 9 § 3 des 
+vorliegenden Entwurfs) und Abschnitt 3 in Bezug auf Verteilungsplattformen (Artikel 12 § 3 des 
+vorliegenden Entwurfs) sind die Verpflichtungen, die in Artikel 5 erwähnten Dokumente zu datieren und 
+gegenzuzeichnen, neu formuliert und in einem neuen Paragraphen 3 gruppiert worden.Abschnitt 
+2 - Entnahmen von lebenswichtigen Nichtlebensmitteln mit Ausnahme von langlebigen Gütern im Hinblick 
+auf deren Aushändigung für wohltätige ZweckeDie Artikel 6 bis 9 des Entwurfs betreffen Bedingungen 
+und Modalitäten für die Anwendung der in Artikel 12 § 1 Absatz 1 Nr. 2 Buchstabe c) des Gesetzbuches 
+erwähnten Regel, dass Nichtlebensmittel-Spenden für wohltätige Zwecke Lieferungen von Gütern gegen Entgelt 
+nicht gleichgesetzt werden.In Artikel 6 des Entwurfs wird der sich aus Artikel 12 § 
+1 Absatz 1 Nr. 2 Buchstabe c) des Gesetzbuches ergebende Grundsatz festgelegt, dass Entnahmen von Nichtlebensmitteln 
+für wohltätige Zwecke Lieferungen von Gütern gegen Entgelt nicht gleichgesetzt werden.In Artikel 
+7 Nr. 1 des Entwurfs werden die Merkmale näher bestimmt, die Nichtlebensmittel aufweisen müssen, damit 
+diese Regelung in Anspruch genommen werden kann.Zunächst muss es sich um lebenswichtige Nichtlebensmittel 
+handeln, das heißt, um Güter, die die Lebensqualität der in Armut lebenden Menschen tatsächlich 
+verbessern können. Gemeint sind Güter, die im täglichen Leben der betreffenden Personen unerlässlich 
+sind und ihnen ein menschenwürdiges Leben ermöglichen. Zum Beispiel geht es um:- Grundkörperpflegemittel 
+(Seifen, Shampoos, Zahnpasten und Zahnbürsten), Grunderzeugnisse zur Schönheitspflege (Reinigungscremes, 
+Rasierer und Rasierschaum) und Produkte für Babys und Kleinkinder (Windeln, angepasste Seifen),- 
+medizinische Grundprodukte für den Hausgebrauch wie Aspirin, Verbände und Desinfektionsmittel,- 
+Reinigungsmittel für den Haushalt (Fußbodenreiniger, Waschmittel, Toilettenpapier, Papiertaschentücher),- 
+Schul- und Büromaterial (Schultaschen, Bleistifte, Füller), Spiele und Spielzeuge mit begrenzter Lebensdauer,- 
+gewöhnliche Küchengeräte (Service, alltägliche Töpfe und Pfannen),- Kleider, Schuhe und Haus-, 
+Bett- und Tischwäsche.Produkte, die als nicht notwendig betrachtet werden, und Luxusprodukte 
+sind jedoch nicht betroffen. Im vorliegenden Fall stellt der Mehrwertsteuersatz, der normalerweise auf 
+die Lieferung dieser Güter anwendbar ist, kein relevantes Unterscheidungsmerkmal dar.Punkt 
+6 des Gutachtens Nr. 67.148/3 des Staatsrates vom 15. April 2020, in dem eine genauere Beschreibung der 
+betreffenden Güter verlangt wird, wird nicht gefolgt. In diesem Gutachten schlägt der Staatsrat vor, 
+zur Verdeutlichung des Begriffs "lebenswichtige Nichtlebensmittel" im Text direkt auf bestimmte Rubriken 
+des Königlichen Erlasses Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung 
+der Güter und Dienstleistungen nach diesen Sätzen zu verweisen. Es muss jedoch darauf hingewiesen werden, 
+dass die betreffenden Güter nicht auf der Grundlage des auf sie anwendbaren Mehrwertsteuersatzes bestimmt 
+werden, sondern auf der Grundlage ihres Nutzens und ihrer Notwendigkeit im Rahmen eines menschenwürdigen 
+Lebens, das einen garantierten Mindestkomfort umfasst. Ein Verweis auf die eine oder andere Rubrik dieses 
+Königlichen Erlasses wäre jedenfalls nicht stichhaltig, da bestimmte Güter nicht darin aufgenommen sind 
+(nämlich Güter, die dem Steuersatz von 21 Prozent unterliegen).Die zweite Bedingung in Bezug 
+auf die Güter betrifft die Tatsache, dass ihr Wiederverkaufswert ab ihrer ersten Benutzung beträchtlich 
+abnimmt. Dies ist beispielsweise der Fall für Zahnpastatuben, die jeglichen Handelswert verlieren, sobald 
+sie geöffnet sind. Güter, die Merkmale eines Investitionsgutes aufweisen, wie Fahrzeuge, Garten- oder 
+Haushaltsgeräte, sind folglich ausgeschlossen.Die dritte Bedingung in Bezug auf die Güter betrifft 
+die Tatsache, dass sie gemäß den bei dem betreffenden Steuerpflichtigen geltenden Normen nicht 
+mehr unter den normalen Bedingungen des Inverkehrbringens verkauft werden können (Artikel 7 Nr. 2 des 
+vorliegenden Entwurfs).Die erwähnten Umstände stimmen mehr oder weniger mit den in Artikel 
+3 Absatz 1 Nr. 2 des vorliegenden Entwurfs vorgesehenen Umständen in Bezug auf Lebensmittel überein. 
+Es ist hervorzuheben, dass sich das Verfalldatum als Oberbegriff je nach Fall auf das Verbrauchsdatum 
+oder - was für Nichtlebensmittel meistens der Fall ist - das Mindesthaltbarkeitsdatum bezieht (nach dessen 
+Ablauf das Gut noch verwendet werden kann).In Artikel 8 Absatz 1 des vorliegenden Entwurfs 
+werden die verschiedenen Kategorien von Empfängern der erwähnten Nichtlebensmittel-Spenden, die für die 
+Anwendung dieser Regelung in Betracht kommen, erschöpfend aufgezählt. Es handelt sich um dieselben Kategorien 
+von Empfängern wie diejenigen, die in Artikel 4 Absatz 1 des vorliegenden Entwurfs aufgenommen sind, 
+mit Ausnahme der Lebensmittelbanken, die sich grundsätzlich auf die Verteilung von Lebensmitteln beschränken.Wie 
+für Empfänger von Lebensmittelspenden wird in Artikel 8 Absatz 2 des Entwurfs für Organisationen der 
+Wohlfahrtspflege als Empfänger von Nichtlebensmittel-Spenden ein vereinfachtes Verfahren für den Nachweis 
+ihrer Anerkennung durch die zuständige Behörde vorgesehen, wenn Letztere kein spezifisches Zulassungsverfahren 
+eingerichtet hat.In Artikel 9 § 1 des vorliegenden Entwurfs wird die in Artikel 5 § 
+1 des Entwurfs erwähnte im Rahmen von Lebensmittelspenden geltende Verpflichtung, dass Steuerpflichtige 
+für jede Spende ein Dokument erstellen müssen, in Bezug auf Nichtlebensmittel-Spenden übernommen. Gemäß 
+Artikel 9 §  1 Absatz 2 des Entwurfs muss dieses Dokument spätestens am fünfzehnten Tag des Monats 
+nach dem Monat, in dem die Lieferung von Gütern bewirkt wurde, erstellt werden.Gemäß 
+Artikel 9 § 1 Absatz 1 des Entwurfs muss dieses Dokument ermöglichen, für jede Spende den Zeitpunkt, 
+zu dem die Spende vorgenommen wird, den Zuwender, die Organisation, die die Spende empfängt, die Art 
+und Menge der betreffenden Güter und die Tatsache, dass die Spende unentgeltlich erfolgt, festzustellen 
+und den Grund anzugeben, weswegen die Güter nicht mehr unter den normalen Bedingungen des Inverkehrbringens 
+wie in Artikel 7 Nr. 2 des Entwurfs erwähnt verkauft werden können. Wie für Lebensmittelspenden muss 
+dieses Dokument, das von der Organisation, die die Spende empfängt, datiert und gegenzeichnet wird (siehe 
+Artikel 9 § 3 des vorliegenden Entwurfs), eine Erklärung des Empfängers enthalten, in der er sich 
+verpflichtet, keine Gegenleistung zu verlangen, wenn er seinerseits die Güter entweder direkt an Bedürftige 
+aushändigt oder an andere in Artikel 8 Absatz 1 des vorliegenden Entwurfs erwähnte Empfänger verteilt, 
+die mit der Weiterverteilung der Güter beauftragt sind. Abweichend hiervon kann der Empfänger gegebenenfalls 
+einen kleinen finanziellen Beitrag verlangen, der die unmittelbar mit der Verteilung dieser Güter verbundenen 
+Ausgaben nicht überschreiten darf.Schließlich wird in Anlehnung an Artikel 5 § 
+2 des vorliegenden Entwurfs, der sich auf Lebensmittelspenden bezieht, in Artikel 9 § 2 des vorliegenden 
+Entwurfs eine Toleranz eingeführt, was den Grundsatz der systematischen Erstellung dieses Dokuments bei 
+jeder Spende betrifft. So wird es Steuerpflichtigen erlaubt, nur eine zusammenfassende Aufstellung pro 
+Monat zu erstellen, in der die im Laufe des betreffenden Monats bewirkten Lieferungen von Gütern aufgenommen 
+werden.Abschnitt 3 - Verpflichtungen der Verteilungsplattformen im Rahmen von Entnahmen von 
+Lebensmitteln und lebenswichtigen Nichtlebensmitteln mit Ausnahme von langlebigen Gütern im Hinblick 
+auf deren Aushändigung für wohltätige ZweckeVerteilungsplattformen gehören zu den Empfängern 
+von Lebensmittelspenden und Nichtlebensmittel-Spenden, die in Artikel 4 Absatz 1 beziehungsweise Artikel 
+8 Absatz 1 des vorliegenden Entwurfs erwähnt sind.Verteilungsplattformen stellen einen wichtigen 
+Akteur im Rahmen der Verteilung von Gütern für wohltätige Zwecke dar. Es kommt in der Tat vor, dass Steuerpflichtige 
+Güter ihres Unternehmens über solche Plattformen spenden, die diese Güter in Empfang nehmen, lagern und 
+anschließend an öffentliche Behörden oder Organisationen der Wohlfahrtspflege verteilen, denen 
+es obliegt, die Güter an Bedürftige auszuhändigen. Solche Plattformen können sowohl von einer öffentlichen 
+Behörde geschaffen worden sein als auch aus einer Privatinitiative hervorgehen. Sie verfügen grundsätzlich 
+über die logistischen und personellen Mittel, um größere Gütermengen bei den Zuwendern einzusammeln 
+und diese zu befördern und zu lagern.In solchen längeren Verteilungsketten ist es daher nötig, 
+dass in den Fällen, wo der steuerpflichtige Zuwender die Anwendung der in Artikel 12 § 1 Absatz 
+1 Nr. 2 des Gesetzbuches vorgesehenen Regelung geltend macht, Güterströme verfolgt werden können und 
+Wettbewerbsverzerrungen verhindert werden. In Kapitel 2 Abschnitt 3 des vorliegenden Entwurfs werden 
+folglich die Modalitäten und Bedingungen festgelegt, die Verteilungsplattformen einhalten müssen, um 
+für die Anwendung dieser Regelung als Empfänger von Lebensmittel- und Nichtlebensmittel-Spenden gelten 
+zu können.In Artikel 10 § 1 des vorliegenden Entwurfs wird bestimmt, was unter "Verteilungsplattform" 
+zu verstehen ist. Es handelt sich um Organisationen, die im Rahmen von Tätigkeiten, die in direktem Zusammenhang 
+mit wohltätigen Zwecken zugunsten Bedürftiger stehen, die von Steuerpflichtigen erhaltenen materiellen 
+Lebensmittel- oder Nichtlebensmittel-Hilfen an die in den Artikeln 4 Absatz 1 und 8 Absatz 1 des vorliegenden 
+Entwurfs erwähnten Empfänger verteilen und ausschließlich Tätigkeiten in direktem Zusammenhang 
+mit wohltätigen Zwecken ohne Gewinnerzielungsabsicht ausüben.In Artikel 10 § 2 des vorliegenden 
+Entwurfs werden die Bedingungen festgelegt, die Plattformen erfüllen müssen, um im Sinne der Artikel 
+4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 des vorliegenden Entwurfs zugelassen zu werden (und um aufgrund 
+dieser Bestimmungen entsprechend als möglicher Empfänger von Spenden betrachtet zu werden).Die 
+erste Bedingung bezieht sich auf die logistischen Mittel, über die die Plattform unbedingt verfügen muss. 
+Sie muss in der Tat technisch in der Lage sein, die betreffenden Güter angemessen entgegenzunehmen, zu 
+lagern und zu verteilen.Die zweite und die dritte Bedingung beinhalten, dass die Plattform 
+sich dazu verpflichten muss, die betreffenden Güter nicht zu kommerziellen Zwecken zu verwenden und sie 
+wirklich unentgeltlich an die Empfänger zu verteilen. Abweichend hiervon kann sie gegebenenfalls einen 
+kleinen finanziellen Beitrag im Rahmen der Verteilung dieser Güter verlangen, der die unmittelbar damit 
+verbundenen Ausgaben nicht überschreiten darf. Hierbei handelt es sich insbesondere um Kosten in Bezug 
+auf Beförderung, Verpackung und Lagerung der Güter, ungeachtet, ob diese Kosten aufgrund von Tätigkeiten 
+der Plattform selbst oder durch die entgeltliche Beteiligung von Dritten entstehen.Vorbehaltlich 
+der Einhaltung dieser Bedingungen werden diese Plattformen folglich von der mit der Mehrwertsteuer beauftragten 
+Verwaltung zugelassen. In Artikel 10 § 2 Absatz 2 des vorliegenden Entwurfs ist die Veröffentlichung 
+einer Liste aller zugelassenen Plattformen auf der Website der Verwaltung vorgesehen, um steuerpflichtigen 
+Zuwendern die Sicherheit zu bieten, dass diese Regelung auf Spenden, die sie über diese Plattformen vornehmen, 
+anwendbar ist. Die Modalitäten für die Beantragung oder Erneuerung dieser Zulassung werden gemäß 
+dieser Bestimmung vom Minister der Finanzen oder von seinem Beauftragten festgelegt.In Artikel 
+11 des Entwurfs ist vorgesehen, dass die Verteilungsplattform dazu verpflichtet ist, sowohl mit steuerpflichtigen 
+Zuwendern ( § 1) als auch mit Spendenempfängern ( § 2) Partnerschaftsabkommen über die 
+Verteilung der betreffenden Güter für wohltätige Zwecke zu schließen.Das mit steuerpflichtigen 
+Zuwendern geschlossene Abkommen wird in zweifacher Ausfertigung erstellt und von den Parteien datiert 
+und unterzeichnet. Darin müssen enthalten sein: die Zusage des Steuerpflichtigen, der Plattform im Hinblick 
+auf die Verteilung an die in den Artikeln 4 Absatz 1 und 8 Absatz 1 des vorliegenden Entwurfs erwähnten 
+Empfänger unentgeltlich Güter zu liefern, die Zulassungsnummer der Plattform (und das Datum, ab dem diese 
+Zulassung wirksam ist,) und die Zusage der Plattform, für die Verteilung dieser Güter keine andere Gegenleistung 
+als den vorerwähnten begrenzten finanziellen Beitrag zu verlangen. In der Regel werden beide Parteien 
+in diesem Abkommen ebenfalls die Art und Weise festlegen, wie die Güter an die Empfänger übergeben werden 
+(Abholung in einem Lager, Lieferung an die Empfänger, ...).Das mit Empfängern geschlossene 
+Abkommen wird ebenfalls in zweifacher Ausfertigung erstellt und von den Parteien datiert und unterzeichnet. 
+Darin müssen enthalten sein: die Zusage der Plattform, im Hinblick auf die Verteilung an die Empfänger 
+unentgeltlich Güter von Steuerpflichtigen zu erhalten, die Zulassungsnummer der Plattform und das Datum, 
+ab dem diese Zulassung wirksam ist. In der Regel werden beide Parteien in diesem Abkommen ebenfalls festlegen, 
+wie die Güter an die Empfänger übergeben werden (Abholung in einem Lager, Lieferung an die Empfänger, 
+...).Sowohl in § 1 (Absatz 3) als auch in § 2 (Absatz 1 Nr. 1) dieser Bestimmung 
+wird präzisiert, dass diese Verpflichtungen auf dieselbe Weise anwendbar sind, wenn die Spende zwischen 
+zwei Verteilungsplattformen erfolgt, was unter dieser Regelung möglich ist. Diese Präzisierung ist eine 
+Reaktion auf Punkt 7 des vorerwähnten Gutachtens Nr. 67.148/3 des Staatsrates.In Artikel 12 
+§ 1 des vorliegenden Entwurfs wird für die Plattform die Verpflichtung vorgesehen, bei jeder Verteilung 
+von Gütern an Empfänger ein Dokument in zweifacher Ausfertigung zu erstellen. Dieses Dokument umfasst 
+nahezu dieselben Angaben wie das in den Artikeln 5 § 1 und 9 § 1 des Entwurfs erwähnte 
+Dokument, was Spenden durch steuerpflichtige Zuwender an dieselben Empfänger betrifft. Dieses Dokument, 
+das vom Empfänger datiert und gegengezeichnet wird, wird spätestens am fünfzehnten Tag des Monats nach 
+dem Monat, in dem die Lieferung von Gütern bewirkt wurde, erstellt.In Artikel 12 § 1 
+Absatz 2 des vorliegenden Entwurfs wird in Anlehnung an Artikel 5 § 1 Absatz 2 des vorliegenden 
+Entwurfs bestimmt, dass die Angabe der Art und Menge der Lebensmittel durch den Kassenzettel oder die 
+Scanliste in Bezug auf diese Güter ersetzt werden kann, die dem Dokument als Anlage beigefügt werden. 
+In Artikel 12 § 2 des vorliegenden Entwurfs wird ebenfalls vorgesehen, dass dieses Dokument durch 
+eine zusammenfassende Aufstellung pro Monat ersetzt werden kann, in der ausschließlich die Güterverteilungen 
+des betreffenden Monats aufgenommen werden.Außerdem wird in Artikel 12 § 4 des 
+Entwurfs im Hinblick auf die Verfolgung der Güterströme eine weitere Verpflichtung für die Verteilungsplattform 
+vorgesehen. Zu diesem Zweck muss die Verteilungsplattform ein detailliertes Register der eingehenden 
+(von den steuerpflichtigen Zuwendern erhaltenen) Güter und der (an die Empfänger) verteilten Güter führen. 
+Dieses Register enthält für jedes erhaltene Gut folgende Angaben:- laufende Nummer,- 
+Datum des Empfangs des Gutes,- gebräuchliche Bezeichnung dieses Gutes oder Erkennungszeichen, 
+wenn es ein Erkennungszeichen hat,- vollständige Kontaktdaten des steuerpflichtigen Zuwenders 
+oder gegebenenfalls der Verteilungsplattform, die die Spende vornimmt (bei Spenden zwischen Verteilungsplattformen),- 
+Datum der Verteilung des Gutes,- vollständige Kontaktdaten des Empfängers,- Betrag, 
+der gegebenenfalls vom Empfänger als finanzieller Beitrag verlangt wurde.In Artikel 13 des 
+vorliegenden Entwurfs ist vorgesehen, dass der Minister der Finanzen oder sein Beauftragter die Zulassung 
+der Verteilungsplattform entziehen kann, wenn diese Zulassung aufgrund unrichtiger Erklärungen erlangt 
+wurde, die Verteilungsplattform die in dieser Zulassung aufgenommenen Bedingungen oder Zusagen nicht 
+mehr erfüllt oder sie die in Artikel 12 erwähnten Verpflichtungen nicht mehr erfüllt. Verfügen Verteilungsplattformen 
+über keine Zulassung mehr, sind nach diesem Entzug vorgenommene Spenden von der Regelung ausgenommen.Gemäß 
+Punkt 3 des vorerwähnten Gutachtens Nr. 67.148/3 des Staatsrates wird Artikel 14 (und Abschnitt 4, der 
+nur diese Bestimmung enthielt,) des Entwurfs eines Königlichen Erlasses, der der Gesetzgebungsabteilung 
+des Staatsrates vorgelegt wurde, nicht beibehalten. In dieser Bestimmung war ausdrücklich eine gesamtschuldnerische 
+Haftung zu Lasten der Verteilungsplattform vorgesehen, verbunden mit einer Befreiung des steuerpflichtigen 
+Zuwenders von der Haftung für die Zahlung der geschuldeten Steuer, wenn die Verteilungsplattform die 
+in den Artikeln 10 § 2, 11 § 2 oder 12 erwähnten Bedingungen nicht oder nicht mehr erfüllte, 
+wodurch die vom steuerpflichtigen Zuwender getätigten Entnahmen der Steuer unterlagen. Eine ähnliche 
+Regelung war mutatis mutandis ebenfalls vorgesehen, wenn Empfänger von Spenden die Bedingungen der in 
+den Artikeln 5 § 1 Nr. 7 und 9 § 1 Nr. 7 erwähnten Erklärung nicht einhielten.In 
+Ermangelung einer Ermächtigungsbestimmung in Artikel 51bis § 4 des Gesetzbuches, in der dem König 
+eine Verordnungsbefugnis übertragen wird, kann diese Gesetzesbestimmung nicht durch Königlichen Erlass 
+ausgeführt werden. Diese Bestimmung wird also weggelassen.Falls Verteilungsplattformen oder 
+Empfänger die mit dieser Regelung verbundenen Verpflichtungen nicht einhalten, wird die Verwaltung dennoch 
+direkt von der gesamtschuldnerischen Haftung für die Zahlung Gebrauch machen, die in Artikel 51bis § 
+4 des Gesetzbuches erwähnt ist (und nicht in Artikel 50 § 4 des Gesetzbuches, wie in der Präambel 
+des ursprünglichen Entwurfs angegeben war, der der Gesetzgebungsabteilung des Staatsrates vorgelegt wurde 
+- siehe Punkt 4 des vorerwähnten Gutachtens Nr. 67.148/3). Dies wird insbesondere in allen Situationen 
+der Fall sein, in denen diese Verteilungsplattformen oder diese Empfänger bei Nichteinhaltung dieser 
+Verpflichtungen "wussten oder wissen mussten, dass die Nichtzahlung der Steuer in der Umsatzkette mit 
+der Absicht die Steuer zu hinterziehen erfolgte oder erfolgen würde". In diesem Zusammenhang wird die 
+ursprüngliche Zielsetzung beibehalten werden, die darin besteht, dass der steuerpflichtige Zuwender nicht 
+die Folgen zu tragen hat, wenn die Verteilungsplattformen beziehungsweise Empfänger ihre Verpflichtungen 
+und Zusagen nicht einhalten, sofern dem Steuerpflichtigen diese Nichteinhaltung vernünftigerweise nicht 
+bekannt sein konnte. In diesem Fall erfolgt die Beitreibung der geschuldeten Steuer nämlich vorrangig 
+zu Lasten des säumigen Vertragspartners des Steuerpflichtigen, der grundsätzlich dazu verpflichtet sein 
+wird, die gemäß Artikel 12 § 1 des Gesetzbuches geschuldete Steuer zu zahlen. Dies betrifft 
+insbesondere Situationen nach der Spende, in denen die Plattform oder der Empfänger die erhaltenen Güter 
+zu anderen als den vereinbarten Zwecken (zum Beispiel zu kommerziellen Zwecken oder zu privaten Zwecken 
+des Personals) verwenden. Wenn der Steuerpflichtige jedoch zum Zeitpunkt der Entnahme wusste oder wissen 
+musste, dass vorerwähnte Verpflichtungen oder Zusagen nicht eingehalten wurden (zum Beispiel bei Entzug 
+der Zulassung einer Plattform oder wenn die Güter nicht den in den Artikeln 3 und 7 des Entwurfs aufgenommenen 
+Bedingungen entsprechen), bleibt er für die Zahlung der für die Entnahme geschuldeten Steuer haftbar.KAPITEL 
+3 - SchlussbestimmungenIn Artikel 14 des Entwurfs ist vorgesehen, dass der Königliche Erlass 
+Nr. 59 vom 28. Mai 2019 über die Entnahme von Werbegeschenken von geringem Wert und von Lebensmitteln 
+für wohltätige Zwecke in Bezug auf die Mehrwertsteuer, ersetzt durch den vorliegenden Entwurf, aufgehoben 
+wird.In Artikel 15 des Entwurfs ist vorgesehen, dass die Bestimmungen von Kapitel 2 über Entnahmen 
+von Gütern für wohltätige Zwecke auf Güter Anwendung finden, die im Hinblick auf ihre Aushändigung zu 
+den entsprechenden Zwecken ab dem Datum des Inkrafttretens dieses Erlasses entnommen werden.Unter 
+Berücksichtigung der besonderen Modalitäten dieser Regelung (insbesondere der damit verbundenen Verpflichtungen) 
+und damit für die Steuerpflichtigen und die verschiedenen Akteure im Wohltätigkeitssektor die Rechtssicherheit 
+gewährleistet ist, ist in Artikel 16 des Entwurfs vorgesehen, dass vorliegender Entwurf eines Königlichen 
+Erlasses am ersten Tag des Monats nach Ablauf einer Frist von zehn Tagen, die am Tag nach seiner Veröffentlichung 
+im Belgischen Staatsblatt beginnt, in Kraft tritt.Ich habe die Ehre,Sire,der 
+ehrerbietige und getreue DienerEurer Majestät zu sein.Der Vizepremierminister und 
+Minister der FinanzenA. DE CROO18. MAI 2020 - Königlicher Erlass 
+Nr. 59 über die Entnahme von Werbegeschenken von geringem Wert und die Entnahme für wohltätige Zwecke 
+von Lebensmitteln und lebenswichtigen Nichtlebensmitteln mit Ausnahme von langlebigen Gütern in Bezug 
+auf die MehrwertsteuerPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser 
+Gruß!Aufgrund des Mehrwertsteuergesetzbuches, des Artikels 12 § 1 Absatz 3, eingefügt 
+durch das Gesetz vom 30. Juli 2018 und abgeändert durch das Gesetz vom 7. April 2019, und des Artikels 
+53octies § 1 Absatz 6, eingefügt durch das Gesetz vom 28. Dezember 1992 und ersetzt durch das 
+Gesetz vom 17. Dezember 2012;Aufgrund des Königlichen Erlasses Nr. 59 vom 28. Mai 2019 über 
+die Entnahme von Werbegeschenken von geringem Wert und von Lebensmitteln für wohltätige Zwecke in Bezug 
+auf die Mehrwertsteuer;Aufgrund der Stellungnahme des Finanzinspektors vom 8. Januar 2020;Aufgrund 
+des Einverständnisses des Ministers des Haushalts vom 24. Februar 2020;Aufgrund der Stellungnahme 
+Nr. 09/2020 der Datenschutzbehörde vom 31. Januar 2020;Aufgrund des Gutachtens Nr. 67.148/3 
+des Staatsrates vom 15. April 2020, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der 
+am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;Auf Vorschlag des Vizepremierministers 
+und Ministers der FinanzenHaben Wir beschloßen und erlassen Wir:KAPITEL 1 - 
+Entnahmen von Gütern im Hinblick auf die Aushändigung von Werbegeschenken von geringem WertArtikel 
+1 - Lieferungen von Gütern gegen Entgelt im Sinne von Artikel 12 § 1 des Gesetzbuches nicht gleichgesetzt 
+werden Entnahmen von Gütern durch einen Steuerpflichtigen im Hinblick auf die unentgeltliche Aushändigung 
+von Werbegeschenken von geringem Wert, die folgende Bedingungen erfüllen:1. Das Gut wird im 
+Rahmen von Handelsbeziehungen ausgehändigt.2. Das Gut darf nicht im Rahmen einer wirtschaftlichen 
+Tätigkeit vom Empfänger weiterverkauft werden.3. Der Einkaufspreis oder mangels Einkaufspreis 
+der Normalwert des Gutes liegt unter 50 EUR ohne Mehrwertsteuer.KAPITEL 2 - Entnahmen von Gütern 
+im Hinblick auf deren Aushändigung für wohltätige ZweckeAbschnitt 1 - Entnahmen von Lebensmitteln 
+im Hinblick auf deren Aushändigung für wohltätige ZweckeArt. 2 - Lieferungen von Gütern gegen 
+Entgelt im Sinne von Artikel 12 § 1 des Gesetzbuches nicht gleichgesetzt werden Entnahmen von 
+Lebensmitteln durch einen Steuerpflichtigen, die die in den Artikeln 3 und 4 festgelegten Bedingungen 
+erfüllen und gemäß den in Artikel 5 und gegebenenfalls Abschnitt 3 festgelegten Modalitäten erfolgen.Art. 
+3 - Bei den in Artikel 2 erwähnten Gütern handelt es sich um Güter, die:1. aus Lebensmitteln 
+einschließlich alkoholfreier Getränke bestehen, die:a) für den menschlichen Gebrauch 
+bestimmt sind,b) noch für den menschlichen Gebrauch geeignet sind,2. nicht mehr unter 
+den normalen Bedingungen des Inverkehrbringens verkauft werden können, und zwar aus einem oder mehreren 
+der folgenden Gründe:a) Das Verfalldatum des Gutes läuft spätestens fünf Tage nach dem Datum 
+der Entnahme des Gutes ab.b) Die Verpackung des Gutes ist beschädigt oder entspricht nicht 
+dem Inverkehrbringungsstandard des Herstellers oder Händlers.c) Das Lebensmittel entspricht 
+nicht dem vom Hersteller festgelegten Produktionsstandard.d) Der Zeitraum, in dem das Gut gewöhnlich 
+in den Verkehr gebracht wird, ist abgelaufen.In Absatz 1 erwähnte Güter können unter den in 
+Artikel 4 festgelegten Bedingungen in dem Zustand, in dem sie ursprünglich in Verkehr gebracht wurden, 
+oder nach Verarbeitung oder Zubereitung in der Form von Mahlzeiten oder Lebensmittelpaketen geliefert 
+werden.Art. 4 - Bei den in Artikel 2 erwähnten Entnahmen handelt es sich um Entnahmen von Gütern 
+im Hinblick auf eine unentgeltliche Lieferung an:1. Lebensmittelbanken:a) die Mitglied 
+des Belgischen Verbands der Lebensmittelbanken oder einer Einrichtung sind, die selbst Mitglied der Europäischen 
+Föderation der Lebensmittelbanken ist,b) deren Zweck darin besteht, über karitative Vereinigungen, 
+die von den Lebensmittelbanken zugelassen sind, Lebensmittelhilfen an Bedürftige zu verteilen,2. 
+lokale, kommunale, interkommunale, provinziale, gemeinschaftliche, regionale oder föderale Verwaltungen 
+oder Behörden im Rahmen ihrer Aufträge zur Verteilung von Lebensmittelhilfen an Bedürftige,3. 
+Organisationen der Wohlfahrtspflege, die von einer in Nr. 2 erwähnten Behörde anerkannt sind,4. 
+Verteilungsplattformen, die vom Minister der Finanzen oder von seinem Beauftragten zugelassen sind.In 
+Ermangelung eines formellen Verfahrens für die Anerkennung durch eine zuständige Behörde gilt eine in 
+Absatz 1 Nr. 3 erwähnte Organisation der Wohlfahrtspflege als anerkannt, wenn sie eine Bescheinigung 
+der zuständigen Behörde vorlegen kann, in der diese bestätigt, dass die Organisation:1. sich 
+für die Armutsbekämpfung und die Verteilung der in Artikel 2 erwähnten Güter einsetzt,2. in 
+der Lage ist, in Artikel 2 erwähnte Güter unter guten Bedingungen zu verteilen,3. sich verpflichtet, 
+in Artikel 2 erwähnte Güter nicht zu kommerziellen Zwecken zu verwenden und sie ausschließlich 
+an Bedürftige zu verteilen, und dies ohne andere Gegenleistung als einen finanziellen Beitrag, der die 
+unmittelbar mit dieser Verteilung verbundenen Ausgaben nicht überschreitet.Art. 5 - § 
+1 - Bei den in Artikel 2 erwähnten Entnahmen erstellen Steuerpflichtige ein Dokument in zweifacher Ausfertigung 
+mit folgenden Angaben:1. Datum, an dem der Empfänger die Güter in Besitz genommen hat,2. 
+Name oder Gesellschaftsname, Adresse und Mehrwertsteueridentifikationsnummer des Steuerpflichtigen,3. 
+Name oder Gesellschaftsname, Adresse und Unternehmensnummer des Empfängers,4. Art und Menge 
+der gelieferten Güter,5. in Artikel 3 Absatz 1 Nr. 2 erwähnter Grund, weshalb die Güter nicht 
+mehr unter den normalen Bedingungen des Inverkehrbringens verkauft werden können,6. Angabe, 
+dass diese Lieferung unentgeltlich erfolgt,7. Erklärung der in Artikel 4 erwähnten Organisation, 
+Verwaltung oder Behörde, in der sie sich verpflichtet:a) die erhaltenen Güter nicht zu kommerziellen 
+Zwecken zu verwenden,b) die erhaltenen Güter für soziale Maßnahmen zugunsten Bedürftiger 
+vorzusehen,c) bei der Verteilung dieser Güter keine Gegenleistung zu verlangen, mit Ausnahme 
+eines eventuellen finanziellen Beitrags, der die unmittelbar mit dieser Verteilung verbundenen Ausgaben 
+nicht überschreitet.Die in Absatz 1 Nr. 4 erwähnte Angabe darf durch den Kassenzettel oder 
+die Scanliste in Bezug auf die gelieferten Güter ersetzt werden, die dem in Absatz 1 erwähnten Dokument 
+als Anlage beigefügt werden.Dieses Dokument wird spätestens am fünfzehnten Tag des Monats nach 
+dem Monat, in dem die Lieferung von Gütern bewirkt wurde, erstellt. § 2 - In Abweichung 
+von § 1 darf eine zusammenfassende Aufstellung erstellt werden, in der die im Laufe eines Monats 
+bewirkten Lieferungen aufgenommen werden.Die zusammenfassende Aufstellung enthält pro Lieferung 
+von Gütern die in § 1 erwähnten Angaben mit Ausnahme der Daten, an denen die Empfänger die Güter 
+in Besitz genommen haben; diese Daten dürfen durch einen globalen Verweis auf den Monat, auf den sich 
+das Dokument bezieht, ersetzt werden.Die zusammenfassende Aufstellung wird spätestens am fünfzehnten 
+Tag des Monats nach dem Monat, in dem die Lieferungen von Gütern bewirkt wurden, erstellt. 
+§ 3 - Das in § 1 erwähnte Dokument und die in § 2 erwähnte zusammenfassende Aufstellung 
+werden vom Empfänger der gelieferten Güter datiert und gegengezeichnet.Abschnitt 2 - Entnahmen 
+von lebenswichtigen Nichtlebensmitteln mit Ausnahme von langlebigen Gütern im Hinblick auf deren Aushändigung 
+für wohltätige ZweckeArt. 6 - Lieferungen von Gütern gegen Entgelt im Sinne von Artikel 12 
+§ 1 des Gesetzbuches nicht gleichgesetzt werden Entnahmen von Nichtlebensmitteln durch einen Steuerpflichtigen, 
+die die in den Artikeln 7 und 8 festgelegten Bedingungen erfüllen und gemäß den in Artikel 9 und 
+gegebenenfalls Abschnitt 3 festgelegten Modalitäten erfolgen.Art. 7 - Bei den in Artikel 6 
+erwähnten Gütern handelt es sich um Güter, die:1. aus anderen Gütern als Lebensmitteln bestehen:a) 
+die die Grundbedürfnisse decken,b) deren Wiederverkaufswert ab ihrer ersten Benutzung beträchtlich 
+abnimmt,2. nicht mehr unter den normalen Bedingungen des Inverkehrbringens verkauft werden 
+können, und zwar aus einem oder mehreren der folgenden Gründe:a) Das Verfall- oder Verwendbarkeitsdatum 
+des Gutes ist bald erreicht oder zum Zeitpunkt der Entnahme des Gutes abgelaufen.b) Die Verpackung 
+des Gutes ist beschädigt oder entspricht nicht dem Inverkehrbringungsstandard des Herstellers oder Händlers.c) 
+Das Gut entspricht nicht dem vom Hersteller festgelegten Produktionsstandard.d) Der Zeitraum, 
+in dem das Gut gewöhnlich in den Verkehr gebracht wird, ist abgelaufen.Art. 8 - Bei den in 
+Artikel 6 erwähnten Entnahmen handelt es sich um Entnahmen von Gütern im Hinblick auf eine unentgeltliche 
+Lieferung an folgende Empfänger:1. lokale, kommunale, interkommunale, provinziale, gemeinschaftliche, 
+regionale oder föderale Verwaltungen oder Behörden im Rahmen ihrer Aufträge zur Verteilung von materiellen 
+Hilfen an Bedürftige,2. Organisationen der Wohlfahrtspflege, die von einer in Nr. 1 erwähnten 
+Behörde anerkannt sind,3. Verteilungsplattformen, die vom Minister der Finanzen oder von seinem 
+Beauftragten zugelassen sind.In Ermangelung eines formellen Verfahrens für die Anerkennung 
+durch eine zuständige Behörde gilt eine in Absatz 1 Nr. 2 erwähnte Organisation der Wohlfahrtspflege 
+als anerkannt, wenn sie eine Bescheinigung der zuständigen Behörde vorlegen kann, in der diese bestätigt, 
+dass die Organisation:1. sich für die Armutsbekämpfung und die Verteilung der in Artikel 6 
+erwähnten Güter einsetzt,2. in der Lage ist, in Artikel 6 erwähnte Güter unter guten Bedingungen 
+zu verteilen,3. sich verpflichtet, in Artikel 6 erwähnte Güter nicht zu kommerziellen Zwecken 
+zu verwenden und sie ausschließlich an Bedürftige zu verteilen, und dies ohne andere Gegenleistung 
+als einen finanziellen Beitrag, der die unmittelbar mit dieser Verteilung verbundenen Ausgaben nicht 
+überschreitet.Art. 9 - § 1 - Bei den in Artikel 6 erwähnten Entnahmen erstellen Steuerpflichtige 
+ein Dokument in zweifacher Ausfertigung mit folgenden Angaben:1. Datum, an dem der Empfänger 
+die Güter in Besitz genommen hat,2. Name oder Gesellschaftsname, Adresse und Mehrwertsteueridentifikationsnummer 
+des Steuerpflichtigen,3. Name oder Gesellschaftsname, Adresse und Unternehmensnummer des Empfängers,4. 
+Art und Menge der gelieferten Güter,5. in Artikel 7 Nr. 2 erwähnter Grund, weshalb die Güter 
+nicht mehr unter den normalen Bedingungen des Inverkehrbringens verkauft werden können,6. Angabe, 
+dass diese Lieferung unentgeltlich erfolgt,7. Erklärung des Empfängers, in der er sich verpflichtet:a) 
+die erhaltenen Güter nicht zu kommerziellen Zwecken zu verwenden,b) die erhaltenen Güter für 
+soziale Maßnahmen zugunsten Bedürftiger vorzusehen,c) bei der Verteilung dieser Güter 
+keine Gegenleistung zu verlangen, mit Ausnahme eines eventuellen finanziellen Beitrags, der die unmittelbar 
+mit dieser Verteilung verbundenen Ausgaben nicht überschreitet.Dieses Dokument wird spätestens 
+am fünfzehnten Tag des Monats nach dem Monat, in dem die Lieferung von Gütern bewirkt wurde, erstellt. 
+§ 2 - In Abweichung von § 1 darf eine zusammenfassende Aufstellung erstellt werden, in 
+der die im Laufe eines Monats bewirkten Lieferungen aufgenommen werden.Die zusammenfassende 
+Aufstellung enthält pro Lieferung von Gütern die in § 1 erwähnten Angaben mit Ausnahme der Daten, 
+an denen die Empfänger die Güter in Besitz genommen haben; diese Daten dürfen durch einen globalen Verweis 
+auf den Monat, auf den sich das Dokument bezieht, ersetzt werden.Die zusammenfassende Aufstellung 
+wird spätestens am fünfzehnten Tag des Monats nach dem Monat, in dem die Lieferungen von Gütern bewirkt 
+wurden, erstellt. § 3 - Das in § 1 erwähnte Dokument und die in § 2 erwähnte 
+zusammenfassende Aufstellung werden vom Empfänger der gelieferten Güter datiert und gegengezeichnet.Abschnitt 
+3 - Verpflichtungen für Verteilungsplattformen im Rahmen von Entnahmen von Lebensmitteln und lebenswichtigen 
+Nichtlebensmitteln mit Ausnahme von langlebigen Gütern im Hinblick auf deren Aushändigung für wohltätige 
+ZweckeArt. 10 - § 1 - Als Verteilungsplattform wie in den Artikeln 4 Absatz 1 Nr. 4 
+und 8 Absatz 1 Nr. 3 erwähnt gelten Organisationen, die:1. im Rahmen von Tätigkeiten, die in 
+direktem Zusammenhang mit wohltätigen Zwecken zugunsten Bedürftiger stehen, die von Steuerpflichtigen 
+erhaltenen materiellen Lebensmittel- oder Nichtlebensmittel-Hilfen an die in den Artikeln 4 Absatz 1 
+und 8 Absatz 1 erwähnten Empfänger verteilen,2. ausschließlich Tätigkeiten in direktem 
+Zusammenhang mit wohltätigen Zwecken ausüben,3. keine Gewinnerzielung beabsichtigen. 
+§ 2 - Verteilungsplattformen können im Sinne der Artikel 4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 
+zugelassen werden, wenn sie folgende Bedingungen erfüllen:1. Sie verfügen über ausreichende 
+logistische Mittel für Sammlung, Lagerung und effektive Verteilung von Lebensmitteln und Nichtlebensmitteln 
+zugunsten der in den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger.2. Sie verpflichten 
+sich, die erhaltenen Güter nicht zu kommerziellen Zwecken zu verwenden und sie ausschließlich zugunsten 
+der in den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger zu verteilen.3. Sie verpflichten 
+sich, bei der Verteilung dieser Güter keine Gegenleistung zu verlangen, mit Ausnahme eines eventuellen 
+finanziellen Beitrags, der die unmittelbar mit dieser Verteilung verbundenen Ausgaben nicht überschreitet.Die 
+Liste der zugelassenen Verteilungsplattformen wird auf der Website der mit der Mehrwertsteuer beauftragten 
+Verwaltung veröffentlicht. Der Minister der Finanzen oder sein Beauftragter bestimmt, wie die Zulassung 
+beantragt oder erneuert werden muss, welche Belege vorzulegen sind und ab welchem Datum die Zulassung 
+wirksam ist.Art. 11 - § 1 - In den Artikeln 4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 erwähnte 
+Verteilungsplattformen, die in den Artikeln 2 und 6 erwähnte Güter unentgeltlich von einem Steuerpflichtigen 
+erhalten, müssen mit diesem Steuerpflichtigen ein Abkommen in zweifacher Ausfertigung schließen, 
+in dem:1. sich der Steuerpflichtige verpflichtet, der Plattform im Hinblick auf die Verteilung 
+an die in den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger unentgeltlich Güter zu liefern,2. 
+die Nummer der in Artikel 10 § 2 Absatz 2 erwähnten Zulassung und das Datum, ab dem diese Zulassung 
+wirksam ist, angegeben sind,3. sich die Plattform verpflichtet, bei der Verteilung dieser Güter 
+keine Gegenleistung zu verlangen, mit Ausnahme eines eventuellen finanziellen Beitrags, der die unmittelbar 
+mit dieser Verteilung verbundenen Ausgaben nicht überschreitet.Das Abkommen wird in zweifacher 
+Ausfertigung erstellt, wobei die Verteilungsplattform und der Steuerpflichtige erklären, dass sie jeweils 
+eine Ausfertigung erhalten haben. Das Abkommen wird von beiden Parteien datiert und unterzeichnet.Die 
+in vorliegendem Paragraphen erwähnten Verpflichtungen sind auf dieselbe Weise anwendbar, wenn die unentgeltliche 
+Lieferung der in den Artikeln 2 und 6 erwähnten Güter zwischen zwei in den Artikeln 4 Absatz 1 Nr. 4 
+und 8 Absatz 1 Nr. 3 erwähnten Verteilungsplattformen erfolgt. § 2 - In den Artikeln 
+4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 erwähnte Verteilungsplattformen, die in den Artikeln 2 und 6 erwähnte 
+Güter an die in den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger verteilen, müssen mit diesen 
+Empfängern ein Abkommen in zweifacher Ausfertigung schließen, in dem:1. sich die Plattform 
+verpflichtet, in den Artikeln 2 und 6 erwähnte Güter unentgeltlich von Steuerpflichtigen oder gegebenenfalls 
+von den in den Artikeln 4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 erwähnten Plattformen zu erhalten,2. 
+die Nummer der in Artikel 10 § 2 Absatz 2 erwähnten Zulassung und das Datum, ab dem diese Zulassung 
+wirksam ist, angegeben sind.Das Abkommen wird in zweifacher Ausfertigung erstellt, wobei die 
+Verteilungsplattform und der Empfänger erklären, dass sie jeweils eine Ausfertigung erhalten haben. Das 
+Abkommen wird von beiden Parteien datiert und unterzeichnet.Art. 12 - § 1 - Bei Verteilung 
+der in den Artikeln 2 und 6 erwähnten Güter durch eine in den Artikeln 4 Absatz 1 Nr. 4 und 8 Absatz 
+1 Nr. 3 erwähnte Verteilungsplattform an die in den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger 
+erstellt die Plattform ein Dokument in zweifacher Ausfertigung mit folgenden Angaben:1. Datum, 
+an dem der Empfänger die Güter in Besitz genommen hat,2. Name oder Gesellschaftsname, Adresse 
+und Unternehmensnummer der Verteilungsplattform,3. Name oder Gesellschaftsname, Adresse und 
+Unternehmensnummer des Empfängers,4. Art und Menge der gelieferten Güter,5. in den 
+Artikeln 3 Absatz 1 Nr. 2 und 7 Nr. 2 erwähnter Grund, weshalb die Güter nicht mehr unter den normalen 
+Bedingungen des Inverkehrbringens verkauft werden können,6. Angabe, dass diese Lieferung unentgeltlich 
+erfolgt, oder gegebenenfalls Betrag des in Artikel 10 § 2 Absatz 1 Nr. 3 erwähnten finanziellen 
+Beitrags,7. Erklärung des Empfängers, in der er sich verpflichtet:a) die erhaltenen 
+Güter nicht zu kommerziellen Zwecken zu verwenden,b) die erhaltenen Güter für soziale Maßnahmen 
+zugunsten Bedürftiger vorzusehen,c) bei der Verteilung dieser Güter keine Gegenleistung zu 
+verlangen, mit Ausnahme eines eventuellen finanziellen Beitrags, der die unmittelbar mit dieser Verteilung 
+verbundenen Ausgaben nicht überschreitet.Die in Absatz 1 Nr. 4 erwähnte Angabe darf, was Lebensmittel 
+betrifft, durch den Kassenzettel oder die Scanliste in Bezug auf die gelieferten Güter ersetzt werden, 
+die dem in Absatz 1 erwähnten Dokument als Anlage beigefügt werden.Dieses Dokument wird spätestens 
+am fünfzehnten Tag des Monats nach dem Monat, in dem die Lieferung von Gütern bewirkt wurde, erstellt. 
+§ 2 - In Abweichung von § 1 darf eine zusammenfassende Aufstellung erstellt werden, in 
+der die im Laufe eines Monats vorgenommenen Verteilungen aufgenommen werden.Die zusammenfassende 
+Aufstellung enthält pro Verteilung von Gütern die in § 1 erwähnten Angaben mit Ausnahme der Daten, 
+an denen die Empfänger die Güter in Besitz genommen haben; diese Daten dürfen durch einen globalen Verweis 
+auf den Monat, auf den sich das Dokument bezieht, ersetzt werden.Die zusammenfassende Aufstellung 
+wird spätestens am fünfzehnten Tag des Monats nach dem Monat, in dem diese Verteilungen von Gütern vorgenommen 
+wurden, erstellt. § 3 - Das in § 1 erwähnte Dokument und die in § 2 erwähnte 
+zusammenfassende Aufstellung werden vom Empfänger der gelieferten Güter datiert und gegengezeichnet. 
+§ 4 - In den Artikeln 4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 erwähnte Verteilungsplattformen führen 
+ein Register, in dem sie die Güter, die ihnen geliefert worden sind, und die Güter, die sie an die in 
+den Artikeln 4 Absatz 1 und 8 Absatz 1 erwähnten Empfänger verteilt haben, vermerken.In dem 
+in Absatz 1 erwähnten Register vermerkt die Plattform für jedes erhaltene Gut:1. laufende Nummer,2. 
+Datum des Empfangs des Gutes,3. gebräuchliche Bezeichnung dieses Gutes oder Erkennungszeichen, 
+wenn es ein Erkennungszeichen hat,4. Name oder Gesellschaftsname, Adresse und Mehrwertsteueridentifikationsnummer 
+des Steuerpflichtigen oder gegebenenfalls der Plattform, der oder die das Gut geliefert hat,5. 
+Datum der Verteilung des Gutes,6. Name oder Gesellschaftsname, Adresse und Unternehmensnummer 
+des Empfängers,7. Betrag, der gegebenenfalls vom Empfänger als finanzieller Beitrag wie in 
+Artikel 10 § 2 Absatz 1 Nr. 3 erwähnt verlangt wird.Art. 13 - Der Minister der Finanzen 
+oder sein Beauftragter kann die Zulassung der in den Artikeln 4 Absatz 1 Nr. 4 und 8 Absatz 1 Nr. 3 erwähnten 
+Verteilungsplattform entziehen, wenn:1. diese Zulassung aufgrund unrichtiger Erklärungen erlangt 
+wurde,2. die Verteilungsplattform die in dieser Zulassung aufgenommenen Bedingungen oder Zusagen 
+nicht mehr erfüllt,3. die Verteilungsplattform die in Artikel 12 erwähnten Verpflichtungen 
+nicht mehr erfüllt.KAPITEL 3 - SchlussbestimmungenArt. 14 - Der Königliche Erlass 
+Nr. 59 vom 28. Mai 2019 über die Entnahme von Werbegeschenken von geringem Wert und von Lebensmitteln 
+für wohltätige Zwecke in Bezug auf die Mehrwertsteuer wird aufgehoben.Art. 15 - Kapitel 2 findet 
+Anwendung auf Güter, die im Hinblick auf ihre Aushändigung für wohltätige Zwecke ab dem Datum des Inkrafttretens 
+des vorliegenden Erlasses entnommen werden.Art. 16 - Vorliegender Erlass tritt am ersten Tag 
+des Monats nach Ablauf einer Frist von zehn Tagen, die am Tag nach seiner Veröffentlichung im Belgischen 
+Staatsblatt beginnt, in Kraft.Art. 17 - Der für Finanzen zuständige Minister ist mit der Ausführung 
+des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 18. Mai 2020PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-22Numac : 2020043234
+

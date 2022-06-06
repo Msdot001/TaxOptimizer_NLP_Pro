@@ -1,0 +1,107 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/27/2021041958/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-03Numac : 2021041958
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 27 MEI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot wijziging van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/047 van 17 december 2020 betreffende het verlenen van een handelshuurlening aan huurders in het kader van de COVID-19-gezondheidscrisis 
+De Brusselse 
+Hoofdstedelijke Regering,Gelet op de ordonnantie van 23 november 2020 tot toekenning van bijzondere 
+machten aan de Brusselse Hoofdstedelijke Regering naar aanleiding van de gezondheidscrisis ten gevolge 
+van COVID-19, artikel 2, § 1; Gelet op het bijzondere machtenbesluit van de Brusselse 
+Hoofdstedelijke Regering nr. 2020/047 van 17 december 2020 betreffende het verlenen van een handelshuurlening 
+aan huurders in het kader van de COVID-19-gezondheidscrisis, de artikelen 3, 7, 8, 9 en 18;Gelet 
+op artikel 2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 3 mei 2021;Gelet op het akkoord van 
+de Minister van Begroting, gegeven op 5 mei 2021;Gelet op het verzoek om spoedbehandeling, 
+gemotiveerd door de voortdurende gezondheidscrisis, die zowel rechtstreeks als onrechtstreeks via de 
+opgelegde veiligheidsmaatregelen een gevoelige impact heeft op de economische bedrijvigheid van veel 
+ondernemingen;Dat de moeilijkheden en de traagheid die inherent zijn aan de hervatting van 
+elke economische activiteit na een crisissituatie, dewelke een verhoging van het maximumbedrag van de 
+leningen en een grotere spreiding van de terugbetalingstermijnen vereisen;Gelet op het advies 
+69.360/3 van de Raad van State, gegeven op 17 Mei 2021, met toepassing van artikel 84, § 1, eerste 
+lid, 3 °,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op voorstel 
+van de Minister bevoegd voor Economie,Na beraadslaging,Besluit :Artikel 
+1. In artikel 3 van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/047 
+van 17 december 2020 betreffende het verlenen van een handelshuurlening aan huurders in het kader van 
+de COVID-19-gezondheidscrisis, wordt de bepaling onder 5°  vervangen als volgt:"5°  heeft op 
+het moment van de leningaanvraag geen achterstallige betalingen voor de huurgelden met betrekking tot 
+de periode voor 18 maart 2020 voor de betrokken Handelspanden.".Art. 2. In artikel 6, derde 
+lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  in de bepaling onder 
+4°  worden de woorden "30 juni 2021" vervangen door de woorden "31 oktober 2021";2°  in de 
+bepaling onder 5°  worden de woorden "geen achterstand was in de betaling van de huurgelden op" vervangen 
+door de woorden "op het moment van de leningaanvraag geen achterstallige betalingen zijn voor de huurgelden 
+met betrekking tot de periode voor".Art. 3. In artikel 7, vierde lid, van hetzelfde besluit, 
+wordt het getal "35.000" vervangen door het getal "75.000".Art. 4. In artikel 8, eerste lid, 
+van hetzelfde besluit, worden de volgende wijzigingen aangebracht:1°  het getal "18" wordt 
+vervangen door het getal "36";2°  het getal "6" wordt vervangen door het getal "24".Art. 
+5. In artikel 9, derde lid, van hetzelfde besluit worden de woorden "30 juni 2021" vervangen door de 
+woorden "15 november 2021".Art. 6.  § 1. De wijzigingen bedoeld in artikel 4 kunnen 
+van toepassing zijn op de Handelshuurleningen die werden toegekend voor de inwerkingtreding van dit besluit, 
+voor zover de Huurder daarmee instemt in een addendum bij de leningovereenkomst.BEW informeert 
+de Huurders die een Handelshuurlening hebben ontvangen voor de inwerkingtreding van dit besluit over 
+de mogelijkheid aangeboden door het eerste lid. Indien de Huurder daartoe verzoekt binnen de maand van 
+de verzending van de informatie, stuurt BEW hem een voorstel van addendum bij de leningovereenkomst door. 
+BEW ontvangt het addendum, ondertekend door de Huurder, binnen de maand van de verzending ervan. 
+§ 2. De wijzigingen bedoeld in artikel 4 kunnen van toepassing zijn op de Handelshuurleningen 
+waarvoor de aanvraag werd ingediend voor de inwerkingtreding van dit besluit, voor zover de Huurder daarmee 
+instemt.Art. 7. In afwijking van artikel 7, derde lid, van het bijzondere machtenbesluit van 
+de Brusselse Hoofdstedelijke Regering nr. 2020/047 van 17 december 2020 betreffende het verlenen van 
+een handelshuurlening aan huurders in het kader van de COVID-19-gezondheidscrisis, kan een Huurder voor 
+eenzelfde Handelspand een tweede aanvraag voor een Handelshuurlening indienen, als hij al een aanvraag 
+voor een Handelshuurlening heeft ingediend voor dat Handelspand voor de inwerkingtreding van dit besluit.Voorafgaand 
+aan de toekenning van de tweede lening wordt artikel 6 van het voormelde bijzondere machtenbesluit een 
+tweede keer uitgevoerd. De voorwaarden vervat in het derde lid, 2°  tot 4°,  van dat artikel zijn dan 
+van toepassing op de twee overeenkomsten bedoeld in dat artikel, samen beschouwd. De twee leningen 
+worden samen beschouwd voor de toepassing van de voorwaarden bedoeld in artikel 7 van het voormelde bijzondere 
+machtenbesluit.Art. 8. Dit besluit treedt in werking de dag na de bekendmaking ervan in het 
+Belgisch Staatsblad.Art. 9. De minister bevoegd voor Economie wordt belast met de uitvoering 
+van dit besluit.Brussel, 27 mei 2021.Voor de Brusselse Hoofdstedelijke Regering :De 
+Minister-president,R. VERVOORTDe Minister bevoegd voor Economie,A. MARONDe 
+Minister van Financiën en Begroting,S. GATZ   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-03Numac : 2021041958
+

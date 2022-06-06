@@ -1,0 +1,120 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/02/27/2020041260/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041260
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 27 FEBRUARI 2019. - Wet tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 wat de notie wettelijke pensioenleeftijd betreft. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van de wet van 27 februari 2019 tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 
+wat de notie wettelijke pensioenleeftijd betreft (Belgisch Staatsblad van 15 maart 2019).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN27. FEBRUAR 2019 - Gesetz zur Abänderung des Einkommensteuergesetzbuches 
+1992 in Bezug auf den Begriff "gesetzliches Ruhestandsalter" PHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen 
+und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung 
+erwähnte Angelegenheit.Art. 2 - Artikel 171 des Einkommensteuergesetzbuches 1992, zuletzt abgeändert 
+durch das Gesetz vom 6. Dezember 2018, wird wie folgt abgeändert:1. Nummer 2 Buchstabe b) wird 
+durch einen Gedankenstrich mit folgendem Wortlaut ergänzt:"- wie es sich um Kapitalien handelt, 
+die durch Arbeitgeber- oder Unternehmensbeiträge gebildet werden und zu Lebzeiten frühestens bei Erreichen 
+des Alters, in dem gemäß den geltenden Rechtsvorschriften in Sachen Pensionen die Bedingungen für 
+eine vollständige Laufbahn erfüllt sind, dem Empfänger, der mindestens bis zu diesem Alter tatsächlich 
+aktiv geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des Alters, in dem die Bedingungen 
+für eine vollständige Laufbahn erfüllt sind, wenn der Verstorbene bis zu diesem Alter tatsächlich aktiv 
+geblieben ist, ausgezahlt werden,".2. In Nr. 4 Buchstabe f) wird zwischen dem dritten und vierten 
+Gedankenstrich ein Gedankenstrich mit folgendem Wortlaut eingefügt:"- der Kapitalien, die durch 
+Arbeitgeber- oder Unternehmensbeiträge gebildet werden und zu Lebzeiten frühestens bei Erreichen des 
+Alters, in dem gemäß den geltenden Rechtsvorschriften in Sachen Pensionen die Bedingungen für eine 
+vollständige Laufbahn erfüllt sind, dem Empfänger, der mindestens bis zu diesem Alter tatsächlich aktiv 
+geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des Alters, in dem die Bedingungen 
+für eine vollständige Laufbahn erfüllt sind, wenn der Verstorbene bis zu diesem Alter tatsächlich aktiv 
+geblieben ist, ausgezahlt werden,".Art. 3 - Artikel 169 § 1 desselben Gesetzbuches, 
+zuletzt abgeändert durch das Gesetz vom 8. Mai 2014, wird wie folgt abgeändert:1. Absatz 3 
+wird wie folgt ersetzt:"In Abweichung von Absatz 1 werden Kapitalien von ergänzenden Pensionen, 
+die gemäß Artikel 52bis des Königlichen Erlasses Nr. 72 vom 10. November 1967 über die Ruhestands- 
+und Hinterbliebenenpensionen für Selbständige, so wie er in Kraft war, bevor er durch Artikel 70 des 
+Programmgesetzes vom 24. Dezember 2002 ersetzt wurde, zuerkannt werden, oder von ergänzenden Pensionen 
+erwähnt in Titel II Kapitel 1 Abschnitt 4 des Programmgesetzes vom 24. Dezember 2002 für die Festlegung 
+der steuerpflichtigen Grundlage nur bis zum Betrag der Leibrente berücksichtigt, die aus der Umwandlung 
+von 80 Prozent dieser Kapitalien entsprechend Koeffizienten, die in Absatz 1 erwähnt sind, hervorgehen 
+würde, in dem Maße, wie sie:entweder zu Lebzeiten frühestens bei Erreichen des gesetzlichen 
+Ruhestandsalters dem Empfänger, der mindestens bis zu diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt 
+werden oder im Todesfall nach Erreichen des gesetzlichen Ruhestandsalters, wenn der Verstorbene bis zu 
+diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt werdenoder zu Lebzeiten frühestens 
+bei Erreichen des Alters, in dem gemäß den geltenden Rechtsvorschriften in Sachen Pensionen die 
+Bedingungen für eine vollständige Laufbahn erfüllt sind, dem Empfänger, der mindestens bis zu diesem 
+Alter tatsächlich aktiv geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des Alters, 
+in dem die Bedingungen für eine vollständige Laufbahn erfüllt sind, wenn der Verstorbene bis zu diesem 
+Alter tatsächlich aktiv geblieben ist, ausgezahlt werden."2. Absatz 4 wird wie folgt ersetzt:"In 
+Abweichung von Absatz 2 wird der erste Teilbetrag, auf den die Umwandlungsregelung anwendbar ist, nur 
+zu 80 Prozent berücksichtigt, wenn die in diesem Absatz erwähnten Kapitalien:entweder zu Lebzeiten 
+frühestens bei Erreichen des gesetzlichen Ruhestandsalters dem Empfänger, der mindestens bis zu diesem 
+Alter tatsächlich aktiv geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des gesetzlichen 
+Ruhestandsalters, wenn der Verstorbene bis zu diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt 
+werdenoder zu Lebzeiten frühestens bei Erreichen des Alters, in dem gemäß den geltenden 
+Rechtsvorschriften in Sachen Pensionen die Bedingungen für eine vollständige Laufbahn erfüllt sind, dem 
+Empfänger, der mindestens bis zu diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt werden oder 
+im Todesfall nach Erreichen des Alters, in dem die Bedingungen für eine vollständige Laufbahn erfüllt 
+sind, wenn der Verstorbene bis zu diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt werden."Art. 
+4 - In Artikel 515bis Absatz 7 desselben Gesetzbuches werden die Wörter "zu Lebzeiten frühestens bei 
+Erreichen des gesetzlichen Ruhestandsalters dem Empfänger, der mindestens bis zu diesem Alter tatsächlich 
+aktiv geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des gesetzlichen Ruhestandsalters, 
+wenn der Verstorbene bis zu diesem Alter tatsächlich aktiv geblieben ist, ausgezahlt werden" durch die 
+Wörter "zu Lebzeiten frühestens entweder bei Erreichen des gesetzlichen Ruhestandsalters oder bei Erreichen 
+des Alters, in dem gemäß den geltenden Rechtsvorschriften in Sachen Pensionen die Bedingungen für 
+eine vollständige Laufbahn erfüllt sind, dem Empfänger, der mindestens bis zu einem dieser Alter tatsächlich 
+aktiv geblieben ist, ausgezahlt werden oder im Todesfall nach Erreichen des gesetzlichen Ruhestandsalters 
+beziehungsweise nach Erreichen des Alters, in dem die Bedingungen für eine vollständige Laufbahn erfüllt 
+sind, wenn der Verstorbene bis zu einem dieser Alter tatsächlich aktiv geblieben ist, ausgezahlt werden" 
+ersetzt.Art. 5 - Vorliegendes Gesetz wird wirksam mit 1. Januar 2019 und ist auf die ab dem 
+1. Januar 2019 getätigten Zahlungen von Kapitalien anwendbar.Wir fertigen das vorliegende Gesetz 
+aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 27. Februar 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041260
+

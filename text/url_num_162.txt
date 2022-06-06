@@ -1,0 +1,339 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/11/2020041702/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-18Numac : 2020041702
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 11 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 23 betreffende de annulering van de externe proeven die met een getuigschrift bekrachtigd worden in het kader van de COVID-19-crisis 
+De Regering van de Franse Gemeenschap,Gelet op het decreet van 17 
+maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis 
+in verband met het COVID-19 coronavirus, artikel 1, § 1, f);Gelet op het decreet van 
+2 juni 2006 betreffende de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs 
+en het getuigschrift van basisonderwijs na het lager onderwijs;Overwegende de hoogdringendheid 
+ingegeven door de noodzaak om de Franse Gemeenschap in staat te stellen vóór het einde van het schooljaar 
+te reageren op de maatregelen genomen in het kader van de bestrijding van de pandemie van COVID-19, in 
+toepassing van artikel 1, §  1, f) van het decreet van 17 maart 2020 tot toekenning van bijzondere 
+machten aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus:- 
+door de eisen voor evaluatie en bekrachtiging van studies aan te passen na de opschorting van lessen 
+en leeractiviteiten;- door het einde van het schooljaar in deze uitzonderlijke omstandigheden 
+te organiseren;- door een ernstig gevaar voor alle leerlingen te vermijden, zonder discriminatie, 
+door hen in staat te stellen om, in voorkomend geval, het getuigschrift van basisonderwijs (CEB), het 
+getuigschrift van het secundair onderwijs van de eerste graad (CE1D) en het getuigschrift van hoger secundair 
+onderwijs (CESS) te behalen, met het oog op de voortzetting van hun schoolcursus of het begin van hun 
+academische cursus;- door alle leerlingen en hun ouders in staat te stellen om zo snel mogelijk 
+te weten te komen hoe ze het CEB, CE1D en CESS kunnen verkrijgen, zodat ze de bestaande angstsituatie 
+kunnen verlichten en zo het einde van het schooljaar in een rustige omgeving tegemoet kunnen treden;Gelet 
+op het advies nr. 67.414/2 van de Raad van State, gegeven op 20 mei 2020, met toepassing van artikel 
+84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's en studiegetuigschriften;Overwegende 
+het decreet van 25 april 2008 tot vaststelling van de voorwaarden om te kunnen voldoen aan de leerplicht 
+buiten het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap, hoofdstuk III ;Overwegende 
+het decreet van 27 oktober 2016 houdende organisatie van de examencommissies van de Franse Gemeenschap 
+voor het gewoon secundair onderwijs;Overwegende het decreet van 10 januari 2019 betreffende 
+de algemene inspectiedienst, artikel 4, § 5 en § 6, 5°  ;Overwegende het ministerieel 
+besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, zoals gewijzigd op 25 mei 2020, inzonderheid het artikel 6 betreffende de schorsing van 
+de lessen en activiteiten in het kleuter-, lager en het secundair onderwijs;Overwegende dat 
+de Regering van de Franse Gemeenschap op 7 april 2020 de Minister van Onderwijs heeft opgedragen om, 
+in geval van verlenging van de schorsing van de lessen na 19 april 2020, haar in eerste lezing de ontwerpen 
+van besluiten voor te leggen die nodig zijn voor de annulering van de externe proeven die met een getuigschrift 
+bekrachtigd worden (CEB, CE1D en CESS), de aanpassing van de beroepsprocedures en het identificeren van 
+alle specifieke situaties die bijkomende acties vereisen;Overwegende dat de Regering op 7 april 
+2020 heeft beslist de externe proeven die met een getuigschrift bekrachtigd worden te annuleren indien 
+de schorsing van de lessen na 19 april 2020 zou voortduren, en dit om de volgende redenen :- 
+de gemeenschappelijke externe proeven die met een getuigschrift bekrachtigd worden werden voor het begin 
+van de gezondheidscrisis ontworpen op basis van een volledig cursus en mogen niet meer worden aangepast 
+aan het leerproces in dit schooljaar;- de verschillende volgorde waarin elke school de vakken 
+benadert, maakt het niet mogelijk de inhoud van de proeven te wijzigen om de beheersing van de verwachte 
+vaardigheden te beoordelen zonder zich te baseren op inhouden die niet worden gezien;- de tijd 
+die gewoonlijk wordt besteed aan tests en proeven kan nuttig worden gerecupereerd om het leerverlies 
+tijdens de periode van inperking in te halen;- De huidige en toekomstige maatregelen die worden 
+genomen om de verspreiding van het virus in de bevolking te beperken, niet alleen tijdens de verbodsperiode 
+maar ook in de weken daarna, zijn van dien aard dat zij de organisatie van de gemeenschappelijke externe 
+proeven die met een getuigschrift bekrachtigd worden verhinderen;- de bovenvermelde omstandigheden 
+maken het uiterst moeilijk of zelfs onmogelijk om in elk van de vestigingen van de Federatie Wallonië-Brussel 
+maatregelen te organiseren voor de sociale afstand en het onthaal van het betrokken publiek;Gezien 
+dat overeenkomstig :- artikel 29, § 5, van het decreet van 2 juni 2006 betreffende de 
+externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en het getuigschrift 
+van basisonderwijs na het lager onderwijs, in geval van annulering door de Regering van de gemeenschappelijke 
+externe proeven die met een getuigschrift bekrachtigd worden, de examencommissie binnen de school is 
+bevoegd om het CEB af te geven aan alle leerlingen ingeschreven in het zesde leerjaar van het basisonderwijs 
+van het gewone onderwijs en dat de klassenraad bevoegd is om het CEB af te geven aan leerlingen van het 
+gespecialiseerd onderwijs ingeschreven op grond van artikel 20, tweede lid, van hetzelfde decreet en 
+aan leerlingen van de eerste graad van het secundair onderwijs het getuigschrift van basisonderwijs moeten 
+afleggen- artikel 36/9, § 4, van hetzelfde decreet, in geval van annulering door de 
+Regering van de gemeenschappelijke externe proeven die met een getuigschrift bekrachtigd worden, de klassenraad 
+is bevoegd om het CE1D af te geven op het einde van de derde fase van het pedagogisch continuüm;- 
+artikel 36/11/1, § 4, van hetzelfde decreet, in geval van annulering door de Regering van de gemeenschappelijke 
+externe proeven die met een getuigschrift bekrachtigd worden, de klassenraad is bevoegd om het CESS af 
+te geven, om de leerlingen in staat te stellen hun schoolcursus voort te zetten;Overwegende 
+dat om het beginsel van billijkheid en gelijke behandeling tussen de leerlingen op het gebied van het 
+leren na te leven, de examencommissie binnen de school of de klassenraad de beslissing om het CEB af 
+te geven of te weigeren of, voor wat betreft het CE1D of het CESS de beslissing over de beheersing van 
+de verwachten vaardigheden voor de betrokken materie(s), niet mag baseren op de resultaten van samenvattende 
+evaluaties georganiseerd in de vorm van een examenzitting op het einde van het schooljaar en werken uitgevoerd 
+tijdens de periode van schorsing van de lessen;Overwegende dat deze elementen in het dossier 
+van de leerling nadelig zouden zijn voor degenen die om verschillende redenen zwaarder zouden worden 
+getroffen door de schorsing van de lessen;Overwegende dat de Franse Gemeenschap, overeenkomstig 
+de titels III en III/1 van bovengenoemd decreet van 2 juni 2006, de in artikel 20, tweede, en artikel 
+36, tweede, van hetzelfde decreet bedoelde leerlingen die zich individueel voor de proeven inschrijven, 
+moet toestaan het CEB, respectievelijk het CE1D te behalen, zodat zij hun schoolcursus kunnen voortzetten;Overwegende 
+dat voor de leerlingen die individueel zijn ingeschreven voor de gemeenschappelijke externe proef die 
+met het CEB bekrachtigd wordt overeenkomstig artikel 20, tweede lid, van bovengenoemd decreet van 2 juni 
+2006, niet in een alternatief is voorzien in geval van annulering van de proef en dat het dus noodzakelijk 
+is om regels vast te stellen om hen in staat te stellen het genoemde getuigschrift te kunnen behalen;Overwegende 
+dat deze leerlingen ofwel:- zijn ingeschreven in het gespecialiseerd onderwijs ;- 
+zijn ingeschreven in scholen met een Belgisch programma in het buitenland ;- zijn ingeschreven 
+in privéscholen of huisonderwijs volgen;- zijn ingeschreven in basisscholen in faciliteitengemeenten;- 
+11 jaar oud zijn op 31 december van het jaar van de proef en en die niet voldoen aan de voorwaarden om 
+door hun school te worden ingeschreven overeenkomstig artikel 20, eerste, van bovengenoemd decreet van 
+2 juni 2006;- verblijven in een openbare instelling van jeugdbescherming;Overwegende 
+dat het leerplan van de bovengenoemde leerlingen ook is beïnvloed door de inperking en dat het om redenen 
+van billijkheid en gelijke behandeling niet mogelijk is om hen de gemeenschappelijke externe proef te 
+laten afleggen, zoals oorspronkelijk was gepland voor het schooljaar 2019-2020;Overwegende 
+dat, overeenkomstig artikel 23, eerste lid, van bovengenoemd decreet van 2 juni 2006, de alternatieve 
+gemeenschappelijke externe proef ook is ontwikkeld op basis van een volledig cursus en dat deze proef 
+om dezelfde redenen die hierboven zijn vermeld, dus niet kan worden gebruikt;Overwegende dat 
+de bestaande overgangsmogelijkheden in het decreet van 30 juni 2006 betreffende de pedagogische organisatie 
+van de eerste graad van het secundair onderwijs niet bevredigend zijn in die zin dat ze:- niet 
+alle leerlingen toelaten om zich in het eerste gemeenschappelijk leerjaar in te schrijven;- 
+niet geschikt zijn voor leerlingen van 11 jaar oud die in een klas boven zitten en die over het algemeen 
+over een hoog potentieel beschikken- de leerlingen niet toestaan hun schoolcursus voort te 
+zetten in een school die niet door de Franse Gemeenschap wordt georganiseerd of gesubsidieerd;Overwegende 
+dat de enige oplossing om deze leerlingen in staat te stellen het CEB te behalen en hun schoolcursus 
+gewoon voort te zetten, is hen het genoemde getuigschrift toe te kennen op basis van een specifieke externe 
+evaluatie die is aangepast aan de omstandigheden;Overwegende dat het derhalve noodzakelijk 
+is dat de Regering de Algemene Inspectiedienst belast met het ontwerpen van een specifieke externe evaluatie 
+met het oog op het verkrijgen van het CEB;Overwegende dat deze taken worden toevertrouwd aan 
+de Algemene Inspectiedienst overeenkomstig artikel 4, § 6, 5°,  van het decreet van 10 januari 
+2019 betreffende de Algemene Inspectiedienst, dat de Inspectiediensten toestaat alle andere taken uit 
+te voeren die hun bij of krachtens de wetten, decreten en reglementen zijn toevertrouwd;Overwegende 
+dat de Algemene Inspectiedienst overeenkomstig artikel 4, § 5, van voormeld decreet van 10 januari 
+2019 reeds gemachtigd is om opdrachten van pedagogische expertise uit te voeren in het kader van het 
+ontwerpen van externe proeven die met een getuigschrift bekrachtigd worden, en dat hij over de nodige 
+pedagogische vaardigheden beschikt;Overwegende dat na de vaststelling van de specifieke externe 
+evaluatie moet worden voorzien in procedures voor het afleggen, verbeteren en beveiligen,Overwegende 
+dat alleen de bij artikel 26 van bovengenoemd decreet van 2 juni 2006 ingestelde examencommissie het 
+getuigschrift van basisonderwijs kan afgeven aan leerlingen die individueel zijn ingeschreven voor de 
+gemeenschappelijke externe proef die met het CEB bekrachtigd wordt, en dat deze examencommissie derhalve 
+moet worden opgericht om het genoemde getuigschrift af te geven na het slagen van de specifieke externe 
+proef die de leerlingen aan het einde van het schooljaar 2019-2020 hebben afgelegd;Overwegende 
+dat het besluit van de Regering van de Franse Gemeenschap van 21 maart 2018 tot vaststelling van de gelijkwaardigheid 
+tussen sommige getuigschriften van de "Ecole à programmes" van de Franse Gemeenschap van België in Casablanca 
+en sommige getuigschriften van het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap 
+genomen ter uitvoering van de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse 
+diploma's en studiegetuigschriften, de leerlingen ingeschreven in de in deze paragraaf vermelde Belgische 
+"Ecole à programmes" in staat stelt de gelijkwaardigheid van hun buitenlands diploma te verkrijgen;Overwegende 
+dat het besluit van de Regering van de Franse Gemeenschap van 12 juni 2019 tot vaststelling van de gelijkwaardigheid 
+van het getuigschrift van het basisonderwijs van de "Ecole à programmes de la Communauté française de 
+Belgique du Burundi", de "Ecole à programmes de la Communauté française de Belgique de Kigali", de "Ecole 
+à programmes de la Communauté française de Belgique de Lubumbashi" en van de "Ecole à programmes de la 
+Communauté française de Belgique du "Lycée Prince de Liège de Kinshasa" " met het getuigschrift van het 
+basisonderwijs van het door de Franse Gemeenschap georganiseerd en gesubsidieerd onderwijs genomen ter 
+uitvoering van de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's 
+en studiegetuigschriften, de leerlingen ingeschreven in de in deze paragraaf vermelde Belgische "Ecoles 
+à programmes" in staat stelt de gelijkwaardigheid van hun buitenlands diploma te verkrijgen;Overwegende 
+dat de leerlingen die huisonderwijs volgen of in een privéschool zijn ingeschreven, zich moeten inschrijven 
+voor de proeven die met het oog op het behalen van het CE1D en het CESS worden georganiseerd door de 
+examencommissie bedoeld in het decreet van 27 oktober 2016 houdende organisatie van de examencommissies 
+van de Franse Gemeenschap voor het gewoon secundair onderwijs;Overwegende dat, met toepassing 
+van artikel 19 van het decreet van 25 april 2008 tot vaststelling van de voorwaarden om te kunnen voldoen 
+aan de leerplicht buiten het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap, ten 
+laatste gedurende het schooljaar waarin hij de leeftijd van 14 jaar zal bereiken, de verantwoordelijke 
+personen de leerplichtige minderjarige die thuis les volgt, inschrijven voor de examens ingericht voor 
+het behalen van de oriëntatieattesten voor de eerste graad krachtens het decreet van 27 oktober 2016 
+houdende organisatie van de examencommissies van de Franse Gemeenschap van het gewoon secundair onderwijs;Overwegende 
+dat, om dezelfde redenen als die welke in het kader van het CEB worden aangevoerd, de Algemene Inspectiedienst 
+ook moet worden verzocht de Directie van de examencommissies voor het secundair onderwijs te ondersteunen 
+bij het opstellen van specifieke externe evaluaties in de in artikel 36/3, vierde en vijfde lid, van 
+bovengenoemd decreet van 2 juni 2006 bedoelde materies, met het oog op het behalen van het getuigschrift 
+van het secundair onderwijs van de eerste graad aan het einde van de derde fase van het pedagogisch continuüm;Overwegende 
+dat het genummerde besluit in werking zal treden op de dag waarop zij wordt aangenomen, omdat deze maatregelen 
+zo snel mogelijk vóór het einde van het schooljaar moeten worden aangenomen en omdat de aangenomen bepalingen 
+zo snel mogelijk aan het betrokken publiek moeten worden meegedeeld, zodat het zich in alle rust kan 
+voorbereiden en het einde van het schooljaar sereen kan aanpakken. In dit opzicht leeft dit decreet de 
+voorwaarden na die worden opgelegd door de rechtspraak van de Raad van State en het Grondwettelijk Hof 
+betreffende de terugwerkende kracht van de reglementaire bepalingen in het licht van de uitzonderlijke 
+omstandigheden die tot de vaststelling ervan hebben geleid en de verwezenlijking van een doelstelling 
+van algemeen belang, zoals het recht op onderwijs, het recht van elk kind op maatregelen en diensten 
+die bijdragen tot zijn ontwikkeling, alsook het primordiale belang van het kind;Overwegende 
+dat overeenkomstig artikel 3 van het decreet van 17 maart 2020 tot toekenning van bijzondere machten 
+aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus, de besluiten 
+bedoeld in artikel 1 kunnen worden aangenomen zonder dat eerst de wettelijk of reglementair vereiste 
+adviezen, raadplegingen en onderhandelingen worden ingewonnen of georganiseerd, maar dat zij nochtans 
+worden aangenomen na het advies van de afdeling Wetgeving van de Raad van State te hebben ingewonnen, 
+tenzij deze laatste aangeeft dat zij niet in staat is om binnen een termijn van vijf dagen haar advies 
+mee te delen;Overwegende de « gendertest » van 6 mei 2020 uitgevoerd met toepassing van artikel 
+4, tweede lid, 1°,  van het decreet van 7 januari 2016 houdende integratie van de genderdimensie in het 
+geheel van de beleidslijnen van de Franse Gemeenschap;Op de voordracht van de Minister van 
+Onderwijs ; Na beraadslaging,Besluit : HOOFDSTUK I. - DefinitiesArtikel 
+1. Voor de toepassing van dit besluit wordt verstaan onder:1°  « Het decreet externe evaluatie 
+» : het decreet van 2 juni 2006 betreffende de externe evaluatie van de verworven kennis van leerlingen 
+van het leerplichtonderwijs en het getuigschrift van basisonderwijs na het lager onderwijs;2° 
+ « de examencommissie binnen de school » : de examencommissie bedoeld in artikel 28, § 1, van 
+het decreet externe evaluatie ;3°  « de examencommissie artikel 26 » : de examencommissie bedoeld 
+in artikel 26, van het decreet externe evaluatie.HOOFDSTUK II. - De toekenning van het getuigschrift 
+van basisonderwijsArt. 2. Voor het schooljaar 2019-2020 wordt de gemeenschappelijke externe 
+proef georganiseerd met het oog op het behalen van het getuigschrift van basisonderwijs, zoals bepaald 
+in titel III van het decreet externe evaluatie, geannuleerd.Art. 3. In afwijking van artikel 
+29, § 5, vierde lid, van het decreet externe evaluatie, mogen voor het schooljaar 2019-2020 de 
+nuttige elementen die als basis voor de beslissing over de toekenning of weigering van het getuigschrift 
+van basisonderwijs, in het dossier van de leerling worden opgenomen door de examencommissie binnen de 
+school of door de klassenraad van de inrichtingen voor gespecialiseerd onderwijs waarvan leerlingen moesten 
+deelnemen aan de gemeenschappelijke externe proef, in toepassing van artikel 28, § 3 van het decreet 
+externe evaluatie of, in het geval van een gemeenschappelijke externe proef die door leerlingen van de 
+eerste graad van het secundair onderwijs moest worden afgelegd, geen betrekking hebben op:a) 
+de resultaten van de samenvattende evaluaties die in de vorm van een examenzitting op het einde van het 
+schooljaar worden georganiseerd;b) de resultaten van de samenvattende evaluaties in het kader 
+van het huiswerk dat door de leerling moest worden uitgevoerd tijdens de periode van schorsing van de 
+lessen en activiteiten, zoals vastgesteld bij het ministerieel besluit van 23 maart 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, of bij elk ander besluit dat 
+daarvoor in de plaats komt. De positieve betrokkenheid bij de voltooiing van dit werk kan echter het 
+voorwerp uitmaken van een algemene beoordeling ten behoeve van de leerling.Art. 4. Voor het 
+schooljaar 2019-2020 is de Algemene Inspectiedienst verantwoordelijk voor het ontwerpen van een specifieke 
+externe evaluatie met het oog op het behalen van het getuigschrift van basisonderwijs.De specifieke 
+externe evaluatie is toegankelijk voor studenten die aan de volgende cumulatieve voorwaarden voldoen:1. 
+vóór 30 april 2020 ingeschreven zijn voor de gemeenschappelijke externe proef op grond van artikel 20, 
+tweede lid, van het decreet externe evaluatie;2. niet ingeschreven zijn in het 6e leerjaar 
+basisonderwijs in een door de Franse Gemeenschap gesubsidieerde of georganiseerde onderwijsinrichting;3. 
+niet ingeschreven zijn voor de gemeenschappelijke externe proef door een inrichting voor gespecialiseerd 
+onderwijs gesubsidieerd of georganiseerd door de Franse Gemeenschap;4. niet ingeschreven zijn 
+in een buitenlandse « Ecole à programmes » van de Franse Gemeenschap waarvan de diploma's en getuigschriften 
+overeenkomstig de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's 
+en studiegetuigschriften een beslissing tot gelijkwaardigheid genieten.Art. 5. In afwijking 
+van artikel 28, § 4, van het decreet externe evaluatie geeft de examencommissie artikel 26 voor 
+het schooljaar 2019-2020 het getuigschrift van basisonderwijs af aan de leerling die door annulering 
+ervan niet kon deelnemen aan de gemeenschappelijke externe proef en die geslaagd is voor de specifieke 
+externe evaluatie bedoeld in artikel 4 van dit besluit.Art. 6.  § 1. De beslissing om 
+het getuigschrift van basisonderwijs al dan niet toe te kennen moet per aangetekende brief of per e-mail 
+met ontvangstbevestiging aan de ouders van de leerling of aan de persoon met het ouderlijk gezag tegen 
+ten laatste 30 juni 2020 worden meegedeeld door:- de examencommissie in het geval bedoeld in 
+artikel 29, §  5, van het decreet externe evaluatie;- de klassenraad in de inrichtingen 
+voor gespecialiseerd onderwijs waarvan leerlingen zouden deelnemen aan de gemeenschappelijke externe 
+proef in toepassing van artikel 28, § 3, van het decreet externe evaluatie, of in het geval van 
+een gemeenschappelijke externe proef die zou worden afgelegd door leerlingen van de eerste graad van 
+het secundair onderwijs;- de examencommissie artikel 26 voor de leerlingen bedoeld in artikel 
+4, tweede lid, van dit besluit. § 2. Wanneer de examencommissie in de school of de klassenraad 
+weigert het getuigschrift van basisonderwijs af te geven, stuurt de directie van de school of haar afgevaardigde 
+de ouders van de leerling of de persoon met het ouderlijk gezag onverwijld een kopie van het dossier 
+van de leerling, met inbegrip van met name:1°  de met redenen omklede beslissing van de examencommissie 
+in de school of de klassenraad;2°  een kopie van de schoolrapporten voor de laatste twee jaar 
+van het basisonderwijs van de leerling;3°  een gedetailleerd verslag van de onderwijzer of 
+de klassenleraar met een gunstig of ongunstig advies over de toekenning van het getuigschrift van basisonderwijs 
+aan de betrokken leerling.De kopie van het dossier wordt per e-mail of per post of tijdens 
+het gesprek met de directie van de school meegedeeld, waarbij aan de ouders of de persoon met het ouderlijk 
+gezag wordt uitgelegd waarom het getuigschrift van basisonderwijs niet aan hun kind kon worden uitgereikt.HOOFDSTUK 
+III. - Nadere regels voor het afleggen, verbeteren en beveiligen van de specifieke externe evaluatie 
+die met het getuigschrift van basisonderwijs wordt bekrachtigdArt. 7. De specifieke externe 
+evaluatie vindt plaats op 22 en 23 juni 2020. De evaluatie is gespreid over twee ochtenden en bestaat 
+uit 8 periodes van elk 50 minuten.Art. 8. De in artikel 4, tweede lid, bedoelde leerlingen 
+worden 15 kalenderdagen voor de beoordeling per post opgeroepen. In de uitnodiging worden de plaatsen, 
+data en tijdstippen van het afleggen van de beoordeling vermeld.Art. 9. De Algemene Inspectiedienst 
+is verantwoordelijk van het toezicht op het afleggen van de evaluaties.Art. 10. De keuze van 
+de plaats waar de specifieke externe evaluatie door de in artikel 4, tweede lid, bedoelde leerling moet 
+worden afgelegd, is het prerogatief van de Algemene Inspectiedienst.Art. 11. De Algemene Inspectiedienst 
+zorgt voor de bijzondere aanpassingen voor het afleggen voor de leerlingen met zintuiglijke en/of motorische 
+gebreken, leermoeilijkheden of mentale achterstand.Art. 12. De verbetering van de specifieke 
+externe evaluatie wordt uitgevoerd door de Algemene Inspectiedienst en vindt plaats in de namiddagen 
+van de dagen waarop de evaluaties gebeuren.De verbetering wordt uitgevoerd op basis van verbeteringsroosters 
+die gemeenschappelijk zijn voor de gehele Algemene Inspectiedienst.Art. 13. De leden van de 
+diensten van de Regering van de Franse Gemeenschap en van de Algemene Inspectiedienst zijn gebonden aan 
+het beroepsgeheim met betrekking tot de inhoud van de specifieke externe evaluatie.De leden 
+van de diensten van de Regering van de Franse Gemeenschap en van de Algemene Inspectiedienst zijn gebonden 
+aan het beroepsgeheim met betrekking tot de inhoud van de specifieke externe evaluatie.Elke 
+ambtenaar die de inhoud van de specifieke externe evaluatie geheel of gedeeltelijk openbaar maakt voordat 
+deze door de leerlingen is voltooid - met uitzondering van door de Regering toegestane mededelingen - 
+begaat een overtreding. In geval van een overtreding is artikel 458 van het Strafwetboek van toepassing.HOOFDSTUK 
+IV. - Beroepen tegen beslissingen tot weigering van toekenning van het getuigschrift van basisonderwijsArt. 
+14.  § 1. In afwijking van artikel 32, § 1, eerste lid, en § 2, eerste lid, van 
+het decreet externe evaluatie kunnen voor het schooljaar 2019-2020 het beroep tegen de weigering van 
+toekenning van het getuigschrift van basisonderwijs, gericht aan de administrateur-generaal van het Onderwijs, 
+en de kopie van het beroep gericht aan het directeur van de inrichting, hetzij per aangetekende brief, 
+hetzij per e-mail, worden verzonden. § 2. De Administrateur-generaal van het onderwijs 
+of zijn afgevaardigde moet voor elk ingesteld beroep een ontvangstbevestiging geven, via elektronische 
+weg of via de gewone post.HOOFDSTUK V. - Toekenning van het getuigschrift van het secundair 
+onderwijs van de eerste graad op het einde van de derde fase van het pedagogisch continuümArt. 
+15. Voor het schooljaar 2019-2020 worden de gemeenschappelijke externe proeven die met een getuigschrift 
+bekrachtigd worden voor de toekenning van het getuigschrift van de eerste graad van het secundair onderwijs 
+op het einde van de derde fase van het pedagogisch continuüm, zoals bepaald in titel III/1 van het decreet 
+externe evaluatie, geannuleerd.Art. 16. Voor het schooljaar 2019-2020 is de Algemene Inspectiedienst 
+belast met de ondersteuning van de Directie die belast is met de organisatie van de examencommissies 
+bedoeld in het decreet van 27 oktober 2016 houdende organisatie van de examencommissies van de Franse 
+Gemeenschap voor het gewoon secundair onderwijs voor het opstellen van specifieke externe evaluaties 
+in de materies bedoeld in artikel 36/3, vierde en vijfde lid, van het decreet externe evaluatie, met 
+het oog op het behalen van het getuigschrift van de eerste graad van het secundair onderwijs op het einde 
+van de derde fase van het pedagogisch continuüm.Art. 17. In afwijking van artikel 36/9, § 
+4, lid 4, van het decreet externe evaluatie mogen voor het schooljaar 2019-2020 de nuttige elementen 
+die de klassenraad in het dossier van de leerling heeft opgenomen om zijn beslissing te baseren op de 
+beheersing van de voor de betrokken materie(s) verwachte vaardigheden, geen betrekking hebben op:a) 
+de resultaten van de samenvattende evaluaties die in de vorm van een examenzitting op het einde van het 
+schooljaar worden georganiseerd;b) de resultaten van de samenvattende evaluaties in het kader 
+van het huiswerk dat door de leerling moest worden uitgevoerd tijdens de periode van schorsing van de 
+lessen en activiteiten, zoals vastgesteld bij het ministerieel besluit van 23 maart 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, of bij elk ander besluit dat 
+daarvoor in de plaats komt. De positieve betrokkenheid bij de voltooiing van dit werk kan echter het 
+voorwerp uitmaken van een algemene beoordeling ten behoeve van de leerling.HOOFDSTUK VI. - 
+Toekenning van het getuigschrift van hoger secundair onderwijsArt. 18. Voor het schooljaar 
+2019-2020 worden de gemeenschappelijke externe proeven die met een getuigschrift bekrachtigd worden voor 
+de toekenning van het getuigschrift van hoger secundair onderwijs, zoals bepaald in titel III/1 van het 
+decreet externe evaluatie, geannuleerd.Art. 19. In afwijking van artikel 36/11/1, § 
+4, vierde lid, van het decreet externe evaluatie mogen voor het schooljaar 2019-2020 de nuttige elementen 
+die de klassenraad in het dossier van de leerling heeft opgenomen om zijn beslissing te baseren op de 
+beheersing van de voor de betrokken materie(s) verwachte vaardigheden, geen betrekking hebben op :a) 
+de resultaten van de samenvattende evaluaties die in de vorm van een examenzitting op het einde van het 
+schooljaar worden georganiseerd;b) de resultaten van de samenvattende evaluaties in het kader 
+van het huiswerk dat door de leerling moest worden uitgevoerd tijdens de periode van schorsing van de 
+lessen en activiteiten, zoals vastgesteld bij het ministerieel besluit van 23 maart 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, of bij elk ander besluit dat 
+daarvoor in de plaats komt. De positieve betrokkenheid bij de voltooiing van dit werk kan echter het 
+voorwerp uitmaken van een algemene beoordeling ten behoeve van de leerling.HOOFDSTUK VII. - 
+SlotbepalingenArt. 20. Dit besluit treedt in werking de dag waarop het wordt aangenomen.Art. 
+21. De Minister van Onderwijs wordt belast met de uitvoering van dit besluit.Brussel, 11 juni 
+2020.De Minister-President,P.-Y. JEHOLETDe Minister van Onderwijs,C. 
+DESIR   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-18Numac : 2020041702
+

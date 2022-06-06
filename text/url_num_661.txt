@@ -1,0 +1,60 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-09Numac : 2021032818
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 11 JULI 2021. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de vrijstelling van de belasting inzake medische verzorging betreft. - Errata 
+In het Belgisch 
+Staatsblad van 20 juli 2021, nr. 200, akte nr. 2021/31804, bladzijden 71593 en 71594:- op bladzijde 
+71593, in de inleidende zin van artikel 3, 2°,  dient "paragraaf 2, 1° " te worden gelezen in plaats 
+van "paragraaf 2, eerste lid, 1° ";- op bladzijde 71594, in artikel 44, § 2, 1°,  a), 
+derde lid, tweede streepje, van het Wetboek van de belasting over de toegevoegde waarde, dient "handelingen 
+van commerciële ondernemingen;" te worden gelezen in plaats van "handelingen van commerciële ondernemingen.". 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-09Numac : 2021032818
+

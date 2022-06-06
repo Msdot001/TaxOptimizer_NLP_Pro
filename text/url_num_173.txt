@@ -1,0 +1,91 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/11/2020015038/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-24Numac : 2020015038
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 11 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 20 genomen ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus, tot goedkeuring van de aanpassing van de aangepaste begroting van het Overheidsbedrijf voor de Nieuwe Informatie- en Communicatietechnologieën van de Franse Gemeenschap voor het begrotingsjaar 2020 
+De Regering van de Franse Gemeenschap,Gelet 
+op de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut, zoals gewijzigd 
+;Gelet op het decreet van 25 oktober 2018 betreffende het "Entreprise publique des Technologies 
+nouvelles de l'Information et de la Communication de la Communauté française (ETNIC)" (Overheidsbedrijf 
+voor Nieuwe Informatie- en Communicatietechnologieën van de Franse Gemeenschap);Gelet op het 
+decreet van de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2020 van 18 december 
+2019;Gelet op het decreet van 18 december 2019 houdende de uitgavenbegroting van de Franse 
+Gemeenschap voor het begrotingsjaar 2020, artikel 38, tweede lid;Gelet op het decreet van 17 
+maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis 
+in verband met het COVID-19 coronavirus;Gelet op het besluit van de Regering van de Franse 
+Gemeenschap van 7 april 2020 houdende bijzondere machten nr. 2 van de Regering van de Franse Gemeenschap 
+tot oprichting van een nood- en steunfonds, genomen ter uitvoering van het decreet van 17 maart 2020 
+tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis in verband 
+met het COVID-19, zoals gewijzigd bij het besluit van de Regering van de Franse Gemeenschap van 23 april 
+2020 tot toekenning van bijzondere machten nr. 3;Gelet op het besluit van de Regering van de 
+Franse Gemeenschap van 1 maart 2019 tot uitvoering van het decreet van 25 oktober 2018 betreffende het 
+Overheidsbedrijf voor de Digitale Informatie- en Communicatietechnologieën van de Franse Gemeenschap 
+(ETNIC), artikel 12 ;Gelet op het advies van de Inspectie van Financiën gegeven op 5 juni 2020 
+;Overwegende de hoogdringendheid ingegeven door het feit dat maatregelen snel moeten worden 
+getroffen ter ondersteuning van de levensvatbaarheid van de actoren die activiteiten met een rechtsreeks 
+of onrechtstreeks doel van algemeen belang verrichten die onder de bevoegdheid van de Franse Gemeenschap 
+vallen en die steun ontvangen van de Franse Gemeenschap, ongeacht of het gaat om culturele, sportieve, 
+associatieve of andere activiteiten, als gevolg van de maatregelen die zijn genomen in het kader van 
+de strijd tegen de COVID-19;Overwegende de beslissing van de Regering van 26 maart 2020 om 
+de financiële reserves van de ION's te gebruiken voor steunmaatregelen in de strijd tegen de schadelijke 
+gevolgen van de COVID-19-epidemie;Overwegende de beslissingen van de Regering van 7 april 2020 
+betreffende de bijdrage van het Overheidsbedrijf voor de Digitale Informatie- en Communicatietechnologieën 
+van de Franse Gemeenschap aan COVID-19 tot een bedrag van 5.000.000€ en van 23 april 2020 betreffende 
+de versterking van het nood- en steunfonds voor de bestrijding van de COVID-19-epidemie tot een bedrag 
+van 2.500.000€;Op de voordracht van de Minister van Begroting ;Na beraadslaging,Besluit 
+: Artikel 1. De boekhoudkundige toewijzing van 7.500.000 euro uit de beschikbare reserves van 
+ETNIC is bestemd voor de algemene inkomsten van de Franse Gemeenschap.Art. 2. De aangepaste 
+begroting van het ETNIC voor het begrotingsjaar 2020 wordt goedgekeurd en als bijlage bij dit besluit 
+gevoegd.Art. 3. Dit besluit treedt in werking de dag waarop het ondertekend wordt.Art. 
+4. De Minister van Begroting wordt belast met de uitvoering van dit besluit.Brussel, 11 juni 
+2020.Vanwege de Regering :De Minister-President,P.-Y. JEHOLETDe 
+Minister van Begroting, Ambtenarenzaken, Gelijke kansenen het toezicht op "Wallonie-Bruxelles 
+Enseignement",Fr. DAERDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-24Numac : 2020015038
+

@@ -1,0 +1,281 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-08Numac : 2021040413
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie van de Fiscaliteit. - Bericht tot vaststelling van een model van attest nr. 281.77 
+dat toelaat de vereiste bewijzen te leveren inzake de belastingvermindering voor de verwerving van nieuwe 
+aandelen van ondernemingen die hun omzet ingevolge de COVID-19-pandemie sterk hebben zien dalen (de belastingvermindering 
+tax shelter "COVID-19")I. ALGEMEENOm de kmo-vennootschappen te ondersteunen die hun 
+omzet ingevolge de COVID-19-pandemie sterk hebben zien dalen en daardoor nood hebben aan bijkomende financiële 
+middelen, heeft de regering een maatregel genomen die belastingplichtigen moet aanmoedigen om in te schrijven 
+op kapitaalverhogingen van dergelijke vennootschappen. Het gaat om een tijdelijke maatregel (kapitaalverhogingen 
+tot 31 december 2020).Deze nieuwe belastingvermindering wordt geregeld door art. 15 van de 
+wet van 15.07.2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19-pandemie 
+(CORONA III) (BS 23.07.2020).Voor meer informatie over de te respecteren voorwaarden, kan men 
+de circulaire (1) raadplegen die de FOD Financiën op de databank Fisconetplus heeft gepubliceerd (www.fisconetplus.be). 
+Algemene vragen met betrekking tot deze materie kunnen worden gesteld aan het Contactcenter van de FOD 
+Financiën, op het nummer 02 572 57 57 (normaal tarief). (1) Circulaire 2020/C/140 van 16.11.2020 
+over de belastingvermindering tax shelter `COVID-19' voor ondernemingen die hun omzet sterk hebben zien 
+dalen.Om de belastingvermindering te kunnen krijgen (en behouden), moeten de inschrijvers attesten 
+ter beschikking houden van de administratie.Het koninklijk besluit van 30.09.2020 (2) bepaalt 
+de manier waarop de vereiste attesten moeten worden opgesteld door de kleine vennootschap. (2) 
+Koninklijk besluit van 30.09.2020 houdende uitvoering van artikel 15, § 10, van wet van 15.07.2020 
+houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie (CORONA III) en betreffende 
+de belastingvermindering voor de verwerving van nieuwe aandelen van ondernemingen die hun omzet ingevolge 
+de COVID-19-pandemie sterk hebben zien dalen (BS 23.11.2020).Een afschrift van deze attesten 
+moet door de vennootschap die de aandelen uitgeeft langs elektronische weg aan de administratie worden 
+bezorgd.II. OP TE STELLEN ATTESTENDe vennootschap moet voor de inschrijver, met een 
+afschrift voor de administratie, volgende attesten opstellen:1. een attest voor het jaar van 
+verwerving van de aandelen2. een attest voor elk van de vijf jaren volgend op het jaar van 
+verwerving3. een attest voor het jaar waarvoor een gedeeltelijke terugname van de belastingvermindering 
+moet gebeurenII.1. Het attest op te stellen voor het jaar van verwerving van de aandelen van 
+de vennootschap en te bezorgen aan de inschrijver, moet:- bevestigen dat de vennootschap waarin 
+wordt geïnvesteerd voldoet aan de voorwaarden opgenomen in artikel 15, §§ 1 en 2, van de 
+wet van 15.07.2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie 
+(CORONA III, BS 23.07.2020). Het betreft 11 voorwaarden eigen aan de vennootschap, bijvoorbeeld met betrekking 
+tot de daling van de omzet of de aard van haar activiteit, evenals de volgende voorwaarden:a. 
+de investering moet betrekking hebben op nieuwe aandelen;b. op naam;c. verworven 
+met inbrengen in geld; zijn uitgesloten, de inbrengen in natura evenals een quasi-inbreng als bedoeld 
+in artikel 7:8 van het Wetboek van vennootschappen en verenigingen;d. die een fractie vertegenwoordigen 
+van het kapitaal van een in artikel 15, § 2, eerste lid, van voormelde wet van 15.07.2020 bedoelde 
+vennootschap (voldoen aan 11 voorwaarden eigen aan de vennootschap);e. waarop de belastingplichtige 
+rechtstreeks heeft ingeschreven naar aanleiding van een kapitaalverhoging tussen 14 maart 2020 en 31 
+december 2020;f. die volledig zijn volstort (volledig betaald) door de inschrijver uiterlijk 
+op 31 december 2020.- het volgende vermelden:o ofwel de omzet van de vennootschap 
+voor de periode van 14 maart 2020 tot 30 april 2020 en de omzet voor de periode van 14 maart 2019 tot 
+30 april 2019,o ofwel, ingeval de vennootschap werd opgericht na 14 maart 2019, anders dan 
+in het kader van een fusie of een splitsing van vennootschappen, zowel de gerealiseerde omzet voor de 
+periode van 14 maart 2020 tot 30 april 2020 als de in het financieel plan vooropgestelde omzet voor dezelfde 
+periode.- het bedrag vermelden waarop werd ingeschreven door de inschrijver - het 
+bedrag vermelden dat recht kan geven op de belastingvermindering (3). Dit betekent dat bovenop de hiervoor 
+vermelde voorwaarden ook de hierna vermelde voorwaarden moeten worden gerespecteerd:(3) Het 
+totale bedrag waarop de investeerder heeft ingeschreven komt immers niet noodzakelijk volledig in aanmerking 
+voor de belastingvermindering. Zie bijvoorbeeld de maximale vertegenwoordiging van 30 % van het kapitaal 
+van de vennootschap besproken onder punt `1' hierna.1. de vertegenwoordiging van het kapitaal 
+van de vennootschap mag niet meer bedragen dan 30 %. In geval van overschrijding geven de betalingen 
+waardoor de vertegenwoordiging van 30 % wordt overschreden, geen recht op de belastingvermindering. Het 
+op het attest te vermelden bedrag waarop wordt ingeschreven, verschilt dan van het bedrag dat recht kan 
+geven op de belastingvermindering. De berekening van die vertegenwoordiging van 30 % moet gebeuren 
+op basis van het aantal aandelen die het kapitaal vertegenwoordigen en in functie van de toestand na 
+de kapitaalverhoging.Voorbeeld:Vennootschap opgericht in 2014 met 20.000 euro kapitaal 
+bestaande uit 20 aandelen aan 1.000 euro:- 10.000 euro = 10 aandelen in het bezit van A (vertegenwoordiging 
+van 50 %)- 2.000 euro = 2 aandelen in het bezit van B (vertegenwoordiging van 10 %)- 
+8.000 euro = 8 aandelen in het bezit van C, zaakvoerder (vertegenwoordiging van 40 %).Kapitaalverhoging 
+in oktober 2020 in het kader van de tax shelter COVID-19. Uitgifte van 80 bijkomende aandelen aan 1.000 
+euro:- A schrijft in op 30 bijkomende aandelen (30.000 euro): vertegenwoordiging van 40 % na 
+de kapitaalverhoging- B schrijft in op 43 bijkomende aandelen (43.000 euro): vertegenwoordiging 
+van 45 % na de kapitaalverhoging- C (zaakvoerder) schijft in op 7 bijkomende aandelen (7.000 
+euro): vertegenwoordiging van 15 % na de kapitaalverhoging.Na de kapitaalverhoging zijn er 
+100 aandelen. Gelet op de maximale vertegenwoordiging van 30 %, geven maximum 30 aandelen per persoon 
+recht op de belastingvermindering.Situatie van A:A bezit na de kapitaalverhoging 
+40 aandelen. Maximum 30 aandelen kunnen recht geven op de belastingvermindering. A had reeds 10 aandelen 
+in het bezit, zodat 20 aandelen (van de 30 aandelen waarop A naar aanleiding van de kapitaalverhoging 
+inschreef), in aanmerking komen voor de belastingvermindering: 20 aandelen x 1.000 euro = 20.000 euro.Op 
+het attest te vermelden bedrag waarop werd ingeschreven: 30.000 euroBedrag dat recht kan geven 
+op de belastingvermindering : 20.000 euroSituatie van B:B bezit na de kapitaalverhoging 
+45 aandelen. Maximum 30 aandelen kunnen recht geven op de belastingvermindering. B had reeds 2 aandelen 
+in het bezit, zodat 28 aandelen (van de 43 aandelen waarop B naar aanleiding van de kapitaalverhoging 
+inschreef), in aanmerking komen voor de belastingvermindering: 28 aandelen x 1.000 euro = 28.000 euro.Op 
+het attest te vermelden bedrag waarop werd ingeschreven: 43.000 euroBedrag dat recht kan geven 
+op de belastingvermindering: 28.000 euroSituatie van C:C bezit na de kapitaalverhoging 
+15 aandelen. Maximum 30 aandelen kunnen recht geven op de belastingvermindering, zodat de 7 aandelen 
+waarop C naar aanleiding van de kapitaalverhoging inschreef, in aanmerking komen voor de belastingvermindering: 
+7 aandelen x 1.000 euro = 7.000 euro.Op het attest te vermelden bedrag waarop werd ingeschreven: 
+7.000 euroBedrag dat recht kan geven op de belastingvermindering: 7.000 euro2. de 
+belastingvermindering tax shelter COVID-19 is ook niet van toepassing op de betalingen voor het verwerven 
+van aandelen van een vennootschap die rechtstreeks of onrechtstreeks worden gefinancierd met een afname 
+van een vordering op die vennootschap of met een schuld aan die vennootschap. Voor dergelijke bedragen 
+mag dus geen attest worden opgesteld.3. de betalingen voor de betrokken aandelen, gedaan tussen 
+14 maart en 31 december 2020, komen in aanmerking voor de belastingvermindering tot een bedrag van 100.000 
+euro per persoon.VoorbeeldEen zaakvoerder investeert in het kader van de tax shelter 
+COVID-19 120.000 euro in zijn vennootschap.Op het attest te vermelden bedrag waarop werd ingeschreven: 
+120.000 euroBedrag dat recht kan geven op de belastingvermindering: 100.000 euro- 
+bevestigen dat de inschrijver de aandelen in het belastbare tijdperk heeft aangeschaft en deze op het 
+einde van dat belastbare tijdperk nog in zijn bezit heeft. Als de inschrijver de aandelen tijdens het 
+belastbare tijdperk heeft overgedragen, mag er geen attest worden opgesteld en kan de belastingvermindering 
+niet worden verleend.II.2. Het attest op te stellen voor elk van de vijf jaren volgend op het 
+jaar van verwerving van de aandelen moet bevestigen dat:- alle aandelen nog steeds in het bezit 
+zijn van de inschrijver op 31 december van het belastbaar tijdperk- de vennootschap nog steeds 
+voldoet aan de volgende 5 voorwaarden (voorzien in artikel 15, § 2, derde lid, van de voormelde 
+wet van 15.07.2020):a. Zij is geen beleggings-, thesaurie- of financieringsvennootschap.b. 
+Zij is geen vennootschap met als statutair hoofddoel of als voornaamste activiteit de oprichting, de 
+verwerving, het beheer, de verbouwing, de verkoop of de verhuur van vastgoed voor eigen rekening of het 
+bezit van deelnemingen in vennootschappen met een soortgelijk doel.Zijn eveneens uitgesloten, 
+vennootschappen waarin onroerende goederen (of andere zakelijke rechten met betrekking tot dergelijke 
+goederen) zijn ondergebracht waarvan een bedrijfsleider (natuurlijk persoon) die een opdracht als bestuurder, 
+zaakvoerder, vereffenaar of gelijksoortige functies uitoefent (als bedoeld in artikel 32, eerste lid, 
+1°,  WIB 92) of diens echtgenoot of niet-ontvoogde minderjarige kinderen, het gebruik hebben.Een 
+vennootschap die eigenaar is van een onroerend goed waarin de zaakvoerder (natuurlijk persoon) woont, 
+is dus zonder meer uitgesloten.c. Zij is niet opgericht met het oog op het afsluiten van een 
+management- of bestuurdersovereenkomst of is geen vennootschap die haar voornaamste bron van inkomsten 
+haalt uit management- of bestuurdersovereenkomsten.d. Zij gebruikt de sommen ontvangen in het 
+kader van de tax shelter COVID-19 niet voor:• een uitkering van dividenden als bedoeld 
+in artikel 18, WIB 92, met inbegrip van de uitkering van liquidatiereserves als bedoeld in de artikelen 
+184quater en 541, WIB 92• een kapitaalvermindering met inbegrip van een kapitaalvermindering 
+als bedoeld in artikel 537, WIB 92 of enige andere vermindering of verdeling van het eigen vermogen• 
+de aankoop van aandelen• het verstrekken van leningen.e. De vennootschap:• 
+houdt geen rechtstreekse deelneming aan in een vennootschap die gevestigd is in een Staat die is opgenomen 
+op één van de lijsten waarnaar wordt verwezen in artikel 307, § 1/2, WIB 92, of een Staat die 
+is opgenomen in de lijst in artikel 179, KB/WIB 92• doet geen betalingen aan vennootschappen 
+die gevestigd zijn in één van de in het eerste streepje bedoelde Staten waarvan niet kan worden aangetoond 
+dat ze werden verricht in het kader van werkelijke en oprechte verrichtingen die het gevolg zijn van 
+rechtmatige financiële of economische behoeften en die samengenomen meer bedragen dan 100.000 euro per 
+belastbaar tijdperk.Als de inschrijver alle aandelen overdraagt binnen de 60 maanden na de 
+aanschaffing ervan of als de vennootschap niet voldoet aan de 5 voormelde voorwaarden gedurende 60 maanden 
+volgend op de volstorting van de aandelen, zal de belastingvermindering gedeeltelijk worden teruggenomen 
+en mag het hier beschreven attest van type 2 niet worden opgesteld. In dat geval moet enkel het attest 
+van type 3, beschreven onder titel II.3 hieronder, worden opgesteld.Gedeeltelijke overdracht 
+van de aandelen dit jaar of een vorig jaarAls de inschrijver een deel van zijn aandelen overdraagt 
+binnen de 60 maanden na de aanschaffing ervan, moet de vennootschap op het attest van type 2 het aantal 
+aandelen vermelden die nog steeds in zijn bezit zijn op 31 december van het belastbaar tijdperk. Vanaf 
+het jaar wanneer de inschrijver een deel van zijn aandelen overdraagt, moet deze rubriek van het attest 
+van type 2 voor elk jaar van de termijn van 5 jaar worden ingevuld, behalve uiteraard wanneer hij de 
+rest van de aandelen tijdens deze termijn overdraagt.Voor het jaar waarin de inschrijver een 
+gedeelte van zijn aandelen heeft overgedragen, moet de vennootschap ook een attest van het type 3 opstellen, 
+zoals beschreven onder titel II-3 hieronder, aangezien er een gedeeltelijke teruggave van de belastingvermindering 
+moet gebeuren voor het deel van de aandelen die werden overgedragen.VoorbeeldVerwerving 
+van 100 aandelen in augustus 2020.Overdracht van 20 aandelen in 2022.De 80 resterende 
+aandelen blijven behouden tot het einde van de termijn van 5 jaar.De vennootschap moet voor 
+2020 (jaar van de verwerving van de aandelen) een attest van het type 1 opstellen.Voor het 
+jaar 2021 moet zij enkel het eerste deel van het attest van het type 2, dat het behoud van alle aandelen 
+attesteert, invullen (zie het modelattest hierna).Voor het jaar 2022 moet zij:- op 
+het attest van het type 2 het gedeelte met betrekking tot de gedeeltelijke overdracht van de aandelen 
+invullen (zie modelattest hierna)- op het attest van het type 3 het gedeelte met betrekking 
+tot de gedeeltelijke overdracht van de aandelen invullen (zie rubriek 3.2. van het modelattest hierna).Voor 
+de jaren 2023 tot 2025 moet de vennootschap elk jaar een attest van het type 2 invullen, door enkel het 
+gedeelte met betrekking tot de gedeeltelijke overdracht in te vullen.Overlijden van de inschrijverIn 
+geval van overlijden van de inschrijver, moet de vennootschap geen attest meer opstellen vanaf het belastbare 
+tijdperk waarin de belastingplichtige is overleden.II.3. Het attest op te stellen voor het 
+jaar waarin een gedeeltelijke terugname van de belastingvermindering moet plaatsvindenWanneer 
+bepaalde voorwaarden niet worden gerespecteerd tijdens een termijn van 60 maanden, zal een belastingvermeerdering 
+worden toegepast.Deze vermeerdering komt overeen met een gedeeltelijke terugname van de voorheen 
+verleende belastingvermindering.De terugname gebeurt voor het jaar waarin de voorwaarden niet 
+langer zijn vervuld. De terugname wordt berekend in functie van het aantal `ontbrekende volle maanden' 
+vanaf de datum waarop de voorwaarde niet langer is vervuld tot het einde van de termijn van 60 maanden.Concreet 
+wordt, om het bedrag van de terugname te berekenen, het bedrag van de voorheen verleende belastingvermindering 
+dus vermenigvuldigd met een breuk waarvan de teller gelijk is aan het aantal ontbrekende maanden en de 
+noemer gelijk is aan 60.Het attest moet dus het aantal nog niet verlopen volle maanden vermelden 
+dat in aanmerking moet worden genomen voor de terugname van de belastingvermindering.Als de 
+voorwaarden niet meer zijn vervuld na de betrokken termijn, is er geen probleem.Een terugname 
+van de belastingvermindering is momenteel mogelijk in twee gevallen.A. De inschrijver behoudt 
+zijn aandelen niet gedurende 60 maandenAls de inschrijver zijn nieuwe aandelen van de vennootschap 
+overdraagt binnen de 60 maanden na de aanschaffing ervan, zal de belastingvermindering gedeeltelijk worden 
+teruggenomen.VoorbeeldVerwerving van 10 aandelen (aanschaffingswaarde 1.000 euro) 
+van een kleine vennootschap op 06.08.2020 voor een bedrag van 10.000 euro.De periode van 60 
+maanden begint dus op 07.08.2020 en eindigt op 06.08.2025.Belastingvermindering (aanslagjaar 
+2021): 10.000 euro x 20 % = 2.000 euro.Overdracht van de aandelen op 04.10.2022.Aantal 
+resterende volle maanden (op het attest te vermelden): 34.Onder `overdragen' moet ook worden 
+verstaan, de sluiting van de vereffening van vennootschap waarin werd geïnvesteerd.Wanneer 
+de sluiting van de vereffening het gevolg is van de faillietverklaring van de vennootschap waarin werd 
+geïnvesteerd, moet niet meer worden voldaan aan de voorwaarde van behoud van de investering vanaf het 
+belastbare tijdperk waarin de sluiting van de vereffening ten gevolge van faillietverklaring heeft plaatsgevonden.Gedeeltelijke 
+overdracht van de aandelenAls de inschrijver een deel van zijn aandelen overdraagt binnen de 
+60 maanden na de aanschaffing ervan, moet de vennootschap op het attest van type 3 (rubriek 3.2 van het 
+modelattest hierna) vermelden:- het aantal aandelen dat werd overgedragen- het aantal 
+`ontbrekende volle maanden' vanaf de datum van vervreemding tot het einde van de termijn van 60 maanden.De 
+vennootschap moet ook het gedeelte met betrekking tot de gedeeltelijke overdracht van de aandelen van 
+het attest van type 2 invullen, zoals beschreven onder titel II.2 hiervoor, aangezien de andere aandelen 
+werden behouden (zie modelattest hierna). In het voorgaande voorbeeld:Overdracht 
+van de helft van de aandelen op 04.10.2022.Te vermelden op het attest van type 3, rubriek gedeeltelijke 
+overdracht van de aandelen:- Aantal ontbrekende volle maanden: 34- Aantal overgedragen 
+aandelen: 5Te vermelden op het attest van type 2, rubriek gedeeltelijke overdracht van de aandelen:- 
+Aantal aandelen die nog in het bezit zijn: 5Overlijden van de inschrijverIn geval 
+van overlijden van de aandeelhouder, stopt de verplichting tot behoud van de investering gedurende 60 
+maanden zonder sanctie. In dat geval is er dus, in tegenstelling tot bij de overdracht van de investering, 
+geen belastingvermeerdering. Er moet geen attest meer worden opgesteld voor het jaar van overlijden en 
+voor de volgende jaren. B. De vennootschap voldoet niet aan bepaalde voorwaarden gedurende 
+60 maandenVan de voorwaarden waaraan de vennootschap moet voldoen, zijn er 5 voorwaarden die 
+moeten worden voldaan gedurende 60 maanden volgend op de volstorting van de aandelen (zie titel II.2 
+hiervoor). Indien dit niet het geval is, zal de belastingvermindering gedeeltelijk worden teruggenomen.VoorbeeldVolstorting 
+van aandelen van een kleine vennootschap op 10.10.2020 voor een bedrag van 30.000 euro.De termijn 
+van 60 maanden begint dus op 11.10.2020 en eindigt op 10.10.2025.Belastingvermindering (aanslagjaar 
+2021): 30.000 euro x 20 % = 6.000 euro.Op 15.03.2023 neemt de vennootschap een rechtstreekse 
+deelneming in een vennootschap gevestigd in een fiscaal paradijs (4).(4) Voor meer informatie 
+over alle voorwaarden waaraan de vennootschappen moeten voldoen, zie de circulaire 2020/C/140 van 16.11.2020 
+over de belastingvermindering tax shelter `COVID-19` voor ondernemingen die hun omzet sterk hebben zien 
+dalen, die de FOD Financiën op de databank Fisconetplus (www.fisconetplus.be) heeft gepubliceerd. Het 
+contactcenter van de FOD Financiën kan ook elke algemene vraag over dit onderwerp beantwoorden op 02 
+572 57 57 (normaal tarief).Aantal ontbrekende volle maanden te vermelden op het attest: 30.III. 
+TERMIJN VOOR HET OPSTELLEN VAN DE DOCUMENTENDe vennootschap moet de voormelde attesten aan 
+de inschrijver bezorgen vóór 31 maart van het jaar dat volgt op het jaar van de aanschaffing van de volledig 
+volstorte aandelen en van de 5 daaropvolgende jaren.De vennootschap moet een afschrift langs 
+elektronische weg aan de administratie bezorgen (zie hierna).Voorbeeld: investering in nieuwe 
+aandelen van een vennootschap die haar omzet sterk heeft zien dalen. De aandelen zijn verworven naar 
+aanleiding van een kapitaalverhoging uitgevoerd op 1 september 2020. De aandelen zijn op deze datum volledig 
+volstort en alle voorwaarden zijn nageleefd.De vennootschap moet de inschrijver:- 
+vóór 31.03.2021 het attest van type 1 voor het jaar 2020 (jaar van verwerving) bezorgen- vóór 
+31.03.2022 het attest van type 2 voor het jaar 2021 (eerste jaar van de behoudtermijn van 5 jaar) bezorgen- 
+zelfde principe voor de vier volgende jaren.Als de inschrijver in het voorbeeld de aandelen 
+in 2021 overdraagt moet de vennootschap hem een attest bezorgen met het aantal nog niet verlopen maanden 
+dat in aanmerking moet worden genomen voor de berekening van de terugname van de belastingvermindering. 
+Dit attest moet zij hem bezorgen vóór 31.03.2022.De inschrijver moet zijn exemplaar van de 
+desbetreffende attesten ter beschikking van de administratie houden.IV. OVERDRACHT VAN DE DOCUMENTEN 
+AAN DE ADMINISTRATIEDe vennootschap moet een afschrift van de voormelde attesten langs elektronische 
+weg aan de administratie bezorgen.Zij moet dit doen vóór 31 maart van het jaar dat volgt op 
+het jaar van de verwerving van de volledig volstorte aandelen, en van de 5 daaropvolgende jaren.Om 
+deze verplichting na te komen, zijn er twee mogelijkheden:1. Het attest 281.77 kan elektronisch 
+worden verstuurd via de toepassing Belcotax-on-web:- hetzij via invoer van de gegevens online 
+en verzending via internet- hetzij via aanmaak van een bestand offline en verzending via internet.Die 
+toepassing is toegankelijk via het adres https://finances.belgium.be/nl/E-services/Belcotaxonweb.Een 
+validatieprogramma is in de webtoepassing geïntegreerd. Er bestaat ook een niet geïntegreerde offline 
+validatiemodule die kan worden gedownload via de website www.belcotaxonweb.be in de rubriek `Technische 
+documentatie'.De gegevens die via elektronische weg werden ingegeven, kunnen worden geraadpleegd, 
+gewijzigd of verwijderd via internet.De procedure voor de invoer van de gegevens via het scherm 
+wordt toegelicht op de website www.belcotaxonweb.be in de rubriek `Hoe BOW gebruiken?'.Er bestaat 
+ook een brochure `Belcotax on web' met de technische beschrijving van de bestanden. Dit document kan 
+worden gedownload van de website www.belcotaxonweb.be onder de rubriek `Technische documentatie'.2. 
+Deze attesten kunnen ook per e-mail worden verstuurd naar de volgende dienst:KMO Centrum Specifieke 
+Materies - Team beheer bedrijfsvoorheffing kmo.bv.bru2.prp.pme@minfin.fed.beV. MODEL VAN ATTESTDe 
+administratie heeft een modelattest opgesteld, dat de uitreikers van de documenten mogen gebruiken. Dit 
+model wordt hierna weergegeven.VI. INWERKINGTREDINGHet huidig bericht treedt in werking 
+vanaf het aanslagjaar 2021. Voor de raadpleging 
+van de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-08Numac : 2021040413
+

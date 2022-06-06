@@ -1,0 +1,69 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2020/10/08/2020031533/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-16Numac : 2020031533
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 8 OKTOBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 21 van 11 juni 2020 houdende de aangepaste begroting van het « Centre du Cinéma et de l'Audiovisuel » (Centrum voor de filmsector en de audiovisuele sector) ter ondersteuning van het herstel van de filmsector in het kader van de COVID-19-crisis 
+Het Parlement van de Franse Gemeenschap 
+heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt :Enig artikel. Het besluit van 
+de Regering van de Franse Gemeenschap van bijzondere machten nr.21 van 11 juni 2020 houdende de aangepaste 
+begroting van het « Centre du Cinéma et de l'Audiovisuel » (Centrum voor de filmsector en de audiovisuele 
+sector) ter ondersteuning van het herstel van de filmsector in het kader van de COVID-19-crisis wordt 
+bekrachtigd overeenkomstig artikel 4 van het decreet van 17 maart 2020 tot toekenning van bijzondere 
+machten aan de Regering in het kader van de gezondheidscrisis in verband met het COVID-19 coronavirus.Kondigen 
+dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.Brussel, 
+8 oktober 2020.De Minister-President,P.-Y. JEHOLETDe Vice-President en 
+Minister van Begroting, Ambtenarenzaken, Gelijke kansen en het toezicht op "Wallonie-Bruxelles Enseignement",F. 
+DAERDENDe Vice-Presidente en Minister van Kind, Gezondheid, Cultuur, Media en Vrouwenrechten,B. 
+LINARDDe Minister van Hoger Onderwijs, Onderwijs voor sociale promotie, Universitaire ziekenhuizen, 
+Hulpverlening aan de jeugd, Justitiehuizen, Jeugd, Sport en Promotie van Brussel,V. GLATIGNYDe 
+Minister van Onderwijs,C. DESIR_______NotaZitting 2020-2021Stukken 
+van het Parlement. - Ontwerp van decreet, nr. 116-1. - Commissieverslag, nr. 116-2.Integraal 
+verslag. - Bespreking en aanneming. - Vergadering van 7 oktober 2020.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-16Numac : 2020031533
+

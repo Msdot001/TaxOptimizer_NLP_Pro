@@ -1,0 +1,351 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/27/2020040984/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040984
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 27 APRIL 2020. - Koninklijk besluit nr. 13 tot wijziging van wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten gunste van zelfstandigen, in het bijzonder voor wat betreft de uitbreiding naar bepaalde zelfstandigen in bijberoep en actieve gepensioneerden 
+VERSLAG 
+AAN DE KONINGSire,Het ontwerpbesluit dat wij de eer hebben voor te leggen ter ondertekening 
+door Uwe Majesteit beoogt de versterking van de tijdelijke crisismaatregelen die werden genomen in het 
+sociaal statuut van de zelfstandigen in het kader van COVID-19.Dit ontwerp bevat drie maatregelen 
+ten gunste van zelfstandigen die getroffen worden door de crisis.De eerste maatregel voorziet 
+de toekenning van een gedeeltelijke financiële uitkering van de tijdelijke crisismaatregel overbruggingsrecht 
+voor bepaalde zelfstandigen in bijberoep en actieve gepensioneerden die verplicht zijn hun activiteiten 
+te onderbreken door COVID-19 .Momenteel stelt de tijdelijke crisismaatregel overbruggingsrecht 
+bepaalde zelfstandigen die hun activiteit volledig of gedeeltelijk moeten onderbreken in staat voor elke 
+maand van onderbreking te genieten van een maandelijks vervangingsinkomen van 1.291,69 € (1.614,10 
+€ bij gezinslast). De beoogde onderbreking bestaat ofwel uit een volledige (bars, restaurants, kleinhandelszaken, 
+...) of een gedeeltelijke onderbreking (horeca beperkt tot take-away, ...) opgelegd door de sanitaire 
+maatregelen van de ministeriële besluiten van 13, 18, 23 en 24 maart en 3 april 2020, ofwel - voor de 
+andere sectoren - uit een volledige vrijwillige onderbreking van ten minste 7 opeenvolgende kalenderdagen 
+gelinkt met de COVID-19 -crisis.Worden beoogd door deze bestaande maatregelen, enkel de zelfstandigen 
+die bijdragen betalen in hoofdberoep (zelfstandigen in hoofdberoep en zelfstandigen in bijberoep die 
+wettelijk hun bijdragen betalen op basis van een netto belastbaar inkomen dat hoger is dan 13.993,78 
+euro).Onderhavige maatregel beoogt echter twee tot dusver niet-beoogde categorieën van zelfstandigen, 
+die, wanneer zij hun activiteit moeten onderbreken door de COVID-19 -crisis, eveneens een verlies van 
+inkomsten en koopkracht ondergaan:1°  De zelfstandigen in bijberoep wiens wettelijk verschuldigde 
+voorlopige bijdragen berekend worden op een referte-inkomen van N-3 dat zich situeert tussen 6.996,89 
+euro en 13.993,78 euro.Het gaat bijvoorbeeld om een loontrekkende (halftijds of voltijds) die 
+een relatief grote activiteit in bijberoep heeft (bar, paramedische activiteit, winkel,...) die hij verplicht 
+moet onderbreken door de crisis. Een onderbreking die hem of haar zou treffen in maart en april, zou 
+hem of haar recht geven op een financiële uitkering die voor elke maand tot maximaal 645,85 euro (807,05 
+bij gezinslast) kan bedragen, dit bedrag komt overeen met de helft van het klassieke bedrag van de financiële 
+uitkering.Voor deze categorie wordt de cumul tussen de halve financiële uitkering en andere 
+vervangingsinkomens slechts toegestaan voor zover de som van de tijdelijke crisismaatregel overbruggingsrecht 
+en de andere vervangingsinkomens per maand het totaalbedrag van 1.614,10 euro niet overschrijdt. In geval 
+van overschrijding wordt de tijdelijke crisismaatregel overbruggingsrecht verminderd ten belope van deze 
+overschrijding. Als we het voorbeeld nemen van de werknemer die, omwille van de onderbreking van zijn 
+werknemersactiviteit (overmacht), een tijdelijke werkloosheidsuitkering geniet, bijvoorbeeld wegens overmacht, 
+ten belope van 1.100 euro: hij zal dan nog voor de onderbreking van zijn zelfstandige activiteit omwille 
+van COVID-19 kunnen genieten van een bedrag van maximum 514,10 euro (ongeacht gezinslast of niet). In 
+hetzelfde voorbeeld, als zijn tijdelijke werkloosheidsuitkering 700 euro bedraagt, zal de uitkering in 
+het kader van de tijdelijke crisismaatregel overbruggingsrecht 684,85 euro (807,05 indien met gezinslast) 
+bedragen.2°  De actieve gepensioneerde zelfstandigen wiens wettelijk verschuldigde voorlopige 
+bijdragen berekend worden op een referte-inkomen van N-3 dat hoger is dan 6.996,89 euro, onder dezelfde 
+voorwaarden (halve financiële uitkering). De voorbeelden die hiervoor gegeven werden met betrekking tot 
+(tijdelijke) werkloosheid, gelden ook voor wat de cumul betreft met het rustpensioen van de beoogde actieve 
+gepensioneerde.Met deze maatregel wordt beoogd :- zich te richten op de meest ernstige 
+situaties: enkel wanneer de zelfstandige in bijberoep of de actieve gepensioneerde zelfstandige gedwongen 
+wordt om zijn activiteit te onderbreken. Dit is de basisregel van de tijdelijke crisismaatregel overbruggingsrecht.- 
+zich te richten op zelfstandigen die een aanzienlijk impact ondervinden in hun koopkracht: diegenen van 
+wie de zelfstandige activiteit een netto belastbaar jaarlijks inkomen opbrengt dat hoger ligt dan 6.996,89 
+€ (zie het voorbeeld hieronder).- het inkomensverlies verbonden aan de zelfstandige activiteit 
+in kwestie te compenseren door deze aanvulling van de tijdelijke crisismaatregel overbruggingsrecht toe 
+te kennen tot een bedrag gelijk aan de helft van het klassieke bedrag van de financiële uitkering.Voorbeeld:Een 
+werknemer (arbeider, bediende, kaderlid, voltijds of halftijds) of een ambtenaar of een gepensioneerde 
+oefent een bijkomende zelfstandige activiteit (bar die 's avonds geopend is, activiteit als schoonheidsspecialiste, 
+klein zonnebankcenter...) die een relatief stabiel inkomen oplevert van ongeveer 1000 euro netto per 
+maand. Zijn activiteit wordt stopgezet sinds half maart omwille van de corona-crisis.Deze maatregel 
+beoogt het belangrijke verlies aan koopkracht voor zijn huishouden (verlies van de helft als het een 
+gepensioneerde betreft, ongetwijfeld een beetje minder als het om een werknemer of ambtenaar gaat) te 
+dekken door de tijdelijke crisismaatregel overbruggingsrecht en dit ten belope van een bedrag dat tot 
+645,85 euro kan bedragen (807,05 met gezinslast).Er moet een specifiek aanvraagformulier worden 
+ingevuld en terugbezorgd aan het sociaal-verzekeringsfonds.De tweede maatregel laat toe om 
+de financiële uitkeringen van de crisismaatregel overbruggingsrecht te cumuleren met een vervangingsinkomen.Ook 
+deze maatregel past strikt binnen het kader van de tijdelijke crisismaatregel overbruggingsrecht, met 
+andere woorden voor de zelfstandigen die een zelfstandige activiteit effectief moeten onderbreken door 
+COVID-19 (zie algemene voorwaarden om deze tijdelijke crisismaatregel te genieten).Het doel 
+van deze tijdelijke crisismaatregel overbruggingsrecht is ook om de volgende situaties te dekken, waarbij 
+de onderbreking van de zelfstandige activiteit plaatsvindt in hoofde van een zelfstandige die bovendien 
+(door zijn leeftijd (pensioen), of door zijn situatie als loontrekkende of, in bepaalde gevallen, door 
+een arbeidsongeschiktheid of invaliditeit (in bijberoep)) een vervangingsinkomen geniet:1° 
+ Sommigen onder hen cumuleren deze effectieve activiteit als zelfstandige met een vervangingsinkomen 
+(tijdelijke werkloosheid, werkloosheid, pensioen) en moeten deze effectieve zelfstandige activiteit onderbreken 
+door COVID-19.2°  Sommigen onder hen moeten hun zelfstandige activiteit onderbreken door COVID-19 
+en genieten vervolgens, tijdens deze onderbreking, van een vervangingsinkomen (tijdelijke werkloosheid, 
+werkloosheid, pensioen, arbeidsongeschiktheid bijvoorbeeld door een besmetting met COVID-19, ...).De 
+onderhavige maatregel beoogt een cumul toe te laten van de tijdelijke crisismaatregel overbruggingsrecht 
+met een ander vervangingsinkomen wanneer wordt voldaan aan alle voorwaarden om deze tijdelijke crisismaatregel 
+overbruggingsrecht te bekomen.Echter, voor de zelfstandigen in bijberoep die sociale bijdragen 
+betalen op een jaarlijks inkomen dat zich situeert tussen 6.996,89 en 13.993,78 euro en de actieve gepensioneerde 
+zelfstandigen die bijdragen betaalt op basis van netto belastbare jaarlijkse inkomsten die hoger zijn 
+dan 6.996,89 euro, is de cumul slechts toegestaan op voorwaarde dat de som van de halve financiële uitkering 
+van de tijdelijke crisismaatregel overbruggingsrecht en de andere vervangingsinkomens per maand het bedrag 
+van 1.614,10 euro niet overschrijdt. In geval van overschrijding zal het maandelijks bedrag van de tijdelijke 
+crisismaatregel overbruggingsrecht verminderd worden ten belope van deze overschrijding.Deze 
+maatregel beoogt in geen geval toe te laten te genieten van de financiële uitkering van de tijdelijke 
+crisismaatregel overbruggingsrecht voor een zelfstandige activiteit die al onderbroken is om andere redenen 
+dan COVID-19 . Zo opent een zelfstandige in arbeidsongeschiktheid of invaliditeit geen recht op de tijdelijke 
+crisismaatregel overbruggingsrecht.Daarentegen kan de zelfstandige die de tijdelijke crisismaatregel 
+overbruggingsrecht geniet voor een maand (bijvoorbeeld voor de maand april) en die arbeidsongeschikt 
+erkend wordt in diezelfde maand, de financiële uitkering overbruggingsrecht behouden. Hij zal ten vroegste 
+de arbeidsongeschiktheidsuitkeringen ontvangen van zijn mutualiteit op de eerste dag van de volgende 
+maand (in het voorbeeld: vanaf 1 mei).Tot slot zullen zelfstandigen in arbeidsongeschiktheid 
+of invaliditeit, die een zelfstandige activiteit uitoefenen die toegelaten is door de adviserend geneesheer 
+van hun mutualiteit, geen aanspraak kunnen maken op de tijdelijke crisismaatregel overbruggingsrecht. 
+Wanneer zij hun toegelaten zelfstandige activiteit moeten onderbreken omwille van COVID-19 dan vallen 
+zij integraal terug op het volledige bedrag van de arbeidsongeschiktheids- of invaliditeitsuitkering.De 
+derde maatregel is een technische maatregel, maar zeer belangrijk voor het beheer van de tijdelijke crisismaatregel 
+overbruggingsrecht door de sociale verzekeringsfondsen. Het betreft de kwestie van het luik van het "behoud 
+van de rechten op de ziekte- en invaliditeitsverzekering", dat gewoonlijk deel uitmaakt van het klassieke 
+overbruggingsrecht.Wat de tijdelijke crisismaatregel overbruggingsrecht betreft, verstoort 
+dit luik "automatisch behoud van de ZIV-rechten" de dossiers van de zelfstandigen inzake de opbouw van 
+pensioenrechten: zonder de uitdrukkelijke uitsluiting van dit luik "behoud van sociale rechten", is het 
+niet mogelijk de bijdrage van het tweede kwartaal 2020 in te kohieren (art. 50, § 4, van het ARS), 
+met als dubbel effect 1°  de annulering van de volledige bijdrage en 2°  het feit dat de betrokken zelfstandigen 
+automatisch en definitief hun pensioenrechten ontzegd worden voor dit kwartaal (en dit zonder de mogelijkheid 
+om af te kopen).Deze maatregel beoogt dus de uitsluiting te voorzien van dit luik, door te 
+bepalen dat het behoud van sociale rechten beoogd in artikel 3, 2°,  van de wet van 22 december 2016 
+houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen, niet van toepassing is op 
+de zelfstandigen, helpers en meewerkende echtgenoten beoogd in artikel 3 van de wet van 23 maart 2020. 
+Deze zelfstandigen zullen verder kunnen kiezen, in functie van hun financiële situatie, om hetzij hun 
+bijdragen te betalen, hetzij een uitstel van betaling voor één jaar te vragen, hetzij een vrijstelling 
+aan te vragen. In deze drie gevallen wordt hun dekking in de ZIV verzekerd. De vereenvoudigde formulieren 
+zijn reeds ter beschikking op de websites van de sociale verzekeringsfondsen.Deze maatregel 
+laat eveneens toe om een eenvoudig en duidelijk kader van de crisismaatregelen ten gunste van zelfstandigen 
+te behouden:1°  Financiële uitkering via het overbruggingsrecht2°  Uitstel van één 
+jaar, zonder verhogingen en met behoud van rechten3°  Vrijstelling van bijdragenMet 
+deze maatregel worden de zelfstandigen die dicht bij hun pensioen staan, niet plots gehinderd in de opbouw 
+van hun loopbaan. Het RSVZ houdt momenteel een reeks dossiers in beraad (betreffende de oppensioenstellingen 
+op 1 juli 2020) in afwachting van de bevestiging dat de betrokken zelfstandigen de bijdragen voor het 
+2de kwartaal 2020 effectief verschuldigd zijn. Zonder deze maatregel wordt hun oppensioenstelling verschoven 
+naar 1 oktober 2020.Artikelsgewijze besprekingArtikel 1 past in artikel 3 van de 
+wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht 
+ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten 
+gunste van zelfstandigen het toepassingsgebied van deze wet aan. Het toepassingsgebied wordt uitgebreid 
+uit naar de zelfstandigen in bijberoep en de gepensioneerden, voor zover zij wettelijk minstens de voorlopige 
+bijdragen verschuldigd zijn berekend op de helft van het bedrag van de drempel voor een zelfstandige 
+in hoofdberoep.Artikel 2 voegt in artikel 4 van voormelde wet de hoogte van het bedrag van 
+het overbruggingsrecht in voor de zelfstandigen in bijberoep en de gepensioneerden die wettelijke voorlopige 
+bijdragen verschuldigd zijn berekend op de helft van het bedrag van de drempel voor een zelfstandige 
+in hoofdberoep, zijnde per maand de helft van de klassieke financiële uitkering overbruggingsrecht.Daarnaast 
+worden de verwijzingen naar de onmogelijkheid om de tijdelijke crisismaatregel overbruggingsrecht te 
+cumuleren met een ander vervangingsinkomen geschrapt.Echter, voor de zelfstandigen in bijberoep 
+van wie het jaarlijks inkomen zich situeert tussen 6.996,89 en 13.993,78 euro en de actieve gepensioneerde 
+zelfstandigen van wie de netto belastbare jaarlijkse inkomsten hoger zijn dan 6.996,89 euro, is de cumul 
+enkel toegestaan op voorwaarde dat de som van het overbruggingsrecht en het andere vervangingsinkomen 
+het bedrag van 1.614,10 euro niet overschrijdt. In geval van overschrijding zal het maandelijks bedrag 
+van het overbruggingsrecht verminderd worden ten belope van deze overschrijdingDe zelfstandigen 
+in arbeidsongeschiktheid/invaliditeit, die een zelfstandige activiteit uitoefenen toegelaten door de 
+adviserend geneesheer van hun mutualiteit, kunnen geen aanspraak maken op de tijdelijke crisismaatregel 
+overbruggingsrecht. Wanneer zij hun toegelaten zelfstandige activiteit moeten onderbreken omwille van 
+COVID-19 dan vallen zij integraal terug op het volledige bedrag van de arbeidsongeschiktheids- of invaliditeitsuitkering.Artikel 
+3 schrapt in artikel 5 van voormelde wet de verwijzingen naar de bepalingen van de wet van 22 december 
+2016 die de cumul met een ander vervangingsinkomen verhinderen,. Daarnaast wordt ook de voorwaarde om 
+ingeschreven te zijn in het Belgische Rijksregister geschrapt.Vervolgens wordt het automatische 
+behoud van sociale rechten zoals voorzien in artikel 3, 2°,  van de wet van 22 december 2016, geschrapt.Artikel 
+4 bepaalt dat de arbeidsongeschiktheidsuitkeringen worden geweigerd voor de periode gedekt door de maandelijkse 
+financiële uitkering van de tijdelijke crisismaatregel overbruggingsrecht.Artikel 5 bepaalt 
+dat het ontwerpbesluit uitwerking heeft vanaf 1 maart 2020.Artikel 6 bepaalt dat de minister 
+bevoegd voor Sociale Zaken en de minister bevoegd voor Zelfstandigen, ieder wat hem betreft, belast zijn 
+met de uitvoering van dit besluit.Wij hebben de eer te zijn,Sire,Van Uwe 
+Majesteit,de zeer eerbiedige en zeer getrouwe dienaars,De Minister van Sociale Zaken,M. 
+DE BLOCKDe Minister van Zelfstandigen,D. DUCARMERaad van 
+Stateafdeling WetgevingAdvies 67.242/1 van 21 april 2020 over een ontwerp van koninklijk 
+besluit nr. 13 `tot wijziging van wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 
+houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke 
+maatregelen in het kader van COVID-19 ten gunste van zelfstandigen, in het bijzonder voor wat betreft 
+de uitbreiding naar bepaalde zelfstandigen in bijberoep en actieve gepensioneerden' Op 14 april 
+2020 is de Raad van State, afdeling Wetgeving, door de Minister van Zelfstandigen verzocht binnen een 
+termijn van vijf werkdagen een advies te verstrekken over een ontwerp van koninklijk besluit nr ... `tot 
+wijziging van wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering 
+van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in 
+het kader van COVID-19 ten gunste van zelfstandigen, in het bijzonder voor wat betreft de uitbreiding 
+naar bepaalde zelfstandigen in bijberoep en actieve gepensioneerden'.Het ontwerp is door de 
+eerste kamer onderzocht op 16 april 2020 . De kamer was samengesteld uit Marnix Van Damme, kamervoorzitter, 
+Wilfried Van Vaerenbergh en Wouter Pas, staatsraden, Michel Tison en Johan Put, assessoren, en Wim Geurts, 
+griffier.Het verslag is uitgebracht door Cedric Jenart, adjunct-auditeur.De overeenstemming 
+tussen de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van Wilfried Van Vaerenbergh, 
+staatsraad. Het advies, waarvan de tekst hierna volgt, is gegeven op 21 april 2020. 1. 
+Met toepassing van artikel 4, eerste lid, van de wet van 27 maart 2020 `die machtiging verleent aan de 
+Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I)', 
+waarin verwezen wordt naar artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973, heeft de afdeling Wetgeving zich moeten beperken tot het onderzoek 
+van de bevoegdheid van de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de 
+te vervullen vormvereisten is voldaan.STREKKING EN RECHTSGROND VAN HET ONTWERP2. 
+Het om advies voorgelegde ontwerp van koninklijk besluit beoogt de tijdelijke maatregelen die bij de 
+wet van 23 maart 2020 (1) in het kader van COVID-19 werden genomen met betrekking tot het sociaal statuut 
+van de zelfstandigen, uit te breiden. Het te nemen besluit heeft uitwerking met ingang van 1 maart 2020.3. 
+Het ontwerp vindt rechtsgrond in artikel 5, § 1, 5°,  van de wet van 27 maart 2020 `die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II)', op grond waarvan de Koning, met het oog op de in artikel 2, eerste lid, van die wet bedoelde 
+doelstellingen, maatregelen kan nemen om "aanpassingen door te voeren in het arbeidsrecht en het socialezekerheidsrecht, 
+met het oog op de bescherming van de werknemers en van de bevolking, de goede organisatie van de ondernemingen 
+en de overheid, met vrijwaring van de economische belangen van het land en de continuïteit van de kritieke 
+sectoren".Overeenkomstig artikel 7, tweede en derde lid, van de wet van 27 maart 2020, moet 
+het te nemen besluit bij wet worden bekrachtigd binnen een termijn van een jaar vanaf de inwerkingtreding, 
+bij gebreke waarvan het geacht wordt nooit uitwerking te hebben gehad.ONDERZOEK VAN DE TEKSTAanhef4. 
+In artikel 4, derde lid, van de wet van 27 maart 2020 (I) wordt het mogelijk gemaakt dat een beroep wordt 
+gedaan op de procedure bedoeld in artikel 84, § 1, eerste lid, 3°,  van de gecoördineerde wetten 
+op de Raad van State, om de afdeling Wetgeving, om een advies te verzoeken "binnen een termijn van vijf 
+werkdagen" zonder dat het spoedeisende karakter van de adviesaanvraag nog met bijzondere redenen moet 
+worden omkleed. In de aanhef van besluiten bedoeld in artikel 4, derde lid, van de wet van 27 maart 2020 
+(I), moet bijgevolg niet langer de motivering van de spoedeisendheid worden weergegeven. De verwijzing 
+naar die motivering kan bijgevolg worden geschrapt en het lid waarin wordt gerefereerd aan het advies 
+van de Raad van State dient te worden geredigeerd als volgt:"Gelet op advies 67.242/1 van de 
+Raad van State, gegeven op ..., met toepassing van artikel 4, derde lid, van de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (I);".Artikel 55. Artikel 5 van het ontwerp bepaalt dat 
+de Koning de bij artikel 4 van het ontwerp in het koninklijk besluit van 20 juli 1971 `houdende instelling 
+van een uitkeringsverzekering en een moederschapsverzekering ten voordele van de zelfstandigen en van 
+de meewerkende echtgenoten' ingevoegde bepaling kan opheffen, aanvullen, wijzigen of vervangen.Een 
+dergelijke bepaling, die erop neerkomt dat de Koning zichzelf machtigt om in voorkomend geval buiten 
+het kader van de bijzondere machten waarover hij op grond van de wet van 27 maart 2020 beschikt bedoelde 
+bepaling nog op te heffen, aan te vullen, te wijzigen of te vervangen, hoort niet thuis in het voorliggende 
+besluit maar kan in voorkomend geval wel worden opgenomen in de wet waarbij het besluit wordt bekrachtigd. 
+De gemachtigde heeft verklaard dat artikel 5 om die reden zal worden geschrapt.Artikel 76. 
+De gemachtigde heeft verklaard dat in de uitvoeringsbepaling van artikel 7 van het ontwerp ook moet worden 
+verwezen naar de minister bevoegd voor Sociale Zaken. Hiermee kan worden ingestemd.DE GRIFFIER 
+   Wim GEURTSDE VOORZITTERMarnix VAN DAMME_______Nota(1) 
+Wet van 23 maart 2020 `tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht 
+ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten 
+gunste van zelfstandigen'.27 APRIL 2020. - Koninklijk besluit nr. 13 tot wijziging 
+van wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht 
+ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten 
+gunste van zelfstandigen, in het bijzonder voor wat betreft de uitbreiding naar bepaalde zelfstandigen 
+in bijberoep en actieve gepensioneerden FILIP, Koning der Belgen, Aan allen die nu 
+zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19, 
+artikel 5, § 1, 5° ;Gelet op de wet van 23 maart 2020 tot wijziging van de wet van 22 
+december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering 
+van tijdelijke maatregelen in het kader van COVID-19 ten gunste van zelfstandigen;Gelet op 
+de vrijstelling van adviesverplichting voorzien in artikel 6 van de voormelde wet van 27 maart 2020;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 2 en 8 april 2020Gelet op de akkoordbevinding 
+van de Minister van Begroting, gegeven op 10 april 2020;Gelet op het artikel 8 van de wet van 
+15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, is dit besluit vrijgesteld 
+van een regelgevingsimpactanalyse gezien de hoogdringendheid die gemotiveerd wordt door de Covid-19-pandemie;Gelet 
+op de hoogdringendheid, gemotiveerd door de Covid-19-pandemie;Gelet op advies 67.242/1 van 
+de Raad van State, gegeven op 21 april 2020, met toepassing van artikel 4, derde lid, van de wet van 
+27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding 
+van het coronavirus COVID-19 (I);".Op de voordracht van de Minister van Sociale Zaken en de 
+Minister van Zelfstandigen,Hebben Wij besloten en besluiten Wij :HOOFDSTUK 1. -  
+Wijzigingen aan de wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering 
+van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in 
+het kader van COVID-19 ten gunste van zelfstandigenArtikel 1. Artikel 3 van de wet van 23 maart 
+2020 tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten 
+gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten gunste 
+van zelfstandigen, wordt vervangen als volgt :"Art. 3. § 1. De bepalingen 
+van de artikelen van dit hoofdstuk zijn van toepassing op zelfstandigen, helpers en meewerkende echtgenoten, 
+zoals bedoeld in respectievelijk artikel 3, 5quater, 6 en 7bis van het koninklijk besluit nr. 38 van 
+27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, die naar aanleiding van COVID-19 
+gedwongen worden hun zelfstandige activiteit te onderbreken voor zover ze voorlopige bijdragen verschuldigd 
+zijn overeenkomstig de artikelen 12, §§ 1, 1bis of 1ter, of 12bis, § 2, of 13bis, 
+§ 2, 1°,  1°  bis of 2°,  van het voormelde koninklijk besluit op het moment van de voormelde 
+gedwongen onderbreking. § 2. Deze bepalingen zijn eveneens van toepassing op de zelfstandigen 
+en helpers, zoals bedoeld in respectievelijk artikel 3, 5quater en 6 van het koninklijk besluit nr. 38 
+van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, die naar aanleiding van 
+COVID-19 gedwongen worden hun zelfstandige activiteit te onderbreken, voor zover ze op het moment van 
+de voormelde gedwongen onderbreking voorlopige bijdragen verschuldigd zijn overeenkomstig de artikelen 
+12, § 2, tweede, derde en vierde lid, of 12bis, § 1, 2. of 13, § 1, tweede, derde 
+en vierde lid, en voor zover de voorlopige bijdragen minstens berekend worden op de helft van het bedrag 
+vermeld in artikel 12, § 1, tweede lid, eerste zin van het voormelde besluit. § 
+.3. De bepalingen van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste 
+van zelfstandigen, die van toepassing zijn op de zelfstandigen bedoeld in artikel 4, 3°  van voormelde 
+wet, zijn van toepassing op de onderbrekingen bedoeld in dit hoofdstuk in de mate waarin de artikelen 
+van dit hoofdstuk er niet van afwijken.".Art. 2. Artikel 4 van dezelfde wet wordt vervangen 
+als volgt:"Art. 4. § 1. De zelfstandigen, helpers en meewerkende echtgenoten, 
+zoals bedoeld in artikel 3, kunnen, in afwijking van de bepalingen van artikel 7, § 1, en artikel 
+11, § 4, van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste 
+van zelfstandigen, aanspraak maken op het volledige maandelijkse bedrag bedoeld in artikel 10, § 
+1, van de voormelde wet, voor de kalendermaand waarin een periode van volledige onderbreking van hun 
+zelfstandige activiteit gelegen is, voor zover deze onderbreking minstens 7 opeenvolgende kalenderdagen 
+duurt. § 2. De zelfstandigen, helpers en meewerkende echtgenoten, zoals bedoeld in artikel 
+3, die gedwongen worden hun activiteit gedeeltelijk of volledig te onderbreken en voor zover hun activiteiten 
+behoren tot de activiteiten zoals bedoeld in het ministerieel besluit van 13 maart 2020 en elk ander 
+later ministerieel besluit houdende dringende maatregelen om de verspreiding van het coronavirus COVID 
+- 19 te beperken, kunnen eveneens aanspraak maken op het volledige maandelijkse bedrag bedoeld in artikel 
+10, §  1, van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste 
+van zelfstandigen, voor de kalendermaand waarin een periode van onderbreking van hun zelfstandige activiteit 
+gelegen is. § 3. In afwijking van §§ 1 en 2 wordt voor de zelfstandigen 
+en helpers zoals bedoeld in artikel 3, § 2, van deze wet, de helft van het volledige maandelijkse 
+bedrag bedoeld in artikel 10 § 1, van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht 
+ten gunste van zelfstandigen, toegekend en dit voor zover ze voldoen aan de overige voorwaarden van §§ 
+1 of 2, naargelang de aard van hun onderbreking. § 4. De zelfstandigen en helpers bedoeld 
+in § 3 kunnen het aldaar bedoelde maandelijkse bedrag slechts cumuleren met een of meerdere andere 
+vervangingsinkomens voor zover de som van het maandelijks bedrag bedoeld in § 3 en de andere vervangingsinkomens 
+per maand niet meer bedraagt dan 1.614,10 euro. Ingeval van overschrijding wordt het maandelijks bedrag 
+bedoeld in § 3 verminderd ten belope van deze overschrijding. § 5. De gerechtigden 
+op primaire ongeschiktheids- of invaliditeitsuitkeringen die een activiteit als zelfstandige met de toelating 
+van de adviserend arts van hun verzekeringsinstelling uitoefenen, al naargelang het geval, met toepassing 
+van artikel 100, § 2, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging 
+en uitkeringen, gecoördineerd op 14 juli 1994 of de artikelen 23 of 23bis van het koninklijk besluit 
+van 20 juli 1971 houdende instelling van een uitkeringsverzekering en een moederschapsverzekering ten 
+voordele van de zelfstandigen en van de meewerkende echtgenoten, en die, onder de voorwaarden bepaald 
+in de paragrafen 1 tot 3, hun toegelaten activiteit moeten onderbreken, kunnen op geen enkel bedrag aan 
+overbruggingsrecht voor deze onderbreking van activiteit aanspraak maken.".Art. 3. In artikel 
+5 van dezelfde wet worden de volgende wijzigingen aangebracht:1°  in paragraaf 2 worden de 
+woorden "1°  tot en met 3° " opgeheven;2°  er wordt een paragraaf 3 toegevoegd luidende:" 
+§ 3. Het behoud van de sociale rechten, zoals bedoeld in artikel 3, 2°,  van de wet van 22 december 
+2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen, is niet van toepassing 
+op de zelfstandigen, helpers en meewerkende echtgenotes bedoeld in artikel 3.".HOOFDSTUK 2. 
+-  Wijzigingen aan het koninklijk besluit van 20 juli 1971 houdende instelling van een uitkeringsverzekering 
+en een moederschapsverzekering ten voordele van de zelfstandigen en van de meewerkende echtgenotenArt. 
+4.  Artikel 28 van het koninklijk besluit van 20 juli 1971 houdende instelling van een uitkeringsverzekering 
+en een moederschapsverzekering ten voordele van de zelfstandigen en van de meewerkende echtgenoten, laatstelijk 
+gewijzigd bij het koninklijk besluit van 30 juli 2018, waarvan de bestaande tekst paragraaf 1 zal vormen, 
+wordt aangevuld met een paragraaf 2, luidende:" § 2. De uitkeringen worden geweigerd 
+voor de periode gedekt door de maandelijkse financiële uitkering toegekend krachtens hoofdstuk 3 van 
+de wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht 
+ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten 
+gunste van zelfstandigen.".HOOFDSTUK 3 -  InwerkingtredingArt. 5. Dit besluit heeft 
+uitwerking met ingang van 1 maart 2020.Art. 6. De minister bevoegd voor Sociale Zaken en de 
+minister bevoegd voor Zelfstandigen, zijn belast, ieder wat hem betreft, met de uitvoering van dit besluit.Gegeven 
+te Brussel, 27 april 2020.FILIPVan Koningswege :De Minister van Sociale 
+Zaken,M. DE BLOCKDe Minister van Zelfstandigen,D. DUCARME   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040984
+

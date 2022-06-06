@@ -1,0 +1,116 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State  
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-12-20Numac : 2021034359
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 15 DECEMBER 2021. - Omzendbrief nr. 699. - Richtlijnen inzake de toekenning van een dienstvrijstelling voor de personeelsleden van het federaal administratief openbaar ambt die via de Self Assessment Testing Tool verklaren bepaalde milde symptomen te vertonen en die op basis van deze verklaring en de analyse door de Self Assessment Testing Tool het advies krijgen zich te laten testen op het COVID-19-virus - verlenging van de geldigheidsduur van omzendbrief nr. 693 en 693bis voor de vaccinatie tegen het coronavirus (COVID-19) 
+Aan de federale overheidsdiensten en de diensten die ervan afhangen, het Ministerie 
+van Defensie en de instellingen van openbaar nut die behoren tot het federaal administratief openbaar 
+ambt zoals bepaald in artikel 1 van de wet van 22 juli 1993 houdende bepaalde maatregelen inzake ambtenarenzaken.Geachte 
+collega's,Geachte mevrouw,Geachte heer,Overwegende dat via de CAO nr. 160 
+van 19 november 2021 de sociale partners een regeling van gewettigde afwezigheid met loonbehoud hebben 
+ingevoerd voor de werknemers die via de Self Assessment Testing Tool verklaren bepaalde milde symptomen 
+te vertonen en die op basis van deze verklaring en de analyse door de Self Assessment Testing Tool het 
+advies krijgen zich te laten testen op het COVID-19-virus;Overwegende de uitzonderlijke situatie 
+waarmee België in het algemeen en de arbeidswereld in het bijzonder te maken krijgen in het kader van 
+de gezondheidscrisis door het COVID-19-virus, en in het bijzonder de overbelasting van de huisartsen 
+in het kader van consultaties door personen, waaronder werknemers, met milde symptomen die mogelijks 
+wijzen op een besmetting met het COVID-19-virus, wat een tijdelijke situatie uitmaakt;Overwegende 
+de noodzaak om de richtlijnen voor de personeelsleden van het federaal administratief openbaar ambt te 
+verduidelijken en te preciseren, aangezien de regeling uitgewerkt via CAO nr.160 niet op hen van toepassing 
+is;1. Dienstvrijstelling voor de personeelsleden die via de Self Assessment Testing Tool verklaren 
+bepaalde milde symptomen te vertonenDe Self Assessment Testing Tool werd ter beschikking gesteld 
+om de huisartsen te ontlasten van de buitengewone bijkomende werklast in het kader van consultaties door 
+burgers/werknemers met milde symptomen die mogelijks wijzen op een besmetting met het COVID-19-virus 
+en die zich om de verspreiding van het virus tegen te gaan willen laten testen. Hiervoor hebben ze een 
+activatiecode nodig en, in het geval van de werknemers, een afwezigheidsattest voor hun werkgever en 
+duidelijkheid over hun juridisch statuut. Met deze omzendbrief wordt een regeling vastgesteld rond de 
+toekenning van een dienstvrijstelling voor de contractuele en statutaire personeelsleden tewerkgesteld 
+binnen het federaal administratief openbaar ambt.Een persoon die ernstige symptomen vertoont, 
+tot een risicogroep behoort of waarvan de gezondheidstoestand snel achteruit gaat, zal daarentegen van 
+de Self Assessment Testing Tool het advies krijgen om contact op te nemen met een arts. Deze regeling 
+is niet van toepassing op hen, maar wel omzendbrief nr.685bis van 27 augustus 2021.Bovendien 
+is deze regeling niet van toepassing op de personeelsleden die zich, ongeacht de aard van hun symptomen, 
+te ziek voelen om te gaan werken. Deze personeelsleden dienen een arts te raadplegen voor een medisch 
+onderzoek om hun arbeidsongeschiktheid te laten vaststellen.De Self Assessment Testing Tool 
+is niet bedoeld voor personeelsleden die zich dienen te laten testen omdat zij een hoogrisicocontact 
+hadden, om een geldig COVID safe ticket (CST) te bekomen of om te reizen.Het personeelslid 
+heeft het recht om afwezig te zijn van het werk om zich te laten testen op het COVID-19-virus op basis 
+van de analyse en het advies van de Self Assessment Testing Tool.Het is het personeelslid dat 
+niet kan telewerken toegestaan afwezig te zijn van het werk gedurende de tijd die nodig is om een test 
+te laten afnemen die nagaat of het personeelslid besmet is met het COVID-19-virus en om het resultaat 
+van die test te bekomen, met een maximumduur van 36 uur vanaf het aanmaken van het afwezigheidsattest 
+door de Self Assessment Testing Tool. Het personeelslid bekomt voor deze toegestane afwezigheidsperiode 
+(= de nodige tijd voor de afname van de test en om het resultaat te bekomen) een dienstvrijstelling. 
+Aan het personeelslid dat kan telewerken, is het toegestaan om afwezig te zijn van het werk 
+gedurende de tijd die nodig is om een test te laten afnemen die nagaat of het personeelslid besmet is 
+met het COVID-19-virus. In dit geval verricht het personeelslid minstens telewerk tot het resultaat van 
+die test bekomen is. Het personeelslid bekomt voor deze toegestane afwezigheidsperiode (= de nodige tijd 
+voor de afname van de test) een dienstvrijstelling.Het personeelslid dat afwezig is van het 
+werk, is ertoe gehouden de werkgevende overheid onmiddellijk te verwittigen. Hij dient hiertoe aan zijn 
+werkgevende overheid het afwezigheidsattest afgeleverd door de Self Assessment Testing Tool over te maken.Zodra 
+hij het testresultaat kent, verwittigt het personeelslid zijn werkgevende overheid van zijn werkhervatting 
+of zijn verdere afwezigheid.Gelet op de bescherming van de privacy, is het personeelslid er 
+niet toe gehouden de ingevulde vragenlijst van de Self Assessment Testing Tool en/of het resultaat van 
+zijn test aan zijn werkgevende overheid bekend te maken.Indien het testresultaat positief is, 
+dan zal de behandelende arts vervolgens bepalen of het personeelslid een quarantainegetuigschrift of 
+een geneeskundig getuigschrift. In het eerste geval kan het personeelslid dat kan telewerken het telewerk 
+verderzetten.Een personeelslid kan maximum drie keer gebruik maken van de mogelijkheid om van 
+het werk afwezig te zijn voor een COVID-19-test op basis van de Self Assessment Testing Tool.Deze 
+regeling is van toepassing voor de periode van 19 november 2021 tot 28 februari 2022.2. Verlenging 
+van de richtlijnen rond dienstvrijstelling voor vaccinatie opgenomen in omzendbrief nr. 693 en 693bisOorspronkelijk 
+was voorzien dat omzendbrief nr.693 van 24 februari 2021 - Richtlijnen voor de personeelsleden van het 
+federaal administratief openbaar ambt inzake de toekenning van een dienstvrijstelling voor de vaccinatie 
+tegen het coronavirus (COVID-19) en een dienstvrijstelling voor de vrijwilligers bij de vaccinatiecentra, 
+en de omzendbrief nr.693bis van 26 juli 2021 - Aanvullende richtlijnen voor de personeelsleden van het 
+federaal administratief openbaar ambt inzake de toekenning van een dienstvrijstelling voor de vaccinatie 
+tegen het coronavirus (COVID-19). - Aanvulling bij omzendbrief nr. 693, van toepassing zouden zijn tot 
+en met 31 december 2021.De maatregelen opgenomen in deze beide omzendbrieven worden verlengd 
+tot 30 april 2022.De Minister van Ambtenarenzaken,P. DE SUTTER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-12-20Numac : 2021034359
+

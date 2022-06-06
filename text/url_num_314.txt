@@ -1,0 +1,272 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/12/2020043320/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-15Numac : 2020043320
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 12 OKTOBER 2020. - Besluit van de Brusselse Hoofdstedelijke Regering betreffende de steun tot vergoeding van de creatieve en culturele instellingen zonder winstoogmerk getroffen door de dringende maatregelen om de verspreiding van het COVID-19-virus te beperken 
+De Brusselse Hoofdstedelijke Regering,Gelet 
+op de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen, 
+artikel 28;Gelet op het feit dat de COVID-19-gezondheidscrisis beschouwd moet worden als een 
+buitengewone gebeurtenis in de zin van artikel 28 van de ordonnantie van 3 mei 2018 betreffende de steun 
+voor de economische ontwikkeling van ondernemingen;Gelet op de akkoordbevinding van de minister 
+van Begroting, gegeven op 27 mei 2020;Gelet op de hoogdringendheid; dat de federale overheid 
+op 18 maart 2020 immers maatregelen heeft getroffen om de verdere verspreiding van het COVID-19-virus 
+in te dijken, waarvan de economische en sociale gevolgen het voortbestaan op zeer korte termijn van creatieve 
+en culturele instellingen zonder winstoogmerk in het gedrang brengen;Overwegende dat de huidige 
+en toekomstige maatregelen die worden genomen om de verspreiding van het virus onder de bevolking te 
+beperken, niet enkel gedurende de verbodsperiode maar ook tijdens de weken erna, uiteraard een hele reeks 
+activiteiten zullen belemmeren, de toegang tot of het bezoek aan locaties aanzienlijk zullen beperken 
+en de voorbereiding van werken of activiteiten zullen verhinderen;Dat het past maatregelen 
+te treffen om het voortbestaan van actoren te garanderen die culturele of creatieve activiteiten met 
+een rechtstreeks of onrechtstreeks doel van algemeen belang verrichten;Dat deze ongunstige 
+gevolgen op zeer korte termijn zullen worden gevoeld, zodat de noodmaatregel onverwijld uitwerking moet 
+krijgen;Dat de steunmaatregel zo snel mogelijk moet worden uitbetaald; een spoedbehandeling 
+is bijgevolg gerechtvaardigd;Op de voordracht van de minister van de Brusselse Hoofdstedelijke 
+Regering bevoegd voor Werk;Na beraadslaging,Besluit :HOOFDSTUK 1. -  Algemene 
+bepalingArtikel 1. Voor de toepassing van dit besluit wordt verstaan onder:1°  creatieve 
+en culturele instellingen zonder winstoogmerk: de rechtspersoon die een activiteit zonder winstoogmerk 
+uitoefent als bedoeld in de bijlage bij dit besluit;2°  de minister: de minister van de Brusselse 
+Hoofdstedelijke Regering bevoegd voor Werk;3°  verordening: de verordening (EU) nr. 1407/2013 
+van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag 
+betreffende de werking van de Europese Unie op de-minimissteun, bekendgemaakt in het Publicatieblad van 
+de Europese Unie L352 van 24 december 2013;4°  BEW: Brussel Economie en Werkgelegenheid bij 
+de Gewestelijke Overheidsdienst Brussel;5°  AVG: de verordening (EU) 2016/679 van het Europees 
+Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband 
+met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking 
+van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);6°  tijdelijke kaderregeling 
+inzake staatssteun: de mededeling van de Commissie van 19 maart 2020 betreffende de tijdelijke kaderregeling 
+inzake staatssteun ter ondersteuning van de economie vanwege de huidige COVID-19-uitbraak, gewijzigd 
+bij de mededeling van 3 april 2020.HOOFDSTUK 2. -  Voorwaarden en vorm van de steunArt. 
+2. In afwijking van artikel 2, 2°  van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische 
+ontwikkeling van ondernemingen, kent de Minister steun toe aan de creatieve en culturele instellingen 
+zonder winstoogmerk die getroffen zijn door de noodmaatregelen die werden genomen om de verdere verspreiding 
+van het COVID-19-virus in te dijken.De verordening bepaalt de toekenningsvoorwaarden voor de 
+steun.Art. 3.  § 1. De steun bestaat uit een eenmalige premie van 4.000 euro, die overeenkomstig 
+de volgende voorwaarden aan de aanvrager wordt toegekend:1°  een inkomstenverlies hebben geleden 
+door de toepassing van de maatregelen die werden genomen om de verdere verspreiding van het COVID-19-virus 
+in te dijken, en die de jaaromzet en de draagkracht met betrekking tot de vaste kosten beïnvloeden;2° 
+ op het grondgebied van het Brussels Hoofdstedelijk Gewest over minstens een bedrijfszetel beschikken;3° 
+ een sociaal oogmerk hebben dat in de statuten is opgenomen en dat niet van economische en commerciële 
+aard is;4°  op 18 maart 2020 een activiteit uitoefenen die onder de NACE-codes van de bijlage 
+bij dit besluit valt;5°  op 18 maart 2020 ten hoogste vijf VTE's in loondienst hebben;6° 
+ niet over overgedragen winsten of niet-toegewezen reserves beschikken van meer dan 5.000 euro bij de 
+afsluiting van de rekeningen op 31 december 2019;7°  niet de steun hebben ontvangen die is 
+voorzien in het bijzondere machtenbesluit nr. 2020/042 betreffende de steun tot vergoeding van de creatieve 
+en culturele instellingen zonder winstoogmerk getroffen door de dringende maatregelen om de verspreiding 
+van het COVID-19-virus te beperken. § 2. Een steun van 2.000 euro wordt automatisch 
+toegekend aan de aanvragers die begunstigde zijn geweest van de steun voorzien in het bijzondere machtenbesluit 
+nr. 2020/042 betreffende de steun tot vergoeding van de creatieve en culturele instellingen zonder winstoogmerk 
+getroffen door de dringende maatregelen om de verspreiding van het COVID-19-virus te beperken.Art. 
+4. Is uitgesloten van de steun of desgevallend gehouden tot de terugbetaling ervan, de aanvrager of de 
+begunstigde:1°  aan wie een sanctie wordt opgelegd op grond van artikel 10 van het ministerieel 
+besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, of elke andere regelgeving die het vervangt of waardoor het wordt vervangen;2° 
+ die niet alle toepasselijke verplichtingen van het sociaal, arbeids- en milieurecht naleeft;3° 
+ tegen wie op 18 maart 2020 al een faillissements- of vereffeningsprocedure was opgestart, of die in 
+staat van faillissement of van vereffening verkeert, zijn werkzaamheden heeft gestaakt, een gerechtelijke 
+reorganisatie ondergaat, of aangifte heeft gedaan van zijn faillissement, ten aanzien van wie een procedure 
+van vereffening of gerechtelijke reorganisatie loopt, of die in een vergelijkbare toestand verkeert ingevolge 
+een soortgelijke procedure die bestaat in andere nationale reglementeringen;4°  die opzettelijk 
+valse of onjuiste inlichtingen verstrekt;5°  die zich in een van de gevallen bevindt als bedoeld 
+in artikel 3, § 1, eerste lid, van de ordonnantie van 8 oktober 2015 houdende algemene regels 
+betreffende de inhouding, de terugvordering en de niet-vereffening van subsidies op het vlak van werkgelegenheid 
+en economie, zolang hij de subsidies als bedoeld in voornoemde ordonnantie niet terugbetaalt overeenkomstig 
+de regels bedoeld in artikel 4 ervan;6°  die al begunstigde is of zal zijn van een van de volgende 
+maatregelen:a) de steun voorzien in het bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke 
+Regering nr. 2020/013 van 7 april 2020 betreffende de steun tot vergoeding van de ondernemingen getroffen 
+door de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;b) 
+de steun voorzien in het bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/007 
+van 16 april 2020 betreffende de steun tot vergoeding van erkende sociale inschakelingsondernemingen 
+die getroffen zijn door de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;c) 
+de steun voorzien in het besluit van de Brusselse Hoofdstedelijke Regering van 23 april 2020 nr. 2020/012 
+van bijzondere machten betreffende de invoering van steunmaatregelen voor de erkende dienstenchequeondernemingen 
+en hun werknemers naar aanleiding van de dringende maatregelen om de verspreiding van het coronavirus 
+COVID-19 te beperken;d) de steun voorzien in het bijzonderemachtenbesluit nr. 2020/030 van 
+de Brusselse Hoofdstedelijke Regering betreffende de steun aan ondernemingen die een terugval van hun 
+activiteit ondergaan als gevolg van de gezondheidscrisis COVID-19;e) de steun voorzien in het 
+besluit van de Brusselse Hoofdstedelijke Regering betreffende de steun voor de evenementensector, de 
+sector van het nachtleven en de toeristische en culturele sector in het kader van de COVID-19-gezondheidscrisis.7° 
+ die in het kader van de COVID-19-gezondheidscrisis steun heeft aangevraagd bij een ander gewest, een 
+gemeenschap of een instelling van openbaar nut die van een van deze entiteiten afhangt, en daartoe de 
+voorwaarden vervult.Vanaf de datum van steunverlening moet de begunstigde de voorwaarden als 
+bedoeld in het eerste lid gedurende drie jaar naleven.HOOFDSTUK 3. -  Procedure voor het dossieronderzoek 
+wat de steunaanvragen en -uitbetalingen betreftArt. 5. De aanvrager dient uiterlijk op 23 november 
+2020 zijn steunaanvraag in bij BEW en vult daartoe het formulier in dat BEW op zijn website ter beschikking 
+stelt.Op straffe van niet-ontvankelijkheid voegt de aanvrager de volgende gegevens bij zijn 
+aanvraag:1°  een verklaring op erewoord of een boekhoudkundig attest aangaande de daadwerkelijke 
+terugval van zijn activiteiten;2°  de op 31 december van het afgelopen boekjaar afgesloten 
+en door de algemene vergadering goedgekeurde resultaatrekeningen en balansen in het geval dat ze niet 
+door de Nationale Bank van België gepubliceerd werden;3°  een verklaring betreffende andere 
+ontvangen steun tegen de achtergrond van de tijdelijke kaderregeling inzake staatssteun en alle andere 
+onder de verordening of andere de-minimisverordeningen vallende steun aan die de onderneming gedurende 
+de twee voorafgaande belastingjaren en het lopende belastingjaar heeft ontvangen.Art. 6. De 
+toekenningsbeslissing wordt binnen de maand van de ontvangst van de steunaanvraag door BEW betekend, 
+met de vermelding dat de steun wordt verleend overeenkomstig de tijdelijke kaderregeling inzake staatssteun.Art. 
+7. De steun wordt vereffend in een enkele schijf.Art. 8.  § 1. § 1. Het beheer 
+en de controle van de aanvragen kan, om de in de aanvraag opgegeven gegevens te controleren of aan te 
+vullen, de verwerking van de volgende categorieën van persoonsgegevens betreffen:1°  de identificatie- 
+en contactgegevens van de personen die namens de aanvragers de aanvraag indienen;2°  de identificatie-, 
+adres- en contactgegevens van de zelfstandige ondernemingen natuurlijk persoon die de premie aanvragen;3° 
+ de identificatiegegevens van de zelfstandige zaakvoerders van de aanvragers;4°  de identificatiegegevens 
+en gegevens betreffende de sociale zekerheidssituatie van de begunstigden van het overbruggingsrecht 
+voor 2020;5°  de gegevens betreffende strafrechtelijke en administratieve sancties en feiten 
+van de aanvragers en begunstigden bedoeld in artikel 4, 1°. In het kader van het beheer en 
+de controle van de aanvragen, is BEW gemachtigd om het rijksregisternummer te gebruiken, in overeenstemming 
+met artikel 8, § 1, lid 3, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van 
+de natuurlijke personen. § 2. BEW is de verwerkingsverantwoordelijke voor de persoonsgegevens 
+bedoeld in § 1.BEW kan de persoonsgegevens, en andere gegevens, bekomen van de aanvrager 
+of van een andere overheidsinstantie. § 3. De maximale bewaringstermijn voor persoonsgegevens 
+die op grond van deze bepaling worden verwerkt, bedraagt drie jaar, behalve voor persoonsgegevens die 
+eventueel nodig zouden zijn voor de behandeling van geschillen met de steunaanvrager, gedurende de tijd 
+die nodig is om dergelijke geschillen te behandelen.HOOFDSTUK 4. -  Controle en terugbetaling 
+van de steunArt. 9. De gewestelijke werkgelegenheidsinspecteurs van het bestuur als bedoeld 
+in artikel 1, 4°  van het besluit van de Brusselse Hoofdstedelijke Regering van 9 juni 2016 houdende 
+bepaling van de met het toezicht en de controle belaste overheden in werkgelegenheidsaangelegenheden 
+en houdende nadere regels met betrekking tot de werking van deze overheden, worden belast met het toezicht 
+op en de controle van de naleving van dit besluit.Art. 10. Deze inspecteurs voeren deze controle 
+of dit toezicht uit overeenkomstig de bepalingen van de ordonnantie van 30 april 2009 betreffende het 
+toezicht op de reglementeringen inzake werkgelegenheid die tot de bevoegdheid van het Brussels Hoofdstedelijk 
+Gewest behoren en de invoering van administratieve geldboeten toepasselijk in geval van inbreuk op deze 
+reglementeringen.Art. 11. De bepalingen van de ordonnantie van 8 oktober 2015 houdende algemene 
+regels betreffende de inhouding, de terugvordering en de niet-vereffening van subsidies op het vlak van 
+werkgelegenheid en economie alsook de uitvoeringsmaatregelen ervan gelden voor de door dit besluit ingevoerde 
+steun.HOOFDSTUK 5. -  SlotbepalingenArt. 12. Dit besluit treedt in werking op de 
+dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 13. De minister bevoegd voor 
+Werk wordt belast met de uitvoering van dit besluit.Brussel, 12 oktober 2020Voor 
+de Brusselse Hoofdstedelijke Regering:De Minister-President van de Brusselse Hoofdstedelijke 
+Regering,R. VERVOORTDe Minister van de Brusselse Hoofdstedelijke Regering belast 
+met Werk,B. CLERFAYT  Bijlage. - Activiteiten die in aanmerking komen voor de steun Annexe. - Activités éligibles à l'aide NACE BEL 2008 
+code Beschrijving Code NACE BEL 2008 Description 14110 Vervaardiging 
+van kleding van leer 14110 Fabrication de vêtements en cuir 14120 Vervaardiging 
+van werkkleding 14120 Fabrication de vêtements de travail 14130 Vervaardiging 
+van andere bovenkleding 14130 Fabrication d'autres vêtements de dessus 14140 
+Vervaardiging van onderkleding 14140 Fabrication de vêtements de dessous 14191 
+Vervaardiging van hoeden en petten 14191 Fabrication de chapeaux et de bonnets 14199 
+Vervaardiging van andere kleding en toebehoren, n.e.g. 14199 Fabrication d'autres vêtements 
+et accessoires n.c.a. 14200 Vervaardiging van artikelen van bont 14200 Fabrication 
+d'articles en fourrure 14310 Vervaardiging van gebreide en gehaakte kousen en sokken 
+14310 Fabrication d'articles chaussants à mailles 14390 Vervaardiging van 
+andere gebreide en gehaakte kleding 14390 Fabrication d'autres articles à mailles 15110 
+Looien en bereiden van leer; bereiden en verven van bont 15110 Apprêt et tannage des cuirs; 
+préparation et teinture des fourrures 15120 Vervaardiging van koffers, tassen en 
+dergelijke en van zadel- en tuigmakerswerk 15120 Fabrication d'articles de voyage, de maroquinerie 
+et de sellerie 15200 Vervaardiging van schoeisel 15200 Fabrication de chaussures 
+16292 Vervaardiging van artikelen van kurk, riet of vlechtwerk 16292 Fabrication 
+d'objets en liège, vannerie et sparterie 18110 Krantendrukkerijen 18110 Imprimerie 
+de journaux 18120 Overige drukkerijen 18120 Autre imprimerie (labeur) 18130 
+Prepress- en premediadiensten 18130 Activités de prépresse 18140 Binderijen 
+en aanverwante diensten 18140 Reliure et activités annexes 18200 Reproductie 
+van opgenomen media 18200 Reproduction d'enregistrements 27402 Vervaardiging 
+van verlichtingsapparaten 27402 Fabrication d'appareils d'éclairage électrique 32121 
+Bewerken van diamant 32121 Travail du diamant 32122 Bewerken van edelstenen 
+(m.u.v. diamant) en van halfedelstenen 32122 Travail des pierres précieuses (sauf le diamant) 
+et des pierres semi-précieuses 32123 Vervaardiging van sieraden 32123 Fabrication 
+d'articles de joaillerie et de bijouterie 32124 Vervaardiging van edelsmeedwerk 
+32124 Fabrication d'articles d'orfèvrerie 32129 Vervaardiging van overige 
+artikelen van edele metalen 32129 Fabrication d'autres articles en métaux précieux 32130 
+Vervaardiging van imitatiesieraden en dergelijke artikelen 32130 Fabrication d'articles de 
+bijouterie de fantaisie et d'articles similaires 32200 Vervaardiging van muziekinstrumenten 
+32200 Fabrication d'instruments de musique 58110 Uitgeverijen van boeken 
+58110 Edition de livres 58130 Uitgeverijen van kranten 58130 Edition 
+de journaux 58140 Uitgeverijen van tijdschriften 58140 Edition de revues 
+et de périodiques 58190 Overige uitgeverijen 58190 Autres activités d'édition 
+58210 Uitgeverijen van computerspellen 58210 Edition de jeux électroniques 
+59111 Productie van bioscoopfilms 59111 Production de films cinématographiques 
+59112 Productie van televisiefilms 59112 Production de films pour la télévision 
+59113 Productie van films, m.u.v. bioscoop- en televisiefilms 59113 Production 
+de films autres que cinématographiques et pour la télévision 59114 Productie van 
+televisieprogramma's 59114 Production de programmes pour la télévision 59120 
+Activiteiten in verband met films en video- en televisieprogramma's na de productie 59120 Post-production 
+de films cinématographiques, de vidéo et de programmes de télévision 59130 Distributie 
+van films en video- en televisieprogramma's 59130 Distribution de films cinématographiques, de 
+vidéo et de programmes de télévision 59140 Vertoning van films 59140 Projection 
+de films cinématographiques 59201 Maken van geluidsopnamen 59201 Production 
+d'enregistrements sonores 59202 Geluidsopnamestudio's 59202 Studios d'enregistrements 
+sonores 59203 Uitgeverijen van muziekopnamen 59203 Edition musicale 59209 
+Overige diensten in verband met het maken van geluidsopnamen 59209 Autres services d'enregistrements 
+sonores 60100 Uitzenden van radioprogramma's 60100 Diffusion de programmes 
+radio 60200 Programmeren en uitzenden van televisieprogramma's 60200 Programmation 
+de télévision et télédiffusion 74101 Ontwerpen van textielpatronen, kleding, juwelen, 
+meubels en decoratieartikelen 74101 Création de modèles pour les biens personnels et domestiques 
+74102 Activiteiten van industriële designers 74102 Activités de design 
+industriel 74103 Activiteiten van grafische designers 74103 Activités de 
+design graphique 74104 Activiteiten van interieurdecorateurs 74104 Décoration 
+d'intérieur 74105 Activiteiten van decorateur-etalagisten 74105 Décoration 
+d'étalage 74109 Overige activiteiten van gespecialiseerde designers 74109 Autres 
+activités spécialisées de design 74201 Activiteiten van fotografen, met uitzondering 
+van persfotografen 74201 Production photographique, sauf activités des photographes de presse 
+74209 Overige fotografische activiteiten 74209 Autres activités photographiques 
+77294 Verhuur en lease van textiel, kleding, sieraden en schoeisel 77294 Location 
+et location-bail de textiles, d'habillement, de bijoux et de chaussures 90011 Beoefening 
+van uitvoerende kunsten door zelfstandig werkende artiesten 90011 Réalisation de spectacles par 
+des artistes indépendants 90012 Beoefening van uitvoerende kunsten door artistieke 
+ensembles 90012 Réalisation de spectacles par des ensembles artistiques 90021 
+Promotie en organisatie van uitvoerende kunstevenementen 90021 Promotion et organisation 
+de spectacles vivants 90022 Ontwerp en bouw van podia 90022 Conception 
+et réalisation de décors 90023 Gespecialiseerde beeld-, verlichtings- en geluidstechnieken 
+90023 Services spécialisés du son, de l'image et de l'éclairage 90029 Overige 
+ondersteunende activiteiten voor de uitvoerende kunsten 90029 Autres activités de soutien au 
+spectacle vivant 90031 Scheppende kunsten, m.u.v. ondersteunende diensten 90031 
+Création artistique, sauf activités de soutien 90032 Ondersteunende activiteiten 
+voor scheppende kunsten 90032 Activités de soutien à la création artistique 90041 
+Exploitatie van schouwburgen, concertzalen en dergelijke 90041 Gestion de salles de théâtre, 
+de concerts et similaires 90042 Exploitatie van culturele centra en multifunctionele 
+zalen ten behoeve van culturele activiteiten 90042 Gestion de centres culturels et de salles 
+multifonctionnelles à vocation culturelle 91011 Bibliotheken,mediatheken en ludotheken 
+91011 Gestion des bibliothèques, des médiathèques et des ludothèques 91012 
+Openbare archieven 91012 Gestion des archives publiques 91020 Musea 
+91020 Gestion des musées 91030 Exploitatie van monumenten en dergelijke 
+toeristenattracties 91030 Gestion des sites et monuments historiques et des attractions touristiques 
+similaires  Gezien om gevoegd te worden bij het bijzonderemachtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/042 betreffende de steun tot vergoeding van de creatieve 
+en culturele instellingen zonder winstoogmerk getroffen door de dringende maatregelen om de verspreiding 
+van het COVID-19-virus te beperkenBrussel, 12 oktober 2020.Voor de Brusselse Hoofdstedelijke 
+Regering:De minister-president van het Brussels Hoofdstedelijk Gewest,R. VERVOORTDe 
+minister van de Brusselse Hoofdstedelijke Regering bevoegd voor Werk,B. CLERFAYT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-15Numac : 2020043320
+

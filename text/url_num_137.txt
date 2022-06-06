@@ -1,0 +1,71 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020041571
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie voor Beleidsexpertise -en OndersteuningDienst ReglementeringAkkoord 
+in onderling overleg tussen de bevoegde autoriteiten van Duitsland en België ter verlenging van het akkoord 
+in onderling overleg van 6 mei 2020 met betrekking tot de situatie van de grensarbeiders die van thuis 
+uit werken in de context van de COVID-19-pandemie1. InleidingOp 6 mei 2020 sloten 
+Duitsland en België een akkoord in onderling overleg overeenkomstig artikel 25, paragraaf 3 van de op 
+11 april 1967 ondertekende Overeenkomst tussen de Bondsrepubliek Duitsland en het Koninkrijk België tot 
+voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen 
+van inkomen en van vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, zoals 
+gewijzigd door het Protocol ondertekend op 5 november 2002, (het "Akkoord").2. VerlengingHet 
+Akkoord bepaalt dat het verlengd kan worden vanaf 31 mei 2020 tot het einde van de volgende kalendermaand 
+door een schriftelijke overeenkomst tussen de twee bevoegde autoriteiten ten minste één week voor de 
+aanvang van de betreffende volgende kalendermaand. In deze context komen de bevoegde autoriteiten van 
+Duitsland en België overeen de toepassing van het Akkoord te verlengen tot 30 juni 2020.3. 
+PublicatieDit akkoord zal worden gepubliceerd in het Duitse "Bundessteuerblatt" en in het Belgisch 
+Staatsblad .Overeengekomen door de ondergetekende bevoegde autoriteiten op 20 mei 2020.Voor 
+de bevoegde autoriteit van België :P. DE VOS, Adviseur-generaal Federale Overheidsdienst 
+Financiën van BelgiëVoor de bevoegde autoriteit van Duitsland :S. BRUNS, Afdelingshoofd 
+Federaal Ministerie van Financiën van Duitsland   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020041571
+

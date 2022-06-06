@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-04Numac : 2021202746
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+  
+Resultaat van de vergelijkende selectie van Duitstalige Controleurs Algemene Administratie Douane en 
+Accijnzen - eerste lijn controle (m/v/x) (niveau B1) voor de FOD Financiën. - Selectienummer: ADG21001 
+Deze selectie werd afgesloten op 28/05/2021. Er is 1 laureaat.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-04Numac : 2021202746
+

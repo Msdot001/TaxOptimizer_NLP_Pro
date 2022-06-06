@@ -1,0 +1,573 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/23/2021010037/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021010037
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 23 JUNI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+De 
+Minister van Binnenlandse Zaken,Gelet op de wet van 31 december 1963 betreffende de civiele 
+bescherming, artikel 4;Gelet op de wet van 5 augustus 1992 op het politieambt, artikelen 11 
+en 42;Gelet op de wet van 15 mei 2007 betreffende de civiele veiligheid, artikelen 181, 182 
+en 187;Gelet op het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken;Gelet op het advies van de Inspecteur 
+van Financiën, gegeven op 22 juni 2021;Gelet op het akkoord van de Staatssecretaris voor Begroting, 
+gegeven op 23 juni 2021;Gelet op het advies van de in Raad vergaderde Ministers, gegeven op 
+23 juni 2021; Gelet op de dringende noodzakelijkheid, die niet toelaat te wachten op het advies 
+van de afdeling wetgeving van de Raad van State binnen een verkorte termijn van vijf werkdagen, onder 
+meer omwille van de noodzaak om maatregelen te overwegen die gegrond zijn op epidemiologische resultaten 
+die van dag op dag evolueren en waarvan de laatste de maatregelen hebben gerechtvaardigd die werden beslist 
+tijdens het Overlegcomité dat is bijeengekomen op 18 juni 2021; dat zodoende op korte termijn bepaalde 
+maatregelen moeten worden genomen en anderen moeten worden aangepast; dat, opdat de sectoren zich zouden 
+kunnen voorbereiden, het ministerieel besluit evenwel voldoende op voorhand officieel dient te worden 
+gepubliceerd in het Belgisch Staatsblad; Overwegende het overleg tussen de regeringen van de 
+deelstaten en de bevoegde federale overheden in frequent gehouden Overlegcomités, in het bijzonder de 
+Overlegcomités van 11 mei 2021 en 4 en 18 juni 2021 voor de in het besluit genomen maatregelen;Overwegende 
+de adviezen van de RAG en van de GEMS; Overwegende het advies van de Hoge Gezondheidsraad van 
+9 juli 2020;Overwegende artikel 191 van het Verdrag betreffende de Werking van de Europese 
+Unie, dat het voorzorgsbeginsel in het kader van het beheer van internationale gezondheidscrisissen en 
+van de actieve voorbereiding van zulke potentiële crisissen verankert; dat dit beginsel inhoudt dat, 
+wanneer een ernstig risico hoogstwaarschijnlijk werkelijkheid zal worden, het aan de overheid is om dringende 
+en voorlopige maatregelen te nemen;Overwegende artikel 6, 1. c) en e) van de Verordening (EU) 
+2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke 
+personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens 
+en tot intrekking van Richtlijn 95/46/EG;Overwegende de Grondwet, artikel 23;Overwegende 
+het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse 
+Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie, betreffende de gezamenlijke 
+gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde 
+agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek 
+bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank 
+bij Sciensano;Overwegende de wet van 9 oktober 2020 houdende instemming met het voormelde samenwerkingsakkoord 
+van 25 augustus 2020;Overwegende het Samenwerkingsakkoord van 24 maart 2021 tussen de Federale 
+Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke 
+Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde 
+entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine 
+of testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht 
+is bij aankomst in België; Overwegende de wet van 8 april 2021 houdende de instemming met het 
+voormelde samenwerkingsakkoord van 24 maart 2021;Overwegende het koninklijk besluit van 22 
+mei 2019 betreffende de noodplanning en het beheer van noodsituaties op het gemeentelijk en provinciaal 
+niveau en betreffende de rol van de burgemeesters en de provinciegouverneurs in geval van crisisgebeurtenissen 
+en -situaties die een coördinatie of een beheer op nationaal niveau vereisen;Overwegende het 
+ministerieel besluit van 13 maart 2020 houdende de afkondiging van de federale fase betreffende de coördinatie 
+en het beheer van de crisis coronavirus COVID-19;Overwegende de protocollen bepaald door de 
+bevoegde ministers in overleg met de betrokken sectoren;Overwegende de Aanbeveling (EU) van 
+2020/1475 van de Raad van 13 oktober 2020 betreffende een gecoördineerde aanpak van de beperking van 
+het vrije verkeer in reactie op de COVID-19-pandemie;Overwegende de Aanbeveling (EU) 2020/912 
+van de Raad van 30 juni 2020 over de tijdelijke beperking van niet-essentiële reizen naar de EU en de 
+mogelijke opheffing van die beperking;Overwegende de Verordening (EU) 2021/953 van het Europees 
+Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding 
+van interoperabele COVID- 19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) 
+teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren;Overwegende de Verordening 
+(EU) 2021/954 van het Europees Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, 
+verificatie en aanvaarding van interoperabele COVID- 19-vaccinatie-, test- en herstelcertificaten (digitaal 
+EU-COVID-certificaat) ten aanzien van onderdanen van derde landen die legaal op het grondgebied van de 
+lidstaten verblijven of wonen tijdens de COVID-19-pandemie;Overwegende de verklaring van de 
+WHO omtrent de karakteristieken van het coronavirus COVID-19, in het bijzonder met betrekking tot de 
+besmettelijkheid en het sterfterisico;Overwegende de kwalificatie van het coronavirus COVID-19 
+als een pandemie door de WHO op 11 maart 2020;Overwegende dat de WHO op 16 maart 2020 het hoogste 
+dreigingsniveau heeft uitgeroepen aangaande het coronavirus COVID-19 dat de wereldeconomie destabiliseert 
+en zich snel verspreidt over de wereld;Overwegende de inleidende toespraak van de directeur-generaal 
+van de WHO van 12 oktober 2020 die aangaf dat het virus zich voornamelijk verspreidt tussen nauwe contacten 
+en aanleiding geeft tot opflakkeringen van de epidemie die onder controle zouden kunnen worden gehouden 
+door middel van gerichte maatregelen; Overwegende de verklaring van de directeur-generaal van 
+de WHO Europa van 15 oktober 2020, die onder meer aangaf dat de overdracht en besmettingsbronnen plaatsvinden 
+in de huizen, binnen in publieke plaatsen en bij de personen die de zelfbeschermingsmaatregelen niet 
+correct naleven;Overwegende de verklaring van de directeur-generaal van de WHO van 26 oktober 
+2020, die aangaf dat alles in het werk moet worden gesteld om de medewerkers van de zorgsector te beschermen; 
+dat scholen en bedrijven kunnen openblijven maar daarvoor compromissen moeten worden gesloten; dat de 
+directeur-generaal bevestigde dat het virus kan worden onderdrukt door snel en bewust in te grijpen; 
+Overwegende de verklaring van de directeur-generaal van de WHO Europa van 29 april 2021, die 
+aangaf dat individuele en collectieve gezondheidsmaatregelen dominante factoren blijven bij het bepalen 
+van het verloop van de pandemie; dat we ons bewust moeten zijn van het feit dat vaccins alleen de pandemie 
+niet zullen beëindigen; dat in de context van de pandemie het een combinatie van vaccins en krachtige 
+gezondheidsmaatregelen is die ons de duidelijkste weg naar het normale biedt;Overwegende de 
+verklaring van de directeur-generaal van de WHO Europa van 20 mei 2021, die aangaf dat het aantal besmettingen 
+en doden daalt maar dat waakzaamheid geboden blijft; dat in de komende maanden de toegenomen mobiliteit, 
+fysieke interacties en bijeenkomsten kunnen leiden tot meer overdracht in Europa; dat indien de sociale 
+maatregelen worden versoepeld, de inspanningen op het gebied van testing en sequencing, isolatie, tracering 
+van contacten, quarantaine en vaccinatie moeten worden verdubbeld om de situatie onder controle te houden 
+en ervoor te zorgen dat de tendensen in dalende lijn blijven gaan; dat noch de testing, noch het toedienen 
+van vaccins een vervanging is voor het naleven van maatregelen zoals het behouden van een afstand houden 
+en het dragen van mondmaskers in openbare ruimten of in de inrichtingen van de gezondheidszorg;Overwegende 
+de verklaring van de directeur-generaal van de WHO van 10 juni 2021, waarin wordt benadrukt dat ondanks 
+de over het algemeen gunstige ontwikkeling van de epidemische situatie in Europa, de vaccinatiegraad 
+van de bevolking, en in het bijzonder de bevolking die vanwege haar leeftijd of co-morbiditeitsfactoren 
+risico loopt, niet een niveau heeft bereikt waarmee elk risico nu zou zijn uitgesloten; dat het coronavirus 
+COVID-19 nog steeds op het Europese grondgebied circuleert; dat de zorgwekkende B.1.617.2 variant (Delta-variant), 
+die gekenmerkt wordt door een grotere overdraagbaarheid, op het punt staat er zich te vestigen; dat het 
+bijgevolg noodzakelijk is voorzichtig te blijven om een nieuwe opflakkering van de epidemie te voorkomen; 
+dat er nog steeds oproep wordt gedaan op de individuele verantwoordelijkheid van de burgers, in het bijzonder 
+wat betreft de eerbiediging van de social distancing;Overwegende dat het daggemiddelde van 
+de nieuwe vastgestelde besmettingen met het coronavirus COVID-19 in België over de voorbije zeven dagen 
+een daling kende tot 432 bevestigde positieve gevallen op 23 juni 2021; Overwegende dat op 
+23 juni 2021 in totaal 450 patiënten getroffen door COVID-19 worden behandeld in de Belgische ziekenhuizen; 
+dat op diezelfde datum in totaal 184 patiënten worden behandeld op de diensten van de intensieve zorg; 
+dat deze cijfers toelaten bepaalde maatregelen te versoepelen;Overwegende dat de incidentie 
+op 23 juni 2021 over een periode van 14 dagen 73 op 100.000 inwoners bedraagt; dat het reproductiegetal 
+op basis van de nieuwe hospitalisaties 0,75 bedraagt; Overwegende dat de bezettingsgraad van 
+de ziekenhuizen blijft dalen; dat de druk op de ziekenhuizen en op de continuïteit van de niet-COVID-19-zorg 
+weliswaar nog steeds reëel is en dat dit een negatief effect heeft op de volksgezondheid; dat een aantal 
+ziekenhuizen zich nog steeds bevindt in fase 1B van het ziekenhuisnoodplan; Overwegende dat 
+de variant B.1.1.7 (Alpha-variant) dominant is geworden in België; dat deze variant besmettelijker is 
+en daardoor het virus nog vlotter kan circuleren onder de bevolking; dat de Delta variant ook reeds op 
+ons grondgebied aanwezig is; dat deze laatste nog besmettelijker is en dat het besmettingspercentage 
+met deze variant toeneemt;Overwegende dat de vaccinatiecampagne van start is gegaan en dat 
+dit al een duidelijk effect heeft op de besmettingen van de 65-plussers en ook de bredere bevolking wordt 
+gevaccineerd; dat een vaccinatiegraad van 88% werd bereikt bij de personen met een risicoprofiel; dat 
+het aantal ziekenhuisopnames en overlijdens daardoor afneemt; Overwegende dat het van belang 
+is dat er een maximale coherentie bestaat bij het nemen van maatregelen voor de handhaving van de openbare 
+orde, teneinde de efficiëntie ervan te maximaliseren; dat deze maatregelen dienen te gelden voor het 
+ganse grondgebied; dat de lokale overheden evenwel de mogelijkheid hebben om, rekening houdend met de 
+epidemiologische toestand op hun grondgebied, strengere maatregelen te nemen voor zover die proportioneel 
+en in de tijd beperkt zijn;Overwegende de urgentie en het risico voor de volksgezondheid die 
+het coronavirus COVID-19 met zich meebrengt voor de bevolking;Overwegende dat het coronavirus 
+COVID-19 een infectieziekte is die meestal de longen en luchtwegen treft;Overwegende dat het 
+coronavirus COVID-19 wordt overgedragen van mens op mens via de lucht; dat de overdracht van de ziekte 
+lijkt plaats te vinden via alle mogelijke emissies via de mond en de neus;Overwegende dat, 
+gezien wat voorafgaat, bepaalde bijeenkomsten in besloten of overdekte plaatsen, maar ook in open lucht, 
+nog steeds een specifieke bedreiging vormen voor de volksgezondheid en aan een aantal beperkingen dienen 
+te worden onderworpen;Overwegende dat de maatregelen houdende een beperking en omkadering van 
+bepaalde activiteiten nog steeds onontbeerlijk en proportioneel zijn om het fundamentele recht op leven 
+en gezondheid van de bevolking te vrijwaren; dat kinderen tot en met 12 jaar, voor wat betreft het maximum 
+aantal toegelaten personen bij bijeenkomsten, steeds worden meegeteld, tenzij uitdrukkelijk anders wordt 
+gesteld;Overwegende dat indien professionele horeca-activiteiten worden uitgeoefend, in de 
+meeste gevallen specifieke regels moeten worden nageleefd, behalve bij dienstverlening aan huis aangezien 
+de dienstverlener in de thuisomgeving niet kan instaan voor de naleving van de toepasselijke regels; 
+dat de naleving van die specifieke regels in de andere gevallen uiterst sterk wordt aanbevolen; Overwegende 
+dat onder "open terras" moet worden begrepen een onderdeel van een inrichting die behoort tot de horecasector 
+of van een professionele traiteur- of cateringonderneming dat gelegen is buiten de besloten ruimte daarvan, 
+waar de open lucht vrij kan circuleren, waar men zitgelegenheid biedt en waar dranken en spijzen voor 
+directe consumptie worden aangeboden; dat het terras minstens over één volledige zijde geopend dient 
+te zijn, ongeacht de weersomstandigheden, en dat een voldoende ventilatie dient te worden verzekerd; 
+dat een overdekt terras waarbij één of meerdere zijden volledig open zijn, dus ook kan beantwoorden aan 
+de definitie van een open terras; dat de open zijde niet deels mag worden afgesloten, zoals bijvoorbeeld 
+met een windscherm of zonnewering; dat een terras in een gesloten ruimte, zoals bijvoorbeeld in een winkelcentrum, 
+niet kan worden beschouwd als een open terras;Overwegende dat moet worden vermeden dat nieuwe 
+mutaties en varianten van het coronavirus die een invloed kunnen hebben op de werkzaamheid van de vaccins 
+ontstaan of zich verspreiden; dat de verklaring van de directeur-generaal van de WHO Europa van 20 mei 
+2021 aangeeft dat de Delta variant reeds werd vastgesteld in minstens 26 landen van de Europese Regio 
+van de WHO; dat deze nog onderzocht wordt; dat deze zich snel kan verspreiden en dominant zou kunnen 
+worden in Europa; dat daarom maatregelen nodig zijn om de verdere verspreiding van deze varianten op 
+het Belgisch grondgebied tegen te gaan, waaronder het verbod om zich op het Belgische grondgebied te 
+begeven voor alle personen die niet over de Belgische nationaliteit bezitten of niet hun hoofdverblijfplaats 
+in België hebben, en die zich tijdens de 14 dagen voorafgaande hun aankomst in België op enig moment 
+op het grondgebied van een land dat op de website "info-coronavirus.be" van de Federale Overheidsdienst 
+Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu als "zone met heel hoog risico" is aangemerkt 
+hebben bevonden vanwege de aanzienlijke verspreiding van een zorgwekkende variant; dat dit verbod niet 
+van toepassing is op de echtgenoot of de partner van een persoon die de Belgische nationaliteit bezit 
+of zijn hoofdverblijfplaats in België heeft, noch op hun kinderen;Overwegende dat de classificatie 
+van een land als heel hoog risico zone een beslissing is van de IMC Volksgezondheid, die in overleg met 
+de minister van Binnenlandse Zaken en de staatssecretaris voor Asiel en Migratie wordt genomen, en die 
+zich baseert op het advies van de RMG met betrekking tot het risico gesteld door de circulatie van één 
+of meerdere varianten in dit land; dat de RMG minstens wekelijks de lijst evalueert; dat de criteria 
+en adviezen van het RMG worden gepubliceerd; Overwegende het potentieel grote aantal landen 
+die als "zone met heel hoog risico" zijn aangewezen, en gezien de noodzaak het luchtverkeer niet buitensporig 
+te belemmeren, moet worden voorzien in een uitzondering voor personen die slechts als transit door een 
+van deze gebieden zijn gereisd, alsmede voor personen die via België reizen in doorreis buiten de EU 
+of Schengen of op weg naar het land waarvan zij de nationaliteit bezitten of het land waar zij hun hoofdverblijfplaats 
+hebben, mits dit land tot de Europese Unie of tot het Schengengebied behoort;Overwegende dat 
+het mogelijk is dat deze gebieden gedurende een bepaalde periode als "zone met heel hoog risico" zullen 
+worden aangewezen; dat er dus ook een uitzondering moet worden voorzien om dwingende humanitaire redenen;Overwegende 
+dat wat betreft de zones die niet zijn aangewezen als een zone met heel hoog risico, en rekening houdend 
+met de wereldwijde vooruitgang van de vaccinatie, het vanaf heden mogelijk is om het verbod op niet-essentiële 
+reizen op te heffen voor personen die een volledige vaccinatie kunnen aantonen voorafgaand aan hun aankomst 
+op het Belgisch grondgebied; dat een volledige vaccinatie wil zeggen dat alle doses van het vaccin voorzien 
+in de bijsluiter werden toegediend sinds tenminste 2 weken; dat het vaccin moet goedgekeurd zijn door 
+het Europees Geneesmiddelenagentschap; Overwegende dat de invoering van het EU Digitale COVID 
+Certificaat op Europees niveau tot doel heeft een geharmoniseerd kader tot stand te brengen om de verplaatsingen 
+binnen de EU te vergemakkelijken; dat dit certificaat een digitaal bewijs is dat aantoont of iemand tegen 
+het coronavirus COVID-19 is ingeënt, of negatief is getest, of recent van het coronavirus COVID-19 is 
+hersteld; dat personen vanaf de leeftijd van 12 jaar die hun hoofdverblijfplaats niet in België hebben 
+en die vanuit een rode zone op het Belgisch grondgebied aankomen, geen negatief PCR-testresultaat moeten 
+voorleggen wanneer zij in het bezit zijn van het EU Digitale COVID Certificaat;Overwegende 
+dat deze beperkingen, gezien de nog steeds kwetsbare gezondheidssituatie, noodzakelijk zijn om te voorkomen 
+dat de situatie opnieuw snel verslechtert en om ervoor te zorgen dat de inspanningen van de gehele bevolking 
+en van alle betrokken sectoren, met inbegrip van de economische en de gezondheidssector, niet teniet 
+worden gedaan; Overwegende dat er evenwel rekening moet worden gehouden met het mentale welzijn 
+van de bevolking en de voortgang van de vaccinatiecampagne; dat, in deze optiek, en gezien de gunstige 
+ontwikkeling van de gezondheidssituatie, nieuwe versoepelingen kunnen worden voorzien, waaronder bijkomende 
+versoepelingen ten opzichte van de beslissingen van het Overlegcomité van 11 mei, 4 en 18 juni 2021; 
+Overwegende dat het risico op besmetting buiten kleiner is; dat in deze fase buitenactiviteiten 
+daarom in de mate van het mogelijke steeds de voorkeur moeten krijgen; dat daarom evenementen buiten 
+met meer aanwezigen kunnen plaatsvinden dan binnen; Overwegende dat de gunstige evolutie van 
+de gezondheidssituatie toegelaten heeft dat de meeste activiteiten, met inbegrip van de binnenactiviteiten 
+van de horecasector, opnieuw worden toegelaten middels de naleving van bepaalde precieze modaliteiten, 
+in het bijzonder betreffende de luchtkwaliteit en de openingsuren; dat sommige van deze modaliteiten 
+kunnen worden versoepeld; dat ook de protocollen van toepassing blijven; Overwegende dat bij 
+het uitoefenen van horeca-activiteiten het in principe toegestane maximaal aantal personen per tafel 
+verhoogd kan worden naar acht, kinderen tot en met 12 jaar niet meegeteld; dat een huishouden dat groter 
+is dan acht personen evenwel een tafel mag delen, ongeacht de grootte van dat huishouden; dat de afstand 
+tussen de tafelgezelschappen buiten mag verminderd worden tot minder dan 1,5 meter indien ze afgescheiden 
+worden door een plexiglazen wand of gelijkwaardig alternatief met een minimale hoogte van 1,8 meter; 
+dat de sluitingstijd voor horecagelegenheden opnieuw kan worden verlengd, en wordt vastgesteld op 01.00 
+uur; dat cafésporten zoals biljart, snooker, bowling, darts en tafelvoetbal, en kansspelen in horecagelegenheden 
+weer toegelaten worden mits de spelers hun mondmasker dragen;Overwegende dat de sluitingstijd 
+voor inrichtingen in de culturele, feestelijke, sportieve, recreatieve en evenementensector eveneens 
+tot 01.00 uur wordt verlengd;Overwegende dat de gunstige evolutie van de gezondheidssituatie 
+het ook mogelijk maakt opnieuw betogingen toe te staan zonder beperking van het maximum aantal deelnemers; 
+dat de naleving van de regels van social distancing en het dragen van een mondmasker evenwel steeds verplicht 
+zijn; Overwegende dat het, gelet op al het bovenstaande, mogelijk is het samenscholingsverbod 
+op te heffen; dat het aantal personen dat deelneemt aan welbepaalde activiteiten beperkt moet blijven; 
+dat het binnen de activiteiten nog steeds noodzakelijk is, tenzij de aard van de activiteit dit niet 
+toelaat, groepen van ten hoogste 8 personen te vormen, teneinde de nauwe contacten te beperken;Overwegende 
+dat vanaf 13 augustus 2021 massa-evenementen mogelijk zijn; dat vanaf dan een afwijkende regeling kan 
+worden voorzien voor de organisatie van dit soort evenementen, in het bijzonder wat betreft het dragen 
+van een mondmasker, de regels van social distancing en het maximaal aantal toegelaten personen; dat deze 
+evenementen evenmin zullen vallen onder de toepasselijke regels voor het professioneel uitoefenen van 
+horeca-activiteiten; dat de modaliteiten voor deze massa-evenementen nog een verdere omkadering krijgen 
+in een samenwerkingsakkoord met de bevoegde entiteiten;Overwegende dat de geplande evenementen 
+in het kader van het Europees Kampioenschap Voetbal worden onderworpen aan de algemene regels die gelden 
+voor evenementen; dat de epidemiologische impact van activiteiten buiten lager is dan van activiteiten 
+binnen; dat de voorkeur wordt gegeven om de wedstrijden van het EK op grote schermen buiten te laten 
+volgen, door maximum 2500 personen per locatie waar het evenement plaatsvindt; dat de bevoegde gemeentelijke 
+overheden en politiediensten erop toezien dat voor deze evenementen de aangewezen preventiemaatregelen 
+voorzien worden;Overwegende dat het maximum aantal toegelaten personen tijdens de erediensten 
+gelijk is aan het maximum aantal personen dat toegelaten is tijdens evenementen indien de bevoegde gemeentelijke 
+overheid dit heeft toegelaten na raadpleging van de CERM of desgevallend de CIRM; dat de CERM en de CIRM 
+toestaan te evalueren of dergelijke activiteiten op een veiligere manier kunnen worden georganiseerd;Overwegende 
+dat telewerk niet langer verplicht is; dat het niettemin wordt aanbevolen; dat het steeds aan de ondernemingen, 
+verenigingen en diensten is om, met inachtneming van de toepasselijke regels van sociaal overleg, de 
+passende preventiemaatregelen te nemen om de regels inzake social distancing te waarborgen; dat zowel 
+de werkgevers als de werknemers en derden gehouden blijven de genoemde preventiemaatregelen toe te passen;Overwegende 
+dat ook wordt voorzien dat een aantal andere activiteiten, zoals het bezoeken van een inrichting die 
+behoort tot de culturele, feestelijke, sportieve, recreatieve en evenementensector, voortaan mogelijk 
+zijn voor gezelschappen bestaande uit maximum acht personen, kinderen tot en met 12 jaar niet meegeteld; 
+dat binnen deze gezelschappen de regels van social distancing niet dienen te worden gerespecteerd; dat 
+de regels van social distancing wel dienen te worden gerespecteerd ten aanzien van de andere aanwezige 
+gezelschappen; Overwegende dat een huishouden maximum acht personen tegelijk binnen in huis 
+of in een klein toeristisch logies mag ontvangen; dat kinderen tot en met 12 jaar in dit kader niet worden 
+meegeteld; dat sterk wordt aanbevolen de preventieve maatregelen maximaal na te leven, zoals het bewaren 
+van afstand, maskerdracht, handhygiëne en ventilatie door het openen van ramen en deuren;Overwegende 
+dat de maatregel houdende een beperking van het aantal duurzaam onderhouden nauwe contacten niet langer 
+geldt; dat het niettemin sterk aangeraden blijft om de nauwe contacten te beperken; Overwegende 
+dat, voor de toepassing van dit besluit, onder "huishouden" moet worden begrepen de personen die onder 
+hetzelfde dak wonen; dat hiermee ook wordt gedoeld op de nieuwe gezinsvormen, zoals nieuw samengestelde 
+gezinnen of andere situaties waarbij de betrokkenen strikt genomen niet onafgebroken onder hetzelfde 
+dak wonen; Overwegende dat de regels specifiek voor huishoudens steeds moeten worden toegepast 
+rekening houdende met het recht op eerbiediging van het privéleven; dat bijvoorbeeld niet wordt verwacht 
+van de verantwoordelijken of het personeel van een horeca-inrichting dat zij nagaan of het inderdaad 
+om de leden van eenzelfde huishouden gaat; Overwegende dat nog steeds een beroep wordt gedaan 
+op het verantwoordelijkheidsgevoel en de geest van solidariteit van elke burger om de regels van social 
+distancing na te leven en om alle gezondheidsaanbevelingen toe te passen; dat de regels van social distancing 
+in het bijzonder betrekking hebben op het behoud van een afstand van 1,5 meter tussen personen, maar 
+ook bijvoorbeeld op een bijzondere aandacht voor hygiëne bij niezen en hoesten;Overwegende 
+dat de hygiënemaatregelen essentieel blijven;Overwegende dat buitenactiviteiten waar mogelijk 
+de voorkeur krijgen; dat indien dit niet mogelijk is, de ruimtes voldoende moeten worden verlucht;Overwegende 
+dat de gezondheidssituatie op regelmatige basis wordt geëvalueerd; dat een volgende evaluatie voorzien 
+wordt op 16 juli 2021; dat dit betekent dat striktere maatregelen nooit zijn uitgesloten,Besluit 
+:Artikel 1. Artikel 1 van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken, wordt aangevuld met de bepalingen onder 
+22°,  23°,  24°,  25°  en 26°  luidende :"22°  "vaccinatie-, test- of herstelcertificaat" : 
+het EU Digitale COVID Certificaat zoals bedoeld in de Verordening (EU) 2021/953 van het Europees Parlement 
+en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele 
+COVID-19 -vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) teneinde het vrije 
+verkeer tijdens de COVID-19-pandemie te faciliteren en in de Verordening (EU) 2021/954 van het Europees 
+Parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding 
+van interoperabele COVID-19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) 
+ten aanzien van onderdanen van derde landen die legaal op het grondgebied van de lidstaten verblijven 
+of wonen tijdens de COVID-19-pandemie, of een certificaat vanuit een derde land dat als equivalent wordt 
+beschouwd door de Europese Commissie op basis van de uitvoeringshandelingen of door België op basis van 
+bilaterale akkoorden. Het vaccinatiecertificaat geeft een volledige vaccinatie aan. Het testcertificaat 
+geeft aan dat een NAAT test niet meer dan 72 uur voor aankomst op het Belgisch grondgebied werd uitgevoerd;23° 
+ "volledige vaccinatie" : de vaccinatie met een vaccin dat goedgekeurd werd door het Europees Geneesmiddelenagentschap 
+en waarvan alle doses van het vaccin voorzien in de bijsluiter werden toegediend sinds tenminste 2 weken;24° 
+ "massa-evenement" : een evenement zoals bedoeld in artikel 15, § 5 met een publiek van meer dan 
+5000 personen;25°  "proef- en pilootproject" : een project zoals bedoeld in artikel 29bis;26° 
+ "klein toeristisch logies" : een vakantiewoning die maximaal 15 personen kan herbergen.".Art. 
+2. Artikel 2 van hetzelfde besluit wordt vervangen als volgt :" § 1. Telewerk is sterk 
+aanbevolen bij alle ondernemingen, verenigingen en diensten, welke grootte zij ook hebben, voor alle 
+personeelsleden wiens functie zich ertoe leent. Telewerk wordt verricht in overeenstemming met de bestaande 
+collectieve arbeidsovereenkomsten en akkoorden.  § 2. De ondernemingen, verenigingen 
+en diensten, zoals bedoeld in de eerste paragraaf nemen tijdig passende preventiemaatregelen om de naleving 
+van de regels van social distancing te garanderen en een maximaal niveau van bescherming te bieden.Deze 
+passende preventiemaatregelen zijn veiligheids- en gezondheidsvoorschriften van materiële, technische 
+en/of organisatorische aard zoals bepaald in de "Generieke gids om de verspreiding van COVID-19 op het 
+werk tegen te gaan", die ter beschikking wordt gesteld op de website van de Federale Overheidsdienst 
+Werkgelegenheid, Arbeid en Sociaal Overleg, aangevuld met richtlijnen op sectoraal en/of ondernemingsniveau, 
+en/of andere passende maatregelen die minstens een gelijkwaardig niveau van bescherming bieden. Collectieve 
+maatregelen hebben steeds voorrang op individuele maatregelen.Deze passende preventiemaatregelen 
+worden op het niveau van de onderneming, vereniging of dienst, zoals bedoeld in de eerste paragraaf uitgewerkt 
+en genomen met inachtneming van de geldende regels van het sociaal overleg, en in overleg met de diensten 
+voor preventie en bescherming op het werk.Deze ondernemingen, verenigingen en diensten, informeren 
+de personen die bij hen werkzaam zijn tijdig over de geldende preventiemaatregelen en verstrekken hun 
+een passende opleiding. Ze informeren ook derden tijdig over de geldende preventiemaatregelen.Werkgevers, 
+werknemers en derden zijn ertoe gehouden de in de onderneming, vereniging of dienst geldende preventiemaatregelen 
+toe te passen. § 3. De sociaal inspecteurs van de Algemene Directie Toezicht op het 
+Welzijn op het Werk van de Federale Overheidsdienst Werkgelegenheid, Arbeid en sociaal overleg zijn belast 
+met het informeren en begeleiden van werkgevers en werknemers van de ondernemingen, verenigingen en diensten, 
+zoals bedoeld in de eerste paragraaf, en overeenkomstig het Sociaal Strafwetboek met het toezien op de 
+naleving van de verplichtingen die er gelden overeenkomstig de paragrafen 1 en 2.".Art. 3. 
+In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht :1° in het tweede 
+lid wordt de bepaling onder 2°  opgeheven;2°  in het tweede lid wordt de bepaling onder 5° 
+ vervangen als volgt : "5°  indien de voor het publiek toegankelijke vloeroppervlakte minder dan 40 m2 
+bedraagt, is het toegelaten om vier consumenten te ontvangen;";3°  in het tweede lid wordt 
+de bepaling onder 8°  vervangen als volgt : "8°  de activiteit moet zo worden georganiseerd dat de regels 
+van de social distancing kunnen worden gerespecteerd, eveneens voor wat betreft personen die buiten de 
+inrichting wachten;";4°  het derde lid wordt opgeheven;5°  het vierde lid wordt opgeheven.Art. 
+4. In artikel 6 van hetzelfde besluit worden de volgende wijzigingen aangebracht :1°  paragraaf 
+1 wordt vervangen als volgt : " § 1. Bij het professioneel uitoefenen van horeca-activiteiten 
+kunnen afhaalmaaltijden en -dranken worden aangeboden en geleverd tot ten laatste 01.00 uur.";2° 
+ in paragraaf 2, eerste lid, worden de woorden "behoudens in geval van dienstverlening aan huis" vervangen 
+door de woorden "behoudens in geval van dienstverlening aan huis en in geval van massa-evenementen.";3° 
+ in paragraaf 2, eerste lid, wordt de bepaling onder 2°  vervangen als volgt : "2°  de uitbater organiseert 
+zich zodanig dat de regels van de social distancing kunnen worden gerespecteerd, eveneens voor wat betreft 
+de personen die buiten de inrichting wachten;";4°  in paragraaf 2, eerste lid, wordt de bepaling 
+onder 6°  vervangen als volgt : "6°  de tafels worden zo geplaatst dat een afstand van minstens 1,5 meter 
+tussen de tafelgezelschappen wordt gegarandeerd, tenzij op het open terras voor zover de tafelgezelschappen 
+worden gescheiden door een plexiglazen wand of een gelijkwaardig alternatief, met een minimale hoogte 
+van 1,8 meter;";5°  in paragraaf 2, eerste lid, wordt de bepaling onder 7°  vervangen als volgt 
+: "7°  een maximum van acht personen per tafel is toegestaan, kinderen tot en met 12 jaar niet meegeteld;";6° 
+ in paragraaf 2, eerste lid, wordt de bepaling onder 9°  vervangen als volgt : "9°  elke persoon moet 
+aan zijn eigen tafel blijven zitten, onder voorbehoud van de bepalingen onder 11°  en 12°  en behalve 
+voor het uitoefenen van cafésporten en kansspelen;";7°  in paragraaf 2, eerste lid, wordt de 
+bepaling onder 13°  vervangen als volgt : "13°  de openingsuren zijn beperkt van 05.00 uur tot 01.00 
+uur;";8°  in paragraaf 2 wordt het vierde lid opgeheven;9°  in paragraaf 2 wordt 
+het vijfde lid vervangen als volgt : "Dienstverlening aan huis is in het kader van de activiteiten bedoeld 
+in deze paragraaf toegelaten tot uiterlijk 01.00 uur.".Art. 5.  Artikel 7bis van hetzelfde 
+besluit wordt opgeheven.Art. 6. In artikel 8, § 1, van hetzelfde besluit worden de volgende 
+wijzigingen aangebracht :1°  in het eerste lid wordt de bepaling onder 4°  vervangen als volgt 
+: "4°  de inrichting organiseert zich zodanig dat de regels van de social distancing kunnen worden gerespecteerd, 
+eveneens voor wat betreft de personen die buiten de inrichting wachten;";2°  in het eerste 
+lid wordt de bepaling onder 9°  vervangen als volgt : "9°  de openingsuren zijn beperkt van 05.00 uur 
+tot 01.00 uur;";3°  het tweede lid wordt vervangen als volgt : "Bezoekers mogen worden ontvangen 
+in groepen van maximum acht personen, kinderen tot en met 12 jaar niet meegeteld, tenzij dit onmogelijk 
+is omwille van de aard van de activiteit. Groepen van meer dan acht personen zijn toegestaan voor zover 
+ze behoren tot hetzelfde huishouden.".Art. 7. In artikel 9 van hetzelfde besluit worden de 
+volgende wijzigingen aangebracht :1°  in het eerste lid wordt de bepaling onder 5°  opgeheven; 
+2°  het tweede lid wordt opgeheven.Art. 8. In artikel 10 van hetzelfde besluit wordt 
+het tweede lid vervangen als volgt :"Nachtwinkels mogen geopend blijven vanaf het gebruikelijke 
+openingsuur tot 01.00 uur.".Art. 9. In artikel 13 van hetzelfde besluit worden de volgende 
+wijzigingen aangebracht :1°  In het eerste lid worden de bepalingen onder 1°,  3°  en 6°  opgeheven;2° 
+ In het eerste lid wordt de bepaling onder 2°  vervangen als volgt : "2°  de markt- en kermiskramers, 
+hun personeel en hun klanten dragen een mondmasker of elk alternatief in stof overeenkomstig artikel 
+25;";3°  in het eerste lid wordt de bepaling onder 7°  vervangen als volgt : "7°  wanneer een 
+markt, jaarmarkt, braderij, brocante- of rommelmarkt, of kermis een bezoekersaantal van meer dan 5000 
+bezoekers op eenzelfde moment ontvangt wordt een éénrichtingsverkeersplan opgesteld, met afzonderlijke 
+toe- en uitgangen tot en van de markt of de kermis.";4°  het eerste lid wordt aangevuld met 
+de bepalingen onder 8°  en 9°  luidende : "8°  de uitbater ziet erop toe dat in de attractie 
+de van toepassing zijnde social distancing gerespecteerd wordt tussen de bezoekers of de toegelaten groepen; 
+9°  de geldende regels met betrekking tot de sanitaire maatregelen, zoals het desinfecteren van de handen 
+voor de attractie, het dragen van het mondmasker en de social distancing worden door middel van affiches 
+in de stand of attractie in herinnering gebracht.";5°  het tweede lid wordt vervangen als volgt 
+: "Bezoekers mogen worden ontvangen in groepen van maximum acht personen, kinderen tot en met 12 jaar 
+niet meegeteld. Groepen van meer dan acht personen zijn toegestaan voor zover ze behoren tot hetzelfde 
+huishouden.".Art. 10. Artikel 14 van hetzelfde besluit wordt opgeheven.Art. 11. Artikel 
+14bis van hetzelfde besluit wordt vervangen als volgt :"Art. 14bis. Tenzij dit onmogelijk is 
+omwille van de aard van de activiteit, worden in het kader van activiteiten groepen gevormd van maximum 
+acht personen, kinderen tot en met 12 jaar niet meegeteld. Tijdens eenzelfde activiteit mogen deze groepen 
+niet wisselen van samenstelling. Groepen van meer dan acht personen zijn toegestaan voor zover ze behoren 
+tot hetzelfde huishouden.". Art. 12. Artikel 15 van hetzelfde besluit wordt vervangen als volgt 
+:"Art. 15. § 1. Elke deelnemer tot en met 17 jaar van een sportieve wedstrijd of sporttraining 
+mag vergezeld worden door één of meerdere leden van hetzelfde huishouden, in afwijking van paragraaf 
+4. § 2. Een of meerdere groepen van maximum 100 personen tot en met 29 juli 2021 en 
+van maximum 200 personen vanaf 30 juli 2021, de begeleiders niet meegeteld, mag deelnemen aan activiteiten 
+in georganiseerd verband, in het bijzonder georganiseerd door een club of vereniging, steeds in aanwezigheid 
+van een meerderjarige trainer, begeleider of toezichter.Tijdens de activiteiten bedoeld in 
+het eerste lid zijn de volgende regels van toepassing, onverminderd de toepasselijke protocollen : 1° 
+ de personen die samenkomen in het kader van deze activiteiten moeten in eenzelfde groep blijven en mogen 
+niet samen worden gezet met de personen van een andere groep;2°  in afwijking van paragraaf 
+4, mag elke deelnemer tot en met 17 jaar vergezeld worden door één of meerdere leden van hetzelfde huishouden. 
+§ 3. Een maximum van 200 personen, kinderen tot en met 12 jaar, de ambtenaar van de burgerlijke 
+stand en de bedienaar van de eredienst niet meegeteld, mag tegelijkertijd aanwezig zijn bij de volgende 
+activiteiten in de gebouwen die hiervoor bestemd zijn, onafhankelijk van het aantal ruimtes binnen het 
+gebouw :1°  de burgerlijke huwelijken;2°  de collectieve uitoefening van de eredienst 
+en de collectieve uitoefening van de niet-confessionele morele dienstverlening en van activiteiten binnen 
+een filosofisch-levensbeschouwelijke vereniging;3°  de individuele uitoefening van de eredienst 
+en de individuele uitoefening van de niet-confessionele morele dienstverlening en van activiteiten binnen 
+een filosofisch-levensbeschouwelijke vereniging;4°  het individueel of collectief bezoek aan 
+een gebouw voor de eredienst of een gebouw voor niet-confessionele morele dienstverlening.Een 
+maximum van 200 personen, kinderen tot en met 12 jaar en de bedienaar van de eredienst niet meegeteld, 
+mag tegelijkertijd aanwezig zijn bij begrafenissen en crematies in afzonderlijke ruimtes van de gebouwen 
+die hiervoor bestemd zijn.Een maximum van 400 personen, kinderen tot en met 12 jaar, de ambtenaar 
+van de burgerlijke stand en de bedienaar van de eredienst niet meegeteld, mag tegelijkertijd aanwezig 
+zijn bij de volgende activiteiten :1°  het bezoek aan een begraafplaats in het kader van een 
+uitvaartceremonie;2°  de activiteiten bedoeld in het eerste lid, 1°,  2°  en 3°,  voor zover 
+deze buiten worden georganiseerd op de plaatsen die hiervoor bestemd zijn, desgevallend overeenkomstig 
+het toepasselijke protocol.In afwijking van het eerste, tweede en derde lid, zijn de maximale 
+aantallen personen bepaald in paragraaf 4 van toepassing na toelating van de bevoegde gemeentelijke overheid 
+overeenkomstig artikel 16. Tijdens de activiteiten bedoeld in deze paragraaf dienen de volgende 
+minimale regels te worden nageleefd, onverminderd de toepasselijke protocollen : 1°  de uitbater 
+of organisator informeert de aanwezigen tijdig en duidelijk zichtbaar over de geldende preventiemaatregelen;2° 
+ een afstand van 1,5 meter tussen elke groep bedoeld in artikel 14bis, wordt gegarandeerd;3° 
+ het bedekken van de mond en neus met een mondmasker is verplicht en het dragen van andere persoonlijke 
+beschermingsmiddelen wordt steeds sterk aanbevolen;4°  de activiteit moet zo worden georganiseerd 
+dat de regels van social distancing kunnen worden gerespecteerd eveneens voor wat betreft de personen 
+die buiten de inrichting of de gebouwen wachten;5°  de uitbater of organisator stelt middelen 
+voor de noodzakelijke handhygiëne ter beschikking van het personeel en de aanwezigen;6°  de 
+uitbater of organisator neemt de gepaste hygiënemaatregelen om de inrichting en het gebruikte materiaal 
+regelmatig te desinfecteren;7°  de uitbater of organisator zorgt voor een goede verluchting;8° 
+ fysieke aanrakingen tussen personen zijn verboden, behalve tussen de leden van een groep bedoeld in 
+artikel 14bis of van eenzelfde huishouden;9°  bij blootstelling van het lichaam tijdens begrafenissen 
+en crematies dient een afstand van 1,5 meter gerespecteerd te worden ten opzichte van het blootgestelde 
+lichaam. § 4. Een zittend publiek van maximum 2000 personen tot en met 29 juli 2021 
+en een publiek van maximum 3000 personen vanaf 30 juli 2021, mag evenementen, culturele en andere voorstellingen, 
+sportieve wedstrijden en trainingen, en congressen bijwonen, voor zover deze binnen worden georganiseerd 
+met naleving van de modaliteiten voorzien in artikel 8, § 1 en het toepasselijke protocol, mits 
+voorafgaande toelating van de bevoegde gemeentelijke overheid overeenkomstig artikel 16. De toelating 
+van de bevoegde gemeentelijke overheid overeenkomstig artikel 16 is niet verplicht indien het publiek 
+minder bedraagt dan 100 personen. Indien horeca-activiteiten worden uitgeoefend, moeten de regels voorzien 
+in artikel 6 worden nageleefd, met uitzondering van artikel 6, § 2, eerste lid, 15°.  Afhaalmaaltijden 
+en -dranken kunnen worden aangeboden in afwijking van artikel 6, § 2, eerste lid, 12°. Een 
+publiek van maximum 2500 personen tot en met 29 juli 2021 en van maximum 5000 personen vanaf 30 juli 
+2021 mag evenementen, culturele en andere voorstellingen, sportieve wedstrijden en trainingen, en congressen 
+bijwonen, voor zover deze buiten worden georganiseerd met naleving van de modaliteiten voorzien in artikel 
+8, § 1 en in het toepasselijke protocol, mits voorafgaande toelating van de bevoegde gemeentelijke 
+overheid overeenkomstig artikel 16. De toelating van de bevoegde gemeentelijke overheid overeenkomstig 
+artikel 16 is niet verplicht indien het publiek minder bedraagt dan 200 personen. Indien horeca-activiteiten 
+worden uitgeoefend, moeten de regels voorzien in artikel 6 worden nageleefd, met uitzondering van artikel 
+6, § 2, eerste lid, 15°.  Afhaalmaaltijden en -dranken kunnen worden aangeboden in afwijking van 
+artikel 6, § 2, eerste lid, 12°.  Compartimentering van het publiek aanwezig in de sportinfrastructuur 
+tijdens sportieve wedstrijden, voor zover deze buiten worden georganiseerd, is toegelaten op voorwaarde 
+dat geen vermenging mogelijk is van het publiek aanwezig in de verschillende compartimenten, voor, tijdens 
+en na de sportieve wedstrijd. Hiertoe wordt per compartiment een aparte in- en uitgang en sanitaire infrastructuur 
+voorzien. De capaciteit van alle compartimenten samen mag niet meer dan één derde van de totale capaciteit 
+van de sportinfrastructuur bedragen.De evenementen, culturele en andere voorstellingen, sportieve 
+wedstrijden en trainingen en congressen bedoeld in deze paragraaf kunnen enkel plaatsvinden tussen 05.00 
+uur en 01.00 uur. § 5. Vanaf 13 augustus 2021 mag een publiek van maximum 75.000 personen 
+per dag, medewerkers en organisatoren niet meegeteld, massa-evenementen en proef- en pilootprojecten 
+bijwonen, voor zover deze buiten worden georganiseerd mits voorafgaande toelating van de bevoegde gemeentelijke 
+overheid overeenkomstig artikel 16 en de modaliteiten van het toepasselijk samenwerkingsakkoord.In 
+afwijking van het eerste lid, kan tijdens een massa-evenement gebruik worden gemaakt van een tent, op 
+voorwaarde dat ten minste twee zijden daarvan volledig open en vrij zijn. Het gebruik van een luchtkwaliteitsmeter 
+(CO2) is verplicht en deze dient in het midden van de tent op een voor de bezoeker duidelijk 
+zichtbare plaats geïnstalleerd te worden. De luchtkwaliteitsrichtnorm is 900 ppm CO2. 
+Tussen 900 ppm en 1200 ppm dient de organisator te beschikken over een actieplan om compenserende luchtkwaliteits- 
+of luchtzuiveringsmaatregelen te verzekeren. Boven 1200 ppm mag de tent niet gebruikt worden. De 
+aankomstzone tot het massa-evenement wordt zodanig georganiseerd dat de regels van de social distancing 
+kunnen worden gerespecteerd.  § 6. De handelsbeurzen zijn toegelaten met naleving van 
+de modaliteiten voorzien in artikel 5 en in het toepasselijke protocol.".Art. 13. Artikel 15bis 
+van hetzelfde besluit wordt vervangen als volgt : "Art. 15bis. Ieder huishouden mag maximum 
+acht personen tegelijkertijd binnen in huis of in een klein toeristisch logies ontvangen, kinderen tot 
+en met 12 jaar niet meegeteld.".Art. 14. In artikel 16 van hetzelfde besluit worden de volgende 
+wijzigingen aangebracht :1°  in het eerste lid worden de woorden "artikel 15, § 1, § 
+4, vierde lid, en § 5" vervangen door de woorden "artikel 15, § 3, vierde lid, en §§ 
+4 en 5";2°  het tweede lid wordt vervangen als volgt : "Evenementen, culturele en andere voorstellingen, 
+sportieve wedstrijden en trainingen, en congressen bedoeld in artikel 15, § 4, eerste lid, kunnen 
+enkel worden toegelaten voor een zittend publiek van maximum 100% van de CIRM-capaciteit, zonder 2000 
+personen te overschrijden tot en met 29 juli 2021 en zonder 3000 personen te overschrijden vanaf 30 juli 
+2021, voor zover deze binnen worden georganiseerd.".Art. 15. In artikel 19bis van hetzelfde 
+besluit worden de woorden "samenscholingen te vermijden en" opgeheven.Art. 16. In artikel 21 
+van hetzelfde besluit worden de volgende wijzigingen aangebracht :1°  Er wordt een paragraaf 
+1bis ingevoegd, luidende : " § 1bis. De maatregelen vervat in § 1 zijn niet van toepassing 
+op reizigers die voor aankomst op het grondgebied met een vaccinatiecertificaat een volledige vaccinatie 
+kunnen aantonen. Indien gebruik wordt gemaakt van een vervoerder, is deze ertoe gehouden te 
+controleren dat de reizigers bedoeld in het eerste lid, voorafgaand aan de boarding, in het bezit zijn 
+van een vaccinatiecertificaat. Bij gebrek aan dit vaccinatiecertificaat, is de vervoerder ertoe gehouden 
+het boarden te weigeren. Bij gebrek aan dit vaccinatiecertificaat of bij valse, misleidende 
+of onvolledige informatie in dit vaccinatiecertificaat, kan in voorkomend geval de binnenkomst geweigerd 
+worden overeenkomstig artikel 14 van de Schengengrenscode of artikel 43 van de wet van 15 december 1980 
+betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.";2° 
+ in paragraaf 2, eerste lid, worden de woorden "Onverminderd paragraaf 1" vervangen door de woorden "Onverminderd 
+paragrafen 1 en 1bis";3°  in paragraaf 2, eerste lid, worden de woorden "het grondgebied van 
+Brazilië, Zuid-Afrika of India" vervangen door de woorden "het grondgebied van een land dat op de website 
+"info-coronavirus.be" van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen 
+en Leefmilieu als zone met heel hoog risico is aangemerkt.";4°  in paragraaf 2 wordt het eerste 
+lid aangevuld met bepalingen onder 3°,  4°,  5°  en 6°  luidende :  "3°  de reizen van de echtgenoot, 
+of partner van een persoon die beschikt over de Belgische nationaliteit of zijn hoofdverblijfplaats heeft 
+in België voor zover zij onder hetzelfde dak wonen, evenals de reizen van hun kinderen die onder hetzelfde 
+daken wonen, mits zij in het bezit zijn van een attest van essentiële reis uitgereikt door de Belgische 
+diplomatieke of consulaire post. De feitelijke partners moeten eveneens een aannemelijk bewijs leveren 
+van een stabiele en duurzaam onderhouden relatie. 4°  doorreizen buiten de Schengenzone en 
+de Europese Unie; 5°  doorreizen in België vanuit een land bedoeld in de eerste lid naar het 
+land van nationaliteit of hoofdverblijfplaats, voor zover dit land zich binnen de Europese Unie of de 
+Schengenzone bevindt;  6°  de reizen om dwingende humanitaire reden, mits zij in het bezit 
+zijn van een attest van dwingende humanitaire reden, uitgereikt door de Belgische diplomatieke of consulaire 
+post, goedgekeurd door de Dienst Vreemdelingenzaken.";5°  paragraaf 2 wordt aangevuld met een 
+derde lid, luidende : "Wanneer een land wordt aangemerkt als zone met heel hoog risico overeenkomstig 
+het eerste lid, treedt het inreisverbod op het Belgisch grondgebied in werking op het moment zoals aangegeven 
+op de website "info-coronavirus.be" en ten vroegste 24 uren na de publicatie op die website.";6° 
+ paragraaf 7 wordt vervangen als volgt : " § 7. In geval van een reis bedoeld in de paragrafen 
+3, 4 en 5 dient eenieder, vanaf de leeftijd van 12 jaar, die op het Belgisch grondgebied toekomt vanuit 
+een grondgebied dat op de website "info-coronavirus.be" van de Federale Overheidsdienst Volksgezondheid, 
+Veiligheid van de Voedselketen en Leefmilieu als rode zone is aangemerkt, en die geen hoofdverblijfplaats 
+heeft in België, te beschikken over een negatief testresultaat van een test die ten vroegste 72 uren 
+voor aankomst op het Belgisch grondgebied werd afgenomen of over een vaccinatie-, test- of herstelcertificaat. 
+Desgevallend is de vervoerder ertoe gehouden te controleren dat deze personen, voorafgaand aan het instappen, 
+een negatief testresultaat of een erkend vaccinatie-, test- of herstelcertificaat voorleggen. Bij gebrek 
+aan een negatief testresultaat of een erkend vaccinatie-, test- of herstelcertificaat is de vervoerder 
+ertoe gehouden het instappen te weigeren.Bij gebrek aan een negatief testresultaat van een 
+test die ten vroegste 72 uren voor aankomst op het Belgisch grondgebied werd afgenomen of aan een vaccinatie-, 
+test- of herstelcertificaat of bij valse, misleidende of onvolledige informatie kan in voorkomend geval 
+de binnenkomst geweigerd worden overeenkomstig artikel 14 van de Schengengrenscode of artikel 43 van 
+de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en 
+de verwijdering van vreemdelingen. De uitzondering op de verplichting om te beschikken over 
+een negatief testresultaat of over een vaccinatie-, test- of herstelcertificaat, zoals voorzien in het 
+eerste lid voor de reizigers waarvan de reis geen gebruik van een vervoerder inhoudt en waarvan het verblijf 
+in België niet langer duurt dan 48 uren of waarvan het voorafgaand verblijf buiten België niet langer 
+heeft geduurd dan 48 uren, is niet van toepassing op de personen die zich op enig moment tijdens de 14 
+dagen voor hun aankomst in België bevonden hebben op het grondgebied van een land dat als zone met heel 
+hoog risico is aangemerkt overeenkomstig paragraaf 2, eerste lid. ".Art. 17. In artikel 23 
+van hetzelfde besluit worden de volgende wijzigingen aangebracht :1°  in paragraaf 2 wordt 
+het vijfde streepje vervangen als volgt : "op personen onderling die behoren tot een groep bedoeld in 
+artikel 6, § 2, 7°,  artikel 8, § 1, tweede lid, artikel 13, tweede lid, en artikel 14bis; 
+"; 2°  de tweede paragraaf wordt aangevuld met een zevende streepje, luidende : "- tijdens 
+massa-evenementen".Art. 18. In artikel 25 van hetzelfde besluit worden de volgende wijzigingen 
+aangebracht :1°  In het tweede lid wordt de bepaling onder 6°  vervangen als volgt : "6°  de 
+winkelstraten, de markten, de kermissen, en elke private of publieke druk bezochte plaats, zoals bepaald 
+door de bevoegde lokale overheid en afgebakend met een aanplakking die de tijdstippen preciseert waarop 
+de verplichting van toepassing is;";2°  het tweede lid wordt aangevuld met de bepalingen onder 
+11°  en 12°  luidende : "11°  tijdens betogingen; 12°  de markten, met inbegrip van 
+jaarmarkten, braderijen, brocante- en rommelmarkten, en kermissen die meer dan 5000 personen op eenzelfde 
+moment ontvangen.";3°  er wordt een vijfde lid toegevoegd luidende : "In afwijking van het 
+tweede lid, 9°,  mag bij evenementen, culturele en andere voorstellingen, sportieve wedstrijden en trainingen, 
+en congressen die buiten worden georganiseerd, wanneer het publiek verplicht is te blijven zitten, het 
+mondmasker worden afgedaan zolang de persoon zit.".Art. 19. Artikel 28 van hetzelfde besluit 
+wordt vervangen als volgt :"De maatregelen voorzien in dit besluit zijn van toepassing tot 
+en met 30 september 2021, behoudens andersluidende bepaling.".Art. 20. In artikel 29bis van 
+hetzelfde besluit wordt het eerste lid aangevuld met de woorden ", met uitzondering van het maximum aantal 
+personen bedoeld in artikel 15, § 5.".Art. 21. Bijlage 1 van hetzelfde besluit wordt 
+opgeheven.Art. 22. Bijlage 3, tweede lid, van hetzelfde besluit wordt aangevuld met de bepaling 
+onder 12°,  luidende : "12°  de reizen van de echtgenoot of partner van een persoon die beschikt over 
+de nationaliteit van een land van de Europese Unie of van de Schengenzone, voor zover zij onder hetzelfde 
+dak wonen, evenals de reizen van hun kinderen die onder hetzelfde daken wonen. De feitelijke partners 
+moeten eveneens een aannemelijk bewijs leveren van een stabiele en duurzaam onderhouden relatie.".Art. 
+23. Dit besluit treedt in werking op 27 juni 2021, met uitzondering van :1°  de bepalingen 
+in artikel 16, 3°,  4°  en 5°  en artikel 22, die in werking treden bij publicatie van dit besluit;2° 
+ de bepalingen in artikel 16, 1°,  2°  en 6°,  die in werking treden op 1 juli 2021. Brussel, 
+23 juni 2021.De Minister van Binnenlandse Zaken,A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021010037
+

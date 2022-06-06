@@ -1,0 +1,450 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/22/2020020862/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020020862
+FEDERALE OVERHEIDSDIENST FINANCIEN EN FEDERALE OVERHEIDSDIENST ECONOMIE, K.M.O., MIDDENSTAND EN ENERGIE
+ 22 APRIL 2020. - Koninklijk besluit houdende bijzondere maatregelen ter bescherming van de openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten van deelneming tegen de gevolgen van de COVID-19-epidemie 
+VERSLAG AAN DE KONING,Sire,De COVID-19-epidemie 
+veroorzaakt een gezondheidscrisis die ook een zware impact heeft op de economie en de financiële markten. 
+Sinds enkele weken zijn we onder meer getuige van een forse koersval op de financiële markten en een 
+hoge volatiliteit. Voor de instellingen voor collectieve belegging heeft dit gevolgen op verschillende 
+vlakken. Dergelijke marktomstandigheden kunnen immers liquiditeitsproblemen veroorzaken op de markten 
+en ernstige problemen voor de instellingen voor collectieve belegging die geconfronteerd worden met verzoeken 
+tot inkoop van rechten van deelneming door hun beleggers (zie de commentaar bij de artikelen voor een 
+uitgebreidere toelichting hierover). Er dient ook rekening te worden gehouden met een verhoogd risico 
+op onbeschikbaarheid van het personeel wegens ziekte. De gezondheidsmaatregelen die de overheid oplegt 
+om de verspreiding van het COVID-19-virus in te dijken, maken het voor de instellingen voor collectieve 
+belegging ook moeilijk om hun algemene vergadering te organiseren en hun jaarrekening op te stellen.Hieronder 
+lichten wij de maatregelen toe die in dit verband worden voorgesteld in dit ontwerpbesluit.Behoudens 
+uitdrukkelijke vermelding hieronder werd er rekening gehouden met alle opmerkingen van de Raad van State.Artikel 
+1 - Wijziging van de frequentie van de berekening van de netto-inventariswaardeRekening houdend 
+met het bovenstaande wordt een tijdelijke versoepeling voorgesteld bij de beslissing tot vermindering 
+van de frequentie van uitvoering van aanvragen tot uitgifte of inkoop van rechten van deelneming dan 
+wel compartimentswijziging en van de berekening van de netto-inventariswaarde van de rechten van deelneming. 
+Een dergelijke beslissing kan worden genomen omwille van de onbeschikbaarheid van het personeel wegens 
+ziekte (besmetting met COVID-19), waardoor de berekening van de netto-inventariswaarde van de instelling 
+voor collectieve belegging niet langer op een normale wijze kan gebeuren. Meer in het bijzonder vereist 
+een dergelijke beslissing, onder de voorwaarden van het besluit, geen wijziging van het prospectus, de 
+essentiële beleggersinformatie en de statuten of het beheerreglement. Indien een instelling voor collectieve 
+belegging gebruik maakt van deze mogelijkheid, zal zij een persbericht publiceren om de beleggers hiervan 
+op de hoogte te brengen. Uiteraard blijft de verplichting bestaan voor de instelling voor collectieve 
+belegging om minstens tweemaal per maand de aanvragen tot uitgifte of inkoop van rechten van deelneming 
+dan wel compartimentswijziging uit te voeren.Er werd geen gevolg gegeven aan de opmerking van 
+de Raad van State betreffende de uitdrukking `grand tirage' in de Franse versie. Deze uitdrukking wordt 
+immers breed gebruikt in de wetgeving inzake de instellingen voor collectieve belegging.Art. 
+2 - Maatregelen om de liquiditeit van de instellingen voor collectieve belegging te vrijwarenIn 
+de hierboven beschreven omstandigheden bestaat het risico dat beleggers massaal uit bepaalde instellingen 
+voor collectieve belegging met een veranderlijk aantal rechten van deelneming treden. Kenmerkend voor 
+de werking van deze instellingen voor collectieve belegging is immers dat de beleggers hun belegging 
+kunnen liquideren door de instelling voor collectieve belegging te vragen hun rechten van deelneming 
+in te kopen. Dergelijke uittredingen kunnen die instellingen voor collectieve belegging en hun deelnemers 
+in gevaar brengen en, in een extreem scenario, een impact hebben op de markten zelf :-een instelling 
+voor collectieve belegging die geconfronteerd wordt met terugbetalingsaanvragen zal zich immers genoodzaakt 
+zien om posities in haar portefeuille te liquideren teneinde de nodige liquiditeiten te verkrijgen;- 
+in de huidige marktomstandigheden dreigt het moeilijk te worden om grote posities te verkopen of dreigt 
+de verkoopprijs althans weinig interessant te zijn en mogelijks zelfs lager dan de aangegeven marktprijs;- 
+te vrezen valt ook dat in een stresssituatie de meest liquide bestanddelen van de portefeuille als eerste 
+worden gerealiseerd, terwijl andere posities die niet hetzelfde profiel hebben, moeten worden behouden 
+bij gebrek aan een realistische mogelijkheid om ze te verkopen;- als gevolg hiervan dreigen 
+beleggers die in dergelijke omstandigheden hun deelneming in de instelling voor collectieve belegging 
+behouden, benadeeld te worden.Met het koninklijk besluit van 15 oktober 2018 (1) 
+werd voor de openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten van 
+deelneming de mogelijkheid ingevoerd om gebruik te maken van specifieke mechanismen die hen in staat 
+moeten stellen om zo goed mogelijk het hoofd te bieden aan het liquiditeitsrisico :- `swing 
+pricing' is een mechanisme dat ertoe strekt de negatieve impact op de netto-inventariswaarde van een 
+instelling voor collectieve belegging of één van haar compartimenten weg te nemen die veroorzaakt wordt 
+door in- en uittredingen van deelnemers. Indien de netto in- of uittredingen een bepaald niveau overschrijden 
+(de drempel), zal de netto-inventariswaarde naar boven of naar beneden worden bijgesteld met een vastgelegd 
+percentage (de swing factor). In beide gevallen worden de bestaande deelnemers beschermd tegen de kosten 
+die in- en uittredingen met zich meebrengen;- `anti-dilution levy' is, net als `swing pricing', 
+een mechanisme dat ertoe strekt de negatieve impact op de netto-inventariswaarde weg te nemen die veroorzaakt 
+wordt door in- en uittredingen van deelnemers. Indien de netto in- of uittredingen een bepaalde drempel 
+overschrijden, kan de instelling voor collectieve belegging beslissen om een bijkomende kost op te leggen 
+aan de in- en uittredende beleggers;- het mechanisme van `redemption gates' houdt in dat een 
+instelling voor collectieve belegging kan beslissen om de orders van de uittredende deelnemers slechts 
+gedeeltelijk uit te voeren indien een op voorhand vastgelegde drempel wordt overschreden. Aangezien de 
+orders gedeeltelijk worden uitgevoerd, wordt de berekening van de netto-inventariswaarde zelf niet geschorst. 
+Aldus beschikt de instelling voor collectieve belegging over meer tijd om in geval van grote uittredingen 
+de onderliggende activa te gelde te maken op de markt.Naast die drie mechanismen heeft een 
+instelling voor collectieve belegging al geruime tijd de mogelijkheid om de uitvoering van aanvragen 
+tot uitgifte en inkoop van rechten van deelneming alsook de berekening van de netto-inventariswaarde 
+volledig te schorsen.Gezien de hierboven beschreven omstandigheden, wordt een tijdelijke versoepeling 
+voorgesteld van de voorwaarden voor het gebruik van `swing pricing', `anti-dilution levy' en `redemption 
+gates', volgens de hieronder nader bepaalde regels. Bedoeling is dat instellingen voor collectieve belegging 
+naar Belgisch recht zo snel mogelijk gebruik kunnen maken van deze mechanismen gezien de huidige marktomstandigheden 
+:- de bepalingen die voorschrijven dat de regels voor het gebruik van `swing pricing', `anti-dilution 
+levy' en `redemption gates' moeten worden opgenomen in, naargelang het geval, het prospectus, de statuten 
+en/of het beheerreglement, worden niet van toepassing verklaard. Het prospectus, de statuten en/of het 
+beheerreglement van een groot aantal instellingen voor collectieve belegging bevatten immers niet de 
+vereiste bepalingen om, krachtens het voormelde koninklijk besluit van 15 oktober 2018, gebruik te kunnen 
+maken van die mechanismen;- meer bepaald voor `redemption gates' wordt er ook een uitzondering 
+gemaakt op de vereiste om een beleid uit te werken waarin de toepassingsvoorwaarden van dit mechanisme 
+worden gepreciseerd, evenals op de vereiste om in het belangenconflictenbeleid de belangenconflicten 
+te identificeren die verband houden met het gebruik van dat mechanisme, en om de met het oog op het beheer 
+van die belangenconflicten te volgen procedures en te nemen maatregelen te definiëren. Deze uitzondering 
+wordt gerechtvaardigd door het ernstige en dringende karakter van de omstandigheden waarin het `redemption 
+gates'-mechanisme zal worden gebruikt. De meeste instellingen voor collectieve belegging hebben op dit 
+ogenblik nog niet de nodige wijzigingen aangebracht in hun beleid. Voor `swing pricing' en `anti-dilution 
+levy', geldt deze uitzondering niet.De instellingen voor collectieve belegging moeten bijgevolg 
+nog steeds een beleid opstellen wanneer ze gebruik wensen te maken van `swing pricing' en `anti-dilution 
+levy' en moeten dit beleid aan de FSMA bezorgen voorafgaand aan het eerste gebruik van het betrokken 
+mechanisme. Voor meer uitleg over de inhoud van dit beleid kan worden verwezen naar het Verslag aan de 
+Koning van het voornoemde koninklijk besluit van 15 oktober 2018. Tevens moet het belangenconflictenbeleid 
+rekening houden met het gebruik van deze mogelijkheden.- uiterlijk de eerste keer dat gebruik 
+wordt gemaakt van `swing pricing' of `anti-dilution levy' in het kader van de hier ingevoerde regeling, 
+moet een bericht worden gepubliceerd op de website van de instelling voor collectieve belegging of van 
+de beheervennootschap en in twee dagbladen die landelijk of in grote oplage worden verspreid, of via 
+enig ander gelijkwaardig communicatiemiddel dat is goedgekeurd door de FSMA.De informatie over 
+het mechanisme die krachtens de normale regels in het prospectus zou moeten worden opgenomen, moet in 
+elk geval worden opgenomen in dit bericht.Ingevolge de toepassing van de gebruikelijke regels 
+voor publicatie van persberichten, moeten ook deze berichten op voorhand worden overgemaakt aan de FSMA 
+die ze echter niet moet goedkeuren vóór hun publicatie.Deze publicatie is belangrijk voor de 
+goede informatieverstrekking aan de beleggers, die aldus op de hoogte worden gebracht van het mogelijke 
+gebruik van deze liquidity tools.Behalve de aldus ingevoerde bijzondere bepalingen, blijft 
+de wettelijke regeling die is ingevoerd bij het voornoemde koninklijk besluit van 15 oktober 2018 onverkort 
+van toepassing. Ook het beginsel dat een instelling voor collectieve belegging moet worden beheerd of 
+bestuurd in het uitsluitend belang van de deelnemers blijft onverminderd gelden. En uiteraard behoudt 
+de FSMA haar toezichtsbevoegdheden.De bijzondere regeling die dit besluit invoert is strikt 
+tijdelijk van aard. De gewone regels zullen dus weer volledig van toepassing zijn zodra de toepassingstermijn 
+van dit besluit is verstreken.Tot slot wordt gepreciseerd dat de tijdelijke wijzigingen die 
+worden ingevoerd door dit besluit geen andere afwijkingen inhouden van de bepalingen van Boek VI van 
+het Wetboek van Economisch Recht dan reeds ingevoerd door het voornoemde koninklijk besluit van 15 oktober 
+2018.Art. 3 - Uitstel van de datum voor openbaarmaking van de periodieke verslagen van instellingen 
+voor collectieve beleggingMede gezien de verstoring die de COVID-19-epidemie veroorzaakt, wordt 
+voorgesteld om instellingen voor collectieve belegging een langere termijn toe te kennen, i.e. een verlenging 
+met 10 weken, om hun jaar- en halfjaarverslagen openbaar te maken. Voor het jaarverslag wordt enkel een 
+verlenging toegekend voor de duur waarmee de algemene vergadering verdaagd werd.Ik heb de eer 
+te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De 
+Minister van Financiën,A. DE CROODe Minister van Economie,N. MUYLLE_______Nota(1) 
+Koninklijk besluit van 15 oktober 2018 tot wijziging van het koninklijk besluit van 7 maart 2006 met 
+betrekking tot de effectenleningen door bepaalde instellingen voor collectieve belegging, van het koninklijk 
+besluit van 10 november 2006 op de boekhouding, de jaarrekening en de periodieke verslagen van bepaalde 
+openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten van deelneming, 
+van het koninklijk besluit van 12 november 2012 met betrekking tot de beheervennootschappen van instellingen 
+voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG, van het koninklijk 
+besluitvan 12 november 2012 met betrekking tot de instellingen voor collectieve belegging die voldoen 
+aan de voorwaarden van Richtlijn 2009/65/EG en van het koninklijk besluit van 25 februari 2017 met betrekking 
+tot bepaalde openbare alternatieve instellingen voor collectieve belegging en hun beheervennootschappen, 
+en houdende diverse bepalingen.RAAD VAN STATE,afdeling WetgevingAdvies 
+67.191/2 van 6 april 2020 over een ontwerp van koninklijk besluit `houdende bijzondere maatregelen ter 
+bescherming van de openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten 
+van deelnemingen tegen de gevolgen van de COVID-19-epidemie'Op 1 april 2020 is de Raad van 
+State, afdeling Wetgeving, door de Minister van Werk, Economie en Consumenten, belast met Armoedebestrijding, 
+Gelijke Kansen en Personen met een beperking verzocht binnen een termijn van vijf werkdagen een advies 
+te verstrekken over een ontwerp van koninklijk besluit `houdende bijzondere maatregelen ter bescherming 
+van de openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten van deelnemingen 
+tegen de gevolgen van de COVID-19-epidemie'.Het ontwerp is door de tweede kamer onderzocht 
+op 6 april 2020. De kamer was samengesteld uit Pierre Vandernoot, kamervoorzitter, Patrick Ronvaux en 
+Christine Horevoets, staatsraden, Sébastien Van Drooghenbroeck, assessor, en Béatrice Drapier, griffier.Het 
+verslag is uitgebracht door Anne-Stéphanie Renson, adjunct-auditeur.De overeenstemming tussen 
+de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van Pierre Vandernoot.Het 
+advies, waarvan de tekst hierna volgt, is gegeven op 6 april 2020.Volgens artikel 84, § 
+1, eerste lid, 3°,  van de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, moeten in 
+de adviesaanvraag in het bijzonder de redenen worden opgegeven tot staving van het spoedeisende karakter 
+ervan.De motivering in de brief luidt als volgt :"De hoogdringendheid wordt gemotiveerd 
+door de COVID-19-epidemie, die aanzienlijke spanningen op de financiële markten veroorzaakt, waaronder 
+een forse koersval en een hoge volatiliteit. Dergelijke marktomstandigheden kunnen liquiditeitsproblemen 
+veroorzaken op de markten en ernstige problemen voor de instellingen voor collectieve belegging die geconfronteerd 
+worden met verzoeken tot inkoop van rechten van deelneming door hun beleggers. Een instelling voor collectieve 
+belegging die geconfronteerd wordt met terugbetalingsaanvragen kan zich immers genoodzaakt zien om posities 
+in haar portefeuille te liquideren teneinde de nodige liquiditeiten te verkrijgen.In de huidige 
+marktomstandigheden dreigt het echter moeilijk te worden om grote posities te verkopen of dreigt de verkoopprijs 
+althans weinig interessant te zijn en mogelijks zelfs lager dan de aangegeven marktprijs. Als gevolg 
+hiervan dreigen beleggers die in dergelijke omstandigheden hun deelneming in de instelling voor collectieve 
+belegging behouden benadeeld te worden. Het koninklijk besluit van 15 oktober 2018 heeft een aantal mechanismen 
+ingevoerd waarvan de instellingen voor collectieve belegging gebruik kunnen maken om hun liquiditeit 
+te behouden en om bovenvermelde problemen te vermijden. De toepassing van deze mechanismen vereist echter 
+dat de statuten, het beheerreglement en het prospectus van de betrokken instellingen het gebruik ervan 
+mogelijk maken, wat vaak nog niet het geval is.In deze omstandigheden wordt een tijdelijke 
+versoepeling voorgesteld van deze mechanismen, zodat zij zo snel mogelijk daadwerkelijk kunnen worden 
+toegepast. Bedoeling is dat de instellingen voor collectieve belegging naar Belgisch recht zo snel mogelijk 
+gebruik kunnen maken van deze mechanismen gezien de huidige marktomstandigheden. Deze maatregelen zijn 
+dringend, gezien de snelheid van de ontwikkelingen op de financiële markten. Bovendien is het van belang 
+dat er snel maatregelen worden genomen gezien de moeilijkheden die instellingen voor collectieve belegging 
+ondervinden bij het organiseren van hun algemene vergaderingen en dus bij het publiceren van hun periodieke 
+verslagen. Tot slot kan de berekening van de netto-inventariswaarde van de instellingen voor collectieve 
+belegging bemoeilijkt worden in geval van onbeschikbaarheid van een groot aantal personeelsleden wegens 
+ziekte. Bijgevolg moeten er zo snel mogelijk maatregelen worden genomen om een instelling voor collectieve 
+belegging in staat te stellen de frequentie van deze berekening te verminderen zonder dat er een statutaire 
+wijziging daarvoor nodig zou zijn."Aangezien de adviesaanvraag ingediend is op basis van artikel 
+84, § 1, eerste lid, 3°,  van de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, 
+beperkt de afdeling Wetgeving overeenkomstig artikel 84, § 3, van de voornoemde gecoördineerde 
+wetten haar onderzoek tot de rechtsgrond van het ontwerp, de bevoegdheid van de steller van de handeling 
+en de te vervullen voorafgaande vormvereisten.Wat die drie punten betreft, geeft het ontwerp 
+aanleiding tot de volgende opmerkingen.Onderzoek van het ontwerpAanhef1. 
+Artikel 108 van de Grondwet dient niet als rechtsgrond van het ontwerp vermeld te worden, aangezien de 
+wetsbepalingen waarvan melding gemaakt wordt in het tweede en in het derde lid van de aanhef voldoende 
+rechtsgrond opleveren voor het ontwerp.Het eerste lid van de aanhef moet weggelaten worden.2. 
+De gemachtigde van de minister is het ermee eens dat het tweede lid aangevuld dient te worden met de 
+vermelding van artikel 88, § 3, vierde lid, van de wet van 3 augustus 2012 `betreffende de instellingen 
+voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG en de instellingen 
+voor belegging in schuldvorderingen' en dat het derde lid van de aanhef aangevuld dient te worden met 
+de vermelding van artikel 252, § 3, derde lid, van de wet van 19 april 2014 `betreffende de alternatieve 
+instellingen voor collectieve belegging en hun beheerders'.Die bepalingen bevatten immers de 
+machtiging aan de Koning om de openbaarmakingstermijn van de jaarverslagen en de halfjaarlijkse verslagen 
+vast te stellen en vormen bijgevolg de rechtsgrond van artikel 3.3. Hoewel in het dispositief 
+van het ontwerp verwezen wordt naar de koninklijke besluiten waarvan melding gemaakt wordt in het vierde 
+tot het zevende lid van de aanhef, meer bepaald omdat daarvan afgeweken wordt, worden ze niet formeel 
+gewijzigd.Die koninklijke besluiten moeten dus niet in de aanhef vermeld worden. Zij kunnen 
+evenwel in de aanhef opgenomen worden in de vorm van overwegingen, die dan na het lid moeten komen waarin 
+naar dit advies verwezen wordt.DispositiefArtikel 11. In artikel 1, § 
+1, eerste zin, zijn de woorden "Niettegenstaande enige bepaling in hun statuten of beheerreglement" redundant 
+ten opzichte van artikel 1, §  2. Ze moeten dus weggelaten worden.2. Artikel 1, § 
+1, tweede zin, bepaalt dat "[d]e verlaging (...) tijdelijk [is] en enkel mogelijk indien strikt noodzakelijk".Gevraagd 
+naar de draagwijdte van die bepaling heeft de gemachtigde van de minister het volgende geantwoord :"A 
+l'article 1er, § 1er, les mots `uniquement possible dans la 
+mesure strictement nécessaire' visent à exprimer le fait que la diminution de la fréquence de calcul 
+est seulement permise (a) pour autant que les problèmes opérationnels liés à l'épidémie de COVID 19 (absence 
+de personnel pour cause de maladie) l'imposent et (b) uniquement aussi longtemps que ces problèmes subsistent."In 
+het licht van het verstrekte antwoord blijkt dat de bepaling er enkel toe strekt de vermindering mogelijk 
+te maken van de frequentie van uitvoering van aanvragen tot uitgifte of inkoop van rechten van deelneming 
+dan wel compartimentswijziging in geval van operationele problemen die te wijten zijn aan het feit dat 
+personeel afwezig is omwille van ziekte. De formulering van de ontworpen bepaling zou bijgevolg op dat 
+punt verduidelijkt moeten worden om te voorkomen dat van die mogelijkheid gebruikgemaakt wordt in andere 
+gevallen dan die waarnaar in het antwoord van de gemachtigde van de minister verwezen wordt.3. 
+In de Franse tekst van paragraaf 3 dient het woord "du" vervangen te worden door de woorden "de la possibilité 
+visée au".In de Nederlandse versie van dezelfde tekst dient het woord "vermeld" ingevoegd te 
+worden tussen het woord "mogelijkheid" en de woorden "in paragraaf 1".4. In de Franse tekst 
+van dezelfde paragraaf 3 zouden de woorden "grand tirage" in plaats van "tirage suffisant" beter overeenstemmen 
+met het begrip "grote opslag" dat in de Nederlandse tekst voorkomt.Dezelfde opmerking geldt 
+voor de artikelen 2, § 1, 5°  en 7°,  en 2, § 2, 4°  en 6°.Artikel 21. 
+In artikel 2, § 1, 1°,  dienen de woorden "artikel 21/1, eerste lid, 5° " vervangen te worden 
+door de woorden "artikel 21/1, tweede lid, 5° ".Dezelfde wijziging moet aangebracht worden 
+in artikel 2, §  2, 1°.2. In artikel 2, § 1, 2°,  dienen de woorden "artikel 
+117, § 4, eerste lid, 5° " vervangen te worden door de woorden "artikel 117, § 4, tweede 
+lid, 5° ".3. Overeenkomstig artikel 2, § 1, 6°,  mogen de openbare instellingen voor 
+collectieve belegging met een veranderlijk aantal rechten van deelneming het mechanisme bedoeld in artikel 
+198/1 van het koninklijk besluit van 12 november 2012 `met betrekking tot de instellingen voor collectieve 
+belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG' enkel toepassen als op een bepaalde 
+dag de negatieve schommeling van het saldo van het passief van de instelling voor collectieve belegging, 
+voor die dag, een percentage overschrijdt dat zij vooraf zelf heeft vastgelegd.Op de vraag 
+of het niet wenselijk zou zijn om de ontworpen bepaling aldus aan te vullen dat daarin uitdrukkelijk 
+vermeld wordt dat het percentage in dat geval niet in het prospectus openbaar gemaakt moet worden, heeft 
+de gemachtigde van de minister het volgende geantwoord :"Cette précision ne nous paraît pas 
+nécessaire. Pour les OPCA, l'application du point IV, 5, troisième tiret, de l'annexe A de l'AR du 25 
+février 2017 (= disposition sur la base de laquelle ce pourcentage doit normalement être inclus dans 
+les statuts) est déjà exclue par le § 2, 2°.  Pour les OPC répondant aux conditions de la directive, 
+une disposition à l'effet identique est prévue au § 1, 3°. "Hoewel artikel 2, § 
+1, 3°,  meebrengt dat punt IV, 5, derde streepje, van bijlage A bij het koninklijk besluit van 12 november 
+2012 niet van toepassing is ingeval gebruikgemaakt wordt van het mechanisme waarin artikel 198/1 van 
+hetzelfde besluit voorziet, toch neemt dat niet weg dat in artikel 198/1 zelf ook bepaald wordt dat de 
+instelling voor collectieve belegging het percentage openbaar moet maken in haar prospectus. Het voorliggende 
+ontwerp voorziet er echter niet in dat dat artikel 198/1 - noodzakelijkerwijze - niet van toepassing 
+wordt verklaard. Om elke verwarring te voorkomen en teneinde tegemoet te komen aan het door de steller 
+van het ontwerp nagestreefde doel, zou bijgevolg uitdrukkelijk vermeld moeten worden dat de verplichting 
+waarin artikel 198/1 voorziet in dit geval niet van toepassing is.Een soortgelijke opmerking 
+kan geformuleerd worden wat betreft artikel 2, § 2, 5°.4. In paragraaf 2, 3°,  dienen 
+de woorden "artikel 82, § 4, eerste lid, 5° " vervangen te worden door de woorden "artikel 82, 
+§ 4, tweede lid, 5° ".5. De steller van het ontwerp dient zich ervan te vergewissen 
+of de tweede zin van paragraaf 3 nut heeft in het licht van de eerste zin ervan en dus of het dienstig 
+is die tweede zin te behouden.Artikel 3Artikel 3 voorziet in de mogelijkheid om de 
+openbaarmakingstermijnen van de jaarverslagen en de halfjaarlijkse verslagen van de openbare instellingen 
+voor collectieve belegging met een veranderlijk aantal rechten van deelneming te verdagen.De 
+gemachtigde van de minister is het ermee eens dat de structuur van de eerste twee leden herzien moet 
+worden teneinde de strekking van artikel 3 te verduidelijken. In tegenstelling tot wat men uit de huidige 
+bewoordingen van het eerste lid zou kunnen afleiden, verschillen de beoogde regels voor het verdagen 
+van de termijnen voor de halfjaarlijkse verslagen van die voor de jaarverslagen. De eerste twee leden 
+moeten dan ook aldus herzien worden dat het eerste lid betrekking heeft op de halfjaarlijkse verslagen 
+(waarvoor de termijnen met vier maanden verlengd worden) en het tweede lid op de jaarverslagen (waarvoor 
+de termijnen verlengd worden als de algemene vergadering verdaagd werd en in dat geval wordt de termijn 
+verlengd met de duur van de verdaging van de algemene vergadering).De griffier,B. 
+DrapierDe voorzitter,P. Vandernoot22 APRIL 2020. - Koninklijk 
+besluit houdende bijzondere maatregelen ter bescherming van de openbare instellingen voor collectieve 
+belegging met een veranderlijk aantal rechten van deelneming tegen de gevolgen van de COVID-19-epidemieFILIP, 
+Koning der Belgen,Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op de wet van 3 augustus 2012 betreffende de instellingen voor collectieve belegging die voldoen aan 
+de voorwaarden van Richtlijn 2009/65/EG en de instellingen voor belegging in schuldvorderingen, het artikel 
+64, § 1, 1°,  gewijzigd bij de wet van 17 juli 2013 en de wet van 19 april 2014, het artikel 82, 
+tweede lid, het artikel 86, gewijzigd bij de wet van 25 december 2016, het artikel 88, § 3, vierde 
+lid, gewijzigd bij de wet van 19 april 2014 en het artikel 218, vierde lid;Gelet op de wet 
+van 19 april 2014 betreffende de alternatieve instellingen voor collectieve belegging en hun beheerders, 
+het artikel 229, § 1, 1°,  het artikel 245, gewijzigd bij de wet van 25 december 2016, het artikel 
+249, gewijzigd bij de wet van 25 december 2016, het artikel 252, § 3, derde lid en het artikel 
+330;Gelet op het advies van de Autoriteit voor Financiële Diensten en Markten, gegeven op 31 
+maart 2020;Gelet op de hoogdringendheid gemotiveerd door de COVID-19-epidemie, die aanzienlijke 
+spanningen op de financiële markten veroorzaakt, waaronder een forse koersval en een hoge volatiliteit;Overwegende 
+het feit dat dergelijke marktomstandigheden liquiditeitsproblemen kunnen veroorzaken op de markten en 
+ernstige problemen voor de instellingen voor collectieve belegging die geconfronteerd worden met verzoeken 
+tot inkoop van rechten van deelneming door hun beleggers. Een instelling voor collectieve belegging die 
+geconfronteerd wordt met terugbetalingsaanvragen kan zich immers genoodzaakt zien om posities in haar 
+portefeuille te liquideren teneinde de nodige liquiditeiten te verkrijgen. In de huidige marktomstandigheden 
+dreigt het echter moeilijk te worden om grote posities te verkopen of dreigt de verkoopprijs althans 
+weinig interessant te zijn en mogelijks zelfs lager dan de aangegeven marktprijs. Als gevolg hiervan 
+dreigen beleggers die in dergelijke omstandigheden hun deelneming in de instelling voor collectieve belegging 
+behouden, benadeeld te worden. Het koninklijk besluit van 15 oktober 2018 heeft een aantal mechanismen 
+ingevoerd waarvan de instellingen voor collectieve belegging gebruik kunnen maken om hun liquiditeit 
+te behouden en om bovenvermelde problemen te vermijden. De toepassing van deze mechanismen vereist echter 
+dat de statuten, het beheerreglement en het prospectus van de betrokken instellingen het gebruik ervan 
+mogelijk maken, wat vaak nog niet het geval is. In deze omstandigheden wordt een tijdelijke versoepeling 
+voorgesteld van deze mechanismen, zodat zij zo snel mogelijk daadwerkelijk kunnen worden toegepast. Bedoeling 
+is dat de instellingen voor collectieve belegging naar Belgisch recht zo snel mogelijk gebruik kunnen 
+maken van deze mechanismen gezien de huidige marktomstandigheden. Deze maatregelen zijn dringend, gezien 
+de snelheid van de ontwikkelingen op de financiële markten. Bovendien is het van belang dat er snel maatregelen 
+worden genomen gezien de moeilijkheden die instellingen voor collectieve belegging ondervinden bij het 
+organiseren van hun algemene vergaderingen en dus bij het publiceren van hun periodieke verslagen. Tot 
+slot kan de berekening van de netto-inventariswaarde van de instellingen voor collectieve belegging bemoeilijkt 
+worden in geval van onbeschikbaarheid van een groot aantal personeelsleden wegens ziekte. Bijgevolg moeten 
+er zo snel mogelijk maatregelen worden genomen om een instelling voor collectieve belegging in staat 
+te stellen de frequentie van deze berekening te verminderen zonder dat er een statutaire wijziging daarvoor 
+nodig zou zijn;Gelet op advies 67.191/2 van de Raad van State, gegeven op 6 april 2020, met 
+toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Overwegende het koninklijk besluit van 10 november 2006 op de boekhouding, 
+de jaarrekening en de periodieke verslagen van bepaalde openbare instellingen voor collectieve belegging 
+met een veranderlijk aantal rechten van deelneming;Overwegende het koninklijk besluit van 12 
+november 2012 met betrekking tot beheervennootschappen van instellingen voor collectieve belegging die 
+voldoen aan de voorwaarden van Richtlijn 2009/65/EG;Overwegende het koninklijk besluit van 
+12 november 2012 met betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden 
+van Richtlijn 2009/65/EG;Overwegende het koninklijk besluit van 25 februari 2017 met betrekking 
+tot bepaalde openbare alternatieve instellingen voor collectieve belegging en hun beheervennootschappen, 
+en houdende diverse bepalingen;Op de voordracht van de Minister van Financiën en de Minister 
+van Economie,Hebben Wij besloten en besluiten Wij :Artikel 1.  § 1. Onverminderd 
+artikel 189, § 1 van het koninklijk besluit van 12 november 2012 met betrekking tot de instellingen 
+voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG en artikel 138, § 
+1 van het koninklijk besluit van 25 februari 2017 met betrekking tot bepaalde openbare alternatieve instellingen 
+voor collectieve belegging en hun beheervennootschappen, mogen instellingen voor collectieve belegging 
+de frequentie verminderen van uitvoering van aanvragen tot uitgifte of inkoop van rechten van deelneming 
+dan wel compartimentswijziging en van de berekening van de netto-inventariswaarde van de rechten van 
+deelneming.De vermindering is tijdelijk en enkel mogelijk indien strikt noodzakelijk omwille 
+van de afwezigheid door ziekte, wegens de COVID-19-epidemie, van het nodige personeel om de netto-inventariswaarde 
+van de rechten van deelneming te kunnen berekenen volgens de vastgelegde frequentie.§ 
+2. Dit artikel is van toepassing niettegenstaande enige bepaling in de statuten, het beheerreglement, 
+het prospectus of de essentiële beleggersinformatie van de betrokken instelling voor collectieve belegging.§ 
+3. Als een instelling voor collectieve belegging gebruik maakt van de mogelijkheid vermeld in paragraaf 
+1, maakt zij de nieuwe uitvoeringsfrequentie bekend op haar website of op die van de beheervennootschap, 
+alsook in twee dagbladen die landelijk of in grote oplage worden verspreid, of via enig ander gelijkwaardig 
+communicatiemiddel dat is goedgekeurd door de FSMA.§ 4. Dit artikel is van toepassing 
+tot 31 juli 2020.Art. 2.  § 1. De volgende bepalingen zijn van toepassing op de instellingen 
+voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG :1°  artikel 
+21/1, tweede lid, 5°  van het koninklijk besluit van 10 november 2006 op de boekhouding, de jaarrekening 
+en de periodieke verslagen van bepaalde openbare instellingen voor collectieve belegging met een veranderlijk 
+aantal rechten van deelneming, en punt IV, 3.1/1 van bijlage A van het koninklijk besluit van 12 november 
+2012 met betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden van 
+Richtlijn 2009/65/EG zijn niet van toepassing;2°  artikel 117, § 4, tweede lid, 5°  
+en punt III, 4.4 van bijlage A van het koninklijk besluit van 12 november 2012 met betrekking tot de 
+instellingen voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG zijn 
+niet van toepassing;3°  de artikelen 26/1 en 130, § 3, punt IV, 5, derde streepje van 
+bijlage A en punt 10 van bijlage C van het koninklijk besluit van 12 november 2012 met betrekking tot 
+de instellingen voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG zijn 
+niet van toepassing wat het mechanisme betreft als bedoeld in artikel 198/1 van hetzelfde besluit;4° 
+ de artikelen 12, § 3 en 26/1 van het koninklijk besluit van 12 november 2012 met betrekking tot 
+beheervennootschappen van instellingen voor collectieve belegging die voldoen aan de voorwaarden van 
+Richtlijn 2009/65/EG zijn niet van toepassing wat het mechanisme betreft als bedoeld in artikel 198/1 
+van het koninklijk besluit van 12 november 2012 met betrekking tot de instellingen voor collectieve belegging 
+die voldoen aan de voorwaarden van Richtlijn 2009/65/EG;5°  uiterlijk de eerste keer dat gebruik 
+wordt gemaakt van het mechanisme als bedoeld in artikel 21/1 van het koninklijk besluit van 10 november 
+2006 op de boekhouding, de jaarrekening en de periodieke verslagen van bepaalde openbare instellingen 
+voor collectieve belegging met een veranderlijk aantal rechten van deelneming, of van het mechanisme 
+als bedoeld in artikel 117, § 4 van het koninklijk besluit van 12 november 2012 met betrekking 
+tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG, 
+moet een bericht worden gepubliceerd op de website van de instelling voor collectieve belegging of op 
+die van de beheervennootschap, alsook in twee dagbladen die landelijk of in grote oplage worden verspreid, 
+of via enig ander gelijkwaardig communicatiemiddel dat is goedgekeurd door de FSMA. De informatie bedoeld 
+in de punten III, 4.4 en IV, 3.1/1 van bijlage A van het koninklijk besluit van 12 november 2012 met 
+betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 
+2009/65/EG wordt in ieder geval opgenomen in dit bericht;6°  een instelling voor collectieve 
+belegging mag het mechanisme als bedoeld in artikel 198/1 van het koninklijk besluit van 12 november 
+2012 met betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden van 
+Richtlijn 2009/65/EG enkel toepassen als op een bepaalde dag de negatieve schommeling van het saldo van 
+haar passief, voor die dag, een percentage overschrijdt dat zij vooraf heeft vastgelegd. Dit percentage 
+moet niet in het prospectus gepubliceerd worden;7°  als in het prospectus niet is aangegeven 
+op welke plaats schorsingen van de netto-inventariswaarde moeten worden bekendgemaakt, moet dit, indien 
+gebruik wordt gemaakt van het mechanisme als bedoeld in artikel 198/1 van het koninklijk besluit van 
+12 november 2012 met betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden 
+van Richtlijn 2009/65/EG, worden bekendgemaakt op de website van de instelling voor collectieve belegging 
+of op die van haar beheervennootschap, alsook in twee dagbladen die landelijk of in grote oplage worden 
+verspreid, of via enig ander gelijkwaardig communicatiemiddel dat is goedgekeurd door de FSMA.§ 
+2. De volgende bepalingen zijn van toepassing op openbare AICB's met een veranderlijk aantal rechten 
+van deelneming :1°  artikel 21/1, tweede lid, 5°  van het koninklijk besluit van 10 november 
+2006 op de boekhouding, de jaarrekening en de periodieke verslagen van bepaalde openbare instellingen 
+voor collectieve belegging met een veranderlijk aantal rechten van deelneming, en punt IV, 3.1/1 van 
+bijlage A van het koninklijk besluit van 25 februari 2017 met betrekking tot bepaalde openbare alternatieve 
+instellingen voor collectieve belegging en hun beheervennootschappen zijn niet van toepassing;2° 
+ de artikelen 18/1, 91/1, punt IV, 5, derde streepje van bijlage A en punt 10 van bijlage C van het voormelde 
+koninklijk besluit van 25 februari 2017 zijn niet van toepassing wat het mechanisme betreft als bedoeld 
+in artikel 147/1 van hetzelfde besluit;3°  artikel 82, § 4, tweede lid, 5°  en punt 
+III, 4.4 van bijlage A van het voormelde koninklijk besluit zijn niet van toepassing;4°  uiterlijk 
+de eerste keer dat gebruik wordt gemaakt van het mechanisme als bedoeld in artikel 21/1 van het koninklijk 
+besluit van 10 november 2006 op de boekhouding, de jaarrekening en de periodieke verslagen van bepaalde 
+openbare instellingen voor collectieve belegging met een veranderlijk aantal rechten van deelneming, 
+of van het mechanisme als bedoeld in artikel 82, § 4 van het voormelde koninklijk besluit van 
+25 februari 2017 moet een bericht worden gepubliceerd op de website van de AICB of op die van de beheervennootschap, 
+alsook in twee dagbladen die landelijk of in grote oplage worden verspreid, of via enig ander gelijkwaardig 
+communicatiemiddel dat is goedgekeurd door de FSMA. De informatie bedoeld in de punten III, 4.4 en IV, 
+3.1/1 van bijlage A van het voormelde koninklijk besluit van 25 februari 2017 wordt in ieder geval opgenomen 
+in dit bericht;5°  een AICB mag het mechanisme als bedoeld in artikel 147/1 van het voormelde 
+koninklijk besluit van 25 februari 2017 enkel toepassen als op een bepaalde dag de negatieve schommeling 
+van het saldo van haar passief, voor die dag, een percentage overschrijdt dat zij vooraf heeft vastgelegd. 
+Dit percentage moet niet gepubliceerd worden in het prospectus;6°  als in het prospectus niet 
+is aangegeven op welke plaats schorsingen van de netto-inventariswaarde moeten worden bekendgemaakt, 
+moet dit, indien gebruik wordt gemaakt van het mechanisme als bedoeld in artikel 147/1 van het voormelde 
+koninklijk besluit van 25 februari 2017, worden bekendgemaakt op de website van de AICB of op die van 
+haar beheervennootschap, alsook in twee dagbladen die landelijk of in grote oplage worden verspreid, 
+of via enig ander gelijkwaardig communicatiemiddel dat is goedgekeurd door de FSMA.§ 
+3. Buiten de regels die zijn vastgelegd door dit artikel, worden het prospectus, de essentiële beleggersinformatie, 
+de statuten of het beheerreglement van de instellingen voor collectieve belegging als bedoeld in dit 
+artikel geacht geen enkele bepaling te bevatten die op welke wijze ook het gebruik van de voormelde mechanismen 
+verbiedt, beperkt of aan banden legt. De bepalingen van dit artikel zijn van toepassing, niettegenstaande 
+enige bepaling in de statuten, het beheerreglement, het prospectus en de essentiële beleggersinformatie.§ 
+4. Dit artikel is van toepassing tot 31 juli 2020.Art. 3. De termijnen die respectievelijk 
+worden bedoeld in1°  artikel 207, eerste en tweede lid van het koninklijk besluit van 12 november 
+2012 met betrekking tot de instellingen voor collectieve belegging die voldoen aan de voorwaarden van 
+Richtlijn 2009/65/EG,2°  artikel 156, eerste en tweede lid van het koninklijk besluit van 25 
+februari 2017 met betrekking tot bepaalde openbare alternatieve instellingen voor collectieve belegging 
+en hun beheervennootschappen,3°  artikel 32, § 1 van het koninklijk besluit van 10 november 
+2006 op de boekhouding, de jaarrekening en de periodieke verslagen van bepaalde openbare instellingen 
+voor collectieve belegging met een veranderlijk aantal rechten van deelneming,worden verlengd 
+:1°  met tien weken voor het halfjaarlijks verslag;2°  met dezelfde duur als het 
+uitstel van de algemene vergadering, met een maximum van tien weken, voor het jaarverslag.Dit 
+artikel geldt voor elke termijn die uiterlijk 30 april 2020 is ingegaan.Art. 4. Dit besluit 
+treedt in werking de dag dat het wordt bekendgemaakt in het Belgisch Staatsblad.Art. 5. De 
+minister bevoegd voor Financiën en de minister bevoegd voor Economie zijn, ieder wat hem betreft, belast 
+met de uitvoering van dit besluit.Brussel, 22 april 2020.FILIPVan Koningswege 
+:De Minister van Financiën,A DE CROODe Minister van Economie,N. 
+MUYLLE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020020862
+

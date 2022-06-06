@@ -1,0 +1,266 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/07/2021042174/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-17Numac : 2021042174
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 7 JUNI 2021. - Koninklijk besluit houdende uitvoering van de wet houdende dringende diverse fiscale en fraudebestrijding bepalingen 
+VERSLAG AAN DE KONINGSire,In een ingebrekestelling 
+van de Europese Commissie van 2 juli 2020 gericht aan België met betrekking tot de mogelijke onverenigbaarheid 
+van de omzetting in Belgisch recht van Richtlijn (EU) 2016/1164 van 12 juli 2016 tot vaststelling van 
+regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op de werking 
+van de interne markt, had de Commissie opgemerkt dat in artikel 198/1, § 2, tweede lid, tweede 
+streepje, WIB 92, projecten van publiek-private samenwerking worden vermeld, terwijl artikel 4, lid 4, 
+onder b), van richtlijn 2016/1164 betrekking heeft op langlopende openbare-infrastructuurprojecten.Ten 
+gevolge van deze ingebrekestelling heeft de wetgever middels de wet van 20 december 2020 houdende dringende 
+diverse fiscale en fraudebestrijding bepalingen, in artikel 198/1 van het Wetboek van de inkomstenbelastingen 
+1992 (WIB 92) de verwijzingen naar een project van publiek-private samenwerking vervangen in een verwijzing 
+naar een langlopend openbaar infrastructuurproject. In de toelichting verklaarde de wetgever dat er werd 
+beoogd om terug te grijpen naar de definitie uit richtlijn 2016/1164. Aangezien U de modaliteiten 
+bepaalt waaraan de belastingplichtige die de toepassing wenst van artikel 198/1, § 2, tweede lid, 
+WIB 92, moet voldoen, is het noodzakelijk om in uitvoering van de door de wetgever gewenste wijziging 
+eveneens artikel 734/10, van het KB/WIB 92, te herzien, aangezien hierin de modaliteiten 
+waren vastgelegd die betrekking hadden op de belastingplichtigen die de financieringskosten niet in aanmerking 
+wensen te nemen van leningen die betrekking hebben op een project van publiek-private samenwerking. In 
+dit artikel zullen immers voortaan de modaliteiten worden vastgelegd die van toepassing zijn op de belastingplichtigen 
+die de financieringskosten niet in aanmerking wensen te nemen van leningen die betrekking hebben op een 
+langlopend openbaar infrastructuurproject.Vervolgens werd in de voormelde wet van 20 december 
+2020 beoogd om een gelijk speelveld te creëren tussen enerzijds de vennootschappen die behalve langlopende 
+openbare-infrastructuurprojecten ook andere projecten realiseren en die zich beroepen op de uitsluiting 
+die is voorzien in artikel 198/1, § 2, tweede lid, tweede streepje, WIB 92, en waarbij U al over 
+de bevoegdheid beschikt om de nodige modaliteiten te bepalen, en anderzijds de vennootschappen waarvan 
+de enige activiteit bestaat in de uitvoering van een langlopend openbaar infrastructuurproject, en die 
+zich beroepen op de uitsluiting die is voorzien in artikel 198/1, § 6, eerste lid, 13°,  WIB 92, 
+en waarvoor U nog niet over de bevoegdheid beschikt om de nodige modaliteiten te bepalen. Door in artikel 
+198/1, § 6, tweede lid, WIB 92, ook voor deze tweede categorie een delegatie te voorzien, is het 
+mogelijk om te garanderen dat de in artikel 734/10, KB/WIB 92, bedoelde modaliteiten 
+voortaan op beide soorten vennootschappen van toepassing zijn.Dit ontwerp heeft geenszins de 
+bedoeling om ten aanzien van deze belastingplichtigen bijkomende voorwaarden te stellen dan deze die 
+bij wet of in richtlijn 2016/1164 zijn vastgelegd. Dit ontwerp heeft dan ook enkel de bedoeling om de 
+voorwaarden te verduidelijken waaraan de belastingplichtigen moeten voldoen bij het leveren van het bewijs 
+dat een of meerdere leningen werden gesloten in uitvoering van een langlopend openbaar infrastructuurproject, 
+waarbij de uitvoerder van het project, de financieringskosten, de activa en de winst zich allemaal in 
+de Europese Unie bevinden.Het bewijs wordt in twee stappen geleverd. Bij de aangifte wordt 
+door middel van een opgave, waarvan geen model bestaat, waardoor de vorm ervan door de belastingplichtige 
+zelf mag worden bepaald, de nodige informatie verstrekt over de lening en het langlopende openbare infrastructuurproject. 
+Daarnaast verzamelt de belastingplichtige de bewijsstukken die de via de opgave verstrekte gegevens moeten 
+staven. Deze bewijsstukken moeten ter beschikking van de administratie worden gehouden en op eenvoudig 
+verzoek worden voorgelegd.In artikel 4, lid 4, tweede alinea, van richtlijn 2016/1164 wordt 
+verduidelijkt dat onder een langlopend openbaar infrastructuurproject een project moet worden verstaan 
+dat bedoeld is om een grootschalig actief dat door een lidstaat wordt beschouwd als zijnde van algemeen 
+belang, te leveren, te verbeteren, te exploiteren en/of te onderhouden.De door de belastingplichtige 
+op te stellen opgave heeft dan ook in de eerste plaats tot doel om dit grootschalig actief dat door dit 
+langlopend openbare infrastructuurproject wordt opgeleverd, verbeterd, geëxploiteerd of onderhouden, 
+te identificeren en te omschrijven.Vervolgens moet in deze opgave het openbare karakter van 
+dit infrastructuurproject worden aangetoond. Hierbij is het niet nodig dat het infrastructuurproject 
+wordt gefinancierd met publieke middelen om aan deze voorwaarde te voldoen, al kan de aanwezigheid van 
+publieke financiering wel element zijn bij de beoordeling van het openbare karakter ervan. De beoordeling 
+van het openbare karakter is in principe een feitenkwestie die door de fiscale administratie geval per 
+geval zal moeten worden beoordeeld. De vermelding in de opgave van een verwijzing naar een 
+officiële notificatie van een federale, gewestelijke, gemeenschaps-, provinciale of gemeentelijke overheid 
+of een soortgelijke buitenlandse overheid waaruit het algemene belang van het infrastructuurproject blijkt, 
+kan ook een element zijn bij de beoordeling van het openbare karakter ervan. Het loutere feit dat er 
+voor het infrastructuurproject de noodzakelijke vergunningen wordt geleverd, is uiteraard niet relevant 
+bij de beoordeling van het openbare karakter van het infrastructuurproject.Zonder exhaustief 
+te zijn, kan worden vermeld dat transportinfrastructuur (wegen, bruggen, tunnels, sporen, kanalen,...) 
+die gelegen is in een voor het publiek toegankelijke locatie, energieproductie en -distributie-infrastructuur, 
+energie-infrastructuur zoals bedoeld in artikel 2, punt 130, van verordening (EU) Nr. 651/2014 van de 
+Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van 
+het Verdrag met de interne markt verenigbaar worden verklaard, of infrastructuur die beoogt een positief 
+effect te hebben op het leefmilieu of de biodiversiteit en die verder gaat dan wat de toepasselijke regelgeving 
+minimaal voorschrijft, activa zijn die van algemeen belang zijn.Indien het infrastructuurproject 
+niet kan worden ondergebracht onder één van de hierboven genoemde categorieën, zal de fiscale administratie 
+het actief toetsen aan de volgende criteria: de toegankelijkheid, de meerwaarde voor de omgeving en maatschappij, 
+de mate waarin anderen dan de investeerder er gebruik van kunnen maken. Het argument dat het infrastructuurproject 
+bijdraagt aan het vergroten van het aanbod aan werkgelegenheid in een bepaalde regio is niet pertinent 
+bij de beoordeling van het openbare karakter ervan.Daarnaast wordt gevraagd om in de opgave 
+de verwachte of daadwerkelijke duurtijd van de effectieve werkzaamheden aan het in het eerste lid, eerste 
+streepje, bedoelde infrastructuurproject te vermelden. Dit heeft tot doel om de administratie toe te 
+laten om het langlopende karakter van het project te beoordelen. Hoewel dit niet wordt gevraagd staat 
+het de belastingplichtige vrij om het langlopende karakter van het project aan de hand van specifieke 
+elementen te onderbouwen.Teneinde de fiscale administratie toe te laten om te beoordelen of 
+het actief zich in de Europese Unie bevindt, moet in de opgave de plaats worden vermeld waar het in het 
+eerste lid, eerste streepje, bedoelde project en de activa die ten gevolge van dit project werden gerealiseerd, 
+zich in het desbetreffende belastbare tijdperk bevinden.Voor de toepassing van dit artikel 
+wordt de winst van het infrastructuurproject geacht zich te bevinden bij de investeerder van dit project. 
+In geval het infrastructuurproject met overheidsmiddelen wordt gefinancierd wordt de overheid geacht 
+de investeerder te zijn en moet de identiteit van de investeerder niet in de opgave worden vermeld. In 
+het geval het investeringsproject niet met overheidsmiddelen wordt gefinancierd, bijvoorbeeld in het 
+geval van een project van publiek private samenwerking, wordt de investeerder geacht de persoon of personen, 
+te zijn die het economisch risico van het project dragen. In dat geval moet de naam en plaats van vestiging 
+van deze personen in de opgave worden vermeld.Teneinde de fiscale administratie toe te laten 
+om te beoordelen of de financieringskosten, zich in de Europese Unie bevinden, moet in de opgave ook 
+de naam en plaats van vestiging van de persoon of personen die ingevolge de uitvoering van het eerste 
+lid, eerste streepje, bedoelde project interesten of kosten die overeenkomstig artikel 734/8, 
+KB/WIB 92, economisch gelijkwaardig zijn aan interesten verkrijgen, worden vermeld.Vervolgens 
+wordt artikel 734/9, KB/WIB 92, aangepast, in uitvoering van de voormelde wet van 20 
+december 2020 die de inleidende zin van artikel 198/1, § 2, tweede lid, WIB 92, heeft gewijzigd, 
+zodat verduidelijkt wordt dat de in dat lid bedoelde uitsluiting niet enkel betrekking heeft op de interesten 
+maar ook op de kosten en opbrengsten die economisch gelijkwaardig zijn aan interesten.Omwille 
+van het feit dat de wijzigingen aan de artikelen 734/9 en 734/10, KB/WIB 
+92, louter uitvoering geven aan de voormelde wet van 20 december 2020 die op 31 december 2020 in werking 
+is getreden, zijn deze artikelen van toepassing vanaf aanslagjaar 2021, ongeacht of het belastbare tijdperk 
+dat daarmee verbonden is, werd afgesloten op of tussen 31 december 2020 en de dag waarop dit besluit 
+in het Belgisch Staatsblad wordt bekendgemaakt of op een belastbaar tijdperk dat erna wordt afgesloten.Tot 
+slot wordt er nog een correctie uitgevoerd in artikel 734/11, § 1, KB/WIB 92. 
+Dit artikel beoogt om de kosten of opbrengsten die verschuldigd zijn aan of door een binnenlandse vennootschap 
+of Belgische inrichting die tijdens het hele belastbaar tijdperk deel heeft uitgemaakt van een groep 
+van vennootschappen en die niet is uitgesloten van de toepassing van artikel 198/1 WIB 92, buiten beschouwing 
+te laten bij de vaststelling van de EBITDA van de belastingplichtige. Artikel 734/11, 
+§ 1, tweede en derde lid, KB/WIB 92, slaagt niet helemaal in die opzet, doordat er enkel een correctie 
+wordt doorgevoerd voor intra-groepskosten en intra-groepsopbrengsten die geen intra-groepsfinancieringskosten 
+of intra-groepsfinancieringsopbrengsten zijn. Gelet op de betrachting van de wetgever om over 
+de hele groep bekeken tot een gelijk resultaat te bekomen als wanneer het resultaat van de groep geconsolideerd 
+zou worden benaderd, is het dus nodig om alle intra-groepstransacties op een correcte wijze te corrigeren. 
+Het onderscheid dat in artikel 734/11, § 1, tweede en derde lid, KB/WIB 92, wordt 
+gemaakt tussen enerzijds intra-groepskosten en intra-groepsopbrengsten die geen intra-groepsfinancieringskosten 
+of intra-groepsfinancieringsopbrengsten zijn en anderzijds de intra-groepsfinancieringskosten of intra-groepsfinancieringsopbrengsten 
+maakt dat de intra-groepstransacties niet correct worden geneutraliseerd. Om tot een correct en neutraal 
+resultaat te komen waarin alle intra-groepstransacties worden uitgezuiverd, moeten alle intra-groepskosten 
+en intra-groepsopbrengsten worden gecorrigeerd, ongeacht of deze kosten of opbrengsten intra-groepsfinancieringskosten 
+of intra-groepsfinancieringsopbrengsten zijn. De in artikel 5, a en b, van dit ontwerp opgenomen wijzigingen 
+beogen dit resultaat te bekomen.Teneinde te garanderen dat de toepassing van de bepalingen 
+van artikel 734/11, § 1, KB/WIB 92, over de hele groep bekeken, neutraal blijft, 
+wordt bovendien voortaan expliciet voorzien dat een vennootschap of inrichting die deel uitmaakt van 
+de Belgische groep krachtens het tweede lid de EBITDA slechts kan verhogen, indien deze verhoging op 
+eenzelfde wijze gecompenseerd wordt door de toepassing van het derde lid bij een andere vennootschap 
+of inrichting die deel uitmaakt van deze groep.Deze laatste wijziging zal in werking treden 
+vanaf aanslagjaar 2022.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De minister van Financiën,V. VAN PETEGHEMADVIES 
+69.264/3 VAN 18 MEI 2021 OVER EEN ONTWERP VAN KONINKLIJK BESLUIT "HOUDENDE UITVOERING VAN DE WET HOUDENDE 
+DRINGENDE DIVERSE FISCALE EN FRAUDEBESTRIJDING BEPALINGEN"Op 22 april 2021 is de Raad van State, 
+afdeling Wetgeving, door de minister van Financiën verzocht binnen een termijn van dertig dagen een advies 
+te verstrekken over een ontwerp van koninklijk besluit "houdende uitvoering van de wet houdende dringende 
+diverse fiscale en fraudebestrijding bepalingen"Het ontwerp is door de derde kamer onderzocht 
+op 18 mei 2021 . De kamer was samengesteld uit Wilfried Van Vaerenbergh, kamervoorzitter, Jeroen Van 
+Nieuwenhove en Koen Muylle, staatsraden, Bruno Peeters, assessor, en Astrid Truyens, griffier.Het 
+verslag is uitgebracht door Frédéric Vanneste, eerste auditeur.Het advies is gegeven op 18 
+mei 2021 .Met toepassing van artikel 84, § 3, eerste lid, van de wetten op de Raad van 
+State, gecoördineerd op 12 januari 1973, heeft de afdeling Wetgeving zich beperkt tot het onderzoek van 
+de bevoegdheid van de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de te 
+vervullen vormvereisten is voldaan.Dat onderzoek geeft geen aanleiding tot opmerkingen.De 
+griffier,   De voorzitter, A. Truyens   W. Van Vaerenbergh7 JUNI 
+2021. - Koninklijk besluit houdende uitvoering van de wet houdende dringende diverse fiscale en fraudebestrijding 
+bepalingenFILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, 
+Onze Groet.Gelet op het Wetboek van de inkomstenbelastingen 1992:- artikel 198/1, 
+§ 2, tweede lid, ingevoegd bij de wet van 25 december 2017, gewijzigd bij de wet van 20 december 
+2020;- artikel 198/1, § 3, vierde lid, ingevoegd bij de wet van 2 mei 2019;- 
+artikel 198/1, § 6, tweede lid, ingevoegd bij de wet van 20 december 2020;Gelet op het 
+KB/WIB 92;Overwegende richtlijn (EU) 2016/1164 van de Raad van 12 juli 2016 tot vaststelling 
+van regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op 
+de werking van de interne markt;Gelet op het advies van de Inspecteur van Financiën gegeven 
+op 7 maart 2021;Gelet op het akkoord van de Minister van Begroting gegeven op 19 april 2021;Gelet 
+op het advies nr. 69.264/3 van de Raad van State gegeven op 18 mei 2021 met toepassing van artikel 84, 
+§ 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op 
+de voordracht van de minister van Financiën,Hebben Wij besloten en besluiten Wij :Artikel 
+1. Dit koninklijke besluit heeft de gedeeltelijke omzetting tot doel van richtlijn (EU) 2016/1164 van 
+de Raad van 12 juli 2016 tot vaststelling van regels ter bestrijding van belastingontwijkingspraktijken 
+welke rechtstreeks van invloed zijn op de werking van de interne markt.Art. 2. In het opschrift 
+van onderafdeling 2 van afdeling XXVIIbis/2 van hoofdstuk I van het KB/WIB 92, ingevoegd bij het koninklijk 
+besluit van 20 december 2019, worden de woorden "een project van publiek-private samenwerking" vervangen 
+door de woorden "een langlopend openbaar infrastructuurproject".Art. 3. In artikel 734/9, 
+eerste lid, van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 20 december 2019, worden 
+de woorden "de interesten van deze leningen" vervangen door de woorden "de interesten of kosten of opbrengsten 
+die overeenkomstig artikel 734/8 economisch gelijkwaardig zijn aan 
+interesten van deze leningen".Art. 4. Artikel 734/10, van hetzelfde besluit, 
+ingevoegd bij het koninklijk besluit van 20 december 2019, wordt vervangen als volgt:"Wanneer 
+de belastingplichtige verzoekt om de interesten of kosten of opbrengsten die overeenkomstig artikel 734/8 
+economisch gelijkwaardig zijn aan interesten, van de in artikel 198/1, § 2, tweede lid, 
+tweede streepje, van hetzelfde Wetboek, bedoelde leningen niet in aanmerking te nemen voor de vaststelling 
+van het financieringskostensurplus of wanneer hij om de toepassing van artikel 198/1, § 6, 13°, 
+ van hetzelfde Wetboek, verzoekt, voegt hij bij de aangifte een opgave die betrekking heeft op deze leningen 
+en waarin per leningsovereenkomst de volgende gegevens worden opgenomen:- de identificatie 
+en omschrijving van het grootschalig actief dat door het in artikel 198/1, § 2, tweede lid, tweede 
+streepje, van hetzelfde Wetboek, bedoelde openbare infrastructuurproject wordt opgeleverd, verbeterd, 
+geëxploiteerd of onderhouden;- een omschrijving van het openbare karakter en/of één of meerdere 
+verwijzingen naar notulen, beslissingen of andere documenten van een overheid waaruit het algemene belang 
+of openbare karakter van het in het eerste streepje bedoelde infrastructuurproject blijkt;- 
+de verwachte of daadwerkelijke duurtijd van de effectieve werkzaamheden aan het in het eerste streepje 
+bedoelde infrastructuurproject te vermelden;- de plaats waar het in het eerste streepje bedoelde 
+project en de activa die ten gevolge van dit project werden gerealiseerd zich bevinden;- behalve 
+wanneer de investeerder van het project een overheid is, de naam en plaats van vestiging van de persoon 
+of personen die het economisch risico van het project dragen;- de naam en plaats van vestiging 
+van de persoon of personen die ingevolge een met de investeerder gesloten overeenkomst verantwoordelijk 
+zijn voor de uitvoering van het in het eerste streepje bedoelde project;- de naam en plaats 
+van vestiging van de persoon of personen die ingevolge de uitvoering van het in het eerste streepje bedoelde 
+project interesten of opbrengsten die overeenkomstig artikel 734/8 economisch
+gelijkwaardig zijn aan interesten verkrijgen;- behalve wanneer de belastingplichtige 
+om de toepassing van artikel 198/1, § 6, 13°,  van hetzelfde Wetboek, verzoekt, het bedrag van 
+de in artikel 198/1, § 2, eerste lid, van hetzelfde Wetboek, bedoelde interesten en kosten die 
+overeenkomstig artikel 734/8 economisch gelijkwaardig zijn aan interesten, die in uitvoering 
+van deze overeenkomst in de loop van het belastbare tijdperk door de belastingplichtige werden verkregen 
+of betaald.De toepassing van artikel 198/1, § 6, 13°,  van hetzelfde Wetboek, kan enkel 
+worden gevraagd wanneer aan de aangifte een verklaring op eer wordt toegevoegd waarin wordt verklaard 
+dat de belastingplichtige geen activiteit uitoefent die niet verbonden is met de in het eerste lid, eerste 
+streepje, bedoelde infrastructuurproject.De belastingplichtige houdt alle overeenkomsten of 
+andere bewijsstukken die betrekking hebben op deze leningen en in voorkomend geval op de wijzigingen 
+die deze leningen hebben ondergaan ter beschikking van de administratie en legt deze op eenvoudig verzoek 
+voor.De belastingplichtige verzamelt eveneens de volgende bewijsstukken, houdt deze ter beschikking 
+van de administratie en legt deze op eenvoudig verzoek voor: - in voorkomend geval een kopie 
+van de in het eerste lid, tweede streepje, bedoelde notulen, beslissingen of andere documenten van een 
+overheid waaruit het openbare karakter of algemene belang van het in het eerste lid, eerste streepje, 
+bedoelde infrastructuurproject blijkt;- documenten die de lokalisatie van het in het eerste 
+lid, eerste streepje, bedoelde project en van de activa die ten gevolge van dit project werden gerealiseerd 
+kunnen bevestigen;- documenten die het economische en juridische kader van het openbare infrastructuurproject 
+uiteenzetten en waarin alle partijen worden geïdentificeerd die bij de totstandkoming van dit project 
+zijn betrokken.".Art. 5. In artikel 734/11, § 1, van hetzelfde besluit, 
+ingevoegd bij het koninklijk besluit van 20 december 2019, worden de volgende wijzigingen aangebracht:a) 
+in het tweede lid worden de woorden "die geen in artikel 198/1, § 2, van hetzelfde Wetboek, bedoelde 
+interesten of kosten die economisch gelijkwaardig zijn aan interesten zijn" vervangen door de woorden 
+"in de mate dat de belastingplichtige heeft aangetoond dat deze kosten bij de verkrijger ervan worden 
+aangemerkt als inkomsten die in toepassing van het derde lid uit de EBITDA worden geneutraliseerd";b) 
+in het derde lid worden de woorden "en deze inkomsten geen in artikel 198/1, § 2, van hetzelfde 
+Wetboek, bedoelde interesten of opbrengsten die economisch gelijkwaardig aan interesten zijn" opgeheven;c) 
+in het vierde lid, tweede streepje, worden de woorden "in uitvoering van een project van publiek-private 
+samenwerking gegund na inmededinging-stelling overeenkomstig de reglementering inzake overheidsopdrachten" 
+vervangen door de woorden "in uitvoering van een langlopend openbaar infrastructuurproject".Art. 
+6. De artikelen 3, 4 en 5, c, zijn van toepassing vanaf aanslagjaar 2021.Art. 7. De overige 
+bepalingen van artikel 5 zijn van toepassing vanaf aanslagjaar 2022.Art. 8.  De minister bevoegd 
+voor Financiën is belast met de uitvoering van dit besluit.Gegeven te Brussel, 7 juni 2021.PHILIPPEPar 
+le Roi :De Minister van Financiën,V. VAN PETEGHEM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-17Numac : 2021042174
+

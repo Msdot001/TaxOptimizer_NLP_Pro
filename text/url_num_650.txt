@@ -1,0 +1,101 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/07/26/2021042699/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-29Numac : 2021042699
+WAALSE OVERHEIDSDIENST
+ 26 JULI 2021. - Ministerieel besluit tot uitvoering van het besluit van de Waalse Regering van 1 juli 2021 betreffende de toekenning van een tegemoetkoming in de vorm van een vrijwaringsmechanisme in het kader van de crisis in verband met het coronavirus COVID-19 
+De Minister van Economie,Gelet 
+op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote 
+ondernemingen, inzonderheid op de artikelen 10 en 19;Gelet op het besluit van de Waalse Regering 
+van 1 juli 2021 betreffende de toekenning van een tegemoetkoming in de vorm van een vrijwaringsmechanisme 
+in het kader van de crisis in verband met het coronavirus COVID-19, inzonderheid op de artikelen 4, vierde 
+lid, en 6, eerste lid;Gelet op het rapport van 12 juli 2021, opgemaakt overeenkomstig artikel 
+3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspectie van Financiën, 
+gegeven op 14 juli 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 16 
+juli 2021;Gelet op de adviesaanvraag binnen een termijn van 5 dagen, gericht aan de Raad van 
+State op 16 juli 2021, overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973;Gelet op het uitblijven van advies binnen deze 
+termijn;Gelet op artikel 84, § 4, lid 4, van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Gelet op het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd op 4 juni 2021;Gelet 
+op het Overlegcomité van 11 mei 2021;Overwegende dat inrichtingen in de beroepen die een te 
+nauw contact tussen personen inhouden, op 1 mei 2021 nog gesloten waren;Overwegende dat de 
+inrichtingen of onderdelen van de inrichtingen die behoren tot de culturele, feestelijke, sportieve, 
+recreatieve en evenementensector, op 1 mei 2021 nog gesloten waren voor het publiek ;Overwegende 
+dat dat deze maatregel, naar aanleiding van een verlenging van de sluiting voor deze sectoren, bedoeld 
+is om de economische gevolgen van deze nieuwe maatregel voor de zelfstandigen en de ondernemingen die 
+dit soort activiteiten verrichten, te beperken;Overwegende dat de betrokken ondernemingen het 
+risico lopen hun omzet te zien dalen of zelfs verdwijnen, en dat hierdoor het inkomen van de ondernemers 
+en van hun werknemers in het gedrang komt;Overwegende dat de vooruitzichten op een gedeeltelijke 
+of volledige hervatting overigens nog steeds afhangen van de ontwikkeling van de pandemie en de door 
+het Overlegcomité genomen beslissingen;Overwegende dat het dringend is om dit ontwerp aan te 
+nemen gezien de crisissituatie die nog steeds bestaat voor deze ondernemingen die nog steeds ernstige 
+economische schade lijden;Overwegende dat deze steun met name tot doel heeft de ondervonden 
+moeilijkheden te verminderen en een golf van faillissementen proberen te voorkomen onder de ondernemingen 
+die prangende liquiditeitsproblemen ondervinden ten gevolge van de crisis;Overwegende dat er 
+dus moet worden ingegrepen en dat het van essentieel belang is zo spoedig mogelijk financiële steun aan 
+deze sectoren te verlenen,Besluit : Artikel 1. Voor de toepassing van dit ministerieel 
+besluit wordt verstaan onder :1°  het besluit van de Waalse Regering: het besluit van de Waalse 
+Regering van 1 juli 2021 betreffende de toekenning van een tegemoetkoming in de vorm van een vrijwaringsmechanisme 
+in het kader van de crisis in verband met het coronavirus COVID-19;2°  de tegemoetkoming: de 
+tegemoetkoming die overeenkomstig het besluit van de Waalse Regering wordt toegekend.Art. 2. 
+De onderneming dient de aanvraag om tegemoetkoming als bedoeld in artikel 6 van het besluit van de Waalse 
+Regering van 28 juli 2021 tot en met 27 augustus 2021 in.Art. 3.  § 1. Overeenkomstig 
+artikel 4, lid 4, van het besluit van de Waalse Regering moet de btw-plichtige onderneming de volgende 
+bewijsstukken aan de Administratie toezenden :1°  de ontvangstbevestiging van de btw-aangiften 
+voor het tweede kwartaal van 2019 en het tweede kwartaal van 2021;2°  de verkoopboeken, de 
+dagboeken van ontvangsten en de facturen voor de betrokken kwartalen. § 2. Overeenkomstig 
+artikel 4, vierde lid, van het besluit van de Waalse Regering moet de onderneming die niet btw-plichtig 
+is, de driemaandelijkse verkoopboeken voor het tweede kwartaal van 2019 en voor het tweede kwartaal van 
+2021, anders het dagboek van ontvangsten, anders de facturen die zijn opgesteld volgens de data die betrekking 
+hebben op de betrokken kwartalen, aan de Administratie toezenden.Art. 4. Dit besluit treedt 
+in werking op 28 juli 2021.Namen, 26 juli 2021.W. BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-29Numac : 2021042699
+

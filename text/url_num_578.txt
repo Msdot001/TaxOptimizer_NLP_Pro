@@ -1,0 +1,75 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2021/06/10/2021042170/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-15Numac : 2021042170
+WAALSE OVERHEIDSDIENST 
+ 10 JUNI 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen (1) 
+Het 
+Waalse Parlement heeft aangenomen en Wij, Waalse Regering, bekrachtigen hetgeen volgt:Artikel 
+1.  Dit decreet regelt overeenkomstig artikel 138 van de Grondwet aangelegenheden bedoeld in de artikelen 
+127 en 128 ervan.Art. 2.  Het samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, 
+de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie 
+betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van 
+clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en 
+met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om 
+de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen wordt goedgekeurd.Kondigen 
+dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.Namen, 
+10 juni 2021.De Minister-President,E. DI RUPODe Vice-Minister-President 
+en Minister van Economie, Buitenlandse Handel, Onderzoek, Innovatie, Digitale Technologieën, Ruimtelijke 
+Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. BORSUSDe Vice-Minister-President 
+en Minister van Klimaat, Energie en Mobiliteit,Ph. HENRYDe Vice-Minister-President 
+en Minister van Werk, Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. 
+MORREALEDe Minister van Begroting en Financiën, Luchthavens en Sportinfrastructuren,J.-L. 
+CRUCKEDe Minister van Huisvesting, de Plaatselijke Besturen en het Stedenbeleid,Ch. 
+COLLIGNONDe Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging, belast 
+met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUEDe Minister van 
+Leefmilieu, Natuur, Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. TELLIER_______Nota(1) 
+Zitting 2020-2021:Stukken van het Waals Parlement, 601 (2020-2021) Nrs. 1 tot 3.Volledig 
+verslag, plenaire zitting van 9 juni 2021.Bespreking.Stemming.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-15Numac : 2021042170
+

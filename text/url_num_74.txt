@@ -1,0 +1,83 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-04Numac : 2020040963
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 12 MAART 2020. - Besluit van de Brusselse Hoofdstedelijke Regering tot aanwijzing van de leden van de selectiecommissie van de Gewestelijke Overheidsdienst Brussel voor de toewijzing van een mandaat van directeur/directrice-diensthoofd A4 Back Office van de Gewestelijke Overheidsdienst Brussel Fiscaliteit 
+DE 
+BRUSSELSE HOOFDSTEDELIJKE REGERING,Gelet op de bijzondere wet van 12 januari 1989 met betrekking 
+tot de Brusselse Instellingen, inzonderheid op artikel 40;Gelet op het besluit van de Brusselse 
+Hoofdstedelijke Regering van 21 maart 2018 houdende het administratief statuut en de bezoldigingsregeling 
+van de ambtenaren van het ministerie van het Brussels Hoofdstedelijk Gewest, inzonderheid op artikel 
+446;Overwegende dat het met het oog op de toewijzing van een mandaatbetrekking van directeur/directrice-diensthoofd 
+A4 Back office van de gewestelijke overheidsdienst Brussel Fiscaliteit nodig is de leden van een selectiecommissie 
+aan te stellen;Gelet op het akkoord van de Minister van Begroting;Gelet op het feit 
+dat de heer Jan BOSSCHEM (NL) beschikt over een uitgebreide expertise in management en human ressources 
+vanuit ervaringen in verschillende private ondernemingen.Gelet op het feit dat de heer Yves 
+BOURDEAU (FR, wettelijk tweetalig) beschikt over expertise inzake management bij Vivaqua als financieel 
+en commercieel directeur.Gelet op het feit dat de heer Patrick COUCKE (NL) ruime ervaring heeft 
+op het gebied van management in de privésector en gezien zijn rol als general manager voor Consumer Understanding 
+Belgium.Gelet op het feit dat mevrouw Isabelle MONTAIGNE (FR) beschikt over ervaring in management 
+en financiën.Gelet op het feit dat mevrouw Carole DEMBOUR (FR) beschikt over een expertise 
+inzake economie en fiscaliteit in zowel de private als de publieke sector.Op voordracht van 
+de Minister,Na beraadslaging,Besluit :Artikel 1. Worden aangewezen als 
+leden van de selectiecommissie van de Gewestelijke Overheidsdienst Brussel voor de toewijzing van een 
+betrekking van directeur/directrice-diensthoofd A4 Back Office van de gewestelijke overheidsdienst Brussel 
+Fiscaliteit:1. Mijnheer Jan BOSSCHEM (NL)2. Mijnheer Yves BOURDEAU (FR, wettelijk 
+tweetalig)3. Mijnheer Patrick COUCKE (NL)4. Mevrouw Isabelle MONTAIGNE (FR)5. 
+Mevrouw Carole DEMBOUR (FR)Dat de heer Jan Bosschem aangesteld wordt als voorzitter van de 
+selectiecommissie voor de toewijzing van de betrekking van adjunct directeur/directrice-diensthoofd A4 
+Back Office van de gewestelijke overheidsdienst Brussel Fiscaliteit.Art. 2. De Minister bevoegd 
+voor het Openbaar Ambt wordt belast met de uitvoering van dit besluit.Art. 3. Dit besluit treedt 
+in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Brussel, 12 maart 
+2020.Voor de Brusselse Hoofdstedelijke Regering :R. VERVOORT,Minister-President 
+van de Brusselse Hoofdstedelijke Regering, bevoegd voor huisvesting en stadsvernieuwing, territoriale 
+ontwikkeling, veiligheid en preventie, toerisme, imago van Brussel en biculturele zaken van gewestelijk 
+belangS. GATZ,Minister bevoegd voor openbaar ambt   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-04Numac : 2020040963
+

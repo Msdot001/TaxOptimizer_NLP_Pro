@@ -1,0 +1,225 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/04/2021022000/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-07Numac : 2021022000
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 4 JUNI 2020. - Koninklijk besluit nr. 22 tot oprichting van een Schadeloosstellingfonds voor de vrijwilligers COVID-19-slachtoffers. - Officieuze coördinatie in het Duits 
+De hierna volgende tekst is de 
+officieuze coördinatie in het Duits van het koninklijk besluit nr. 22 van 4 juni 2020 tot oprichting 
+van een Schadeloosstellingfonds voor de vrijwilligers COVID-19-slachtoffers (Belgisch Staatsblad van 
+11 juni 2020), bekrachtigd bij de wet van 24 december 2020 tot bekrachtiging van de koninklijke besluiten 
+genomen met toepassing van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) (Belgisch Staatsblad van 
+15 januari 2021), zoals het achtereenvolgens werd gewijzigd bij :- het koninklijk besluit nr. 
+40 van 26 juni 2020 tot wijziging van het koninklijk besluit nr. 22 van 4 juni 2020 tot oprichting van 
+een Schadeloosstellingfonds voor de vrijwilligers COVID-19-slachtoffers (Belgisch Staatsblad van 30 juni 
+2020);- de wet van 2 april 2021 houdende tijdelijke ondersteuningsmaatregelen ten gevolge van 
+de COVID-19-pandemie (Belgisch Staatsblad van 13 april 2021).Deze officieuze coördinatie in 
+het Duits is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST SOZIALE SICHERHEIT4. JUNI 2020 - Königlicher Erlass Nr. 22 zur Schaffung 
+eines Entschädigungsfonds für die an COVID-19 gestorbenen FreiwilligenKAPITEL 1 - Schaffung 
+und Auftrag des Entschädigungsfonds für die an COVID-19 gestorbenen Freiwilligen Artikel 1 
+- Bei der Agentur Fedris, erwähnt im Gesetz vom 16. August 2016 über die Fusion des Fonds für Arbeitsunfälle 
+und des Fonds für Berufskrankheiten, wird ein "Entschädigungsfonds für die an COVID-19 gestorbenen Freiwilligen" 
+geschaffen, nachstehend "COVID-19-Freiwilligenfonds" genannt.Der COVID-19-Freiwilligenfonds 
+ist organisch in der Agentur Fedris integriert.Die mit den Aufträgen des COVID-19-Freiwilligenfonds 
+verbundenen Verwaltungskosten gehen zu Lasten der Agentur Fedris.Art. 2 - Zweck des COVID-19-Freiwilligenfonds 
+ist, unter den im vorliegenden Erlass aufgeführten Bedingungen, eine Entschädigung zu gewähren als Schadenersatz 
+für Schäden, die Freiwillige infolge einer Ansteckung mit COVID-19 erlitten haben.Art. 3 - 
+Verwaltung, Aufsicht und Kontrolle des COVID-19-Freiwilligenfonds werden gemäß den für die Verwaltung, 
+Aufsicht und Kontrolle der Agentur Fedris geltenden Gesetzes- und Verordnungsbestimmungen ausgeführt.Aufsicht 
+und Kontrolle des COVID-19-Freiwilligenfonds werden von den Regierungskommissaren und den für die Ausübung 
+der Aufsicht und Kontrolle der Agentur Fedris bestimmten Revisoren ausgeübt.KAPITEL 2 - FinanzierungArt. 
+4 - Die Einnahmen des COVID-19-Freiwilligenfonds bestehen aus einer Dotation des Föderalstaats.Diese 
+Dotation wird in den Haushaltsplan des FÖD Soziale Sicherheit eingetragen. Die Dotation wird dem COVID-19-Freiwilligenfonds 
+in vierteljährlichen Teilbeträgen spätestens am Ende des ersten Monats des Quartals zugeführt.Eine 
+zu hohe Finanzierung oder eine zu geringe Finanzierung, die beim Kontenabschluss des COVID-19-Freiwilligenfonds 
+festgestellt wird, wird ausgeglichen: Bei zu geringer Finanzierung wird die Dotation des darauffolgenden 
+Jahres auf den entsprechenden Betrag erhöht; bei zu hoher Finanzierung tätigt der COVID-19-Freiwilligenfonds 
+eine Rückzahlung an den Staat.Art. 5 - Dieser Fonds wird außerhalb der in Artikel 5 Absatz 
+1 Nr. 2 des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die 
+soziale Sicherheit der Arbeitnehmer erwähnten LASS-Globalverwaltung eingerichtet.KAPITEL 3 
+- AnwendungsbereichArt. 6 - Für die Anwendung des vorliegenden Erlasses versteht man unter 
+"Freiwilliger":1. Freiwillige im Sinne von Artikel 3 Nr. 2 des Gesetzes vom 3. Juli 2005 über 
+die Rechte der Freiwilligen;2. Vereinsarbeiter im Sinne von Artikel 2 [des Gesetzes vom 24. 
+Dezember 2020 über die Vereinsarbeit] [...];3. Studenten im Sinne von Artikel 17bis des Königlichen 
+Erlasses vom 28. November 1969 zur Ausführung des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes 
+vom 28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer, die aufgrund des vorerwähnten Artikels 
+17bis von der Anwendung des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 
+1944 über die soziale Sicherheit der Arbeitnehmer ausgenommen sind;4. freiwillige Krankenwagenfahrer 
+im Sinne von Artikel 17quater § 3 Nr. 2 des vorerwähnten Königlichen Erlasses vom 28. November 
+1969, ausgenommen diejenigen, die in Artikel 103 Absatz 1 Nr. 4 und Absatz 2 des Gesetzes vom 15. Mai 
+2007 über die zivile Sicherheit erwähnt sind, die aufgrund des vorerwähnten Artikels 17quater von der 
+Anwendung des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die 
+soziale Sicherheit der Arbeitnehmer ausgenommen sind.[Art. 6 einziger Absatz Nr. 2 abgeändert 
+durch Art. 1 des K.E. Nr. 40 vom 26. Juni 2020 (B.S. vom 30. Juni 2020) und Art. 59 des G. vom 2. April 
+2021 (B.S. vom 13. April 2021)]Art. 7 - Der COVID-19-Freiwilligenfonds wird unter den durch 
+oder aufgrund des vorliegenden Erlasses vorgesehenen Bedingungen tätig, wenn der Freiwillige infolge 
+einer Ansteckung mit COVID-19 im Rahmen der außerhalb seiner Wohnung ausgeübten Tätigkeit als Freiwilliger 
+im Sinne von Artikel 6 gestorben ist. Um berücksichtigt zu werden, muss die Tätigkeit im Laufe des Zeitraums 
+vom 1. März 2020 bis zum Ende des in Artikel 30 Absatz 2 erwähnten Zeitraums ausgeübt worden sein.Der 
+Nachweis, dass der Tod des Freiwilligen auf eine Ansteckung mit COVID-19 zurückzuführen ist, muss dem 
+in Artikel 14 erwähnten Antrag auf Beihilfe beigefügt und wie folgt erbracht werden:1. entweder 
+durch das Protokoll einer zuverlässigen Laboruntersuchung, wie von Sciensano anerkannt,2. oder 
+durch ein suggestives Krankheitsbild, das durch eine Thorax-CT bestätigt wurde.Der König kann 
+den vorhergehenden Absatz entsprechend der Entwicklung der wissenschaftlichen Kenntnisse über COVID-19 
+abändern oder ergänzen.Der Nachweis, dass der Freiwillige während des in Absatz 1 erwähnten 
+Zeitraums eine Freiwilligentätigkeit außerhalb seiner Wohnung ausgeübt hat, muss ebenfalls dem 
+in Artikel 14 erwähnten Antrag auf Beihilfe beigefügt werden.KAPITEL 4 - Beihilfe des COVID-19-FreiwilligenfondsArt. 
+8 - Der COVID-19-Freiwilligenfonds wird nach dem Tod eines in Artikel 6 erwähnten Freiwilligen zugunsten 
+der Rechtsnachfolger des Opfers tätig, die zum Zeitpunkt seines Todes zu seinen Lasten waren. Unter Rechtsnachfolger 
+zu Lasten des Opfers versteht man:1. den Ehepartner, der zum Zeitpunkt des Todes weder geschieden 
+noch von Tisch und Bett getrennt ist, oder den Lebenspartner, der zum Zeitpunkt des Todes mit dem Opfer 
+gesetzlich zusammenwohnte und der mit ihm gemäß Artikel 1478 des Zivilgesetzbuches eine Vereinbarung 
+geschlossen hat, die den Parteien eine Unterstützungspflicht auferlegt, die selbst nach einem eventuellen 
+Bruch finanzielle Folgen haben kann;2. den geschiedenen oder von Tisch und Bett getrennten 
+Hinterbliebenen, der gesetzlichen oder vertraglich festgelegten Unterhalt zu Lasten des Opfers bezog, 
+und den Hinterbliebenen aus einem aufgelösten gesetzlichen Zusammenwohnen, der vertraglich festgelegten 
+Unterhalt zu Lasten des Opfers bezog;3. die Kinder, solange sie Anrecht auf Kindergeld haben 
+und auf jeden Fall bis zum Alter von achtzehn Jahren.Art. 9 - Die Beihilfe besteht aus einem 
+Kapitalvermögen. Der Rechtsnachfolger der verstorbenen Person hat Anrecht auf:1. ein Kapital 
+von 18.651,00 EUR, wenn er die in Artikel 8 Absatz 1 Nr. 1 erwähnten Bedingungen erfüllt,2. 
+ein Kapital von 9.325,50 EUR, wenn er die in Artikel 8 Absatz 1 Nr. 2 erwähnten Bedingungen erfüllt,3. 
+ein Kapital von 15.542,50 EUR, wenn er die in Artikel 8 Absatz 1 Nr. 3 erwähnten Bedingungen erfüllt.Die 
+Rechtsnachfolger verfügen ab dem Tod des Opfers über eine Frist von sechs Monaten, um einen Antrag einzureichen.Art. 
+10 - Der COVID-19-Freiwilligenfonds zahlt das Bestattungsgeld entsprechend der tatsächlich getragenen 
+Kosten, begrenzt auf 1.020 EUR, an die Person, die diese Kosten übernommen hat.Art. 11 - Die 
+Beihilfe des COVID-19-Freiwilligenfonds zugunsten der Opfer kann mit jeder aufgrund belgischer oder ausländischer 
+Rechtsvorschriften gewährten Sozialleistung vollständig kumuliert werden, mit Ausnahme derjenigen, die 
+sich auf die Entschädigung infolge des Todes des Opfers beziehen, die aufgrund der am 3. Juni 1970 koordinierten 
+Gesetze über die Vorbeugung von und die Entschädigung für Berufskrankheiten oder des Gesetzes vom 3. 
+Juli 1967 über die Vorbeugung von oder den Schadenersatz für Arbeitsunfälle, Wegeunfälle und Berufskrankheiten 
+im öffentlichen Sektor oder einer ausländischen Rechtsvorschrift gewährt wird.Art. 12 - Die 
+Beihilfe des COVID-19-Freiwilligenfonds wird nicht berücksichtigt bei der Bestimmung der Einkünfte, die 
+für die Gewährung von Sozialleistungen in Betracht gezogen werden, die vom Einkommen eines Leistungsempfängers, 
+seines Ehepartners, Zusammenwohnenden, Haushalts oder einer Person zu Lasten abhängen.Dieser 
+Grundsatz gilt insbesondere für:1. Entschädigungen wegen primärer Arbeitsunfähigkeit oder Invalidität, 
+die im Rahmen der Gesundheitspflege- und Entschädigungspflichtversicherung gewährt werden,2. 
+Beihilfen für Personen mit Behinderung,3. das Eingliederungseinkommen,4. die Sozialhilfe,5. 
+die Einkommensgarantie für Betagte.KAPITEL 5 - VerfahrenArt. 13 - Die Agentur Fedris 
+entscheidet in Anwendung der Bestimmungen des vorliegenden Erlasses über jeden Antrag auf Entschädigung, 
+der von den in Artikel 8 erwähnten Rechtsnachfolgern gestellt wird. Diese Anträge werden schriftlich 
+oder mittels eines elektronischen Verfahrens an den Fonds gerichtet.Abschnitt 1 - Einreichung 
+der AnträgeArt. 14 - Der in Artikel 13 erwähnte Antrag auf Beihilfe muss, um zulässig zu sein, 
+von den Rechtsnachfolgern des Opfers eingereicht werden.1. entweder mittels des passenden Formulars, 
+das die Agentur Fedris den betreffenden Personen zur Verfügung stellt. Dieses Formular besteht aus einem 
+administrativen Teil und einem medizinischen Teil. Dem Formular müssen die erforderlichen Belege beigefügt 
+werden. Es muss datiert und von den Rechtsnachfolgern des Opfers unterzeichnet sein,2. oder 
+mittels eines von der Agentur Fedris zur Verfügung gestellten elektronischen Musters. Dieses Muster muss 
+gemäß den darin befindlichen Angaben ausgefüllt werden.Art. 15 - Der bei der Agentur 
+Fedris gemäß Artikel 14 eingereichte Antrag hat als Datum:1. das Datum des Poststempels, 
+wenn er per Einschreibebrief eingereicht wurde,2. das Datum des Empfangs des Antrags bei der 
+Agentur Fedris, wenn er per gewöhnliche Post eingereicht wurde,3. das Datum des Empfangs des 
+elektronischen Antrags bei der Agentur Fedris, wenn er mittels des in Artikel 14 Nr. 2 erwähnten elektronischen 
+Musters eingereicht wurde.Abschnitt 2 - Untersuchung der AnträgeArt. 16 - Binnen 
+fünfzehn Tagen nach Empfang des Antrags schickt die Agentur Fedris dem Antragsteller eine Empfangsbestätigung.Enthält 
+der Antrag nicht alle erforderlichen Angaben, die in dem in Artikel 14 Nr. 1 oder Nr. 2 erwähnten Formular 
+gefordert sind, so teilt die Agentur Fedris dies dem Antragsteller mit und gibt an, welche Auskünfte 
+oder Unterlagen ihr zur Vervollständigung des Antrags übermittelt werden müssen.Wenn der Antragsteller 
+es unterlässt, die geforderten Auskünfte oder Unterlagen binnen einer Frist von einem Monat ab dem Datum, 
+an dem sie angefordert wurden, zu erteilen, wird ihm die Agentur Fedris per Einschreibebrief ein Erinnerungsschreiben 
+zusenden.Wird dem innerhalb eines Monats keine Folge geleistet, so wird der Antrag abgewiesen.Art. 
+17 - Die Agentur Fedris ist verpflichtet, sich an das Nationalregister der natürlichen Personen zu richten, 
+um die in Artikel 3 Absatz 1 und 2 des Gesetzes vom 8. August 1983 zur Organisation eines Nationalregisters 
+der natürlichen Personen erwähnten Informationen zu erhalten oder die Richtigkeit dieser Informationen 
+zu überprüfen.Der Rückgriff auf eine andere Quelle ist nur erlaubt, wenn die erforderlichen 
+Informationen beim Nationalregister nicht erhältlich sind.Art. 18 - Im Rahmen der Untersuchung 
+eines Antrags kann die Agentur Fedris alle erforderlichen Maßnahmen ergreifen, unter anderem das 
+Ersuchen an die Organisation und/oder den Antragsteller um Informationen über den Tätigkeitssektor und 
+die Bedingungen, unter denen der Freiwillige seine Tätigkeit, bei der er dem Ansteckungsrisiko ausgesetzt 
+war, ausgeübt hat.Art. 19 - Die Agentur Fedris entscheidet über jede Schadensersatzklage binnen 
+einer Frist von vier Monaten ab dem Zeitpunkt, zu dem der Antrag vervollständigt wurde, oder ab dem Datum 
+des Ablaufs der in Artikel 16 letzter Absatz erwähnten Frist.Die Entscheidung der Agentur Fedris 
+wird mit Gründen versehen und dem Antragsteller notifiziert.Diese Notifizierung erfolgt per 
+Einschreibebrief. Die Übermittlung von Schriftstücken und die Notifizierung der Entscheidungen an die 
+betreffende Person erfolgen an die Adresse ihres Hauptwohnortes im Sinne von Artikel 3 Absatz 1 Nr. 5 
+des Gesetzes vom 8. August 1983 zur Organisation eines Nationalregisters der natürlichen Personen. Auf 
+schriftlichen Antrag des Betreffenden an die Agentur Fedris kann jedoch von dieser Verpflichtung abgewichen 
+werden.Abschnitt 3 - ZahlungArt. 20 - Das aufgrund von Artikel 9 geschuldete Kapitalvermögen 
+wird dem Rechtsnachfolger innerhalb zweier Monate nach der in Artikel 19 erwähnten Notifizierung in einem 
+Mal ausgezahlt.Art. 21 - Die in vorliegendem Erlass vorgesehenen Beihilfen werden von der Agentur 
+Fedris an den Rechtsnachfolger durch Überweisung auf sein Konto bei einem Finanzinstitut ausgezahlt, 
+das mit der Agentur Fedris eine Vereinbarung geschlossen hat, deren Muster von dem für die Sozialen Angelegenheiten 
+zuständigen Minister festgelegt wurde.Zu diesem Zweck stellt die Agentur Fedris der betreffenden 
+Person ein Formular zur Verfügung.Abschnitt 4 - Modalitäten in Bezug auf das BestattungsgeldArt. 
+22 - Für Anträge auf das in Artikel 10 erwähnte Bestattungsgeld ist unter dem Begriff "Anspruchsberechtigter" 
+für die im vorliegenden Kapitel festgelegten Verfahren "die Person, die die Bestattungskosten übernommen 
+hat" zu verstehen.KAPITEL 6 - Rechtsstreit und VerjährungArt. 23 - Gegen die Entscheidungen 
+über die Anwendung des vorliegenden Erlasses kann beim Arbeitsgericht Beschwerde eingereicht werden. 
+Zur Vermeidung des Verfalls muss sie binnen drei Monaten ab der Notifizierung der angefochtenen Entscheidungen 
+eingereicht werden.KAPITEL 7 - Verschiedene BestimmungenArt. 24 - Artikel 579 des 
+Gerichtsgesetzbuches, ersetzt durch das Gesetz vom 24. Juni 1969 und abgeändert durch die Gesetze vom 
+16. August 1971, 13. Dezember 2005 und 27. Dezember 2006 und den Königlichen Erlass vom 6. September 
+2018, wird durch eine Nr. 7 mit folgendem Wortlaut ergänzt:"7. über Streitfälle in Bezug auf 
+die Beteiligungen des Entschädigungsfonds für die an COVID-19 gestorbenen Freiwilligen, geschaffen durch 
+den Königlichen Erlass Nr. 22 zur Schaffung eines Entschädigungsfonds für die an COVID-19 gestorbenen 
+Freiwilligen".Art. 25 - In Artikel 704 § 2 desselben Gesetzbuches, ersetzt durch das 
+Gesetz vom 13. Dezember 2005 und abgeändert durch das Gesetz vom 27. Dezember 2006, werden zwischen den 
+Wörtern "579 Nr. 6," und "580 Nr. 2" die Wörter "579 Nr. 7," eingefügt.Art. 26 - In Artikel 
+1017 Absatz 2 Nr. 1 desselben Gesetzbuches, ersetzt durch das Gesetz vom 18. März 2018, werden zwischen 
+den Wörtern "579 Nr. 6," und "580," die Wörter "579 Nr. 7," eingefügt.Art. 27 - In Artikel 
+1056 Nr. 3 desselben Gesetzbuches, ersetzt durch das Gesetz vom 12. Mai 1971 und abgeändert durch die 
+Gesetze vom 30. Juni 1971, 20. Juni 1975, 22. Dezember 1977 und 27. Dezember 2006, werden zwischen den 
+Wörtern "579 Nr. 6," und "580," die Wörter "579 Nr. 7," eingefügt.Art. 28 - Artikel 1410 § 
+2 Absatz 1 des Gerichtsgesetzbuches, zuletzt abgeändert durch das Gesetz vom 1. März 2019, wird durch 
+eine Nr. 13 mit folgendem Wortlaut ergänzt:"13. die in Artikel 15 und 16 des Königlichen Erlasses 
+Nr. 22 zur Schaffung eines Entschädigungsfonds für die an COVID-19 gestorbenen Freiwilligen erwähnten 
+Beträge, die als Beihilfe des Entschädigungsfonds für die an COVID-19 gestorbenen Freiwilligen gezahlt 
+werden."Art. 29 - Artikel 38 § 1 des Einkommensteuergesetzbuches 1992 wird durch eine 
+Nr. 36 mit folgendem Wortlaut ergänzt:"36. Beihilfen des Entschädigungsfonds für die an COVID-19 
+gestorbenen Freiwilligen."KAPITEL 8 - SchlussbestimmungenArt. 30 - Vorliegender Erlass 
+wird wirksam mit 11. März 2020.[Vorliegender Erlass ist auf Todesfälle anwendbar, die sich 
+im Zeitraum zwischen dem 10. März 2020 und dem 1. Januar 2022 ereignen.]Vorliegender Erlass 
+findet ebenfalls Anwendung auf Todesfälle, die sich nach dem in Absatz 2 erwähnten Zeitraum ereignet 
+haben, wenn der Antragsteller den Nachweis gemäß einer der in Artikel 7 Absatz 2 vorgesehen Methoden 
+erbringt, dass die Ansteckung des Freiwilligen mit COVID-19 vor Ablauf des in Absatz 2 erwähnten Zeitraum 
+stattfand.[Art. 30 Abs. 2 ersetzt durch Art. 60 des G. vom 2. April 2021 (B.S. vom 13. April 
+2021)]Art. 31 - Der für Justiz zuständige Minister und der für Soziale Angelegenheiten zuständige 
+Minister sind, jeder für seinen Bereich, mit der Ausführung des vorliegenden Erlasses beauftragt.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-07Numac : 2021022000
+

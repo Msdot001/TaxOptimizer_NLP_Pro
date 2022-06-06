@@ -1,0 +1,297 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/12/06/2020043923/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-11Numac : 2020043923
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 6 DECEMBER 2020. - Koninklijk besluit tot wijziging van het koninklijk besluit van 22 april 2020 houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 
+VERSLAG AAN DE KONINGSire,Het 
+koninklijk besluit dat ik de eer heb aan Uwe Majesteit ter ondertekening voor te leggen, heeft tot doel 
+een antwoord te bieden op de moeilijkheden ten gevolge van de dringende maatregelen die genomen zijn 
+om de verspreiding van het coronavirus COVID-19 tegen te gaan.De huidige genomen maatregelen 
+in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 zijn altijd van die orde 
+dat ze de goede werking van de federale diensten kunnen aantasten, en bepaalde diensten zelfs kunnen 
+stilleggen, en de rechten en plichten van het personeelslid van het federaal openbaar ambt in de uitoefening 
+van zijn functie kunnen belemmeren.De huidige context is gekenmerkt door de bewezen heropflakkering 
+van het coronavirus en de ernstige en verontrustende aard van de huidige gezondheidscrisis wordt door 
+de autoriteiten van het land erkend.De maatregelen van het ontwerp van besluit zijn een aanvulling 
+op de bestaande maatregelen die zijn genomen in toepassing van het koninklijk besluit van 22 april 2020 
+houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader van 
+de huidige gezondheidscrisis.Dit ontwerp van besluit neemt bijgevolg nieuwe bijzondere reglementaire 
+maatregelen om de operationele problemen in het federaal openbaar ambt die het gevolg zijn van de maatregelen 
+genomen in het kader van de huidige gezondheidscrisis aan te pakken en zo de continuïteit van de openbare 
+dienstverlening te verzekeren. Die maatregelen zijn ook een antwoord op de oproep om deel te nemen aan 
+de collectieve inspanning die door de autoriteiten van het land wordt gevraagd, en helpen om adequater 
+te voldoen aan de dringende behoeften aan personeel wegens de huidige gezondheidscrisis.Artikel 
+1 van dit ontwerp herstelt, voor de dienstvrijstelling, het oude artikel 7 van het voornoemde koninklijk 
+besluit van 22 april 2020. Bij die dienstvrijstelling wordt voorzien in een nieuwe mogelijkheid van terbeschikkingstelling.In 
+het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19, organiseert de leidend ambtenaar 
+telewerk.Artikel 7, § 1 preciseert dat, als de functie van een personeelslid niet geschikt 
+is voor telewerk, en bovendien de aanwezigheid van het personeelslid op de werkplek niet vereist is door 
+zijn hiërarchische meerdere, het betrokken personeelslid ter beschikking wordt gesteld van zijn leidend 
+ambtenaar.In dat geval vertrouwt de leidend ambtenaar het personeelslid in kwestie taken toe 
+die in zijn woonplaats kunnen worden uitgevoerd. Die taken hebben zoveel mogelijk te maken met de functie 
+van het personeelslid. Ze kunnen onder andere worden uitgevoerd onder de vorm van van het volgen van 
+e-opleidingen, lezingen, enz. Technische personeelsleden kunnen eventueel administratieve opdrachten 
+toegewezen krijgen als dit past binnen hun algemene competentieniveau.Artikel 7, § 1 
+bepaalt ten slotte dat, als de bovenstaande maatregelen niet haalbaar zijn, de leidend ambtenaar een 
+dienstvrijstelling toekent voor de periode of periodes waarin geen taken zijn toegewezen aan het personeelslid.De 
+bijzondere tijdelijke maatregel om een beroep te doen op dienstvrijstelling is beperkt tot 31 maart 2021. 
+De maatregel bepaalt het algemene tijdelijke kader voor die vrijstelling; ze doet geen afbreuk aan de 
+vaststelling van een termijn die voorafgaat aan die datum in een beslissing van individuele vrijstelling 
+die de leidend ambtenaar aan een personeelslid heeft toegekend.Met het oog op een adequate 
+reactie kan de algemene limiet voor de toekenning van de vrijstelling die is vastgesteld op 31 maart 
+2021 worden uitgesteld bij ministerieel besluit van de minister belast met het federaal openbaar ambt, 
+om het hoofd te bieden aan het eventuele aanhouden van de huidige gezondheidscrisis na die datum.Artikel 
+7, § 2 voorziet in de mogelijkheid voor het personeelslid op wie de maatregel inzake dienstvrijstelling, 
+bepaald in § 1, betrekking heeft en van wie de functie niet beantwoordt aan de definitie van medisch 
+personeel, zoals bepaald in artikel 2, 4°  van het koninklijk besluit van 22 april 2020, om ter beschikking 
+te worden gesteld van elke openbare of privé-instelling die behoort tot de sectoren gezondheidszorg, 
+opvang, huisvesting of onderwijs, die daarom vraagt. Voor de terbeschikkingstelling is de toestemming 
+van de federale dienst en het betrokken personeelslid vereist.Voor het beoordelen van de termen 
+"tot de sectoren gezondheidszorg, opvang, huisvesting of onderwijs", die de openbare of privé-instelling 
+als dienst van bestemming voor de terbeschikkingstelling kwalificeren, moet worden verwezen naar de generieke 
+en algemeen gangbare betekenis van de termen. Daarmee worden, onder andere, met name bedoeld de diensten 
+belast met de "contact tracing" of betrokken diensten in de bovengenoemde sectoren die, ten gevolge van 
+de impact van de gezondheidscrisis, in de onmogelijkheid verkeren om hun opdrachten uit te voeren door 
+een gebrek aan beschikbaar personeel, enz. Als voorbeeld worden de diensten van rusthuizen, instellingen 
+voor gehandicapten, enz. overwogen.Met "personeelslid van wie de functie niet beantwoordt aan 
+de definitie van medisch personeel" wordt met name bedoeld het personeelslid in een functie die te maken 
+heeft met logistieke organisatie, opvang, schoonmaak, restaurant, enz., dat die functie tijdelijk niet 
+kan uitoefenen en bovendien in dienstvrijstelling is geplaatst door de leidend ambtenaar.De 
+terbeschikkingstelling gebeurt op vrijwillige basis, ze is een opportuniteit om uit de situatie te stappen 
+van dienstvrijstelling waarin het personeelslid zich bevindt na de beslissing van de leidend ambtenaar.De 
+modaliteiten van de terbeschikkingstelling zijn identiek aan die bepaald in artikel 6, § 1 van 
+het besluit van 22 april 2020.Vervroegde beëindiging of verlenging van de tijdelijke terbeschikkingstelling 
+is mogelijk mits instemming van de betrokken partijen.Het Directoraat-Generaal Rekrutering 
+en Ontwikkeling ondersteunt de uitvoering van de tijdelijke terbeschikkingstelling, met name door tegemoet 
+te komen aan de actoren die bij dit proces betrokken zijn, door de beschikbare middelen af te stemmen 
+op de bestaande behoeften, enz.Ten slotte wordt er gepreciseerd dat het feit dat artikel 7 
+van toepassing is, niet uitsluit dat men ter beschikking wordt gesteld in de zin van artikel 5. Het feit 
+dat een personeelslid een dienstvrijstelling heeft, belet immers niet dat hij in het kader van deze gezondheidscrisis 
+verzoekt om ter beschikking te worden gesteld van een federale dienst of om ambtshalve ter beschikking 
+te worden gesteld van een federale dienst.Voor het contractueel personeelslid, brengt de bovenvermelde 
+tijdelijke terbeschikkingstelling de dwingende bepalingen van de wet betreffende de arbeidsovereenkomsten 
+niet in het gedrang.Personeel dat ter beschikking gesteld wordt aan organisaties in de gezondheidszorg 
+blijft onderworpen aan de wet van 1967 (publieke sector).Deze wet verwijst op het gebied van 
+beroepsziekten naar de artikelen 30 en 31 van de wet van 71 (privésector); artikel 30 is het artikel 
+dat verwijst naar de lijst van beroepsziekten waarbinnen code 1404032 de beroepsziekte betreft die het 
+gevolg is van COVID-19, zowel voor het personeel dat de gezondheidszorg verzorgt als voor het personnel 
+dat werkzaam is (ondersteunend personeel) in zorginstellingen. Het gaat hierbij om ziekenhuizen, maar 
+ook om zorg- of rusthuizen.Kortom, er is geen behoefte aan een nieuw initiatief, de bestaande 
+juridische constructie van de publieke sector is voldoende, omdat deze verwijst naar het privaatrecht.Artikel 
+2 van dit ontwerp bepaalt enerzijds voor de betrokken diensten een nieuwe uiterste datum voor de referentieperiode 
+die van toepassing is op het inhaalverlof bepaald bij de wet van 14 december 2000 tot vaststelling van 
+sommige aspecten van de organisatie van de arbeidstijd in de openbare sector.De Minister van 
+Ambtenarenzaken is bevoegd om de voornoemde uiterste datum te verlengen voor zover de situatie van de 
+huidige gezondheidscrisis ook na 31 maart 2021 aanhoudt.De voorgestelde aanpassing wordt uitgevoerd 
+in overeenstemming met de bepalingen van de bovengenoemde wet van 14 december 2000 en voldoet aan de 
+eisen van Europese richtlijnen.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Minister van Ambtenarenzaken,P. DE SUTTERRaad 
+van State,afdeling WetgevingAdvies 68.323/4 van 25 november 2020 over een ontwerp 
+van koninklijk besluit `tot wijziging van het koninklijk besluit van 22 april 2020 houdende bijzondere 
+maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader van de gezondheidscrisis 
+ten gevolge van het coronavirus COVID-19'Op 18 november 2020 is de Raad van State, afdeling 
+Wetgeving, door de Vice-eersteminister en Minister van Ambtenarenzaken, Overheidsbedrijven, Telecommunicatie 
+en Post verzocht binnen een termijn van vijf werkdagen een advies te verstrekken over een ontwerp van 
+koninklijk besluit `tot wijziging van het koninklijk besluit van 22 april 2020 houdende bijzondere maatregelen 
+voor de personeelsleden van het federaal openbaar ambt in het kader van de gezondheidscrisis ten gevolge 
+van het coronavirus COVID-19'.Het ontwerp is door de vierde kamer onderzocht op 25 november 
+2020. De kamer was samengesteld uit Martine Baguet, kamervoorzitter, Luc Cambier en Bernard Blero, staatsraden, 
+en Charles-Henri Van Hove, toegevoegd griffier.Het verslag is uitgebracht door Véronique Schmitz, 
+auditeur. De overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien 
+onder toezicht van Martine Baguet. Het advies, waarvan de tekst hierna volgt, is gegeven op 
+25 november 2020.Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten `op de Raad 
+van State', gecoördineerd op 12 januari 1973, moeten in de adviesaanvraag in het bijzonder de redenen 
+opgegeven worden tot staving van het spoedeisend karakter ervan.In casu luidt de motivering 
+in de brief met de adviesaanvraag als volgt:"L'urgence requise est motivée par la résurgence 
+avérée du coronavirus et le caractère grave et inquiétant de la crise sanitaire actuelle liée au coronavirus 
+COVID-19 reconnu par les autorités du pays.Les mesures actuelles prises dans le cadre de la 
+crise sanitaire liée au coronavirus COVID-19 sont de nature à affecter le bon fonctionnement des services 
+fédéraux, voire à paralyser certains services, ou à entraver le membre du personnel de la fonction publique 
+fédérale dans l'exercice de sa fonction, de ses droits et obligations.Cette situation qui perdure 
+engendre la nécessité de prendre de mesures complémentaires et particulières concernant l'organisation 
+du travail, afin de garantir la continuité du service public et répondre aux difficultés de fonctionnement 
+entrainées par les mesures prises dans le cadre de la crise sanitaire liée au coronavirus COVID-19.De 
+plus il est important que les services fédéraux prennent part à l'effort collectif demandé par les autorités 
+du pays et contribuent à pourvoir aux besoins urgents nécessités par la crise sanitaire liée au coronavirus 
+COVID-19 en termes de personnel."Krachtens artikel 84, § 1, tweede lid, van de gecoördineerde 
+wetten `op de Raad van State' moet de motivering van het spoedeisend karakter, die in de adviesaanvraag 
+opgegeven wordt, in de aanhef van het besluit overgenomen worden.In casu is dat vereiste evenwel 
+slechts ten dele vervuld.Aangezien de adviesaanvraag ingediend is op basis van artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, 
+beperkt de afdeling Wetgeving overeenkomstig artikel 84, § 3, van de voornoemde gecoördineerde 
+wetten haar onderzoek tot de rechtsgrond van het ontwerp, de bevoegdheid van de steller van de handeling 
+en de te vervullen voorafgaande vormvereisten.Wat die drie punten betreft, geeft het ontwerp 
+aanleiding tot de volgende opmerkingen.Voorafgaand vormvereisteIn het dossier dat 
+aan de afdeling Wetgeving bezorgd is, ontbreekt het protocol van de onderhandelingen van het Comité van 
+de federale, de gemeenschaps- en de gewestelijke overheidsdiensten waarnaar verwezen wordt in het negende 
+lid van de aanhef. (1) In de brief met de adviesaanvraag staat daaromtrent het volgende:"La 
+formalité substantielle de négociation au sein du Comité des services publics fédéraux, communautaires 
+et régionaux sera bien respectée, la négociation [étant] prévue le 20 novembre 2020."Indien 
+de ontworpen tekst achteraf gewijzigd zou worden teneinde rekening te houden met die onderhandelingen 
+met de vakbonden, zal de aldus gewijzigde tekst opnieuw om advies aan de afdeling Wetgeving voorgelegd 
+dienen te worden.Onderzoek van het ontwerpDispositiefArtikel 1De 
+bepaling dat de in het tweede lid van paragraaf 1 bedoelde personeelsleden die niet tot het medisch personeel 
+behoren, ter beschikking gesteld kunnen worden van elke openbare of privé-instelling die behoort tot 
+de sector gezondheidszorg maar ook tot die van de opvang, de huisvesting of het onderwijs die daarom 
+vraagt, is veel te ruim gesteld. Zo blijkt daaruit niet welke soorten aanvragen ingediend kunnen worden, 
+welke soorten instellingen die aanvragen kunnen doen of volgens welke criteria al die aanvragen onderzocht 
+zullen worden. (2) Het dispositief en het verslag aan de Koning moeten op die verschillende 
+punten aangevuld worden.Artikel 2Artikel 2 van het ontwerp, dat strekt tot wijziging 
+van artikel 8 van het koninklijk besluit van 22 april 2020, luidt als volgt:"In artikel 8, 
+eerste en tweede lid, van hetzelfde besluit worden de woorden '31 december 2020' vervangen door de woorden 
+'31 maart 2021'."In verband met dat artikel 8 heeft de afdeling Wetgeving de volgende opmerking 
+geformuleerd in advies 67.245/4, dat op 20 april 2020 gegeven is over een ontwerp dat geleid heeft tot 
+het koninklijk besluit van 22 april 2020:"Artikel 8 van het ontwerp strekt ertoe het tijdstip 
+waarop het inhaalverlof kan worden genomen, te wijzigen.Voor alle federale overheidsdiensten 
+wordt bepaald dat de gelijkwaardige periodes van inhaalrust van veertien dagen die de afwijkingen van 
+de dagelijkse rusttijd of de zondagsrust volgen, worden aangepast tot een periode tot en met 31 december 
+2020 (eerste lid), en dat de grens van vijftig uur per week voor sommige specifieke diensten tot dezelfde 
+datum kan worden overschreden (tweede lid).Er wordt aan herinnerd dat artikel 16 van richtlijn 
+2003/88/EG van het Europees Parlement en de Raad van 4 november 2003 `betreffende een aantal aspecten 
+van de organisatie van de arbeidstijd' voor de wekelijkse rusttijd een referentieperiode vaststelt van 
+ten hoogste veertien dagen, en voor de maximale wekelijkse arbeidstijd een referentieperiode van niet 
+langer dan vier maanden.De steller van het ontwerp moet aantonen dat voldaan is aan de voorwaarden 
+voor een van de uitzonderingen of afwijkingen waarin artikel 17 van diezelfde richtlijn voorziet. Het 
+verslag aan de Koning moet op dat punt worden aangevuld." (3)In het verslag aan de Koning bij 
+het koninklijk besluit van 22 april 2020 staat het volgende te lezen:"Artikel 8 wordt uitgevoerd 
+in overeenstemming met de bepalingen van de bovengenoemde wet van 14 december 2000 en voldoet aan de 
+eisen van Europese richtlijnen."Het verslag aan de Koning dat bij de ontworpen tekst gevoegd 
+is, bevat evenmin enig gegeven in dat verband terwijl bij artikel 2 van het ontwerp, voor de referentieperiode 
+die voor de inhaalrust in de betrokken diensten geldt, een nieuwe uiterste datum vastgesteld wordt, namelijk 
+"31 maart 2021", welke periode bovendien door de minister van Ambtenarenzaken verlengd kan worden met 
+toepassing van artikel 3, 2°,  van het ontwerp (ontworpen artikel 9, derde lid, 2°,  van het koninklijk 
+besluit van 22 april 2020).De opmerking die in advies 67.245/4 gemaakt is, dient dus herhaald 
+te worden: de steller van het ontwerp moet in het verslag aan de Koning aantonen dat voldaan is aan de 
+voorwaarden voor een van de uitzonderingen of afwijkingen waarvan sprake is in de artikelen 17 tot 22 
+van richtlijn 2003/88/EG van het Europees Parlement en de Raad van 4 november 2003, zeker gelet op de 
+machtiging die bij het ontworpen artikel 9, derde lid, (artikel 3, 2°,  van het ontwerp) aan de minister 
+verleend wordt om "de in het eerste en tweede lid van artikel 8 vermelde referentieperiode [te] verlengen".Artikel 
+3In het ontworpen derde lid van artikel 9 moet als datum niet 31 maart 2020 maar wel 31 maart 
+2021 vermeld worden.De griffier,   Charles-Henri Van HoveDe voorzitter,Martine 
+Baguet_______Nota's(1) De gemachtigde van de minister heeft alleen een 
+voorlopige versie van het protocol bezorgd.(2) Zie in dezelfde zin advies 67.245/4, dat op 
+20 april 2020 gegeven is over het ontwerp dat geleid heeft tot het koninklijk besluit van 22 april 2020 
+`houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader 
+van de gezondheidscrisis ten gevolge van het coronavirus COVID-19', http://www.raadvst-consetat.be/dbx/adviezen/67245.pdf.(3) 
+Ibidem6 DECEMBER 2020. - Koninklijk besluit tot wijziging van het koninklijk 
+besluit van 22 april 2020 houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar 
+ambt in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19FILIP, Koning 
+der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de 
+Grondwet, de artikelen 37 en 107, tweede lid;Gelet op de wet van 16 maart 1954 betreffende 
+de controle op sommige instellingen van openbaar nut, artikel 11, § 1, eerste lid, vervangen bij 
+de wet van 24 december 2002;Gelet op de wet van 22 juli 1993 houdende bepaalde maatregelen 
+inzake ambtenarenzaken, artikel 4, § 2, 1°,  vervangen bij de wet van 20 mei 1997;Gelet 
+op de wet van 14 december 2000 tot vaststelling van sommige aspecten van de organisatie van de arbeidstijd 
+in de openbare sector, artikelen 5, § 4, tweede lid, 7, § 3, tweede lid, 8, § 2, 
+tweede lid, en 13, § 4, tweede lid;Gelet op het koninklijk besluit van 22 april 2020 
+houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader van 
+de gezondheidscrisis ten gevolge van het coronavirus COVID-19;Gelet op de vrijstelling van 
+de regelgevingsimpactanalyse, bedoeld in artikel 8, § 1, 4°,  van de wet van 15 december 2013 
+houdende diverse bepalingen inzake administratieve vereenvoudiging;Gelet op het advies van 
+de inspecteur van Financiën, gegeven op 5 november 2020;Gelet op de akkoordbevinding van de 
+Staatssecretaris voor Begroting, gegeven op 9 november 2020;Gelet op het protocol nr. 756 van 
+20 november 2020 van het Comité voor de federale, de gemeenschaps- en de gewestelijke overheidsdiensten;Gelet 
+op de hoogdringendheid gemotiveerd door de bewezen heropflakkering van het coronavirus en de door de 
+autoriteiten van het land erkende ernstige en verontrustende aard van de huidige gezondheidscrisis ten 
+gevolge van het coronavirus COVID-19;Overwegende de genomen huidige en toekomstige maatregelen 
+om het coronavirus COVID-19 te bestrijden en de verspreiding ervan te beperken;Overwegende 
+dat de genomen maatregelen in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 
+de goede werking van de federale diensten altijd kunnen aantasten, en bepaalde diensten zelfs kunnen 
+stilleggen, en de rechten en plichten van het personeelslid van het federaal openbaar ambt in de uitoefening 
+van zijn functie kunnen belemmeren;Overwegende de noodzaak om bijkomende en specifieke maatregelen 
+te nemen betreffende de werkorganisatie, teneinde de continuïteit van de openbare dienstverlening te 
+waarborgen en de operationele problemen aan te pakken die het gevolg zijn van de maatregelen die zijn 
+genomen in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19;Overwegende 
+dat de federale diensten moeten deelnemen aan de collectieve inspanning die door de autoriteiten van 
+het land wordt gevraagd en moeten helpen om aan de dringende behoeften aan personeel wegens de gezondheidscrisis 
+ten gevolge van het coronavirus COVID-19 te voldoen;Overwegende dat de dringende noodzaak om 
+die beginselen te waarborgen vereist dat het advies van de afdeling Wetgeving van de Raad van State binnen 
+de kortere termijn van vijf werkdagen wordt gevraagd;Gelet op het advies nr. 68.323/4 van de 
+Raad van State, gegeven op 25 november 2020 in toepassing van artikel 84, § 1, eerste lid, 3°, 
+ van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht van 
+de Minister van Ambtenarenzaken en op het advies van de in Raad vergaderde Ministers,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. Artikel 7 van het koninklijk besluit van 22 april 
+2020 houdende bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt in het kader 
+van de gezondheidscrisis ten gevolge van het coronavirus COVID-19, opgeheven bij het koninklijk besluit 
+van 26 juni 2020, wordt hersteld als volgt:« Art. 7. § 1. Indien de functie van het 
+personeelslid zich niet leent voor telewerk en voor de periodes waarin de aanwezigheid op de werkplek 
+door de hiërarchische meerdere niet als essentieel of noodzakelijk wordt geacht, wordt het personeelslid 
+ter beschikking gesteld van de leidend ambtenaar. De leidend ambtenaar of zijn afgevaardigde vertrouwt 
+het personeelslid taken toe die zoveel mogelijk met zijn functie zijn verbonden en die in zijn verblijfplaats 
+moeten worden uitgevoerd. Technische personeelsleden kunnen eventueel administratieve opdrachten toegewezen 
+krijgen als dit past binnen hun algemene competentieniveau.Het personeelslid krijgt echter 
+een dienstvrijstelling voor de periodes waarin hem geen taken zijn toegewezen.Het in het tweede 
+lid bedoelde personeelslid kan echter opgeroepen worden volgens de bepalingen van artikel 5 van dit besluit. 
+§ 2. Als reactie op een dringende behoefte aan personeel, ander dan medisch personeel, dat nodig 
+is vanwege de gezondheidscrisis ten gevolge van het coronavirus COVID-19, wordt het in het tweede lid 
+van paragraaf 1 bedoelde personeelslid dat niet tot het medisch personeel behoort, ter beschikking gesteld 
+van elke openbare of privé-instelling die behoort tot de sectoren gezondheidszorg, opvang, huisvesting 
+of onderwijs die daarom vraagt, na toestemming van de federale dienst en het betrokken personeelslid. 
+De federale dienst neemt de kosten van de terbeschikkingstelling op zich.Het personeelslid 
+behoudt zijn bezoldiging ten laste van zijn federale dienst.Voor zijn loopbaan wordt beschouwd 
+dat het personeelslid deel uitmaakt van zijn federale dienst. Hij behoudt, binnen zijn federale dienst, 
+zijn rechten op bevordering, op verandering van graad en op mutatie.De duur van de terbeschikkingstelling 
+van het personeelslid wordt vastgelegd in onderlinge overeenstemming tussen het personeelslid, de federale 
+dienst en de in het eerste lid bedoelde openbare of privé-instelling.Voor het contractueel 
+personeelslid wordt de terbeschikkingstelling toegepast onverminderd de dwingende bepalingen van de wet 
+van 3 juli 1978 betreffende de arbeidsovereenkomsten.".Art. 2. In artikel 8, eerste en tweede 
+lid, van hetzelfde besluit worden de woorden "31 december 2020" vervangen door de woorden "31 maart 2021".Art. 
+3.  In artikel 9 van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  in het 
+tweede lid, worden de woorden ", 7, § 2, " ingevoegd tussen de woorden "van de artikelen 5, 6" 
+en de woorden "en 8";2°  twee leden worden tussen het eerste en het tweede lid ingevoegd, luidende:"Artikel 
+7, § 1, treedt buiten werking op 31 maart 2021.De Minister van Ambtenarenzaken kan voor 
+zover de situatie van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 ook na 31 maart 2021 
+aanhoudt:1°  de in het tweede lid vermelde datum van buitenwerkingtreding uitstellen;2° 
+ de in het eerste en tweede lid van artikel 8 vermelde referentieperiode verlengen.".Art. 4. 
+Dit besluit treedt in werking de dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+5. De bevoegde ministers zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 6 december 2020. FILIPVan Koningswege :De Minister van Ambtenarenzaken,P. 
+DE SUTTER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-11Numac : 2020043923
+

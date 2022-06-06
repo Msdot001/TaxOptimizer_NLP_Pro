@@ -1,0 +1,60 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-02-14Numac : 2020200843
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING
+  
+Vergelijkende selectie van Nederlandstalige Junior medewerkers internationale fiscaliteit (m/v/x) (niveau 
+A1) voor de FOD Financiën. - Selectienummer: ANG20050Solliciteren kan tot 09/03/2020 via www.selor.be.De 
+gedetailleerde functiebeschrijving (jobinhoud, deelnemingsvoorwaarden, selectieprocedure,...) kan u verkrijgen 
+bij FOB BOSA via www.selor.be.Geef het selectienummer in via de zoekmotor om de selectie terug 
+te vinden.Na de selectie wordt een lijst met maximum 15 geslaagden aangelegd, die 1 jaar geldig 
+blijft.Naast deze lijst van geslaagden wordt een bijzondere lijst opgesteld (die 4 jaar geldig 
+blijft) van de personen met een handicap die geslaagd zijn.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-02-14Numac : 2020200843
+

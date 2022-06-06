@@ -1,0 +1,65 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-02Numac : 2021204178
+WAALSE OVERHEIDSDIENST
+  
+Operationeel Directoraat-generaal Fiscaliteit. - Belasting op de afgedankte bedrijfsruimten. - Bericht 
+Gelet op het decreet van 27 mei 2004 tot invoering van een belasting op de afgedankte bedrijfsruimten; 
+Gelet op het besluit van de Waalse Regering van 14 oktober 2004 tot uitvoering van het decreet 
+van 27 mei 2004 tot invoering van een belasting op de afgedankte bedrijfsruimten;Gelet op het 
+decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke 
+belastingen.Artikel 4, derde lid, van het decreet van 27 mei 2004 tot invoering van een belasting 
+op de afgedankte bedrijfsruimten, voorziet in het beginsel van de jaarlijkse indexering van de belasting 
+op de afgedankte bedrijfsruimten naar gelang van de evolutie van de index van de consumptieprijzen tussen 
+de maanden juni van het vorige jaar (109,52) en van het lopende jaar (111,30).De tarieven voor 
+de belastbare periode 2022 zijn de volgende : - per are bebouwde oppervlakte: 728,47 euro;- 
+per are onbebouwde oppervlakte: 92,70 euro.Namen, 17 augustus 2021.De Directeur-generaal,S. 
+GUISSE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-02Numac : 2021204178
+

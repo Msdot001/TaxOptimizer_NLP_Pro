@@ -1,0 +1,218 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State   Kamer van volksvertegenwoordigers ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2022/02/14/2022200970/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022200970
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 14 FEBRUARI 2022. - Wet houdende diverse arbeidsrechtelijke maatregelen ten behoeve van de zorgsector en het onderwijs in het raam van de strijd tegen de verspreiding van het coronavirus COVID-19 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.De Kamer 
+van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen hetgeen volgt : HOOFDSTUK 
+1. - Algemene bepalingen en toepassingsgebiedArtikel 1. Deze wet regelt een aangelegenheid 
+als bedoeld in artikel 74 van de Grondwet. Art. 2. Deze wet is van toepassing op de werkgevers 
+uit de zorgsector en het onderwijs.Voor de toepassing van deze wet wordt onder de zorgsector 
+verstaan: de private en openbare diensten en organisaties voor zorg, opvang en bijstand voor personen, 
+voor oudere personen, voor minderjarigen, voor mindervalide personen en voor kwetsbare personen, met 
+inbegrip van slachtoffers van intra-familiaal geweld.Voor de private sector behoren deze diensten 
+of organisaties tot de volgende paritaire comités : - 318 Paritair Comité voor de diensten 
+voor gezins- en bejaardenhulp;- 319 Paritair Comité voor de opvoedings- en huisvestingsinrichtingen 
+en -diensten;- 330 Paritair Comité voor de gezondheidsinrichtingen en -diensten;- 
+331 Paritair Comité voor de Vlaamse welzijns- en gezondheidssector;- 332 Paritair Comité voor 
+de Franstalige en Duitstalige welzijns- en gezondheidssector;- 322 Paritair Comité voor de 
+uitzendarbeid en de erkende ondernemingen die buurtwerken of -diensten leveren, voor zover de uitzendkracht 
+wordt tewerkgesteld bij een gebruiker die ressorteert onder één van de hierboven vermelde paritaire comités.Onder 
+de openbare zorgsector wordt verstaan de openbare instellingen en diensten met als NACE-code 86101, 86102, 
+86103, 86104, 86109, 86210, 86901, 86903, 86904, 86905, 86906, 86909, 87101, 87109, 87201, 87202, 87203, 
+87204, 87205, 87209, 87301, 87302, 87303, 87304, 87309, 87901, 87902, 87909, 88101, 88102, 88103, 88104, 
+88109, 88911, 88912, 88919, 88991, 88992, 88993, 88994, 88996 en 88999.Voor de toepassing van 
+deze wet wordt onder de zorgsector eveneens verstaan : - de private en openbare instellingen 
+en centra die belast zijn met contactopsporing om de verspreiding van het coronavirus COVID-19 te beperken;- 
+de private en openbare instellingen of diensten die belast zijn met de exploitatie van vaccinatiecentra 
+in het kader van de strijd tegen het coronavirus COVID-19 en dit voor alle activiteiten die verband houden 
+met de exploitatie van een vaccinatiecentrum. Art. 3. Voor de toepassing van deze wet wordt 
+verstaan onder : 1° bruggepensioneerde: de werkloze die uitkeringen geniet in toepassing van 
+het koninklijk besluit van 7 december 1992 betreffende de toekenning van werkloosheidsuitkeringen in 
+geval van conventioneel brugpensioen;2° tijdelijk werkloze: de werkloze die uitkeringen geniet 
+in toepassing van de artikelen 106 tot 108bis van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering;3° werkloze met bedrijfstoeslag: de werkloze die uitkeringen 
+geniet in toepassing van het koninklijk besluit van 3 mei 2007 tot regeling van het stelsel van werkloosheid 
+met bedrijfstoeslag;4° de factor X: het aantal dagen, behalve de zondagen, in een bedoelde 
+kalendermaand die gelegen zijn in de kalenderperiode gedekt door een tewerkstelling in de zorgsector 
+of het onderwijs, zoals aangegeven in toepassing van het koninklijk besluit van 5 november 2002 tot invoering 
+van een onmiddellijke aangifte van tewerkstelling, met toepassing van artikel 38 van de wet van 26 juli 
+1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke 
+pensioenstelsels. HOOFDSTUK 2. - Mogelijkheid tot het afsluiten van opeenvolgende arbeidsovereenkomsten 
+voor bepaalde tijd voor werknemers die in tijdelijke werkloosheid verkeren Art. 4. In afwijking 
+van artikel 10 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, heeft het sluiten van 
+opeenvolgende arbeidsovereenkomsten voor een bepaalde tijd van minimaal zeven dagen door een werkgever 
+die onder het toepassingsgebied van dit hoofdstuk valt, niet het sluiten van een arbeidsovereenkomst 
+voor onbepaalde tijd tot gevolg, indien deze arbeidsovereenkomsten worden gesloten door werknemers die 
+in tijdelijke werkloosheid verkeren. Deze arbeidsovereenkomsten moeten worden gesloten met een andere 
+werkgever dan de werkgever waarbij de werknemer in tijdelijke werkloosheid verkeert.De werknemer 
+heeft het recht deze arbeidsovereenkomsten zonder opzegging te beëindigen. HOOFDSTUK 3. - Terbeschikkingstelling 
+van werknemers aan gebruikers uit de zorgsector en het onderwijs Art. 5. Dit hoofdstuk is van 
+toepassing op de gebruikers, bedoeld in artikel 31 van de wet van 24 juli 1987 betreffende de tijdelijke 
+arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, uit 
+de zorgsector en het onderwijs. Art. 6.  § 1. In afwijking van artikel 31 van voornoemde 
+wet van 24 juli 1987, kan een werkgever, naast zijn gewone activiteit(en), gedurende de geldigheidsduur 
+van dit hoofdstuk, zijn vaste werknemers ter beschikking stellen van een gebruiker die onder het toepassingsgebied 
+van dit hoofdstuk valt, teneinde het hoofd te kunnen bieden aan de gevolgen van de COVID-19-epidemie 
+bij de gebruiker, op voorwaarde dat die vaste werknemers reeds vóór 1 oktober 2021 in dienst zijn getreden 
+bij de werkgever. § 2. De voorwaarden en de duur van de terbeschikkingstelling moeten 
+worden vastgelegd in een geschrift ondertekend door de werkgever, de gebruiker en de werknemer.Dit 
+geschrift moet worden opgesteld vóór het begin van de terbeschikkingstelling. § 3. De 
+overeenkomst die de werknemer met zijn werkgever verbindt, blijft gelden tijdens de periode van het in 
+paragraaf 1 bedoelde ter beschikking stellen; de gebruiker wordt echter hoofdelijk aansprakelijk voor 
+de betaling van de sociale bijdragen, lonen, vergoedingen en voordelen die daaruit volgen. In geen geval 
+mogen die lonen, vergoedingen en voordelen lager zijn dan die welke de werknemers ontvangen die dezelfde 
+functies in de onderneming van de gebruiker uitoefenen. § 4. Gedurende de periode waarin 
+de werknemer ter beschikking van de gebruiker wordt gesteld, is de gebruiker verantwoordelijk voor de 
+toepassing van de bepalingen van de wetgeving inzake de reglementering en de bescherming van de arbeid 
+die gelden op de plaats van het werk, zoals bedoeld in artikel 19 van voornoemde wet van 24 juli 1987. 
+HOOFDSTUK 4. - Tijdelijke tewerkstelling bij werkgevers uit de zorgsector en het onderwijs 
+Art. 7.  § 1. Een werknemer, tewerkgesteld bij een werkgever, die onder het toepassingsgebied 
+van deze wet valt, die zijn arbeidsprestaties onderbreekt of heeft verminderd in het kader van hoofdstuk 
+IV, afdeling 5, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, kan met zijn werkgever 
+overeenkomen om de betrokken onderbreking of vermindering van arbeidsprestaties tijdelijk te schorsen. 
+Na afloop van de tijdelijke schorsing, wordt de oorspronkelijke onderbreking of vermindering van arbeidsprestaties 
+onder de oorspronkelijke voorwaarden verdergezet voor de resterende duur.De tijdelijke schorsing 
+van de onderbreking of vermindering van arbeidsprestaties is slechts mogelijk tot en met de datum van 
+buitenwerkingtreding van dit hoofdstuk.De werknemer deelt de schorsing van de onderbreking 
+of vermindering van arbeidsprestaties schriftelijk mee aan de Rijksdienst voor Arbeidsvoorziening. Deze 
+Rijksdienst kan voorzien in een modelformulier om deze mededeling te verrichten. § 2. 
+In afwijking van de bepalingen van diverse koninklijke besluiten in uitvoering van voornoemde herstelwet 
+van 22 januari 1985, behoudt de werknemer het recht op de onderbrekingsuitkering tijdens de schorsing 
+van de onderbreking of vermindering van de arbeidsprestaties.Het bedrag van die onderbrekingsuitkering 
+wordt evenwel met een kwart verminderd. Art. 8.  § 1. Een werknemer die zijn arbeidsprestaties 
+onderbreekt of heeft verminderd in het kader van hoofdstuk IV, afdeling 5, van de herstelwet van 22 januari 
+1985 houdende sociale bepalingen, kan, tijdens de duur van deze onderbreking of vermindering van arbeidsprestaties, 
+tijdelijk tewerkgesteld worden bij een andere werkgever die onder het toepassingsgebied van deze wet 
+valt.De arbeidsovereenkomst bij de andere werkgever wordt schriftelijk vastgesteld en bevat 
+een einddatum die de dag van buitenwerkingtreding van deze wet niet overschrijdt.De werknemer 
+brengt de Rijksdienst voor Arbeidsvoorziening schriftelijk op de hoogte van elke nieuwe tewerkstelling. 
+Deze Rijksdienst kan voorzien in een modelformulier om deze mededeling te verrichten. § 
+2. In afwijking van de bepalingen van diverse koninklijke besluiten in uitvoering van voornoemde herstelwet 
+van 22 januari 1985, behoudt de werknemer het recht op de onderbrekingsuitkering indien hij in toepassing 
+van paragraaf 1 een nieuwe tewerkstelling aanvangt bij een andere werkgever die onder het toepassingsgebied 
+van deze wet valt.Het bedrag van die onderbrekingsuitkering wordt evenwel met een kwart verminderd 
+voor de duur van de arbeidsovereenkomst. Art. 9. Wanneer een tijdelijk werkloze het werk tijdelijk 
+hervat bij een andere werkgever die onder het toepassingsgebied van deze wet valt, wordt, in afwijking 
+van de artikelen 44, 45, 46 en 106 tot 108bis van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering, het aantal uitkeringen per kalendermaand verkregen in toepassing van 
+de artikelen 106 tot 108bis van hetzelfde koninklijk besluit van 25 november 1991, verminderd met een 
+vierde van de factor X.Wanneer de decimale breuk van het resultaat van de deling van X door 
+4 minder dan 0,25 bedraagt, wordt het resultaat naar de lagere eenheid afgerond; wanneer die breuk gelijk 
+is aan of meer bedraagt dan 0,25 zonder 0,75 te bereiken, wordt het resultaat naar 0,50 afgerond; wanneer 
+die breuk gelijk is aan of meer bedraagt dan 0,75, wordt het resultaat naar de hogere eenheid afgerond.De 
+regeling bedoeld in het eerste lid is slechts van toepassing op de tewerkstelling gelegen in de periode 
+tot en met de datum van buitenwerkingtreding van dit artikel. Art. 10.  § 1. Wanneer 
+een bruggepensioneerde of een werkloze met bedrijfstoeslag het werk tijdelijk hervat bij een werkgever 
+die onder het toepassingsgebied van deze wet valt, wordt, in afwijking van de artikelen 44, 45 en 46 
+van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, het aantal uitkeringen 
+per kalendermaand verminderd met een vierde van de factor X.Wanneer de decimale breuk van het 
+resultaat van de deling van X door 4 minder dan 0,25 bedraagt, wordt het resultaat naar de lagere eenheid 
+afgerond; wanneer die breuk gelijk is aan of meer bedraagt dan 0,25 zonder 0,75 te bereiken, wordt het 
+resultaat naar 0,50 afgerond; wanneer die breuk gelijk is aan of meer bedraagt dan 0,75, wordt het resultaat 
+naar de hogere eenheid afgerond.De regeling bedoeld in het eerste lid is slechts van toepassing 
+op de tewerkstelling gelegen in de periode tot en met de datum van buitenwerkingtreding van dit artikel. 
+§ 2. Paragraaf 1 is eveneens van toepassing als een bruggepensioneerde of een werkloze met bedrijfstoeslag 
+het werk tijdelijk hervat in een sector of instelling die onder het toepassingsgebied van deze wet valt, 
+bij de werkgever die de debiteur is van de aanvullende vergoeding in het kader van het stelsel van werkloosheid 
+met bedrijfstoeslag. Art. 11. Voor de toepassing van het koninklijk besluit van 29 maart 2010 
+tot uitvoering van het hoofdstuk 6 van Titel XI van de wet van 27 december 2006 houdende diverse bepalingen 
+(I), betreffende de socialezekerheidsbijdragen en de inhoudingen verschuldigd in het stelsel van werkloosheid 
+met bedrijfstoeslag, op aanvullende vergoedingen bij sommige socialezekerheidsuitkeringen en op invaliditeitsuitkeringen, 
+wordt een tewerkstelling als bedoeld in artikel 10, § 2, in afwijking van artikel 3 van voornoemd 
+besluit van 29 maart 2010 beschouwd als een werkhervatting van het type 1 en niet van het type 2. HOOFDSTUK 
+5. - Opschorting van de voorwaarde bedoeld in artikel 18, 3°, van het koninklijk besluit van 2 september 
+2018 houdende de uitvoering van de wet van 9 mei 2018 betreffende de tewerkstelling van buitenlandse 
+onderdanen die zich in een specifieke verblijfssituatie bevinden Art. 12. De voorwaarde bedoeld 
+in artikel 18, 3°, van het koninklijk besluit van 2 september 2018 houdende de uitvoering van de wet 
+van 9 mei 2018 betreffende de tewerkstelling van buitenlandse onderdanen die zich in een specifieke verblijfssituatie 
+bevinden, dat enkel de verzoekers die vier maanden na de indiening van hun verzoek om internationale 
+bescherming nog geen betekening van de beslissing hebben gekregen van de Commissaris-generaal voor de 
+Vluchtelingen en Staatlozen mogen werken, wordt opgeschort voor zover hun verzoek werd geregistreerd 
+ten laatste op 31 december 2021 en voor zover zij worden tewerkgesteld door een werkgever uit de zorgsector 
+of het onderwijs. HOOFDSTUK 6. - Uitbreiding van de mogelijkheden tot studentenarbeid in de 
+zorgsector en het onderwijs door de tijdens het eerste kwartaal van 2022 gepresteerde uren te neutraliseren 
+Art. 13. In afwijking van artikel 17bis, §  § 1 en 3, van het koninklijk besluit 
+van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 
+28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, worden de tijdens het eerste 
+kwartaal van 2022 in de zorgsector en in het onderwijs gepresteerde uren, met inbegrip van de als uitzendkracht 
+gepresteerde uren bij gebruikers die behoren tot de zorgsector en het onderwijs, niet in aanmerking genomen 
+voor de berekening van het jaarlijkse contingent van 475 uren. HOOFDSTUK 7. - Steun voor de 
+zorgsector en het onderwijs Art. 14. In artikel 16, § 3, tweede lid, van de wet van 
+29 mei 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19-pandemie, ingevoegd 
+bij de wet van 20 december 2020 en gewijzigd bij de wetten van 2 april 2021 en 18 juli 2021, worden de 
+woorden "en in het eerste en tweede kwartaal van 2021" vervangen door de woorden ", in het eerste en 
+tweede kwartaal van 2021 en in het eerste kwartaal van 2022" en worden de woorden "of artikel 35 van 
+de wet van 2 april 2021 houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie" 
+vervangen door de woorden ", artikel 35 van de wet van 2 april 2021 houdende tijdelijke ondersteuningsmaatregelen 
+ten gevolge van de COVID-19-pandemie of artikel 13 van de wet van 14 februari 2022 houdende diverse arbeidsrechtelijke 
+maatregelen ten behoeve van de zorgsector en het onderwijs in het raam van de strijd tegen de verspreiding 
+van het coronavirus COVID-19.". HOOFDSTUK 8. - Sociaal overleg Art. 15. De werkgever 
+die gebruik maakt van de maatregelen bedoeld in deze wet informeert hierover de ondernemingsraad, of 
+bij ontstentenis, het comité voor preventie en bescherming op het werk, of bij ontstentenis, de vakbondsafvaardiging, 
+en agendeert de bespreking ervan op de eerstvolgende vergadering volgend op het eerste gebruik. De bespreking 
+binnen het betrokken inspraakorgaan wordt verder maandelijks geagendeerd, zolang het gebruik aanhoudt, 
+en een laatste keer op de vergadering volgend op het einde van het gebruik. HOOFDSTUK 9. - 
+Inwerkingtreding en temporele toepassing Art. 16. Deze wet heeft uitwerking met ingang van 
+1 januari 2022 en treedt buiten werking op 31 maart 2022.De Koning kan, bij een besluit vastgesteld 
+na overleg in de Ministerraad, de werking van deze wet met maximaal drie maanden verlengen.In 
+afwijking van de vorige leden, is artikel 14 van toepassing op de bezoldigingen die vanaf 1 januari 2022 
+worden betaald of toegekend.Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden 
+bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.Gegeven te Brussel, 14 februari 
+2022.FILIPVan Koningswege : De Minister van Werk,P.-Y. DERMAGNEDe 
+Minister van Financiën,V. VAN PETEGHEMMet 's Lands Zegel gezegeld: De Minister 
+van Justitie,V. VAN QUICKENBORNE_______Nota Kamer van volksvertegenwoordigers 
+(www.dekamer.be) : Stukken : Doc. 55 2455/(2021/2022)001 : Wetsvoorstel van de dames 
+Thémont, Reuter, Cornet, Muylle, De Jonge, Vanrobaeys en Willaert.002 : Amendementen.003 
+: Verslag.004 : Tekst aangenomen door de Commissie.005 : Tekst aangenomen door de 
+plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd.Integraal verslag: 10 februari 
+2022   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022200970
+

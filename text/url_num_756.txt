@@ -1,0 +1,200 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/12/02/2021034443/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-02-16Numac : 2021034443
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 2 DECEMBER 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot toekenning van een subsidie van 9.000.000 EUR aan de Brusselse gemeenten en OCMW's teneinde de zachte mobiliteit van hun personeelsleden te bevorderen voor het dienstjaar 2021 
+De Brusselse Hoofdstedelijke Regering,Gelet 
+op de organieke ordonnantie van 23 februari 2006 houdende de bepalingen die van toepassing zijn op de 
+begroting, de boekhouding en de controle;Gelet op de ordonnantie van 18 december 2020 houdende 
+de algemene begroting der uitgaven van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2021;Gelet 
+op het besluit van de Brusselse Hoofdstedelijke Regering van 22 juli 2019 tot vaststelling van de verdeling 
+van de bevoegdheden tussen de ministers van de Brusselse Hoofdstedelijke Regering;Gelet op 
+het Besluit van de Brusselse Hoofdstedelijke Regering van 2 juni 2016 tot goedkeuring van het Gewestelijk 
+lucht-klimaat-energieplan;Gelet op het advies van de Inspectie van Financiën van 7 november 
+2021 ;Gelet op het akkoord van de Minister van Begroting 26 november 2021 ;Gelet 
+op de Gelijkekansentest van 24 oktober 2020;Overwegende dat, voor het begrotingsjaar 2021, 
+de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest een bedrag van 9.000.000.EUR voorziet 
+in vastleggingskrediet op de basisallocatie 10.005.27.17.43.22;Overwegende het protocol 2016/01 
+afgesloten in het comité C van het Brussels Hoofdstedelijk Gewest op 8 maart 2016;Overwegende 
+dat het nodig is om de gemeenten en OCMW's ondersteuning te bieden bij hun zachte mobiliteitsbeleid door 
+hen financiële steun toe te kennen voor het versterken van de beleidsinstrumenten om de zachte verplaatsingswijzen 
+bij hun personeelsleden aan te moedigen;Overwegende dat daartoe krachtens het protocol 2016/01 
+gewestelijke middelen moeten worden vrijgemaakt;Overwegende dat de personeelsuitgaven belangrijke 
+en terugkerende lasten zijn;Op de voordracht van de Minister van de Brusselse Hoofdstedelijk 
+Regering bevoegd voor de Plaatselijke besturen;Na beraadslaging,Besluit :Artikel 
+1. Een subsidie van 9.000.000 EUR, ten laste van basisallocatie 10.005.27.17.43.22 van de algemene uitgavenbegroting 
+van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2021, wordt toegekend aan de Brusselse 
+gemeenten en OCMW's toegekend tot dekking van de terugbetaling van de in het kader van de zachte mobiliteit 
+gemaakte kosten.Art. 2. De subsidie heeft betrekking op de periode van 1 januari tot 31 december 
+2021 en is bestemd voor de terugbetaling van de kosten van het woon-werkverkeer aan de personeelsleden 
+van de gemeenten en OCMW's, voor de door hen te voet of met de fiets uitgevoerde verplaatsingen en voor 
+het vergoeden van de kosten van de aankoop van MIVB-abonnementen door de gemeenten en OCMW's en tegelijk 
+hun personeelsleden de mogelijkheid te bieden hun dienstverplaatsingen af te leggen.Enkel de 
+MIVB- en BRUPASS abonnementen komen in aanmerking voor de terugbetaling op regionale fondsen.Alle 
+personeelsleden die bezoldigd worden door de gemeente of het OCMW komen in aanmerking voor deze subsidie, 
+ongeacht hun statuut, het type arbeidsovereenkomst dat ze hebben of de duur ervan.Wat de personeelsleden 
+van de OCMW's betreft, dekt de subsidie het personeel dat tewerkgesteld is onder een `artikel 60, § 
+ 7'-overeenkomst, ongeacht hun dienstaanwijzing, inclusief het personeel onder een `artikel 60, § 
+7'-overeenkomst dat werkt in verenigingen die gevormd werden overeenkomstig de bepalingen van hoofdstuk 
+XII van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, 
+waarvan de raad van bestuur is samengesteld uit vertegenwoordigers van de OCMW's en van de openbare ziekenhuizen 
+waarvan de gemeenten het tekort ten laste nemen.De andere personeelsleden (i.e. die welke niet 
+met een `artikel 60, § 7'-contract tewerkgesteld zijn) van deze instellingen (verenigingen die 
+gevormd werden overeenkomstig de bepalingen van hoofdstuk XII van de organieke wet van 8 juli 1976 betreffende 
+de openbare centra voor maatschappelijk welzijn, waarvan de raad van bestuur is samengesteld uit vertegenwoordigers 
+van de OCMW's en van de openbare ziekenhuizen waarvan de gemeenten het tekort ten laste nemen en andere 
+verenigingen) komen niet in aanmerking voor deze subsidie. De mandatarissen van de gemeenten 
+en OCMW's komen evenmin in aanmerking voor de subsidie.Overeenkomstig artikel 22, 6°,  tweede 
+lid, van de ordonnantie van 18 december 2020 houdende de algemene begroting der uitgaven van het Brussels 
+Hoofdstedelijk Gewest voor het begrotingsjaar 2021 en met het oog op het waarborgen van de continuïteit 
+van de verrichte acties, worden de gemeenten en de OCMW's gemachtigd om de voorziene acties uit te voeren 
+vóór de ondertekening van dit besluit, zijnde vanaf 1 januari 2021.Art. 3.  § 1.Enkel 
+de onderstaande posten kunnen met de subsidie worden gefinancierd:- de voetgangersvergoedingen, 
+ten belope van 0,24 EUR/km, met een maximum van 390 EUR per jaar en per persoon;- de fietsvergoedingen, 
+ten belope van 0,24 EUR/km;- de MIVB-abonnementen in het kader van de derde-betalerovereenkomst 
+die met de MIVB, de gemeenten en de OCMW's tegen het gewestelijk tarief werd gesloten, hetzij ten belope 
+van 291,50 EUR;- de BRUPASS abonnementen in het kader van de derde-betalerovereenkomst die 
+met de MIVB, de gemeenten en de OCMW's tegen het gewestelijk tarief werd gesloten, hetzij ten belope 
+van 300 EUR, met uitsluiting van het BRUPASS XL vervoerbewijs.De subsidie dekt één enkel abonnement 
+per jaar per personeelslid. § 2. De volgende elementen worden niet gedekt door de subsidie:- 
+de kosten voor het aanmaken van de MOBIB-kaarten;- het vervoerbewijs BUPASS-XL;- 
+de aankoop van MIVB of BRUPASS-abonnementen ten voordele van mandatarissen van de gemeenten en OCMW's;- 
+de administratieve kosten die de MIVB vraagt bij terugbetalingen van abonnementen.Art. 4. Het 
+MIVB abonnement wordt ter beschikking gesteld voor de woon-werkverplaatsingen en/of de dienstverplaatsingen 
+(professionele verplaatsingen toegestaan door de leidend ambtenaar of zijn afgevaardigde).De 
+voetgangers- en fietsvergoedingen kunnen enkel gefinancierd worden om de woon-werkverplaatsingen te dekken 
+en zijn niet terugbetaald in het kader van de dienstopdrachten.Bovendien zal de gewestelijke 
+tussenkomst worden toegekend onder de vorm van een forfaitair bedrag van 0,24 EUR exclusief bedrijfsvoorheffing, 
+sociale zekerheidsbijdrage of alle andere lasten.Het is toegestaan de voetgangersvergoedingen, 
+de fietsvergoedingen en de MIVB of MTB-abonnementskosten voor de woon-werkverplaatsingen te cumuleren.Art. 
+5.  § 1. De betaling van de in artikel 1 bedoelde subsidie gebeurt in een enkele keer:- 
+Na ontvangst en analyse van de in § 3 bedoelde verantwoordingsstukken, ten belope van het bedrag 
+van de uitgaven die gedaan werden tijdens de periode van 1 januari 2021 tot en met 31 december 2021;- 
+Tegen overlegging van een schuldvordering verstuurd samen met de notificatiebrief van het toegekende 
+bedrag, gericht aan de Gewestelijke Overheidsdienst Brussel volgens de modaliteiten bepaald in § 
+2, binnen de termijn van 30 dagen nadat de begunstigde het verzoek van de bevoegde ordonnateur heeft 
+ontvangen. § 2. De schuldvordering rechtstreeks in PDF-formaat ingediend worden bij 
+de Gewestelijke Overheidsdienst Brussel - Brussel Financiën en Begroting - op het adres invoice@gob.brusselsDe 
+schuldvordering vermeldt:- de reden van de betaling;- het bedrag waarvan betaling 
+wordt gevraagd;- het nummer van het visum voor de vastlegging;- het bankrekeningnummer 
+waarop dit bedrag gestort moet worden.De begunstigde zal uitsluitend de schuldvordering gebruiken 
+die hem door de administratie wordt overgemaakt. Het document moet gedateerd en ondertekend worden door 
+een persoon die gemachtigd is de begunstigde te binden.De brief met de notificatie van het 
+toegekend bedrag zal in één verzending met de schuldvordering in PDF formaat worden doorgestuurd.Bij 
+aanmaak of wijziging van bankgegevens moet er een schriftelijke verklaring van de begunstigde afzonderlijk 
+verstuurd worden naar volgend adres: Master Data - Brussel Financiën en Begroting - Iris Tower - Sint-Lazarusplein 
+2, 22ste verdieping, te 1035 Brussel. § 3. De verantwoordingsstukken bestaan uit:- 
+De gemeenten en de OCMW's bezorgen de administratieve dienst die de subsidie beheert een door de MIVB 
+opgestelde samenvattende lijst van de fiscale fiches via het Business Portal van de MIVB (periode die 
+aanvangt op 1 december 2020 en afloopt op 30 november 2021).Het bestand bestemd voor de administratie 
+moet de onbewerkte gegevens bevatten, zonder enige wijziging.Om de verantwoordingsstukken gemakkelijker 
+te kunnen analyseren wordt gevraagd om ook een digitale versie (Excelbestand) van de door de MIVB opgestelde 
+samenvattende lijst toe te voegen.Voor de niet volledig gebruikte abonnementen die door het 
+Gewest op het vorige dienstjaar ten volle betaald werden moeten in voorkomend geval, de door de MIVB 
+na juli 2020 uitgereikte kredietnota's bezorgd worden als bijlage bij de fiscale fiche voor 2021 indien 
+die niet toegevoegd werden bij de bewjsstukken van betrokken dienstjaar.- Een verklaring op 
+eer ondertekend door de gemeenteontvanger of de Financieel Directeur van het OCMW, waarin staat dat alle 
+MIVB-facturen werden betaald, uitsluitend de abonnementen afgesloten ten voordele van de lokale mandatarissen.De 
+gemeenten en de OCMW's moeten de administratieve dienst die de subsidie beheert de samenvattende lijst 
+van de MIVB en de verklaring op eer betreffende de betaling van de facturen bezorgen. Deze dienst zal 
+de documenten dan onderzoeken en het voor het MIVB-deel van de subsidie verschuldigde bedrag bepalen 
+door zich te baseren op de lijst en de richtlijnen vermeld in dit besluit.- Het bedrag van 
+de creditnota's uitgeschreven voor stopgezette abonnementen, zal in mindering worden gebracht voor elk 
+betrokken personeelslid.In geval van een creditnota voor een MTB/BRUPASS-abonnement moet het 
+bedrag van de creditnota dat van de subsidie moet worden afgetrokken, berekend worden in verhouding tot 
+het bedrag dat door het Gewest werd terugbetaald, op basis van 300 EUR.- Ter herinnering, de 
+administratieve kosten die de MIVB bij terugbetalingen van abonnementen inhoudt, worden niet gedekt door 
+de subsidie.- Een lijst van de personeelsleden die een tegemoetkoming in de door hen uitgevoerde 
+verplaatsingskosten te voet of met de fiets hebben gekregen (periode van 1 januari tot en met 31 december 
+2021), met vermelding van het soort kosten dat in aanmerking werd genomen (voetgangersvergoedingen exclusief 
+bedrijfsvoorheffing, sociale zekerheidsbijdrage of alle andere lasten en/of fietsvergoeding) alsook het 
+totaal aantal afgelegde kilometers en het terugbetaalde bedrag.De recapitulatieve tabel zal 
+bewijzen dat de vergoeding werd toegekend over de referentieperiode wordt (1 januari tot en met 31 december 
+2021), zal met een totaal worden afgesloten en moet op eer gecertificeerd worden door de gemeenteontvanger 
+of de Financieel Directeur van het OCMW afhankelijk van het geval.Om de verantwoordingsstukken 
+gemakkelijker te kunnen analyseren wordt gevraagd om ook een digitale versie (Excelbestand) van de tabellen 
+toe te voegen.Bovendien moet een uittreksel van de loonlijst worden bezorgd, waaruit duidelijk 
+blijkt dat het bedrag van de forfaitaire kilometervergoeding de kilometers betreft afgelegd tussen 1 
+januari tot en met 31 december 2021 van het gesubsidieerde dienstjaar.In voorkomend geval zal 
+een kopie van de verklaringen op eer voor de terugbetaling van de voetgangers- en fietspremies ondertekend 
+door de hiërarchische meerdere van het personeelslid houdende duidelijke melding van het aantal afgelegde 
+kilometers kunnen worden gevraagd.Het eindbedrag van de aanvaardbare bewijsstukken zal door 
+de administratie aan de begunstigde voorgesteld worden die de tabel zal moeten goedkeuren. De analyse 
+moet goedgekeurd worden, hetzij door de burgemeester, de gemeentesecretaris of -ontvanger, hetzij door 
+de voorzitter van het Vast Bureau, de Secretaris-generaal of de Financieel Directeur van het OCMW en 
+verstuurd aan Brussel Plaatselijke Besturen, op het volgende adres: plaatselijke-besturen@gob.brussels 
+met kopie voor isp@gob.brusselsArt. 6. De verantwoordingsstukken moeten uiterlijk op 1 juni 
+2022 elektronisch ingediend worden bij de Gewestelijke Overheidsdienst Brussel, Brussel Plaatselijke 
+besturen, via BosXchange.Het OCMW en de gemeente moeten hun bewijsstukken niet gelijktijdig 
+indienen.Het OCMW mag de bewijsstukken rechtstreeks overmaken aan de directie van de gesubsidieerde 
+initiatieven.De begunstigde moet ervoor zorgen dat alle gevraagde stukken ten laatste op deze 
+twee datums ingediend zijn. Er mag geen enkel document ontbreken.Geen enkel bijkomend stuk 
+zal aanvaard worden na de hierboven vermelde datum.Indien een uitgave gesubsidieerd wordt door 
+meerdere overheden, moet een uitsplitsing volgens subsidiërende overheid mee bezorgd worden.De 
+controle van deze stukken door de beherende administratieve dienst moet het mogelijk maken uit te maken 
+of de vastgelegde uitgaven werkelijk plaatsvonden voor de verwezenlijking van de acties waarin dit besluit 
+voorziet.Nadat voornoemde stukken gecontroleerd zijn, wordt de begunstigde door de bevoegde 
+ordonnateur verzocht een schuldvordering over te maken met vermelding van het eindbedrag dat hem toegekend 
+is op grond van de controle.Na de controle van de bewijsstukken beschikt de begunstigde, vanaf 
+de ontvangst van de brief van de ordonnateur over 15 dagen tijd om zijn argumenten voor te leggen indien 
+hij niet akkoord gaat met de voorgestelde bedragen.De bevoegde ordonnateur neemt de eindbeslissing 
+na analyse van de door de begunstigde uiteengezette middelen.Art. 7. De begunstigde gemeenten 
+worden ertoe gehouden het aandeel van de subsidie dat toekomt aan het OCMW.Art. 8. De Minister 
+bevoegd voor plaatselijke Besturen mag de begunstigde alle bijkomende gegevens vragen die nodig zijn 
+voor de behandeling van het dossier en mag alle daartoe aangewezen stappen ondernemen om ze ter plaatse 
+te bekomen.Art. 9. De Directie Gesubsidieerde Initiatieven van Brussel plaatselijke Besturen 
+van de Gewestelijke Overheidsdienst Brussel wordt aangewezen als de administratieve dienst die ermee 
+belast is in te staan voor een goed beheer van de bij dit besluit toegekende kredieten.Art. 
+10. Dit besluit heeft uitwerking op 1 januari 2021.Art. 11. De Minister bevoegd voor de Plaatselijke 
+besturen wordt belast met de uitvoering van dit besluit.Brussel, 2 december 2021.Voor 
+de Brusselse Hoofdstedelijke Regering :De Minister-Presidentvan de Brusselse Hoofdstedelijke 
+Regering,R. VERVOORTDe Minister van de Brusselse Hoofdstedelijke Regering,belast 
+met de Plaatselijke besturen,B. CLERFAYT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-02-16Numac : 2021034443
+

@@ -1,0 +1,192 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/11/24/2021040849/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-15Numac : 2021040849
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 24 NOVEMBER 2020. - Wet met het oog op steunmaatregelen in het kader van de COVID-19-pandemie. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 24 november 2020 met 
+het oog op steunmaatregelen in het kader van de COVID-19-pandemie (Belgisch Staatsblad van 30 november 
+2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST SOZIALE SICHERHEIT24. NOVEMBER 2020 - Gesetz über Unterstützungsmaßnahmen 
+im Rahmen der COVID-19-PandemiePHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Kammer hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 
+1 - Einleitende BestimmungArtikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung 
+erwähnte Angelegenheit.KAPITEL 2 - Fristen für die Zahlung der für das dritte und vierte Quartal 
+2020 geschuldeten BeiträgeArt. 2 - Arbeitgeber und ihnen gleichgestellte Personen, die in Artikel 
+1 § 1 des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über 
+die soziale Sicherheit der Arbeitnehmer erwähnt sind und aufgrund des Coronavirus COVID-19 vor ernsthaften 
+wirtschaftlichen Schwierigkeiten stehen, können vor jeglicher Rechtsverfolgung und anderen vorhergehenden 
+gütlichen Abzahlungsplänen beim Landesamt für soziale Sicherheit gütliche Abzahlungsfristen für die angegebenen 
+Beiträge für das dritte und vierte Quartal 2020 und für die Berichtigungen von Beiträgen, die bis zum 
+28. Februar 2021 fällig sind, beantragen, mit Ausnahme der vom vorerwähnten Landesamt von Amts wegen 
+festgelegten Beiträge, die sich auf das dritte und vierte Quartal 2020 beziehen, in Anwendung von Artikel 
+22 des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die soziale 
+Sicherheit der Arbeitnehmer; in diesem Fall werden Beitragszuschläge, eventuelle Pauschalentschädigungen, 
+Vorschüsse und Verzugszinsen nicht angerechnet, wenn und soweit die festgelegten Zahlungsmodalitäten 
+genau eingehalten werden.Die im vorhergehenden Absatz erwähnten gütlichen Abzahlungsfristen 
+werden gemäß den in Anwendung von Artikel 40bis des vorerwähnten Gesetzes vom 27. Juni 1969 festgelegten 
+Bedingungen und Modalitäten gewährt.Art. 3 - Pauschalentschädigungen aufgrund der Nichteinhaltung 
+der Verpflichtungen zur Zahlung der Vorschüsse, die in Artikel 54bis des Königlichen Erlasses vom 28. 
+November 1969 zur Ausführung des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 
+1944 über die soziale Sicherheit der Arbeitnehmer erwähnt sind, gelten nicht für das dritte und vierte 
+Quartal 2020.Art. 4 - Vorliegendes Kapitel wird wirksam mit 1. Juli 2020.KAPITEL 
+3 - Vorschuss CORONA für den HORECA-SektorArt. 5 - In Ausführung der Artikel 121 bis 124 des 
+Gesetzes vom 22. Mai 2003 zur Organisation des Haushaltsplans und der Buchführung des Föderalstaates 
+wird dem Garantie- und Sozialfonds für das Hotel- und Gaststättengewerbe und ähnliche Betriebe ein einmaliger 
+Zuschuss in Höhe von 167.000.000 EUR zu Lasten des Haushalts des interministeriellen Vorschusses (einschließlich 
+Corona) gewährt, und zwar über eine spezifische Zuweisung des FÖD Beschäftigung: 235120313201.Art. 
+6 - Dieser Zuschuss ist ausschließlich dazu bestimmt, die Nichtzahlung des Beitrags zur Finanzierung 
+der Jahresendprämien 2020 für der Paritätischen Kommission für das Hotelgewerbe unterstehende Arbeitnehmer 
+infolge der durch die Ministeriellen Erlasse zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung 
+der Ausbreitung des Coronavirus COVID-19 angeordneten Schließung der Betriebe des Horeca-Sektors 
+auszugleichen.Dieser Zuschuss kann nur für die Zahlung des Teils der Jahresendprämien der Arbeitnehmer 
+verwendet werden, der sich auf Tage zeitweiliger Arbeitslosigkeit bezieht, die der tatsächlichen Anwesenheit 
+gleichgesetzt sind, wie in Artikel 9.9 des innerhalb der Paritätischen Kommission für das Hotelgewerbe 
+abgeschlossenen kollektiven Arbeitsabkommens vom 27. Juli 2010 zur Abänderung und Koordinierung kollektiver 
+Arbeitsabkommen zur Gewährung von Jahresendprämien vorgesehen.Art. 7 - Dieser Zuschuss darf 
+nicht für Personal-, Betriebs- und Investitionsausgaben verwendet werden.Art. 8 -  § 
+1 - Spätestens binnen drei Monaten nach dem Datum der Auszahlung der Jahresendprämie 2020, wie in der 
+Satzung des Garantie- und Sozialfonds für das Hotel- und Gaststättengewerbe und ähnliche Betriebe festgelegt, 
+übermittelt das Geschäftsführungsorgan dieses Fonds der Generaldirektion der kollektiven Arbeitsbeziehungen 
+des FÖD Beschäftigung, Arbeit und Soziale Konzertierung einen Bericht über die Art und Weise, wie der 
+Zuschuss zugewiesen wurde, gemäß Artikel 121 Absatz 3 des Gesetzes vom 22. Mai 2003 zur Organisation 
+des Haushaltsplans und der Buchführung des Föderalstaates. § 2 - Unbeschadet des Artikels 
+13 des Gesetzes vom 7. Januar 1958 über die Fonds für Existenzsicherheit und des Königlichen Erlasses 
+vom 15. Januar 1999 über die Buchhaltung und den Jahresabschluss der Fonds für Existenzsicherheit enthält 
+der in § 1 erwähnte Bericht eine Abrechnung der Ausgaben mit den erforderlichen Buchungsbelegen.Art. 
+9 -  § 1 - Der Gesamtzuschuss darf niemals den in Artikel 5 vorgesehenen Betrag überschreiten. 
+§ 2 - Liegt der in den Buchungsbelegen nachgewiesene Betrag unter dem in Artikel 5 vorgesehenen 
+Betrag, ist der Begünstigte gemäß Artikel 123 des Gesetzes vom 22. Mai 2003 zur Organisation des 
+Haushaltsplans und der Buchführung des Föderalstaates verpflichtet, dem FÖD Beschäftigung, Arbeit und 
+Soziale Konzertierung den zu viel erhaltenen Betrag binnen einem Monat nach Erhalt der endgültigen Abrechnung, 
+die ihm dieser öffentliche Dienst übermittelt hat, zurückzuzahlen.Art. 10 - Der Zuschuss wird 
+für das Jahr 2020 gewährt.KAPITEL 4 - Kapitel zur Abänderung des Gesetzes vom 23. März 2020 
+zur Abänderung des Gesetzes vom 22. Dezember 2016 zur Einführung eines Anspruchs auf Überbrückungsmaßnahmen 
+für Selbständige und zur Einführung zeitweiliger Maßnahmen im Rahmen von COVID-19 für SelbstständigeArt. 
+11 - 14 - [Bestimmungen zur Abänderung des Gesetzes vom 23. März 2020 zur Abänderung des Gesetzes vom 
+22. Dezember 2016 zur Einführung eines Anspruchs auf Überbrückungsmaßnahmen für Selbständige und 
+zur Einführung zeitweiliger Maßnahmen im Rahmen von COVID-19 für Selbstständige]KAPITEL 
+5 - Gewährung einer Prämie an bestimmte Kategorien von Arbeitgebern im Hinblick auf die Zahlung der dem 
+Landesamt für soziale Sicherheit geschuldeten Beträge für das dritte Quartal 2020Art. 15 - 
+§ 1 - Arbeitgebern und Arbeitgebern gleichgestellten Personen, die in Artikel 1 § 1 des 
+Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die soziale Sicherheit 
+der Arbeitnehmer erwähnt sind, wird eine Prämie gemäß den in Artikel 16 festgelegten Modalitäten 
+gewährt, sofern und soweit sie in den Anwendungsbereich des Gesetzes vom 5. Dezember 1968 über die kollektiven 
+Arbeitsabkommen und die paritätischen Kommissionen fallen und am Ende des dritten Quartals 2020 noch 
+tätig sind und:1. als Betriebe des Hotel- und Gaststättengewerbes und andere Gaststättenbetriebe 
+und Schankstätten gelten, die seit dem 19. Oktober 2020 aufgrund der Ministeriellen Erlasse zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 geschlossen 
+sind, die der Minister des Innern gefasst hat, mit Ausnahme von Gaststättenbetrieben und Schankstätten 
+und Großküchen von Wohn-, Schul-, Lebens- und Arbeitsgemeinschaften;2. in den Bereichen 
+Kultur, Feiern, Sport, Freizeit und Veranstaltungen tätig sind und deren Einrichtungen (zum Teil) seit 
+dem 29. Oktober 2020 beziehungsweise dem 2. November 2020 aufgrund der Ministeriellen Erlasse zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19, die der Minister 
+des Innern gefasst hat, für die Öffentlichkeit geschlossen sind;3. als Unternehmen und Vereinigungen 
+gelten, die Verbrauchern Waren anbieten und seit dem 2. November 2020 aufgrund der Ministeriellen Erlasse 
+zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19, 
+die der Minister des Innern gefasst hat, für die Öffentlichkeit geschlossen sind;4. als Teile 
+von Unternehmen und Vereinigungen gelten, die Verbrauchern Dienstleistungen anbieten und seit dem 2. 
+November 2020 aufgrund der Ministeriellen Erlasse zur Festlegung von Dringlichkeitsmaßnahmen zur 
+Eindämmung der Ausbreitung des Coronavirus COVID-19, die der Minister des Innern gefasst hat, geschlossen 
+sind;5. Feriendörfer, Bungalowparks und Campingplätze sind, die seit dem 3. November 2020 aufgrund 
+der Ministeriellen Erlasse zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19, die der Minister des Innern gefasst hat, für die Öffentlichkeit geschlossen 
+sind, sowie Reisebüros, Reiseveranstalter, touristische Informationsdienste und andere Reservierungsdienste. 
+§ 2 - Der König kann durch einen im Ministerrat beratenen Erlass ergänzende Regeln in Bezug auf 
+die in vorliegendem Kapitel erwähnte Prämie festlegen. § 3 - Der König kann unter den 
+Bedingungen, die Er bestimmt, die Anwendung des vorliegenden Kapitels durch einen im Ministerrat beratenen 
+Erlass ausdehnen und abweichende Bedingungen für die Berechnung und Gewährung der Prämie festlegen.Art. 
+16 -  § 1 - Die in Artikel 15 erwähnte Prämie wird vom Landesamt für soziale Sicherheit in zwei 
+Phasen berechnet und gewährt. § 2 - In der ersten Phase berechnet das vorerwähnte Landesamt 
+eine Prämie, deren Betrag dem für das erste Quartal 2020 geschuldeten Betrag des Globalbeitrags entspricht, 
+der in Artikel 38 § 3 Nr. 1, 2 oder 3 und Artikel 38 § 3bis des Gesetzes vom 29. Juni 1981 
+zur Festlegung der allgemeinen Grundsätze der sozialen Sicherheit für Lohnempfänger erwähnt ist, wobei 
+der in Artikel 38 §  3bis Absatz 1 desselben Gesetzes erwähnte Lohnmäßigungsbeitrag nicht 
+berücksichtigt wird, der nicht auf der Grundlage der im vorerwähnten Artikel 38 § 3 Nr. 1, 2 oder 
+3 und § 3bis Absatz 1 und 2 desselben Gesetzes erwähnten Arbeitgeberbeiträge berechnet worden 
+ist, verringert um die Ermäßigungen der Arbeitgeberbeiträge und erhöht um den vom Arbeitgeber für 
+das erste Quartal 2020 geschuldeten Solidaritätsbeitrag für die Studentenarbeit, die in Artikel 1 des 
+Königlichen Erlasses vom 23. Dezember 1996 zur Festlegung von Maßnahmen zur Einführung eines Solidaritätsbeitrags 
+für die Beschäftigung von Studenten, die nicht der Sozialversicherungsregelung der Arbeitnehmer unterliegen, 
+in Anwendung von Artikel 3 § 1 Nr. 4 des Gesetzes vom 26. Juli 1996 zur Erfüllung der Haushaltskriterien 
+für die Teilnahme Belgiens an der Europäischen Wirtschafts- und Währungsunion erwähnt ist.Der 
+Betrag dieser Prämie wird zunächst von Amts wegen für die Zahlung der dem Landesamt für soziale Sicherheit 
+geschuldeten Beträge verwendet, die sich auf das dritte Quartal 2020 beziehen, und dann gegebenenfalls 
+für die Zahlung der anderen Beträge, die dem vorerwähnten Landesamt geschuldet werden, wobei die Zahlung 
+gemäß Artikel 25 des vorerwähnten Gesetzes vom 27. Juni 1969 auf die älteste Schuld angerechnet 
+wird. Wenn nach der Anrechnung ein Restbetrag verbleibt, können Arbeitgeber die Auszahlung verlangen. 
+Verlangen Arbeitgeber die Auszahlung nicht, wird der Restbetrag auf die nächsten fälligen Beträge angerechnet, 
+die dem vorerwähnten Landesamt geschuldet werden. § 3 - In der zweiten Phase berechnet 
+das Landesamt für soziale Sicherheit eine Prämie, deren Betrag dem für das dritte Quartal 2020 geschuldeten 
+Betrag des Globalbeitrags entspricht, der in Artikel 38 § 3 Nr. 1, 2 oder 3 und Artikel 38 § 
+3bis des vorerwähnten Gesetzes vom 29. Juni 1981 erwähnt ist, wobei der in Artikel 38 §  3bis 
+Absatz 1 desselben Gesetzes erwähnte Lohnmäßigungsbeitrag nicht berücksichtigt wird, der nicht 
+auf der Grundlage der im vorerwähnten Artikel 38 § 3 Nr. 1, 2 oder 3 und § 3bis Absatz 
+1 und 2 desselben Gesetzes erwähnten Arbeitgeberbeiträge berechnet worden ist, verringert um die Ermäßigungen 
+der Arbeitgeberbeiträge und erhöht um den vom Arbeitgeber für das dritte Quartal 2020 geschuldeten Solidaritätsbeitrag 
+für die in Artikel 1 des vorerwähnten Königlichen Erlasses vom 23. Dezember 1996 erwähnte Studentenarbeit. 
+§ 4 - Das Landesamt für soziale Sicherheit vergleicht dann die gemäß § 3 berechnete 
+Prämie mit der gemäß § 2 berechneten Prämie.Ist der Betrag der gemäß § 
+3 berechneten Prämie niedriger als der Betrag der gemäß § 2 berechneten Prämie, so bleibt 
+die gemäß § 2 berechnete Prämie erhalten, die in der ersten Phase gewährt wurde.Ist 
+der Betrag der gemäß § 3 berechneten Prämie höher als die gemäß § 2 berechnete 
+Prämie, so wird Arbeitgebern eine zusätzliche Prämie gewährt, die dem Betrag der Differenz entspricht. 
+Der Betrag dieser Prämie wird zunächst von Amts wegen für die Zahlung der dem Landesamt für soziale Sicherheit 
+geschuldeten Beträge verwendet, die sich auf das dritte Quartal 2020 beziehen, und dann gegebenenfalls 
+für die Zahlung der anderen Beträge, die dem vorerwähnten Landesamt geschuldet werden, wobei die Zahlung 
+gemäß Artikel 25 des vorerwähnten Gesetzes vom 27. Juni 1969 auf die älteste Schuld angerechnet 
+wird. Wenn nach der Anrechnung ein Restbetrag verbleibt, können Arbeitgeber die Auszahlung verlangen. 
+Verlangen Arbeitgeber die Auszahlung nicht, wird der Restbetrag auf die nächsten fälligen Beträge angerechnet, 
+die dem vorerwähnten Landesamt geschuldet werden.Art. 17 - Vorliegendes Kapitel wird wirksam 
+mit 15. November 2020.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem 
+Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, 
+den 24. November 2020PHILIPPEVon Königs wegen:Der Minister der BeschäftigungP.-Y. 
+DERMAGNEDie Ministerin der Sozialen AngelegenheitenFr. VANDENBROUCKEMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-15Numac : 2021040849
+

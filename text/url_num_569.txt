@@ -1,0 +1,172 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/27/2021021023/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021021023
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 27 MEI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot wijziging van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/010 van 30 april 2020 betreffende een gedelegeerde opdracht aan de nv Gewestelijke Investeringsmaatschappij voor Brussel (GIMB) voor de toekenning van kredieten aan Brusselse ondernemingen en de leveranciers van de horecasector vanwege de COVID-19-gezondheidscrisis 
+De 
+Brusselse Hoofdstedelijke Regering,Gelet op de ordonnantie van 23 november 2020 houdende bekrachtiging 
+van de besluiten van de Brusselse Hoofdstedelijke Regering tot uitvoering van de ordonnantie van 19 maart 
+2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de 
+gezondheidscrisis COVID-19, de artikelen 10 en 44;Gelet op de wet van 2 april 1962 betreffende 
+de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen, 
+de artikelen 2, § 3, en 4, § 5;Gelet op het bijzondere machtenbesluit van de 
+Brusselse Hoofdstedelijke Regering nr. 2020/010 van 30 april 2020 betreffende een gedelegeerde opdracht 
+aan de nv Gewestelijke Investeringsmaatschappij voor Brussel (GIMB) voor de toekenning van kredieten 
+aan Brusselse ondernemingen en de leveranciers van de horecasector vanwege de COVID-19-gezondheidscrisis, 
+gewijzigd bij het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/046 van 
+18 juni 2020 en bij het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/050 
+van 23 december 2020, de artikelen 2, 3, 5, 6, 7 en 14/1;Gelet op artikel 2, § 3, 5°, 
+ van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet op het 
+advies van de Inspecteur van Financiën, gegeven op 5 mei 2021;Gelet op het akkoord van de Minister 
+van Begroting, gegeven op 5 mei 2021;Gelet op het advies van de Economische en Sociale Raad 
+voor het Brussels Hoofdstedelijk Gewest, gegeven op 14 mei 2021;Gelet op het verzoek om spoedbehandeling, 
+gemotiveerd door de voortdurende gezondheidscrisis, die zowel rechtstreeks als onrechtstreeks via de 
+opgelegde veiligheidsmaatregelen een gevoelige impact heeft op de economische bedrijvigheid van veel 
+ondernemingen;Dat het dus noodzakelijk is en blijft om snel in te spelen op de noden van de 
+getroffen ondernemingen, ten einde hun zoveel als mogelijk te vrijwaren van de financiële gevolgen van 
+de crisis;Dat, gezien het succes van de maatregel en de blijvende behoefte, het nodig blijkt 
+om zowel het budget van de maatregel als het plafond van het bedrag van de kredieten te verhogen;Gelet 
+op het advies 69.363 /1 van de Raad van State, gegeven op 17 mei 2021, met toepassing van artikel 84, 
+§ 1, eerste lid, 3 °,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op 
+voorstel van de Minister bevoegd voor Economie;Na beraadslaging,Besluit :Artikel 
+1. In artikel 2 van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/010 
+van 30 april 2020 betreffende een gedelegeerde opdracht aan de nv Gewestelijke Investeringsmaatschappij 
+voor Brussel (GIMB) voor de toekenning van kredieten aan Brusselse ondernemingen en de leveranciers van 
+de horecasector vanwege de COVID-19-gezondheidscrisis worden de volgende wijzigingen aangebracht:1° 
+ in het eerste lid worden de woorden "500.000,00 euro" vervangen door de woorden "800.000,00 euro";2° 
+ het derde lid wordt aangevuld met de woorden "ten belope van 500.000,00 euro." ;3°  in het 
+vierde lid worden de woorden "van 500.000,00 euro" worden ingevoegd tussen de woorden "De subsidie" en 
+het woord "wordt".";4°  tussen het vierde en het vijfde lid wordt een lid ingevoegd, luidende:"Het 
+saldo van de subsidie voor een bedrag van 300.000,00 euro zal door de GIMB worden onttrokken aan de rente 
+op de leningen die ze ontvangt, volgens onderstaande verdeling:1°  een schijf van 50.000,00 
+euro in 2023;2°  een schijf van 50.000,00 euro in 2024;3°  een schijf van 50.000,00 
+euro in 2025;4°  een schijf van 50.000,00 euro in 2026;5°  een schijf van 50.000,00 
+euro in 2027;6°  en het saldo van 50.000,00 euro in 2028, op basis van bewijsstukken met betrekking 
+tot de in aanmerking komende kosten van 2023 tot 2028, die vooraf door de Gewestelijke Overheidsdienst 
+Brussel zijn gevalideerd.";5°  in het zesde geworden vijfde lid worden de woorden "de verordening 
+(EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 
+108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten 
+van algemeen economisch belang verrichtende ondernemingen" vervangen door de woorden " het besluit van 
+de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende 
+de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend 
+aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen".Art. 
+2. In artikel 3 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:1°  in het 
+eerste lid worden de woorden "39.500.000,00 euro" vervangen door de woorden "49.500.000,00 euro";2° 
+ in het derde lid wordt de woord "Dit" vervangen door het woord "Een";3°  tussen het derde 
+en het vierde lid worden twee leden ingevoegd, luidende:« Een bijkomend bedrag van 6.000.000,00 
+euro wordt na de inwerkingtreding van het besluit van de Brusselse Hoofdstedelijke Regering van 27 mei 
+2021 tot wijziging van dit besluit ter beschikking gesteld aan de GIMB.Het saldo van 4.000.000,00 
+euro wordt vanaf juni 2021 op haar verzoek ter beschikking gesteld aan de GIMB.".Art. 3. In 
+artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  de woorden "39.500.000,00 
+euro" vervangen door de woorden "49.500.000,00 euro";2°  de woorden "van de subsidie voor een 
+bedrag van 300.000,00 euro bedoeld in artikel 2, vijfde lid, en" worden ingevoegd tussen de woorden "na 
+aftrek" en de woorden "van eventuele verliezen".Art. 4. In artikel 6 van hetzelfde besluit 
+wordt het derde lid, gewijzigd bij het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering 
+nr. 2020/050 van 23 december 2020, vervangen door twee leden, luidende:"De toegepaste rentevoeten 
+zijn als volgt: 2% minimum op de schijf van de lening van 0,00 tot 200.000,00 euro, 4% op de schijf van 
+200.000,00 tot 400.000,00 euro en 6% op de schijf van 400.000,00 tot 600.000,00 euro, waarbij dat laatste 
+bedrag het maximumbedrag van de lening vormt.Voor de Brusselse ondernemingen die ten minste 
+100 personen in voltijdse equivalenten tewerkstellen, wordt daarnaast een rentevoet van 7% toegepast 
+op de schijf van de lening van 600.000,00 tot 1.000.000,00 euro en een rentevoet van 8% op de schijf 
+van 1.000.000,00 tot 1.500.000,00 euro, waarbij dat laatste bedrag voor die ondernemingen het maximumbedrag 
+van de lening vormt.".Art. 5. Artikel 7 van hetzelfde besluit, gewijzigd bij het bijzondere 
+machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/46 van 18 juni 2020 en bij het bijzondere 
+machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/050 van 23 december 2020, wordt aangevuld 
+met een paragraaf 3, luidende:" § 3. Voor de Brusselse ondernemingen die ten minste 
+100 personen in voltijdse equivalenten tewerkstellen, is de toekenning van een lening bedoeld in artikel 
+6, eerste lid, 1°  of 2°,  met een bedrag hoger dan 600.000,00 euro bovendien onderworpen aan de volgende 
+cumulatieve voorwaarden:1°  samen met hun leningsaanvraag leveren deze ondernemingen gekwantificeerde 
+vooruitzichten voor de bescherming van de werkgelegenheid in voltijdse equivalenten gedurende de lening, 
+met als referentiedata het einde van de opeenvolgende boekjaren;2°  tijdens de looptijd van 
+de lening maakt de begunstigde jaarlijks zijn sociale balans over aan de GIMB, gelijktijdig met de neerlegging 
+ervan bij de Nationale Bank van België;3°  gedurende de twee jaar die volgen op de sluiting 
+van het leningovereenkomst mag de begunstigde zijn eigen aandelen of deelbewijzen niet inkopen, zijn 
+kapitaal niet verminderen, noch dividenden uitkeren of toekennen;4°  vanaf het einde van de 
+periode bedoeld in 3°  en tot het einde van de lening mag de begunstigde geen dividenden uitkeren of 
+toekennen die overeenstemmen met meer dan 6 % van de nominale waarde van het aandeel na aftrek van de 
+roerende voorheffing;5°  indien de begunstigde gedurende de twee jaar die volgen op het sluiten 
+van het leningscontract, overgaat tot een collectief ontslag zoals bedoeld in artikel 62, van de wet 
+van 13 februari 1998 houdende bepalingen tot bevordering van de tewerkstelling, wordt zijn omzet gedurende 
+het kwartaal waarin de in artikel 66, § 2, van de voormelde wet van 13 februari 1998 voorziene 
+notificatie plaatsvindt en de drie daaraan voorafgaande kwartalen, vergeleken met zijn omzet van het 
+jaar 2019:a) indien de omzet tussen deze twee perioden is gestegen of gelijk is gebleven, wordt 
+de lening ingetrokken, waarbij de tot aan de dag van intrekking berekende rente verschuldigd blijft;b) 
+indien de omzet met minder dan tien procent is gedaald, worden de op de lening toepasselijke rentevoeten 
+met ingang van de datum waarop de lening ingaat, van rechtswege met één procent verhoogd;c) 
+in ieder geval heeft de procedure voor collectief ontslag geen gevolgen voor de lening, indien zij niet 
+tot een collectief ontslag leidt;6°  tijdens de looptijd van de lening, op het einde van elk 
+boekjaar, indien het gemiddeld aantal werknemers in voltijdse equivalenten op de sociale balans van de 
+begunstigde voor het betrokken boekjaar 10 % of meer lager is dan het aantal werknemers in voltijdse 
+equivalenten aangegeven in de vooruitzichten voor de bescherming van de werkgelegenheid bedoeld in 1° 
+ terwijl de omzet van de begunstigde tijdens hetzelfde boekjaar gelijk is aan of groter is dan zijn omzet 
+van het jaar 2019, wordt de rente die van toepassing is op de lening van rechtswege verhoogd met één 
+procent, vanaf de ingangsdatum van de lening.Indien de begunstigde de voorwaarde bedoeld in 
+het eerste lid, 3°  of 4°,  niet naleeft, wordt de lening van rechtswege ingetrokken, waarbij de tot 
+de datum van de verboden handeling berekende rente verschuldigd blijft.De naleving van de drempel 
+van 100 werknemers in voltijdse equivalenten wordt gecontroleerd op basis van het gemiddelde aantal werknemers 
+in voltijdsequivalenten in de sociale balans van de begunstigde afgesloten op 31 december 2019 of een 
+eerdere datum in 2019, bekendgemaakt bij de Nationale Bank van België, overeenkomstig de wettelijke verplichtingen.De 
+omzet bedoeld in het eerste lid, 5°  et 6°,  wordt bepaald op basis van de gegevens aangegeven door de 
+begunstigde bij de btw en waarvoor de FOD Financiën de ontvangst heeft bevestigd, of van enig document 
+dat door het in artikel 9, lid 5, bedoelde comité is goedgekeurd. Elke transactie die niet tot de normale 
+economische activiteiten van de onderneming behoort, wordt van de omzet afgetrokken.".Art. 
+6. De begunstigden, die ten minste 100 personen in voltijdse equivalenten tewerkstellen, van leningen 
+voor een bedrag van 600.000,00 euro toegekend voor de inwerkingtreding van dit besluit kunnen ten laatste 
+op 31 december 2021 aan de GIMB vragen om de mogelijkheid om dit bedrag te verhogen te bestuderen.De 
+lening die hieruit kan voortvloeien voldoet aan de bepalingen van het bijzondere machtenbesluit van de 
+Brusselse Hoofdstedelijke Regering nr. 2020/010 van 30 april 2020 betreffende een gedelegeerde opdracht 
+aan de nv Gewestelijke Investeringsmaatschappij voor Brussel (GIMB) voor de toekenning van kredieten 
+aan Brusselse ondernemingen en de leveranciers van de horecasector vanwege de COVID-19-gezondheidscrisis.Art. 
+7. Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+8. De minister bevoegd voor Economie is belast met de uitvoering van dit besluit.Brussel, 27 
+mei 2021.Voor de Brusselse Hoofdstedelijke Regering:De Minister-President,R. 
+VERVOORTDe Minister bevoegd voor Economie,A. MARONDe Minister van Financiën 
+en Begroting,S. GATZ   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021021023
+

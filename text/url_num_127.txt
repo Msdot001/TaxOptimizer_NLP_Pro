@@ -1,0 +1,169 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/30/2020041551/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-04Numac : 2020041551
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 30 MEI 2020. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+30 mei 2020 houdende wijziging van het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 30 mei 2020).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES30. MAI 2020 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 23. März 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Der Minister der Sicherheit und des Innern,Aufgrund des Gesetzes 
+vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes vom 5. August 
+1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über 
+die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen Erlasses vom 
+23. März 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. Dezember 2013 zur 
+Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender Erlass 
+von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 29. Mai 2020;Aufgrund der am 29. Mai 2020 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der sehr schnellen Entwicklung der Lage in Belgien 
+und den angrenzenden Staaten, und aufgrund der Notwendigkeit, Maßnahmen zu erwägen, die sich auf 
+epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten Ergebnisse 
+die auf der Sitzung des Nationalen Sicherheitsrates vom 13. Mai 2020 beschlossenen Maßnahmen gerechtfertigt 
+haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu erneuern und andere anzupassen;In 
+Erwägung der Konzertierungen zwischen den Regierungen der föderierten Teilgebiete und den zuständigen 
+föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. und 27. März 2020, am 15. und 24. 
+April 2020 und am 6., 13., 20. und 29. Mai 2020 zusammengetreten ist;In Erwägung des Artikels 
+191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen 
+der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen 
+Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, 
+dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen 
+ergreifen müssen;In Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus 
+COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung 
+der am 11. März 2020 von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In 
+der Erwägung, dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 
+ausgerufen hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In 
+der Erwägung der Erklärung des Regionaldirektors der WHO für Europa vom 16. April 2020, in der betont 
+wird, dass Europa trotz der Abschwächung in einigen Ländern der am stärksten betroffene Kontinent bleibt, 
+und in der diese Länder ermutigt werden, trotz der Komplexität, der Unsicherheiten und der Fragen über 
+die Dauer und die zu bringenden erforderlichen Opfer in ihren Anstrengungen nicht nachzulassen und eine 
+angemessene Strategie zu verfolgen, die gewährleisten muss, dass die Übertragung des Virus unter Kontrolle 
+gehalten wird und dass die Maßnahmen zur Lockerung der Beschränkungen und im Hinblick auf den Übergang 
+zu einer "neuen Normalität" von den Grundsätzen der Volksgesundheit bestimmt werden;In Erwägung 
+der Verbreitung des Coronavirus COVID-19 auf dem europäischen Gebiet und in Belgien; dass die Gesamtzahl 
+der Ansteckungen weiter ansteigt und dass eine neue Krankheitswelle um jeden Preis vermieden werden muss;In 
+Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr für die belgische Bevölkerung und 
+der daraus entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit 
+auslöst, die meist die Lunge und die Atemwege befällt;In der Erwägung, dass das Coronavirus 
+COVID-19 offenbar von Mensch zu Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit 
+scheinbar auf alle möglichen Verbreitungsarten durch Mund oder Nase erfolgt;In Erwägung der 
+Anzahl erkannter Infektionsfälle und der Anzahl Todesfälle in Belgien seit dem 13. März 2020;In 
+Erwägung der Stellungnahme des CELEVAL;In Erwägung der Stellungnahme des Hohen Rates für Selbständige 
+und KMB vom 22. April 2020;In der Erwägung, dass das gesamte nationale Hoheitsgebiet von der 
+Gefahr betroffen ist; dass es im allgemeinen Interesse liegt, dass die ergriffenen Maßnahmen zur 
+Aufrechterhaltung der öffentlichen Ordnung kohärent sind, wodurch ihre Effizienz maximiert wird;In 
+der Erwägung, dass angesichts des Vorhergehenden Zusammenkünfte in geschlossenen und überdachten Orten, 
+aber auch unter freiem Himmel ein besonderes Risiko für die Gesundheit der Bevölkerung darstellen;In 
+der Erwägung, dass eine polizeiliche Maßnahme zur Auferlegung eines Versammlungsverbots folglich 
+unerlässlich und verhältnismäßig ist;In der Erwägung, dass das vorerwähnte Verbot dazu 
+führt, dass einerseits die Anzahl akuter Ansteckungen verringert wird und folglich den Intensivstationen 
+ermöglicht wird, die am schwersten getroffenen Patienten unter bestmöglichen Bedingungen aufzunehmen, 
+und dass andererseits den Forschern mehr Zeit gegeben wird, um effiziente Behandlungsmethoden und Impfstoffe 
+zu entwickeln;In der Erwägung, dass es notwendig ist, um die Ausbreitung des Virus weiterhin 
+einzudämmen, die Maßnahmen zur Einschränkung von Fahrten und Ausgängen und die Maßnahmen 
+des Social Distancing zu verlängern, jedoch gleichzeitig einige zusätzliche Lockerungen vorzusehen, um 
+diese Maßnahmen schrittweise aufzuheben; dass die Gesundheitslage regelmäßig bewertet wird; 
+dass dies aber auch bedeutet, dass eine Rückkehr zu strengeren Maßnahmen nie ausgeschlossen werden 
+kann;In der Erwägung des Berichts der Expertengruppe für die Exit Strategy (GEES) vom 22. April 
+2020, der ein stufenweises Konzept für die schrittweise Rücknahme der Maßnahmen enthält und sich 
+hauptsächlich auf drei wesentliche Aspekte stützt, und zwar das Tragen einer Maske, Testing und Tracing; 
+dass der Bericht ein Gleichgewicht zwischen der Erhaltung der körperlichen und geistigen Gesundheit, 
+der Erfüllung pädagogischer Aufträge im Bereich des Unterrichtswesens und der Wiederaufnahme der Wirtschaft 
+anstrebt; dass die GEES aus Experten aus verschiedenen Bereichen zusammengesetzt ist, insbesondere aus 
+Ärzten, Virologen und Wirtschaftsexperten;In Erwägung der Gutachten der GEES;In Erwägung 
+des Phönix-Plans für einen Neustart des Handels von Comeos;In Erwägung des "Leitfadens für 
+die Öffnung der Geschäfte zur Eindämmung der Ausbreitung von COVID-19", der auf der Website des Föderalen 
+Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt wird;In Erwägung des "Allgemeinen Leitfadens 
+zur Eindämmung der Ausbreitung von COVID-19 am Arbeitsplatz", der auf der Website des Föderalen Öffentlichen 
+Dienstes Beschäftigung, Arbeit und Soziale Konzertierung zur Verfügung gestellt wird;Aufgrund 
+des Gesetzes vom 4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit 
+und seiner Ausführungserlasse;In Erwägung der Konzertierung vom 27., 28. und 29. Mai 2020 im 
+Konzertierungsausschuss;In Erwägung der Bedeutung des Wohles der Familien, einschließlich 
+in grenzüberschreitenden Situationen;In der Erwägung, dass das zusätzliche Risiko, das sich 
+daraus ergeben würde, grenzüberschreitende Familienbesuche in den Nachbarländern und Einkäufe im Grenzgebiet 
+zu erlauben, in Anbetracht der derzeitigen epidemiologischen Situation als akzeptabel betrachtet wird;Aufgrund 
+der Dringlichkeit,Erlässt:Artikel 1 - Artikel 6 des Ministeriellen Erlasses vom 23. 
+März 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 wird wie folgt ersetzt:"Ab dem 18. Mai 2020 dürfen Unterrichtsstunden und Aktivitäten 
+im Vorschul-, Primarschul- und Sekundarschulunterricht wieder aufgenommen werden für die von den Gemeinschaften 
+bestimmten Gruppen auf der Grundlage der Empfehlungen der Experten und zuständigen Behörden.Im 
+Primarschulwesen wird es dem Personal sehr empfohlen, Mund und Nase mit einer Maske oder einer anderen 
+Alternative zu bedecken.Im Sekundarschulwesen wird es dem Personal und allen Schülern sehr 
+empfohlen, Mund und Nase mit einer Maske oder einer sicheren Alternative zu bedecken. Im Sekundarschulwesen 
+können Schüler zeitweilig auf das Tragen der Maske verzichten, zum Beispiel aus medizinischen Gründen 
+oder während der Pausenzeiten oder sportlicher Aktivitäten.Die Schulen können den Schülern 
+für zu Hause neues pädagogisches Material zur Verfügung stellen und die Schüler, die aufgrund schulischer 
+Probleme oder besonderer Lernbedürfnisse einer spezifischen Begleitung bedürfen, individuell einladen.Internate, 
+Aufnahmeeinrichtungen und ständige Betreuungseinrichtungen bleiben geöffnet. Besondere Modalitäten in 
+Sachen Organisation können für diese Einrichtungen vorgesehen werden.Hochschuleinrichtungen 
+und Lehranstalten für Weiterbildungsunterricht dürfen ihre Unterrichtsstunden und Aktivitäten gemäß 
+den Richtlinien der Gemeinschaften und den von der Föderalregierung vorgesehenen zusätzlichen Maßnahmen 
+wieder aufnehmen. Nur wenn die Ortsbeschaffenheit der Infrastruktur es erlaubt, können die Gemeinschaften 
+beschließen, den Teilzeit-Kunstunterricht für begrenzte Aktivitäten wieder aufzunehmen."Art. 
+2 -  Artikel 7 des Ministeriellen Erlasses vom 23. März 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Nicht wesentliche 
+Reisen aus Belgien heraus und nach Belgien sind verboten.In Abweichung von Absatz 1 ist es 
+erlaubt, unter Einhaltung der in Artikel 5bis §§ 2 und 3 vorgesehenen Bedingungen Familienmitglieder, 
+die in einem Nachbarland wohnen, zu besuchen, und in einem Nachbarland Einkäufe zu tätigen."Art. 
+3 -  Artikel 8bis des Ministeriellen Erlasses vom 23. März 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Unbeschadet 
+des Artikels 3 Absatz 2 werden die erforderlichen Maßnahmen ergriffen, um die Einhaltung der Regeln 
+des Social Distancing, insbesondere die Aufrechterhaltung eines Mindestabstands von 1,5 m zwischen den 
+Personen für alle durch vorliegenden Erlass erlaubten Aktivitäten, zu gewährleisten. Diese Maßnahmen 
+sind jedoch nicht anwendbar auf Personen, die unter demselben Dach wohnen, auf Kinder im Alter bis zu 
+12 Jahren einschließlich untereinander und auf Kontakte zwischen dem Personal einerseits und den 
+Schülern andererseits im Vorschulwesen."Art. 4 -  Vorliegender Erlass tritt am 30. Mai 2020 
+in Kraft.Brüssel, den 30. Mai 2020P. DE CREM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-04Numac : 2020041551
+

@@ -1,0 +1,78 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/03/01/2020041259/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041259
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 1 MAART 2019. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992, teneinde ten behoeve van de vrijwilligers bij de korpsen van de openbare brandweer en bij de civiele bescherming het fiscaal vrijgesteld bedrag te verhogen. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling 
+van de wet van 1 maart 2019 tot wijziging van het Wetboek van de inkomstenbelastingen 1992, teneinde 
+ten behoeve van de vrijwilligers bij de korpsen van de openbare brandweer en bij de civiele bescherming 
+het fiscaal vrijgesteld bedrag te verhogen (Belgisch Staatsblad van 18 maart 2019).Deze vertaling 
+is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN1. MÄRZ 2019 - Gesetz zur Abänderung des Einkommensteuergesetzbuches 
+1992 im Hinblick auf die Erhöhung des Betrags der Steuerbefreiung zugunsten der freiwilligen Feuerwehrleute 
+der öffentlichen Feuerwehrdienste und der freiwilligen Mitarbeiter beim ZivilschutzPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt 
+eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - Artikel 38 § 1 des 
+Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 30. März 2018, wird wie folgt 
+abgeändert:1. Absatz 1 Nr. 12 wird wie folgt ersetzt:"12. Zulagen für freiwillige 
+Feuerwehrleute, Zulagen für freiwillige Krankenwagenfahrer für dringende medizinische Hilfeleistungen 
+im Sinne von Artikel 1 des Gesetzes vom 8. Juli 1964 über die dringende medizinische Hilfe und Zulagen 
+für freiwillige Mitarbeiter beim Zivilschutz bis zu 3.750 EUR,".2. Absatz 3 wird wie folgt 
+ersetzt:"Die in Absatz 1 Nr. 12 erwähnten Zulagen für Freiwillige und die in Absatz 1 Nr. 29 
+erwähnten Entlohnungen, die in Ausführung eines Flexi-Job-Arbeitsvertrags gezahlt oder zuerkannt werden, 
+werden auf dem Berechnungsblatt vermerkt, das dem Steuerbescheid des Empfängers in Bezug auf die Steuer 
+der natürlichen Personen beigefügt ist."Art. 3 - Vorliegendes Gesetz wird wirksam mit 1. Januar 
+2019.Artikel 2 ist auf die ab dem 1. Januar 2019 gezahlten oder zuerkannten Zulagen anwendbar.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 1. März 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041259
+

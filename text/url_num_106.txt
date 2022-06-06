@@ -1,0 +1,1784 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/13/2020041295/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041295
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 13 MEI 2020. - Koninklijk besluit nr. 20 houdende tijdelijke maatregelen in de strijd tegen de COVID-19 pandemie en ter verzekering van de continuïteit van zorg in de verplichte verzekering voor geneeskundige verzorging 
+VERSLAG AAN DE KONINGSire,Ik heb de eer U hierbij een ontwerp 
+van koninklijk besluit nr 20 houdende tijdelijke maatregelen in de strijd tegen de COVID-19 pandemie 
+en ter verzekering van de continuïteit van zorg in de verplichte verzekering voor geneeskundige verzorging 
+voor te leggen.Bij wet van 27 maart 2020 heeft de wetgever aan de Koning bijzondere machten 
+verleend om maatregelen te nemen in de strijd tegen de verspreiding van het Coronavirus COVID-19. Het 
+betreft maatregelen om de directe en indirecte gevolgen van de COVID-19 pandemie voor de verplichte verzekering 
+op te vangen.Overeenkomstig artikel 2 van de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 
+(II) beoogt het ontwerp van besluit het mogelijk te maken de toegang tot de noodzakelijke zorgen te waarborgen 
+teneinde te reageren op de coronavirus COVID-19 epidemie of pandemie en de gevolgen ervan op te vangen, 
+meer bepaald deze gelieerd aan het garanderen van de volksgezondheid gelet op de inperkingsmaatregelen.De 
+maatregelen beogen om het mogelijk te maken dat in het licht van de huidige context de noodzakelijke 
+zorgen verstrekt worden aan de patiënt. Deze maatregelen vereisen een dringende juridische formalisering 
+opdat de continuïteit van de zorg en de rechtszekerheid voor de verschillende partners van de verplichte 
+verzekering voor geneeskundige verzorging gewaarborgd worden. Het geheel van de maatregelen beoogt de 
+belangen van de patiënten te beschermen en kan geen afbreuk aan hun rechten tot gevolg hebben.Artikel 
+6, tweede lid, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen 
+in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) voorziet in de mogelijkheid om de 
+wettelijke of reglementaire adviezen niet in te winnen dan wel deze binnen een kortere termijn in te 
+winnen. In het kader van de voorbereiding van huidig ontwerp werd de moeilijkheid vastgesteld voor deze 
+organen om in de huidige context te vergaderen. Voor sommige procedures zijn de besluitvormingsorganen 
+schriftelijk geraadpleegd kunnen worden of is er overleg geweest zonder fysiek contact. In de reglementaire 
+bepalingen die de werking van die organen regelen en de huishoudelijke reglementen is die mogelijkheid 
+echter niet altijd voorzien of slechts voor minder belangrijke zaken. Daarnaast is formeel overleg op 
+afstand om praktische of reglementaire redenen niet altijd mogelijk geweest. Om de besluitvorming niet 
+te blokkeren hebben afwijkingen van de formele overlegprocedures plaatsgevonden zonder evenwel het overleg 
+met de stakeholders uit te schakelen. Er heeft in de plaats daarvan of aanvullend informeel overleg plaatsgevonden 
+met de stakeholders, in het bijzonder de ziekenfondsen en de vertegenwoordigers van de zorgverleners 
+voor deze materies.TITEL 1. - ALGEMENE BEPALINGENArtikel 1 van het ontwerp schorst 
+alle termijnen die zijn voorzien bij of krachtens de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen, gecoördineerd op 14 juli 1994, met uitzondering van de afdelingen, hoofdstukken 
+en titels weergegeven in het artikel (termijnen betreffende de uitkerings- en moederschapsverzekering 
+en de controlediensten). Dit betreft bijv. termijnen die zijn voorzien in procedures tot wijziging van 
+lijsten van vergoedbare verstrekkingen, termijnen die instanties zoals commissies en raden opgericht 
+in de schoot van het Riziv dienen na te leven bij individuele beslissingen maar ook termijnen die de 
+rechthebbenden dienen na te leven in het kader van aanvragen tot terugbetaling van geneeskundige verstrekkingen, 
+aanvragen tot inschrijving bij een ziekenfonds of aanvragen om bepaalde statuten te genieten, zoals het 
+recht op de verhoogde verzekeringstegemoetkoming.Teneinde de toegankelijkheid voor de patiënten 
+te beschermen, en de bedrijven tegelijk te beschermen tegen onbedoelde en ongewenste beslissingen, wordt 
+in het bijzonder voorgesteld om, in deze uitzonderlijke omstandigheden, voor een nog te bepalen maar 
+beperkte periode de kalender van de verschillende procedures te schorsen. Dit betekent concreet dat de 
+procedurestappen kunnen worden gezet voor zover mogelijk, maar dat de overschrijding van een termijn 
+geen impact kan hebben voor de betrokken partijen. De bindende termijnen beginnen pas opnieuw te lopen 
+op het ogenblik dat de schorsing wordt opgeheven.Bij koninklijk besluit van 27 maart 2020 werd 
+reeds voorzien in de stopzetting van de kalenders die de termijnen bepalen voor de uitvoering van de 
+procedures tot wijziging van de lijst van de vergoedbare farmaceutische specialiteiten en van de lijst 
+van de vergoedbare implantaten en invasieve medische hulpmiddelen. Uit de wettelijke basis van deze procedures 
+(artikel 35bis, §§ 3, 6 en 8 en artikel 35septies/2, §§  5, 6/1, 7 en 8 van 
+de gecoördineerde wet van 14 juli 1994), kan men besluiten dat een schorsing van de termijnen enkel mogelijk 
+is om bijkomende inlichtingen te vragen. Om die reden is het aangewezen om die maatregel via dit besluit 
+te bevestigen. Bovendien is het nodig om ook andere procedures te schorsen die niet worden beoogd door 
+het voormelde koninklijk besluit van 27 maart 2020, zoals die tot wijziging van de lijst van vergoedbare 
+radiofarmaceutische producten.De korte termijn binnen dewelke het koninklijk besluit van 27 
+maart 2020 is moeten worden opgesteld, heeft bovendien geleid tot een vergissing in de Franse vertaling 
+en een onnauwkeurigheid in de gebruikte termen.Uit de termen van de nota CGV 2020/073 blijkt 
+duidelijk dat het de bedoeling was om een schorsing van de termijnen te voorzien en geen stuiting:"Teneinde 
+de toegankelijkheid voor de patiënten te beschermen, en de bedrijven tegelijk te beschermen tegen onbedoelde 
+en ongewenste beslissingen, wordt voorgesteld om, in deze uitzonderlijke omstandigheden, met ingang van 
+13 maart 2020 middernacht voor een nog te bepalen maar beperkte periode een absolute clock-stop in te 
+voeren voor alle procedures. Deze methode vermindert de vertraging in de besluitvorming tot het minimum, 
+zonder het proces zelf of de verantwoordelijkheden of bevoegdheden binnen die processen te hypothekeren. 
+Het herstellen van onbedoelde of ongewenste wijzigingen van de lijsten van vergoedbare specialiteiten 
+of van implantaten en invasieve medische hulpmiddelen, vergt immers een nieuwe procedure die in elk geval 
+aanzienlijk meer tijd zou vergen."In rechte :- De schorsing (suspension in FR) stopt 
+tijdelijk het verloop van een termijn zonder de reeds verlopen termijn uit te wissen;- De stuiting 
+(interruption in FR) doet een nieuwe termijn lopen vanaf de datum van de akte van stuiting.In 
+casu en ondanks de redactie van de tekst, werd wel degelijk een schorsing beoogd.Dit kan trouwens 
+worden afgeleid uit het feit dat een periode (van schorsing) is voorzien door de tekst.Op het 
+einde van de crisisperiode zullen de termijnen bijgevolg hernemen op het ogenblik waarop ze werden geschorst 
+(namelijk op 13/3/2020 om middernacht).Een regularisatie en uitbreiding van de tekst van het 
+koninklijk besluit van 27 maart 2020 om elke onduidelijkheid betreffende de wettelijke basis en de gebruikte 
+terminologie weg te nemen is opportuun.Om redenen van goed beheer zullen de procedurele stappen 
+die kunnen worden gezet tijdens de crisis ook worden gezet en dit:- om te vermijden dat nieuwe 
+terugbetalingen waarvoor er een akkoord zou zijn worden geblokkeerd tot het einde van de situatie;- 
+om het effect van de opstopping en de hoeveelheid dossiers waarvoor er een achterstand zal in te halen 
+zijn op het einde van de crisis te beperken.De termijnen worden evenwel geschorst voor alle 
+tussenkomende partijen en er dient ook rekening te worden gehouden met de impact van de crisis voor de 
+bedrijven die de terugbetaling vragen.Dit impliceert concreet dat de procedurehandelingen aan 
+weerskanten kunnen worden gesteld maar dat de overschrijding van een termijn geen impact zal kunnen hebben 
+voor de tussenkomende partijen.Bepaalde termijnen kunnen ook voortvloeien uit de vergoedingsvoorwaarden 
+die zijn vastgelegd in de nomenclatuur van de geneeskundige verstrekkingen, in andere reglementaire bepalingen 
+of in overeenkomsten. Voor bepaalde geneeskundige verstrekkingen is bijv. voorzien dat deze binnen een 
+bepaalde termijn moeten worden verleend of dat de zorgverlener binnen een bepaalde termijn de aanvraag 
+voor een tegemoetkoming van de verplichte verzekering moet indienen of bepaalde gegevens moet overmaken. 
+Het betreft bijv. ook voorschriften van artsen en akkoorden van de adviserend artsen die slechts een 
+beperkte geldigheidsduur hebben. Tengevolge van de COVID-19 pandemie kan het echter onmogelijk zijn om 
+die termijnen en voorwaarden te respecteren. Niet-dringende behandelingen dienen immers te worden uitgesteld 
+en zorgverleners hebben hun handen vol met het verlenen van dringende zorgen waardoor administratieve 
+verplichtingen niet tijdig kunnen gebeuren. Om te vermijden dat patiënten geen of een lagere terugbetaling 
+krijgen kan het nodig zijn om bepaalde termijnen die zijn voorzien in de reglementering of in overeenkomsten 
+te schorsen of te verlengen.Telkens dit mogelijk zal zijn, zullen de aanpassingen van de termijnen 
+worden gepreciseerd in een specifieke bepaling, maar het lijkt opportuun om deze aan te vullen met een 
+algemene bepaling om de belangen van alle partners zo goed mogelijk te bewaren vermits de volledigheid 
+van de analyses niet kan worden gewaarborgd onder de huidige voorwaarden.Artikel 2 beoogt de 
+continuïteit van de werking van de bij of krachtens de wet ingestelde instanties zoals commissies en 
+raden te verzekeren.Deze maatregelen worden verklaard door de moeilijkheid voor deze instanties 
+om in de huidige context te vergaderen.In het algemeen kunnen de beoogde procedurele afwijkingen 
+betrekking hebben op de processen waarmee de tijdelijke maatregelen worden aangenomen alsook op de processen 
+waarmee deze tijdelijke maatregelen zullen worden beëindigd.Deze uitzonderingen kunnen ook 
+betrekking hebben op het proces voor het aannemen van niet-tijdelijke maatregelen. Het is dus denkbaar 
+dat een definitieve inschrijving van een verstrekking tot terugbetaling (handeling van een zorgverlener, 
+farmaceutische specialiteit, medisch hulpmiddel) zinvol is tijdens de toepassingsperiode van de huidige 
+maatregelen, maar wordt geblokkeerd door de onmogelijkheid om formele vergaderingen van de organen te 
+houden. Het lijkt ongepast om elke structurele verbetering in de tenlasteneming van zorg te blokkeren 
+gedurende een periode waarvan de tijdsduur nog niet bekend is.In het eerste lid wordt de mogelijkheid 
+om gebruik te maken van schriftelijke procedures veralgemeend.Voor sommige procedures is het 
+inderdaad mogelijk dat de besluitvormingsorganen schriftelijk worden geraadpleegd of overleggen zonder 
+fysiek contact. In de reglementaire bepalingen die de werking van die organen regelen en de huishoudelijke 
+reglementen is die mogelijkheid echter niet altijd voorzien of slechts voor minder belangrijke zaken. 
+Artikel 2 voorziet de mogelijkheid om op die manier te werken voor elk orgaan, ongeacht de wettelijke 
+of reglementaire bepalingen die normaal van toepassing zijn.Evenwel is het mogelijk dat bepaalde 
+procedures niet sereen kunnen verlopen als ze schriftelijk of zonder fysiek contact worden gevoerd, in 
+welk geval er gewacht zal moeten worden tot het einde van de in artikel 1 bedoelde schorsingsperiode 
+indien persoonlijke ontmoetingen niet mogelijk zijn en de omstandigheden een beroep op de in het tweede 
+lid bedoelde regels niet rechtvaardigen.Het tweede lid voorziet in een mogelijkheid om de adviestermijnen 
+te verkorten en af te wijken van formele raadplegingen.In de eerste plaats wordt voorzien om, 
+indien de omstandigheden dit vereisen, de termijnen voor formele raadplegingen te verkorten zodat snel 
+rekening kan worden gehouden met behoeften die zich stellen.Daarnaast kunnen zich ook situaties 
+voordoen waarin ook een vergadering op afstand niet mogelijk is omdat de leden ziek zijn of niet beschikbaar 
+zijn wegens hun activiteiten als zorgverlener, hetgeen er onder andere toe kan leiden dat de vereiste 
+quorums niet kunnen worden bereikt. Om de besluitvorming niet te blokkeren in dergelijke gevallen wordt 
+ook een afwijking voorzien van de verplichting om bepaalde instanties te raadplegen.Het afwijken 
+van formele overlegprocedures heeft niet tot oogmerk om het overleg met de stakeholders uit te schakelen, 
+maar om te garanderen dat de beslissingen die moeten worden genomen, genomen kunnen worden. Voor alle 
+beoogde maatregelen zal er minstens informeel overleg plaatsvinden met de stakeholders, in het bijzonder 
+de ziekenfondsen en de vertegenwoordigers van de zorgverleners van de betrokken materies.Het 
+is van essentieel belang dat de continuïteit van de zorg kan worden gegarandeerd en dat de procedures 
+kunnen worden gevoerd, zodat elke vooruitgang in de zorg die ter beschikking wordt gesteld van de rechthebbenden 
+niet wordt geblokkeerd tijdens de periode waarin de mogelijkheid om de organen formeel bijeen te brengen, 
+wordt beperkt.Uiteraard zal alles in het werk worden gesteld om ervoor te zorgen dat de vereiste 
+raadplegingen, op zijn minst informeel, worden gehandhaafd, maar het lijkt passend om te voorzien in 
+de mogelijkheid om het onvermogen om dit formeel te doen te compenseren, teneinde een verlamming te voorkomen 
+die nadelig zou zijn voor de rechthebbenden.Het is uiteraard zo dat een evaluatie van de proportionaliteit 
+en een belangenafweging moet worden uitgevoerd voor de tenuitvoerlegging van deze afwijkingen die alleen 
+"indien nodig" zullen kunnen plaatsvinden.TITEL 2. - ZUURSTOFCONCENTRATORENDe opname 
+in de vergoedbaarheid van de nieuwe oxyconcentratoren van de firma SOS Oxygène is gepland om het aanbod 
+van vergoedbare oxyconcentratoren op de markt te vergroten. Er is in het veld een grote vraag naar oxyconcentratoren 
+(en zuurstof in al zijn vormen) en de opname in de vergoedbaarheid van deze nieuwe apparaten maakt het 
+mogelijk om gedeeltelijk tegemoet te komen aan een aantal belangrijke en dringende behoeften veroorzaakt 
+door de COVID-19-infecties.TITEL 3. - CONTINUTEIT VAN ZORGDe maatregelen in de artikelen 
+4 tot en met 18 zijn voorstellen opgesteld in overleg met de partners op hun vraag of nadat de vertegenwoordigers 
+van de zorgverleners of de verzekeringsinstellingen het RIZIV hebben gecontacteerd over de problemen 
+om continuïteit van noodzakelijke zorg te verlenen in het kader van de maatregelen tot inperking van 
+de verspreiding van het virus. Voor elke opgenomen maatregel hebben virtuele vergaderingen plaatsgehad 
+met de betrokken beroepsorganisaties (artsen, tandartsen, kinesitherapeuten, logopedisten, vroedvrouwen, 
+ziekenhuisfederaties) en met de verzekeringsinstellingen. Voor de maatregelen m.b.t. de verkorte bestraling 
+bij borstkankerpatiënten en het bijzonder toezicht op patiënten met COVID-19 heeft tevens een voorbereidend 
+overleg plaatsgevonden met een afvaardiging van de Technische geneeskundige raad. Deze vergaderingen 
+op afstand gebeurden enerzijds met elke betrokken partij afzonderlijk of in gezamenlijke vergaderingen. 
+Het resultaat ervan werd aan de deelnemers bezorgd.De maatregelen in de artikelen 22 tot en 
+met 28 zijn voorstellen van het College van artsen-directeurs dat krachtens artikel 23 § 2, tweede 
+lid van de gecoördineerde wet van 14 juli 1994 bevoegd is om advies te geven over de in dat lid bedoelde 
+nomenclatuur van de revalidatie-verstrekkingen en dat krachtens artikel 23 § 3 van dezelfde wet 
+bevoegd is om ontwerpen van revalidatieovereenkomsten en ontwerpen van overeenkomsten met de gecoördineerde 
+multidisciplinaire zorgcentra op te maken en voor te leggen aan het Verzekeringscomité.De voorstellen 
+zijn dikwijls tot stand gekomen op vraag van de betrokken zorgverleners, revalidatie-inrichtingen en 
+centra die gecoördineerde multidisciplinaire zorg-programma's verlenen of zijn tot stand gekomen nadat 
+deze zorgverleners en inrichtingen bepaalde problemen waarmee ze kampen aan het Riziv hebben gesignaleerd.Artikel 
+4 legt de algemene bepalingen vast van de specifieke verstrekkingen in het kader van de COVID-19-crisis.Artikel 
+5 laat het gebruik toe van verkorte bestralingsschema's (hypofractionering) voor patiënten met borstkanker 
+waarvoor een verkort bestralingsschema van 5 fracties (hypofractionering) een veilig en volwaardig alternatief 
+is op basis van de huidige beschikbare wetenschappelijke evidentie en wanneer de gebruikelijke bestralingsschema's 
+niet aangewezen of niet mogelijk zijn.Het bestralen van een selectie van patiënten via verkorte 
+bestralingsschema's (hypofractionering) maakt deel uit van de COVID-19 noodplanning van verschillende 
+ziekenhuizen.De gebruikte toestellen en het beschikbaar personeel kunnen op die manier zo optimaal 
+mogelijk ingezet worden, wat een opsplitsing mogelijk maakt tussen toestellen en zorgteams voor patiënten 
+met COVID-19 en de COVID19-vrije patiënten. Bovendien zullen patiënten zich minder frequent naar het 
+ziekenhuis verplaatsen, wat bijdraagt tot het vermijden van de verspreiding van het virus.De 
+COVID-19-crisis heeft de manier van werken in de ziekenhuizen grondig gewijzigd, zowel op vlak van infrastructuur 
+en logistieke organisatie als op vlak van inzet van personeel, verpleegkundigen en artsen-specialisten. 
+Daarnaast vergt de verzorging van met het virus besmette patiënten een buitengewone inspanning. Om aan 
+die gewijzigde werkomstandigheden tegemoet te komen en de inspanningen correct te vergoeden, voorziet 
+artikel 6 een reeks nieuwe specifieke verstrekkingen voor de verzorging op intensieve zorg en op de specifieke 
+COVID-19-afdelingen.Artikel 6, § 1, zorgt met het voorzien van een specifieke code dat 
+de COVID-19-patiënten geïdentificeerd worden ten einde toe te laten de nieuwe verstrekkingen op intensieve 
+zorgen en de specifieke COVID-19-afdelingen te kunnen terugbetalen. Een COVID-19-patiënt wordt gedefinieerd 
+conform de gevalsdefinitie van Sciensano. De code 793800 is enkel bedoeld ter identificatie van COVID-19-patiënten. 
+Die code laat toe dat andere verstrekkingen bijkomend kunnen aangerekend worden voor deze patiënten waarvoor 
+de verzorging een buitengewone inspanning, zowel fysiek als psychisch vergt.De afdelingen intensieve 
+zorg zijn meer dan ooit de "hotspots" binnen de ziekenhuizen en de meeste hebben hun capaciteit moeten 
+verhogen, onder meer door andere afdelingen (recovery-afdelingen en `gewone' afdelingen) geheel of gedeeltelijk 
+aan te passen, zodat die ook dienst kunnen doen als afdelingen voor intensieve zorg. Uiteraard bracht 
+dat een andere toewijzing van mensen en middelen met zich mee en een grote uitbreiding van de capaciteit.COVID-19-patiënten 
+op intensieve zorg vergen veel langduriger beademing dan gebruikelijk. Het gaat vaak over minstens 2 
+weken. Om aan te sluiten aan deze realiteit zijn hiervoor twee specifieke verstrekkingen voorzien via 
+artikel 6, § 2.Er werden specifieke COVID-19-afdelingen opgericht die fysiek gescheiden 
+zijn van andere afdelingen. De patiënten die er verblijven vragen een meer intensieve en specifieke aanpak, 
+in het kader van zowel de COVID-19-pathologie als de veiligheids- en hygiënevoorschriften, die voor de 
+zorg voor die patiënten vereist is.De patiënten verblijven er gemiddeld veel langer dan gebruikelijk. 
+De zorg is er tevens veel meer belastend. Daarom voorziet artikel 6, § 3, hiervoor in nieuwe verstrekkingen 
+betreffende de installatie en toezicht voor de gecontroleerde of geassisteerde kunstmatige beademing, 
+het continu toezicht op de vitale en niet-vitale functies, het continue toezicht op de hartfunctie en 
+de metingen van het hartdebiet en artikel 6, § 4, in een bijkomend honorarium voor het toezicht 
+op een gehospitaliseerde COVD-19-patiënt.Artikel 6, § 5, voorziet dat deze verstrekkingen 
+enkel in algemene ziekenhuizen kunnen aangerekend worden.Artikel 7 omvat de principes die moeten 
+nageleefd worden om zorg op afstand verlenen.De artikelen 8 tot en met 13 voorzien in de creatie 
+van specifieke vestrekkingen op afstand alsook toepassingsregels behorende tot de artsen, tandartsen 
+en kinesitherapeuten.Artikel 8 voorziet specifieke verstrekkingen die toelaten dat artsen een 
+telefonische triage ( § 1) uitvoeren van patiënten met symptomen van een mogelijke besmetting 
+met COVID-19 en telefonisch advies ( § 2) geven aan andere patiënten met het oog op het behoud 
+van continuïteit van zorg.De notie telefonische oproep dekt synchrone communicatiemiddelen 
+met inbegrip van videocommunicatie.Artikel 8, § 3, legt de toepassingsregels voor deze 
+verstrekkingen vast.Artikel 9 voorziet in specifieke verstrekkingen voor psychiaters en kinder- 
+en jeugdpsychiaters. Patiënten met psychiatrische of psychotherapeutische follow-up kunnen hun behandeling 
+slechts zelden opschorten zonder ernstig risico voor hun geestelijke gezondheid. De COVID-19-crisis maakt 
+dat risico voor de meest kwetsbare personen nog groter. Om de continuïteit van deze zorg te verzekeren 
+tijdens deze COVID-19-crisis, worden de regels van de verplichte verzekering voor geneeskundige verzorging 
+aangepast zodat deze zorg alsook de eventuele nieuwe diagnoses uitgevoerd op afstand door psychiaters 
+en kinder- en jeugdpsychiaters ten laste genomen wordt.Artikel 9, § 1, voorziet in een 
+telefonisch advies met het oog op doorverwijzing van de patiënt naar een mobiel team of een psychiatrische 
+spoeddienst, zodat ook in deze crisisperiode een correcte urgente zorg aan deze patiëntengroep kan gebeuren.Artikel 
+9, §§ 2 en 3, voorziet in verstrekkingen op afstand voor de psychiatrische diagnose, de 
+psychotherapeutische behandeling, de mediatietherapie, het overleg tussen arts en psycholoog of orthopedagoog 
+en de uitgebreide psychiatrische evaluatie van een jongere om de continuïteit van deze zorg te kunnen 
+verzekeren tijdens de COVID-19-crisis.Artikel 9, § 4 legt de algemene toepassingsregels 
+voor deze nieuwe verstrekkingen vast.In analogie met de bepalingen van artikel 6 voorziet artikel 
+10 in een specifieke verstrekking voor de neuropediater zodat zij de behandeling van de kinderen, jongeren 
+en jongvolwassenen met neurologische ontwikkelingsstoornissen of een verstandelijke beperking die gepaard 
+gaan met ernstige gedragsstoornissen kunnen verderzetten. Patiënten met neurologische ontwikkelingsstoornissen 
+of een verstandelijke beperking zijn immers bijzonder gevoelig voor veranderingen in tijd en ruimte. 
+Uitzonderlijke omstandigheden kunnen de gedragsstoornissen verergeren en de omgeving (gezin of instelling) 
+in grote moeilijkheden brengen.Artikel 11 laat toe dat de multidisciplinaire oncologische consulten 
+via een videoconferentie worden georganiseerd. Zo is het tijdelijk niet nodig om verschillende zorgverleners 
+fysiek samen te brengen in één ruimte. Dit garandeert de continuïteit van zorg aan patiënten met een 
+kanker, waardoor de naleving van de inperkingsmaatregelen wordt bevorderd.Voor de continuïteit 
+van de zorg en het accuraat begeleiden van de patiënt naar de beschikbare tandheelkundige zorg tijdens 
+deze crisisperiode voert artikel 12 specifieke verstrekkingen in te voeren voor telefonisch advies en 
+eventuele doorverwijzing naar een tandheelkundige praktijk die de verzorging aanbiedt rekening houdende 
+met alle instructies voor zorgverleners tijdens de COVID-19 pandemie.Artikel 12, § 1, 
+voorziet in de invoering van twee specifieke verstrekkingen voor telefonisch advies en eventuele doorverwijzing.Artikel 
+12, § 2, bepaalt de toepassingsregels voor deze verstrekkingen.Voor de continuïteit 
+van de zorg en het stabiliseren of verbeteren van de gezondheidstoestand van de patiënt, hetwelke zal 
+nodig zijn in een beperkt aantal gevallen, maakt artikel 13 kinesitherapeutische verzorging op afstand 
+via telefoon of videocommunicatie mogelijk.Artikel 13, § 1, voorziet in de invoering 
+van twee specifieke verstrekkingen voor verzorging op afstand uitgevoerd door de kinesitherapeut.Artikel 
+13, § 2, bepaalt de toepassingsregels voor deze verstrekkingen.Artikel 14 voorziet in 
+de volledige tussenkomst van de verplichte verzekering voor geneeskundige verzorging in de honoraria 
+van de verstrekkingen op afstand.Artikel 15 verbiedt de toepassing van supplementen voor de 
+verstrekkingen op afstand.Patiënten met een logopedische follow-up kunnen zelden hun behandeling 
+opschorten voor een relatief lange tijd zonder dat ze de therapeutische voordelen van de behandeling 
+verliezen; Ten einde de continuïteit van de logopedische zorg tijdens de COVID-19-crisis garanderen, 
+met respect voor de regels van de sociale distantiëring, past artikel 16 de regels van de verplichte 
+verzekering voor geneeskundige verzorging aan, zodat logopedieverstrekkingen uitgevoerd op afstand zonder 
+fysieke aanwezigheid van de logopedist ten laste worden genomen.Voor het garanderen van de 
+nodige pre- en postnatale zorg voor de aanstaande moeder en het kind, zelfs tijdens de COVID-19 crisis 
+en met de nodige voorzorgsmaatregelen past artikel 17 de regels aan van de verplichte verzekering voor 
+geneeskundige verzorging zodat de verstrekkingen uitgevoerd op afstand door de vroedvrouwen worden terugbetaald.Artikel 
+18 bepaalt dat de honoraria en bedragen voor de tussenkomst van de verplichte verzekering voor de vertrekkingen 
+op afstand dezelfde zijn als voor verstrekkingen met fysieke aanwezigheid voor logopedisten en vroedvrouwen.Gelet 
+op de adviezen in verband met de COVID-19-pandemie bepaalt artikel 19 dat afwijkingen worden voorzien 
+op de bepalingen voor de specifieke verstrekkingen van de nomenclatuur van de revalidatieverstrekkingen.Artikel 
+20 voorziet de mogelijkheid om diëtetiekverstrekkingen via telefoon of videocommunicatie te verrichten 
+omdat deze verstrekkingen voor de patiënten voor wie deze verstrekkingen kunnen worden verricht (diabetespatiënten 
+en patiënten die lijden aan chronische nierinsufficiëntie) dringend noodzakelijk kunnen zijn voor een 
+adequate behandeling van hun ziekte en niet kunnen worden uitgesteld tot na de COVID-19-crisisperiode. 
+Om deze verstrekkingen tijdens de COVID-19-crisisperiode veilig te kunnen laten verlopen, zonder gevaar 
+op besmetting, wordt de mogelijkheid voorzien om deze diëtetiekverstrekkingen via telefoon of videocommunicatie 
+te verrichten. Alhoewel verstrekkingen via videocommunicatie vermoedelijk betere resultaten opleveren, 
+worden ook verstrekkingen via de telefoon voorzien omdat een aanzienlijk deel van de doelgroep niet beschikt 
+over de mogelijkheid van videocommunicatie of daarmee onvoldoende vertrouwd is.Artikel 21, 
+§ 1 en § 2, voorziet de mogelijkheid om diabeteseducatieverstrekkingen via telefoon of 
+videocommunicatie te verrichten omdat deze verstrekkingen voor de beoogde diabetespatiënten dringend 
+noodzakelijk kunnen zijn voor een adequate behandeling van hun ziekte en niet kunnen worden uitgesteld 
+tot na de COVID-19-crisisperiode. Om deze verstrekkingen tijdens de COVID-19-crisisperiode veilig te 
+kunnen laten verlopen, zonder gevaar op besmetting, wordt de mogelijkheid voorzien om deze diabeteseducatieverstrekkingen 
+via telefoon of videocommunicatie te verrichten. Alhoewel verstrekkingen via videocommunicatie vermoedelijk 
+betere resultaten opleveren, worden ook verstrekkingen via de telefoon voorzien omdat een aanzienlijk 
+deel van de doelgroep niet beschikt over de mogelijkheid van videocommunicatie of daarmee onvoldoende 
+vertrouwd is.Artikel 22 voorziet de mogelijkheid om bepaalde ergotherapieverstrekkingen via 
+video-communicatie te verrichten omdat deze ergotherapieverstrekkingen voor de beoogde patiënten dringend 
+noodzakelijk kunnen zijn om de problemen op het vlak van re-integratie waarmee deze patiënten kampen, 
+aan te pakken. Om deze verstrekkingen tijdens de COVID-19-crisisperiode veilig te kunnen laten verlopen, 
+zonder gevaar op besmetting, wordt de mogelijkheid voorzien om deze ergotherapieverstrekkingen via video-communicatie 
+te verrichten. Omdat kwalitatieve ergotherapiezittingen, rekening gehouden met de problemen van de patiënten 
+en het doel van deze zittingen, niet mogelijk zijn via de telefoon, worden alleen ergotherapieverstrekkingen 
+via videocommunicatie voorzien.Gelet op de adviezen in verband met de COVID-19-pandemie bepaalt 
+artikel 23 dat afwijkingen worden voorzien op de bepalingen van de overeenkomsten bedoeld in de artikelen 
+22, 6°  en 23, § 3, van de gecoördineerde wet van 14 juli 1994.Artikel 24, § 
+1 tot en met § 3, geeft de mogelijkheid aan de centra die patiënten begeleiden die kampen met 
+de gevolgen van vrouwelijke genitale verminkingen, aan de centra voor transgenderzorg en aan de geheugenklinieken 
+om bepaalde begeleidingszittingen die de psychologen van die centra verrichten voor de patiënten van 
+die centra, tijdens de COVID-19-crisisperiode via videocommunicatie te verrichten, zodat de continuïteit 
+van de verzorging tijdens de COVID-19-crisisperiode kan worden gewaarborgd en de verstrekkingen veilig 
+kunnen worden verricht, zonder gevaar op besmetting. Omdat kwalitatieve begeleidings-zittingen door een 
+psycholoog niet mogelijk zijn via de telefoon omdat de psycholoog dan geen rekening kan houden met de 
+lichaamstaal van de patiënt, worden alleen begeleidingszittingen via videocommunicatie voorzien.Artikel 
+25, § 1 tot en met § 3, geeft de mogelijkheid aan de inrichtingen "Clairs Vallons" en "Zeepreventorium" 
+om tijdens de COVID-19-crisisperiode begeleiding via telefoon of videocommunicatie aan te bieden aan 
+de patiënten van wie het normale revalidatieprogramma is onderbroken, zodat de continuïteit van de verzorging 
+tijdens de COVID-19-crisisperiode toch nog enigszins kan worden gewaarborgd en de patiënten in relatief 
+veilige en gezonde omstandigheden buiten de inrichting, in hun thuismilieu of elders, kunnen verblijven 
+en de resultaten van het reeds gerealiseerde revalidatieprogramma zo veel mogelijk kunnen geconsolideerd 
+worden. Alhoewel verstrekkingen via videocommunicatie vermoedelijk betere resultaten opleveren, worden 
+ook verstrekkingen via de telefoon voorzien omdat een aanzienlijk deel van de doelgroep niet beschikt 
+over de mogelijkheid van videocommunicatie of daarmee onvoldoende vertrouwd is.Artikel 26, 
+§ 1 en § 2, geeft de mogelijkheid aan de revalidatiecentra voor locomotorische en neurologische 
+revalidatie om bepaalde begeleidingszittingen die de logopedisten van die centra verrichten voor de patiënten 
+van die centra, tijdens de COVID-19-crisisperiode via videocommunicatie te verrichten, zodat de continuïteit 
+van de verzorging tijdens de COVID-19-crisisperiode kan worden gewaarborgd en de verstrekkingen veilig 
+kunnen worden verricht, zonder gevaar op besmetting. Omdat kwalitatieve begeleidingszittingen door een 
+logopedist niet mogelijk zijn via de telefoon omdat de logopedist moet kunnen zien hoe de patiënt spreekt, 
+worden alleen begeleidingszittingen via videocommunicatie voorzien.Artikel 27, § 1 en 
+§ 2, geeft de mogelijkheid aan de referentiecentra voor cerebral palsy om de verstrekking "punctueel 
+advies" voor de patiënten van die centra, tijdens de COVID-19-crisisperiode, via telefoon of videocommunicatie 
+te verrichten, zodat de continuïteit van de verzorging tijdens de COVID-19-crisisperiode kan worden gewaarborgd 
+en de verstrekkingen veilig kunnen worden verricht, zonder gevaar op besmetting. Alhoewel verstrekkingen 
+via videocommunicatie vermoedelijk betere resultaten opleveren, worden ook verstrekkingen via de telefoon 
+voorzien om patiënten van de doelgroep die niet beschikken over de mogelijkheid van videocommunicatie 
+of die daarmee onvoldoende vertrouwd zijn, niet uit te sluiten.Artikel 28, § 1 tot en 
+met § 5, geeft de mogelijkheid aan de cognitieve gedragstherapeuten die samenwerken met het multidisciplinair 
+diagnostisch centrum voor patiënten met het chronisch vermoeidheidssyndroom, om de sessies cognitieve 
+gedragstherapie die die cognitieve gedragstherapeuten realiseren, tijdens de COVID-19-crisisperiode, 
+via videocommunicatie te verrichten, zodat de continuïteit van de verzorging tijdens de COVID-19-crisisperiode 
+kan worden gewaarborgd en de verstrekkingen veilig kunnen worden verricht, zonder gevaar op besmetting. 
+Omdat kwalitatieve begeleidingszittingen door een psycholoog niet mogelijk zijn via de telefoon omdat 
+de psycholoog dan geen rekening kan houden met de lichaamstaal van de patiënt, worden alleen begeleidingszittingen 
+via videocommunicatie voorzien.Artikel 29 voorziet in de opheffing van het koninklijk besluit 
+van 18 maart 2020 tot vaststelling van verschillende uitzonderlijke maatregelen inzake de verplichte 
+verzekering voor geneeskundige verzorging en uitkeringen met het oog op de zorgopvang van patiënten in 
+de context van de COVID-19 pandemie met het SARS-CoV-2 virus. De bepalingen voorzien in dat koninklijk 
+besluit worden immers overgenomen in dit besluit.TITEL 4. - STRUCTURENHoofdstuk 1. 
+SchakelzorgcentraMet betrekking tot hoofdstuk 1 dat betrekking heeft op de schakelzorgcentra 
+werd door de Risk Management Group (RMG) op 20 maart 2020 besloten steun te verlenen aan het opzetten 
+van tijdelijke opvangstructuren voor mensen die getroffen zijn door het coronavirus en die geen ziekenhuiszorg 
+nodig hebben of niet meer nodig hebben, maar die ook niet naar hun gewone verblijfssituatie kunnen terugkeren 
+omdat ze nog steeds besmettelijk zijn.Daarbij werd aan de "Comité Primary & Outpatient Care 
+Surge Capacity" de opdracht gegeven om dit verder uit te werken. Dit Comité is een werkgroep binnen de 
+RMG die gecoördineerd wordt door het Directoraat Generaal Gezondheidszorg van de Federale overheidsdienst 
+Volksgezondheid en bestaat uit vertegenwoordigers van alle overheden, Defensie, de ziekenhuiskoepels, 
+beroepsorganisaties van artsen, steden en gemeenten, partners als de ziekenfondsen, het Rode Kruis, Artsen 
+zonder Grenzen.Overwegende het akkoord van de Interministeriële Conferentie Volksgezondheid 
+op 9 april 2020 over de globale principes rond de oprichting en financiering van de schakelzorgcentra.Deze 
+beslissing tot het oprichten van schakelzorgcentra werd genomen om te voorkomen dat er te veel mensen 
+in het ziekenhuis worden opgenomen of in het ziekenhuis blijven zonder dat ze daadwerkelijk ziekenhuiszorg 
+nodig hebben, en dus om te voorkomen dat de werkdruk in het ziekenhuis verder toeneemt.Deze 
+structuren zijn niet bedoeld om langdurige zorg te bieden en worden zelf voor een beperkte periode opgezet, 
+afhankelijk van de duur die nodig is om de huidige gezondheidscrisis te beheersen.Alleen de 
+overheden van de gewesten of gemeenschappen kunnen besluiten een schakelzorgcentrum te openen, en alleen 
+na advies van de gouverneur van de provincie waarin de opening van het schakelzorg-centrum wordt overwogen.Deze 
+overheid zal daartoe de noodzaak van het activeren van dergelijke structuren beoordelen op basis van 
+de plaatsen die nog beschikbaar zijn in andere schakelzorgcentra in de regio, maar ook op basis van het 
+aantal COVID-19-patiënten dat nog in het ziekenhuis ligt.Het is ook de taak van deze overheid 
+om met de eigenaar of exploitant van de lokalen afspraken te maken over de ingebruikname van de lokalen, 
+het gebruik van de uitrusting, de terbeschikkingstelling van personeel, de aansprakelijkheid en verzekeringsdekking, 
+de duur van het gebruik, het herstel van de uitrusting na de ingebruikname, ...Het is dezelfde 
+overheid die de beslissing zal nemen om een schakelzorgcentrum te sluiten wanneer blijkt dat deze niet 
+langer voldoet aan een behoefte die voortvloeit uit de COVID-19-gezondheidscrisis. Indien nodig kan deze 
+overheid, als patiënten op het moment van het besluit tot sluiting nog steeds in het schakelzorg-centrum 
+verblijven, besluiten deze patiënten om te leiden naar andere schakelzorgcentra die op haar grondgebied 
+actief zijn.Deze centra zijn bedoeld voor de opname van patiënten die zijn geïdentificeerd 
+als patiënten met coronavirus, die om deze reden in het ziekenhuis zijn opgenomen, of voor wie na een 
+onderzoek van een triage- en afnamecentrum of een dienst spoedgevallen is vastgesteld dat hun aandoening 
+niet in het ziekenhuis hoeft te worden opgenomen.Indien bij het ontslag uit het ziekenhuis 
+of bij het onderzoek in een triage- en afnamecentrum of in de dienst spoedgevallen blijkt dat er redenen 
+zijn dat deze patiënten zich bij hun terugkeer naar hun gewone leefsituatie niet kunnen houden aan de 
+regels van hygiëne en isolatie of omdat ze nog specifieke zorg nodig hebben die niet kan worden aangeboden 
+in de gewone leefsituatie, kunnen deze patiënten tijdelijk worden doorverwezen naar een schakelzorgcentrum.De 
+opname in een schakelzorgcentrum is mogelijk in een of meerdere van de volgende situaties:1° 
+ de woonst is te klein om de patiënt te isoleren van de mensen met wie hij samen woont;2°  
+bij ouderen, personen met verminderde immuniteit of die lijden aan chronische luchtwegaandoeningen, die 
+samenwonen met de patiënt en waarvoor er geen tijdelijke alternatieve woonst kan worden gevonden om hen 
+te huisvesten;3°  de hygiënische omstandigheden in de woning maken het niet mogelijk om de 
+aanbevelingen inzake isolering, hygiëne en afstand correct te respecteren;4°  de patiënt is 
+onvoldoende zelfredzaam en kan de aanbevolen isolerings- of hygiënevoorschriften niet respecteren, zelfs 
+met ondersteuning van mantelzorg of familieleden;5°  voor een patiënt die over het algemeen 
+autonoom is en die omwille van de opname in het ziekenhuis tijdelijke rehabilitatiezorg nodig heeft (onder 
+meer na lang verblijf op een dienst Intensieve zorg) die in een thuissituatie niet kan gegeven worden 
+omwille van het ontbreken van de noodzakelijke apparatuur of door de ongeschiktheid van de woning.De 
+vaststelling dat een patiënt beantwoordt aan een of meerdere van deze situaties wordt gedaan in overleg 
+met de patiënt en de personen/structuren in de eerste lijn die deze situatie kunnen bevestigen, waaronder 
+de sociale dienst van het ziekenfonds of van het OCMW, diensten gezinszorg, geïntegreerde diensten voor 
+thuisverpleging, de "centres de coordination de soins à domicile".Indien het gaat om een patiënt 
+die in normale omstandigheden in een collectieve/residentiële structuur verblijft en waarbij COVID-19 
+werd gedetecteerd dient de patiënt bij ontslag uit het ziekenhuis terug verwezen te worden naar het collectieve/residentieel 
+verblijf.Indien het onmogelijk is om de voorwaarden van isolering of hygiëne of van zorgcontinuïteit 
+te garanderen, kan als gevolg van uitzonderlijk moeilijke omstandigheden binnen het residentieel verblijf 
+een tijdelijke opvang in het schakelzorgcentrum beslist worden.De schakelzorgcentra moeten 
+in staat zijn om de patiënten die zich bevinden in de volgende situaties op te nemen :1°  Voor 
+een patiënt waarbij COVID-19 werd gedetecteerd en die geen chronische aandoening heeft, zelfredzaam is 
+en in het algemeen onafhankelijk is in zijn dagelijks leven, is alleen dagelijkse bewaking van bepaalde 
+parameters nodig om eventuele verslechtering van zijn toestand op te sporen : temperatuurmeting tweemaal 
+per dag, detectie van tekenen van koorts, observatie van de ademhalingsfunctie, beoordeling van de cardiovasculaire 
+functie, beoordeling van de algemene toestand van de patiënt, etc.2°  Voor een patiënt waarbij 
+COVID-19 werd gedetecteerd en die in het algemeen weinig onafhankelijk is in het dagelijks leven (gedesoriënteerd, 
+geriatrisch, met een handicap, Katz-schaal thuisverpleging A, B of C, etc.) of die chronische zorg nodig 
+heeft (wondverzorging, insuline, etc.), moet het schakelzorgcentrum omkadering aanbieden die hem in staat 
+zal stellen om naast de dagelijkse bewaking van de parameters de zorg te ontvangen die zijn afhankelijkheidssituatie 
+vereist.3°  Voor een patiënt die in het algemeen autonoom is, waarbij COVID-19 werd gedetecteerd 
+en die omwille van de opname in het ziekenhuis tijdelijke rehabilitatiezorg nodig heeft (onder meer na 
+lang verblijf op een dienst intensieve zorg) die in een thuissituatie niet kan gegeven worden omwille 
+van het ontbreken van de noodzakelijke apparatuur of door de ongeschiktheid van de woning, moet een omkadering 
+worden geboden die hem in staat zal stellen om naast de dagelijkse bewaking van de parameters, de zorg 
+te ontvangen die zijn herstelproces vereist.Binnen deze schakelzorgcentra wordt de kost van 
+de zorg, verleend door artsen, verpleegkundigen en zorgkundigen op een specifieke wijze en binnen de 
+voorwaarden van dit besluit ten laste genomen door het Riziv.Alle andere geneeskundige verstrekkingen 
+voor deze patiënten worden vergoed volgens de bestaande regels binnen de ziekteverzekeringswet.Artikel 
+31 bepaalt welke kosten het voorwerp uitmaken van de vergoeding door de verplichte verzekering voor geneeskundige 
+verzorging.Artikel 32 beschrijft de doelgroep van patiënten waarbij een onderscheid gemaakt 
+wordt tussen twee situaties van patiënten waarbij COVID-19 werd gedetecteerd en die om verschillende 
+reden bij het ontslag uit het ziekenhuis of na controle op een triagepost of dienst spoedgevallen niet 
+naar hun gewone verblijfssituatie kunnen terugkeren.De eerste situatie gaat om patiënten die 
+in normale omstandigheden thuis wonen en waarbij het gebrek aan garanties rond isolering, hygiëne of 
+afstand houden in de thuissituatie de opname in een schakelzorg verantwoordt.De tweede situatie 
+gaat om patiënten die in normale omstandigheden verblijven in een residentiële instelling waarbij de 
+terugkeer onder veilige omstandigheden onmogelijk kan gegarandeerd worden. Omwille van psychosociale 
+reden dient het verblijf in een schakelzorgcentrum tot een minimum in de tijd beperkt worden en bij voorkeur 
+niet langer dan 1 week.Ofwel gaat het nog om autonome personen: in dat geval volstaat het dat 
+er een dagelijkse bewaking is van een aantal parameters.Ofwel gaat het om een persoon die toch 
+afhankelijk is in het dagelijks functioneren of chronische zorg nodig heeft : in dat geval moet er naast 
+de bewaking van een aantal parameters, een omkadering aangeboden worden die zijn afhankelijkheidssituatie 
+vereist.Ofwel gaat het om nog autonome personen, maar die omwille (bijvoorbeeld lang verblijf 
+op intensieve behandeling) tijdelijke rehabilitatiezorg nodig hebben die in de thuissituatie niet kan 
+gegeven worden.In de artikelen 34 tot 37 wordt in een specifieke tegemoetkoming voorzien voor 
+artsen en voor verpleegkundigen en zorgkundigen.Wat de artsen betreft worden voor de opdrachten 
+die in het ontwerp voorzien, de volgende vergoedingen voorzien :- Voor opvolging, toezicht 
+en zorg dat overdag wordt uitgevoerd door een arts : vergoeding van 80,34 euro per gepresteerd uur. Maximum 
+8 uur per dag per groep van 30 patiënten.- Voor de beschikbaarheid door 1 arts 's avonds en 
+'s nachts : een vergoeding van 6,51 euro per uur.- Cumul met consultaties en toezichtshonoraria 
+uit de nomenclatuur wordt uitgesloten.Wat de verpleegkundigen en zorgkundigen betreft :- 
+Voor de opvolging, toezicht en zorg wordt een tegemoetkoming per gepresteerd uur voorzien voor maximum 
+6 VTE (waarvan 4 verpleegkundigen en 2 zorgkundigen) per groep van 30 patiënten. Dit komt overeen met 
+maximum 6 x 38 uur per week : 228 uur.- Deze tegemoetkoming bedraagt 47.25 euro per uur voor 
+verpleegkundigen en 34.96 euro voor zorgkundigen.Artikel 38 voorziet een aantal preciseringen 
+m.b.t. de tegemoetkoming voor andere verstrekkingen :-Geneesmiddelen : kunnen zowel worden 
+afgeleverd door een ziekenhuisapotheek als door een openbare officina. Het voorschrift wordt elektronisch 
+opgemaakt.- Wat de kinesitherapieverstrekkingen in een schakelzorgcentrum betreft, wordt tijdelijk 
+een specifieke verstrekking ingevoerd die via het ziekenfonds van de patiënt wordt terugbetaald vanuit 
+de verplichte ziekteverzekering. Er is geen persoonlijk aandeel, noch supplement verschuldigd door de 
+rechthebbenden voor deze verstrekking.- Wat de verstrekkingen in het kader van de geestelijke 
+gezondheidszorg betreft : er kan beroep gedaan worden op alle mogelijke bestaande structuren, inbegrepen 
+de uitzonderlijke nomenclatuur van psychiaters en psychologen in kader van COVID-19.- Voor 
+alle andere geneeskundige zorg gelden de reguliere voorwaarden inzake tegemoetkoming vanuit de verplichte 
+ziekteverzekering.Artikel 39 voorziet dat de specifieke tegemoetkomingen niet verschuldigd 
+zijn indien de verstrekkingen zijn uitgevoerd door vrijwilligers of indien de kost van deze zorgverleners 
+reeds op een andere wijze is gefinancierd.Artikel 40 bepaalt dat de verantwoordelijke van een 
+schakelzorgcentrum aan het Riziv de kosten kan factureren volgens de bepalingen van dit besluit.In 
+artikel 41 wordt de registratie voorzien. Aangezien de verzekeringsinstellingen controle moeten doen 
+op de aanrekening van verstrekkingen (vb geen cumul met consultaties, geen nomenclatuur thuisverpleging) 
+is het noodzakelijk dat zij beschikken over de patiëntengegevens met vermelding van de datum van opname 
+en van ontslag. Deze informatie wordt centraal ingezameld bij de Federale overheidsdienst Volksgezondheid 
+en wordt via het Riziv meegedeeld aan het Nationaal Intermutualistisch college.Artikel 42 bepaalt 
+dat de zorgverleners die verstrekkingen doen in het schakelzorgcentrum onder de verantwoordelijkheid 
+vallen van het schakelzorgcentrum. Het schakelzorgcentrum vergewist zich van de status inzake de noodzakelijke 
+verzekeringen inzake ondermeer beroepsaansprakelijkheid en arbeidsongevallenverzekering.Artikel 
+43 voorziet dat op basis van de "erkenning" dat het Riziv ontvangt vanwege de deelentiteiten, op de website 
+de lijst gepubliceerd zal worden van de centra die, indien ze de bepalingen van dit besluit respecteren, 
+de tegemoetkomingen kunnen factureren. Deze centra zullen hiervan verwittigd worden; zij dienen geen 
+specifieke overeenkomst met het Riziv te sluiten.Hoofdtuk 2. Triage- en afnamecentraDe 
+artikelen 44 tot en met 52 regelen de tijdelijke financiering van de triage- en afnamecentra.De 
+richtlijn van Sciensano van 17 maart 2020 bepaalt voor de huisartsen een procedure voor patiënten met 
+verdenking van COVID-19 infectie. Als de huisarts meent dat een klinisch onderzoek essentieel is om de 
+ernst van de infectie te beoordelen, kan hij, onder bepaalde omstandigheden, zelf het onderzoek voeren 
+als hij beschikt over het nodige beschermingsmateriaal (handschoenen, type II chirurgische maskers,...). 
+Als hij niet beschikt over het materiaal verwijst hij de patiënt indien mogelijk door naar een triagepost 
+en anders naar het ziekenhuis. Omwille van de tekorten aan beschermingsmateriaal worden de huisartsen 
+gevraagd om triagepunten te organiseren.Het verslag van de "Comité Primary and Outpatient Care 
+Surge Capacity" van 17 maart 2020 toont nog een andere doelstelling: vermijden van een overbelasting 
+van de spoeddiensten met patiënten die op dat ogenblik geen hospitalisatie nodig hebben. De triage- en 
+afnamecentra worden daarom ook meestal geopend in de nabijheid van een ziekenhuis of een spoeddienst.Triage- 
+en afnamecentra zijn dus specifiek opgezette centra om patiënten te onderzoeken die mogelijk besmet zijn 
+met COVID-19, nadat ze werden doorverwezen door een arts. Die patiënten hoeven zo niet naar de wachtzaal 
+van een huisarts of naar de spoedafdeling van een ziekenhuis te gaan, waar ze anderen kunnen besmetten. 
+Indien nodig verwijst het triage- en afnamecentrum hen daarna naar het ziekenhuis voor hospitalisatie. 
+De centra zijn een initiatief van artsen, ziekenhuizen en overheden en maken deel uit van de eerstelijnszorg.Tijdens 
+de vergadering van 24 april 2020 heeft het "Comité Primary and Outpatient Care Surge Capacity" aanbevolen 
+om aan de triage- en afnamecentra een bijkomende functie toe te kennen in het kader van de `contact-tracing 
+calls'.Het centrum staat onder toezicht van een medische verantwoordelijke. Daarnaast zijn 
+er medische coördinatoren die instaan voor de dagelijkse organisatie, de planning, de verdeling van de 
+artsen, enz... De fysieke onderzoeken worden uitgevoerd door artsen en de triage- en afnamecentra kunnen 
+een beroep doen op verpleegkundige en administratieve ondersteuning.De kosten die gepaard gaan 
+met het opzetten en het draaiende houden van deze specifieke structuren zijn aanzienlijk en worden ten 
+laste genomen door de verplichte verzekering voor geneeskundige verzorging.Over de invoering 
+van een financiering voor de triage- en afnamecentra werd op 21 maart 2020 overleg gepleegd met de vertegenwoordigers 
+van de artsen in de Nationale commissie artsen-ziekenfondsen en op 24 maart 2020 met de vertegenwoordigers 
+van de verzekerings-instellingen in de Nationale commissie artsen-ziekenfondsen.Artikel 44 
+bevat de definitie van een triage- en afnamecentrum.Artikel 45 legt de procedure vast voor 
+het toekennen van een identificatienummer, noodzakelijk voor de facturatie. De centra kunnen via een 
+keuzeformulier het rekeningnummer kenbaar maken waarop de forfaitaire vergoedingen en de honoraria kunnen 
+gestort worden. Dit geeft de mogelijkheid aan de triage- en afnamecentra om de inkomsten te bundelen 
+en te herverdelen.Artikel 46 somt de vergoedingen op die vanaf 23 maart 2020 kunnen worden 
+aangevraagd: een forfaitaire vergoeding voor de opstart, de dagelijkse coördinatie, en de verpleegkundige 
+en administratieve ondersteuning en een vergoeding per prestatie voor het medisch onderzoek.Artikel 
+47 bepaalt de basisvoorwaarden en het maximale bedrag (7.230,60 euro) voor de toekenning van de vergoeding 
+voor de opstartkost die in een Koninklijk besluit verder dienen uitgewerkt te worden.Artikel 
+48 bepaalt het honorarium voor het klinisch onderzoek van de patiënt in het triage- en afnamecentrum. 
+Dit honorarium komt overeen met dat van een consultatie bij een geaccrediteerde huisarts (26,78 euro). 
+Het persoonlijk aandeel wordt volledig ten laste genomen door de verplichte verzekering voor geneeskundige 
+verzorging. Als de raadpleging plaatsvindt op zaterdag, zondag of op een feestdag wordt een toeslag toegekend 
+(13,20 euro).Het artikel 49 bepaalt de vergoedingsvoorwaarden.Het artikel 50 legt 
+de betalingsmodaliteiten vast. De verstrekkingen worden niet aangerekend via de klassieke weg met een 
+getuigschrift of e-fact, maar met een systeem van verzamelstaten waarop een minimum van gegevens wordt 
+aangebracht die vervolgens door het Instituut worden gebundeld en door de verzekeringsinstellingen worden 
+uitbetaald. Het beperken van handelingen, formaliteiten en papier draagt bij tot de veiligheid en de 
+efficiëntie.Artikel 51 legt de forfaitaire bedragen vast waarop de triageposten recht hebben 
+voor de coördinatie door de medisch coördinator (80,34 euro per uur) en de administratieve ondersteuning 
+(34,96 euro per uur). Per dag kunnen maximum 12 uren worden aangerekend, ongeacht het aantal medisch 
+coördinatoren, verpleegkundigen of administratieve assistenten aanwezig in het triage- en afnamecentrum.Dit 
+artikel legt ook het forfaitair bedrag vast voor de verpleegkundige ondersteuning (47,25 euro per uur). 
+Per dag kunnen maximum 12 uren worden aangerekend, ongeacht het aantal verpleegkundigen aanwezig in het 
+triage- en afnamecentrum.De Koning wordt ook gemachtigd om een financiële tussenkomst te voorzien 
+voor de door Hem te bepalen handelingen die worden gesteld in een triage- en afnamecentrum en de nadere 
+regels voor die financiële tussenkomst te bepalen.Artikel 52 legt de betalingsmodaliteiten 
+vast.Hoofdtuk 3. WeekwachtDe artikelen 53 tot en met 56 regelen de tijdelijke en 
+uitzonderlijke financiering van de huisartsenwachtposten tijdens de avonden en de nachten van de week. 
+In normale omstandigheden werken deze wachtposten tijdens de weekends. De wachtposten laten toe dat voor 
+het organiseren van de medische permanentie minder huisartsen moeten worden gemobiliseerd. Door de COVID19-crisis 
+zijn een aantal artsen uitgeschakeld of uitgeput, zodat de normale organisatie van de weekwachten moeilijker 
+wordt of meer belastend voor de wachtdoende artsen. De opening van de wachtposten tijdens de week kan 
+op die manier bijdragen tot het behoud van artsen in hun praktijk of voor de wacht, of hun terugkeer 
+bevorderen.De maatregel, die een snelle financiering beoogt, is tijdelijk van aard en is aldus 
+beperkt tot een periode van drie maanden. De budgettaire middelen zijn beschikbaar in het globale budget 
+dat voor 2020 werd vastgelegd voor de werking van de huisartsenwachtposten.Over de invoering 
+van de weekwacht-maatregelen werd overleg gepleegd in de schoot van de Nationale commissie artsen-ziekenfondsen 
+op 6 april 2020.Artikel 53 bevat het principe van de financiering van de werking van de huisartsenwachtposten 
+tijdens de week voor een periode beperkt tot drie maanden.Artikel 54 bepaalt de voorwaarden 
+voor de financiering, in het bijzonder de registratie van de wachtactiviteit.Artikel 55 bepaalt 
+enerzijds het bedrag van de financiering (50.000 euro) en financiële regeling anderzijds.Artikel 
+56 regelt de rapportering over de maatregel aan de organen die binnen de verplichte ziekteverzekering 
+ter zake bevoegd zijn.De maatregel en de snelle uitvoering ervan zijn noodzakelijk om op de 
+kortst mogelijke tijd aan de huisartsen een kader te bieden om gedurende de week minder van wacht te 
+moeten zijn, zodat beschikbaar kunnen blijven of zich terug kunnen inschakelen in de strijd tegen het 
+COVID-19-virus.TITEL 5. - VERPLEEGKUNDIGENHet RIZIV heeft over deze maatregelen overlegd 
+met vertegenwoordigers van de sector in de Overeenkomstencommissie verpleegkundigen- verzekeringsinstellingen 
+op 1 en 7 april 2020. Deze maatregelen werden ook besproken in het kader van het overleg tussen RIZIV 
+en verzekeringsinstellingen op 7 april 2020.De COVID-19-pandemie heeft verscheidene gevolgen 
+voor de thuisverpleging. De thuisverpleegkundigen moeten bijzondere beschermingsmaatregelen in acht nemen 
+om zichzelf en hun patiënten te vrijwaren van besmetting. Daarnaast bouwen verpleegkundige praktijken 
+soms bewust minder essentiële zorg af om capaciteit vrij te maken voor de specifiek COVID-19 gerelateerde 
+zorgvraag.Om rekening te houden met deze nieuwe COVID-19-context worden er 2 maatregelen uitgewerkt, 
+in overleg met de sector en de verzekeringsinstellingen, die gelden tijdens de COVID-19-crisis :1) 
+Opvolging en toezicht bij patiënten met een COVID-19 gerelateerde problematiek2) Valorisatie 
+van verpleegkundige zorgen tijdens de COVID-19-maatregelen : kosten en gebruik van beschermingsmateriaalHoofdstuk 
+1. Opvolging en toezicht bij patiënten met een COVID-19 gerelateerde problematiekArtikel 57 
+specifieert de wijze waarop de verstrekkingen worden aangeduid en bepaalt de verschillende specifieke 
+verstrekkingen die worden gecreëerd en hun toepassingsvoorwaarden.Het betreft de volgende verstrekkingen 
+:419333 Opvolging en toezicht thuis bij patiënten met een COVID-19 gerelateerde problematiek, 
+gediagnosticeerd door een arts   W 2,946419355 Opvolging en toezicht in het weekeind of op 
+een feestdag thuis bij patiënten met een COVID-19 gerelateerde problematiek, gediagnosticeerd door een 
+arts   W 4,504419370 Opvolging en toezicht in een hersteloord bij patiënten met een COVID-19 
+gerelateerde problematiek, gediagnosticeerd door een arts   W 2,946419392 Opvolging en toezicht 
+in een gemeenschappelijke woon- of verblijfplaats van mindervaliden bij patiënten met een COVID-19 gerelateerde 
+problematiek, gediagnosticeerd door een arts   W 2,946In dit artikel wordt verduidelijkt wat 
+verstaan wordt onder opvolging en toezicht.In artikel 58 wordt verduidelijkt wat verstaan wordt 
+onder- een patiënt met COVID-19-gerelateerde problematiek ;- thuis ;- thuis 
+weekeind of feestdag ;- hersteloord;- gemeenschappelijke woon- of verblijfplaats 
+van mindervaliden.Artikel 59 bepaalt de toepassingsvoorwaarden voor deze nieuwe verstrekkingen:- 
+het voorschrift ;- het aantal verstrekkingen dat mag aangerekend worden per dag ;- 
+de cumulatie of het verbod op cumulatie met bepaalde andere verstrekkingen en pseudocodes ;- 
+het vallen onder de bepalingen van art. 8, § 3 van de nomenclatuur ;- het meenemen in 
+de berekening van het dagplafond ;- de beroepsgroepen door wie ze mogen aangerekend worden 
+;- de documentatie in het verpleegdossier;- de rapportering aan de behandelende arts.Artikel 
+60 bepaalt dat er geen persoonlijk aandeel verschuldigd is door de rechthebbenden.Artikel 61 
+bepaalt dat er geen ereloonsupplementen mogen worden aangerekend.Hoofdstuk 2. Valorisatie van 
+verpleegkundige zorgen tijdens de COVID-19-maatregelen : kosten en gebruik van beschermingsmateriaalArtikel 
+62 beschrijft de motivatie voor het invoeren van een bijkomend bedrag dat kan worden toegevoegd aan bepaalde 
+geneeskundige verstrekkingen.Artikel 63 specifieert bij welke verstrekkingen en honoraria het 
+bijkomend bedrag kan worden aangerekend en de wijze waarop, en bepaalt de verschillende specifieke pseudocodes 
+die worden gecreëerd en hun toepassingsvoorwaarden.Het betreft de volgende pseudocodes :419252 
+Bijkomend bedrag in aanvulling op een basisverstrekking/forfait PP   W 0,554419274 Bijkomend 
+bedrag in aanvulling op een forfait A/forfait PA   W 0,637419296 Bijkomend bedrag in aanvulling 
+op een forfait B/forfait PB   W 0,776419311 Bijkomend bedrag in aanvulling op een forfait C/forfait 
+PC   W 1,109De toepassingsvoorwaarden voor deze nieuwe pseudocodes hebben betrekking op :- 
+de plaats van verstrekking ;- de dag van verstrekking : geen onderscheid tussen week, weekeind 
+en feestdag ;- het niet-meenemen in de berekening van het dagplafond ;Artikel 64 
+bepaalt dat er geen persoonlijk aandeel verschuldigd is door de rechthebbenden.TITEL 6. - LABO 
+TESTENEr werden akkoorden gesloten rond de maatregelen beschreven in dit besluit tijdens informeel 
+overleg op afstand met vertegenwoordigers van mutualiteiten, laboratoria, ziekenhuizen, Sciensano, FAGG 
+en de Commissie klinische biologie op 17 maart en 16 april 2020.Overwegende de verklaring van 
+de WHO omtrent de karakteristieken van het coronavirus COVID-19, in het bijzonder met betrekking tot 
+de besmettelijkheid, het sterfterisico en het aantal gevallen dat werd gedetecteerd;Overwegende 
+de strategische aanbeveling van de WHO voor labo tests voor COVID19 op 20 maart 2020 : Laboratory testing 
+strategy recommendations for COVID-19 ;Overwegende de richtlijnen van de Risk Management Group 
+inzake de opsporing van het SARS-CoV-2-virus;Overwegende de nota van Sciensano betreffende 
+het gebruik van immunologische testen in het kader van COVID-19 pandemie van 3 april 2020;Overwegende 
+de beperkte capaciteit en de schaarste van testmateriaal;Overwegende de belangen voor de volksgezondheid 
+om de beperkte testen aan te kunnen bieden aan de meest noodbehoevende groepen;Overwegende 
+de beperkingen van de testen en de bijhorende risico's;Artikel 65 geeft een overzicht weer 
+van alle maatregelen:1°  er is een terugbetaling van testen van klinische biologie met het 
+oog op het opsporen van het SARS-CoV-2 virus en met het oog op het opsporen van antigenen van het voornoemde 
+virus onder bepaalde voorwaarden;2°  er is geen persoonlijk aandeel voor deze testen;3° 
+ er is een verbod op ereloonsupplementen;4°  er is een verbod op het aanrekenen van testen 
+die niet voldoen aan de toepassingsvoorwaarden aan patiënten;5°  er is een tijdelijk verbod 
+op het aanrekenen van serologische testen.Artikel 66 legt de terugbetaling vast van testen 
+van klinische biologie met het oog op het opsporen van het SARS-CoV-2 virus en met het oog op het opsporen 
+van antigenen van het voornoemde virus. Deze testen waren nog niet specifiek vergoedbaar via de verplichte 
+ziekteverzekering.De verstrekkingen worden omschreven via pseudonomenclatuurcodes:554934-554945 
+- Opsporen van minstens het SARS-CoV-2-virus door middel van een techniek van moleculaire amplificatie554956-554960 
+- Opsporen van antigenen van het SARS-CoV-2-virus.Het tarief voor de verstrekking 554934-554945 
+bedraagt 46,81 euro, het tarief voor de verstrekking 554956-554960 bedraagt 16,72 euro.Deze 
+testen worden sterk aanbevolen in nationale en internationale richtlijnen, zoals de richtlijnen genomen 
+door de Risk Management Group, gepubliceerd op de website van de Sciensano en de strategische aanbeveling 
+van de WHO voor labo tests voor COVID-19 op 20 maart 2020 : Laboratory testing strategy recommendations 
+for COVID-19.De antigentesten hebben een lagere gevoeligheid dan de moleculaire testen, maar 
+leveren een snel resultaat op en kunnen helpen om de capaciteit tijdens de piek van de pandemie te vergroten.De 
+testen zullen vergoed worden wanneer ze gebruikt worden volgens de richtlijnen van de Risk Management 
+Group die wordt gepubliceerd op de website van Sciensano of in uitzonderlijke situaties van duidelijk 
+aantoonbaar klinische noodzaak bij risicopatiënten.Bovendien worden enkel testen vergoed die 
+uitgevoerd worden in erkende laboratoria die voldoen aan de voorwaarden dat Sciensano stelt inzake kwaliteitsbewaking 
+en die ook voldoen aan bepaalde biologische veiligheidsvoorschriften.Om de evolutie van de 
+pandemie in België te kunnen opvolgen moeten de resultaten van de testen verstuurd worden naar de dienst 
+Epidemiologie van Sciensano.Om de schaarse testen correct en rationeel te kunnen inzetten bij 
+de meest noodbehoevende groepen moet bij een staal een aanvraagformulier worden gevoegd, ondertekend 
+door een arts, dat tenminste de volgende informatie bevat met betrekking tot de klinische omstandigheden 
+waarin de test wordt aangevraagd:- identificatie patiënt en voorschrijver;- aangevraagde 
+test.- Of de test gebeurt binnen de testrichtlijnen die op het moment van de staalafname wordt 
+gepubliceerd op de website van Sciensano.- Of de test uitzonderlijk gebeurt bij duidelijk aantoonbare 
+klinische noodzaak bij risicopatiëntenEr wordt ook aanbevolen dat dit aanvraagformulier de 
+details van de klinische situatie omvat, of het om een zorgverlener of risicopatiënt gaat en de hospitalisatiestatus. 
+Dit moet een prioritering mogelijk maken indien er meer aanvragen zijn dan er beschikbare capaciteit 
+is.Om epidemiologische, wetenschappelijke en administratieve analyses mogelijk te maken moeten 
+de laboratoria de aanvraagformulieren in elektronische vorm bewaren.Voor de periode van 1 maart 
+tot en met 22 april kunnen de verstrekkingen 554934-554945 en 554956-554960 elk maximum 2 keer per rechthebbende 
+worden aangerekend.Vanaf 22 april 2020 werden de testrichtlijnen versoepeld en kan er veel 
+breder getest worden. Er kan bijvoorbeeld 1 tot 2 keer getest worden bij asymptomatische patiënten bij 
+elke opname of bij elke nieuwe bewoner van een residentiële collectiviteit. Door deze brede screening 
+zullen er verschillende situaties ontstaan waar er meer dan 2 testen gerechtvaardigd zijn en is het maximum 
+van 2 keer per rechthebbende niet meer houdbaar.Het honorarium voor de verstrekkingen 554934-554945 
+en 554956-554960 omvat alle kosten die verbonden zijn met de test: het afnamemateriaal, apparatuur, reagentia, 
+investeringskosten, kwaliteitsbewaking, personeelskosten, supervisie, beschermingsmateriaal, transportkosten, 
+administratieve kosten,...In de vergoedingsvoorwaarden die worden beschreven in artikel 66, 
+§ 3, zijn ook voorwaarden opgenomen i.v.m. de volgorde van uitvoeren, het herhalen en cumuleren 
+van de testen die een rationeel gebruik van de testen afdwingen.De verstrekkingen 554934-554945 
+en 554956-554960 kunnen niet worden aangerekend voor de collectieve screening van asymptomatische bewoners 
+van een residentiële collectiviteit (bv. woonzorgcentrum, verblijfscentrum voor personen met een handicap, 
+opvangcentra, gevangenis, ...). Deze testen zullen uitgevoerd en vergoed worden via het testplatform 
+georganiseerd door en met medewerking van de federale overheid en gefedereerde entiteiten.Artikel 
+67 bepaalt dat er geen persoonlijk aandeel is voor de rechthebbenden.Artikel 68 legt een verbod 
+op ereloonsupplementen op.Artikel 69 legt een verbod op voor het aanrekenen van testen aan 
+de verplichte ziekteverzekering of aan de patiënt indien die niet voldoen aan de toepassingsvoorwaarden 
+beschreven in artikel 66, § 3.Dit is noodzakelijk om de schaarse testen en de beperkte 
+capaciteit te kunnen inzetten bij de patiënten met de grootste risico's, om de kwaliteit van de testen 
+te bewaken en de patiënten te beschermen tegen onnodige medische kosten. Het betreft bijvoorbeeld testen 
+die buiten de testrichtlijnen gebeuren en zonder duidelijk aantoonbare klinische noodzaak bij risicopatiënten, 
+die in een laboratorium zijn uitgevoerd dat niet voorkomt op de lijst van Sciensano of die met testmateriaal 
+zijn uitgevoerd dat niet werd goedgekeurd door het FAGG of Sciensano.Artikel 70 legt een tijdelijk 
+verbod op voor het aanrekenen van serologische testen voor de opsporing van antilichamen tegen het SARS-COV-2-VIRUS, 
+voor de looptijd van de toepassing van het koninklijk besluit van 17 maart 2020 tot instelling van een 
+verbod op de terbeschikkingstelling, de ingebruikname en het gebruik van snelle tests voor het meten 
+of opsporen van antilichamen met betrekking tot het SARS-COV-2-VIRUS.De serologische testen 
+zullen in een volgende fase een belangrijke rol krijgen. Voorlopig zijn er nog geen duidelijke praktijkrichtlijnen 
+voor het gebruik ervan.Volgens het advies van de Risk Assessment Group over indicatiestelling 
+en gebruik van testen voor de diagnose en de opvolging van COVID-19 daterende van 20/04/2020 is er nog 
+geen validatie van de verschillende soorten serologische tests. De testen zullen nuttig zijn op diagnostisch, 
+arbeidsgeneeskundig en epidemiologisch vlak, het gebruik van deze serologische testen in deze domeinen 
+moet nog beter bepaald worden. Ook hier moet worden rekening gehouden met een schaarste van testen waardoor 
+het gebruik rationeel moet worden aangestuurd door de wetenschappelijk gefundeerde vergoedingsvoorwaarden.De 
+opsporing van antigenen van en antilichamen tegen het SARS-CoV-2-virus kunnen nog niet aangerekend worden 
+via de verstrekkingen 552016-552020 of 551655-551666 uit artikel 24 van de bijlage bij het koninklijk 
+besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen 
+inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen.Indien er richtlijnen 
+over het gebruik van de serologische testen gepubliceerd worden op de website van Sciensano kan dit verbod 
+worden ingetrokken en kan een terugbetaling door de Koning voorzien worden.De Koning zal de 
+doelgroepen en de vergoedingsvoorwaarden bepalen van de opsporingstesten die voorkomen op een lijst opgesteld 
+door Sciensano.De waarde van de verstrekking is op 9,60 euro bepaald.TITEL 7. - BESCHERMINGSMAATREGELENArtikel 
+71 voorziet dat de Koning - voor de categorieën van zorgverleners die Hij aanduidt en onder de voorwaarden 
+die Hij vaststelt - een tijdelijke financiële tussenkomst kan voorzien in de kosten van bijzondere beschermingsmaatregelen 
+en materialen, in het kader van de COVID 19 pandemie.Aan de rechthebbenden kunnen geen bijkomende 
+bedragen, van welke soort ook, worden aangerekend door de zorgverleners voor wat betreft de kosten van 
+bijzondere beschermingsmaatregelen en materialen, ongeacht het conventiestatuut.TITEL 8. - 
+SLOTBEPALINGENArtikel 72 voorziet dat het aan de Koning toekomt om de datum vast te stellen 
+waarop de tijdelijke maatregelen eindigen. In functie van onder andere de evolutie van de sanitaire situatie, 
+de algemene situatie, de maatregelen uitgevoerd ten gevolge van de fasen inzake opheffing van inperkingsmaatregelen 
+en de werkelijke beschikbaarheid van zorgverleners, zal het einde van de verschillende maatregelen in 
+de tijd moeten worden gespreid. De Koning zal dus voor elke maatregel de meest geschikte datum kunnen 
+vaststellen om deze op te heffen.Dit besluit zal moeten worden bekrachtigd bij wet overeenkomstig 
+artikel 7, tweede lid, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II). De maatregelen die worden 
+genomen op basis van dit besluit zullen een in de tijd beperkt effect hebben en beogen niet om de reglementering 
+definitief te wijzigen. Echter, de noodzakelijke opvolging voor die handelingen, en in het bijzonder 
+de facturatie en de betalingen, zullen nog enige tijd vereisen om te regulariseren nadat de laatste van 
+die handelingen zal gesteld zijn.Artikel 73 voorziet de opheffing van het koninklijk besluit 
+van 27 maart 2020 tot stopzetting van de kalenders die de termijnen bepalen voor de uitvoering van de 
+procedures tot wijziging van de lijst van de vergoedbare farmaceutische specialiteiten en van de lijst 
+van de vergoedbare implantaten en invasieve medische hulpmiddelen ten gevolge van de pandemie COVID-19. 
+Artikel 1 van de tekst in ontwerp heeft immers dezelfde doelstelling.Artikel 74 bepaalt de 
+inwerkingtreding van het koninklijk besluit. Om de belangen van de patiënten en de zorgverleners te waarborgen 
+wordt voorgesteld dat de maatregelen kunnen worden genomen met terugwerkende kracht.De bepalingen 
+van titel 3 hebben uitwerking met ingang van 14 maart 2020.De moleculaire testen zullen kunnen 
+aangerekend worden vanaf 1 maart 2020, de antigen testen zullen aangerekend kunnen worden vanaf 1 april 
+2020.De bepalingen betreffende de beschermingsmaatregelen hebben uitwerking met ingang van 
+4 mei 2020.De machtiging aan de Koning om een financiële tussenkomst te voorzien voor de door 
+Hem te bepalen handelingen die worden gesteld in een triage- en afnamecentrum, treedt in werking op een 
+door de Koning te bepalen datum.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Minister van Sociale Zaken en Volksgezondheid,M. 
+DE BLOCK13 MEI 2020. - Koninklijk besluit nr. 20 houdende tijdelijke maatregelen 
+in de strijd tegen de COVID-19 pandemie en ter verzekering van de continuïteit van zorg in de verplichte 
+verzekering voor geneeskundige verzorgingFILIP, Koning der Belgen, Aan allen die 
+nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II), de artikelen 5, § 1, 1°,  en 6;Gelet op de wet betreffende de verplichte 
+verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 5 mei 2020 ;Gelet op de akkoordbevinding 
+van de Minister van Begroting, gegeven op 8 mei 2020 ;Gelet op het artikel 8, § 2, 2°, 
+ van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, 
+is dit besluit vrijgesteld van een regelgevingsimpactanalyse;Gelet op de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (I), artikel 4, tweede lid;Overwegende de spoedeisendheid gemotiveerd 
+door de uitbraak van de pandemie coronavirus COVID-19 op het Belgisch grondgebied en de onmogelijkheid 
+om de gevestigde instanties formeel bijeen te roepen;Overwegende de substantiële toename van 
+het formeel en fysiek overleg dat nodig zou zijn in technische werkgroepen, raden en commissiesom de 
+kritieke situaties als gevolg van de verspreiding van het coronavirus COVID-19 aan te pakken;Overwegende 
+de noodzaak om alle maatregelen die om redenen van volksgezondheid en continuïteit van zorg zijn vastgesteld 
+en reeds zijn uitgevoerd, zo spoedig mogelijk te regulariseren alsook om de terugwerkende kracht ervan 
+te beperken en de rechtszekerheid te waarborgen voor alle actoren die dagelijks bij de bestrijding van 
+de pandemie betrokken zijn;Op de voordracht van de Minister van Sociale Zaken en Volksgezondheid 
+en op het advies van de in Raad vergaderde Ministers,Hebben Wij besloten en besluiten Wij :TITEL 
+1. - ALGEMENE BEPALINGENArtikel 1. Behoudens een tegengestelde vermelding in dit besluit of 
+een andere wettelijke of reglementaire bepaling aangenomen na 13 maart 2020, worden de termijnen die 
+zijn voorzien bij of krachtens de wet betreffende de verplichte verzekering voor geneeskundige verzorging 
+en uitkeringen, gecoördineerd op 14 juli 1994, met uitzondering van de termijnen voorzien bij of krachtens 
+afdeling XVI en afdeling XXII van hoofdstuk V van titel III, de titels IV, V, Vbis, hoofdstuk III van 
+titel VI en hoofdstukken II, III en IV van titel VII van de wet, geschorst vanaf 13 maart 2020 tot een 
+door de Koning op generieke wijze of voor sommige van die termijnen te bepalen datum.Art. 2. 
+De procedures die zijn ingesteld bij of krachtens de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen, gecoördineerd op 14 juli 1994, kunnen schriftelijk plaatsvinden of op afstand.Zo 
+nodig kunnen de adviezen worden ingewonnen binnen een kortere termijn dan de wettelijk of reglementair 
+voorgeschreven termijn of kunnen de maatregelen worden genomen zonder dat de wettelijk of reglementair 
+voorgeschreven voorstellen of adviezen voorafgaandelijk worden ingewonnen.TITRE 2. - ZUURSTOFCONCENTRATORENArt. 
+3. In hoofdstuk 2, afdeling 6, van deel 1 van de bijlage gevoegd bij het koninklijk besluit van 24 oktober 
+2002 tot vaststelling van de procedures, termijnen en voorwaarden waaronder de verplichte verzekering 
+voor geneeskundige verzorging en uitkeringen tegemoetkomt in de kosten van de verstrekkingen bedoeld 
+in artikel 34, eerste lid, 20°,  van de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen, gecoördineerd op 14 juli 1994, laatstelijk gewijzigd bij het koninklijk besluit 
+van 13 maart 2016, worden de volgende wijzigingen aangebracht:1°  In § 1, wordt de lijst 
+van de middelen aangevuld met de volgende middelen:VASTE ZUURSTOFCONCENTRATOR, DEVILBISS DRIVE 
+525 KS (SOS OXYGENE Benelux)VASTE ZUURSTOFCONCENTRATOR, PERFECTO2 INVACARE (SOS OXYGENE Benelux)VASTE 
+ZUURSTOFCONCENTRATOR, PLATINUM 9 INVACARE (SOS OXYGENE Benelux)2°  In § 2, wordt punt 
+A, 1°,  aangevuld als volgt:Installatie door de leverancier: 
+Cat. Code Benaming en verpakking Dénomination et conditionnement Prijs 
+Prix Vergoedingsbasis Base de remboursement I II A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, 
+DEVILBISS DRIVE 525 KS/OXYCONCENTRATEUR FIXE, DEVILBISS DRIVE 525 KS (SOS OXYGENE Benelux) 
+31,80 31,80 0,00 0,00 A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, PERFECTO2 
+INVACARE/OXYCONCENTRATEUR FIXE, PERFECTO2 INVACARE (SOS OXYGENE Benelux) 31,80 31,80 0,00 
+0,00 A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, PLATINUM 9 INVACARE/ OXYCONCENTRATEUR 
+FIXE, PLATINUM 9INVACARE (SOS OXYGENE Benelux) 31,80 31,80 0,00 0,00 
+3°  In § 2 wordt punt A, 2°,  a), aangevuld als volgt:Huurgeld en onderhoud 
+:  Cat. Code Benaming en verpakking 
+Dénomination et conditionnement Prijs Prix Vergoedingsbasis Base de remboursement I II 
+A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, DEVILBISS DRIVE 525 KS/OXYCONCENTRATEUR 
+FIXE, DEVILBISS DRIVE 525 KS (SOS OXYGENE Benelux) 90,10 90,10 0,00 0,00 A 
+
+ 
+ VASTE ZUURSTOFCONCENTRATOR, PERFECTO2 (INVACARE)/OXYCONCENTRATEUR FIXE, PERFECTO2,INVACARE (SOS 
+OXYGENE Benelux) 90,10 90,10 0,00 0,00 A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, 
+PLATINUM 9, INVACARE/OXYCONCENTRATEUR FIXE, PLATINUM 9 INVACARE (SOS OXYGENE Benelux) 90,10 90,10 
+0,00 0,00  Bevochtiger voor éénmalig gebruik:
+ Cat. Code Benaming en verpakking Dénomination et conditionnement 
+Prijs Prix Vergoedingsbasis Base de remboursement I II A 
+ 
+ VASTE 
+ZUURSTOFCONCENTRATOR, DEVILBISS DRIVE 525 KS/OXYCONCENTRATEUR FIXE, DEVILBISS DRIVE 525 KS 
+(SOS OXYGENE Benelux) 5,51 5,51 0,00 0,00 A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, 
+PERFECTO2 INVACARE/OXYCONCENTRATEUR FIXE, PERFECTO2,INVACARE (SOS OXYGENE Benelux) 5,51 5,51 
+0,00 0,00 A 
+ 
+ VASTE ZUURSTOFCONCENTRATOR, PLATINUM 9 INVACARE/OXYCONCENTRATEUR 
+FIXE PLATINUM 9, INVACARE (SOS OXYGENE Benelux) 5,51 5,51 0,00 0,00 
+TITEL 3. - CONTINUCKTEIT VAN ZORGHOOFDSTUK 1. - Algemene bepalingenArt. 
+4.  § 1. De verstrekkingen worden aangeduid met een rangnummer vóór de omschrijving van de verstrekking. 
+De omschrijving van elke verstrekking wordt gevolgd door de sleutelletter N voor de verstrekkingen van 
+de artsen of tandarts, C voor het toezicht door een arts-specialist op een in een ziekenhuis opgenomen 
+rechthebbende, K voor de technische verstrekkingen van artsen-specialisten, M voor de verstrekkingen 
+van kinesitherapeuten. § 2. Die sleutelletter komt vóór een coëfficiëntgetal dat de 
+betrekkelijke waarde van elke verstrekking aangeeft. § 3. De sleutelletter is een teken 
+waarvan de waarde in euro als volgt is bepaald:- voor de verstrekking 444710 - 444721 opgenomen 
+in artikel 5 van dit besluit wordt de waarde van de sleutelletter K vastgesteld op 1,290865 EUR;- 
+voor de verstrekkingen opgenomen in artikel 6 van dit besluit wordt de waarde van de sleutelletter N 
+vastgesteld op 0,774166 EUR ;- voor de verstrekkingen opgenomen in artikel 6 van dit besluit 
+wordt de waarde van de sleutelletter C vastgesteld op 1,4 EUR ;- voor de verstrekkingen opgenomen 
+in de artikelen 8, 9 en 10 van dit besluit wordt de waarde van N vastgesteld op 2 EUR- voor 
+de verstrekkingen opgenomen in de artikel 12 van dit besluit wordt de waarde van N vastgesteld op 4 EUR- 
+voor de verstrekking 518011 opgenomen in artikel 13 van dit besluit wordt de waarde van de sleutelletter 
+M vastgesteld op 0,930233 EUR ;- voor de verstrekking 518033 opgenomen in artikel 13 van dit 
+besluit wordt de waarde van de sleutelletter M vastgesteld op 0,925926 EUR. § 4. Op 
+elke nota, opgemaakt ter staving van het verrichten van één of andere verstrekking, moet het in § 
+1 bedoelde rangnummer vermeld worden. § 5. Voor de toepassing van dit besluit wordt 
+verstaan onder:1°  "de nomenclatuur" in de artikelen 4 tot en met 18 van dit besluit: de nomenclatuur 
+van de geneeskundige verstrekkingen zoals bedoeld in de bijlage bij het koninklijk besluit van 14 september 
+1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen inzake verplichte verzekering 
+voor geneeskundige verzorging en uitkeringen;2°  "de nomenclatuur" in de artikelen 19 tot en 
+met 28 van dit besluit: koninklijk besluit van 10 januari 1991 tot vaststelling van de nomenclatuur van 
+de revalidatieverstrekkingen bedoeld in artikel 23, § 2, tweede lid, van de wet betreffende de 
+verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, tot 
+vaststelling van de honoraria en prijzen van die verstrekkingen en tot vaststelling van het bedrag van 
+de verzekeringstegemoetkoming in die honoraria en prijzen.HOOFDSTUK 2. - Verstrekkingen in 
+een ziekenhuisArt. 5. Verkorte bestraling bij borstkankerpatiënten:444710-444721Borstbestraling 
+via hypofractionering (5 fracties) met gebruik van intensiteitsmodulatie (IMRT) in kader van COVID-19 
+   K 2000.In tegenstelling tot de bepalingen van artikel 19, § 1, categorie 4, van de 
+nomenclatuur, is de verplichting om minstens 15 fracties volgens IMRT toe te dienen niet van toepassing 
+op de verstrekking 444710-444721.HOOFDSTUK 3. - Bijzonder toezicht op patiënten met COVID-19Art. 
+6.  § 1. Identificatie van de COVID-19-patiënt:793800COVID-19-patiënt   N 
+0De verstrekking 793800 wordt geattesteerd voor alle gehospitaliseerde COVID-19-patiënten.Onder 
+COVID-19-patiënt wordt verstaan:- een persoon met laboratoriumbevestiging van COVID-19 infectieof- 
+een persoon bij wie de laboratoriumtest voor COVID-19 negatief is, maar bij wie de diagnose van COVID-19 
+wordt gesteld op basis van een suggestieve klinische presentatie EN een compatibele CT thorax. 
+§ 2. Verstrekkingen die de bekwaming vereisen van een arts-specialist zoals bepaald in artikel 
+13, § 1, B, van de nomenclatuur:211960Metingen van hartdebiet door thermodilutiecurven 
+of kleurstofdilutiecurven, vanaf de eerste dag voor COVID-19-patiënten, per dag   N 92De verstrekking 
+211960 is niet cumuleerbaar met de verstrekking 211326 van artikel 13 van de nomenclatuur.211982Toezicht 
+op de extracorporele membraanoxygenatie (ECMO) buiten de heelkundige bewerkingen, vanaf de tweede dag 
+voor COVID-19-patiënten, per dag   N 168De verstrekking 211982 is niet cumuleerbaar met de 
+verstrekking 211385 van artikel 13 van de nomenclatuur.De toepassingsregels voor de verstrekking 
+211982 zijn dezelfde als deze voor de verstrekking 211363 opgenomen in artikel 13 van de nomenclatuur.De 
+verstrekkingen 211960 en 211982 kunnen enkel aangerekend worden voor COVID-19-patiënten opgenomen op 
+een erkende functie intensieve zorg alsook op de bijkomende bedden voor intensieve zorg die dagelijks 
+aan de FOD Volksgezondheid worden doorgegeven.De bepaling van artikel 13, § 2, 10°, 
+ van de nomenclatuur wordt opgeschort.De verstrekkingen van artikel 13, § 1, B, van 
+de nomenclatuur en de verstrekkingen 211960 en 211982 zijn eveneens aanrekenbaar op de bijkomende bedden 
+intensieve zorg (zonder dienstcode 49) die dagelijks aan de FOD Volksgezondheid worden doorgegeven. 
+§ 3. Verstrekkingen die de bekwaming vereisen van een arts-specialist zoals bepaald in artikel 
+13, § 1, A, van de nomenclatuur:211061Installatie van en toezicht op gecontroleerde 
+of geassisteerde continue kunstmatige beademing, onder tracheale intubatie of tracheotomie buiten de 
+narcose, inbegrepen de capnometrie, vanaf de derde dag voor COVID-19-patiënten, per dag   N 168De 
+toepassingsregels voor verstrekking 211061 zijn dezelfde als deze voor de verstrekking 211046 van artikel 
+13 van de nomenclatuur.212063Continu toezicht op de vitale en niet-vitale functies 
+met een waaktoestel dat op zijn minst bestendig het elektrocardiogram volgt, inclusief de eventuele registraties, 
+buiten de narcoses, de heelkundige en verloskundige bewerkingen en buiten de functionele harttests, vanaf 
+de derde dag voor COVID-19-patiënten, per dag   N 30De toepassingsregels voor verstrekking 
+212063 zijn dezelfde als deze voor de verstrekking 212041 van artikel 13 van de nomenclatuur.214060Continu 
+toezicht op de hartfunctie (met of zonder toezicht op andere vitale parameters) met een waaktoestel dat, 
+benevens het elektrocardiogram, op zijn minst bestendig de arteriële druk door middel van een intra-arteriële 
+katheter volgt (buiten de narcoses, de heelkundige en verloskundige bewerkingen en buiten de functionele 
+harttests), inclusief de eventuele registraties, vanaf de derde dag voor COVID-19-patiënten, per dag 
+  N 85De toepassingsregels voor verstrekking 214060 zijn dezelfde als deze voor de verstrekking 
+214045 van artikel 13 van de nomenclatuur.214141Metingen van hartdebiet door thermodilutiecurven 
+of kleurstofdilutiecurven en/of continue monitoring van de intracardiale of pulmonale druk door middel 
+van een intracardiale katheter, vanaf de derde dag voor COVID-19-patiënten, per dag   N 92Het 
+honorarium voor de verstrekking 214141 mag niet worden samengevoegd met het honorarium voor de verstrekking 
+475075 - 475086 van artikel 11 van de nomenclatuur.De verstrekkingen 211061, 212063, 214060 
+en 214141 kunnen enkel aangerekend worden op de niet-intensieve zorg bedden die specifiek voorbehouden 
+zijn voor COVID-19-patiënten. § 4. Verstrekkingen voor toezicht op een in een ziekenhuis 
+opgenomen COVID-19-patiënt:597984Bijkomend honorarium voor toezicht op de in een 
+ziekenhuis opgenomen rechthebbende COVID-19-patiënt, per dag   C 20De verstrekking 597984 kan 
+aangerekend worden door een arts-specialist.De verstrekking 597984 kan per patiënt en per dag 
+slechts één keer gecumuleerd worden met het gebruikelijke honorarium voor toezicht door een andere arts-specialist 
+dan de arts-specialist die het gebruikelijke honorarium voor toezicht aanrekent.De verstrekking 
+597984 kan worden aangerekend voor een COVID-19-patiënt opgenomen op een erkende functie intensieve zorg, 
+op de bijkomende bedden voor intensieve zorg die dagelijks aan de FOD Volksgezondheid worden doorgegeven 
+of op een COVID-19-afdeling. § 5. De in de paragrafen 1, 2, 3 en 4 bedoelde verstrekkingen 
+kunnen enkel worden aangerekend in algemene ziekenhuizen (acute algemene ziekenhuizen, universitaire 
+ziekenhuizen en ziekenhuizen met een universitair karakter).HOOFDSTUK 4. - Zorg op afstandArt. 
+7. De volgende basisprincipes gelden voor de verstrekkingen op afstand opgenomen in de artikelen 8 tot 
+en met 13, 16, 17 en 19 tot en met 28:1°  de patiënt of zijn wettelijke vertegenwoordiger geeft 
+zijn geïnformeerde toestemming voor de verstrekking per telefonische of videocommunicatie;2° 
+ het communicatiemiddel bevat verplicht een end-to-end encryptering;3°  de patiënt verkeert 
+in de mogelijkheid om deze verstrekking zonder fysieke aanwezigheid te volgen;4°  de verstrekking 
+kadert in continuïteit van zorg met uitzondering van de verstrekkingen m.b.t. de triage;5° 
+ de kwaliteit van zorg wordt gegarandeerd door in bepaalde gevallen een beperking op het aantal verstrekkingen 
+per zorgverlener te voorzien.Afdeling 1. - Specifieke zorg op afstandArt. 8. Zorg 
+door een arts § 1. Triage:101990Advies met het oog op triage COVID-19 
+  N 10101835Advies met het oog op triage COVID-19 tijdens de georganiseerde huisartsenwachtdienst 
+  N° 10Onder advies met oog op triage COVID-19 verstaat men een telefonische triage na volledige 
+anamnese van een patiënt met symptomen van een mogelijke besmetting met het SARS-CoV-2 virus, in een 
+bijzondere situatie waarbij maatregelen zich opdringen op het gebied van volksgezondheid om de risico's 
+op verspreiding in te perken.De arts moet zijn patiënt duidelijk kunnen identificeren en noteert 
+in het dossier van de patiënt het telefonisch contact, de raadgevingen die werden verstrekt en de aard 
+van de documenten die werden afgeleverd. § 2. Continuïteit van zorg :101135Advies 
+met het oog op continuïteit van zorg   N 10Onder advies met oog op continuïteit van zorg verstaat 
+men een telefonische anamnese van een patiënt in behandeling bij de arts, die om gemotiveerde redenen 
+de arts niet in persoon kan ontmoeten gelet op de adviezen in verband met de COVID-19 pandemie.De 
+arts moet zijn patiënt duidelijk kunnen identificeren en noteert in het dossier van de patiënt het telefonisch 
+contact, de gemotiveerde reden die noopt tot dit advies, de raadgevingen die werden verstrekt, de eventuele 
+aanpassingen aan het behandelingsschema en de aard van de documenten die werden afgeleverd. 
+§ 3. Toepassingsregels :De verstrekkingen 101990, 101835 en 101135 gebeuren zonder enig 
+fysiek onderzoek van de zieke. De arts ontmoet de patiënt niet in persoon.De verstrekkingen 
+101990, 101835 en 101135 omvatten het opmaken en ondertekenen van getuigschriften, farmaceutische voorschriften 
+en allerlei bescheiden.De verstrekkingen 101990 en 101135 kunnen aangerekend worden door elke 
+arts.De verstrekking 101835 kan enkel aangerekend worden door een arts tijdens de georganiseerde 
+huisartsenwachtdienst.De verstrekkingen 101990, 101835 en 101135 mogen niet samengevoegd worden 
+met het honorarium voor raadpleging, bezoek of advies bedoeld in artikel 2 van nomenclatuur.De 
+verstrekkingen 101990, 101835 en 101135 mogen niet samengevoegd worden op dezelfde dag door dezelfde 
+arts.De verstrekking 101135 mag per patiënt per arts maximum 5 maal per periode van 30 dagen 
+worden aangerekend.De verstrekkingen 101990 en 101835 kunnen slechts eenmaal per patiënt worden 
+aangerekend.Voor de medische huizen zijn de telefonische adviezen 101990 en 101135 vervat in 
+het forfaitair bedrag voor huisartsgeneeskunde. Deze codes kunnen dus niet aangerekend worden voor ingeschreven 
+patiënten. Deze codes kunnen daarentegen wel aangerekend worden voor de telefonische adviezen voor niet-ingeschreven 
+patiënten.Tijdens de huisartsenwachtdienst kunnen de artsen, werkzaam in de medische huizen, 
+eveneens de code 101835 gebruiken voor patiënten die niet zijn ingeschreven in een medisch huis.Voor 
+patiënten, ingeschreven bij een medisch huis die tijdens de georganiseerde huisartsenwachtdienst telefonisch 
+advies krijgen van een arts die niet werkt in een medisch huis, zal het uitbetaalde honorarium, niet 
+worden gerecupereerd bij het medisch huis waar de patiënt is ingeschreven.Art. 9. Zorg door 
+een psychiater § 1. Advies :101872Advies met het oog op een eventuele 
+dringende doorverwijzing van de patiënt naar een mobiel 2a-team of een psychiatrische spoeddienst   N 
+10De verstrekking 101872 vereist de telefonische anamnese van de patiënt.De verstrekking 
+101872 kan slechts eenmaal per patiënt worden aangerekend. § 2. Volwassenen-, kinder- 
+en jeugdpsychiatrie :101894Zitting met een minimum duur van 30 minuten, zonder fysieke 
+aanwezigheid, met het oog op een psychiatrische diagnose of een psychotherapeutische behandeling   N 
+22,5De verstrekking 101894 impliceert een telefonische of videocommunicatie tussen de arts 
+en de patiënt.101916Zitting met een minimum duur van 45 minuten, zonder fysieke aanwezigheid, 
+met het oog op het verzetten van de psychotherapeutische behandeling die voor de overheidsmaatregelen 
+gestart waren   N 35De verstrekking 101916 impliceert een videocommunicatie tussen de arts 
+en de patiënt. § 3. Kinder- en jeugdpsychiatrie :101931Zitting met 
+een minimumduur van 60 minuten met het oog op een mediatietherapie van een kind of jongere van minder 
+dan 18 jaar met deelname van één of meerdere volwassenen die instaan voor de opvoeding en de dagelijkse 
+begeleiding, zonder fysieke aanwezigheid   N 48De verstrekking 101931 impliceert een videocommunicatie 
+tussen de arts en de deelnemers.De verstrekking 101931 vereist steeds de deelname van hogergenoemde 
+volwassene(n), al dan niet samen met het kind.Voor de psychotherapeutische behandeling met 
+enkel het kind, zonder fysieke aanwezigheid, wordt de verstrekking 101916 geattesteerd.101953Overleg 
+zonder fysieke aanwezigheid tussen de arts en de psycholoog of orthopedagoog betreffende de ambulante 
+behandeling van een patiënt jonger dan 18 jaar   N 26De verstrekking 101953 impliceert een 
+telefonische of videocommunicatie tussen de arts en de psycholoog of orthopedagoog met een minimumduur 
+van 30 minuten.Vóór deze verstrekking heeft de arts de rol van de psycholoog of van de orthopedagoog 
+verduidelijkt in een behandelingsplan dat werd opgesteld tijdens een uitgebreide psychiatrische evaluatie 
+(109351,109410 of 101975), een mediatietherapie (109336, 109675 of 101931) of een ziekenhuisopname in 
+een dienst voor kinderneuropsychiatrie (K-dienst).Een verslag wordt opgemaakt. De ondertekening 
+door de deelnemers is niet vereist.De verstrekking 101953 wordt meegeteld in de beperking van 
+maximaal 5 overleggesprekken per jaar voor de verstrekkingen 109373 en 109395.101975Zitting 
+met een minimumduur van 120 minuten met het oog op een uitgebreide en individuele psychiatrische evaluatie 
+van een kind of jongere van minder dan 18 jaar, zonder fysieke aanwezigheid, op voorschrift van de behandelend 
+arts, met dossieropmaak en verslag   N 100De verstrekking 101975 omvat, per zitting, minstens 
+één videocommunicatie van minimum 60 minuten met de patiënt en eventueel de verantwoordelijke(n) voor 
+diens opvoeding en dagelijkse begeleiding. De verstrekking 101975 omvat ook de eventuele contacten voor 
+heteroanamnese van en instructies aan derden (huisarts, school, opvangcentrum) en de supervisie en gezamenlijke 
+interpretatie van de nodige psychologische testonderzoeken.De verstrekking 101975 dekt de opmaak 
+van een gedetailleerd behandelingsplan en de inleiding tot de behandeling.De verstrekking 101975 
+kan slechts uitgevoerd worden op voorschrift van de behandelend arts.De eventuele herhaling 
+van deze volledige kinder- en jeugdpsychiatrische evaluatie vereist opnieuw een voorschrift van de behandelend 
+arts.De verstrekking 101975 wordt meegeteld in de beperking van maximum zeven aangerekende 
+verstrekkingen 109351 en 109410 per volledige evaluatie. § 4. Algemene toepassingsregels 
+:De verstrekkingen 101872, 101894, 101916, 101931, 101953 en 101975 kunnen enkel worden aangerekend 
+door arts-specialisten in de psychiatrie en arts-specialisten in de neuropsychiatrie.Teneinde 
+de kwaliteit van de verstrekkingen te garanderen wordt de maximale dagelijkse duur voor het geheel van 
+die verstrekkingen vastgesteld op 8 uren per arts-specialist.De verstrekkingen 101894, 101916, 
+101931, 101953 en 101975 zijn onderling niet cumuleerbaar.De verstrekkingen 101894, 101916, 
+101931, 101953 en 101975 zijn niet cumuleerbaar met de verstrekkingen van de nomenclatuur, uitgevoerd 
+dezelfde dag door dezelfde of een andere arts-specialist in de psychiatrie of arts-specialist in de neuropsychiatrie.Voor 
+wat de maatregelen inzake de gedeeltelijke dag- of nachtopnames in psychiatrische ziekenhuisafdelingen 
+betreft met inbegrip van de aanpassingen naar aanleiding van COVID-19 pandemie, kunnen de verstrekkingen 
+101872, 101894, 101916, 101931, 101953 en 101975 niet worden aangerekend, met uitzondering van de verstrekking 
+101916 die enkel kan worden aangerekend, buiten de normale aanwezigheidsuren in het ziekenhuis, voor 
+patiënten in gedeeltelijke nachtopname van wie een regelmatige psychotherapeutische behandeling buiten 
+aanwezigheidsuren in het ziekenhuis aan de gang was vóór 14 maart 2020.Art. 10. Zorg door een 
+neuropediater:101791Zitting van minstens 45 minuten, zonder fysieke aanwezigheid, 
+voor de follow-up van kinderen, adolescenten of jongvolwassenen jonger dan 23 jaar met neurologische 
+ontwikkelingsstoornissen (autisme-spectrumstoornis, aandachtsstoornis of hyperactiviteit) of verstandelijke 
+beperking die gepaard gaan met ernstige gedragsstoornissen   N 25De verstrekking 101791 omvat:1° 
+ een verplicht contact via telefoon of videocommunicatie met de patiënt met begeleiding en ondersteuning 
+van de volwassenen die voor de opvoeding instaan;2°  de eventuele aanpassing van de behandeling;3° 
+ een schriftelijk verslag dat verplicht aan de behandelende arts moet worden bezorgd.De verstrekking 
+101791 impliceert een telefonische of videocommunicatie tussen de arts en de deelnemers.De 
+verstrekking 101791 kan enkel worden aangerekend door arts-specialisten in de neurologie of pediatrie 
+die houder zijn van de bijzondere beroepstitel in de kinderneurologie.Om de kwaliteit van de 
+verstrekkingen te garanderen is de maximale dagelijkse duur van al die verstrekkingen per arts-specialist 
+in de neurologie of pediatrie die houder zijn van de bijzondere beroepstitel in de kinderneurologie. 
+vastgesteld op 8 uren.De verstrekking 101791 kan niet gecumuleerd met de verstrekking 101135 
+alsook met de raadplegingen bedoeld in artikel 2 van de bijlage bij het koninklijk besluit van 14 september 
+1984 tot vaststelling van de nomenclatuur, die dezelfde dag zijn uitgevoerd door eender welke arts-specialist 
+in de neurologie of pediatrie die houder zijn van de bijzondere beroepstitel in de kinderneurologie.Art. 
+11. In afwijking van de bepaling "De verstrekkingen 350372-350383, 350276-350280, 350291-350302, 350394-350405 
+en 350416-350420 vereisen de gelijktijdige fysieke aanwezigheid van de verschillende deelnemende artsen." 
+van artikel 11 van de nomenclatuur mag het multidisciplinair oncologisch consult worden georganiseerd 
+via videocommunicatie.Art. 12. Tandheelkundige zorg § 1. Telefonisch advies 
+:389012Telefonisch advies met eventuele doorverwijzing van een patiënt met een gemelde 
+zorgvraag   N 5389034Telefonisch advies met eventuele doorverwijzing van een patiënt 
+met een gemelde zorgvraag, in het kader van een erkende georganiseerde wachtdienst   N 5Onder 
+telefonisch advies verstaat men een telefonische anamnese met bijhorend advies en een eventueel geneesmiddelenvoorschrift 
+en de eventuele doorverwijzing. De tandarts noteert een beknopt verslag van het contact met de relevante 
+elementen in het patiëntendossier. Bij doorverwijzing wordt de practicus naar wie verwezen wordt geïnformeerd 
+over de resultaten van het advies en de relevante gegevens.De patiënt belt de tandarts met 
+een acute zorgvraag of voor bijkomende opvolging van hun tandheelkundige behandeling. De patiënt kan 
+om gemotiveerde redenen de tandarts niet in persoon ontmoeten gelet op de adviezen in verband met de 
+COVID-19 pandemie.Er wordt geen onderscheid gemaakt tussen patiënten tot de 18de verjaardag 
+en na de 18de verjaardag. § 2. Toepassingsvoorwaarden :De verstrekkingen 389012 
+en 389034 kunnen worden verleend door alle tandartsen met een RIZIV-nummer.De verstrekkingen 
+389012 en 389034 mogen per patiënt en per tandarts slechts eenmaal per periode van 7 kalenderdagen worden 
+aangerekend.Per patiënt kan dezelfde tandarts op dezelfde dag de verstrekkingen 389012 en 389034 
+niet cumuleren met enige verstrekking uit artikel 5 van de nomenclatuur.Per dag kan dezelfde 
+tandarts maximum 10 keer de verstrekking 389012 aanrekenen.Op de dagen waarop een tandarts 
+werkt in het kader van een erkende georganiseerde wachtdienst kan die de verstrekking 389034 maximum 
+20 keer per dag aanrekenen.Op dezelfde dag kunnen de verstrekkingen 389012 en 389034 niet worden 
+gecumuleerd.De verstrekkingen 389012 en 389034 zijn niet van toepassing bij gehospitaliseerde 
+patiënten.Het mondzorgtraject is niet van toepassing. De verstrekkingen 389012 en 389034 tellen 
+niet als het vereiste contact in het jaar 2020 voor het bedrag van de tegemoetkomingen in het jaar 2021.De 
+verstrekkingen 389012 en 389034 hebben geen invloed op de P-waarden.Art. 13. Kinesitherapeutische 
+zorg § 1. Weekforfait:518011Verzorging op afstand via videocommunicatie 
+(weekforfait)   M 43518033Verzorging op afstand via telefonisch communicatie (weekforfait) 
+  M 27Deze verstrekkingen omvatten minstens :1°  de evaluatie van de toestand van 
+de patiënt via een anamnese;2°  de opmaak van een individueel oefenprogramma en de timing van 
+activiteiten van het dagelijks leven (ADL);3°  2 contacten per week waarbij de patiënt gestimuleerd 
+wordt zijn oefenprogramma te volgen;4°  het opvolgen en bijsturen van het oefenprogramma van 
+de patiënt;5°  het registreren van nuttige parameters (mobiliteit, ...). § 
+2. Toepassingsvoorwaarden :De verstrekkingen 518011 en 518033 kunnen worden verleend door alle 
+kinesitherapeuten met een RIZIV-nummer.De verstrekking 518011 kan enkel worden aangerekend 
+indien tijdens een week minstens twee videocommunicaties hebben plaatsgehad tussen de kinesitherapeut 
+en de patiënt waarvan één met een minimumduur van 20 minuten.De verstrekking 518033 kan enkel 
+worden aangerekend indien tijdens een week minstens twee telefonische communicaties hebben plaatsgehad 
+tussen de kinesitherapeut en de patiënt.De verstrekkingen 518011 en 518033 zijn te beschouwen 
+als een forfaitaire vergoeding per week en per patiënt.Onder "week" wordt verstaan: de periode 
+van maandag tot en met zondag.Per patiënt en per week kan slechts één van de verstrekkingen 
+518011 of 518033 worden aangerekend.De kinesitherapeut volgt de patiënt in zijn revalidatietraject 
+en stimuleert hem om zijn zorgprotocol te volgen.De kinesitherapeut noteert in het patiëntendossier 
+de contactmomenten, de duurtijd en de wijze waarop die zijn verlopen, met de vermelding van het voorgestelde 
+revalidatieprotocol en de evolutie van de patiënt alsook van de gebruikte applicatie.Deze kinesitherapeutische 
+verzorging moet voorgeschreven zijn door een bevoegde zorgverlener. Er is geen specifieke verwijzing 
+vereist op het voorschrift voor een verzorging op afstand.De verstrekkingen 518011 en 518033 
+zijn niet van toepassing bij gehospitaliseerde patiënten.De verstrekkingen 518011 en 518033 
+hebben geen invloed op de "tellers" binnen de nomenclatuur, maar kunnen worden gemonitord per verstrekker.De 
+verstrekkingen 518011 en 518033 tellen niet mee voor het aantal voorgeschreven verstrekkingen op het 
+klassieke kinesitherapievoorschrift.Voor de week waarin dergelijke verstrekkingen worden aangerekend 
+kunnen er geen verstrekkingen van artikel 7 van de nomenclatuur worden aangerekend (o.a. schriftelijk 
+verslag, hands-on verstrekkingen, enz.).Art. 14. Er is geen persoonlijk aandeel verschuldigd 
+door de rechthebbenden voor de verstrekkingen bedoeld in de artikelen 8 tot en met 10, 12 en 13.Art. 
+15. Er zijn geen supplementen toegelaten voor de verstrekkingen bedoeld in de artikelen 8 tot en met 
+10, 12 en 13.Afdeling 2. - Mogelijkheid tot zorg op afstandArt. 16. Zorg van logopedieAlle 
+verstrekkingen uit artikel 36 van de nomenclatuur mogen worden verleend via videocommunicatie.Voor 
+elke specifieke zorgsituatie moet de logopedist steeds nagaan of een verstrekking op afstand verantwoord 
+is.Voor de jongere onder de 18 jaar moet de logopedist voorafgaand de toestemming per e-mail 
+hebben van de ouder(s) (of wettelijke vertegenwoordiger) dat de jongere logopedie op afstand volgt.De 
+verstrekkingen via videocommunicatie kunnen worden verleend door alle logopedisten met een RIZIV-nummer.Om 
+een verstrekking zonder fysieke aanwezigheid te kunnen aanrekenen moet de pseudocode 792433 (betrekkelijke 
+verstrekking voor zorg op afstand) toegevoegd worden aan de code voorzien in artikel 36 van de nomenclatuur.De 
+bestaande beperkingen van artikel 36 van de nomenclatuur blijven van toepassing: 1 zitting per dag is 
+terugbetaald.Art. 17. Pre- en postnatale zorgAlle verstrekkingen uit artikel 9, a), 
+van de nomenclatuur mogen worden verleend via telefonische of videocommunicatie, met uitzondering van 
+de verstrekkingen waarbij de fysieke aanwezigheid van de vroedvrouw onontbeerlijk is, zoals onder andere 
+de injecties, het toezicht en de hulp aan de parturiënte tijdens de arbeidsfase, de verlossingen, het 
+postnataal toezicht op de dag van de verlossing, enz.Voor elke specifieke zorgsituatie moet 
+de vroedvrouw steeds nagaan of een begeleiding op afstand verantwoord is.De verstrekkingen 
+via telefonische of videocommunicatie kunnen worden verleend door alle vroedvrouwen met een RIZIV-nummer.Om 
+een verstrekking zonder fysieke aanwezigheid te kunnen aanrekenen moet de pseudocode 792433 (betrekkelijke 
+verstrekking voor zorg op afstand) toegevoegd worden aan de code voorzien in artikel 9, a), van de nomenclatuur.De 
+bepalingen in de nomenclatuur betreffende de minimale duur van de verstrekkingen, de cumulatie van verstrekkingen 
+en het dossier van de rechthebbende blijven van toepassing indien de verstrekking wordt uitgevoerd via 
+telefonische of videocommunicatie.De collectieve voorbereiding op de bevalling blijft mogelijk 
+indien gebruikt wordt gemaakt van de technologie van een interactieve "webinar". De deelnemers kunnen 
+de sessie rechtstreeks thuis volgen, de vroedvrouw zien en horen en indien gewenst vragen stellen.Art. 
+18. Het honorarium en het bedrag van de verzekeringstegemoetkoming voor de verstrekkingen bedoeld in 
+de artikelen 16 en 17 zijn dezelfde als voor de verstrekkingen met fysieke aanwezigheid van de nomenclatuur.Afdeling 
+3. - Zorg op afstand inzake revalidatieverstrekkingenArt. 19. Gelet op de adviezen in verband 
+met de COVID-19 pandemie worden afwijkingen voorzien op de bepalingen voorzien in het koninklijk besluit 
+van 10 januari 1991 tot vaststelling van de nomenclatuur van de revalidatieverstrekkingen bedoeld in 
+artikel 23, § 2, tweede lid, van de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen, gecoördineerd op 14 juli 1994, tot vaststelling van de honoraria en prijzen 
+van die verstrekkingen en tot vaststelling van het bedrag van de verzekeringstegemoetkoming in die honoraria 
+en prijzen voor de periode vanaf 14 maart 2020.Art. 20. DiëtetiekverstrekkingenPer 
+patiënt die voor de verstrekkingen 794010 of 771131 in aanmerking komt, kunnen maximum 2 van deze verstrekkingen 
+via telefoon of videocommunicatie worden verricht, onder de volgende voorwaarden:1°  er wordt 
+voldaan aan alle voorwaarden die op de verstrekkingen 794010 en 771131 van toepassing zijn;2° 
+ de minimum-duur van de verstrekkingen via telefoon of videocommunicatie blijft 30 minuten;3° 
+ het honorarium en het bedrag van de verzekeringstegemoetkoming is voor de verstrekkingen via telefoon 
+of videocommunicatie hetzelfde als voor de verstrekkingen 794010 en 771131;4°  de diëtist kan 
+voor eenzelfde patiënt maximum 2 verstrekkingen via telefoon of videocommunicatie realiseren, en maximum 
+1 per dag per patiënt;5°  de verstrekkingen via telefoon of videocommunicatie tellen mee voor 
+het maximum aantal verstrekkingen 794010 en 771131 waarin de verzekering tussenkomt voor een patiënt;6° 
+ de diëtist spreekt met de patiënt vooraf af om verstrekkingen via de telefoon of via videocommunicatie 
+te verrichten;7°  de diëtist informeert de patiënt vooraf over het persoonlijk aandeel van 
+de rechthebbende in het honorarium voor deze verstrekkingen;8°  de diëtist registreert de verstrekking 
+via telefoon of videocommunicatie en de duur ervan in het patiëntendossier dat hij per patiënt bijhoudt;9° 
+ op het getuigschrift van verzorging attesteert de diëtist de verstrekking via telefoon of videocommunicatie 
+door de nomenclatuurcode te vermelden die op deze verstrekking van toepassing is (794010 of 771131), 
+samen met de bijkomende code 792433. De pseudocode 792433 wordt rechts naast de gebruikelijke nomenclatuurcode 
+vermeld. Indien de diëtist elektronisch factureert, vermeldt hij de bijkomende pseudocode 792433 in de 
+zone "betrekkelijke verstrekking" van het facturatiebestand.Art. 21. Verstrekkingen inzake 
+educatie van diabetespatiënten § 1. Per patiënt die voor de verstrekkingen 794253, 794275, 
+794290 en/of 794312 in aanmerking komt, kunnen maximum 2 van deze verstrekkingen via telefoon of videocommunicatie 
+worden verricht, onder de volgende voorwaarden:1°  het maximum aantal van 2 verstrekkingen 
+via telefoon of videocommunicatie geldt per patiënt voor het totaal van alle verstrekkingen 794253, 794275, 
+794290 en 794312 samen;2°  behalve de voorwaarde betreffende de ruimte waar de verstrekking 
+moet worden gerealiseerd, wordt er voldaan aan alle voorwaarden die op de gerealiseerde verstrekking 
+van toepassing zijn;3°  de minimum-duur van de verstrekkingen via telefoon of videocommunicatie 
+blijft 30 minuten;4°  het honorarium en het bedrag van de verzekeringstegemoetkoming is voor 
+de verstrekkingen via telefoon of videocommunicatie hetzelfde als voor de gerealiseerde verstrekking 
+zonder telefoon of videocommunicatie;5°  de verstrekker kan voor eenzelfde patiënt maximum 
+2 verstrekkingen via telefoon of videocommunicatie realiseren, en maximum 1 per dag per patiënt;6° 
+ de verstrekkingen via telefoon of videocommunicatie tellen mee voor het maximum aantal verstrekkingen 
+794253, 794275, 794290, 794312, 794334, 794356, 794371 en 794393 waarin de verzekering tussenkomt voor 
+een patiënt;7°  de verstrekker spreekt met de patiënt vooraf af om verstrekkingen via de telefoon 
+of via videocommunicatie te verrichten;8°  de verstrekker registreert de verstrekking via telefoon 
+of videocommunicatie en de duur ervan in het patiëntendossier dat hij per patiënt bijhoudt;9° 
+ indien een verstrekking 794253, 794275 of 794312 is verricht via telefoon of videocommunicatie, attesteert 
+de verstrekker de verstrekking via telefoon of videocommunicatie door op het getuigschrift van verzorging 
+de nomenclatuurcode te vermelden die op de gerealiseerde verstrekking van toepassing is (794253, 794275 
+of 794312), samen met de bijkomende code 792433. De pseudocode 792433 wordt rechts naast de gebruikelijke 
+nomenclatuurcode vermeld. Indien de verstrekker elektronisch factureert, vermeldt hij de bijkomende pseudocode 
+792433 in de zone "betrekkelijke verstrekking" van het facturatiebestand;10°  indien een verstrekking 
+794290 is verricht via telefoon of videocommunicatie, attesteert de apotheker deze verstrekking met behulp 
+van de code 794953. § 2. Per patiënt die voor de verstrekkingen 794415 en 794430 in 
+aanmerking komt, kunnen maximum 2 van deze verstrekkingen via telefoon of videocommunicatie worden verricht, 
+onder de volgende voorwaarden:1°  het maximum aantal van 2 verstrekkingen via telefoon of videocommunicatie 
+geldt per patiënt voor het totaal van alle verstrekkingen 794415 en 794430 samen;2°  behalve 
+de voorwaarde betreffende de ruimte waar de verstrekking moet worden gerealiseerd, wordt er voldaan aan 
+alle voorwaarden die op de gerealiseerde verstrekking van toepassing zijn;3°  de minimumduur 
+van de verstrekkingen via telefoon of videocommunicatie blijft 30 minuten;4°  het honorarium 
+en het bedrag van de verzekeringstegemoetkoming is voor de verstrekkingen via telefoon of videocommunicatie 
+hetzelfde als voor de gerealiseerde verstrekking zonder telefoon of videocommunicatie;5°  de 
+diabeteseducator kan voor eenzelfde patiënt maximum 2 verstrekkingen via telefoon of videocommunicatie 
+realiseren, en maximum 1 per dag per patiënt;6°  de verstrekkingen via telefoon of videocommunicatie 
+tellen mee voor het maximum aantal verstrekkingen 794415, 794430 en 794452 waarin de verzekering tussenkomt 
+voor een patiënt;7°  de diabeteseducator spreekt met de patiënt vooraf af om verstrekkingen 
+via de telefoon of via videocommunicatie te verrichten;8°  de diabeteseducator registreert 
+de verstrekking via telefoon of videocommunicatie en de duur ervan in het patiëntendossier dat hij per 
+patiënt bijhoudt;9°  op het getuigschrift van verzorging attesteert de diabeteseducator de 
+verstrekking via telefoon of videocommunicatie door de nomenclatuurcode te vermelden die op deze verstrekking 
+van toepassing is (794415 of 794430), samen met de bijkomende code 792433. De pseudocode 792433 wordt 
+rechts naast de gebruikelijke nomenclatuurcode vermeld. Indien de diabeteseducator elektronisch factureert, 
+vermeldt hij de bijkomende pseudocode 792433 in de zone "betrekkelijke verstrekking" van het facturatiebestand.Art. 
+22. ErgotherapieverstrekkingenPer patiënt die voor de verstrekking 784335 in aanmerking komt, 
+kunnen maximum 2 van deze verstrekkingen via telefoon of videocommunicatie worden verricht, onder de 
+volgende voorwaarden:1°  behalve de voorwaarde betreffende de ruimte waar de verstrekking moet 
+worden gerealiseerd, wordt er voldaan aan alle voorwaarden die op de verstrekking 784335 van toepassing 
+zijn;2°  de minimum-duur van de verstrekkingen via videocommunicatie blijft 60 minuten;3° 
+ het honorarium en het bedrag van de verzekeringstegemoetkoming is voor de verstrekkingen via videocommunicatie 
+hetzelfde als voor de verstrekking 784335;4°  de ergotherapeut kan voor eenzelfde patiënt maximum 
+2 verstrekkingen via videocommunicatie realiseren, en maximum 1 per dag per patiënt;5°  de 
+verstrekkingen via videocommunicatie tellen mee voor het maximum aantal verstrekkingen 784335 waarin 
+de verzekering tussenkomt voor een patiënt;6°  de ergotherapeut moet vooraf, via telefoon, 
+met de patiënt afspreken om via videocommunicatie te werken, en gaat daarbij na of de patiënt daartoe 
+in staat is en of hij beschikt over het nodige materiaal (vereiste communicatie-apparatuur en software-applicaties). 
+De ergotherapeut informeert de patiënt ook vooraf over het persoonlijk aandeel van de rechthebbende in 
+het honorarium voor deze verstrekkingen;7°  de ergotherapeut registreert de verstrekking via 
+videocommunicatie en de duur ervan in het patiëntendossier dat hij per patiënt bijhoudt;8° 
+ op het getuigschrift van verzorging attesteert de ergotherapeut de verstrekking via videocommunicatie 
+door de gebruikelijke nomenclatuurcode 784335 te vermelden, samen met de bijkomende code 792433. De pseudocode 
+792433 wordt rechts naast de gebruikelijke nomenclatuurcode vermeld. Indien de ergotherapeut elektronisch 
+factureert, vermeldt hij de bijkomende pseudocode 792433 in de zone "betrekkelijke verstrekking" van 
+het facturatiebestand.Afdeling 4. - Zorg op afstand inzake revalidatieverstrekkingenvoorzien 
+per overeenkomstArt. 23. Gelet op de adviezen in verband met de COVID-19 pandemie worden afwijkingen 
+voorzien op de bepalingen van de overeenkomsten bedoeld in artikel 22, 6°  en artikel 23, § 3 
+van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd 
+op 14 juli 1994, voor de periode vanaf 14 maart 2020.Art. 24. Overeenkomsten met de centra 
+die patiënten begeleiden die kampen met de gevolgen van vrouwelijke genitale verminkingen, met de centra 
+voor transgenderzorg en met de geheugenklinieken. § 1. In het kader van de overeenkomsten 
+die het Verzekeringscomité, op voorstel van het College van artsen-directeurs, gesloten heeft met de 
+centra die patiënten begeleiden die kampen met de gevolgen van vrouwelijke genitale verminkingen (Riziv-identificatienummer 
+7.76.1xx.xx), met de centra voor transgenderzorg (Riziv-identificatienummer 7.76.2xx.xx) en met de geheugenklinieken 
+(Riziv-identificatienummer 7.78.1xx.xx) kan een psycholoog die deel uitmaakt van het team dat de overeenkomst 
+voorziet, zittingen via videocommunicatie realiseren. § 2. De volgende verstrekkingen 
+komen hiervoor in aanmerking:1°  de verstrekking "zitting" (pseudocodes 784593 - 784604) van 
+de centra die patiënten begeleiden die kampen met de gevolgen van vrouwelijke genitale verminkingen;2° 
+ de verstrekking "zitting" (pseudocodes 787916 - 787920) van de centra voor transgenderzorg;3° 
+ de verstrekking "zitting in de kliniek" (pseudocodes 784512 - 784523) van de geheugenklinieken. 
+§ 3. Deze verstrekkingen via videocommunicatie kunnen worden gerealiseerd onder volgende voorwaarden:1° 
+ behalve de voorwaarde betreffende de ruimte waar de verstrekking moet worden gerealiseerd, wordt er 
+voldaan aan alle voorwaarden van de respectieve overeenkomsten die op de respectieve verstrekkingen van 
+toepassing zijn;2°  de adviserend arts van de verzekeringsinstelling van de rechthebbende heeft 
+de tenlasteneming van de begeleiding in de betrokken inrichting toegestaan;3°  de minimum-duur 
+van de verstrekkingen via videocommunicatie blijft 60 minuten;4°  per dag en per patiënt kan 
+slechts één verstrekking via videocommunicatie worden vergoed;5°  de prijzen en honoraria van 
+de verstrekkingen via videocommunicatie stemmen overeen met de prijzen en honoraria van de respectieve 
+overeenkomsten die op de respectieve verstrekkingen van toepassing zijn;6°  de verstrekkingen 
+via videocommunicatie tellen mee voor het maximum aantal verstrekkingen waarin de verzekering tussenkomt 
+voor een patiënt;7°  de psycholoog moet vooraf, via telefoon, met de rechthebbende afspreken 
+om via videocommunicatie te werken, en gaat daarbij na of de rechthebbende daartoe in staat is en of 
+hij beschikt over het nodige materiaal (vereiste communicatie-apparatuur en software-applicaties). De 
+psycholoog informeert de rechthebbende ook vooraf over het persoonlijk aandeel van de rechthebbende in 
+het honorarium voor deze verstrekkingen;8°  de psycholoog registreert de verstrekking via videocommunicatie 
+en de duur ervan in het patiëntendossier dat de overeenkomst voorziet;9°  het ziekenhuis dat 
+de respectieve overeenkomst heeft afgesloten met het Verzekeringscomité, factureert de gerealiseerde 
+verstrekking via videocommunicatie met behulp van de pseudocode:a) 788992 (ambulante patiënt) 
+of 789003 (gehospitaliseerde patiënt) voor een zitting in het kader van de overeenkomst met de centra 
+die patiënten begeleiden die kampen met de gevolgen van vrouwelijke genitale verminkingen;b) 
+785971 (ambulante patiënt) of 785982 (gehospitaliseerde patiënt) voor een zitting in het kader van de 
+overeenkomst met de centra voor transgenderzorg;c) 785993 (ambulante patiënt) of 786004 (gehospitaliseerde 
+patiënt) voor een zitting in het kader van de overeenkomst met de geheugenklinieken.Art. 25. 
+Overeenkomsten met de inrichtingen Clairs Vallons en Zeepreventorium § 1. In het kader 
+van de overeenkomsten die het Verzekeringscomité, op voorstel van het College van artsen-directeurs, 
+gesloten heeft met de inrichtingen "Clairs Vallons" in Ottignies (Riziv-identificatienummer 7.76.601.78) 
+en "Zeepreventorium" in De Haan (Riziv-identificatienummer 7.76.602.77), kan een individuele begeleidingssessie 
+van minimum 1 uur, via telefoon of videocommunicatie worden gerealiseerd voor rechthebbenden van wie 
+het revalidatieprogramma in de betrokken inrichting onderbroken is. § 2. Deze verstrekkingen 
+via telefoon of videocommunicatie kunnen worden gerealiseerd onder volgende voorwaarden:1° 
+ de verstrekking individuele begeleidingssessie van 1 uur via telefoon of videocommunicatie kan alleen 
+worden verricht voor een rechthebbende voor wie de adviserend arts van de verzekeringsinstelling van 
+de rechthebbende de tenlasteneming van het revalidatieprogramma in de betrokken inrichting heeft toegestaan;2° 
+ alleen individuele begeleiding van 1 patiënt of van het gezin van 1 patiënt of van een gezin waarvan 
+meerdere patiënten deel uitmaken, is mogelijk. Groepssessies via telefoon of video met meerdere patiënten 
+die geen deel uitmaken van hetzelfde gezin, zijn uitgesloten;3°  de individuele begeleidingssessie 
+van minimum 1 uur via telefoon of videocommunicatie kan nooit worden aangerekend voor patiënten die in 
+de inrichting verblijven of die in een ziekenhuis zijn opgenomen;4°  de individuele begeleidingssessie 
+van minimum 1 uur via telefoon of videocommunicatie kan nooit worden aangerekend voor nieuwe patiënten 
+voor wie de tenlasteneming van de revalidatie op 14 maart 2020 nog niet was gestart;5°  de 
+individuele begeleidingssessie van minimum 1 uur via telefoon of videocommunicatie mag worden opgesplitst 
+in kleinere delen, waarbij eventueel afwisselend diverse leden van het team dat de overeenkomst voorziet, 
+tussenkomen;6°  per week kunnen voor een zelfde rechthebbende maximum 5 individuele begeleidingssessies 
+van minimum 1 uur via telefoon of videocommunicatie worden vergoed;7°  de prijs van de individuele 
+begeleidingssessie van minimum 1 uur via telefoon of videocommunicatie bedraagt 100 euro. Deze prijs 
+houdt niet alleen rekening met de minimale duur van de individuele begeleidingszitting, maar ook met 
+de noodzakelijke voorbereidingstijd, de tijd die nodig is voor de rapportering hierover, de supervisie 
+door de arts, de tijd besteed aan teamoverleg, de administratiekosten en de algemene werkingskosten van 
+de inrichting;8°  het teamlid dat een individuele begeleidingssessie van minimum 1 uur via 
+telefoon of videocommunicatie verricht, spreekt met de patiënt vooraf af om verstrekkingen via de telefoon 
+of via videocommunicatie te verrichten en informeert de rechthebbende of zijn wettelijke vertegenwoordiger 
+vooraf over het persoonlijk aandeel van de rechthebbende in het honorarium voor de gerealiseerde verstrekking;9° 
+ van iedere individuele begeleidingssessie van minimum 1 uur via telefoon of videocommunicatie wordt 
+de datum, het begin- en einduur, de identiteit van alle betrokkenen, de discipline waartoe een betrokken 
+teamlid behoort en de inhoud van de tussenkomst geregistreerd in het patiëntendossier dat de overeenkomst 
+voorziet;10°  de individuele begeleidingssessie van minimum 1 uur via telefoon of videocommunicatie 
+wordt aangerekend met behulp van de pseudocode 783996. § 3. De teamleden van Clairs 
+Vallons en Zeepreventorium kunnen voor de patiënten van de inrichting waarin ze werkzaam zijn, met inbegrip 
+van de patiënten die het revalidatieprogramma van deze inrichtingen onderbroken hebben, nooit verstrekkingen 
+op afstand verrichten waarin de verzekering voor geneeskundige verzorging tussenkomt op basis van een 
+andere regeling dan de overeenkomsten die het Verzekeringscomité met Clairs Vallons en het Zeepreventorium 
+heeft gesloten. Alleen de individuele begeleidingssessie van minimum 1 uur via telefoon of videocommunicatie 
+kan, onder de hierboven beschreven voorwaarden, door teamleden van deze inrichtingen via telefoon of 
+videocommunicatie voor patiënten van deze inrichtingen worden gerealiseerd.Art. 26. Overeenkomsten 
+met de revalidatiecentra voor locomotorische en neurologische revalidatie § 1. In het 
+kader van de overeenkomsten die het Verzekeringscomité, op voorstel van het College van artsen-directeurs, 
+gesloten heeft met de revalidatiecentra voor locomotorische en neurologische revalidatie (met een Riziv-identificatienummer 
+van het type 7.71.xxx.xx, 9.50.xxx.xx of 9.51.xxx.xx), kan een verstrekking logopedie via videocommunicatie 
+worden gerealiseerd. § 2. Het betrokken revalidatiecentrum kan deze verstrekking logopedie 
+via videocommunicatie aanrekenen onder de volgende voorwaarden:1°  de verstrekking logopedie 
+via videocommunicatie wordt verricht voor een rechthebbende voor wie de adviserend arts van de verzekeringsinstelling 
+van de rechthebbende de tenlasteneming van het revalidatieprogramma in een revalidatiecentrum voor locomotorische 
+en neurologische revalidatie heeft toegestaan;2°  de verstrekking logopedie via videocommunicatie 
+wordt verricht voor een rechthebbende van wie het revalidatieprogramma in een revalidatiecentrum voor 
+locomotorische en neurologische revalidatie tijdelijk is onderbroken;3°  de verstrekking logopedie 
+via videocommunicatie wordt verricht door een logopedist die deel uitmaakt van het team van het revalidatiecentrum 
+voor locomotorische en neurologische revalidatie dat met het Verzekeringscomité een overeenkomst heeft 
+gesloten;4°  de minimumduur van de verstrekking logopedie via videocommunicatie bedraagt 30 
+minuten;5°  het betreft een individuele verstrekking, waarbij één logopedist één patiënt behandelt;6° 
+ de logopedist moet vooraf, via telefoon, met de rechthebbende afspreken om via videocommunicatie te 
+werken, en gaat daarbij na of de rechthebbende daartoe in staat is en of hij beschikt over het nodige 
+materiaal (vereiste communicatie-apparatuur en software-applicaties). De logopedist informeert de rechthebbende 
+ook vooraf over het persoonlijk aandeel van de rechthebbende in het honorarium voor deze verstrekkingen;7° 
+ de logopedist registreert de verstrekking via videocommunicatie en de duur ervan in het patiëntendossier 
+dat de overeenkomst voorziet;8°  de prijs van de logopedieverstrekking via videocommunicatie 
+bedraagt 24,06 euro;9°  per dag kan voor eenzelfde rechthebbende maximum één logopedieverstrekking 
+via videocommunicatie in het kader van de overeenkomst met het Verzekeringscomité worden aangerekend;10° 
+ het ziekenhuis dat de overeenkomst heeft afgesloten met het Verzekeringscomité, factureert de gerealiseerde 
+verstrekking via videocommunicatie met behulp van de pseudocode:a) 783495 (ambulante patiënt) 
+of 783506 (gehospitaliseerde patiënt) voor een zitting in het kader van een overeenkomst met een Riziv-identificatienummer 
+van het type 7.71.xxx.xx;b) 791475 (ambulante patiënt) of 791486 (gehospitaliseerde patiënt) 
+voor een zitting in het kader van een overeenkomst met een Riziv-identificatienummer van het type 9.50.xxx.xx;c) 
+791534 (ambulante patiënt) of 791545 (gehospitaliseerde patiënt) voor een zitting in het kader van een 
+overeenkomst met een Riziv-identificatienummer van het type 9.51.xxx.xx.Art. 27. Overeenkomst 
+met de CP-referentiecentra § 1. In het kader van de overeenkomsten die het Verzekeringscomité, 
+op voorstel van het College van artsen-directeurs, gesloten heeft met de referentiecentra voor cerebral 
+palsy (CP) (overeenkomsten met een Riziv-identificatienummer van het type 7.89.50x.xx), kan de verstrekking 
+"punctueel advies" die omschreven wordt in artikel 7, 3°  en artikel 11 van die overeenkomsten, via telefoon 
+of videocommunicatie worden gerealiseerd. § 2. Het betrokken CP-referentiecentrum kan 
+deze verstrekking "punctueel advies" via telefoon of videocommunicatie aanrekenen aan de verzekering 
+onder de volgende voorwaarden :1°  de verstrekking punctueel advies voldoet aan de voorwaarden 
+van de overeenkomst, en in het bijzonder aan de voorwaarden van de artikelen 7, 3°,  11 en 12 van de 
+overeenkomst;2°  de verstrekking punctueel advies kan alleen via telefoon of videocommunicatie 
+worden gerealiseerd voor een rechthebbende voor wie er reeds een revalidatieprogramma lopende is waarvan 
+de tenlasteneming door de adviserend arts van de verzekeringsinstelling van de rechthebbende is toegestaan;3° 
+ de verstrekking punctueel advies kan alleen via telefoon of videocommunicatie worden gerealiseerd voor 
+een rechthebbende voor wie eerder reeds de verstrekking 783510-783521, zoals die omschreven is in artikel 
+7, 1°  en artikel 8 van de overeenkomst met het Verzekeringscomité, is gerealiseerd geweest;4° 
+ de leden van het team van het CP-referentiecentrum die tussenkomen in de verstrekking, informeren de 
+rechthebbende of zijn wettelijke vertegenwoordiger over het verschuldigde persoonlijk aandeel voordat 
+met de verstrekking wordt gestart;5°  de rechthebbende of zijn wettelijke vertegenwoordiger 
+heeft voorafgaandelijk ingestemd met het verrichten van de verstrekking punctueel advies via telefoon 
+of videocommunicatie;6°  de rechthebbende heeft, verspreid over minimum 2 verschillende dagen, 
+in het totaal minimum 2 uur begeleiding via telefoon of videocommunicatie gekregen. Per dag en per patiënt 
+kan maximum 1 uur begeleiding via telefoon of videocommunicatie in aanmerking worden genomen. Dit uur 
+mag eventueel worden opgesplitst in kleinere delen. Alleen begeleidingstijd waarvoor op geen enkele andere 
+manier een tussenkomst wordt aangerekend, kan in aanmerking worden genomen;7°  de verstrekking 
+punctueel advies via telefoon of videocommunicatie kan maximum 1 keer per maand en per rechthebbende 
+worden aangerekend;8°  de verstrekking punctueel advies via telefoon of videocommunicatie wordt 
+volledig gerealiseerd door middel van individuele begeleiding (begeleiding van 1 patiënt en zijn gezin). 
+Groepssessies via telefoon of videocommunicatie met meerdere patiënten die geen deel uitmaken van hetzelfde 
+gezin, kunnen geen deel uitmaken van de minimum vereiste begeleidingstijd;9°  alle tussenkomsten 
+via telefoon of videocommunicatie moeten in het patiëntendossier worden vermeld (datum, begin- en einduur, 
+welk teamlid en welke discipline, inhoud van de tussenkomst);10°  de verstrekking punctueel 
+advies via telefoon of videocommunicatie wordt aangerekend aan de prijs die krachtens de overeenkomst 
+met het Verzekeringscomité verschuldigd is voor een verstrekking punctueel advies;11°  de verstrekking 
+punctueel advies via telefoon of videocommunicatie wordt aangerekend met behulp van de pseudocode 784394 
+(ambulante patiënt) of 784405 (gehospitaliseerde patiënt).Art. 28. Overeenkomst met het multidisciplinair 
+diagnostisch centrum voor patiënten met het Chronisch vermoeidheidssyndroom (CVS) § 
+1. In het kader van de overeenkomst die het Verzekeringscomité, op voorstel van het College van artsen-directeurs, 
+gesloten heeft met het multidisciplinair diagnostisch centrum voor patiënten met chronisch vermoeidheidssyndroom 
+(overeenkomst met Riziv-identificatienummer 7.89.453.30), kan de verstrekking "sessie cognitieve gedragstherapie" 
+(CGT-sessie) via videocommunicatie worden gerealiseerd. § 2. De `CGT-sessie door videocommunicatie' 
+is een CGT-sessie zoals gedefinieerd in artikel 19 van de overeenkomst waarbij de `cognitief gedragstherapeut 
+voor CVS' en de rechthebbende niet samen lijfelijk aanwezig zijn in de praktijkkamer van de cognitief 
+gedragstherapeut (in afwijking van artikel 19, 2°  van de overeenkomst), maar de behandelingssessie van 
+cognitieve gedragstherapie realiseren door communicatie op afstand via een toepassing van videocommunicatie. 
+§ 3. Om een CGT-sessie door videocommunicatie te kunnen realiseren dient de `cognitief gedragstherapeut 
+voor CVS' vooraf, per telefoon, met de rechthebbende afgesproken te hebben om de sessie per videocommunicatie 
+te realiseren. De `cognitief gedragstherapeut voor CVS' gaat daarbij na of de rechthebbende daartoe in 
+staat is en of hij beschikt over de voor videocommunicatie vereiste communicatie-apparatuur en software-applicaties. 
+§ 4. De bepalingen en het tarief van de overeenkomst die van toepassing zijn op de `CGT-sessies' 
+zijn eveneens van toepassing op de `CGT-sessies door videocommunicatie'. Onder meer wat de naleving van 
+bepaalde maxima betreft, telt de CGT-sessie door videocommunicatie mee als een gewone CGT-sessie. 
+§ 5. De pseudocode voor de CGT-sessie door videocommunicatie is 788970 voor ambulante rechthebbenden 
+en 788981 voor gehospitaliseerde rechthebbenden.Art. 29. Het koninklijk besluit van 18 maart 
+2020 tot vaststelling van verschillende uitzonderlijke maatregelen inzake de verplichte verzekering voor 
+geneeskundige verzorging en uitkeringen met het oog op de zorgopvang van patiënten in de context van 
+de COVID-19 pandemie met het SARS-CoV-2 virus wordt opgeheven.TITEL 4. - STRUCTURENHOOFDSTUK 
+1. - SchakelzorgcentraArt. 30. Voor de toepassing van dit hoofdstuk wordt verstaan onder:1° 
+ triage- en afnamecentrum: de centra bedoeld in artikel 44;2°  schakelzorgcentrum: de centra 
+die in het kader van COVID-19 door de deelentiteiten zijn opgericht na goedkeuring van de gouverneur, 
+die tijdelijk patiënten huisvesten die zijn doorverwezen na opname in een ziekenhuis of doorverwezen 
+door een triage- en afnamecentrum of door een dienst spoedgevallen, en die om de reden die zijn opgenomen 
+in dit hoofdstuk niet direct kunnen terugkeren naar hun gewone leefsituatie;3°  de wet: de 
+wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd 
+op 14 juli 1994;4°  de verplichte verzekering: de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen zoals bedoeld in de wet van 14 juli 1994;5°  het Riziv: het Rijksinstituut 
+voor ziekte- en invaliditeitsverzekering.Art. 31. Dit hoofdstuk regelt :1°  voor 
+de schakelzorgcentra, de voorwaarden waaronder de verplichte verzekering kan tegemoetkomen in de kosten 
+van opvolging, toezicht en zorg door verpleegkundigen, zorgkundigen en door artsen;2°  de voorwaarden 
+voor de tegemoetkoming door de verplichte verzekering in de kost van andere gezondheidszorg in de centra 
+bedoeld in artikel 30, 2°. Art. 32.  § 1. De patiënten waarvoor de tegemoetkomingen 
+bedoeld in dit hoofdstuk worden toegekend, zijn deze waarbij COVID-19 werd gedetecteerd. Ofwel werden 
+ze hiervoor opgenomen in het ziekenhuis ofwel zijn ze onderzocht in een triage- en afnamecentrum of in 
+een dienst spoedgevallen waar beslist werd dat een opname in het ziekenhuis niet nodig is.Als 
+bij deze patiënten wordt vastgesteld zij bij hun terugkeer naar hun gewone leefsituatie zich niet kunnen 
+houden aan de strikte regels van isolering, hygiëne en afstand houden van hoog risico personen of als 
+ze nog specifieke zorg nodig hebben die niet kan worden aangeboden in een gewone leefsituatie, kunnen 
+ze opgenomen worden in een schakelzorgcentrum voor een verblijf tot drie weken.Deze vaststelling 
+wordt vermeld in de verwijsbrief van de behandelende arts naar het schakelzorgcentrum. § 
+2. Indien het gaat om een patiënt die in normale omstandigheden in een collectieve/residentiële structuur 
+verblijft en waarbij COVID-19 werd gedetecteerd dient de patiënt bij ontslag uit het ziekenhuis terug 
+verwezen te worden naar het collectieve/residentieel verblijf waar hij onder strikte voorwaarden van 
+isolering en hygiëne moet kunnen opgevangen worden en waar de continuïteit van zorg kan gegarandeerd 
+worden.Indien dit onmogelijk kan gegarandeerd worden als gevolg van uitzonderlijk moeilijke 
+omstandigheden binnen het residentieel verblijf en indien dit werd vastgesteld door de erkennende overheid, 
+kan een tijdelijke opvang in het schakelzorgcentrum beslist worden.Omwille van psychosociale 
+reden dient dit verblijf tot een minimum in de tijd beperkt worden en bij voorkeur niet langer dan één 
+week.Art. 33.  § 1. De schakelzorgcentra moeten in staat zijn om de patiënten die zich 
+bevinden in de volgende situaties op te nemen :1°  Voor een patiënt waarbij COVID-19 werd gedetecteerd 
+en die geen chronische aandoening heeft, zelfredzaam is en in het algemeen onafhankelijk is in zijn dagelijks 
+leven, is alleen dagelijkse bewaking van bepaalde parameters nodig om eventuele verslechtering van zijn 
+toestand op te sporen.2°  Voor een patiënt waarbij COVID-19 werd gedetecteerd en die in het 
+algemeen weinig onafhankelijk is in het dagelijks leven (gedesoriënteerd, geriatrisch, met een handicap, 
+Katz-schaal thuisverpleging A, B of C, enz.) of die chronische zorg nodig heeft (wondverzorging, insuline, 
+enz.), moet het schakelzorgcentrum omkadering aanbieden die hem in staat zal stellen om naast de dagelijkse 
+bewaking van de parameters om eventuele verslechtering van zijn toestand op te sporen, de zorg te ontvangen 
+die zijn afhankelijkheidssituatie vereist.3°  Voor een patiënt die in het algemeen autonoom 
+is, waarbij COVID-19 werd gedetecteerd en die omwille van de opname in het ziekenhuis tijdelijke rehabilitatiezorg 
+nodig heeft (onder meer na lang verblijf op een dienst intensieve zorg) die in een thuissituatie niet 
+kan gegeven worden omwille van het ontbreken van de noodzakelijke apparatuur of door de ongeschiktheid 
+van de woning, moet een omkadering worden geboden die hem in staat zal stellen om naast de dagelijkse 
+bewaking van de parameters om eventuele verslechtering van zijn toestand op te sporen, de zorg te ontvangen 
+die zijn herstelproces vereist. § 2. De opname in een schakelzorgcentrum is enkel mogelijk 
+als de noodzakelijke uitrusting, het materieel en het personeel beschikbaar is.Art. 34. De 
+tegemoetkoming voor artsen bedoeld in artikel 35 is afhankelijk van de volgende opdrachten en voorwaarden:1° 
+ De tegemoetkoming dekt het medisch toezicht en de medische zorg door een groep van artsen die aangeduid 
+wordt in overleg met de huisartsenkring van de plaats van het centrum;2°  Voor de opvolging 
+van de patiënten, de coördinatie van de zorg en voor toediening van medische zorg wordt, in functie van 
+de zorglast van de patiënten in het centrum, de fysieke aanwezigheid georganiseerd door een arts gedurende 
+maximum 8 uur per dag voor een groep van 30 patiënten;3°  Per bijkomende schijf van 15 patiënten 
+kunnen maximum 4 bijkomende uren van fysieke aanwezigheid van een arts per dag worden toegevoegd;4° 
+ Onder de aangeduide artsen worden afspraken gemaakt voor de beschikbaarheid tijdens de avond en de nacht 
+(17u - 8u de volgende dag) door één arts;5°  De arts verbonden aan het centrum is verantwoordelijk 
+voor het voorschrijven van zorg voor de periode dat de patiënt verblijft in het schakelzorgcentrum;6° 
+ De arts verbonden aan het centrum beslist om de patiënt terug te laten hospitaliseren;7°  
+De arts verbonden aan het centrum beslist tot het ontslag van de patiënt, in overleg met patiënt/huisarts/andere 
+structuren. Daarbij houdt de arts ook rekening met de ontslagcriteria die door Sciensano worden opgemaakt 
+in het kader van COVID-19 crisis;8°  Bij ontslag van de patiënt uit het centrum maakt de arts 
+verbonden aan het centrum een ontslagbrief over aan de huisarts van de patiënt.Art. 35. Voor 
+de opdrachten zoals voorzien in artikel 34 gelden de volgende tegemoetkomingen:1°  Voor de 
+uren dat een arts oproepbaar is tussen 17 uur 's avonds en 8 uur 's ochtends de volgende dag bedraagt 
+de tegemoetkoming 6,51 euro per uur (beschikbaarheid honoraria). Voor elk van die periodes kan maximum 
+één arts dit honorarium ontvangen. Deze uren worden niet geregistreerd in Medega. Deze tegemoetkoming 
+dekt eveneens de tijd voor telefonische consultaties.Deze tegemoetkoming wordt door het Riziv 
+betaald aan het schakelzorgcentrum op basis van een lijst van uren beschikbaarheid per arts;2° 
+ Voor de fysieke aanwezigheid in het schakelzorgcentrum overdag en/of bij fysieke aanwezigheid na oproeping 
+tussen 17 uur 's avonds en 8 uur 's ochtends de volgende dag bedraagt de tegemoetkoming 80,34 euro per 
+uur;Deze tegemoetkoming dekt alle verstrekkingen die worden uitgevoerd tijdens de aanwezigheid 
+in het schakelzorgcentrum.Deze tegemoetkoming wordt door het Riziv betaald aan het schakelzorgcentrum 
+op basis van een lijst van het aantal gepresteerde uren per arts in het centrum.3°  Tijdens 
+het verblijf van de patiënt in het schakelzorgcentrum kunnen de honoraria zoals bedoeld in hoofdstuk 
+2 van het koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige 
+verstrekkingen inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen niet worden 
+aangerekend.4°  Op de tegemoetkoming bedoeld in 1°,  2°  en 3°  is geen remgeld verschuldigd 
+voor de patiënt en kunnen hem evenmin supplementen worden aangerekend.Art. 36. De tegemoetkoming 
+voor verpleegkundigen en zorgkundigen zoals bedoeld in artikel 37 is afhankelijk van de volgende opdrachten 
+en voorwaarden:1°  opvolging van de parameters zoals bedoeld in artikel 33, 24 uur op 24 uur 
+en 7 dagen op 7;2°  het verlenen van de zorg aan patiënten, 24 uur op 24 uur en 7 dagen op 
+7;3°  het team van verpleegkundigen en zorgkundigen wordt samengesteld op basis van de beschikbaarheid 
+aan die kwalificaties in de regio;4°  het maximum aantal financierbare voltijds equivalenten 
+(VTE) bedraagt 6 per 30 patiënten waaronder 4 VTE verpleegkundigen en 2 VTE zorgkundigen;5° 
+ Per bijkomende schijf van 15 patiënten kunnen maximum 3 VTE, waaronder 2 verpleegkundigen en 1 zorgkundige 
+worden toegevoegd aan de equipe;6°  binnen dit team wordt een verantwoordelijke aangeduid.Art. 
+37. Voor de opdrachten zoals voorzien in artikel 36 gelden de volgende tegemoetkomingen:1°. 
+ De tegemoetkoming per werkelijk gepresteerde uur van een verpleegkundige bedraagt 47,25 euro;2° 
+ De tegemoetkoming per werkelijk gepresteerd uur van een zorgkundige bedraagt 34,96 euro;3° 
+ Deze tegemoetkoming wordt door het Riziv betaald aan het schakelzorgcentrum op basis van een lijst van 
+het aantal werkelijk gepresteerde uren in het centrum, met een maximum van 228 uren per week (6 x 38 
+uur) per 30 patiënten. Voor elke schijf van 15 bijkomende patiënten kunnen daaraan maximum 114 uur worden 
+toegevoegd;4°  Tijdens het verblijf van de patiënt in het schakelzorgcentrum kunnen de verstrekkingen 
+die zijn bedoeld in artikel 8 van het koninklijk besluit van 14 september 1984 niet worden aangerekend;5° 
+ Op de tegemoetkomingen bedoeld in 1°  en 2°  is geen remgeld verschuldigd voor de patiënt en kunnen 
+hem evenmin supplementen worden aangerekend.Art. 38. Wat de andere zorg betreft voor de patiënten 
+die vallen onder de toepassing van dit hoofdstuk gelden de volgende voorwaarden:1°  Wat de 
+geneesmiddelen betreft: deze worden tijdens het verblijf van de patiënt in het centrum elektronisch voorgeschreven 
+door de arts verbonden aan het centrum. Voor de aflevering en tarifering gelden de reguliere regels die 
+van toepassing zijn voor de aflevering aan een ambulante patiënt door ofwel de ziekenhuisapotheek ofwel 
+door de openbare officina.2°  Wat de verzorging verleend door een kinesitherapeut in een schakelzorgcentrum 
+betreft : deze wordt vergoed op basis van maximum 1 individuele kinesitherapiezitting per rechthebbende 
+en per dag. Deze wordt aangerekend aan de verzekeringsinstelling van de patiënt via de pseudocode 518055, 
+waarbij er een persoonlijke betrokkenheid van de kinesitherapeut per rechthebbende is met een globale 
+gemiddelde duur van 30 minuten. Het honorarium voor die verstrekking bedraagt 22,26 euro. Er is geen 
+persoonlijk aandeel, noch supplement verschuldigd door de rechthebbenden voor deze verstrekking. Voor 
+de kinesitherapeutische zorg verleend tijdens het verblijf van de rechthebbende in het schakelzorgcentrum 
+mogen geen verstrekkingen uit artikel 7 van de bijlage bij het koninklijk besluit van 14 september 1984 
+worden aangerekend.3°  In afwijking van artikel 35, 3°  kan, wat de verstrekkingen op vlak 
+van geestelijke gezondheidszorg betreft, de patiënt een beroep doen op alle mogelijke bestaande structuren, 
+inclusief op de uitzonderlijke nomenclatuur in kader van COVID-19 voor psychiaters en de eerstelijnspsychologen 
+binnen de overeenkomst met het Verzekeringscomité van het Riziv voor de eerstelijnspsychologische zorg.4° 
+ Alle andere geneeskundige zorg kan vergoed worden binnen de voorwaarden die zijn bepaald in of in uitvoering 
+van de wet, tenzij wat de verstrekkingen betreft zoals bedoeld in de artikels 34 en 36.Art. 
+39. De tegemoetkomingen zoals bedoeld in artikel 35 en 37 zijn niet verschuldigd indien het gaat om artsen, 
+verpleegkundigen en/of zorgkundigen die als vrijwilliger zijn tewerkgesteld of die dienstvrijstelling 
+genieten bij een administratie of een verzekeringsinstelling.De tegemoetkomingen zoals bedoeld 
+in artikel 35 en 37 zijn evenmin van toepassing voor de uren dat de artsen, verpleegkundigen en/of zorgkundigen 
+reeds vergoed zijn door een andere tegemoetkoming binnen de verplichte verzekering. Het kan onder meer 
+gaan om personen gefinancierd voor de gepresteerde uren in de schakelzorgcentra door het budget van financiële 
+middelen, door het forfait wijkgezondheidscentrum of door een forfait van een revalidatie-instelling.Indien 
+de prestaties bedoeld in dit hoofdstuk worden verleend aan een rechthebbende die is ingeschreven in een 
+medisch huis, worden deze prestaties aangerekend aan en ten laste genomen door de verplichte verzekering 
+overeenkomstig artikel 40 of door de verzekeringsinstelling van de rechthebbende overeenkomstig artikel 
+38, eerste lid, 2°,  en worden ze niet overgemaakt aan het medisch huis voor tenlasteneming.De 
+tegemoetkomingen zoals bedoeld in artikel 35 en 37 zijn evenmin van toepassing als de kost is ten laste 
+genomen door een andere werkgever/instelling/dienst/overheid.Art. 40. De tegemoetkomingen zoals 
+bedoeld in artikel 35 en 37 kunnen door de verantwoordelijke van het schakelzorgcentrum worden gefactureerd 
+aan de Dienst voor geneeskundige verzorging van het Riziv overeenkomstig de facturatie-instructies bepaald 
+door de leidend ambtenaar van die dienst.De betaling wordt gedaan op het rekeningnummer dat 
+door het schakelzorgcentrum aan het Riziv wordt meegedeeld.Art. 41. Het schakelzorgcentrum 
+registreert gegevens in een centrale database die wordt georganiseerd bij de FOD Volksgezondheid. Het 
+gaat onder meer over de identificatie van de patiënten, de doorverwijzende instelling, de opnamedatum 
+en de ontslagdatum en de bestemming na ontslag uit het centrum.De persoonsgegevens uit die 
+database en de opnamedatum en de ontslagdatum worden wekelijks via het Riziv meegedeeld aan het Nationaal 
+Intermutualistisch College dat zorgt voor de mededeling aan elke betrokken verzekeringsinstelling.Art. 
+42. De gezondheidszorgbeoefenaars tewerkgesteld in het schakelzorgcentrum vallen onder de verantwoordelijkheid 
+van het schakelzorgcentrum. Het schakelzorgcentrum vergewist zich van de status inzake de noodzakelijke 
+verzekeringen inzake ondermeer beroepsaansprakelijkheid en arbeidsongevallenverzekering.Art. 
+43. Enkel de schakelzorgcentra waarvan de benaming en adres, de datum van opening/sluiting, de verantwoordelijke 
+en het Riziv-nummer is gepubliceerd op de website van het Riziv, die van deze publicatie zijn ingelicht 
+en die voldoen aan de bepalingen van dit hoofdstuk, komen in aanmerking voor de tegemoetkomingen bedoeld 
+in dit hoofdstuk.HOOFDSTUK 2. - Triage- en afnamecentraArt. 44. Voor de toepassing 
+van dit besluit wordt verstaan onder `triage- en afnamecentrum': het centrum van de eerstelijnszorg, 
+specifiek opgezet door huisartsen, ziekenhuizen en overheden om patiënten die verwezen werden door een 
+arts en die mogelijk besmet zijn met COVID-19 lichamelijk te onderzoeken en stalen af te nemen voor testen 
+met het oog op het opsporen van COVID-19.Art. 45.  § 1. Het Instituut kent een identificatienummer 
+toe aan elk triage- en afnamecentrum dat de volgende gegevens bezorgt via het adres covid19@riziv-inami.fgov.be:1° 
+ contactgegevens;2°  startdatum van de activiteit;3°  één medische verantwoordelijke 
+(naam, e-mail, telefoon);4°  één administratieve contactpersoon (naam, e-mail, telefoon);5° 
+ het keuzeformulier, gepubliceerd op de website van het Instituut, waarmee de rekeningnummers worden 
+aangeduid waarop de tegemoetkomingen worden gestort.Elke wijziging van de doorgegeven gegevens 
+wordt onmiddellijk per mail meegedeeld. § 2. De lijst met triage- en afnamecentra wordt 
+gepubliceerd op de website van het Instituut. § 3. De datum van sluiting wordt door 
+elk triage- en afnamecentrum onmiddellijk meegedeeld aan het Instituut.Art. 46.  § 1. 
+Elk triage- en afnamecentrum dat voldoet aan de definitie van artikel 44 kan aanspraak maken op de volgende 
+tegemoetkomingen:1°  een eenmalige forfaitaire tegemoetkoming voor de opstart van het triage- 
+en afnamecentrum;2°  een tegemoetkoming per lichamelijk onderzoek van de patiënt die zich aanbiedt 
+in het centrum;3°  een forfaitaire tegemoetkoming voor de coördinatie van de werkzaamheden 
+in het triage- en afnamecentrum door een arts, in functie van het aantal gepresteerde uren per dag;4° 
+ een forfaitaire tegemoetkoming voor de verpleegkundige ondersteuning in het triage- en afnamecentrum, 
+in functie van het aantal gepresteerde uren per dag;5°  een forfaitaire tegemoetkoming voor 
+de administratieve ondersteuning in het triage- en afnamecentrum, in functie van het aantal gepresteerde 
+uren per dag. § 2. De tegemoetkomingen bedoeld in paragraaf 1, 2°,  3°,  4°  en 5°  
+zijn ten vroegste verschuldigd vanaf 23 maart 2020 of vanaf de startdatum van het triage- en afnamecentrum, 
+als die later valt.Art. 47.  § 1. De tegemoetkoming bedoeld in artikel 46, § 
+1, 1°,  dekt de activiteit van de artsen die aan de opstart van het triage- en afnamecentrum hebben meegewerkt 
+in de periode voorafgaand aan de opening en bedraagt maximaal 7.230,60 euro.De Koning bepaalt 
+de modaliteiten om het bedrag per centrum te berekenen en houdt daarbij rekening met het aantal inwoners 
+en het aantal deelnemende huisartsen in de regio die door het triage- en afnamecentrum wordt gedekt. 
+§ 2. Het bedrag bedoeld in § 1 wordt uitgekeerd door het Instituut op het opgegeven rekeningnummer 
+van het triage- en afnamecentrum door middel van het formulier bedoeld in artikel 45, § 1, 6°. 
+Art. 48.  § 1. De tegemoetkoming bedoeld in artikel 46, § 1, 2°,  dekt de volgende 
+verstrekkingen:101850 Onderzoek van de patiënt in een triage- en afnamecentrum met het oog 
+op triage COVID-19,101813 Onderzoek van de patiënt in een triage- en afnamecentrum met het 
+oog op triage COVID-19 tijdens weekends en feestdagen. § 2. De verstrekkingen bedoeld 
+in § 1 worden aangeduid met een rangnummer vóór de omschrijving van de verstrekking.Het 
+honorarium voor de verstrekking 101850 bedraagt 26,78 euro.Het honorarium voor de verstrekking 
+101813 bedraagt 39,98 euro. § 3. Er is geen persoonlijk aandeel voor de patiënt voor 
+de verstrekkingen 101850 en 101813.Er mogen geen ereloonsupplementen worden aangerekend.Art. 
+49.  § 1. De verstrekkingen 101850 en 101813 bedoeld in artikel 48 kunnen aangerekend worden door 
+elke arts die werkzaam is in een triage- en afnamecentrum via de verzamelstaat, bedoeld in artikel 50.Andere 
+facturatiemogelijkheden worden niet aanvaard. § 2. De verstrekkingen 101850 en 101813 
+bedoeld in artikel 48, uitgevoerd in een triage- en afnamecentrum voor patiënten die ingeschreven zijn 
+in een medisch huis, worden aangerekend aan de verzekeringsinstelling van elke patiënt volgens de procedure 
+bedoeld in artikel 50 en worden niet ten laste genomen door het medisch huis van deze patiënten. 
+§ 3. De verstrekkingen 101850 en 101813 bedoeld in artikel 48 mogen niet samengevoegd worden met 
+het honorarium voor een raadpleging, een bezoek of een advies bedoeld in artikel 2 van de bijlage bij 
+het koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige 
+verstrekkingen inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen. 
+§ 4. De verstrekkingen 101850 en 101813 bedoeld in artikel 48 kunnen slechts eenmaal worden aangerekend 
+per patiënt per dag.Art. 50.  § 1. Het triage- en afnamecentrum maakt wekelijks een 
+verzamelstaat op met de verleende verstrekkingen bedoeld in artikel 48 van maandag tot en met zondag.Het 
+model van verzamelstaat wordt uitgewerkt door het Instituut en gepubliceerd op zijn website. 
+§ 2. De verzamelstaten bevatten de volgende gegevens:1°  identificatienummer van het 
+triage- en afnamecentrum;2°  de datum van elk onderzoek;3°  de identificatie van 
+elke arts (Naam, voornaam, RIZIV-nummer);4°  de identificatie van elke patiënt (INSZ-nummer 
+of bij gebrek daaraan de naam, voornaam en de geboortedatum).De verzamelstaten worden ingevuld 
+door de medische verantwoordelijke of de administratieve contactpersoon van het triage- en afnamecentrum 
+en door één van hen in elektronisch formaat (Excel, CSV of Acces) overgemaakt op het adres covid19@riziv-inami.fgov.be. 
+§ 3. Het Instituut bundelt de verzamelstaten en bezorgt ze via een beveiligde elektronische toepassing 
+aan het Nationaal Intermutualistisch College (NIC) dat ze verder verdeelt over de verschillende verzekeringsinstellingen 
+in functie van het lidmaatschap van de patiënt.De verzekeringsinstellingen betalen de artsen 
+op het reeds gekende rekeningnummer of op het rekeningnummer dat het triage- en afnamecentrum heeft meegedeeld 
+via het keuzeformulier vermeld in artikel 45, § 1, 6°. Art. 51.  § 1. De tegemoetkoming 
+bedoeld in artikel 46, § 1, 3°,  dekt de coördinatie door de medische coördinator, tijdens de 
+uren dat het triage- en afnamecentrum geopend is.Ze bedraagt 80,34 euro per uur met een maximum 
+van 12 uur per dag, ongeacht het aantal coördinatoren. Tijdens de uren waarin de arts coördinator is 
+mag hij geen lichamelijk onderzoeken aanrekenen. § 2. De tegemoetkoming bedoeld in artikel 
+46, § 1, 4°,  dekt de verpleegkundige ondersteuning in het triage- en afnamecentrum, tijdens de 
+uren dat het centrum geopend is.Ze bedraagt 47,25 euro per uur met een maximum van 12 uur per 
+dag, ongeacht het aantal verpleegkundigen. § 3. De tegemoetkoming bedoeld in artikel 
+46, § 1, 5°,  dekt de administratieve ondersteuning in het triage- en afnamecentrum, tijdens de 
+uren dat het centrum geopend is.Ze bedraagt 34,96 euro per uur met een maximum van 12 uur per 
+dag, ongeacht het aantal administratieve assistenten. § 4. Het triage- en afnamecentrum 
+kan enkel aanspraak maken op de tegemoetkomingen bedoeld in §§ 2 en 3 voor zover de kost 
+van de gepresteerde de uren nog niet gedekt is door een tegemoetkoming van de verzekering voor geneeskundige 
+verzorging. § 5. De Koning kan een financiële tussenkomst voorzien voor de door Hem 
+te bepalen handelingen die worden gesteld in een triage- en afnamecentrum en de nadere regels voor die 
+financiële tussenkomst bepalen. De Koning bepaalt in dat geval ook de nadere regels volgens dewelke die 
+financiële tussenkomst kan worden gecumuleerd met andere tegemoetkomingen van de verplichte verzekering 
+en in het bijzonder de tegemoetkomingen in het kader van dit hoofdstuk. Art. 52.  § 
+1. Het triage- en afnamecentrum maakt wekelijks een verzamelstaat op met de activiteiten van maandag 
+tot en met zondag, bedoeld in artikel 51.Het model van verzamelstaat wordt uitgewerkt door 
+het Instituut en gepubliceerd op zijn website. § 2. De verzamelstaten bevatten de volgende 
+gegevens:1°  identificatienummer van het triage- en afnamecentrum;2°  de datum;3° 
+ de identificatie van de coördinerend arts (naam, voornaam en RIZIV-nummer);4°  het aantal 
+uur coördinatie, verpleegkundige en administratieve ondersteuning.De verzamelstaten worden 
+ingevuld door de medische verantwoordelijke of de administratieve contactpersoon van het triage- en afnamecentrum 
+en door één van hen in elektronisch formaat (Excel, CSV of Acces) overgemaakt op het adres covid19@riziv-inami.fgov.be. 
+§ 3. Het Instituut betaalt de tegemoetkoming op het rekeningnummer dat het triage- en afnamecentrum 
+heeft opgegeven via het keuzeformulier vermeld in artikel 45, § 1, 6°. HOOFDSTUK 3. 
+- WeekwachtArt. 53. De huisartsenwachtposten die op basis van artikel 22, 6°,  van de wet gefinancierd 
+worden voor het verzekeren van de medische permanentie tijdens de weekends kunnen voor een periode van 
+drie maanden hun werking uitbreiden tot de avonden en de nachten van de week, voor het tijdvak dat telkens 
+aanvat om 18 uur en eindigt om 8 uur de dag nadien.Art. 54. De huisartsenwachtpost die wenst 
+toepassing te maken van artikel 53 dient daartoe een aanvraag in bij de Leidend ambtenaar van de Dienst 
+voor geneeskundige verzorging van het Riziv, met de volgende minimale gegevens :- De startdatum 
+van de weekwacht;- Het onderling akkoord tussen de wachtpost en de huisartsenkring of huisartsenkringen 
+om de weekwacht te organiseren in de wachtpost;- De openingsuren;- De wachtorganisatie 
+: aantal zittende en rijdende wachtartsen;- Het aantal uren per week waarop onthaalpersoneel 
+aanwezig is;- Aantal uren per week waarover een externe vervoersfirma wordt ingeschakeld;- 
+Het aantal uren per week aan bijkomende administratie en coördinatie;- Het engagement om de 
+weekwacht-activiteit nauwkeurig te registreren, zowel wat betreft de bezoeken als de consultaties, bij 
+voorkeur gesplitst in twee tijdvakken: van 18 tot 23 uur en 23 tot 8 uur;- Het engagement om 
+mee te werken aan een gecoördineerde evaluatie van de werking en het gebruik van financiële middelen.Art. 
+55.  § 1. De Dienst voor geneeskundige verzorging van het Riziv controleert of de aanvraag bedoeld 
+in artikel 54 alle minimale gegevens bevat. § 2. Indien voldaan is aan de voorwaarden 
+bedoeld in artikel 54 betaalt het Riziv een bedrag van 50.000 euro voor de werking van de wachtpost tijdens 
+de periodes bedoeld in artikel 53 voor een duur van drie maanden, te rekenen vanaf de startdatum van 
+de weekwacht, op het bankrekeningnummer dat gebruikt wordt voor de financiering van de medische permanentie 
+tijdens de weekends. § 3. Het bedrag van 50.000 euro dekt de totaliteit van de functioneringskosten 
+van de wachtposten tijdens de week, in het bijzonder de infrastructuurkosten, de personeelskosten in 
+de ruime betekenis, de beheerskosten en alle ICT- en communicatiekosten.Het bedrag van 50.000 
+euro dekt niet de raadplegingen en de bezoeken van de artsen in het kader van de werking van de huisartsenwachtposten 
+tijdens de week. § 4. Volgens de modaliteiten bepaald door de Dienst voor geneeskundige 
+verzorging van het Riziv maakt de huisartsenwachtpost in de loop van de eerste maand na het verloop van 
+de periode van drie maanden een gedetailleerd financieel verslag over. Alleen de uitgaven die specifiek 
+gestaafd zijn door bewijsstukken komen in aanmerking voor terugbetaling binnen het bedrag van 50.000 
+euro. Binnen de maand nadat de Dienst voor geneeskundige verzorging het totaalbedrag van de aanvaarde 
+werkingskosten heeft vastgesteld, betaalt de huisartsenwachtpost het saldo terug aan het Riziv.Art. 
+56. De Dienst voor geneeskundige verzorging maakt een geïntegreerd verslag op van de toepassing van de 
+artikelen 53 tot en met 55 en legt het verslag voor aan de Nationale commissie artsen-ziekenfondsen, 
+de Commissie voor begrotingscontrole en het Verzekeringscomité.TITEL 5. - VERPLEEGKUNDIGENHOOFDSTUK 
+1. - Opvolging en toezicht bij patiëntenmet een COVID-19 gerelateerde problematiekArt. 
+57.  § 1. De specifieke verpleegkundige verstrekkingen met betrekking tot de opvolging en het 
+toezicht bij patiënten met een COVID-19 gerelateerde problematiek zijn de volgende:419333 Opvolging 
+en toezicht thuis bij patiënten met een COVID-19 gerelateerde problematiek, gediagnosticeerd door een 
+arts (W 2,946);419355 Opvolging en toezicht in het weekeind of op een feestdag thuis bij patiënten 
+met een COVID-19 gerelateerde problematiek, gediagnosticeerd door een arts (W 4,504);419370 
+Opvolging en toezicht in een hersteloord bij patiënten met een COVID-19 gerelateerde problematiek, gediagnosticeerd 
+door een arts (W 2,946);419392 Opvolging en toezicht in een gemeenschappelijke woon- of verblijfplaats 
+van mindervaliden bij patiënten met een COVID-19 gerelateerde problematiek, gediagnosticeerd door een 
+arts (W 2,946).Het honorarium dekt de verpleegkundige verstrekking en het (in het bijzonder 
+beschermings)materiaal dat vereist is om deze verzorging op een medisch verantwoorde wijze uit te oefenen. 
+§ 2. Onder opvolging en toezicht wordt verstaan :1°  Gerichte observatie van parameters 
+(temperatuur, spierpijn, respiratoir, RR, ...);2°  Begeleiden van de patiënt bij preventieve 
+maatregelen: gebruik van beschermingsmaterialen, quarantainemaatregelen, ...;3°  Begeleiding 
+bij zuurstoftoediening (in voorkomend geval).Art. 58.  § 1. De patiënt bedoeld in artikel 
+57, § 1 betreft :1°  een patiënt die (vermoedelijk) besmet is of besmet is geweest met 
+het COVID-19-virus en op één van bovenvermelde plaatsen ziek wordt;2°  een patiënt die (vermoedelijk) 
+besmet is of besmet is geweest met het COVID-19-virus en die naar één van bovenvermelde plaatsen wordt 
+teruggestuurd vanuit een triage- en afnamecentrum of schakelzorgcentrum;3°  een patiënt die 
+(vermoedelijk) besmet is of besmet is geweest met het COVID-19-virus en na ontslag uit het ziekenhuis 
+naar één van bovenvermelde plaatsen terugkeert;4°  een patiënt bij wie het gebruikelijk zorgnetwerk 
+is weggevallen door de COVID19-maatregelen en waarbij de verpleegkundige wordt gevraagd regelmatig belangrijke 
+parameters te controleren en toezicht te houden op de algemene gezondheidstoestand. § 
+2. Onder thuis wordt verstaan de woon- of verblijfplaats van de rechthebbende overeenkomstig artikel 
+8, § 1, 1°  van de nomenclatuur.Onder thuis weekeinde of feestdag wordt verstaan de 
+woon- of verblijfplaats van de rechthebbende tijdens het weekeinde of op een feestdag overeenkomstig 
+artikel 8, § 1, 2°  van de nomenclatuur.Onder hersteloord wordt verstaan een hersteloord 
+overeenkomstig artikel 8, § 1, 3°  van de nomenclatuur.Onder gemeenschappelijke woon- 
+of verblijfplaats van mindervaliden wordt verstaan een tijdelijke of definitieve gemeenschappelijke woon- 
+of verblijfplaats van mindervaliden overeenkomstig artikel 8, § 1, 3° bis van de nomenclatuur.Art. 
+59.  § 1. De toepassingsregels betreffende de verstrekkingen bedoeld in artikel 57, § 1, 
+zijn de volgende:1°  moeten voorgeschreven zijn door een arts : in dringende gevallen kan dit 
+een mondeling geformuleerd medisch voorschrift zijn mits schriftelijke bevestiging van de arts binnen 
+de 6 maanden na de start van de verzorging;2°  mogen slechts eenmaal per verzorgingsdag geattesteerd 
+worden en omvatten minstens één bezoek aan de patiënt tijdens die dag. Hierbij mag eenmaal per dag een 
+basisverstrekking aangerekend worden;3°  mogen op dezelfde dag niet gecumuleerd worden met 
+een zorgforfait A, B, C, PA, PB, PC of PP, noch met andere technische verpleegkundige verstrekkingen. 
+Ze mogen wel gecumuleerd worden met specifieke technische verpleegkundige verstrekkingen;4° 
+ mogen op dezelfde dag niet worden gecumuleerd met verpleegkundige verstrekkingen die worden verleend 
+in het kader van een schakelzorgcentrum;5°  mogen gecumuleerd worden met de pseudocode 418913 
+voor verstrekkingen die worden verricht bij de rechthebbende thuis of in zijn verblijfplaats in welbepaalde 
+landelijk gelegen gemeenten;6°  vallen onder de bepalingen van art. 8, § 3 van de nomenclatuur 
+van de geneeskundige verstrekkingen;7°  worden meegenomen in de berekening van het dagplafond 
+dat is vastgelegd in art. 8, § 4 6°  van de bovenvermelde nomenclatuur;8°  mogen slechts 
+worden verleend en aangerekend door een gegradueerde verpleegkundige of gelijkgestelde, een vroedvrouw, 
+of een verpleegkundige met brevet. § 2. De COVID-19 gerelateerde problematiek dient 
+gedocumenteerd te zijn in het verpleegdossier van de patiënt met onder meer de inhoud van het voorschrift.De 
+documentatie bedoeld in het eerste lid moet op eenvoudige vraag worden voorgelegd aan de adviserend arts 
+van het ziekenfonds van de patiënt of aan de bevoegde controlediensten.De verpleegkundige moet 
+minimum éénmaal per week rapporteren aan de behandelende arts. Dit kan in een patiëntenbespreking, telefonisch 
+of elektronisch. De neerslag van deze rapportering moet in het verpleegdossier worden opgenomen.Art. 
+60. Er is geen persoonlijk aandeel verschuldigd door de rechthebbenden voor de verstrekkingen bedoeld 
+in artikel 57, § 1.Art. 61. Er mogen geen ereloonsupplementen worden aangerekend, zelfs 
+niet indien de verpleegkundige niet geconventioneerd is.HOOFDSTUK 2. - Valorisatie van verpleegkundige 
+zorgen tijdensde COVID-19-maatregelen : kosten en gebruik van beschermingsmateriaalArt. 
+62. In het kader van de strijd tegen de COVID-19 pandemie legt dit besluit een bijkomend bedrag vast 
+dat kan worden toegevoegd aan bepaalde verpleegkundige verstrekkingen om de aankoop en het gebruik te 
+vergoeden van materiaal dat nodig is om een adequate bescherming van patiënt en zorgverlener te garanderen.Art. 
+63.  § 1. Het bijkomend bedrag bedoeld in artikel 62 wordt aangerekend via een pseudocode die 
+maximum eenmaal per verstrekking bijkomend geattesteerd kan worden bij :1°  de verstrekkingen 
+425014, 425036, 425051, 425412, 425434, 425456, 425810, 425832, 425854, 427696, 427711 en 427733;2° 
+ forfaitaire honoraria voor zwaar zorgafhankelijke patiënten (A, B en C) 425272, 425294, 425316, 425670, 
+425692, 425714, 426075, 426090, 426112, 429096, 429111 en 429133;3°  forfaitaire honoraria 
+voor palliatieve patiënten (PA, PB, PC en PP) 427011, 427033, 427055, 427173, 427070, 427092, 427114, 
+427136, 427195 en 427151. § 2. De pseudocodes bedoeld in § 1 zijn de volgende419252 
+Bijkomend bedrag in aanvulling op een basisverstrekking/forfait PP (W 0,554)419274 Bijkomend 
+bedrag in aanvulling op een forfait A/forfait PA (W 0,637)419296 Bijkomend bedrag in aanvulling 
+op een forfait B/forfait PB (W 0,776)419311 Bijkomend bedrag in aanvulling op een forfait C/forfait 
+PC (W 1,109) § 3 De pseudocodes bedoeld in § 1 zijn dezelfde voor de week, het 
+weekeinde en een feestdag en zijn van toepassing op de volgende plaatsen van verstrekking :1° 
+ in de woon- of verblijfplaats van de rechthebbende overeenkomstig artikel 8, § 1, 1°  van de 
+bovenvermelde nomenclatuur;2°  in de woon- of verblijfplaats van de rechthebbende tijdens het 
+weekeinde of op een feestdag overeenkomstig art. 8, § 1, 2°  van de bovenvermelde nomenclatuur;3° 
+ in een hersteloord overeenkomstig artikel 8, § 1, 3°  van de bovenvermelde nomenclatuur;4° 
+ in een tijdelijke of definitieve gemeenschappelijke woon- of verblijfplaats van mindervaliden overeenkomstig 
+artikel 8, §  1, 3° bis van de bovenvermelde nomenclatuur. § 4. De pseudocode 
+419252 kan enkel bijkomend geattesteerd worden bij de verstrekkingen 425014, 425036, 425051, 425412, 
+425434, 425456, 425810, 425832, 425854, 427696, 427711, 427733, 427173 en 427195;De pseudocode 
+419274 kan enkel bijkomend geattesteerd worden bij de verstrekkingen 425272, 425670, 426075, 429096, 
+427055 en 427136;De pseudocode 419296 kan enkel bijkomend geattesteerd worden bij de verstrekkingen 
+425294, 425692, 426090, 429111, 427033 en 427114;De pseudocode 419311 kan enkel bijkomend geattesteerd 
+worden bij de verstrekkingen 425316, 425714, 426112, 429133, 427011 en 427092. § 5. 
+De pseudocodes bedoeld in § 1 worden niet meegenomen in de berekening van het dagplafond dat is 
+vastgelegd in art. 8, § 4, 6°  van de bovenvermelde nomenclatuur.Art. 64. Er is geen 
+persoonlijk aandeel verschuldigd door de rechthebbenden voor de bijkomende vergoedingen bedoeld in artikel 
+62.TITEL 6. - LABO TESTENArt. 65. In het kader van de strijd tegen de COVID-19 pandemie 
+legt dit besluit:1°  de terugbetaling vast van testen van klinische biologie met het oog op 
+het opsporen van het SARS-CoV-2 virus en met het oog op het opsporen van antigenen van en antilichamen 
+tegen het voornoemde virus;2°  de bedragen vast van het persoonlijk aandeel van de rechthebbenden;3° 
+ een verbod op ereloonsupplementen op;4°  een verbod op voor het aanrekenen van testen die 
+niet voldoen aan de toepassingsvoorwaarden aan patiënten;5°  een tijdelijk verbod op voor het 
+aanrekenen van serologische testen.Art. 66.  § 1. De testen van klinische biologie die 
+voor vergoeding in aanmerking komen worden aangeduid met een rangnummer vóór de omschrijving van de verstrekking. 
+De omschrijving van elke verstrekking wordt gevolgd door de sleutelletter B. Die sleutelletter komt vóór 
+een coëfficiëntgetal dat de betrekkelijke waarde van elke verstrekking aangeeft.Om het tarief 
+te bepalen wordt de B-waarde van artikel 24bis van de bijlage bij het koninklijk besluit van 14 september 
+1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen inzake verplichte verzekering 
+voor geneeskundige verzorging en uitkeringen gebruikt: 0.033434 euro.De sleutelletter is een 
+teken waarvan de waarde in euro bij overeenkomst wordt bepaald. § 2. Testen van klinische 
+biologie1°  Moleculaire test554934-554945 - Opsporen van minstens het SARS-CoV-2-virus 
+door middel van een techniek van moleculaire amplificatie . . . . . B14002°  Antigentest554956-554960 
+- Opsporen van antigenen van het SARS-CoV-2-virus . . . . . B500 § 3. Toepassingsregels:De 
+verstrekkingen 554934-554945 en 554956-554960 kunnen enkel worden aangerekend in het kader van de COVID-19-pandemie, 
+voor de indicaties die op het moment van de staalafname binnen de testrichtlijnen vallen, gepubliceerd 
+op de website van Sciensano of uitzonderlijk indien er een duidelijk aantoonbare klinische noodzaak is 
+bij risicopatiënten. Risicopatiënten zijn patiënten die tot één van volgende groepen behoren:- 
+met immuunsuppressie of maligniteit;- met een leeftijd ouder dan 65 jaar;- met ernstig 
+chronisch long-, hart- of nierlijden,- met een cardiovasculaire ziekte, arteriële hypertensie 
+of diabetes.De verstrekkingen 554934-554945 en 554956-554960 kunnen enkel worden aangerekend 
+als bij het staal een aanvraagformulier wordt gevoegd, dat tenminste de volgende informatie bevat met 
+betrekking tot de klinische omstandigheden waarin de test wordt aangevraagd:- identificatie 
+patiënt en voorschrijver;- aangevraagde test;- of de test gebeurt binnen de testrichtlijnen 
+die op het moment van de staalafname wordt gepubliceerd op de website van Sciensano;- of de 
+test uitzonderlijk gebeurt bij duidelijk aantoonbare klinische noodzaak bij risicopatiënten.De 
+voorschrijvende arts noteert de klinische omstandigheden in het medisch dossier (symptomen, ernst en 
+begin van de symptomen, relevante antecedenten, reeds uitgevoerde onderzoeken, contact met besmette personen).Het 
+aanvraagformulier moet bewaard worden onder elektronische vorm door het uitvoerend laboratorium.De 
+verstrekkingen 554934-554945 en 554956-554960 kunnen enkel worden aangerekend indien ze uitgevoerd worden 
+in een laboratorium dat op de moment van de staalafname voorkomt op de lijst van Sciensano inzake de 
+kwaliteitsbewaking, veiligheidsnormen en noodzakelijke epidemiologische informatiedoorstroming vanuit 
+de uitvoerende laboratoria.De verstrekkingen 554934-554945 en 554956-554960 worden als verstrekkingen 
+beschouwd waarvoor de bekwaming van specialist voor klinische biologie vereist is.Voor de periode 
+van 1 maart tot en met 22 april kunnen de verstrekkingen 554934-554945 en 554956-554960 elk maximum 2 
+keer per rechthebbende worden aangerekend.Het honorarium voor de verstrekkingen 554934-554945 
+en 554956-554960 omvat alle kosten die verbonden zijn met de test: het afnamemateriaal, apparatuur, reagentia, 
+investeringskosten, kwaliteitsbewaking, personeelskosten, supervisie, beschermingsmateriaal, transportkosten, 
+...De resultaten van de testen bedoeld in § 2 moeten worden gecommuniceerd aan de dienst 
+Epidemiologie van Sciensano.De verstrekking 554934-554945 kan niet worden aangerekend indien 
+deze wordt uitgevoerd na een positief resultaat op een antigentest via verstrekking 554956-554960.De 
+verstrekking 554956-554960 kan enkel worden aangerekend indien het type van testmateriaal werd goedgekeurd 
+door het FAGG of Sciensano.Als de antigentest, bedoeld in § 2, 2°,  een negatief of 
+twijfelachtig resultaat oplevert, wordt een moleculaire test, bedoeld in § 2, 1°  uitgevoerd.De 
+verstrekkingen 554934-554945 en 554956-554960 kunnen niet worden aangerekend voor de collectieve screening 
+van asymptomatische bewoners van een residentiële collectiviteit (bv. woonzorgcentrum, verblijfscentrum 
+voor personen met een handicap, opvangcentra, gevangenis, ...) georganiseerd door en met medewerking 
+van de federale overheid en gefedereerde entiteiten. § 4. OnderaannemingIndien 
+een laboratorium dat de stalen ontvangt deze doorstuurt naar een ander laboratorium voor analyse, zal 
+het uitvoerend laboratorium rapporteren, aanrekenen aan de verplichte verzekering voor geneeskundige 
+verzorging en ook de aanvraagformulieren bewaren. De praktische modaliteiten tussen beide laboratoria 
+worden onderling geregeld via een Service Level Agreement tussen beiden.Art. 67. Er is geen 
+persoonlijk aandeel verschuldigd door de rechthebbenden voor de verstrekkingen bedoeld in artikel 66.Art. 
+68. Er mogen geen supplementen worden aangerekend aan de patiënt.Art. 69. Indien er niet is 
+voldaan aan de voorwaarden vermeld in artikel 66, § 3 kunnen de testen bedoeld in artikel 66, 
+§ 2 niet worden aangerekend aan de verplichte verzekering voor geneeskundige verzorging, noch 
+aan de patiënt. Art. 70. Serologische testenVoor de looptijd van de toepassing van 
+het koninklijk besluit van 17 maart 2020 tot instelling van een verbod op de terbeschikkingstelling, 
+de ingebruikname en het gebruik van snelle tests voor het meten of opsporen van antilichamen met betrekking 
+tot het SARS-COV-2-VIRUS, kan de opsporing van antilichamen tegen dit voorgenoemde virus niet worden 
+aangerekend via de verstrekkingen 552016-552020 of 551655-551666 uit artikel 24 van de bijlage bij het 
+koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen 
+inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen.Uitgevoerde serologische 
+testen voor de opsporing van antilichamen tegen het SARS-CoV-2-virus (IgM, IgG of IgA) kunnen tijdens 
+deze periode niet aangerekend worden aan de verplichte verzekering voor geneeskundige verzorging, noch 
+aan de patiënten.Vanaf de datum vastgesteld door de Koning kunnen voornoemde serologische testen 
+onder de voorwaarden die Hij bepaalt, enkel aan de verzekering worden aangerekend voor de opsporingstesten 
+die voorkomen op een lijst opgesteld door Sciensano en voor de doelgroepen die Hij bepaalt. De 
+vergoedingsbasis van deze testen stemt overeen met de waarde van 9,60 euro.TITEL 7. - BESCHERMINGSMAATREGELENArt. 
+71. De Koning kan - voor de categorieën van zorgverleners die Hij aanduidt en onder de voorwaarden die 
+Hij vaststelt - een tijdelijke financiële tussenkomst voorzien in de kosten van bijzondere beschermingsmaatregelen 
+en materialen, in het kader van de COVID-19 pandemie. Geen enkel bedrag kan aan de rechthebbende 
+worden aangerekend door de zorgverleners voor wat betreft de kosten van bijzondere beschermingsmaatregelen 
+en materialen, ongeacht het conventiestatuut.TITEL 8. - SLOTBEPALINGENArt. 72. De 
+maatregelen die zijn vastgesteld bij dit besluit blijven van toepassing tot een door de Koning te bepalen 
+datum. De Koning kan voor iedere maatregel een andere datum bepalen.Art. 73. Het koninklijk 
+besluit van 27 maart 2020 tot stopzetting van de kalenders die de termijnen bepalen voor de uitvoering 
+van de procedures tot wijziging van de lijst van de vergoedbare farmaceutische specialiteiten en van 
+de lijst van de vergoedbare implantaten en invasieve medische hulpmiddelen ten gevolge van de pandemie 
+COVID-19 wordt opgeheven.Art. 74. Dit besluit heeft uitwerking met ingang van 1 maart 2020.De 
+artikelen 4 tot en met 29 van dit besluit hebben uitwerking met ingang van 14 maart 2020.Artikel 
+51, § 5, treedt in werking op een door de Koning te bepalen datum.De artikelen 65 tot 
+en met 70 hebben uitwerking met ingang van 1 maart 2020, met uitzondering van artikel 66, §  2, 
+2°  dat uitwerking heeft met ingang van 1 april 2020.Artikel 71 van dit besluit heeft uitwerking 
+met ingang van 4 mei 2020.Art. 75. De minister bevoegd voor Sociale Zaken is belast met de 
+uitvoering van dit besluit.Gegeven te Brussel, 13 mei 2020.FILIPVan Koningswege 
+:De Minister van Sociale Zaken en Volksgezondheid,M. DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-19Numac : 2020041295
+

@@ -1,0 +1,128 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/12/09/2021031412/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-18Numac : 2021031412
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 9 DECEMBER 2019. - Wet tot wijziging van de algemene wet inzake douane en accijnzen van 18 juli 1977 en het wetboek van de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2017/1371. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 9 december 
+2019 tot wijziging van de algemene wet inzake douane en accijnzen van 18 juli 1977 en het wetboek van 
+de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2017/1371 (Belgisch Staatsblad 
+van 18 december 2019, add. van 9 januari 2020).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.9. DEZEMBER 2019 - Gesetz zur Abänderung 
+des allgemeinen Gesetzes vom 18. Juli 1977 über Zölle und Akzisen und des Mehrwertsteuergesetzbuches 
+zur Umsetzung der Richtlinie (EU) 2017/1371PHILIPPE, Konig der Belgier, Allen Gegenwartigen 
+und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir 
+sanktionieren es:KAPITEL 1 - Allgemeine BestimmungenArtikel 1 -  Vorliegendes Gesetz 
+regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - Vorliegendes Gesetz 
+dient der Teilumsetzung der Richtlinie (EU) 2017/1371 des Europäischen Parlaments und des Rates vom 5. 
+Juli 2017 über die strafrechtliche Bekämpfung von gegen die finanziellen Interessen der Union gerichtetem 
+Betrug.KAPITEL 2 - Abänderungen des allgemeinen Gesetzes vom 18. Juli 1977 über Zölle und AkzisenArt. 
+3 - Artikel 115 § 1 des allgemeinen Gesetzes vom 18. Juli 1977 über Zölle und Akzisen, abgeändert 
+durch das Gesetz vom 12. Mai 2014, wird wie folgt ersetzt:" § 1 - Für falsche Versandanmeldungen, 
+die bei der Abgangsstelle festgestellt werden, gelten im Falle betrügerischer Absicht die Strafen, die 
+in den Artikeln 220 bis 225, 227, 229 und 230 beziehungsweise in Artikel 231 erwähnt sind."Art. 
+4 - Artikel 202 desselben Gesetzes, ersetzt durch das Gesetz vom 22. Dezember 1989 und zuletzt abgeändert 
+durch das Gesetz vom 21. Dezember 2009, wird durch einen Paragraphen 3 mit folgendem Wortlaut ergänzt:" 
+§ 3 - Haben in § 1 erwähnte Personen den Verstoß in betrügerischer Absicht begangen, 
+werden sie darüber hinaus mit einer Gefängnisstrafe von acht Tagen bis zu einem Monat bestraft.Haben 
+in § 1 erwähnte Personen den Verstoß in betrügerischer Absicht begangen und die finanziellen 
+Interessen der Europäischen Union schwer verletzt, werden sie mit einer Gefängnisstrafe von vier Monaten 
+bis zu fünf Jahren bestraft.Die finanziellen Interessen der Europäischen Union müssen auf jeden 
+Fall als schwer verletzt angesehen werden, wenn der Schaden mehr als 100.000 EUR beträgt."Art. 
+5 - Artikel 220 § 2 desselben Gesetzes, ersetzt durch das Gesetz vom 17. Juni 2013, wird durch 
+einen Absatz mit folgendem Wortlaut ergänzt:"Die finanziellen Interessen der Europäischen Union 
+müssen auf jeden Fall als schwer verletzt angesehen werden, wenn der Schaden mehr als 100.000 EUR beträgt."Art. 
+6 - In Artikel 228 desselben Gesetzes, abgeändert durch das Gesetz vom 12. Mai 2014, werden die Wörter 
+"wird nicht auferlegt, wenn die Beschlagnahme zwischen fünf Uhr morgens und neun Uhr abends auf den in 
+Artikel 57 Absatz 1 erwähnten Straßen und Wegen erfolgt ist, wenn sie bei Einfuhr auf dem Landweg 
+am Ort, an dem die erste Stelle liegt, vorgenommen worden ist oder im Allgemeinen" durch die Wörter "wird 
+im Allgemeinen nicht auferlegt," ersetzt.Art. 7 - In Artikel 229 desselben Gesetzes werden 
+die Wörter "In Abweichung von Artikel 228 wird die Gefängnisstrafe" durch die Wörter "Die Gefängnisstrafe 
+wird" ersetzt.Art. 8 - Artikel 256 desselben Gesetzes, zuletzt abgeändert durch das Gesetz 
+vom 12. Mai 2014, wird wie folgt ersetzt:"Art. 256 - § 1 - Mit einer Geldbuße, 
+die dem Fünf- bis Zehnfachen der hinterzogenen Akzisen entspricht, ohne dass sie unter 250 EUR liegen 
+darf, werden geahndet:1. Verwendungen ausländischer Waren unter anderen Bedingungen als der 
+besonderen Verwendung, die ihnen gemäß der bei der endgültigen Einfuhr bei der Verwaltung abgegebenen 
+Anmeldung zugedacht war und die die Anwendung einer günstigeren Steuerregelung gerechtfertigt hat, als 
+wenn der Zoll die tatsächliche Bestimmung gekannt hätte,2. Vorgänge mit dem Ziel, Merkmale 
+oder Eigenschaften der erwähnten Waren zu entfernen oder zu verleihen, deren Vorhandensein oder Nichtvorhandensein 
+bei der endgültigen Einfuhr zur Anwendung einer günstigeren Steuerregelung geführt hat, als wenn diese 
+Merkmale oder Eigenschaften nicht vorhanden beziehungsweise vorhanden gewesen wären.Darüber 
+hinaus sind die hinterzogenen Akzisen zu entrichten. § 2 - Haben Zuwiderhandelnde die 
+in § 1 erwähnten Verstöße in betrügerischer Absicht begangen oder zu begehen versucht, werden 
+sie darüber hinaus mit einer Gefängnisstrafe von acht Tagen bis zu einem Monat bestraft. Haben Zuwiderhandelnde 
+die in § 1 erwähnten Verstöße in betrügerischer Absicht begangen und die finanziellen Interessen 
+der Europäischen Union schwer verletzt, werden sie mit einer Gefängnisstrafe von vier Monaten bis zu 
+fünf Jahren bestraft.Die finanziellen Interessen der Europäischen Union müssen auf jeden Fall 
+als schwer verletzt angesehen werden, wenn der Schaden mehr als 100.000 EUR beträgt."Art. 9 
+- In Artikel 257 § 3 desselben Gesetzes, abgeändert durch das Gesetz vom 25. April 2014, werden 
+zwischen dem Wort "zuführt" und den Wörtern ", wird mit den Strafen" die Wörter "oder zuzuführen versucht" 
+eingefügt.Art. 10 - In Artikel 259 desselben Gesetzes wird der letzte Absatz wie folgt ersetzt:"Der 
+Zuwiderhandelnde wird darüber hinaus mit einer Gefängnisstrafe von acht bis zu dreißig Tagen bestraft. 
+Hat der Zuwiderhandelnde die finanziellen Interessen der Europäischen Union schwer verletzt, wird er 
+mit einer Gefängnisstrafe von vier Monaten bis zu fünf Jahren bestraft.Die finanziellen Interessen 
+der Europäischen Union müssen auf jeden Fall als schwer verletzt angesehen werden, wenn der Schaden mehr 
+als 100.000 EUR beträgt."KAPITEL 3 - Abänderungen des MehrwertsteuergesetzbuchesArt. 
+11 - Artikel 73 des Mehrwertsteuergesetzbuches, zuletzt abgeändert durch das Gesetz vom 17. Juni 2013, 
+wird durch einen Absatz mit folgendem Wortlaut ergänzt:"Die Steuerhinterziehung gilt auf jeden 
+Fall als schwerwiegend, wenn in Absatz 1 erwähnte Verstöße mit dem Hoheitsgebiet von mindestens 
+zwei Mitgliedstaaten verbunden sind und einen Gesamtschaden von mindestens 10.000.000 EUR umfassen."Art. 
+12 - In dasselbe Gesetzbuch wird ein Artikel 73nonies mit folgendem Wortlaut eingefügt:"Art. 
+73nonies - Der Versuch, einen in Artikel 73 Absatz 3 erwähnten Verstoß zu begehen, wird mit einer 
+Gefängnisstrafe von acht Tagen bis zu drei Jahren und mit einer Geldbuße von 26 bis zu 50.000 EUR 
+oder mit nur einer dieser Strafen belegt."Art. 13 - In dasselbe Gesetzbuch wird ein Artikel 
+73decies mit folgendem Wortlaut eingefügt:"Art. 73decies - Wird der in Artikel 73 Absatz 3 
+erwähnte Verstoß von einer kriminellen Organisation im Sinne von Artikel 324bis des Strafgesetzbuches 
+begangen, wird der Schuldige mit einer Gefängnisstrafe von einem bis zu fünf Jahren und mit einer Geldbuße 
+von 5.000 bis zu 500.000 EUR oder mit nur einer dieser Strafen belegt."Wir fertigen das vorliegende 
+Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 9. Dezember 2019PHILIPPEVon Königs wegen:Der 
+Vizepremierminister und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-18Numac : 2021031412
+

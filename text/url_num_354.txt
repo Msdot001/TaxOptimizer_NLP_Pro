@@ -1,0 +1,169 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2020/11/26/2020043871/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-02Numac : 2020043871
+FRANSE GEMEENSCHAPSCOMMISSIE VAN HET BRUSSELS HOOFDSTEDELIJK GEWEST
+ 26 NOVEMBER 2020. - Decreet tot toekenning van bijzondere machten aan het college van de Franse Gemeenschapscommissie in het kader van de COVID-19-pandemie 
+Memorie van toelichtingDit decreet heeft tot 
+doel aan het college van de Franse Gemeenschapscommissie de mogelijkheid te bieden snel te reageren op 
+de tweede golf van de COVID-19-pandemie. In dit kader moet het college alle nuttige maatregelen kunnen 
+nemen om, op straffe van ernstig gevaar, eender welke situatie te voorkomen en aan te pakken die een 
+probleem vormt in het strikte kader van de bestrijding van de tweede golf van de COVID-19-pandemie en 
+de gevolgen ervan.We zien vandaag immers niet de minste verbetering van de epidemiologische 
+situatie in België sinds de maatregelen die werden aangenomen bij ministerieel besluit van de federale 
+minister van Binnenlandse Zaken op 8 oktober 2020 houdende wijziging van het ministerieel besluit van 
+30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken; 
+integendeel, er is sprake van een ware verslechtering van de toestand.Het is tijd om te handelen 
+opdat ons gezondheidszorgsysteem zijn essentiële opdrachten zou kunnen blijven uitvoeren, i.e. zorg verstrekken 
+aan burgers, ook zij die niet besmet zijn met COVID-19, en alle patiënten opvangen onder de best mogelijke 
+voorwaarden, opdat de scholen open zouden blijven, de economie kan blijven functioneren en de geestelijke 
+gezondheid van de burgers zo goed mogelijk kan worden beschermd.Aldus hebben de vergaderingen 
+van het Overlegcomité geleid tot de handhaving van bepaalde maatregelen en een aanscherpen van sommige 
+van die maatregelen alsook tot de aanname van nieuwe maatregelen. Op 18 oktober ll. heeft de federale 
+minister van Binnenlandse Zaken een nieuwe ministerieel besluit aangenomen waarin ze nieuwe maatregelen 
+oplegt ter bestrijding van de verspreiding van COVID-19. In een evaluatierapport betreffende de epidemiologische 
+toestand van de Risk Assessment Group van 21 oktober 2020 lezen we dat, in vergelijking met de vorige 
+week, het aantal nieuwe besmettingen met COVID-19 nog is gestegen. Erger nog, uit het bewuste rapport 
+blijkt duidelijk dat de positiviteitsratio (PR) ook is gestegen in alle provincies van het Rijk, maar 
+dat de hoogste waarden werden geregistreerd in het Brussels Hoofdstedelijk Gewest en het Waals Gewest.Gelet 
+op de snelle en ernstige evolutie van de epidemiologische toestand is het Overlegcomité op 22 oktober 
+2020 opnieuw samengekomen en werden sommige al eerder genomen maatregelen aangescherpt door middel van 
+een nieuw besluit van de federale minister van Binnenlandse Zaken op datum van 23 oktober.Bovendien 
+heeft de minister-president van het Brussels Hoofdstedelijk Gewest, in zijn hoedanigheid van gouverneur, 
+inzonderheid naar aanleiding van een provinciale crisiscel op 24 oktober 2020 met de 19 burgemeesters 
+van het Brussels Hoofdstedelijk Gewest, de hoofden van de politiezones en de vertegenwoordigers van de 
+disciplines van crisisbeheer, bijkomende maatregelen genomen om de sociale contacten te beperken. In 
+het Brussels Hoofdstedelijk Gewest gelden vandaag de strengste maatregelen van het hele land.We 
+kunnen niet anders dan vaststellen dat al deze elementen vereisen dat de overheid snel moet kunnen reageren 
+om de verschillende sectoren van onze samenleving en inzonderheid die welke het zwaarst worden getroffen 
+te ondersteunen. Gezien de ernst van de situatie zijn de Brusselse entiteiten van plan hun acties op 
+dit gebied voort te zetten en te versterken. De snelheid waarmee deze tweede golf van COVID-19 zich ontwikkelt, 
+vereist dat het college over de passende juridische instrumenten moet beschikken om optimaal te kunnen 
+reageren en handelen. Het college is zich er terdege van bewust dat het Parlement in staat is zijn werk 
+voort te zetten, desnoods op afstand. Daarom moet nu worden bekeken of het noodzakelijk is om met bijzondere 
+machten te werken als het relevante juridische middel om de meest dringende maatregelen te nemen. Het 
+college hecht belang aan de eerbied voor de scheiding der machten en legt daarop de nadruk bij de overlegging 
+van dit ontwerpdecreet aan het Parlement.Net als bij de eerste toekenning van bijzondere machten 
+kan er worden vermeden dat het advies moet worden ingewonnen bij de instanties die normalerwijze verplicht 
+hun advies moeten verlenen, met uitzondering van het advies van de Raad van State. Zo de adviesaanvraag 
+wordt opgelegd door een hogere norm dan de ordonnantie inzake bijzondere machten, moet deze formaliteit 
+worden vervuld daar het niet mogelijk is daarvan af te wijken bij toepassing van de huidige ordonnantie.Bovendien 
+zijn het advies van de Inspectie van Financiën en het akkoord van de minister-presidente die belast is 
+met de Begroting vereist bij het nemen van maatregelen met bijzondere machten.Commentaar bij 
+de artikelenArtikel 1Dit artikel vereist geen commentaar.Artikel 2 
+§ 1Deze bepaling machtigt het college van de Franse Gemeenschapscommissie om alle nuttige 
+maatregelen te nemen teneinde elke probleemsituatie te voorkomen en dringend aan te pakken in het strikte 
+kader van de COVID-19-pandemie en de gevolgen ervan. § 4De bepaling staat 
+toe dat het college bepaalde voorafgaande raadplegingsformaliteiten niet vervult, maar het college zal 
+deze formaliteiten in geval van nood vervullen als het dat nodig acht.De bepaling zoals geformuleerd 
+in het 1ste lid is niet van toepassing wat betreft het advies van de Raad van State noch het advies van 
+de Inspectie van Financiën en het akkoord van de minister-presidente die belast is met de Begroting (wanneer 
+de beoogde maatregelen gevolgen hebben voor de begroting).Artikel 3Het advies van 
+de Raad van State nr. 67.142 van 27 maart 2020 over het wetsvoorstel dat machtiging verleent aan de Koning 
+om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 bepaalt: "Er 
+wordt voorzien in de verplichte bekrachtiging van alle besluiten die op grond van de voorgestelde regeling 
+worden genomen, ook wanneer dit vanuit juridisch oogpunt niet strikt noodzakelijk is. Zo is het mogelijk 
+dat de Koning maatregelen neemt of wijzigingen aanbrengt in reglementaire bepalingen die reeds op grond 
+van de actueel geldende wetgeving tot zijn bevoegdheid behoren, maar daarbij toch rechtsgrond zoekt in 
+artikel 5, § 1, van het voorstel, bijvoorbeeld omdat deze samenhangen met maatregelen waarvoor 
+wel degelijk een beroep moet worden gedaan op de bijzondere machten of omdat de bijzonderemachtenwet 
+hem toelaat voorbij te gaan aan bepaalde vormvereisten. Als gevolg van de bekrachtiging verkrijgen alle 
+bij bijzonderemachtenbesluit vastgestelde of gewijzigde bepalingen kracht van wet. Zij kunnen daarna 
+enkel nog worden gewijzigd door middel van een formele wet. De Koning zal ze niet meer eigenmachtig kunnen 
+wijzigen, zelfs niet indien een specifieke wetsbepaling hem machtigt om ter zake maatregelen te nemen. 
+Om die reden heeft de Raad van State, afdeling Wetgeving, in het verleden steeds afgeraden om in gewone 
+uitvoeringsbesluiten wijzigingen aan te brengen bij bijzonderemachtenbesluiten." Onder deze voorwaarden 
+wordt bepaald dat de bekrachtigde bepalingen opnieuw door het college kunnen worden ingetrokken, aangevuld, 
+gewijzigd of vervangen, althans voor zover daarvoor ook een materiële rechtsgrond bestaat.Artikelen 
+4 en 5Deze artikelen behoeven geen commentaar.Ontwerpdecreet met als doel bijzondere 
+machten toe te kennen aan het college van de Franse Gemeenschapscommissie in het kader van de COVID-19-gezondheidscrisisHet 
+college van de Franse Gemeenschapscommissie,Besluit : De voorzitster van het college 
+die bevoegd is voor de coördinatie van het beleid van het college, heeft de opdracht aan het Parlement 
+het ontwerpdecreet voor te stellen waarvan de inhoud volgt:Artikel 1. Dit decreet regelt, krachtens 
+artikel 138 van de Grondwet, de aangelegenheden bedoeld in de artikelen 127 en 128 van de Grondwet.Artikel 
+2. § 1 Opdat de Franse Gemeenschapscommissie zou kunnen reageren op de COVID-19-pandemie mag het 
+college, op straffe van ernstig gevaar, alle nuttige maatregelen nemen om elke probleemsituatie te voorkomen 
+en dringend aan te pakken in het strikte kader van de COVID-19-pandemie en de gevolgen ervan, inzonderheid 
+in de volgende domeinen:- de aanpassing van de wetteksten met betrekking tot de termijnen die 
+zijn vastgesteld door of goedgekeurd in het kader van de wetgeving van de Franse Gemeenschapscommissie;- 
+de aanpassing van de wetteksten met betrekking tot de door de crisis getroffen aangelegenheden die onder 
+de bevoegdheid van de Franse Gemeenschapscommissie vallen;- het beheer van de sociaaleconomische 
+gevolgen van de pandemie in het kader van de bevoegdheden van de Franse Gemeenschapscommissie en haar 
+instellingen;- de maatregelen op het gebied van preventie en veiligheid, met inbegrip van de 
+maatregelen die toelaten te verzekeren dat het nodige personeel beschikbaar is voor het beheer van de 
+pandemie in het kader van de bevoegdheden van de Franse Gemeenschapscommissie en haar instellingen;- 
+de dringende gezondheidsmaatregelen in verband met de aangelegenheden die tot de bevoegdheid van de Franse 
+Gemeenschapscommissie behoren;- de maatregelen met betrekking tot het openbaar ambt van de 
+Franse Gemeenschapscommissie. § 2. De besluiten zoals bedoeld in §  1 kunnen 
+de geldende decreetsbepalingen intrekken, aanvullen, wijzigen of vervangen, met inbegrip van de aangelegenheden 
+die de Grondwet of de bijzondere wet voorbehoudt voor het decreet. § 3. De besluiten 
+zoals bedoeld in §  1 kunnen de administratieve en strafrechtelijke sancties bepalen die van toepassing 
+zijn op schendingen van die besluiten.De strafrechtelijke en administratieve sancties mogen 
+niet zwaarder zijn dan die welke de aangevulde, gewijzigde of vervangen wetgeving verbindt aan de betrokken 
+schendingen bij de inwerkingtreding van het huidige decreet. § 4. De besluiten zoals 
+bedoeld in §  1 kunnen worden aangenomen zonder dat de wettelijk of reglementair vereiste adviezen 
+dienen te worden ingewonnen. Zo het college dat echter nodig acht, zal het de betrokken adviezen met 
+spoed inwinnen.Het voorgaande lid is niet van toepassing op de adviezen van de Afdeling Wetgeving 
+van de Raad van State, die in ieder geval moeten worden ingewonnen, desgevallend met spoed. Hetzelfde 
+geldt voor het advies van de Inspectie van Financiën en het akkoord van de minister-presidente die belast 
+is met de Begroting, die altijd moeten worden gevraagd, desgevallend met spoed.Artikel 3. § 
+1 De besluiten bedoeld in artikel 2 moeten bij decreet worden bekrachtigd binnen een termijn van zes 
+maanden die ingaat op het einde van de periode van bijzondere machten zoals georganiseerd door het huidige 
+decreet. Bij gebrek aan bekrachtiging binnen de in het vorige lid vastgestelde termijn, worden 
+ze geacht nooit uitwerking te hebben gehad. § 2. De bekrachtigde bepalingen kunnen opnieuw 
+door het college worden ingetrokken, aangevuld, gewijzigd of vervangen, voor zover daarvoor al eerder 
+een materiële rechtsgrond bestaat. § 3. De besluiten zoals bedoeld in artikel 2 worden 
+ter kennis gebracht van de voorzitster en de griffier van het Parlement vóór hun bekendmaking in het 
+Belgisch Staatsblad.Artikel 4. De machtiging die aan het college wordt verleend door artikel 
+2 van het huidige decreet, is geldig gedurende twee maanden vanaf de inwerkingtreding van het decreet.De 
+termijn zoals vastgesteld in het 1ste lid kan eenmaal voor eenzelfde duur worden verlengd. Artikel 
+5. Het huidige decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.Brussel, 
+26 november 2020.Voor het college :B. TRACHTE,Voorzitster van het college 
+van de Franse Gemeenschapscommissie   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-02Numac : 2020043871
+

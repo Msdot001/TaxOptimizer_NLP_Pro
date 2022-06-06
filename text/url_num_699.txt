@@ -1,0 +1,73 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/10/08/2021204761/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-15Numac : 2021204761
+FEDERALE OVERHEIDSDIENST KANSELARIJ VAN DE EERSTE MINISTER  
+ 8 OKTOBER 2021. - Koninklijk besluit tot verlenging van de opdracht van de COVID-19-commissaris en COVID-19-adjunct-commissaris 
+FILIP, Koning der Belgen, Aan allen die nu zijn en hierna 
+wezen zullen, Onze Groet.Gelet op de Grondwet, artikel 37;Gelet op het koninklijk 
+besluit van 9 oktober 2020 tot benoeming van de COVID-19-commissaris en COVID-19-adjunct-commissaris 
+en tot bepaling van hun opdracht, artikel 1, vierde lid;Op de voordracht van de Eerste Minister, 
+de Minister van Volksgezondheid en de Minister van Binnenlandse Zaken,Hebben Wij besloten en 
+besluiten Wij : Artikel 1. De opdracht van de COVID-19-commissaris wordt verlengd met een periode 
+van zes maanden.De opdracht van de Covid-19-adjunct-commissaris wordt verlengd met een periode 
+van zes maanden.Art. 2. Artikel 2 van het koninklijk besluit van 9 oktober 2020 tot benoeming 
+van de COVID-19-commissaris en COVID-19-adjunct-commissaris en tot bepaling van hun opdracht, wordt aangevuld 
+met de bepalingen onder 9°, 10° en 11°, luidende : "9° voorbereiden en begeleiden van de eventuele 
+beëindiging van de federale fase van het crisisbeheer, in samenwerking met het Nationaal Crisiscentrum 
+en de deelstaten, met speciale aandacht voor de epidemiologische evolutie en de vaccinatiecampagne;10° 
+organiseren van de overdracht van de opdrachten naar de bestaande structuren en administraties;11° 
+formuleren, in samenwerking met het Nationaal Crisiscentrum en de deelstaten, van voorstellen tot verbetering 
+van het crisisbeheer.".Art. 3. Dit besluit treedt in werking op 9 oktober 2021.Art. 
+4. De Eerste Minister, de Minister bevoegd voor volksgezondheid en de Minister bevoegd voor binnenlandse 
+zaken zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven te Brussel, 
+8 oktober 2021.FILIPVan Koningswege : De Eerste Minister,A. DE 
+CROODe Minister van Volksgezondheid,F. VANDENBROUCKEDe Minister van Binnenlandse 
+Zaken,A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-15Numac : 2021204761
+

@@ -1,0 +1,96 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-23Numac : 2020031118
+GEWESTELIJKE OVERHEIDSDIENST BRUSSEL FISCALITEIT  
+  
+Bericht over de aanpassing van de verkeersbelasting ingevolge artikel 11 van het Wetboek van de met 
+inkomstenbelastingen gelijkgestelde belastingen (WIGB). - Nieuwe tarieven vanaf 1 juli 2020Voor 
+de voertuigen die vermeld zijn in de eerste kolom van de tabel hierna en waarvoor de belastingschuld 
+ontstaat vanaf 1 juli 2020, wordt de verkeersbelasting berekend volgens de tarieven, opgenomen in de 
+tweede kolom van de bedoelde tabel.Voor het bepalen van deze nieuwe tarieven is rekening gehouden 
+met de algemene indexcijfers (basis 2013) van de maanden mei 2019 (108,93) en 2020 (109,45).  Voertuigen Tarieven vanaf 1 juli 2020 (bedragen 
+in euro) Véhicules Tarifs applicables à partir du 1er juillet 2020 (montants 
+en euros) Personenauto's, auto's voor dubbel gebruik en minibussen (artikel 9, letter 
+A, WIGB)4 PK en minder5 PK6 PK7 PK8 PK9 PK10 
+PK11 PK12 PK13 PK14 PK15 PK16 PK17 
+PK18 PK19 PK20 PKMeer dan 20 PK  76,3295,52138,12180,36223,08265,80307,92399,60491,28582,72674,40766,081.003,441.240,921.478,521.715,401.953,001.953,00 
+verhoogd met 106,56 perpaardenkracht boven 20 Voitures, voitures mixtes et minibus(article 
+9, littera A, CTA)4 CV et moins5 CV6 CV7 CV8 CV9 
+CV10 CV11 CV12 CV13 CV14 CV15 CV16 
+CV17 CV18 CV19 CV20 CVplus de 20 CV 76,3295,52138,12180,36223,08265,80307,92399,60491,28582,72674,40766,081.003,441.240,921.478,521.715,401.953,001.953,00 
+plus 106,56 par cheval-vapeur au-delà de 20 Motorfietsen (artikel 9, letter C, WIGB) 
+54,12 Motocyclettes (article 9, littera C, CTA) 54,12 Autobussen en autocars 
+(artikel 9, letter D, WIGB) 76,60 Autobus et autocars (article 9, littera D, CTA) 76,60 Aanhangwagens 
+en opleggers (artikel 9, letter F, WIGB)- met een MTM van 0 tot en met 500 kg- met 
+een MTM van 501 tot en met 3.500 kg 35,7674,16 Remorques et semi-remorques 
+(article 9, littera F, CTA) :- d'une MMA de 0 kg à 500 kg inclus- d'une MMA de 501 
+kg à 3.500 kg inclus 35,7674,16 Voertuigen van meer dan 25 
+jaar oud(1) (artikel 10, § 1, 1° bis, WIGB)Kampeeraanhangwagens en 
+aanhangwagens voor het vervoer van één boot (artikel 10, § 1, 2°,  WIGB)Minimumbelasting 
+van algemene toepassing (artikel 10, § 2, WIGB) 34,62 Véhicules de plus de vingt-cinq 
+ans(1) (article 10, § 1er, 1° bis, CTA)Remorques de 
+camping et remorques pour le transport d'un seul bateau (article 10, § 1er, 2°, 
+ CTA)Taxe minimum d'application générale(article 10, § 2,CTA) 34,62
+ (1) Wanneer de belastingplichtige een vennootschap, een autonoom overheidsbedrijf 
+of een vereniging zonder winstgevend doel met leasingactiviteiten is, is de minimumbelasting bedoeld 
+in artikel 10, § 1, 1°,  WIGB alleen van toepassing op personenauto's, auto's voor dubbel gebruik, 
+minibussen en motorfietsen van meer dan 25 jaar oud (artikel 17 van de ordonnantie van 28 november 2019 
+tot wijziging van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen in het kader 
+van de overname van de dienst van de verkeersbelasting op de autovoertuigen en van de belasting op de 
+inverkeerstelling door het Brussels Hoofdstedelijk Gewest (BS, 10 december 2019, p. 110994).In 
+2019 toegepaste coëfficiënt: 1,4878 (de basisbelastingbedragen voor de hierboven bedoelde voertuigen 
+zoals ze voorkomen in de artikelen 9 en 10, WIGB en zoals ze zijn gewijzigd door de wet van 25 januari 
+1999 houdende wijziging van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen, overeenkomstig 
+de richtlijn nr. 93/89/EEG van de Raad van de Europese Gemeenschappen [BS 19.2.1999], zijn deze die resulteren 
+uit de per 1 juli 1998 uitgevoerde indexatie [z. Parl. Doc. nr 1668/4 - 97/98 van 28 oktober 1998, bl. 
+2, amendementen nrs. 28 en 29]).(Algemeen indexcijfer mei 2020 (basis 2013))/(Algemeen indexcijfer 
+mei 2019 (basis 2013))=109,45/108,93= 1,0048Coëfficiënt van toepassing in 2020: 1,4878 x 1,0048 
+= 1,4949 .   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-23Numac : 2020031118
+

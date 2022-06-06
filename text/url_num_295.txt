@@ -1,0 +1,98 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/02/03/2020043061/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043061
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 3 FEBRUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de bevoegdheden van de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders betreft inzake de hulp aan de slachtoffers van zogenaamde "cold cases" en tot nadere bepaling van haar onderzoeksbevoegdheid. - Duitse vertaling 
+De hierna volgende 
+tekst is de Duitse vertaling van de wet van 3 februari 2019 tot wijziging van de wet van 1 augustus 1985 
+houdende fiscale en andere bepalingen wat de bevoegdheden van de commissie voor financiële hulp aan slachtoffers 
+van opzettelijke gewelddaden en aan de occasionele redders betreft inzake de hulp aan de slachtoffers 
+van zogenaamde "cold cases" en tot nadere bepaling van haar onderzoeksbevoegdheid (Belgisch Staatsblad 
+van 8 februari 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST JUSTIZ3. FEBRUAR 2019. - 
+Gesetz zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen 
+hinsichtlich der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten 
+und von Gelegenheitsrettern in Bezug auf die Hilfe zugunsten von Opfern in unaufgeklärten Fällen und 
+zur näheren Bestimmung der Untersuchungsbefugnis der KommissionPHILIPPE, Konig der Belgier, 
+Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende 
+angenommen und Wir sanktionieren es:KAPITEL 1 - Allgemeine BestimmungArtikel 1 - 
+Vorliegendes Gesetz regelt eine in Artikel 78 der Verfassung erwähnte Angelegenheit.KAPITEL 
+2 - Abänderungen des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer BestimmungenArt. 
+2 - In Artikel 34bis Absatz 1 des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer 
+Bestimmungen, eingefügt durch das Gesetz vom 22. April 2003 und abgeändert durch das Gesetz vom 27. Dezember 
+2004, wird zwischen dem zweiten und dem dritten Satz ein neuer Satz mit folgendem Wortlaut eingefügt:"Sie 
+kann ebenfalls unter denselben Bedingungen von jedem Versicherer oder Versicherungsvermittler alle nützlichen 
+Informationen über Versicherungen anfordern, die infolge der vorsätzlichen Gewalttat oder der in Artikel 
+31bis § 2 Nr. 2 Buchstabe a) oder b) erwähnten Tat zugunsten des Antragstellers eingreifen könnten."Art. 
+3 - Artikel 37bis desselben Gesetzes, eingefügt durch das Gesetz vom 26. März 2003, wird wie folgt ersetzt:"Art. 
+37bis - Bleibt der Täter unbekannt und gibt es weder eine Entscheidung zur Einstellung der Strafverfolgung 
+wegen Unbekanntbleiben des Täters noch eine Entscheidung zur Verfahrenseinstellung wegen Unbekanntbleiben 
+des Täters, kann die Kommission im Fall eines in Artikel 32 § 1 Nr. 9, Artikel 32 § 2 Nr. 
+7 oder Artikel 32 § 3 Nr. 4 erwähnten Schadens eine außergewöhnliche Hilfe gewähren, unbeschadet 
+der Anwendung der Artikel 31 bis 33 § 1.Die außergewöhnliche Hilfe wird pro vorsätzliche 
+Gewalttat und pro Antragsteller für einen Schaden über 500 EUR gewährt und ist auf einen Betrag von 125.000 
+EUR begrenzt. Hat der Antragsteller bereits eine dringende Hilfe, eine Hilfe oder eine ergänzende Hilfe 
+erhalten, muss dieser Betrag abgezogen werden.Das Ersuchen um Gewährung einer außergewöhnlichen 
+Hilfe wird, bei Strafe des Ausschlusses, binnen einer Frist von zehn Jahren ab dem Tag der Entscheidung 
+der Kommission bezüglich der in Artikel 31bis erwähnten Hilfe eingereicht. Die außergewöhnliche 
+Hilfe kann nur gewährt werden, wenn seit den Taten, wegen der die außergewöhnliche Hilfe beantragt 
+wird, mehr als zehn Jahre vergangen sind."KAPITEL 3 - ÜbergangsbestimmungArt. 4 - 
+Artikel 37bis des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen, 
+so wie er durch Artikel 3 des vorliegenden Gesetzes ersetzt wird, findet Anwendung auf erlittene Schäden, 
+die auf eine vorsätzliche Gewalttat zurückzuführen sind, auch wenn eine Akte bereits vor Inkrafttreten 
+des vorliegenden Gesetzes eingereicht und von der Kommission abgeschlossen worden ist. Antragsteller, 
+deren Akte bereits vor Inkrafttreten des vorliegenden Gesetzes abgeschlossen worden ist, müssen binnen 
+drei Jahren nach Inkrafttreten des vorliegenden Gesetzes einen Antrag einreichen.KAPITEL 4 
+- InkrafttretenArt. 5 - Vorliegendes Gesetz tritt am Tag seiner Veröffentlichung im Belgischen 
+Staatsblatt in Kraft.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem 
+Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, 
+den 3. Februar 2019PHILIPPEVon Königs wegen:Der Minister der JustizK. 
+GEENSMit dem Staatssiegel versehen:Der Minister der JustizK. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043061
+

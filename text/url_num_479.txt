@@ -1,0 +1,163 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/03/26/2021030871/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021030871
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 26 MAART 2021. - Besluit van de Minister-President van het Brussels Hoofdstedelijk Gewest houdende verlenging van het besluit van 26 oktober 2020 tot bepaling van bijkomende maatregelen naast degene die bepaald zijn door de minister van Binnenlandse Zaken om de verspreiding van het coronavirus COVID-19 te beperken 
+De Minister-President van het Brussels Hoofdstedelijk Gewest,Gelet op 
+artikel 166, § 2 van de Grondwet;Gelet op artikel 48 van de bijzondere wet van 12 januari 
+1989 met betrekking tot de Brusselse instellingen, zoals gewijzigd bij de wet van 6 januari 2014;Gelet 
+op artikel 11 van de wet van 5 augustus 1992 op het politieambt, zoals vervangen door de wet van 7 december 
+1998;Gelet op artikel 128 van de provinciewet;Gelet op artikel 4, § 2quater, 
+1°  van de wet van 26 juli 1971 houdende organisatie van de agglomeraties en de federaties van gemeenten, 
+zoals gewijzigd door de wet van 6 januari 2014;Gelet op het ministerieel besluit van 13 maart 
+2020 houdende de afkondiging van de federale fase betreffende de coördinatie en het beheer van de crisis 
+coronavirus COVID-19;Gelet op het advies 2.3 (82) van Celeval dat de zes gulden regels omschrijft 
+die moeten worden toegepast in de verschillende stadia van de COVID-19 pandemie;Gelet op de 
+nota's van de gezondheidsexperts die op 17 en 24 maart 2021 gericht werden aan het Overlegcomité,Gelet 
+op de vergadering van de Provinciale Crisiscel uitgebreid met de Burgemeesters en de diensten van het 
+Verenigd College, die op 24 oktober 2020 plaatsvond;Gelet op het besluit van de Minister-President 
+van het Brussels Hoofdstedelijk Gewest van 26 oktober 2020 tot bepaling van bijkomende maatregelen naast 
+degene die bepaald zijn door de minister van Binnenlandse Zaken om de verspreiding van het coronavirus 
+COVID-19 te beperken, zoals gewijzigd door de besluiten van 3 november, 11 december 2020, 15 januari 
+en 26 februari 2021;Gelet op het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, zoals gewijzigd door de ministeriële 
+besluiten van 1 en 28 november 2020, van 11, 19, 20, 21 en 24 december 2020, van 12, 14, 26 en 29 januari 
+2021, 6 februari 2021, 6, 20 en 26 maart 2021;Gelet op de vergadering van het Overlegcomité 
+van 24 maart 2021;Gelet op de epidemiologische rapporten opgesteld door Sciensano en door de 
+Gemeenschappelijke Gemeenschapscommissie;Gelet op het voorafgaande overleg met het Nationaal 
+Crisiscentrum en de Coronacommissaris die door de federale staat is aangesteld voor de beheersing van 
+de COVID-19-crisis;Gelet op de informatie die op 24 maart 2021 aan de leden van de Gewestelijke 
+Veiligheidsraad werd bezorgd, op basis waarvan werd vastgesteld dat het Overlegcomité had beslist om 
+de maatregelen tegen de verspreiding van het virus door de heropflakkering van de epidemie in ons land 
+te versterken en op basis waarvan bijgevolg werd bevestigd te beslissen om de bijkomende Brusselse maatregelen 
+te behouden; Gelet op het voorzorgsbeginsel in het kader van het beheer van een internationale 
+gezondheidscrisis;Gelet op de dringendheid en het gezondheidsrisico dat de ontwikkeling en 
+de verspreiding van het coronavirus COVID-19 voor de bevolking op het grondgebied van het Brussels Gewest 
+met zich meebrengen;Overwegende dat het volledige land zich sinds 13 oktober 2020 op alarmniveau 
+4 (zeer hoge alertheid) bevindt;Overwegende dat uit de evaluatie van de epidemiologische situatie 
+die op 24 maart 2021 door de Risk Assessment Group (hierna RAG) onder coördinatie van Sciensano is uitgevoerd, 
+blijkt dat het aantal in België vastgestelde coronabesmettingen in één week met meer dan 40 % was toegenomen;Dat 
+het reproductiegetal - d.i. een schatting van de besmettingsgraad - in het land (op 24 maart) op basis 
+van het gemiddelde van de laatste 7 dagen 1,222 bedroeg, wat erop wijst dat de epidemie uitbreidt;Dat 
+de epidemiologische situatie opnieuw verergert;Overwegende dat die evolutie tot gevolg heeft 
+dat de bezettingsgraad van de ziekenhuizen, in het bijzonder van de diensten voor intensieve zorgen, 
+opnieuw kritiek wordt; dat de druk op de ziekenhuizen en op de continuïteit van de niet-COVID-19-zorg 
+toeneemt en dat dit een aanzienlijk effect kan hebben op de volksgezondheid; dat de ziekenhuizen blijven 
+kampen met personeelsuitval wegens ziekte en dat dit leidt tot een tekort aan personeel in de zorgsector; 
+dat de opvang van patiënten op het grondgebied opnieuw onder druk staat;Overwegende dat de 
+epidemiologische situatie bijzonder verontrustend is; dat de 14-daagse nationale cumulatieve incidentie 
+sterk gestegen is van 324 per 100.000 inwoners vorige week naar 422 per 100.000 inwoners deze week; dat 
+de druk op de ziekenhuizen en de andere zorgverleners opnieuw hoog is; dat verregaande en ingrijpende 
+maatregelen noodzakelijk blijven om de situatie onder controle te houden;Overwegende dat de 
+RAG benadrukt dat de stijging zich in alle gewesten voordoet, maar dat de vastgestelde waarden in het 
+Brussels Hoofdstedelijk Gewest nog steeds veel hoger liggen;Dat de 14-daagse incidentie per 
+100.000 inwoners in het Brussels Hoofdstedelijk Gewest toeneemt en op 24 maart 538 bedroeg, d.i. een 
+stuk hoger dan de nationale besmettingsgraad (422/100.000); dat de rapporten van de RAG van 17 en 24 
+maart erop wijzen dat de stijging van de 14-daagse cumulatieve incidentie het meest uitgesproken is in 
+Brussel en tonen dat de Brusselse besmettingscurve loskomt van de curves van de andere gewesten;Dat 
+het aantal ingenomen bedden op intensieve zorgen (IZ) in het Brussels Gewest het hoogste is van het land 
+(112 COVID-patiënten op IZ op een totaal van 637 patiënten over het hele land); dat dit betekent dat 
+42 % van het totale aantal erkende IZ-bedden in het Brussels Gewest ingenomen wordt door COVID-patiënten 
+(wat ook veel hoger is dan het nationale percentage van 32 %);Dat het aantal overlijdens op 
+nationaal niveau min of meer stabiel is, maar in het Brussels Gewest daarentegen licht toeneemt (rapport 
+van de RAG van 17 en 24 maart);Dat de door de diensten van de Gemeenschappelijke Gemeenschapscommissie 
+opgestelde rapporten die toename van de epidemie op het Brusselse grondgebied bevestigen;Overwegende 
+dat de cijfers met betrekking tot de epidemiologische situatie in het Brussels Gewest algemeen genomen 
+hoger zijn dan de nationale cijfers; dat de situatie in Brussel zorgwekkend is en een bijzondere aanpak 
+vergt;Overwegende dat de strategie voor het epidemiebeheer bepaalt dat pas overwogen kan worden 
+de lockdownfase te verlaten zodra de indicatoren de volgende drempels bereikt hebben: • Nieuwe 
+ziekenhuisopnames < 75 per dag op nationaal niveau gedurende een onafgebroken periode van 7 dagen (wat 
+overeenstemt met een gecumuleerde incidentie over 7 dagen < 4,5/100.000 inwoners) EN Rt ziekenhuisopnames 
+< 1EN• Nieuwe gevallen < 100/100 000 inwoners over 14 dagen (wat overeenstemt 
+met _ 800 gevallen per dag) gedurende een onafgebroken periode van 3 weken EN Rt gevallen < 1Als 
+de drempels voor de volgende indicatoren overschreden worden, betekent dit dat de bovengrens van de controlefase 
+doorbroken is:• Nieuwe gevallen >100/100 000 inwoners over 14 dagen op nationaal niveau 
+(wat overeenstemt met _ 800 gevallen per dag) EN een positiviteitsratio >3 %OF• 
+Nieuwe ziekenhuisopnames > 75 per dag op nationaal niveau voor een onafgebroken periode van 7 dagen (wat 
+overeenstemt met een gecumuleerde incidentie over 7 dagen > 4,5/100.000 inwoners)Overwegende 
+dat iedere versoepelingsmaatregel gekoppeld moet worden aan de voorwaarde dat gedurende drie weken een 
+stabiele verbetering van de gezondheidssituatie wordt vastgesteld; dat de verslechtering van de epidemiologische 
+situatie belet om enige versoepeling van de bijkomende Brusselse maatregelen die momenteel gelden, te 
+overwegen; dat enkel strikte maatregelen ervoor kunnen zorgen dat de situatie opnieuw onder controle 
+komt;Overwegende dat in artikel 27, § 1, tweede lid van het ministerieel besluit van 
+28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+bepaald is dat "wanneer de burgemeester of de gouverneur door het gezondheidsorganisme van de betrokken 
+gefedereerde entiteit wordt ingelicht over een plaatselijke toename van de epidemie op diens grondgebied, 
+of wanneer hij dit vaststelt, hij bijkomende maatregelen moet nemen vereist door de situatie";Dat 
+de lokale overheden bijgevolg de mogelijkheid behouden om, naast de maatregelen die al door de federale 
+overheid zijn uitgevaardigd, omwille van de bijzondere gezondheidssituatie op hun grondgebied bijkomende 
+maatregelen goed te keuren;Dat de minister van Binnenlandse Zaken die mogelijkheid in herinnering 
+heeft gebracht in de motivatie van haar ministerieel besluit van 26 maart 2021 tot wijziging van het 
+ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus 
+COVID-19 te beperken;Dat het dus noodzakelijk is om de bijkomende maatregelen naast degene 
+die reeds door de minister van Binnenlandse Zaken zijn bepaald, te behouden; Overwegende dat 
+het in het licht van de maatregelen die door de minister van Binnenlandse Zaken zijn genomen, gerechtvaardigd 
+is om de Brusselse maatregelen te verlengen; dat de nationale maatregelen om het virus te bestrijden 
+van toepassing zijn tot 25 april 2021, de dag waarop de gezondheidssituatie en de relevantie van de genomen 
+maatregelen opnieuw zullen worden onderzocht; dat het aangewezen is om voor deze maatregel diezelfde 
+deadline aan te houden,Besluit :Art. 2. Artikel 16 van het besluit van 26 oktober 
+2020 tot bepaling van bijkomende maatregelen naast degene die bepaald zijn door de minister van Binnenlandse 
+Zaken om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd door de besluiten van 3 
+november en 11 december 2020 maar ook door de besluiten van 15 januari en 26 februari 2021, wordt vervangen 
+als volgt:"De maatregelen opgelegd door dit besluit gelden tot en met 25 april 2021."Art. 
+3. Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Art. 
+4. Overeenkomstig artikel 14 van de gecoördineerde wetten op de Raad van State kan een beroep tot nietigverklaring 
+van dit besluit worden ingediend bij de afdeling administratie van de Raad van State wegens schending 
+van hetzij substantiële, hetzij op straffe van nietigheid voorgeschreven vormen, overschrijding of afwending 
+van macht. Het verzoek tot nietigverklaring moet, op straffe van onontvankelijkheid, worden ingediend 
+binnen de 60 dagen na de bekendmaking in het Belgisch Staatsblad. Het verzoekschrift wordt ofwel per 
+post aangetekend verzonden naar de griffie van de Raad van State, Wetenschapsstraat 33 te 1040 Brussel, 
+ofwel wordt het ingediend volgens de elektronische procedure met behulp van de identiteitskaart op de 
+beveiligde website van de Raad van State http://eproadmin.raadvst-consetat.be. Er kan tevens een vordering 
+tot schorsing van het besluit worden ingediend, conform de bepalingen van het koninklijk besluit van 
+5 december 1991 tot bepaling van de rechtspleging in kort geding voor de Raad van State.Brussel, 
+26 maart 2021.De Minister-President van het Brussels Hoofdstedelijk GewestR. VERVOORT 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021030871
+

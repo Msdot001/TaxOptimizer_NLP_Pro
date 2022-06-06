@@ -1,0 +1,112 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/04/2021030269/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021030269
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 4 FEBRUARI 2021. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 48 houdende diverse bepalingen inzake het onderwijs voor sociale promotie in het kader van de COVID-19-gezondheidscrisis 
+De 
+Regering van de Franse Gemeenschap,Gelet op het decreet van 14 november 2020 tot toekenning 
+van bijzondere machten aan de Regering om te reageren op de tweede golf van de "COVID-19"-gezondheidscrisis, 
+artikel 1, § 1, f) en h);Gelet op het decreet van 16 april 1991 betreffende het onderwijs 
+voor sociale promotie;Gelet op het besluit van de Regering van de Franse Gemeenschap van bijzondere 
+machten nr. 9 van 7 mei 2020 houdende diverse bepalingen inzake onderwijs voor sociale promotie in het 
+kader van de COVID-19-gezondheidscrisis;Gelet op het advies nr. 68.675 van de Raad van State, 
+gegeven op 20 januari 2021, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende het advies van de Algemene 
+Raad voor het onderwijs voor sociale promotie, gegeven op 27 november 2020;Overwegende de « 
+gendertest » van 18 december 2020 uitgevoerd met toepassing van artikel 4, tweede lid, 1°,  van het decreet 
+van 7 januari 2016 houdende integratie van de genderdimensie in het geheel van de beleidslijnen van de 
+Franse Gemeenschap;Overwegende dat de gezondheidscrisis van het coronavirus COVID-19 vereist 
+dat de eisen voor de praktische organisatie van bepaalde lesactiviteiten worden aangepast om te reageren 
+op de organisatorische en materiële moeilijkheden die verband houden met deze crisis, in de specifieke 
+gevallen van organisaties in gevangenissen, stages, professionele leer- en opleidingsactiviteiten en 
+geïntegreerde proeven, waarvan de organisatorische voorwaarden onderworpen zijn aan factoren die extern 
+zijn aan onderwijsinstellingen voor sociale promotie; Overwegende de gezondheidscrisis in verband 
+met het COVID-19-coronavirus en de socio-economische gevolgen ervan, waarbij de digitale transitie en 
+organisatorische veranderingen de sleutel zullen zijn tot een snelle hervatting in veel activiteitensectoren; 
+Overwegende dat het onderwijs voor sociale promotie, naast opleidingsactiviteiten, een instrument 
+heeft dat bijzonder geschikt is voor de behoeften van sectoren inzake korte opleidingen waardoor vaardigheden 
+en kennis kunnen worden verbeterd zonder dat een formele bekrachtiging nodig is, in het bijzonder met 
+het oog op gekwalificeerd personeel bij de hervatting;Gelet op de dringende noodzakelijkheid 
+om de capaciteit van onderwijsinstellingen voor sociale promotie te versterken voor de organisatie van 
+opleidingsactiviteiten door het maximum van één procent van de dotatie aan organieke lestijden die aan 
+deze activiteit wordt besteed, te verhogen;  Gelet op de dringende noodzakelijkheid gemotiveerd 
+door de noodzaak om zo snel mogelijk de studenten en de onderwijsinstellingen voor sociale promotie in 
+te lichten over de nieuwe nadere regels voorgesteld door dit besluit van bijzondere machten om hen in 
+staat te stellen zich zo goed mogelijk te organiseren;Overwegende dat de organisatie van de 
+instellingen voor sociale promotie en het gebruik van dotatie-lestijden over ten minste twee kalenderjaren 
+vastgesteld worden;Op de voordracht van de Minister van Onderwijs voor sociale promotie; Na 
+beraadslaging,Besluit : Artikel 1. In artikel 2 van het besluit van de Regering van 
+de Franse Gemeenschap van bijzondere machten nr. 9 van 7 mei 2020 houdende diverse bepalingen inzake 
+onderwijs voor sociale promotie in het kader van de COVID-19-gezondheidscrisis, bekrachtigd door het 
+decreet van 9 december 2020, worden de volgende wijzigingen aangebracht :1°  de woorden « op 
+31 december 2020 » worden vervangen door de woorden « op 31 augustus 2021 »;2°  artikel 2 wordt 
+aangevuld met een lid, luidend als volgt :« Deze mogelijkheid is beperkt tot de volgende onderwijseenheden 
+:a) de onderwijseenheden verstrekt in gevangenissen;b) de onderwijseenheden voor 
+stage of professionele leer- of opleidingsactiviteiten;c) de onderwijseenheden voor geïntegreerde 
+proef voor zover ze gekoppeld zijn aan de onderwijseenheden vermeld in littera b) ».Art. 2. 
+ In afwijking van artikel 14, derde lid, van het decreet van 16 april 1991 betreffende het onderwijs 
+voor sociale promotie kunnen de onderwijseenheden met een begindatum in het academiejaar 2020-2021 meer 
+dan 365 dagen worden georganiseerd op voorwaarde dat de einddatum van deze onderwijseenheden uiterlijk 
+op 31 december 2021 valt.Deze mogelijkheid is beperkt tot de volgende onderwijseenheden :a) 
+onderwijseenheden verstrekt in gevangenissen;b) onderwijseenheden voor stage of professionele 
+leer- of opleidingsactiviteiten;c) onderwijseenheden voor geïntegreerde proef voor zover ze 
+gekoppeld zijn aan de onderwijseenheden vermeld in littera b).Art. 3. In afwijking van artikel 
+91/6, eerste lid, 5°,  en tweede lid, van hetzelfde decreet, voor de jaren 2021 en 2022, zijn de opleidingsactiviteiten 
+uitgesloten van het maximum van 10% van de dotatie aan organieke lestijden bedoeld in artikel 82 van 
+hetzelfde decreet. In afwijking van artikel 91/6, derde lid, van hetzelfde decreet, voor de 
+jaren 2021 en 2022, mag het totaal van lestijden besteed aan opleidingsactiviteiten het maximum van 5% 
+van de dotatie aan organieke lestijden bedoeld in artikel 82 van hetzelfde decreet niet overschrijden.Art. 
+4. Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt, met 
+uitzondering van artikel 1 dat uitwerking heeft met ingang van 31 december 2020. Art. 5. De 
+Minister van Onderwijs voor sociale promotie is belast met de uitvoering van dit besluit.Brussel, 
+4 februari 2021.De Minister-President,P.-Y. JEHOLETDe Minister van Hoger 
+Onderwijs, Onderwijs voor sociale promotie, Universitaire ziekenhuizen, Hulpverlening aan de Jeugd, Justitiehuizen, 
+Jeugd, Sport en Promotie van Brussel,V. GLATIGNY   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021030269
+

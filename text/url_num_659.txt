@@ -1,0 +1,110 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/08/23/2021021815/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-07Numac : 2021021815
+WAALSE OVERHEIDSDIENST
+ 23 AUGUSTUS 2021. - Ministerieel besluit houdende uitvoering van het besluit van de Waalse Regering van 1 juli 2021 betreffende de invoering van een veerkrachtmechanisme voor de sectoren die het zwaarst getroffen zijn sinds het begin van de COVID-19-crisis 
+De Minister van Economie,Gelet 
+op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote 
+ondernemingen, inzonderheid op artikelen 10 en 19;Gelet op het besluit van de Waalse Regering 
+van 1 juli 2021 betreffende de invoering van een veerkrachtmechanisme voor de sectoren die het zwaarst 
+getroffen zijn sinds het begin van de COVID-19-crisis, inzonderheid op artikelen 4, lid 3, en 6, lid 
+1;Gelet op het rapport van 9 augustus 2021, opgemaakt overeenkomstig artikel 3, 2°,  van het 
+decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde 
+Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het 
+geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspectie van Financiën, 
+gegeven op 9 augustus 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 
+13 augustus 2021;Gelet op de kennisgeving aan de Europese Commissie en haar goedkeuring op 
+22 juli 2021 betreffende de steunregeling nr. SA.64030 (2021/N);Gelet op het verzoek om adviesverlening 
+binnen een termijn van 5 dagen, gericht aan de Raad van State op 16 augustus 2021, overeenkomstig artikel 
+84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op het uitblijven van advies binnen deze termijn;Gelet op artikel 84, § 4, lid 2, van 
+de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de dringende noodzakelijkheid;Gelet 
+op het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van 
+het coronavirus COVID-19 te beperken, laatstelijk gewijzigd bij het ministerieel besluit van 4 juni 2021;Overwegende 
+dat sommige sectoren sinds het begin van de crisis zwaar getroffen zijn, hetzij door de duur van de sluiting 
+die bij opeenvolgende ministeriële besluiten van de federale Regering is opgelegd, hetzij door de verboden 
+en voorwaarden in verband met niet-essentiële reizen;Overwegende dat blijkt dat voor bedrijfssectoren 
+zoals horeca, reizen, evenementen, culturele, sportieve en recreatieve activiteiten, het omzetverlies 
+sinds het begin van de COVID-19-crisis bijzonder groot is;Overwegende dat moet worden voorzien 
+in nieuwe gerichte steunmaatregelen in de vorm van rechtstreekse steun voor deze sectoren, die nog steeds 
+in een impasse verkeren, en voor ondernemingen die een bijzonder moeilijk herstel doormaken;Gelet 
+op de ontwikkeling van de gezondheids- en economische situatie blijkt ook dat sommige van de zwaarst 
+getroffen sectoren meer steun nodig hebben, aangezien hun economische moeilijkheden zijn toegenomen door 
+de langdurige sluiting of beperking van activiteiten ;Overwegende dat de steun waarin het besluit 
+van de Waalse Regering van 1 juli 2021 voorziet, bedoeld is om de weerbaarheid van bedrijven die in de 
+betrokken sectoren actief zijn, te versterken;Overwegende dat dit besluit met name tot doel 
+heeft de termijn vast te stellen waarin de betrokken ondernemingen hun steunaanvraag kunnen indienen;Overwegende 
+dat dit besluit dringend aangenomen moet worden, aangezien het de activering van het interventiemechanisme 
+mogelijk maakt, dat bij bovengenoemd besluit van de Waalse Regering van 1 juli 2021 ingevoerd is;Overwegende 
+dat er dus moet worden ingegrepen en dat het van essentieel belang is zo spoedig mogelijk financiële 
+steun aan deze sectoren te verlenen;Gelet op de mededeling van de Commissie van 19 maart 2020 
+in verband met de tijdelijke omkadering van de staatssteunmaatregelen ter ondersteuning van de economie 
+in de actuele context van de wijd verspreide COVID-19- epidemie, punt 22;Op de voordracht van 
+de Minister van Economie,Besluit : Artikel 1. Voor de toepassing van dit ministerieel 
+besluit wordt verstaan onder:1°  het besluit van de Waalse Regering: het besluit van de Waalse 
+Regering van 1 juli 2021 betreffende de invoering van een veerkrachtmechanisme voor de sectoren die het 
+zwaarst getroffen zijn sinds het begin van de COVID-19-crisis;2°  de tegemoetkoming: de tegemoetkoming 
+die overeenkomstig het besluit van de Waalse Regering wordt toegekend;3°  de onderneming: de 
+onderneming zoals bedoeld in artikel 1, 3°,  van het besluit van de Waalse Regering;4°  de 
+Administratie: de Administratie zoals bedoeld in artikel 1, 5°,  van het besluit van de Waalse Regering.Art. 
+2.  § 1. Overeenkomstig artikel 4, lid 3, van het besluit van de Waalse Regering moet de btw-plichtige 
+onderneming de volgende bewijsstukken aan de Administratie toezenden:1°  de ontvangstbevestiging 
+van de btw-aangiften voor de periode van het tweede kwartaal van 2019 tot en met het eerste kwartaal 
+van 2021;2°  of de verkoopboeken voor de in punt 1°  bedoelde periode;3°  of de ontvangstboeken 
+voor de in punt 1°  bedoelde periode;4°  of de facturen opgemaakt tijdens de in punt 1°  bedoelde 
+periode. § 2. Overeenkomstig artikel 4, lid 3, van het besluit van de Waalse Regering 
+moet de btw-plichtige onderneming de volgende bewijsstukken aan de Administratie toezenden:1° 
+ de driemaandelijkse verkoopboeken voor de periode van het tweede kwartaal van 2019 tot en met het eerste 
+kwartaal van 2021;2°  of de ontvangstboeken voor de in punt 1°  bedoelde periode;3° 
+ of de facturen opgemaakt tijdens de in punt 1°  bedoelde periode.Art. 3. Overeenkomstig artikel 
+6, lid 1, van het besluit van de Waalse Regering, dient de onderneming haar steunaanvraag van 25 augustus 
+2021 tot en met 24 september 2021 in.Art. 4. Dit besluit treedt in werking op 25 augustus 2021.Namen, 
+23 augustus 2021.W. BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-07Numac : 2021021815
+

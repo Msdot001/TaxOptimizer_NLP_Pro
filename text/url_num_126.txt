@@ -1,0 +1,345 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/28/2020010391/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-03Numac : 2020010391
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 28 MEI 2020. - Bijzondere machtenbesluit nr. 2020/030 van de Brusselse Hoofdstedelijke Regering betreffende de steun aan ondernemingen die een terugval van hun activiteit ondergaan als gevolg van de gezondheidscrisis COVID-19 
+Verslag aan de RegeringIn het kader van de COVID-19-pandemie heeft de Brusselse 
+Hoofdstedelijke Regering beslist de Brusselse economie en werkgelegenheid te ondersteunen via een reeks 
+noodmaatregelen. Het doel was om de zwaarst getroffen sectoren te ondersteunen. In het licht 
+van de veranderende economische situatie is de vraag naar extra steun voor zwaar getroffen economische 
+actoren gerezen. De Brusselse Regering heeft ingestemd met de toekenning van een compensatiepremie 
+van 2.000 euro ter ondersteuning van ondernemers en micro-ondernemingen (tussen 0 en 5 VTE) die geconfronteerd 
+worden met een aanzienlijke daling van hun activiteit ten gevolge van de maatregelen die werden genomen 
+om de verspreiding van COVID-19 tegen te gaan. Het budget voor deze maatregel bedraagt 102 miljoen euro.Deze 
+premie kan meer bepaald worden toegekend aan aanvragers met een vestigingseenheid en personele middelen 
+en eigen goederen op het grondgebied van het Brussels Hoofdstedelijk Gewest (vestigingseenheid ingeschreven 
+bij de Kruispuntbank van Ondernemingen).De premie is beschikbaar voor :1° een zelfstandige 
+in onderneming, natuurlijke persoon, die het volledige overbruggingsrecht geniet voor maart of april 
+2020, dat hem vóór de bekendmaking van dit besluit werd toegekend;2°  een vennootschap waarvan 
+de zaakvoerder het volledige overbruggingsrecht geniet voor maart of april 2020, dat hem vóór de bekendmaking 
+van dit besluit werd toegekend; 3°  een vennootschap waarvan de zaakvoerder geen zelfstandige 
+is, indien de meerderheid (dat wil zeggen meer dan de helft) van de werknemers tijdelijk werkloos is 
+in het kader van COVID-19 in maart of april 2020;4°  een vereniging indien de meerderheid van 
+de werknemers tijdelijk werkloos is in het kader van COVID-19 in maart of april 2020.De steun 
+wordt slechts eenmaal aan dezelfde aanvrager toegekend. De steun kan niet worden gecumuleerd 
+met enige andere premie die in het kader van de COVID-19-gezondheidscrisis wordt aangevraagd bij een 
+gewest, een gemeenschap of een instelling van openbaar nut die afhankelijk is van een van deze entiteiten. 
+Het is dus niet mogelijk om deze premie te cumuleren met, in het bijzonder, de andere premies van het 
+Brussels Hoofdstedelijk Gewest die wegens de crisis worden toegekend : forfaitaire premie van 4.000 euro 
+(bijzondere machtenbesluit nr. 2020/13 van 7 april 2020), premie voor de sociale economie (bijzondere 
+machtenbesluit nr. 2020/007 van 16 april 2020), taxipremie (bijzondere machtenbesluit nr. 2020/16 van 
+7 mei 2020), premie voor de landbouw en aquacultuur (bijzondere machtenbesluit nr. 2020/19 van 7 mei 
+2020), enz. De begunstigden van de steun mogen geen overheidsbedrijf zijn, noch een onderneming 
+die opdrachten van algemeen belang uitvoert, noch een onderneming waarvan het maatschappelijk doel niet 
+van economische aard is, noch een onderneming die voor meer dan 50% door de overheid wordt gefinancierd.Onder 
+de bovengenoemde beperking, omvatten de categorieën van potentiële begunstigden die worden beoogd door 
+deze maatregel, dus met name :- de zelfstandigen in onderneming, met inbegrip van de vrije, 
+medische en paramedische beroepen;- de verenigingen waarvan het maatschappelijk doel van economische 
+aard is.Niet alle personen die onder het statuut van zelfstandige werken, zullen dus onder 
+bepaalde voorwaarden recht hebben op de premie, maar alleen de zelfstandigen in onderneming die een ondernemingsnummer 
+hebben.Om de verwerking van het verwachte grote aantal aanvragen te vergemakkelijken, is het 
+de bedoeling om samen te werken met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen 
+(RSVZ) en de Kruispuntbank van de Sociale Zekerheid, om de gegevens met betrekking tot de toegekende 
+overbruggingsrechten te verkrijgen en het verband te kunnen nagaan tussen het nationale nummer van de 
+begunstigde van het overbruggingsrecht en het ondernemingsnummer van de zelfstandige of de onderneming 
+die de premie aanvraagt. Deze methode zou een snellere verwerking mogelijk moeten maken en voorkomen 
+dat de premie op de grond van een verklaring wordt toegekend. Wat de tijdelijke werkloosheid betreft, 
+zullen de aanvragers bewijzen moeten voorleggen die handmatig zullen worden gecontroleerd.Inachtneming 
+van het advies van de Raad van StateDe Raad van State, die met spoed is geraadpleegd, heeft 
+zijn opmerkingen meegedeeld in advies 67.422/1 van 25 mei 2020. Dit advies kon niet bij dit verslag worden 
+gevoegd omdat het slechts in een voorlopige, eentalige versie beschikbaar is. De bevindingen van dit 
+advies hebben aanleiding gegeven tot wijzigingen in het besluit.Uit een gecombineerde lezing 
+van verschillende bepalingen van het Gemeenschapsrecht leidt de Raad van State af dat het advies van 
+de Gegevensbeschermingsautoriteit had moeten worden ingewonnen.Deze mening wordt niet gedeeld. 
+Ten eerste is de formulering van artikel 57, eerste lid, c), van de Algemene Verordening Gegevensbescherming 
+(AVG) niet absoluut bindend. Ze verwijst overigens naar de modaliteiten die zijn vastgelegd in het recht 
+van de Lidstaat, dat met name artikel 2, § 4, van de ordonnantie van 19 maart 2020 om bijzondere 
+machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis 
+COVID-19 omvat. Artikel 36, lid 4, van de AVG moet worden gelezen in samenhang met zijn eerste lid, dat 
+het volgende bepaalt : `Wanneer uit een gegevensbeschermingseffectbeoordeling krachtens artikel 35 blijkt 
+dat de verwerking een hoog risico zou opleveren indien de verwerkingsverantwoordelijke geen maatregelen 
+neemt om het risico te beperken, raadpleegt de verwerkingsverantwoordelijke voorafgaand aan de verwerking 
+de toezichthoudende autoriteit.' Dit hoog risico is in dit geval niet aanwezig, temeer daar de door de 
+administratie verzamelde gegevens persoonlijke identificatiegegevens zijn die geen `gevoelige' gegevens 
+zijn in de zin van artikel 9 van de AVG.De Gegevensbeschermingsautoriteit (GBA) bevestigt dat 
+enkel `wanneer blijkt dat de geplande verwerking een hoog risico zou opleveren indien de verwerkingsverantwoordelijke 
+geen doeltreffende risico-beperkende maatregelen zou nemen, dient de verwerking voorafgaandelijk te worden 
+voorgelegd aan de toezichthoudende autoriteit. Indien het risico voldoende beperkt kan worden aan de 
+hand van passende technische en organisatorische maatregelen, dient er géén voorafgaande raadpleging 
+plaats te vinden.'1. Om deze verschillende redenen en gezien de urgentie zal het advies van de GBA niet 
+worden gevraagd.Vervolgens, aangezien het begrip `onderneming', zoals gedefinieerd in het eerste 
+artikel, ook `zelfstandigen in onderneming' omvat, beveelt de Raad van State aan de vermelding van zelfstandigen 
+in het opschrift te schrappen. Deze aanbeveling is opgevolgd.In het besluit zoals voorgelegd 
+aan de Raad van State werd het overbruggingsrecht van de zelfstandige in aanmerking genomen indien het 
+vóór de datum van inwerkingtreding van het besluit was uitbetaald. Een doelstelling van deze verduidelijking 
+was te voorkomen dat de kennisname van het besluit ertoe zou leiden dat zelfstandigen het overbruggingsrecht 
+zouden aanvragen, niet uit noodzaak, maar met de bedoeling deze compensatiepremie te kunnen genieten. 
+De tijd die nodig is om de aanvragen van het overbruggingsrecht te verwerken, is vrij kort. Uiteraard 
+is het nog meerdere maanden mogelijk om dit recht voor de bedoelde maanden maart en april aan te vragen. 
+Redelijkerwijs kan echter worden aangenomen dat degene die steun nodig heeft, deze aanvraag al heeft 
+ingediend.Een andere belangrijke doelstelling was een snelle, halfautomatische verwerking van 
+de premieaanvragen mogelijk te maken, met behulp van de gegevens van het RSVZ. Bij gebrek aan bruikbare 
+gegevens zou een handmatige verwerking van alle aanvragen de betaling van de premie aanzienlijk hebben 
+vertraagd. Dit zou de relevantie ervan hebben verminderd.De Raad van State betwijfelt of het 
+criterium van de betaling van het overbruggingsrecht voldoende beantwoordt aan de eis van gelijke behandeling 
+van zelfstandigen die het overbruggingsrecht genieten. Hij stelt voor om de voorkeur te geven aan een 
+criterium van de toekenning van het overbruggingsrecht. Deze suggestie is gevolgd.De Raad van 
+State herinnert eraan dat het grondwettelijk recht op bescherming van de persoonlijke levenssfeer impliceert 
+dat inbreuken op de persoonlijke levenssfeer een rechtsgrond moeten hebben. Die rechtsgrond moet melding 
+maken van de categorieën van persoonsgegevens die in uitvoering van de wetgeving zullen worden verwerkt.Artikel 
+8 is herschreven door toevoeging van de lijst van categorieën van persoonsgegevens die BEW mag verzamelen 
+en verwerken in het kader van de uitvoering van de regeling.Zoals aanbevolen door de Raad van 
+State is artikel 8, § 1, tweede lid, weggelaten.In artikel 9 van het ontwerp worden 
+bepaalde situaties gedefinieerd waarin de premie niet kan worden toegekend en moet worden terugbetaald 
+indien deze is toegekend. De Raad van State is van mening dat de formulering van de situaties onder 7° 
+ en 8°  niet duidelijk genoeg is, met name wat de onderlinge verhouding tussen deze twee situaties betreft. 
+De Raad beveelt aan om een situatie beoogd onder 7°  niet als voorbeeld weer te geven.Om aan 
+deze opmerkingen tegemoet te komen, is de algemene verwijzing naar de voorwaarden van de artikelen 3 
+en 4 geschrapt. Ze bevatte dubbelzinnigheden en was overbodig aangezien artikel 94 van de organieke ordonnantie 
+van 23 februari 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en 
+de controle van toepassing is op deze premie, volgens welk de begunstigde `die de voorwaarden niet naleeft, 
+waaronder de subsidie werd verleend' `is gehouden tot onmiddellijke terugbetaling van de subsidie'.De 
+Raad van State merkt op dat de artikelen 10 tot en met 13 van het besluit geïnspireerd zijn op sommige 
+bepalingen van hoofdstuk X van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische 
+ontwikkeling van ondernemingen. Hij beveelt aan, ter wille van de duidelijkheid en de eenvormigheid van 
+de regelgeving, om eerder naar dit hoofdstuk te verwijzen en om in het besluit aanvullende bepalingen 
+op te nemen die specifiek zijn voor de ontworpen steunregeling.Deze aanbeveling is niet gevolgd. 
+In het kader van de uitvoering van de regeling waarbij een forfaitaire premie van 4.000 euro wordt toegekend, 
+zijn pogingen tot fraude vastgesteld. Om het risico op fraude te beperken, werd het passend geacht om 
+in het besluit expliciet melding te maken van de middelen waarmee de premieaanvragen worden gecontroleerd, 
+maar ook van de mogelijkheid om sancties op te leggen en de hoogte van die sancties. Zo voorziet het 
+besluit in een administratieve geldboete en wordt het bedrag ervan uitgedrukt opcentiemen inbegrepen, 
+wat de Raad van State niet heeft afgeraden.Artikel 12 van het ontwerp bepaalt dat de processen-verbaal 
+van de ambtenaren die voor de controle bevoegd zijn, bewijskracht hebben tot het tegendeel bewezen is. 
+De Raad van State herinnert eraan dat het Grondwettelijk Hof van oordeel is dat een dergelijke bewijskracht 
+afwijkt van de algemene regel dat een proces-verbaal geldt als een loutere inlichting en derhalve ook 
+van de regel van de vrije bewijslevering in strafzaken. Hij verzoekt de auteurs dan ook erop toe te zien 
+dat deze bepaling verenigbaar is met de rechtspraak van het Grondwettelijk Hof.Om zo goed mogelijk 
+aan deze opmerking tegemoet te komen, is deze bewijskracht voorbehouden voor de processen-verbaal die 
+betrekking hebben op de inbreuken bedoeld in artikel 14. De processen-verbaal met betrekking tot de in 
+artikel 9 bedoelde uitsluitingen zullen dus niet dit karakter hebben. Het is belangrijk om deze bewijskracht 
+te behouden voor de processen-verbaal die betrekking hebben op de inbreuken bedoeld in artikel 14, aangezien 
+in dit soort geschillen vaak `het woord van de aanvrager tegen dat van de administratie' wordt gebruikt. 
+Bovendien, zoals de Raad van State terecht heeft opgemerkt, maakt het technische karakter van de in het 
+geding zijnde wetgeving het moeilijker om de inbreuken vast te stellen. Tot slot moet worden opgemerkt 
+dat de regelgeving, en dus de mogelijkheid om op basis daarvan administratieve geldboetes op te leggen, 
+een tijdelijk effect heeft.Ook de verschillende verbeteringen en correcties in de formulering 
+van het besluit die door de Raad van State zijn voorgesteld, zijn doorgevoerd, evenals het voorstel om 
+bepaalde visa af te schaffen. Er zijn nog andere verbeteringen of correcties in de formulering aangebracht.De 
+toevoeging aan artikel 3, 2°,  van de woorden `ingeschreven in de Kruispuntbank van Ondernemingen' vormt 
+een technische verduidelijking die geen gevolgen heeft voor de juridische draagwijdte van de steunregeling.In 
+artikel 3, 3°,  is de verwijzing naar het commerciële karakter geschrapt omdat het begrip `commercieel' 
+achterhaald is gezien de opheffing van het Wetboek van Koophandel per 1 november 2018. Deze wijziging 
+heeft evenmin gevolgen voor de draagwijdte van de bepaling.Barbara TRACHTEStaatssecretaris 
+voor Economische Transitie_______Nota1 https ://www.gegevensbeschermingsautoriteit.be/wanneer-een-voorafgaande-raadpleging-bij-de-toezichthoudende-autoriteit-verplicht-wat-houdt-dit, 
+geraadpleegd op 26 mei 2020.28 MEI 2020. - Bijzondere machtenbesluit nr. 2020/030 
+van de Brusselse Hoofdstedelijke Regering betreffende de steun aan ondernemingen die een terugval van 
+hun activiteit ondergaan als gevolg van de gezondheidscrisis COVID-19De Brusselse Hoofdstedelijke 
+Regering,Gelet op de ordonnantie van 19 maart 2020 tot toekenning van bijzondere machten aan 
+de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19, artikel 2, §§ 
+1 en 3;Gelet op artikel 2, § 3, 5°  van de ordonnantie van 4 oktober 2018 tot invoering 
+van de gelijkekansentest;Gelet op het akkoord van de Minister van Begroting, gegeven op 13 
+mei 2020;Gelet op de spoedeisendheid, gemotiveerd door het feit dat de COVID-19 gezondheidscrisis 
+aanzienlijke economische gevolgen heeft voor veel ondernemingen;Dat er dringend behoefte is 
+aan bijkomende steun voor zeer kleine ondernemingen die met aanzienlijke economische problemen te kampen 
+hebben, om de economische schade te beperken;Dat de steun waarin dit besluit voorziet met name 
+bedoeld is om een golf van faillissementen te voorkomen onder de zeer kleine ondernemingen en zelfstandigen 
+ondernemingen natuurlijke persoon die hun activiteiten als gevolg van de crisis aanzienlijk zien teruglopen;Dat 
+betalingsverzuim als gevolg van liquiditeitsproblemen kan leiden tot een domino-effect op de economie, 
+wat moet worden vermeden;Dat deze problemen en gevolgen op zeer korte termijn voelbaar zullen 
+zijn en dat de uitvoering van de steunmaatregel derhalve geen vertraging mag oplopen;Dat de 
+steun zo snel mogelijk uitgekeerd moet kunnen worden en de spoedeisendheid dan ook gerechtvaardigd is;Gelet 
+op advies 67.422/1 van de Raad van State, gegeven op 25 mei 2020, in toepassing van artikel 84, § 
+1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat de hierboven uiteengezette hoogdringendheid het niet mogelijk maakt het advies van de Inspectie van 
+Financiën in te winnen of de Economische en Sociale Raad te raadplegen, zoals toegelaten op grond van 
+artikel 2, § 4, van de ordonnantie van 19 maart 2020 tot toekenning van bijzondere bevoegdheden 
+aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19;Op 
+voorstel van de Minister bevoegd voor Economie,Na beraadslaging,Besluit :HOOFDSTUK 
+I. - Algemene bepalingenArtikel 1.  Voor de toepassing van dit besluit wordt verstaan onder 
+:1°  minister : de minister van de Brusselse Hoofdstedelijke Regering bevoegd voor economie;2° 
+ onderneming : de entiteit bedoeld in artikel 1 van de bijlage bij de Aanbeveling van de Commissie van 
+6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen; het begrip onderneming 
+omvat dan ook vennootschappen, zelfstandigen in ondernemingen en bepaalde verenigingen;3°  
+aanvrager : de onderneming, natuurlijke of rechtspersoon, die de steun aanvraagt;4°  begunstigde 
+: de onderneming, natuurlijke of rechtspersoon, die de steun ontvangt;5°  volledig overbruggingsrecht 
+: het maandelijks bedrag van de financiële uitkering bedoeld in artikel 10, § 1, van de wet van 
+22 december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en in artikel 
+4, § 1, van de wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende invoering 
+van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in 
+het kader van COVID-19 ten gunste van zelfstandigen;6°  tijdelijk werkloos in het kader van 
+COVID-19 : de tijdelijke werkloosheid wegens overmacht in het kader van de COVID-19-crisis, op grond 
+van de procedure van artikel 12 van het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures 
+in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 
+10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 
+63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheids-reglementering en tot invoeging 
+van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit;7°  verordening : de verordening 
+(EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 
+en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, bekendgemaakt 
+in het Publicatieblad van de Europese Unie L352 van 24 december 2013;8°  AVG : de verordening 
+(EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van 
+natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer 
+van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);9° 
+ BEW : Brussel Economie en Werkgelegenheid van de Gewestelijke Overheidsdienst Brussel.Art. 
+2. De minister verleent steun aan ondernemingen, onder de voorwaarden en volgens de modaliteiten vastgelegd 
+in dit besluit en onder de in de verordening bedoelde voorwaarden.HOOFDSTUK 2. - Steunvoorwaarden 
+en -procedureAfdeling 1. - Voorwaarden voor het verkrijgen van steunArt. 3. De aanvrager 
+kan de steun ontvangen als hij cumulatief :1°  maximaal vijf werknemers in voltijdse equivalenten 
+tewerkstelt op basis van de laatste bij de NBB gepubliceerde sociale balans, of, voor de ondernemingen 
+waarvoor de verplichting om rekeningen en balansen te publiceren nog niet geldt, op basis van de Dimona- 
+of DmfA-kopieën;2°  op 18 maart 2020, een vestigingseenheid ingeschreven in de Kruispuntbank 
+van Ondernemingen heeft op het grondgebied van het Brussels Hoofdstedelijk Gewest, er een economische 
+activiteit uitoefent en er beschikt over menselijke middelen en goederen die specifiek voor hem bestemd 
+zijn;3°  geen publieke onderneming is, noch een onderneming die opdrachten van algemeen belang 
+vervult, noch een onderneming waarvan het maatschappelijk doel geen economisch karakter heeft, noch een 
+onderneming waarvan de financiering van publieke oorsprong 50% overstijgt.4°  niet actief is 
+in de primaire productie van landbouwproducten of in de visserij- of aquacultuursector.5°  
+zich in een van de in artikel 4, § 1, bedoelde situaties bevindt.Art. 4.  § 1. 
+De steun bestaat uit een eenmalige premie van 2 000 euro voor :1°  de zelfstandige onderneming 
+natuurlijke persoon die het volledige overbruggingsrecht geniet voor maart of april 2020, dat hem vóór 
+de bekendmaking van dit besluit werd toegekend;2°  de vennootschap waarvan de zaakvoerder het 
+volledige overbruggingsrecht geniet voor maart of april 2020, dat hem vóór de bekendmaking van dit besluit 
+werd toegekend;3°  de vennootschap waarvan de zaakvoerder geen zelfstandige is, voor zover 
+de meerderheid van de werknemers in maart of april 2020 tijdelijk werkloos is in het kader van COVID-19;4° 
+ de vereniging voor zover de meerderheid van de werknemers in maart of april 2020 tijdelijk werkloos 
+is in het kader van COVID-19. § 2. De steun wordt slechts eenmaal aan dezelfde begunstigde 
+toegekend.De steun kan niet worden gecumuleerd met enige andere premie die in het kader van 
+de COVID-19-crisis aangevraagd is aan een gewest, een gemeenschap of een instelling van openbaar nut 
+die afhankelijk is van een van deze entiteiten.Afdeling 2. - Procedure voor het onderzoek van 
+de steunaanvraag-dossiers, de toekenning en de uitbetaling van de steunArt. 5. De 
+aanvrager dient zijn steunaanvraag in bij BEW via een formulier dat BEW op zijn website beschikbaar stelt. 
+De aanvraag wordt door de aanvrager ingediend en moet uiterlijk op 30 juni 2020 door BEW in 
+ontvangst genomen worden.De aanvrager kan slechts één aanvraag indienen.De aanvrager 
+vermeldt in zijn aanvraag alle andere onder de verordening of andere de-minimisverordeningen vallende 
+steun die de onderneming de voorbije twee belastingjaren en in het lopende belastingjaar heeft ontvangen.BEW 
+kan per e-mail alle documenten of informatie opvragen die het voor het onderzoek van de aanvraag noodzakelijk 
+acht. De aanvrager verstrekt de aanvullende documenten en informatie binnen de twintig dagen. Indien 
+binnen deze termijn geen antwoord wordt ontvangen, wordt de aanvraag onherroepelijk geweigerd.Art. 
+6. De beslissing om de steun toe te kennen wordt binnen drie maanden na de indiening van de steunaanvraag 
+aan de begunstigde betekend.BEW deelt de begunstigde mee dat de steun overeenkomstig de verordening 
+wordt verleend.Art. 7. De steun wordt in één enkele schijf vereffend op een Belgisch bankrekeningnummer 
+op naam van de begunstigde.Art. 8.  § 1. Het beheer en de controle van de aanvragen 
+kan, om de in de aanvraag opgegeven gegevens te controleren of aan te vullen, de verwerking van de volgende 
+categorieën van persoonsgegevens betreffen :1°  de identificatie- en contactgegevens van de 
+personen die namens de aanvragers de aanvraag indienen;2°  de identificatie-, adres- en contactgegevens 
+van de zelfstandige ondernemingen natuurlijk persoon die de premie aanvragen;3°  de identificatiegegevens 
+van de zelfstandige zaakvoerders van de aanvragers;4°  de identificatiegegevens en gegevens 
+betreffende de sociale zekerheidssituatie van de begunstigden van het overbruggingsrecht voor maart of 
+april 2020;5°  de identificatiegegevens en gegevens betreffende de arbeidssituatie van de werknemers 
+van de ondernemingen die de premie aanvragen in het kader van artikel 4, § 1, 3°  en 4° ;6° 
+ de gegevens betreffende strafrechtelijke en administratieve sancties en feiten van de aanvragers en 
+begunstigden bedoeld in artikel 9, 1°. In het kader van het beheer en de controle van de aanvragen, 
+is BEW gemachtigd om het rijksregisternummer te gebruiken, in overeenstemming met artikel 8, § 
+1, lid 3, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen. 
+§ 2. BEW is de verwerkingsverantwoordelijke voor de persoonsgegevens bedoeld in § 1.BEW 
+kan de persoonsgegevens, en andere gegevens, bekomen van de aanvrager of van een andere overheidsinstantie. 
+§ 3. De maximale bewaringstermijn voor persoonsgegevens die op grond van deze bepaling worden 
+verwerkt, bedraagt drie jaar, behalve voor persoonsgegevens die eventueel nodig zouden zijn voor de behandeling 
+van geschillen met de steunaanvrager, gedurende de tijd die nodig is om dergelijke geschillen te behandelen.HOOFDSTUK 
+3. - UitsluitingsgrondenArt. 9. Wordt uitgesloten van de steun, of desgevallend gehouden tot 
+terugbetaling, de aanvrager of begunstigde die :1°  een sanctie wordt opgelegd op grond van 
+artikel 10 van het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken, of elke andere regelgeving die het vervangt of waardoor het 
+wordt vervangen;2°  de voorafgaande aangifte- en registratieplicht bedoeld in artikel 4 van 
+de ordonnantie van 8 mei 2014 betreffende het toeristisch logies niet naleeft;3°  niet alle 
+toepasselijke verplichtingen op het gebied van het milieu-, sociaal en arbeidsrecht naleeft;4° 
+ op het ogenblik van de indiening van de steunaanvraag, zich in een faillissementsprocedure opgestart 
+voor maart 2020 bevindt, zich in staat van faillissement of van vereffening bevindt, zijn werkzaamheden 
+heeft gestaakt, een aangifte van faillissement heeft gedaan, voor hem een vereffeningsprocedure aanhangig 
+is of in een vergelijkbare toestand verkeert ingevolge een soortgelijke procedure die bestaat in andere 
+nationale reglementeringen;5°  opzettelijk onjuiste inlichtingen verstrekt;6°  zich 
+in een van de gevallen bevindt als bedoeld in artikel 3, § 1, eerste lid, van de ordonnantie van 
+8 oktober 2015 houdende algemene regels betreffende de inhouding, de terugvordering en de niet-vereffening 
+van subsidies op het vlak van werkgelegenheid en economie, zolang hij de subsidies als bedoeld in voornoemde 
+ordonnantie niet terugbetaalt overeenkomstig de regels bedoeld in haar artikel 4;7°  als zelfstandige, 
+verplicht is de uitkeringen uit hoofde van het overbruggingsrecht terug te geven, in de situaties vermeld 
+in artikel 4, § 1, 1°  en 2° ;8°  een inbreuk heeft gepleegd in het kader van het verkrijgen 
+van de tijdelijke werkloosheid, in de situaties vermeld in artikel 4, § 1, 3°  en 4° ;9° 
+ in het kader van de COVID-19-crisis een gewestelijke of gemeenschapspremie heeft aangevraagd en aan 
+de voorwaarden voor die premie voldoet.De begunstigde moet gedurende een periode van drie jaar 
+vanaf de datum van toekenning van de steun voldoen aan de in lid 1 vermelde voorwaarden, met uitzondering 
+van de in het eerste lid, 4°  vermelde voorwaarde.HOOFDSTUK 4. - Controle, terugvordering van 
+de steun en sanctiesArt. 10. De inspecteurs van de Directie Economische Inspectie van BEW die 
+belast zijn met de uitvoering van inspectietaken controleren de toepassing van dit besluit en houden 
+toezicht op de naleving ervan.De inspecteurs maken zich bij de uitoefening van hun ambt kenbaar 
+met een legitimatiekaart, zoals bedoeld in bijlage 2 van het besluit van de Brusselse Hoofdstedelijke 
+Regering van 11 oktober 2018 houdende uitvoering van de ordonnantie van 3 mei 2018 betreffende de steun 
+voor de economische ontwikkeling van ondernemingen.Art. 11. Met het oog op het opsporen en 
+vaststellen van inbreuken op dit besluit hebben de in artikel 10 bedoelde ambtenaren de volgende bevoegdheden 
+:1°  zich tijdens de gewone openings- of werkuren toegang verschaffen tot of zich toegang laten 
+verschaffen tot alle plaatsen waarvan zij op redelijke gronden van oordeel zijn dat de betreding ervan 
+voor het vervullen van hun taak noodzakelijk is, tenzij het bewoonde lokalen betreft, die niettemin kunnen 
+worden betreden na de voorafgaande en schriftelijke toestemming van de bewoner;2°  alle nuttige 
+vaststellingen doen, alle onderzoeken, controles en opsporingen uitvoeren en alle informatie verzamelen 
+die zij noodzakelijk achten voor het verzekeren van een daadwerkelijke naleving van de bepalingen van 
+dit besluit;3°  elke persoon ondervragen over elk feit waarvan de kennis ervan nuttig is voor 
+de opsporing of de vaststelling;4°  zich alle inlichtingen, documenten, stukken, boeken, bescheiden, 
+gegevensbestanden en geïnformatiseerde dragers van gegevens laten verstrekken die zij tot het volbrengen 
+van hun taken nodig achten en hiervan gratis afschrift nemen, of ze gratis meenemen tegen afgifte van 
+een ontvangstbewijs;5°  vaststellingen doen door middel van het maken van beeld- en geluidsmateriaal, 
+ongeacht de drager ervan, en eveneens beeldmateriaal van derden gebruiken, voor zover deze personen dit 
+materiaal rechtmatig hebben gemaakt of verkregen.Art. 12. De in artikel 10 bedoelde ambtenaren 
+stellen de inbreuken bedoeld in artikel 14, eerste lid, vast door middel van een proces-verbaal dat bewijskracht 
+heeft tot het tegendeel bewezen is. Een kopie van het proces-verbaal wordt binnen de vijftien dagen na 
+de vaststelling van de inbreuken overgemaakt aan de inbreukpleger.Art. 13. De bepalingen van 
+de ordonnantie van 8 oktober 2015 houdende algemene regels betreffende de inhouding, de terugvordering 
+en de niet-vereffening van subsidies op het vlak van werkgelegenheid en economie en de uitvoeringsmaatregelen 
+ervan zijn van toepassing op de steun vastgelegd in dit besluit.Art. 14. Er kan een administratieve 
+boete van 4 000 tot 8 000 euro worden opgelegd aan :1°  de natuurlijke of rechtspersoon die 
+op bedrieglijke wijze de steun probeert te bekomen of heeft bekomen;2°  de natuurlijke of rechtspersoon 
+die in het kader van de steunaanvraag of de controle op de toegekende steun valse documenten of onrechtmatig 
+verkregen documenten voorlegt.De bepalingen van de ordonnantie van 9 juli 2015 houdende geharmoniseerde 
+regels betreffende de administratieve geldboeten bepaald bij de wetgeving op het vlak van werkgelegenheid 
+en economie zijn van toepassing op de administratieve boetes vastgelegd in het eerste lid, met uitzondering 
+van artikel 3 van die ordonnantie, met betrekking tot de opdeciemen.HOOFDSTUK 5. - SlotbepalingenArt. 
+15. Dit besluit treedt in werking op 8 juni 2020.Art. 16. De minister is belast met de uitvoering 
+van dit besluit.Brussel, 28 mei 2020.Voor de Regering :De Minister-President,R. 
+VERVOORTDe Minister van Economie,A. MARON  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-03Numac : 2020010391
+

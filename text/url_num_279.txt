@@ -1,0 +1,63 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-08Numac : 2020203671
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+  
+Vergelijkende selectie van Nederlandstalige Beleidsadviseurs Crisisbeheer COVID-19 (A3) (m/v/x) (niveau 
+A3) voor de FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu. - Selectienummer: ANG20254 
+Solliciteren kan tot 22/09/2020 via www.selor.be De gedetailleerde functiebeschrijving 
+(jobinhoud, deelnemingsvoorwaarden, selectieprocedure,...) kan u verkrijgen bij FOD BOSA via www.selor.be 
+Geef het selectienummer in via de zoekmotor om de selectie terug te vinden.De lijst 
+van geslaagden, zonder rangschikking, bestaat uit de kandidaten die het meest aansluiten bij de functiebeschrijving 
+en het competentieprofiel. Deze lijst wordt door de DG Rekrutering en Ontwikkeling verstuurd naar de 
+Voorzitter van het Directiecomité van de FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu.Naast 
+deze lijst van laureaten wordt een bijzondere lijst opgesteld (die 4 jaar geldig blijft) van de personen 
+met een handicap die geslaagd zijn.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-08Numac : 2020203671
+

@@ -1,0 +1,204 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/11/18/2021205575/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-12-01Numac : 2021205575
+WAALSE OVERHEIDSDIENST
+ 18 NOVEMBER 2021. - Besluit van de Waalse Regering tot wijziging van het besluit van de Waalse Regering van 16 november 2000 tot uitvoering van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake Waalse gewestelijke belastingen 
+De Waalse Regering,Gelet 
+op het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe 
+gewestelijke belastingen, inzonderheid op de artikelen 2, 6, 10 tot 16, 17bis, 18, 18bis, 19, 20bis, 
+20quater, 25, 26, 27, 31, 57bis, 63, § 2, 1°, en 64;Gelet op het besluit van de Waalse 
+Regering van 16 november 2000 tot uitvoering van het decreet van 6 mei 1999 betreffende de vestiging, 
+de invordering en de geschillen inzake de Waalse gewestelijke belastingen, zoals gewijzigdBesluit 
+van de Waalse Regering van 3 juni 2021 tot wijziging van het besluit van de Waalse Regering van 19 juli 
+2018 betreffende de organieke personeelsformatie van de Waalse Overheidsdienst;Gelet op het 
+verslag van 14 juni 2021, opgesteld overeenkomstig artikel 3, 2°, van het decreet van 11 april 2014 houdende 
+uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 
+in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke 
+beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, gegeven op 18 juni 2021;Gelet 
+op de instemming van de Minister van Begroting, gegeven op 14 juli 2021;Gelet op advies nr. 
+70.258/4 van de Raad van State, gegeven op 28 oktober 2021, overeenkomstig artikel 84, § 1, eerste 
+lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende dat 
+verschillende bepalingen moeten worden bijgewerkt, onder meer om gevolg te geven aan de nieuwe structuur 
+van de Waalse Overheidsdienst;Overwegende dat de procedure inzake administratief beroep moet 
+worden aangepast om de administratie in staat te stellen optimaal te functioneren in het belang van de 
+belastingplichtige, onder meer om de hervatting van de dienst van de onroerende voorheffing op te volgen;Overwegende 
+ten slotte dat verschillende bepalingen moeten worden aangepast om tot een tekst te komen die toegankelijker 
+en begrijpelijker is voor de belastingplichtige;Op de voordracht van de Minister van Financiën;Na 
+beraadslaging, Besluit : Artikel 1. In artikel 1 van het besluit van de Waalse Regering 
+van 16 november 2000 tot uitvoering van het decreet van 6 mei 1999 betreffende de vestiging, de invordering 
+en de geschillen inzake de Waalse gewestelijke belastingen wordt punt 3° vervangen als volgt : "3° 
+ontvanger : de ambtenaar van de Waalse Overheidsdienst Financiën die belast is met de invordering van 
+belastingvorderingen ten gunste van het Waalse Gewest, of de ambtenaar die deze functie uitoefent.". 
+Art. 2. Artikel 2 van hetzelfde besluit, laatst gewijzigd bij het besluit van de Waalse Regering 
+van 13 juli 2017, wordt opgeheven.Art. 3. Artikel 3 van hetzelfde besluit, laatst gewijzigd 
+bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen door wat volgt : " 
+Art.3. De ambtenaren bedoeld in artikel 2 van het decreet belast met de inontvangstname en het nazicht 
+van de aangiften zijn : 1° voor de toepassing van de verkeersbelasting, de inverkeersstellingsbelasting, 
+de belasting op de spelen en weddenschappen, de belasting op automatische ontspanningstoestellen, de 
+belasting op de automaten, de belasting op de opening van slijterijen van gegiste dranken, de ambtenaren 
+van het Departement Vestiging en Controle van de Waalse Overheidsdienst Financiën;voor de toepassing 
+van de belastingen op de afvalstoffen en de belastingen en retributies inzake de financiering van het 
+waterbeleid, de ambtenaren van het Departement Bodem en Afvalstoffen van de Waalse Overheidsdienst Landbouw, 
+Natuurlijke Hulpbronnen en Leefmilieu.". Art. 4. In hoofdstuk II van hetzelfde besluit wordt 
+een artikel 3bis ingevoegd, luidend als volgt : "Art. 3bis. In het geval van aangiften betreffende 
+de belasting op de afvalstoffen bevestigt de in artikel 3 bedoelde dienst die belast is met de inontvangstname 
+en het nazicht van de aangiften, de ontvangst van de aangifte binnen tien werkdagen na ontvangst van 
+de aangifte.". Art. 5. In artikel 4, paragraaf 1, van hetzelfde decreet, laatstelijk gewijzigd 
+bij het besluit van de Waalse Regering van 15 maart 2012, wordt het woord "Waalse" telkens geschrapt. 
+Art. 6. Artikel 5 van hetzelfde besluit, laatst gewijzigd bij het besluit van de Waalse Regering 
+van 18 juli 2019, wordt vervangen door wat volgt : "Art. 5. De in artikel 6 van het decreet 
+bedoelde dienst die belast is met de aflevering van het aangifteformulier, bestaat uit : 1° 
+voor de toepassing van de onroerende voorheffing, de verkeersbelasting, de inverkeersstellingsbelasting, 
+de belasting op de spelen en weddenschappen, de belasting op automatische ontspanningstoestellen, de 
+belasting op de automaten, de belasting op de opening van slijterijen van gegiste dranken, het Departement 
+Vestiging en Controle van de Waalse Overheidsdienst Financiën;2° voor de toepassing van de 
+belastingen op de afvalstoffen en de belastingen en retributies inzake de financiering van het waterbeleid, 
+het Departement Bodem en Afvalstoffen van de Waalse Overheidsdienst Landbouw, Natuurlijke Hulpbronnen 
+en Leefmilieu.". Art. 7. Artikel 5bis van hetzelfde besluit, ingevoegd bij het besluit van 
+de Waalse Regering van 6 december 2007, wordt opgeheven.Art. 8. Artikel 6 van hetzelfde besluit, 
+laatst gewijzigd bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen door wat volgt 
+: "Art. 6. De in de artikelen 10 tot 16 van het decreet bedoelde dienst bestaat uit : 1° 
+voor de toepassing van de onroerende voorheffing, de verkeersbelasting, de inverkeersstellingsbelasting, 
+de kilometerheffing, de belasting op de spelen en weddenschappen, de belasting op automatische ontspanningstoestellen, 
+de belasting op de automaten, de belasting op afgedankte bedrijfsruimtes en de belasting op de opening 
+van slijterijen van gegiste dranken, het Departement Vestiging en Controle van de Waalse Overheidsdienst 
+Financiën;2° voor de toepassing van de belastingen op de afvalstoffen en de belastingen en 
+retributies inzake de financiering van het waterbeleid, het Departement Bodem en Afvalstoffen van de 
+Waalse Overheidsdienst Landbouw, Natuurlijke Hulpbronnen en Leefmilieu.". Art. 9. In artikel 
+6bis van hetzelfde besluit worden in lid 1, ingevoegd bij het besluit van de Waalse Regering van 22 december 
+2009, de woorden "van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst" 
+vervangen door de woorden "van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie 
+uitoefent, of de door hem afgevaardigde ambtenaar.". Art. 10. Artikel 7 van hetzelfde besluit, 
+laatst gewijzigd bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen door wat volgt 
+: "Art. 7. De in artikel 18 van het decreet bedoelde ambtenaar is de inspecteur-generaal van 
+de dienst Vestiging en Controle van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie 
+uitoefent, of de door hem afgevaardigde ambtenaar.In afwijking van de eerste alinea en in toepassing 
+van artikel D.282 van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, voor wat betreft de 
+belastingen en retributies inzake de financiering van het waterbeleid en de belastingen op de afvalstoffen, 
+worden de kohieren opgesteld door de directeur-generaal van de Waalse Overheidsdienst Landbouw, Natuurlijke 
+Hulpbronnen en Leefmilieu, of de ambtenaar die deze functie uitoefent, of de door hem gedelegeerde ambtenaar, 
+en uitvoerbaar verklaard door de directeur-generaal van de Waalse Overheidsdienst Financiën, of de ambtenaar 
+die deze functie uitoefent, of de door hem afgevaardigde ambtenaar.". Art. 11. Artikel 8 van 
+hetzelfde besluit, laatst gewijzigd bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen 
+door wat volgt : "Art. 8. De in de artikelen 17bis, 18bis, 19 en 20bis van het decreet bedoelde 
+dienst bestaat uit : 1° voor de toepassing van de onroerende voorheffing, de verkeersbelasting, 
+de inverkeersstellingsbelasting, de kilometerheffing, de belasting op de spelen en weddenschappen, de 
+belasting op automatische ontspanningstoestellen, de belasting op de automaten, de belasting op afgedankte 
+bedrijfsruimtes en de belasting op de opening van slijterijen van gegiste dranken, het Departement Vestiging 
+en Controle van de Waalse Overheidsdienst Financiën;2° voor de toepassing van de belastingen 
+op de afvalstoffen en de belastingen en retributies inzake de financiering van het waterbeleid, het Departement 
+Bodem en Afvalstoffen van de Waalse Overheidsdienst Landbouw, Natuurlijke Hulpbronnen en Leefmilieu.".". 
+Art. 12. In Hoofdstuk III van hetzelfde besluit wordt een nieuw artikel 8bis ingevoegd, luidend 
+als volgt : "Art. 8bis. De in artikel 20quater van het decreet bedoelde ambtenaar is : 1° 
+voor de toepassing van de onroerende voorheffing, de belasting op de spelen en weddenschappen, de belasting 
+op automatische ontspanningstoestellen, de belasting op de automaten, de belasting op afgedankte bedrijfsruimtes 
+en de belasting op de opening van slijterijen van gegiste dranken, de directeur van de Directie van de 
+vestiging van de onroerende voorheffing en van de specifieke belastingen van het Departement Vestiging 
+en Controle van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, of de 
+door hem afgevaardigde ambtenaar;2° voor de toepassing van de verkeersbelasting, de inverkeersstellingsbelasting, 
+de directeur van de Directie van de vestiging van de voertuigenfiscaliteit van het Departement Vestiging 
+en Controle van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, of de 
+door hem afgevaardigde ambtenaar.". Art. 13. Artikel 9 van hetzelfde besluit, laatst gewijzigd 
+bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen door wat volgt : "Art. 
+9. § 1. De ambtenaar die moet beslissen over de in artikelen 25 en 26 van het decreet bedoelde 
+beroepen bestaat uit : 1° voor de toepassing van de onroerende voorheffing, de verkeersbelasting, 
+de inverkeersstellingsbelasting, de kilometerheffing, de belasting op de spelen en weddenschappen, de 
+belasting op automatische ontspanningstoestellen, de belasting op de automaten, de belasting op afgedankte 
+bedrijfsruimtes en de belasting op de opening van slijterijen van gegiste dranken, de directeur van de 
+Directie Administratieve Geschillen van het Departement Geschillen en Juridische Ondersteuning van de 
+Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, of de door hem afgevaardigde 
+ambtenaar;2° voor de toepassing van de belastingen op de afvalstoffen en de belastingen en 
+retributies inzake de financiering van het waterbeleid, de directeur van de Directie Economische en Financiële 
+Instrumenten van het Departement Bodem en Afvalstoffen van de Waalse Overheidsdienst Landbouw, Natuurlijke 
+Hulpbronnen en Leefmilieu, of de ambtenaar die deze functie uitoefent, of de door hem afgevaardigde ambtenaar. 
+§ 2. De ambtenaar die moet beslissen over de in artikel 27 van het decreet bedoelde beroepen bestaat 
+uit : 1° voor de toepassing van de onroerende voorheffing, de belasting op de spelen en weddenschappen, 
+de belasting op automatische ontspanningstoestellen, de belasting op de automaten, de belasting op afgedankte 
+bedrijfsruimtes en de belasting op de opening van slijterijen van gegiste dranken, de directeur van de 
+Directie van de vestiging van de onroerende voorheffing en van de specifieke belastingen van het Departement 
+Vestiging en Controle van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, 
+of de door hem gedelegeerde ambtenaar;2° voor de toepassing van de verkeersbelasting, de inverkeersstellingsbelasting, 
+de directeur van de Directie van de vestiging van de voertuigenfiscaliteit van het Departement Vestiging 
+en Controle van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, of de 
+door hem afgevaardigde ambtenaar;3° voor de toepassing van de belastingen op de afvalstoffen 
+en de belastingen en retributies inzake de financiering van het waterbeleid, de directeur van de Directie 
+Economische en Financiële Instrumenten van het Departement Bodem en Afvalstoffen van de Waalse Overheidsdienst 
+Landbouw, Natuurlijke Hulpbronnen en Leefmilieu, of de ambtenaar die deze functie uitoefent, of de door 
+hem afgevaardigde ambtenaar.".Art. 14. Artikel 10 van hetzelfde besluit, laatst gewijzigd bij 
+het besluit van de Waalse Regering van 9 mei 2019, wordt vervangen door wat volgt : "Art. 10. 
+De in artikel 31 van het decreet bedoelde ambtenaar is de inspecteur-generaal van het Departement Inning 
+en Invordering van de Waalse Overheidsdienst Financiën, of de ambtenaar die deze functie uitoefent, of 
+de door hem afgevaardigde ambtenaar.". Art. 15. Artikel 11 van hetzelfde besluit, laatst gewijzigd 
+bij het besluit van de Waalse Regering van 24 mei 2017, wordt vervangen door wat volgt : "Art. 
+11. De belasting moet aan de ontvanger worden betaald.". Art. 16. In artikel 12ter, § 
+1, van hetzelfde besluit, ingevoegd bij het besluit van de Waalse Regering van 5 december 2013, worden 
+de woorden "van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst" vervangen 
+door de woorden "van de Waalse Overheidsdienst Financiën". Art. 17. In artikel 22 van hetzelfde 
+besluit, laatst gewijzigd bij het besluit van de Waalse Regering van 9 mei 2019, worden de woorden "van 
+het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst" vervangen door de woorden 
+"van de Waalse Overheidsdienst Financiën". Art. 18. In artikel 22bis, van hetzelfde besluit, 
+laatst gewijzigd bij het besluit van de Waalse Regering van 18 juli 2019, wordt paragraaf 2 vervangen 
+door wat volgt: " § 2. De dienst bedoeld in artikel 63, § 2, 1°, van het decreet 
+is de Directie Financiële en Economische Instrumenten van het Departement Bodems en Afvalstoffen van 
+de Waalse Overheidsdienst Landbouw, Natuurlijke Hulpmiddelen en Leefmilieu.". Art. 19. Artikel 
+22ter van hetzelfde besluit, ingevoegd bij het besluit van de Waalse Regering van 22 maart 2018 en gewijzigd 
+bij het besluit van de Waalse Regering van 9 mei 2019, wordt vervangen door wat volgt : "Art. 
+22ter. De dienst bedoeld in artikel 57bis van het decreet is het Departement Inning en Invordering van 
+de Waalse Overheidsdienst Financiën.". Art. 20. Artikel 23 van hetzelfde besluit, laatst gewijzigd 
+bij het besluit van de Waalse Regering van 18 juli 2019, wordt vervangen door wat volgt : "Art. 
+23. De dienst bedoeld in artikel 64 van het decreet is de Waalse Overheidsdienst Financiën. In 
+afwijking van het eerste lid is de dienst bedoeld in artikel 64 van het decreet, voor de toepassing van 
+de belastingen op de afvalstoffen en de belastingen en retributies inzake de financiering van het waterbeleid, 
+het Departement Bodem en Afvalstoffen van de Waalse Overheidsdienst Landbouw, Natuurlijke Hulpbronnen 
+en Leefmilieu.". Art. 21. De Minister bevoegd voor Financiën is belast met de uitvoering van 
+dit besluit. Namen, 18 november 2021.Voor de Regering: De Minister-President,E. 
+DI RUPODe Minister van Begroting en Financiën, Luchthavens en Sportinfrastructuren,J.-L. 
+CRUCKE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-12-01Numac : 2021205575
+

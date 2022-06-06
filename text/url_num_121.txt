@@ -1,0 +1,78 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State  
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-03Numac : 2020041538
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 27 MEI 2020. - Omzendbrief nr. 682 - Richtlijnen in het kader van de bijzondere maatregelen voor de personeelsleden van het federaal openbaar ambt met een startbaanovereenkomst in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 
+Aan de federale overheidsdiensten en de diensten die 
+ervan afhangen, het Ministerie van Defensie en de instellingen van openbaar nut die behoren tot het federaal 
+administratief openbaar ambt zoals bepaald in artikel 1 van de wet van 22 juli 1993 houdende bepaalde 
+maatregelen inzake ambtenarenzaken. Geachte collega's,Geachte mevrouw,Geachte 
+heer,Overwegende dat de vergelijkende wervingsselecties werden opgeschort tijdens de periode 
+van 18 maart 2020 tot 24 mei 2020 ten gevolge van de gezondheidscrisis. Overwegende dat het 
+niet organiseren van deze selecties met name als gevolg heeft dat een personeelslid met een startbaanovereenkomst 
+("Rosettacontract") van wie de overeenkomst verloopt wegens zijn leeftijd niet kan worden toegelaten 
+tot de stage of geen arbeidsovereenkomst kan krijgen in toepassing van het koninklijk besluit van 25 
+april 2005 tot vaststelling van de voorwaarden voor de indienstneming bij arbeidsovereenkomst in sommige 
+overheidsdiensten als hij slaagt voor de vergelijkende selectie. Overwegende dat daaruit volgt 
+dat de arbeidsrelatie met het personeelslid met een Rosettacontract in dit geval automatisch zou moeten 
+eindigen.Overwegende echter dat de continuïteit van de dienstverlening moet worden verzekerd. 
+In deze context regelt deze omzendbrief de problematiek in de hierna aangeduide zin.De 
+jonge werknemers met een startbaanovereenkomst die de leeftijd van 26 jaar hebben bereikt in het eerste 
+kwartaal van 2020 of deze leeftijd van 26 jaar zullen bereiken in de loop van het tweede kwartaal van 
+2020 kunnen een arbeidsovereenkomst van bepaalde duur van maximum 3 maanden krijgen die 1 keer kan worden 
+hernieuwd, zelfs als ze niet voldoen aan de voorwaarde bedoeld in artikel 2, 4°  van het voormelde koninklijk 
+besluit van 25 april 2005, voor zover :-de overeenkomst afgesloten wordt in dezelfde functie 
+als deze uitgeoefend in het kader van het vorige Rosettacontract en onder dezelfde voorwaarden; - 
+het afsluiten van de overeenkomst aan een uitzonderlijke en tijdelijke personeelsbehoefte of aan een 
+bijkomende/specifieke taak tegemoetkomt. Een arbeidsovereenkomst voor bepaalde duur kan op 
+basis van deze omzendbrief in geen enkel geval aanleiding geven tot een arbeidsovereenkomst voor onbepaalde 
+duur.Deze omzendbrief is van toepassing onverminderd de bepalingen met betrekking tot de administratieve 
+en begrotingscontrole.De Minister van Ambtenarenzaken,D. CLARINVAL  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-03Numac : 2020041538
+

@@ -1,0 +1,450 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/11/27/2022030272/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-02-22Numac : 2022030272
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 27 NOVEMBER 2021. - Koninklijk besluit houdende wijziging van het koninklijk besluit van 28 oktober 2021 houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie te voorkomen of te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het 
+koninklijk besluit van 27 november 2021 houdende wijziging van het koninklijk besluit van 28 oktober 
+2021 houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid 
+van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie te voorkomen 
+of te beperken (Belgisch Staatsblad van 27 november 2021).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST INNERES27. NOVEMBER 2021 - Königlicher Erlass zur Abänderung des Königlichen Erlasses 
+vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die erforderlich sind, um die 
+Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19 
+für die Volksgesundheit zu verhindern oder einzuschränkenPHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund der Verfassung, des Artikels 108;Aufgrund 
+des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation, 
+der Artikel 4 § 1 Absatz 1, 5 § 1 und 6;Aufgrund des Gesetzes vom 10. November 
+2021 zur Bestätigung des Königlichen Erlasses vom 28. Oktober 2021 zur Ausrufung der epidemischen Notsituation 
+in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund des Königlichen Erlasses vom 28. 
+Oktober 2021 zur Ausrufung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund 
+des Königlichen Erlasses vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die 
+erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie 
+des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken;Aufgrund 
+der Konzertierung vom 25. November 2021, wie in Artikel 4 § 1 Absatz 1 des Gesetzes vom 14. August 
+2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation erwähnt;Aufgrund 
+der Konzertierung vom 26. November 2021 im Konzertierungsausschuss;Aufgrund der Befreiung von 
+der Auswirkungsanalyse, die in Artikel 8 § 2 Nr. 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung 
+verschiedener Bestimmungen in Sachen administrative Vereinfachung erwähnt ist;Aufgrund der 
+Stellungnahme des Finanzinspektors vom 26. November 2021;Aufgrund des Einverständnisses des 
+Staatssekretärs für Haushalt vom 26. November 2021;Aufgrund der am 27. November 2021 abgegebenen 
+Stellungnahme der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 
+koordinierten Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit;In 
+der Erwägung, dass es nicht möglich ist, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb 
+einer verkürzten Frist von fünf Werktagen (die auf acht Werktage ausgeweitet werden kann, wenn der Begutachtungsantrag 
+der Generalversammlung vorgelegt wird, was in der Praxis eine Frist von etwa zwei Wochen bedeutet) abzuwarten, 
+insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, die sich auf die sich stark entwickelnden 
+epidemiologischen Ergebnisse stützen, wobei die jüngsten Ergebnisse die auf der Sitzung des Konzertierungsausschusses 
+vom 26. November 2021 beschlossenen Maßnahmen gerechtfertigt haben; dass die in Artikel 2 Nr. 3 
+des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation 
+erwähnten Bedingungen erfüllt sind und daher die epidemische Notsituation ausgerufen worden ist; dass 
+die Maßnahmen im vorliegenden Königlichen Erlass ergriffen werden müssen, um der ungünstigen epidemiologischen 
+Situation, die sich weiter verschlechtert, entgegenzuwirken; dass die im vorerwähnten Konzertierungsausschuss 
+beschlossenen Maßnahmen ein zusammenhängendes Ganzes bilden; dass die Maßnahmen bereits am 
+27. November 2021 in Kraft treten;In Erwägung der Europäischen Konvention zum Schutz der Menschenrechte 
+und Grundfreiheiten, des Artikels 2, der das Recht auf Leben schützt;In Erwägung des Vertrags 
+über die Arbeitsweise der Europäischen Union, des Artikels 191, in dem das Prinzip der Vorsorge im Rahmen 
+der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen 
+Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, 
+dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen 
+ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) und e) der Verordnung (UE) 
+2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen 
+bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 
+95/46/EG;In Erwägung der Verfassung, des Artikels 23;In Erwägung der Empfehlung (EU) 
+2020/1475 des Rates vom 13. Oktober 2020 für eine koordinierte Vorgehensweise bei der Beschränkung der 
+Freizügigkeit aufgrund der COVID-19-Pandemie;In Erwägung der Empfehlung (EU) 2020/912 des Rates 
+vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und die 
+mögliche Aufhebung dieser Beschränkung;In Erwägung der Verordnung (EU) 2021/953 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der 
+Freizügigkeit während der COVID-19-Pandemie;In Erwägung der Verordnung (EU) 2021/954 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) für Drittstaatsangehörige mit rechtmäßigem 
+Aufenthalt oder Wohnsitz im Hoheitsgebiet der Mitgliedstaaten während der COVID-19-Pandemie;In 
+Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten 
+Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste 
+und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten 
+Personen auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 
+2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung 
+des Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+über die Übermittlung notwendiger Daten an die föderierten Teilgebiete, die lokalen Behörden oder die 
+Polizeidienste zur Durchsetzung der verpflichteten Quarantäne oder der verpflichteten Tests von Reisenden 
+aus dem Ausland, die bei ihrer Ankunft in Belgien einer verpflichteten Quarantäne oder Untersuchung unterliegen;In 
+Erwägung des Gesetzes vom 8. April 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 24. 
+März 2021;In Erwägung des Zusammenarbeitsabkommens vom 31. Mai 2021 zwischen dem Föderalstaat, 
+der Flämischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der Wallonischen Region und der Gemeinsamen 
+Gemeinschaftskommission über besondere Verarbeitungen personenbezogener Daten zur Rückverfolgung und 
+Untersuchung von Clustern und Personengemeinschaften, zur Durchsetzung der Quarantäne- und Testpflicht 
+sowie zur Überwachung der Einhaltung von Maßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 am Arbeitsplatz durch die zuständigen Sozialinspektoren;In Erwägung des Gesetzes vom 
+20. Juni 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 31. Mai 2021;In Erwägung 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Französischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der Gemeinsamen Gemeinschaftskommission, 
+der Wallonischen Region und der Französischen Gemeinschaftskommission über die Verarbeitung von Daten 
+im Zusammenhang mit dem digitalen EU-COVID-Zertifikat, dem COVID Safe Ticket, dem PLF und der Verarbeitung 
+personenbezogener Daten von Lohnempfängern und Selbständigen, die im Ausland leben oder wohnen und in 
+Belgien Tätigkeiten ausüben;In Erwägung des Gesetzes vom 20. Juli 2021 zur Billigung des vorerwähnten 
+Zusammenarbeitsabkommens vom 14. Juli 2021;In Erwägung des Königlichen Erlasses vom 31. Januar 
+2003 zur Festlegung des Noteinsatzplans für Krisenereignisse und Krisensituationen, die eine Koordination 
+oder eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des Königlichen Erlasses vom 
+22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler und provinzialer 
+Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, 
+die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des 
+Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung 
+und des Krisenmanagements in Bezug auf das Coronavirus COVID-19;In Erwägung der Protokolle, 
+die von den zuständigen Ministern in Konzertierung mit den betreffenden Sektoren bestimmt werden;In 
+Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere 
+hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 
+von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, 
+dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen 
+hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung 
+der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, 
+dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen der Epidemie 
+führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In Erwägung 
+der Erklärung des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er insbesondere darauf 
+hingewiesen hat, dass die Übertragung und die Übertragungsquellen in den Häusern, an geschlossenen öffentlichen 
+Orten und bei Personen, die die Selbstschutzmaßnahmen nicht korrekt befolgen, stattfinden beziehungsweise 
+zu finden sind;In Erwägung der Erklärung des Generaldirektors der WHO Europa vom 29. April 
+2021, in der darauf hingewiesen wird, dass die von Einzelnen und der Gesellschaft als Ganzes ergriffenen 
+Gesundheitsmaßnahmen weiterhin die dominanten Faktoren sind, die die Entwicklung der Pandemie bestimmen; 
+dass wir uns bewusst sein müssen, dass Impfstoffe allein die Pandemie nicht beenden werden; dass es im 
+Kontext der Pandemie eine Kombination aus Impfstoffen und energischen Gesundheitsmaßnahmen ist, 
+die uns den deutlichsten Pfad zurück zur Normalität weisen;In Erwägung der Erklärung des Generaldirektors 
+der WHO Europa vom 1. Juli 2021, in der betont wird, dass aufgrund des Auftretens neuer Varianten - insbesondere 
+der besorgniserregenden Delta-Variante -, einer immer noch unzureichenden Impfabdeckung und der Zunahme 
+der Reisen die Gefahr einer neuen Ansteckungswelle in der europäischen Region besteht; dass daher an 
+die Verantwortung der Bürger, Urlauber und Reisenden appelliert wird, insbesondere hinsichtlich der Notwendigkeit, 
+sich impfen zu lassen;In Erwägung der Erklärung des Generaldirektors der WHO Europa vom 30. 
+August 2021, in der betont wird, dass das Vorhandensein der ansteckenderen Delta-Variante, die Lockerung 
+der Hygienemaßnahmen und die Zunahme der Reisen zu einem Anstieg der Zahl der Infektionen geführt 
+haben; dass dies mit einem zunehmenden Druck auf die Krankenhäuser und einem Anstieg der Zahl der Todesfälle 
+einhergeht; dass es daher wichtig ist, die verschiedenen Schutzmaßnahmen, insbesondere Impfungen 
+und Masken, entschlossen aufrechtzuerhalten;In Erwägung der Erklärung des Generaldirektors 
+der WHO Europa vom 4. November 2021, in der darauf hingewiesen wird, dass Europa wieder Epizentrum der 
+Pandemie ist und die beobachteten rapide ansteigenden Fallzahlen je nach Regionen sich durch eine unzureichende 
+Impfabdeckung und die Lockerung gesundheitlicher und sozialer Maßnahmen erklären;In Erwägung 
+der Veröffentlichung der WHO Europa vom 25. November 2021, nach der gesundheitliche und soziale Maßnahmen 
+ein normales Leben ermöglichen, während das COVID-19-Coronavirus unter Kontrolle gehalten wird und umfangreiche 
+und schädigende Lockdown-Maßnahmen vermieden werden; dass eine zunehmende Anzahl von Studien die 
+Wirkung einer Reihe von Präventionsmaßnahmen wie regelmäßiges Händewaschen, körperliche Distanzwahrung, 
+Tragen von Masken und Belüftung belegt und dass jede dieser Maßnahmen als solche wichtig ist, dass 
+aber in Kombination mit anderen Maßnahmen, insbesondere Impfungen, ihre Wirkung vervielfacht wird;In 
+Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung der Beurteilung 
+der epidemiologischen Situation der RAG vom 24. November 2021;In Erwägung der Gutachten der 
+Expertengruppe für die COVID-19-Managementstrategie (GEMS) vom 20. und 24. Oktober 2021 und vom 14. und 
+25. November 2021, zu der ebenfalls in Artikel 4 § 1 Absatz 1 des Gesetzes vom 14. August 2021 
+über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation erwähnte Sachverständige 
+gehören; dass in diesen Gutachten erläutert wird, welche Maßnahmen ergriffen werden müssen und 
+warum; dass in diesen Gutachten die Notwendigkeit, Angemessenheit und Verhältnismäßigkeit der im 
+vorliegenden Königlichen Erlass aufgeführten Maßnahmen dargelegt wird; dass die wesentlichen Elemente 
+dieser Gutachten in ihren Grundzügen in die nachstehenden Erwägungsgründe aufgenommen werden;In 
+Erwägung der konsolidierten Stellungnahme des COVID-19-Kommissariats vom 25. Oktober 2021, die sich auf 
+die Stellungnahme der RAG vom 20. Oktober 2021, die in der RMG besprochen wurde, und auf die Gutachten 
+der GEMS vom 20. und 24. Oktober 2021 stützt;In Erwägung der Stellungnahme des Ministers der 
+Volksgesundheit vom 27. Oktober 2021;In Erwägung der Stellungnahme des COVID-19-Kommissariats 
+vom 11. November 2021 in Bezug auf das Vorhandensein oder Nichtvorhandensein einer epidemischen Notsituation 
+gemäß den Kriterien des Pandemiegesetzes;In Erwägung des epidemiologischen Berichts von 
+Sciensano vom 27. November 2021;In der Erwägung, dass der Tagesdurchschnitt der festgestellten 
+Neuansteckungen mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen stark gestiegen ist 
+auf 17 151 bestätigte positive Fälle am 23. November 2021;In der Erwägung, dass am 26. November 
+2021 insgesamt 3 494 COVID-19-Patienten in belgischen Krankenhäusern behandelt wurden; dass am selben 
+Tag insgesamt 682 Patienten auf Intensivstationen lagen;In der Erwägung, dass die Inzidenz 
+am 23. November 2021 im 14-Tage-Mittel 1 775 pro 100 000 Einwohner beträgt; dass die Reproduktionsrate, 
+basierend auf der Zahl der neuen Krankenhausaufnahmen, 1,105 beträgt;In der Erwägung, dass 
+dieser zunehmende Druck auf die Krankenhäuser und die Kontinuität der Versorgung, die nicht mit COVID-19 
+zusammenhängt, seit dem 19. November 2021 einen Übergang zur Phase 1B des Krankenhausnoteinsatzplans 
+erforderlich gemacht hat;In der Erwägung, dass die lange Dauer der Pandemie aufgrund des Mangels 
+an Pflegepersonal ebenfalls Auswirkungen auf die Anzahl der verfügbaren Betten auf den Intensivstationen 
+hat; dass 10 Prozent der Kapazität der Intensivstationen wegen der Nichtverfügbarkeit des Pflegepersonals 
+nicht genutzt werden kann;In der Erwägung, dass sich die Lage im Gesundheitspflegesystem weiter 
+verschlechtert hat, nicht nur in den Krankenhäusern, sondern auch in Bezug auf die Kapazitäten der Primärpflege, 
+insbesondere was die Hausärzte und Testzentren sowie die Kontaktrückverfolgung betrifft; in der Erwägung, 
+dass Pflegeleistungen sowohl in der Primärpflege als auch in der Krankenhauspflege erneut verschoben 
+werden müssen;In der Erwägung, dass die Durchimpfungsrate der Gesamtbevölkerung am 25. November 
+2021 bei 75,3 Prozent liegt und dass 11,8 Prozent der für eine Impfung in Frage kommenden Bevölkerung 
+weder ganz noch teilweise geimpft wurden;In der Erwägung, dass sich, unter Berücksichtigung 
+dieser Zahlen und der neuesten Angaben, die epidemische Situation auf dem gesamten belgischen Staatsgebiet 
+in den letzten Tagen erheblich verschlechtert hat; dass die Zahl der Neuinfektionen jetzt tatsächlich 
+genauso hoch wie auf dem Höhepunkt der zweiten Welle ist und dass das Virus sehr schnell zirkuliert; 
+dass es sehr wahrscheinlich ist, dass das Virus noch stärker zirkuliert als bei den vorherigen Wellen;In 
+der Erwägung, dass zusätzliche Maßnahmen zum Schutz der Bevölkerung und zur Verringerung des Drucks 
+auf das Gesundheitspflegesystem, einschließlich der Primärpflege, erforderlich sind;In 
+der Erwägung, dass für das Land und für alle Regionen und die Provinzen derzeit Alarmstufe 5 gilt, was 
+nach den Indikatoren die höchstmögliche Stufe ist; dass daher dringende Maßnahmen (mit einer "Abkühlungsphase" 
+von mindestens drei bis vier Wochen) erforderlich sind, um die Alarmstufe angesichts der gesundheitlichen 
+Notlage wieder zu senken;In Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr 
+für die Bevölkerung und der daraus entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus 
+COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und die Atemwege befällt; dass das Coronavirus 
+COVID-19 von Mensch zu Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar 
+auf alle möglichen Verbreitungsarten durch Mund und Nase erfolgt;In der Erwägung, dass vorliegender 
+Erlass drei Arten von Maßnahmen enthält, nämlich dringende Empfehlungen ohne strafrechtliche Sanktionen, 
+Mindestregeln, die an verschiedenen Orten oder in verschiedenen Tätigkeitssektoren zu beachten sind (oder 
+Präventionsmaßnahmen, die für jedes betreffende Unternehmen, jede betreffende Vereinigung oder 
+jeden betreffenden Dienst angepasst sind), und bestimmte Zwangsmaßnahmen, die jedoch in einer begrenzten 
+Anzahl Bereiche notwendig sind;In der Erwägung, dass die Hygienemaßnahmen unerlässlich 
+bleiben, zum Beispiel die besondere Beachtung der Hygienemaßnahmen beim Niesen und Husten, Handhygiene 
+und Desinfizierung des verwendeten Materials;In der Erwägung, dass im Hinblick auf die Einhaltung 
+aller Gesundheitsempfehlungen und des Social Distancing noch immer an das Verantwortungsbewusstsein und 
+die Solidarität jedes Bürgers appelliert wird; dass die Regeln des Social Distancing insbesondere die 
+Einhaltung eines Abstands von 1,5 m zwischen den Personen betreffen;In der Erwägung, dass es 
+dringend empfohlen wird, soziale Kontakte auf ein Minimum zu beschränken;In der Erwägung, dass 
+das Homeoffice es, unter den derzeitigen epidemischen Umständen und trotz der Tatsache, dass es für Arbeitnehmer 
+wichtig ist, eine Verbindung zu ihrer Arbeitsumgebung aufrechtzuerhalten, insbesondere ermöglicht, die 
+Zahl der Kontakte zu begrenzen und die Zahl der Personen in den öffentlichen Verkehrsmitteln zu verringern, 
+in denen es zu Stoßzeiten schwierig ist, die Regeln des Social Distancing einzuhalten; dass es 
+angesichts der Verschlechterung der epidemischen Situation daher angebracht ist, die Möglichkeit, sich 
+an maximal zwei Tagen pro Woche am Arbeitsplatz aufzuhalten, um eine Woche zu verschieben, damit sich 
+die Situation stabilisieren kann und sich die Kurven umkehren können;In der Erwägung, dass 
+das Tragen einer Maske eine wichtige Rolle bei der Eindämmung der Ausbreitung des Virus und beim Schutz 
+der Gesundheit von Personen in bestimmten Einrichtungen und bei bestimmten Risikotätigkeiten spielt; 
+dass das Tragen einer Maske daher in bestimmten Einrichtungen und bei bestimmten Tätigkeiten Pflicht 
+ist; dass das Tragen einer Maske in allen Situationen, in denen die Regeln des Social Distancing nicht 
+eingehalten werden können, zudem dringend empfohlen wird, außer für die ausdrücklich vorgesehenen 
+Ausnahmen;In der Erwägung, dass es aus denselben Gründen notwendig ist, die Gesundheitsmaßnahmen 
+in Horeca-Betrieben zu verschärfen; dass bei der gewerbsmäßigen Ausübung von Horeca-Tätigkeiten 
+pro Tisch höchstens sechs Personen erlaubt sind, Kinder bis zum Alter von 12 Jahren einschließlich 
+nicht einbegriffen; dass sich jedoch ein Haushalt, der aus mehr als sechs Personen besteht, unabhängig 
+von der Größe dieses Haushalts, einen Tisch teilen darf; dass diese Einschränkungen notwendig sind, 
+um enge Kontakte zwischen einer großen Anzahl von Personen in Horeca-Betrieben zu verhindern; dass 
+diese Personen auch an ihrem Tisch sitzen bleiben müssen und sich so wenig wie möglich in der Einrichtung 
+bewegen sollten, um unnötige Kontakte zwischen den verschiedenen Tischgesellschaften zu vermeiden;In 
+der Erwägung, dass die gewerbsmäßige Ausübung von Horeca-Tätigkeiten um 23.00 Uhr beendet werden 
+muss, da nach dieser Uhrzeit die Regeln des Social Distancing und das Tragen von Masken wegen der festlichen 
+Art der Tätigkeiten, die in den betreffenden Einrichtungen üblicherweise in der Nacht stattfinden, möglicherweise 
+weniger streng angewandt werden; dass diese Tätigkeiten frühestens um 5.00 Uhr morgens wieder aufgenommen 
+werden dürfen; dass jedoch für Hochzeiten und Bestattungen wegen ihrer gesellschaftlichen Bedeutung eine 
+Ausnahme vorgesehen ist;In der Erwägung, dass durch diese Maßnahme vermieden werden kann, 
+dass Horeca-Betriebe erneut geschlossen werden müssen, dass darüber hinaus der Zugang zu diesen Einrichtungen 
+gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 auf der Grundlage des dazu erlassenen Dekrets 
+oder der dazu erlassenen Ordonnanz organisiert werden muss, und zwar sowohl bei privaten Zusammenkünften 
+als auch bei öffentlich zugänglichen Ereignissen;In der Erwägung, dass für die Zwecke des vorliegenden 
+Erlasses unter "Haushalt" die Personen zu verstehen sind, die unter demselben Dach leben; dass mit diesem 
+Begriff auch neue Familienkonstellationen wie Patchworkfamilien oder andere Situationen gemeint sind, 
+in denen die betreffenden Personen streng genommen nicht ununterbrochen unter demselben Dach leben;In 
+der Erwägung, dass die spezifischen Regeln für Haushalte jederzeit unter Berücksichtigung des Rechts 
+auf Wahrung des Privatlebens angewandt werden müssen; dass beispielsweise von Verantwortlichen oder Mitarbeitern 
+bei der gewerbsmäßigen Ausübung von Horeca-Tätigkeiten nicht erwartet wird, dass sie überprüfen, 
+ob anwesende Personen tatsächlich Mitglieder desselben Haushalts sind;In der Erwägung, dass 
+das Verbot der gewerbsmäßigen Ausübung von Horeca-Tätigkeiten zwischen 23.00 und 5.00 Uhr nur dann 
+wirksam sein kann, wenn es mit einer ähnlichen Maßnahme für Nightshops einhergeht; dass die Beschränkung 
+der nächtlichen Aktivitäten im Horeca-Sektor nämlich von Personen umgangen werden könnte, die ihre festlichen 
+Aktivitäten insbesondere auf öffentlicher Straße fortsetzen; dass diese Maßnahme es außerdem 
+ermöglicht, eine ungerechtfertigte Ungleichbehandlung zwischen dem Horeca-Sektor und den Nightshops zu 
+vermeiden;In der Erwägung, dass bestimmte Zusammenkünfte sowohl in Innenräumen als auch im 
+Freien noch stets ein besonderes Risiko für die Gesundheit der Bevölkerung darstellen und bestimmten 
+Beschränkungen unterliegen müssen, um das Grundrecht auf Leben und Gesundheit der Bevölkerung zu wahren; 
+dass Aktivitäten im Freien immer bevorzugt werden sollten; dass im gegenteiligen Fall die Räume ausreichend 
+durchgelüftet und belüftet werden müssen;In der Erwägung, dass infolge der Verschlechterung 
+der epidemischen Situation private Zusammenkünfte in Innenräumen verboten sind, ausgenommen unter anderem 
+Hochzeiten und Empfänge nach einer Bestattung; dass die Regeln, die für die gewerbsmäßige Ausübung 
+von Horeca-Tätigkeiten gelten, gegebenenfalls eingehalten werden müssen, außer in Bezug auf die 
+Sperrstunde; dass Tanzen mit Maske erlaubt ist;In der Erwägung, dass ab 50 Personen in Innenräumen 
+oder 100 Personen im Freien der Zugang zu privaten Zusammenkünften, die im Freien oder im Rahmen einer 
+Hochzeit oder einer Bestattung stattfinden, gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 
+organisiert werden muss, sowie dies möglich ist, ausgenommen Zusammenkünfte, die zu Hause und ohne gewerbsmäßige 
+Ausübung von Horeca-Aktivitäten stattfinden;In der Erwägung, dass das Verbot privater Zusammenkünfte 
+in Innenräumen nicht auf Privatwohnungen oder kleine Touristenunterkünfte anwendbar ist, dass die Verwendung 
+von Selbsttests in diesem Fall dringend empfohlen ist; dass die Regeln, die für die gewerbsmäßige 
+Ausübung von Horeca-Tätigkeiten gelten, bei Dienstleistungen im Hause des Verbrauchers nicht eingehalten 
+werden müssen, außer in Bezug auf die Sperrstunde; dass bei Hochzeiten und Bestattungen nie eine 
+Sperrstunde auferlegt wird;In der Erwägung, dass bei Ereignissen mit stehendem Publikum nicht 
+ausgeschlossen werden kann, dass sich das Publikum regelmäßig bewegt und umherläuft; dass es dadurch 
+schwierig wird, die Regeln des Social Distancing einzuhalten; dass aus diesem Grund Veranstaltungen in 
+Innenräumen, in denen Menschen stehen, nicht sicher durchgeführt werden können; dass daher Veranstaltungen 
+in Innenräumen mit stehendem Publikum verboten werden müssen; dass aus denselben Gründen Diskotheken 
+und Tanzlokale geschlossen werden;In der Erwägung, dass es für Organisatoren von Ereignissen 
+mit einem Publikum von mindestens 50 Personen in Innenräumen und mindestens 100 Personen im Freien möglich 
+ist, den Zugang gemäß dem vorerwähnten Zusammenarbeitsabkommen vom 14. Juli 2021 zu organisieren, 
+unbeschadet der Möglichkeit für die föderierten Teilgebiete, Bürgermeister und Gouverneure, seine Anwendung 
+in diesem Rahmen vorzuschreiben oder die Mindestzahlen zu verringern, einerseits, und unbeschadet der 
+Möglichkeit für Organisatoren eines öffentlich zugänglichen Ereignisses mit weniger Publikum, freiwillig 
+auf das vorerwähnte Zusammenarbeitsabkommen zurückzugreifen, sofern sie die Besucher im Vorfeld darüber 
+informieren, andererseits; dass die Anwendung dieses Zusammenarbeitsabkommens es zum einen ermöglicht, 
+dass geplante Ereignisse sicherer stattfinden können, und zum anderen, dass gerade wegen der strengen 
+Zugangsbedingungen ein Publikum von einer bestimmten Größe versammelt werden kann;In 
+der Erwägung, dass Organisatoren von Ereignissen, die im Freien stattfinden, für die Kontrolle der Menschenmenge 
+verantwortlich sind; dass die lokalen Behörden aufgefordert werden, die Einhaltung der für Ereignisse 
+geltenden Maßnahmen streng zu überwachen; dass diese Ereignisse nicht stattfinden können, wenn 
+diese Maßnahmen nicht eingehalten werden können;In der Erwägung, dass sportliche Aktivitäten 
+zur geistigen und körperlichen Gesundheit der Menschen beitragen; dass sie daher weiterhin ausgeübt werden 
+können, auch wenn es sich um private Zusammenkünfte handelt; dass jedoch dringend empfohlen wird, dass 
+Gruppen- und Kontaktsport so oft wie möglich im Freien ausgeübt wird;In der Erwägung, dass 
+in der Höchstanzahl der Personen, die zusammenkommen dürfen, ebenfalls immer die Kinder inbegriffen sind, 
+sofern nicht ausdrücklich etwas anderes bestimmt ist;In der Erwägung, dass angesichts der ungünstigen 
+Gesundheitslage die geltenden Einschränkungen erforderlich sind, um eine weitere Verschlechterung der 
+Lage zu verhindern;In der Erwägung, dass beim Ergreifen der vorliegenden Maßnahmen insbesondere 
+die Auswirkungen der Anwendung dieser Maßnahmen auf schutzbedürftige Personen und Gruppen berücksichtigt 
+wurden, die aufgrund ihres Gesundheitszustands oder ihrer persönlichen oder beruflichen Situation größeren 
+Schwierigkeiten ausgesetzt sind, die Gesundheitsmaßnahmen einzuhalten oder sich diesen Maßnahmen 
+zu unterwerfen; dass eine Ausnahme von der Maskenpflicht beispielsweise für Personen vorgesehen ist, 
+die aus medizinischen Gründen oder aufgrund einer Beeinträchtigung keine Maske oder keinen Gesichtsschutzschirm 
+tragen können;In der Erwägung, dass das neueste Prognosemodell zeigt, dass bei einem dauerhaften 
+Rückgang der Reproduktionsrate spätestens am 1. Dezember die Spitzenbelastung der Krankenhäuser durch 
+die vierte Welle in der ersten Dezemberhälfte bis Mitte Dezember mit einer Belastung der Intensivstationen 
+von 700 bis 1050 COVID-Patienten zu erwarten ist, was eine Verschlechterung gegenüber früheren Modellen 
+darstellt; dass dies bereits jetzt Druck auf die Kontinuität der normalen Dienste und der Versorgung 
+ausübt, die nicht mit COVID-19 zusammenhängt; dass aus dem Modell hervorgeht, dass ein erhöhtes Risiko 
+besteht, dass die Betten in den Intensivstationen noch mindestens einen Monat lang mit über 500 COVID-Patienten 
+belegt sein werden, und dass zudem aus den vorangegangenen Wellen abgeleitet werden kann, dass eine Normalisierung 
+der Situation in den Krankenhäusern mehrere Wochen in Anspruch nimmt; dass jedoch die Gesundheitslage 
+Gegenstand einer laufenden Bewertung ist, auf deren Grundlage neue Entscheidungen getroffen werden können;In 
+der Erwägung, dass sich die Situation in Belgien im Vergleich zu anderen europäischen Ländern in Bezug 
+auf Ansteckungen, Krankenhausaufnahmen und Todesfälle negativ entwickelt; dass es notwendig ist, eine 
+Überlastung des Gesundheitssystems zu verhindern, einen möglichst normalen Betrieb des Unterrichtswesens 
+und der wirtschaftlichen Aktivitäten zu ermöglichen und das psychische Wohlbefinden der Bürger so weit 
+wie möglich zu wahren;In der Erwägung, dass zusätzliche Maßnahmen zum Schutz der Bevölkerung 
+und zur Fortsetzung der Impfkampagne erforderlich sind; dass angesichts der aktuellen epidemischen Situation 
+verschärfte Maßnahmen angemessen, notwendig und verhältnismäßig sind; dass die Gesundheitslage 
+regelmäßig bewertet wird; dass dies bedeutet, dass strengere Maßnahmen nie ausgeschlossen 
+sind;In der Erwägung, dass angesichts aller vorerwähnten Erwägungen alle im vorliegenden Erlass 
+vorgesehenen verwaltungspolizeilichen Maßnahmen notwendig sind, um das Recht der Bevölkerung auf 
+Leben und Gesundheit zu schützen und folglich die Ausbreitung des Coronavirus COVID-19 einzudämmen, und 
+dass sie im Hinblick auf dieses Ziel und die Entwicklung der epidemiologischen Situation in Belgien verhältnismäßig 
+sind;Auf Vorschlag der Ministerin des Innern und aufgrund der Stellungnahme der Minister, die 
+im Rat darüber beraten haben,Haben Wir beschloßen und erlassen Wir:Artikel 
+1 - Artikel 1 des Königlichen Erlasses vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, 
+die erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie 
+des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken wird wie folgt abgeändert:1. 
+Nummer 6, aufgehoben durch den Königlichen Erlass vom 19. November 2021, wird mit folgendem Wortlaut 
+wieder aufgenommen: "6. "Haushalt": Personen, die unter demselben Dach wohnen,".2. In Nr. 18 
+werden die Wörter "Weihnachtsmärkte, Wintermärkte und Sportwettkämpfe" durch die Wörter "Weihnachtsmärkte 
+und Wintermärkte" ersetzt.3. Eine Nr. 25 mit folgendem Wortlaut wird eingefügt: "25. "kleiner 
+Touristenunterkunft": eine Ferienunterkunft, in der höchstens 15 Personen untergebracht werden können."Art. 
+2 -  Artikel 2 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 Absatz 4 wird durch 
+einen sechsten Gedankenstrich mit folgendem Wortlaut ergänzt: "die Einsatzdienste der zivilen Sicherheit, 
+die in Artikel 2 Nr. 1 des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit erwähnt sind,".2. 
+Paragraph 1 Absatz 4 wird durch einen siebten Gedankenstrich mit folgendem Wortlaut ergänzt: "Strafanstalten, 
+den gerichtlichen Stand und Nachrichtendienste."3. In § 1bis Absatz 2 werden die Wörter 
+"12. Dezember" jeweils durch die Wörter "19. Dezember" ersetzt.4. In § 1bis Absatz 2 
+werden die Wörter "13. Dezember" jeweils durch die Wörter "20. Dezember" ersetzt.Art. 3 -  
+In denselben Erlass wird ein Artikel 3bis mit folgendem Wortlaut eingefügt:"Art. 3bis - Im 
+Rahmen der Anwendung der in vorliegendem Erlass vorgeschriebenen Maßnahmen und sofern die operativen 
+Erfordernisse es verlangen, sind für die Dauer der Anwendung des vorliegenden Erlasses Abweichungen von 
+den in Teil VI Titel I des Königlichen Erlasses vom 30. März 2001 zur Festlegung der Rechtsstellung des 
+Personals der Polizeidienste vorgeschriebenen Bestimmungen in Bezug auf Organisation der Arbeits- und 
+Ruhezeiten erlaubt."Art. 4 -  In denselben Erlass wird ein Artikel 4bis mit folgendem Wortlaut 
+eingefügt:"Art. 4bis - Nightshops sind zwischen 23 und 5 Uhr für die Öffentlichkeit geschlossen."Art. 
+5 -  Artikel 5 desselben Erlasses wird wie folgt abgeändert:1. Absatz 1 wird durch die Nummern 
+6 bis 10 mit folgendem Wortlaut ergänzt: "6. Die gewerbsmäßige Ausübung von Horeca-Tätigkeiten 
+ist zwischen 23 und 5 Uhr verboten, außer für private Zusammenkünfte im Rahmen von Hochzeiten oder 
+Bestattungen.7. Speisen und Getränke zum Mitnehmen dürfen nicht zwischen 23 und 5 Uhr angeboten 
+und geliefert werden.8. Pro Tisch sind höchstens sechs Personen erlaubt, Kinder bis zum Alter 
+von 12 Jahren einschließlich nicht einbegriffen.9. Nur Sitzplätze an den Tischen oder 
+an der Theke sind erlaubt.10. Jede Person muss an ihrem Tisch oder an der Theke sitzen bleiben, 
+außer für die Ausübung von Kneipensport und Glücksspielen und beim Gang an die Theke oder zu einem 
+Büffet."2. Der Artikel wird durch zwei Absätze mit folgendem Wortlaut ergänzt:"In 
+Abweichung von Absatz 1 Nr. 8 darf sich ein Haushalt einen Tisch teilen, unabhängig von der Größe 
+dieses Haushalts.Absatz 1 findet keine Anwendung bei Dienstleistungen im Haus des Verbrauchers, 
+mit Ausnahme von Nr. 6."Art. 6 -  In Artikel 7 desselben Erlasses wird § 2 wie folgt 
+ersetzt:" § 2 - Diskotheken und Tanzlokale sind für die Öffentlichkeit geschlossen."Art. 
+7 -  Artikel 12 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 wird wie folgt 
+ersetzt:" § 1 - Private Zusammenkünfte dürfen nur im Freien organisiert werden.In 
+Abweichung von Absatz 1 dürfen folgende private Zusammenkünfte in Innenräumen organisiert werden:1. 
+private Zusammenkünfte, die zu Hause oder in einer kleinen Touristenunterkunft stattfinden,2. 
+private Zusammenkünfte, die im Rahmen einer Hochzeit oder einer Bestattung stattfinden,3. sportliche 
+Aktivitäten.Ab 50 Personen in Innenräumen oder 100 Personen im Freien muss der Zugang zu den 
+in Absatz 1 und Absatz 2 Nr. 1 und 2 erwähnten privaten Zusammenkünften gemäß dem Zusammenarbeitsabkommen 
+vom 14. Juli 2021 organisiert werden, sobald dieses es zulässt, ausgenommen Zusammenkünfte, die zu Hause 
+und ohne gewerbsmäßige Ausübung von Horeca-Tätigkeiten stattfinden. Veranstalter müssen die anwesenden 
+Personen im Voraus darüber informieren."1. Die Paragraphen 2, 3 und 4 werden wie folgt ersetzt:" 
+§ 2 - Vorbehaltlich des Paragraphen 5 dürfen Ereignisse, kulturelle oder andere Darbietungen, 
+Sporttrainings und Kongresse in Innenräumen nur für ein sitzendes Publikum von höchstens 50 Personen, 
+Mitarbeiter und Veranstalter nicht einbegriffen, veranstaltet werden, unbeschadet der Artikel 5, 7, 9 
+und 20 und des anwendbaren Protokolls.Ereignisse, einschließlich Weihnachtsmärkten und 
+Wintermärkten, kulturelle oder andere Darbietungen, Sportwettkämpfe, Sporttrainings und Kongresse dürfen 
+im Freien für ein sitzendes oder stehendes Publikum von höchstens 100 Personen, Mitarbeiter und Veranstalter 
+nicht einbegriffen, veranstaltet werden, unbeschadet der Artikel 5, 7, 9 und 20 und des anwendbaren Protokolls. 
+Veranstalter ergreifen die geeigneten Maßnahmen, damit die Regeln des Social Distancing eingehalten 
+werden können, insbesondere die Wahrung eines Abstands von 1,5 m zwischen den Gruppen.Vorliegender 
+Paragraph findet keine Anwendung, wenn aufgrund eines lokalen Polizeierlasses, einer lokalen Polizeiverordnung, 
+eines Dekrets oder einer Ordonnanz der Zugang gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 
+organisiert werden muss. § 3 - Vorbehaltlich des Paragraphen 5 dürfen Großereignisse 
+und Test- und Pilotprojekte in Innenräumen nur für ein sitzendes Publikum von mindestens 50 Personen 
+und höchstens 75 000 Personen pro Tag, Mitarbeiter und Veranstalter nicht einbegriffen, veranstaltet 
+werden, vorbehaltlich der vorherigen Genehmigung der zuständigen lokalen Behörden und sofern die Modalitäten 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 eingehalten werden.Großereignisse und 
+Test- und Pilotprojekte dürfen im Freien für ein sitzendes oder stehendes Publikum von mindestens 100 
+Personen und höchstens 75 000 Personen pro Tag, Mitarbeiter und Veranstalter nicht einbegriffen, veranstaltet 
+werden, vorbehaltlich der vorherigen Genehmigung der zuständigen lokalen Behörden und sofern die Modalitäten 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 eingehalten werden.Der Empfangsbereich des Großereignisses 
+wird in einer Weise organisiert, die die Einhaltung der Regeln des Social Distancing ermöglicht.Die 
+in den Absätzen 1 und 2 erwähnten Mindestzahlen können gemäß dem Zusammenarbeitsabkommen vom 14. 
+Juli 2021 geändert werden.In Abweichung von den Absätzen 1 und 2 kann auch ein Großereignis 
+mit weniger als 50 Personen in Innenräumen und weniger als 100 Personen im Freien in Anwendung der Modalitäten 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 veranstaltet werden, sofern der Veranstalter die Besucher 
+im Voraus darüber informiert. § 4 - Handelsmessen sind unter Einhaltung der in Artikel 
+4 vorgesehenen Modalitäten und des anwendbaren Protokolls erlaubt.Veranstalter ergreifen die 
+geeigneten Maßnahmen, damit die Regeln des Social Distancing eingehalten werden können, insbesondere 
+die Wahrung eines Abstands von 1,5 m zwischen den Gruppen.Vorliegender Artikel findet keine 
+Anwendung, wenn aufgrund eines Dekrets oder einer Ordonnanz der Zugang gemäß dem Zusammenarbeitsabkommen 
+vom 14. Juli 2021 organisiert wird."3. Ein § 5 mit folgendem Wortlaut wird eingefügt:" 
+§ 5 - Die Anwesenheit von Zuschauern ist bei Wettkämpfen im Bereich des Profisports und des Amateursports, 
+die in Innenräumen organisiert werden, verboten.In Abweichung von Absatz 1 dürfen Teilnehmer 
+bis zum Alter von 17 Jahren einschließlich von zwei volljährigen Personen begleitet werden.Die 
+Anwesenheit von Zuschauern bei Wettkämpfen im Bereich des Profisports und des Amateursports, die im Freien 
+organisiert werden, ist nur unter Einhaltung der in den Paragraphen 2 und 3 vorgesehenen Regeln erlaubt."Art. 
+8 -  Artikel 22 § 1 desselben Erlasses wird wie folgt abgeändert:1. Absatz 2 Nr. 13 
+wird wie folgt ersetzt: "13. bei privaten Zusammenkünften wie erwähnt in Artikel 12 § 1 Absatz 
+1 und 2 mit mehr als 50 Personen in Innenräumen oder mit mehr als 100 Personen im Freien,".2. 
+In Absatz 2 Nr. 14 werden die Wörter "Artikel 12 §§ 2 und 3" durch die Wörter "Artikel 
+12 §§ 2, 3 und 5" ersetzt.3. Absatz 2 wird durch eine Nr. 16 mit folgendem Wortlaut 
+ergänzt: "16. auf Handelsmessen, einschließlich Handelsausstellungen."4. Absatz 3 wird 
+aufgehoben.Art. 9 -  Vorliegender Erlass tritt am 27. November 2021 um 11 Uhr morgens in Kraft, 
+mit Ausnahme von Artikel 7 Nr. 2 und 3, der am 29. November 2021 um 7 Uhr morgens in Kraft tritt.Art. 
+10 -  Der für Inneres zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 27. November 2021PHILIPPEVon Königs wegen:Die Ministerin 
+des InnernA. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-02-22Numac : 2022030272
+

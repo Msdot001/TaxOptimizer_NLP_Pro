@@ -1,0 +1,70 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2020/11/26/2020043850/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-03Numac : 2020043850
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 26 NOVEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 7 van 30 april 2020 betreffende overgangs- en afwijkingsbepalingen van het decreet van 18 januari 2018 betreffende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming naar aanleiding van de gezondheidscrisis in verband met COVID-19 
+Het Parlement van de Franse 
+Gemeenschap heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt :Enig artikel. Het 
+besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 7 van 30 april 2020 betreffende 
+overgangs- en afwijkingsbepalingen van het decreet van 18 januari 2018 betreffende het wetboek van preventie, 
+hulpverlening aan de jeugd en jeugdbescherming naar aanleiding van de gezondheidscrisis in verband met 
+COVID-19, wordt bekrachtigd overeenkomstig artikel 4 van het decreet van 17 maart 2020 tot toekenning 
+van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van COVID-19Kondigen 
+dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.Brussel, 
+26 november 2020.De Minister-President,P.-Y. JEHOLETDe Vice-President en 
+Minister van Begroting,Ambtenarenzaken, Gelijke kansen en het toezicht op "Wallonie-Bruxelles 
+Enseignement",Fr. DAERDENDe Vice-Presidente en Minister van Kind, Gezondheid, Cultuur, 
+Media en Vrouwenrechten,B. LINARDDe Minister van Hoger Onderwijs, Onderwijs voor 
+sociale promotie, Universitaire ziekenhuizen, Hulpverlening aan de jeugd, Justitiehuizen, Jeugd, Sport 
+en Promotie van Brussel,V. GLATIGNYDe Minister van Onderwijs,C. DESIR_______NotaZitting 
+2020-2021Stukken van het Parlement. - Ontwerp van decreet, nr. 155-1. - Tekst aangenomen tijdens 
+de plenaire vergadering, nr. 155-2.Integraal verslag. - Bespreking en aanneming. - Vergadering 
+van 25 november 2020.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-03Numac : 2020043850
+

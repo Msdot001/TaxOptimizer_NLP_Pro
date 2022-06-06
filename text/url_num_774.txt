@@ -1,0 +1,75 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2022/03/11/2022020554/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020554
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 11 MAART 2022. - Wet tot opheffing van de instandhouding van de epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van de wet van 11 maart 2022 tot opheffing van de instandhouding van de epidemische noodsituatie 
+betreffende de coronavirus COVID-19-pandemie (Belgisch Staatsblad van 11 maart 2022).Deze vertaling 
+is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES11. MÄRZ 2022 - Gesetz zur Aufhebung der Aufrechterhaltung der epidemischen 
+Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19PHILIPPE, Konig der Belgier, 
+Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende 
+angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt eine in Artikel 
+74 der Verfassung erwähnte Angelegenheit.Art. 2 - Aufgehoben werden:1. der Königliche 
+Erlass vom 27. Januar 2022 zur Erklärung der Aufrechterhaltung der epidemischen Notsituation in Bezug 
+auf die Pandemie des Coronavirus COVID-19, bestätigt durch das Gesetz vom 11. Februar 2022,2. 
+das Gesetz vom 11. Februar 2022 zur Bestätigung des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung 
+der Aufrechterhaltung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19.Art. 
+3 - Der Königliche Erlass vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die 
+erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie 
+des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken, wird aufgehoben.Art. 
+4 - Vorliegendes Gesetz tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 11. März 2022PHILIPPEVon 
+Königs wegen:Der Minister der VolksgesundheitF. VANDENBROUCKEDie Ministerin 
+des InnernA. VERLINDENMit dem Staatssiegel versehen:Der Minister der Justiz,V. 
+VAN QUICKENBORNE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020554
+

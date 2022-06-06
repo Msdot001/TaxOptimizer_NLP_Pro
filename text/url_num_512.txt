@@ -1,0 +1,91 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2021020768/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020768
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 13 APRIL 2019. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992, houdende opheffing van de sanctie wegens het niet-voldoen aan de voorwaarde betreffende het bedrag van de bezoldiging van de bedrijfsleider. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de 
+wet van 13 april 2019 tot wijziging van het Wetboek van de inkomstenbelastingen 1992, houdende opheffing 
+van de sanctie wegens het niet-voldoen aan de voorwaarde betreffende het bedrag van de bezoldiging van 
+de bedrijfsleider (Belgisch Staatsblad van 26 april 2019).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN13. APRIL 2019 - Gesetz zur Abänderung des Einkommensteuergesetzbuches 1992 
+im Hinblick auf die Aufhebung der Sanktion bei Nichterfüllung der Bedingung in Bezug auf den Betrag der 
+Entlohnung des UnternehmensleitersPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 
+1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 
+2 - Artikel 198 § 1 Nr. 1 des Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz 
+vom 25. Dezember 2017, wird wie folgt abgeändert:1. Die Wörter "aufgrund der Artikel 219 und 
+219quinquies" werden durch die Wörter "aufgrund von Artikel 219" ersetzt.2. Die Wörter ", die 
+aufgrund von Artikel 219 geschuldete getrennte Steuer jedoch ausgenommen" werden aufgehoben.Art. 
+3 - In Artikel 215 Absatz 3 Nr. 4 desselben Gesetzbuches, ersetzt durch das Gesetz vom 25. Dezember 2017 
+und abgeändert durch das Gesetz vom 30. Juli 2018, werden die Wörter "und keine in Artikel 219quinquies 
+§  5 erwähnten Gesellschaften" aufgehoben und werden im ersten Satz zwischen den Wörtern "sind, 
+die" und den Wörtern "zu Lasten des Ergebnisses des Besteuerungszeitraums" die Wörter "ab dem fünften 
+Besteuerungszeitraum seit ihrer Gründung wie in Artikel 14526 § 1 Absatz 3 und 
+4 erwähnt" eingefügt.Art. 4 - In Artikel 218 § 1 desselben Gesetzbuches, eingefügt durch 
+das Gesetz vom 24. Dezember 2002 und abgeändert durch die Gesetze vom 30. Juli 2013, 1. Dezember 2016, 
+25. Dezember 2017 und 30. Juli 2018, werden die Wörter "und die in Artikel 219quinquies erwähnte getrennte 
+Steuer" aufgehoben und werden die Wörter "werden bei ausbleibenden oder unzureichenden Vorauszahlungen 
+eventuell erhöht" durch die Wörter "wird bei ausbleibenden oder unzureichenden Vorauszahlungen eventuell 
+erhöht" ersetzt.Art. 5 - Artikel 219quinquies desselben Gesetzbuches, eingefügt durch das Gesetz 
+vom 25. Dezember 2017 und abgeändert durch das Gesetz vom 30. Juli 2018, wird widerrufen.Art. 
+6 - Artikel 233 Absatz 3 desselben Gesetzbuches, eingefügt durch das Gesetz vom 30. Juli 2018, wird aufgehoben.Art. 
+7 - Artikel 39 Nr. 2 des Gesetzes vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer, abgeändert 
+durch das Gesetz vom 30. Juli 2018, wird widerrufen.Art. 8 - In Artikel 86 Buchstabe B2 desselben 
+Gesetzes, abgeändert durch das Gesetz vom 30. Juli 2018, werden die Wörter "39 Nr. 2 und Nr. 4" durch 
+die Wörter "39 Nr. 4" ersetzt.Art. 9 - Artikel 2 Nr. 1 und die Artikel 3, 4 und 6 sind ab dem 
+Steuerjahr 2019 anwendbar, das sich auf einen Besteuerungszeitraum bezieht, der frühestens am 1. Januar 
+2018 beginnt.Artikel 2 Nr. 2 tritt am 1. Januar 2020 in Kraft und ist ab dem Steuerjahr 2021 
+anwendbar, das sich auf einen Besteuerungszeitraum bezieht, der frühestens am 1. Januar 2020 beginnt.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 13. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020768
+

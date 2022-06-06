@@ -1,0 +1,264 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/02/06/2022030780/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-07Numac : 2022030780
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 6 FEBRUARI 2022. - Koninklijk besluit tot wijziging van het koninklijk besluit houdende uitvoering van het Wetboek diverse rechten en taksen ten gevolge van de overdracht van de diverse taksen aan de algemene administratie van de fiscaliteit en de algemene administratie van de inning en de invordering 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op de Grondwet, artikelen 37 en 108;Gelet op het Wetboek diverse rechten en taksen, artikelen 
+125, § 3, 126/3, derde lid, 136, tweede lid, 179/3, tweede lid, 181, tweede lid, 183quinquies, 
+tweede lid, 183decies, tweede lid, 187/3, § 1, derde en vierde lid, 187/5, tweede lid, 199, derde 
+lid, 201/2, tweede lid, 201/9/1, derde lid, 201/9/4, tweede en vijfde lid, 20114, derde 
+lid, 20117, tweede lid, 20125, 20127, tweede lid, 
+20134, 20136, tweede lid en 203/1;Gelet op de wet van 26 
+januari 2021 betreffende de dematerialisatie van de relaties tussen de Federale Overheidsdienst Financiën, 
+de burgers, rechtspersonen en bepaalde derden en tot wijziging van diverse fiscale wetboeken en wetten, 
+artikelen 128 tot 132 en 219;Gelet op het koninklijk besluit van 3 maart 1927 houdende uitvoering 
+van het Wetboek diverse rechten en taksen, artikelen 215, 216, 2171, 2171/1, 
+2171/2, 2171/3, 2171/4, 2172, 2173, 
+221 tot 221ter, 222 tot 223bis, 2241, 2242ter, 2243, 
+2244, 224/5, 2245bis, 225, 226, 227, § 3, 227bis, 228, 231, 
+235, 238, tweede lid, 239, tweede lid, 2402, 2403, 2404, 
+240/5, 2406, 2407ter, 2407quater, 2407quinquies, 
+eerste lid, 2407sexies, 2407sexies1, derde lid, 2407sexies3, 
+2407sexies4, 2407sexies5, 2407septies, 
+2407octies, 2407decies, 2407undecies, 2407terdecies, 
+2407quaterdecies, 2407sexiesdecies en 2407septiesdecies;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 23 november 2021;Overwegende dat 
+dit besluit op zich geen enkele nieuwe budgettaire weerslag heeft, moet geen akkoord van de Staatssecretaris 
+voor Begroting worden gevraagd;Gelet op het advies nr. 09/2022 van de Gegevensbeschermingsautoriteit, 
+gegeven op 21 januari 2022;Gelet op de adviesaanvraag binnen 30 dagen, die op 9 december 2021 
+bij de Raad van State is ingediend, met toepassing van artikel 84, § 1, eerste lid, 2°,  van de 
+wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende dat het advies niet 
+is meegedeeld binnen die termijn;Gelet op artikel 84, § 4, tweede lid, van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973;Overeenkomstig artikel 6, § 2 
+van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, is 
+een impactanalyse van de regelgeving niet noodzakelijk;Op de voordracht van de minister van 
+Financiën,Hebben Wij besloten en besluiten Wij :Artikel 1. In het opschrift van Titel 
+I van Boek II van het koninklijk besluit van 3 maart 1927 houdende uitvoering van het Wetboek diverse 
+rechten en taksen worden de woorden "en de reporten" opgeheven.Art. 2. Artikel 215 van hetzelfde 
+besluit, vervangen bij het koninklijk besluit van 16 februari 2017 en gewijzigd bij de koninklijke besluiten 
+van 17 februari 2019 en 9 december 2019, wordt opgeheven.Art. 3. In artikel 216, eerste lid, 
+7°,  van hetzelfde besluit, vervangen bij het koninklijk besluit van 19 februari 2002, gewijzigd bij 
+de koninklijke besluiten van 21 december 2006, 16 februari 2017 en 17 februari 2019, worden de woorden 
+"het kantoor vermeld in artikel 215" vervangen door de woorden "de dienst vermeld in artikel 2407octiesdecies".Art. 
+4. In artikel 2171 van hetzelfde besluit, hersteld bij het koninklijk besluit van 16 
+februari 2017, worden de woorden "het kantoor vermeld in artikel 215" en de woorden "het in artikel 215 
+vermelde kantoor" vervangen door de woorden "de dienst vermeld in artikel 2407octiesdecies".Art. 
+5. In artikel 2171/1 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 
+16 februari 2017, worden de woorden "het in artikel 215 vermelde kantoor" en de woorden "het kantoor 
+bedoeld in artikel 215" respectievelijk vervangen door telkens de woorden "de dienst vermeld in artikel 
+2407octiesdecies" en de woorden "de dienst bedoeld in artikel 2407octiesdecies".Art. 
+6. In artikel 2171/2 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 
+16 februari 2017, worden de woorden "het in artikel 215 vermelde kantoor" vervangen door de woorden "de 
+dienst vermeld in artikel 2407octiesdecies".Art. 7. In artikel 2171/3 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 16 februari 2017, worden de woorden "het 
+in artikel 215 bedoelde kantoor" vervangen door de woorden "de dienst bedoeld in artikel 2407octiesdecies".Art. 
+8. In artikel 2171/4, tweede lid, van hetzelfde besluit, ingevoegd bij het koninklijk 
+besluit van 16 februari 2017, worden de woorden "het in artikel 215 vermelde kantoor" vervangen door 
+de woorden "de dienst vermeld in artikel 2407octiesdecies".Art. 9. Artikel 
+2172 van het hetzelfde besluit, vervangen bij het koninklijk besluit van 19 februari 
+2002 en gewijzigd bij de koninklijke besluiten van 21 december 2006 en 16 februari 2017, wordt opgeheven.Art. 
+10. Artikel 2173 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 24 
+december 1970 en gewijzigd bij het koninklijk besluit van 19 februari 2002, wordt opgeheven.Art. 
+11. In Boek II van hetzelfde besluit wordt titel III, die de artikelen 221 tot 221ter bevat, opgeheven.Art. 
+12. In Boek II van hetzelfde besluit wordt titel IV, die de artikelen 222 tot 223bis bevat, opgeheven.Art. 
+13. Artikel 2241 van hetzelfde besluit, vervangen bij koninklijk besluit van 15 februari 
+2006 en gewijzigd bij de koninklijke besluiten van 21 december 2006, 29 augustus 2019 en 9 december 2019, 
+wordt vervangen als volgt:"Art. 2241. De verbintenis van de aansprakelijke 
+vertegenwoordiger waarvan sprake is in artikel 178, eerste lid van het Wetboek, alsook de aangifte voorzien 
+bij artikel 1792, 1°,  van hetzelfde Wetboek worden gericht aan de in artikel 2407octiesdecies 
+bedoelde dienst.De melding bedoeld in artikel 183, vierde lid, van hetzelfde Wetboek wordt 
+gericht aan de bevoegde dienst van de administratie van de Federale Overheidsdienst Financiën belast 
+met de taksen opgenomen in Boek II van het Wetboek."Art. 14. In artikel 2242ter 
+van hetzelfde besluit, vervangen bij het koninklijk besluit van 15 februari 2006, worden de volgende 
+wijzigingen aangebracht:a) in paragraaf 1, eerste lid, gewijzigd bij het koninklijk besluit 
+van 21 december 2006, worden de woorden "artikel 178, tweede en derde lid" vervangen door de woorden 
+"artikel 178, eerste en tweede lid";b) in paragraaf 2, eerste lid, gewijzigd bij het koninklijk 
+besluit van 29 augustus 2019, worden de woorden "de ontvanger van het bevoegde kantoor" vervangen door 
+de woorden "de bevoegde dienst van de administratie van de Federale Overheidsdienst Financiën belast 
+met de taksen opgenomen in Boek II van het Wetboek".Art. 15. Artikel 2243 
+van hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 24 december 1970, 15 februari 2006 
+en 21 december 2006, wordt opgeheven.Art. 16. Artikel 2244 van hetzelfde besluit, 
+vervangen bij het koninklijk besluit van 9 december 2019, wordt opgeheven.Art. 17. Artikel 
+2245 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 8 maart 1989 en 
+gewijzigd bij het koninklijk besluit van 21 december 2006, wordt opgeheven.Art. 18. In artikel 
+2245bis van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 30 juni 1993 
+en gewijzigd bij het koninklijk besluit van 21 december 2006 worden de woorden "de Administratie der 
+directe belastingen" telkens vervangen door de woorden "de administratie van de Federale Overheidsdienst 
+Financiën belast met de vestiging van de inkomstenbelastingen".Art. 19. Artikel 225 van hetzelfde 
+besluit, hersteld bij het koninklijk besluit van 30 juni 1993 en gewijzigd bij de koninklijke besluiten 
+van 21 december 2006 en 9 december 2019, wordt opgeheven.Art. 20. In artikel 226 van hetzelfde 
+besluit, hersteld bij het besluit van 30 juni 1993 en gewijzigd bij het koninklijk besluit van 21 december 
+2006 worden de woorden "de Administratie der directe belastingen" telkens vervangen door de woorden "de 
+administratie van de Federale Overheidsdienst Financiën belast met de vestiging van de inkomstenbelastingen".Art. 
+21. In artikel 227 van hetzelfde besluit, hersteld bij het koninklijk besluit van 30 juni 1993 en gewijzigd 
+bij het koninklijk besluit van 13 mei 2005 wordt paragraaf 3 vervangen als volgt:" § 
+3. De staten moeten vóór 1 juni van het jaar volgend op dat waarop de staat betrekking heeft, elektronisch 
+ingediend worden via de applicatie "Finelts".Art. 22. Artikel 227bis van hetzelfde besluit, 
+hersteld bij het koninklijk besluit van 30 juni 1993 en gewijzigd bij het koninklijk besluit van 21 december 
+2006, wordt opgeheven.Art. 23. Artikel 228 van hetzelfde besluit, vervangen bij het koninklijk 
+besluit van 9 december 2019, wordt opgeheven.Art. 24. In artikel 231 van hetzelfde besluit, 
+vervangen bij het besluit van 21 december 2006 worden de volgende wijzigingen aangebracht:a) 
+het woord "schriftelijke" wordt opgeheven;b) de woorden "bij het beheer der registratie en 
+domeinen" worden vervangen door de woorden "bij de in artikel 2407octiesdecies bedoelde 
+dienst";c) de woorden "de artikelen 228 en 229, hiervoor" worden vervangen door de woorden 
+"artikel 2407octiesdecies".Art. 25. Artikel 235 van hetzelfde besluit, gewijzigd 
+bij het koninklijk besluit van 21 december 2006, wordt opgeheven.Art. 26. In artikel 238 van 
+hetzelfde besluit, gewijzigd bij het koninklijk besluit van 29 augustus 2019, wordt het tweede lid vervangen 
+als volgt:"Nochtans, in geval van afstand van een handelszaak, van verandering van woonplaats 
+of van naamswijziging, is het toegelaten, zonder tot betaling van een nieuwe taks gehouden te zijn, de 
+wijzigingen toe te brengen betreffende de naam of woonplaats, mits voorafgaandelijk bij de in artikel 
+2407octiesdecies bedoelde dienst, een aangifte in te dienen welke nauwkeurig de aan 
+de plakbrief toegebrachte wijzigingen doet kennen en de datum van de oorspronkelijke aangifte herinnert."Art. 
+27. In artikel 239, tweede lid, van hetzelfde besluit, worden de woorden "met hun volgnummer, de registratiekantoren 
+waar zij gedaan werden" opgeheven.Art. 28. Artikel 2402 van hetzelfde besluit, 
+vervangen bij het koninklijk besluit van 21 december 2006, wordt opgeheven.Art. 29. Artikel 
+2403 van hetzelfde besluit, vervangen bij het koninklijk besluit van 21 december 2006, 
+wordt opgeheven.Art. 30. Artikel 2404 van hetzelfde besluit, wordt opgeheven.Art. 
+31. Artikel 240/5 van hetzelfde besluit, vervangen bij het koninklijk besluit van 21 december 2006, wordt 
+opgeheven.Art. 32. Artikel 2406 van hetzelfde besluit, vervangen bij het koninklijk 
+besluit van 21 december 2006, wordt opgeheven.Art. 33. In artikel 2407ter 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, worden de woorden "het 
+kantoor bedoeld in artikel 2407sexies3" en de woorden "het in artikel 
+2407sexies3 bedoelde kantoor" vervangen door de woorden "de in artikel 
+2407octiesdecies bedoelde dienst".Art. 34. In artikel 2407quater 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, worden de woorden "het 
+in artikel 2407sexies3 vermelde kantoor", de woorden "het in artikel 
+2407sexies3 bedoelde kantoor" en de woorden "het kantoor bedoeld in 
+artikel 2407sexies3" vervangen door de woorden "de in artikel 2407octiesdecies 
+bedoelde dienst".Art. 35. In artikel 2407quinquies, eerste lid, van hetzelfde 
+besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, worden de woorden "het in artikel 
+2407sexies3 bedoelde kantoor" vervangen door de woorden "de in artikel 
+2407octiesdecies bedoelde dienst".Art. 36. In artikel 2407sexies 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, worden de woorden "het 
+in artikel 2407sexies3 bedoelde kantoor" vervangen door de woorden 
+"de in artikel 2407octiesdecies bedoelde dienst".Art. 37. In artikel 2407sexies1, 
+derde lid, van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, worden de 
+woorden "het in artikel 2407sexies3 bedoelde kantoor" vervangen door 
+de woorden "de in artikel 2407octiesdecies bedoelde dienst".Art. 38. Artikel 
+2407sexies3 van hetzelfde besluit, ingevoegd bij het koninklijk besluit 
+van 6 augustus 2021, wordt opgeheven.Art. 39. Artikel 2407sexies4 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 6 augustus 2021, wordt opgeheven.Art. 
+40. Artikel 2407sexies5 van hetzelfde besluit, ingevoegd bij het koninklijk 
+besluit van 6 augustus 2021, wordt opgeheven.Art. 41. Artikel 2407septies 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 3 augustus 2012 en vervangen bij het 
+koninklijk besluit van 9 november 2016, wordt vervangen als volgt:"Art. 2407septies. 
+De aangifte van de jaarlijkse taks op de kredietinstellingen wordt opgesteld overeenkomstig het model 
+van bijlage 2/1 van dit besluit."Art. 42. Artikel 2407octies van hetzelfde 
+besluit, ingevoegd bij het koninklijk besluit van 3 augustus 2012 en gewijzigd bij het koninklijk besluit 
+van 9 december 2019, wordt opgeheven.Art. 43. Artikel 2407decies van hetzelfde 
+besluit, vervangen bij het koninklijk besluit van 9 november 2016, wordt opgeheven.Art. 44. 
+Artikel 2407undecies van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 
+3 augustus 2012 wordt opgeheven.Art. 45. Artikel 2407terdecies van hetzelfde 
+besluit, ingevoegd bij het koninklijk besluit van 9 december 2019, wordt opgeheven.Art. 46. 
+Artikel 2407quaterdecies van hetzelfde besluit, ingevoegd bij het koninklijk besluit 
+van 9 december 2019, wordt opgeheven.Art. 47. Artikel 2407sexiesdecies van 
+hetzelfde besluit, ingevoegd bij het koninklijk besluit van 9 december 2019, wordt opgeheven.Art. 
+48. Artikel 2407septiesdecies van hetzelfde besluit, ingevoegd bij het koninklijk besluit 
+van 9 december 2019, wordt opgeheven.Art. 49. In boek II van hetzelfde besluit wordt een titel 
+XIV ingevoegd die de artikelen 2407octiesdecies tot 2407vecies bevat, 
+luidende:"Titel XIV - Gemene bepalingenArt. 2407octiesdecies. Voor 
+hun opname in het uitvoerbaar verklaard innings- en invorderingsregister bedoeld in artikel 20139 
+van het Wetboek, worden de sommen verschuldigd in toepassing van Boek II van het Wetboek betaald door 
+storting of overschrijving op de financiële rekening van de dienst diverse taksen van het inningscentrum 
+van de Algemene administratie van de inning en de invordering.Als betalingsreferentie op het 
+stortings- of overschrijvingsformulier worden vermeld:1°  voor natuurlijke personen: de afkorting 
+van de betreffende taks waarvoor de betaling wordt uitgevoerd, een uniek identificatienummer bepaald 
+overeenkomstig het vierde lid, of ten facultatieve titel, het identificatienummer in het rijksregister, 
+alsook het belastbaar tijdperk of het aanslagjaar;2°  voor rechtspersonen: de afkorting van 
+de betreffende taks waarvoor de betaling wordt uitgevoerd, het ondernemingsnummer, toegekend door de 
+Kruispuntbank van Ondernemingen, de benaming, alsook het belastbaar tijdperk of het aanslagjaar.De 
+te gebruiken afkorting voor de taks waarvoor de betaling wordt uitgevoerd luidt als volgt:1° 
+ voor de taks op de beursverrichtingen: TOB;2°  voor de jaarlijkse taks op de verzekeringsverrichtingen: 
+JBVC;3°  voor de jaarlijkse taks op de winstdeelnemingen: BWD;4°  voor de taks op 
+het lange termijnsparen: TELT;5°  voor de belasting op aanplakking: BA;6°  voor de 
+jaarlijkse taks op de effectenrekeningen: JTER;7°  voor de jaarlijkse taks op de kredietinstellingen: 
+JTKI;8°  voor de jaarlijkse taks op de collectieve beleggingsinstellingen: TOPC;9° 
+ voor de jaarlijkse taks op de verzekeringsondernemingen: TEA.Het uniek identificatienummer 
+kan de belastingplichtige opvragen via een specifieke module op het elektronisch platvorm MyMinfin. Wanneer 
+de belastingplichtige niet in staat is om dit uniek identificatienummer te bekomen via de specifieke 
+module, richt hij zich tot het "Inningscentrum - Dienst Diverse taksen" om dit nummer te bekomen.Art. 
+2407noniesdecies. § 1. De terugbetalingen toegelaten door het Wetboek worden 
+aangevraagd bij de dienst bedoeld in artikel 2407octiesdecies, eerste lid. De aanvrager 
+ontvangt een ontvangstmelding van zijn aanvraag. § 2. Inzake de taks op de beursverrichtingen 
+en de jaarlijkse taks op de winstdeelnemingen, moet de aanvraag tot teruggave van de taks, interesten 
+en boeten bij de dienst bedoeld in artikel 2407octiesdecies, eerste lid toekomen uiterlijk 
+de laatste werkdag van de periode van twee jaar te rekenen van de dag waarop de vordering is ontstaan. 
+§ 3. Inzake de jaarlijkse taks op de verzekeringsverrichtingen en de belasting voor aanplakking, 
+moet de aanvraag tot teruggave van de taks bij de dienst bedoeld in artikel 2407octiesdecies, 
+eerste lid toekomen uiterlijk de laatste werkdag van het jaar volgend op dat waarop de inning betrekking 
+heeft. § 4. Inzake de jaarlijkse taks op de effectenrekeningen, moet de aanvraag tot 
+teruggave bij de dienst bedoeld in artikel 2407octiesdecies, eerste lid toekomen uiterlijk 
+de laatste werkdag van het jaar volgend op het jaar waarin de referentieperiode een einde neemt. Een 
+model van vraag tot teruggave kan worden verkregen bij dezelfde dienst. § 5. In afwijking 
+van paragraaf 1, wordt de aanvraag tot terugbetaling van de taksen bedoeld in Boek II, titels XI, XII 
+en XIII van het Wetboek, interesten en boeten ingediend bij de dienst vermeld in en overeenkomstig de 
+bijlagen 3, 5 en 7 van dit besluit. § 6. De aanvraag wordt gemotiveerd. § 
+7. Inzake de jaarlijkse taks op de effectenrekeningen, wordt de vraag tot teruggave ingediend door diegene 
+of voor rekening van diegene die meer betaald heeft dan wettelijk verschuldigd was. In geval van een 
+vraag tot teruggave ingediend door een titularis en betreffende een effectenrekening aangehouden door 
+meerdere titularissen, ondertekent elk van hen de vraag. § 8. De teruggave wordt gedaan 
+aan degene die de taks heeft gekweten.Art. 2407vicies. Het recht op terugbetaling 
+wordt vastgesteld door de adviseur-generaal van de bevoegde dienst of zijn gemachtigde.De aanvrager 
+wordt in kennis gesteld van de beslissing.De bevoegde dienst gaat over tot de terugbetaling 
+door overschrijving op de financiële rekening van de rechthebbende, in België of in de Europese Unie, 
+of nog door een op zijn naam opgestelde postassignatie.De bij artikel 2407noniesdecies 
+voorgeschreven formaliteiten en voorwaarden worden nageleefd op straffe van verval.Echter voor 
+de taksen bedoeld in artikel 2407noniesdecies, §§ 2 tot 4, kan de Minister 
+van Financiën of zijn gemachtigde gehele of gedeeltelijke ontheffing van het verval verlenen mits de 
+aanvraag bij de bevoegde ambtenaar is toegekomen binnen de termijn vastgelegd in dit artikel."Art. 
+50. De bijlage 2 van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 9 november 2016, wordt 
+opgeheven.Art. 51. Het ministerieel besluit van 8 maart 2006 tot uitvoering van artikel 2241, 
+derde lid, van de Algemene Verordening op de met het zegel gelijkgestelde taksen wordt opgeheven.Art. 
+52. De minister bevoegd voor Financiën is belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 6 februari 2022.FILIPVan Koningswege :De Minister van Financiën,V. 
+VAN PETEGHEM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-07Numac : 2022030780
+

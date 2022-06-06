@@ -1,0 +1,97 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/09/02/2021021857/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-20Numac : 2021021857
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 2 SEPTEMBER 2021. - Besluit van de Regering van de Franse Gemeenschap betreffende de betrekkingen van het toezichthoudend personeel dat niet met cursussen wordt belast van het onderwijs voor sociale promotie in het kader van de COVID-19-gezondheidscrisis 
+De Regering van de Franse Gemeenschap,Gelet 
+op het decreet van 16 april 1991 houdende organisatie van het onderwijs voor sociale promotie, artikel 
+111;Gelet op het advies van de Inspecteur van Financiën, gegeven op 10 juni 2021 ;Gelet 
+op de akkoordbevinding van de Minister van Begroting van 16 juni 2021 ;Gelet op de gendertest 
+van 26 mei 2021 uitgevoegd met toepassing van artikel 4, tweede lid 1°,  van het decreet van 7 januari 
+2016 houdende integratie van de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap 
+;Gelet op het protocol voor vakbondsonderhandelingen in het onderhandelingscomité van Sector 
+IX, het Comité voor de provinciale en plaatselijke overheidsdiensten - afdeling II en het onderhandelingscomité 
+voor het statuut van het personeel van het gesubsidieerd vrij onderwijs overeenkomstig de procedures 
+van het koninklijk besluit van 28 september 1984 tot uitvoering van de wet van 19 december 1974 houdende 
+organisatie van de betrekkingen tussen de overheid en de vakbonden van de werknemers die onder deze overheid 
+ressorteren en van het decreet van 19 mei 2004 betreffende de onderhandeling in de Franse Gemeenschap, 
+gesloten op 1 juli 2021;Gelet op het onderhandelingsprotocol binnen het Onderhandelingscomité 
+tussen de Regering van de Franse Gemeenschap, Wallonie-Bruxelles Enseignement en de federaties van inrichtende 
+machten, gesloten op 1 juli 2021 ;Gelet op de aanvraag om advies binnen een termijn van 30 
+dagen verlengd met 15 dagen, gestuurd aan de Raad van State op 15 juli 2021, met toepassing van artikel 
+84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973 
+;Overwegende het gebrek aan mededeling van het advies binnen deze termijn ;Gelet 
+op artikel 84, § 4, tweede lid, van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973 ;Overwegende het besluit van de Executieve van de Franse Gemeenschap van 27 december 1991 
+betreffende de ambten, opdrachten en betrekkingen van de leden van het personeel van het onderwijs voor 
+sociale promotie, inzonderheid op artikel 26, § 3 ;Overwegende dat de gezondheidscrisis 
+van COVID-19 een aanpassing van de regels vereist voor het vaststellen van de betrekkingen van het personeel 
+dat niet met cursussen wordt belast in de inrichtingen voor onderwijs voor sociale promotie;Overwegende 
+dat het aantal lestijden-leerlingen bedoeld in de artikelen 22 tot 25bis van het besluit van de Executieve 
+van de Franse Gemeenschap van 27 december 1991 1991 betreffende de ambten, opdrachten en betrekkingen 
+van de leden van het personeel van het onderwijs voor sociale promotie, voor de kalenderjaren 2020 en 
+2021, immers door de COVID-19-crisis beïnvloed wordt ; Overwegende dat het betrokken aantal 
+lestijden-leerlingen een parameter zal zijn bij de aanpassing van het kader van het personeel dat niet 
+met cursussen wordt belast van de kalenderjaren 2022 en 2023 en bijgevolg dat de kaders van het personeel 
+dat niet met cursussen wordt belast van de inrichtingen van onderwijs voor sociale promotie van de kalenderjaren 
+2022 en 2023 dus zullen worden beïnvloed;Overwegende dat, om dit te vermijden, het noodzakelijk 
+is om het verlies van de betrekkingen van het toezichthoudend personeel dat niet met cursussen wordt 
+belast, te neutraliseren door rekening te houden met de lestijden-leerlingen van de laatste twee kalenderjaren 
+voorafgaand aan de crisis, namelijk 2018 en 2019;Op de voordracht van de Minister van Onderwijs 
+voor sociale promotie ;Na beraadslaging,Besluit : Artikel 1. Voor de kalenderjaren 
+2022 en 2023 is artikel 26, § 3, van het besluit van de Executieve van de Franse Gemeenschap van 
+27 december 1991 betreffende de ambten, opdrachten en betrekkingen van de leden van het personeel van 
+het onderwijs voor sociale promotie, niet van toepassing.Art. 2. Dit besluit treedt in werking 
+op 1 januari 2022.Art. 3. De Minister van Onderwijs voor sociale promotie is belast met de 
+uitvoering van dit besluit.Brussel, 2 september 2021.De Minister-President,P.-Y. 
+JEHOLETDe Minister van Hoger Onderwijs, Onderwijs voor sociale promotie, Universitaire ziekenhuizen, 
+Hulpverlening aan de Jeugd, Justitiehuizen, Jeugd, Sport en Promotie van Brussel,V. GLATIGNY 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-20Numac : 2021021857
+

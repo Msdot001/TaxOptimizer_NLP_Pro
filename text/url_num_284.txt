@@ -1,0 +1,122 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/10/2020043025/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-17Numac : 2020043025
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 10 SEPTEMBER 2020. - Ministerieel besluit tot uitvoering van artikel 15 van het koninklijk besluit van 15 juli 2020 tot verlenging van de maatregelen genomen op vlak van werkloosheid in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19 (I) 
+De Minister van Werk,Gelet 
+op de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, artikel 
+7, § 1, derde lid, i, vervangen bij de wet van 14 februari 1961;Gelet op het koninklijk 
+besluit van 15 juli 2020 tot verlenging van de maatregelen genomen op vlak van werkloosheid in het kader 
+van de strijd tegen de verspreiding van het coronavirus COVID-19 (I);Gelet op het ministerieel 
+besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken;Gelet op het advies van de inspecteur van Financiën, gegeven op 26 augustus 2020;Gelet 
+op de akkoordbevinding van de Minister van Begroting, gegeven op 2 september 2020;Gelet op 
+advies 67.981/1/V van de Raad van State, gegeven op 9 september 2020, met toepassing van artikel 84, 
+§ 1, eerste lid, 3°,  van de gecoördineerde wetten op de Raad van State;Gelet op de 
+dringende noodzakelijkheid gemotiveerd door het feit dat op 31 augustus 2020 de mogelijkheid afloopt 
+voor de sectoren en ondernemingen om het systeem tijdelijke werkloosheid overmacht corona aan te vragen;Dat 
+in het wettelijk kader echter de mogelijkheid opgenomen is dat het systeem tijdelijk werkloosheid overmacht 
+corona vanaf 1 september 2020 kan blijven toegepast worden in de bijzonder hard getroffen sectoren en 
+ondernemingen;Dat de minister van Werk deze sectoren kan bepalen;Dat de Nationale 
+Veiligheidsraad nog steeds de sluiting beveelt van de jacuzzi's, stoomcabines en hammams, behalve indien 
+hun gebruik privé is, en de discotheken en dancings;Dat de Nationale Veiligheidsraad nog steeds 
+maatregelen oplegt aan de horecasector die een uitzonderlijke impact kunnen hebben op hun omzet en de 
+tewerkstelling in de sector door de afstand die tussen de tafels moet gegarandeerd blijven en het maximum 
+aantal personen per tafel;Dat de Nationale Veiligheidsraad nog steeds uitzonderlijke maatregelen 
+oplegt in het kader van samenscholingen onder de vorm van evenementen, recepties en banketten door het 
+maximum aantal aanwezigen te beperken;Dat de Nationale Veiligheidsraad nog steeds beperkingen 
+oplegt met betrekking tot reizen vanuit en naar België met een uitzonderlijke impact op de toeristische 
+sector en de luchtvaartsector;Dat bijgevolg deze sectoren dringend bepaald moeten worden in 
+een ministerieel besluit zodat zij verder gebruik kunnen maken van het systeem tijdelijk werkloosheid 
+overmacht corona om zo hun goede werking niet in het gedrang te brengen;Besluit :Artikel 
+1. De sectoren die uitzonderlijk hard getroffen zijn door de coronacrisis, bedoeld in artikel 15 van 
+het koninklijk besluit van 15 juli 2020 tot verlenging van de maatregelen genomen op vlak van werkloosheid 
+in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19 (I), zijn hernomen in bijlage.Art. 
+2. Dit besluit heeft uitwerking met ingang van 1 september 2020.Brussel, 10 september 2020.De 
+Minister van Werk,N. MUYLLE BijlageDe sectoren die uitzonderlijk 
+hard getroffen zijn door de coronacrisis, bedoeld in artikel 1, zijn de sector van toerisme, de eventsector 
+en de sector van de luchtvaart, en de ondernemingen bedoeld in artikel 6 van het ministerieel besluit 
+van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. 
+  Voor de private sector, worden bovenstaande 
+sectoren vertaald naar de volgende paritaire comités: Beperkingen 100Aanvullend 
+Paritair Comité voor de werklieden Beperkt tot activiteiten die verband houden met de organisatie 
+van evenementen en kermissen en tot de reisbureaus en touroperators 109 Paritair Comité 
+voor het kleding- en confectiebedrijf Beperkt tot het verhuren en plaatsen van tenten 111 
+Paritair Comité voor de metaal-, machine- en elektrische bouw Beperkt tot de activiteiten van de 
+vliegtuigbouw en het onderhoud en de reparatie van vliegtuigen voor het vervoer van personen en constructie 
+en montage in functie van podiumbouw 126 Paritair Comité voor de stoffering en de houtbewerking 
+Beperkt tot het verhuren en het plaatsen van materieel voor het inrichten van beurzen, tentoonstellingen, 
+feestelijkheden; het vervaardigen, het verhuren en het plaatsen van stands, decors, tribunes; het verhuren 
+van ruimten voor tentoonstellingen, beurzen, feestelijkheden, het al dan niet bestendig uitstallen van 
+koopwaar, manifestaties van welke aard ook; het inrichten van stands, tentoonstellingen, beurzen 139 
+Paritair Comité voor de binnenscheepvaart Beperkt tot de pleziervaart voor toeristische doeleinden 
+140.01 Paritair Subcomité voor de autobussen en autocars Beperkt tot touringcars 
+140.02 Paritair Subcomité voor de taxi's 140.04 Paritair Subcomité 
+voor de grondafhandeling op luchthavens Beperkt tot activiteiten die verband houden met het luchtvervoer 
+van personen 149.01 Paritair Subcomité voor de elektriciens: installatie en distributie 
+Beperkt tot het plaatsen van geluids- en beeldinstallaties in het kader van de organisatie van evenementen 
+200 Aanvullend Paritair Comité voor de bedienden Beperkt tot activiteiten die verband 
+houden met de organisatie van evenementen en kermissen; tot de reisbureaus en touroperators; tot het 
+weg- en spoorvervoer van personen 209 Paritair Comité voor de bedienden der metaalfabrikatennijverheid 
+Beperkt tot de activiteiten van de vliegtuigbouw en het onderhoud en de reparatie van vliegtuigen 
+voor het vervoer van personen 215 Paritair Comité voor de bedienden van het kleding- 
+en confectiebedrijf Beperkt tot het verhuren en plaatsen van tenten 226 Paritair 
+Comité voor de bedienden uit de internationale handel, het vervoer en de logistiek Beperkt tot activiteiten 
+die verband houden met het luchtvervoer van personen 227 Paritair Comité voor de audiovisuele 
+sector 302 Paritair Comité voor het hotelbedrijf 303.03 Paritair 
+Subcomité voor de exploitatie van bioscoopzalen 304 Paritair Comité voor het vermakelijkheidsbedrijf 
+314 Paritair Comité voor het kappersbedrijf en de schoonheidszorgen Beperkt 
+tot de exploitatie van jacuzzi's, stoomcabines en hammams 315 Paritair Comité voor 
+de handelsluchtvaart en haar subcomités Beperkt tot activiteiten die verband houden met het luchtvervoer 
+van personen 329 Paritair Comité voor de socio-culturele sector 333 
+Paritair Comité voor toeristische attracties   Gezien om gevoegd te 
+worden bij het ministerieel besluit van 10 september 2020.De Minister van Werk,N. 
+MUYLLE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-17Numac : 2020043025
+

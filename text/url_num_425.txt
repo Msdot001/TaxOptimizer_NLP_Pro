@@ -1,0 +1,114 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-24Numac : 2021040489
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 1 FEBRUARI 2021. - Besluit van de Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën tot wijziging van het Besluit van de Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën van 21 november 2013 tot oprichting van de buitendiensten van de Algemene Administratie van de Bijzondere Belastinginspectie en tot vaststelling van de zetel en de bevoegdheid van deze diensten 
+De 
+Voorzitter van het Directiecomité,Gelet op de wet van 8 augustus 1980 betreffende de budgettaire 
+voorstellen 1979-1980, artikel 87, vervangen bij de wet van 15 maart 1999 en gewijzigd bij de wet van 
+25 april 2014;Gelet op het koninklijk besluit van 3 december 2009 houdende regeling van de 
+operationele diensten van de Federale Overheidsdienst Financiën, de artikelen 1 en 5, gewijzigd bij het 
+koninklijk besluit van 19 juli 2013;Gelet op het koninklijk besluit van 15 maart 2010 betreffende 
+de oprichting van diensten in de schoot van de Federale Overheidsdienst Financiën, de vaststelling van 
+hun zetel en van hun materiële en territoriale bevoegdheid;Gelet op het koninklijk besluit 
+van 19 juli 2013 tot vaststelling van het organiek reglement van de Federale Overheidsdienst Financiën 
+en van de bijzondere bepalingen die van toepassing zijn op het statutair personeel, artikel 3;Gelet 
+op het ministerieel besluit van 23 april 2010 waarbij delegatie wordt verleend aan de Voorzitter van 
+het directiecomité met betrekking tot de oprichting van diensten, de vaststelling van hun zetel en van 
+hun materiële en territoriale bevoegdheid;Gelet op het besluit van de Voorzitter van het Directiecomité 
+van de Federale Overheidsdienst Financiën van 21 november 2013 tot oprichting van de buitendiensten van 
+de Algemene Administratie van de Bijzondere Belastinginspectie en tot vaststelling van de zetel en de 
+bevoegdheid van deze dienstenGelet op het besluit van de Voorzitter van het Directiecomité 
+van de Federale Overheidsdienst Financiën, gegeven op 29 juni 2018, tot wijziging van het besluit van 
+21 november 2013,Gelet op het advies van de Inspecteur van Financiën, gegeven op 14 januari 
+2021,Besluit :Artikel 1. Artikel 3 van het besluit van de Voorzitter van het Directiecomité 
+van de Federale Overheidsdienst Financiën wordt als volgt gewijzigd:1 °  in § 1, 1 °, 
+ eerste lid, b), tweede streepje, wordt het woord "vier" vervangen door "vijf",2 °  in § 
+1, 2 °,  eerste lid, b), tweede streepje, wordt het woord "drie" vervangen door "vier",2 ° 
+ in § 1, 2 °,  tweede lid, worden de woorden "één van de drie" vervangen door "twee van de vier",3 
+°  in § 1, 5 °,  eerste lid, a), wordt het woord "twee" vervangen door "drie" en worden de woorden 
+"van kennismanagement en datamining" vervangen door "van kennismanagement, van datamining en van opsporingen".Art. 
+2. In hetzelfde besluit wordt de bijlage vervangen door de bijlage bij dit besluit.Art. 3. 
+Dit besluit treedt in werking op 1 maart 2021.Brussel, 1 februari 2021.H. D'HondtBijlage 
+bij het Besluit van de Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën tot 
+wijziging van het Besluit van 21 november 2013 tot oprichting van de buitendiensten van de Algemene Administratie 
+van de Bijzondere Belastinginspectie en tot vaststelling van de zetel en de bevoegdheid van deze diensten.Buitendiensten 
+van de Algemene Administratie van de Bijzondere BelastinginspectieVolg nr. Benaming van de 
+dienst (cf. artikelen 2 en 3)1 Gewestelijke directie BBI Antwerpen2 Dienst inputbeheer 
+BBI Antwerpen3 Afdeling operaties fraudebestrijding BBI Antwerpen4 Cel informatica 
+BBI Antwerpen5 Cel patrimoniumdocumentatie BBI Antwerpen6 Cel douane en accijnzen 
+BBI Antwerpen7 Inspectie BBI Antwerpen 18 Inspectie BBI Antwerpen 29 Inspectie 
+BBI Hasselt 110 Inspectie BBI Hasselt 211 Afdeling juridische zaken BBI Antwerpen12 
+Cel invordering BBI Antwerpen13 Cel geschillen BBI Antwerpen14 Gewestelijke directie 
+BBI Brussel15 Dienst inputbeheer BBI Brussel16 Afdeling operaties fraudebestrijding 
+BBI Brussel17 Cel informatica BBI Brussel18 Cel patrimoniumdocumentatie BBI Brussel19 
+Cel douane en accijnzen BBI Brussel20 Inspectie BBI Brussel 121 inspectie BBI Brussel 
+222 Inspectie BBI Brussel 323 Inspectie BBI Brussel 424 Inspectie BBI Brussel 
+525 Afdeling juridische zaken BBI Brussel26 Cel invordering BBI Brussel27 
+Cel geschillen BBI Brussel28 Gewestelijke directie BBI Gent29 Dienst inputbeheer 
+BBI Gent30 Afdeling operaties fraudebestrijding BBI Gent31 Cel informatica BBI Gent32 
+Cel patrimoniumdocumentatie BBI Gent33 Cel douane en accijnzen BBI Gent34 Inspectie 
+BBI Gent 135 Inspectie BBI Gent 236 Inspectie BBI Brugge37 Afdeling juridische 
+zaken BBI Gent38 Cel invordering BBI Gent39 Cel geschillen BBI Gent40 Gewestelijke 
+directie BBI Namen41 Dienst inputbeheer BBI Namen42 Afdeling operaties fraudebestrijding 
+BBI Namen43 Cel informatica BBI Namen44 Cel patrimoniumdocumentatie BBI Namen45 
+Cel douane en accijnzen BBI Namen46 Antenne BBI Ostbelgien47 Inspectie BBI Namen48 
+Inspectie BBI Charleroi49 Inspectie BBI Luik50 Inspectie BBI Bergen51 Afdeling 
+juridische zaken BBI Namen52 Cel invordering BBI Namen53 Cel geschillen BBI Namen54 
+Gewestelijke directie BBI 5e55 Dienst inputbeheer BBI 5e - Kennis56 Dienst inputbeheer 
+BBI 5e - Datamining57 Dienst inputbeheer BBI 5e - Opsporingen58 Afdeling operaties 
+fraudebestrijding BBI 5e59 Inspectie BBI 5e Brussel 160 Inspectie BBI 5e Brussel 
+261 Inspectie BBI 5e Antwerpen62 Inspectie BBI 5e Gent63 Inspectie BBI 
+5e Namen64 Afdeling juridische zaken BBI 5eGezien om gevoegd te worden bij het besluit 
+van de Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën tot wijziging van 
+het Besluit van 21 november 2013 tot oprichting van de buitendiensten van de Algemene Administratie van 
+de Bijzondere Belastinginspectie en tot vaststelling van de zetel en de bevoegdheid van deze diensten.De 
+Voorzitter van het Directiecomité van de Federale Overheidsdienst Financiën,H. D'Hondt   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-24Numac : 2021040489
+

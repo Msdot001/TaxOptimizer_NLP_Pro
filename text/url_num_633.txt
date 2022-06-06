@@ -1,0 +1,57 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-12Numac : 2021203338
+FEDERALE OVERHEIDSDIENST KANSELARIJ VAN DE EERSTE MINISTER  
+ 21 JUNI 2021. - Programmawet. - Erratum 
+In het Belgisch Staatsblad nr. 180 van 29 juni 2021, 
+pagina 65.981, moet de volgende verbetering worden aangebracht: In de Nederlandse tekst van 
+artikel 15, 1°, dient te worden gelezen "de programmawet van 21 juni 2021" in plaats van "de programmawet 
+van.. juni 2021".  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-12Numac : 2021203338
+

@@ -1,0 +1,525 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/11/13/2020043738/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-25Numac : 2020043738
+VLAAMSE OVERHEID 
+ 13 NOVEMBER 2020. - Besluit van de Vlaamse Regering tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus 
+RechtsgrondenDit 
+besluit is gebaseerd op :-het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd 
+agentschap met rechtspersoonlijkheid Opgroeien regie, artikel 5, § 2, 2°,  a), ingevoegd bij het 
+decreet van 1 maart 2019, artikel 12, gewijzigd bij het decreet van 1 maart 2019, en artikel 13, § 
+4, ingevoegd bij het decreet van 21 juni 2013;- het decreet van 20 april 2012 houdende de organisatie 
+van kinderopvang van baby's en peuters, artikel 6, § 1, 3°,  e), en § 5, artikel 8, § 
+1, gewijzigd bij de decreten van 29 juni 2012 en 23 maart 2018, § 3, eerste lid, 1°,  artikel 
+10, 3°,  en artikel 12, § 1, tweede lid, en § 3, ingevoegd bij het decreet van 15 juli 
+2016.VormvereistenDe volgende vormvereisten zijn vervuld :- De Vlaams minister, 
+bevoegd voor de begroting, heeft zijn akkoord gegeven op 12 november 2020;- Er is geen advies 
+gevraagd aan de Raad van State, met toepassing van artikel 3, § 1, van de wetten op de Raad van 
+State, gecoördineerd op 12 januari 1973. Er is een dringende noodzakelijkheid omdat sinds midden oktober 
+2020 de evolutie van het aantal besmettingen, het aantal ziekenhuisopnames en de positiviteitsratio van 
+de afgenomen testen enorm zorgwekkend is. Omdat een aantal kritische drempels overschreden waren, werd 
+op 28 oktober 2020 een ministerieel besluit goedgekeurd met vergaande maatregelen met betrekking tot 
+het economisch en sociaal leven. Daardoor is er sinds 2 november 2020 de facto opnieuw een lockdown van 
+kracht. Meer concreet nam de federale overheid onder andere de volgende maatregelen :- telewerk 
+is verplicht;- winkels die niet-essentiële goederen verkopen, zijn gesloten;- inrichtingen 
+van de culturele, feestelijke, sportieve, recreatieve en evenementensector zijn gesloten;- 
+ondernemingen die diensten aanbieden aan consumenten, zijn gesloten;- individuele privécontacten 
+tussen burgers zijn heel beperkt toegestaan;Daarnaast besliste het Overlegcomité om de herfstvakantie 
+van de scholen te verlengen tot en met 15 november 2020.Al deze maatregelen hebben globaal 
+tot doel de contacten tussen mensen zoveel mogelijk te beperken en mensen aan te zetten zoveel mogelijk 
+thuis te blijven. Hoewel de risico's voor de besmetting van baby's en peuters en jonge kinderen nog altijd 
+laag zijn, hebben de algemene maatregelen tot gevolg dat gezinnen hun kinderen meer thuis opvangen. Bovendien 
+leidt de hoge besmettingsgraad ertoe dat heel wat organisatoren geconfronteerd worden met kinderbegeleiders 
+die ziek zijn of in quarantaine zijn. Soms is dat naar aanleiding van een besmetting of hoogrisicocontact 
+in de opvang, maar meestal door een besmetting of hoogrisicocontact in de privécontext. Daardoor moeten 
+organisatoren noodgedwongen (een deel van) de werking stopzetten waarvoor niet in een compensatie voorzien 
+is in het besluit van de Vlaamse Regering van 2 oktober 2020 tot regeling van een subsidie voor de organisatoren 
+en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van 
+de gevolgen van het COVID-19-virus en tot wijziging van het besluit van de Vlaamse Regering van 24 maart 
+2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren 
+in de kinderopvang en het besluit van de Vlaamse Regering van 1 april 2020 tot bestrijding van de negatieve 
+gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, in 
+de opvang van zieke kinderen en in de preventieve gezinsondersteuning. Daarnaast zijn veel kinderen afwezig 
+door ziekte of een hoogrisicocontact of doordat ouders hun kind niet naar de opvang sturen uit angst 
+of omdat ze geen opvang nodig hebben aangezien ze in de horeca, de culturele sector of een andere sector 
+werken die naar aanleiding van de recente maatregelen opnieuw is stilgelegd. De huidige maatregelen houden 
+opnieuw een bijna volledige lockdown in. In deze context is het duidelijk dat de selectieve compensatie 
+die ingevoerd is bij het besluit van de Vlaamse Regering van 2 oktober 2020, niet volstaat. Dat besluit 
+maakt alleen compensatie mogelijk bij een verplichte sluiting naar aanleiding van de thuisisolatie van 
+minstens een volledige leefgroep door een hoogrisicocontact of een besmetting in de opvang, of van een 
+sluiting van de kinderopvang door een specifieke maatregel van een overheid of van een doelgroepbeperking. 
+De grote aantallen van afwezigheden, zowel bij kinderbegeleiders als bij kinderen, maken een algemene 
+compensatie, die op 24 maart 2020 en 1 april 2020 ingevoerd is en die tot en met september 2020 van kracht 
+was, opnieuw noodzakelijk. Bij gebrek aan een dergelijke algemene compensatie komen de leefbaarheid en 
+het voortbestaan van de kinderopvangsector in het gedrang aangezien een daling van de aanwezigheden en 
+van de globale bezetting een directe impact heeft op de inkomsten van een organisator. De ervaring leert 
+ondertussen echter dat de coronamaatregelen na enige tijd effect hebben waardoor opnieuw meer versoepelingen 
+in het maatschappelijk, het professioneel en sociaal leven mogelijk worden. Een algemene compensatie 
+voor onbeperkte duur is dus niet opportuun. Daarom wordt met dit besluit voorzien in een tweeledig systeem 
+: enerzijds een selectieve compensatie voor de periode dat de uitbraak redelijk onder controle is en 
+het leven zich normaliseert, en anderzijds een algemene compensatie voor de maanden waarin de overheid 
+naar aanleiding van een hoge besmettingsgraad, een hoog aantal ziekenhuisopnames en een hoge positiviteitsratio 
+van de coronatesten noodgedwongen extreem beperkende maatregelen oplegt. Gelet op de lockdown die op 
+2 november 2020 ingegaan is, en de reeds ingezette evolutie van de daling van aanwezigheden in de opvang 
+in de tweede helft van oktober is het niet mogelijk te wachten op het advies van de Raad van State om 
+deze regelgeving goed te keuren, zelfs niet met een advies op vijf dagen, aangezien het op basis van 
+de huidige toestand duidelijk is dat in de maand november een algemene compensatie noodzakelijk is met 
+het oog op de leefbaarheid van de sector en dat ook aangepaste maatregelen voor de gezinnen moeten gelden. 
+Zowel de sector als de gezinnen moeten snel duidelijkheid hebben over de regels die vanaf november voor 
+hen van toepassing zijn. Om die reden wordt voorliggend besluit niet eerst aan de Raad van State voorgelegd.InitiatiefnemerDit 
+besluit wordt voorgesteld door de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding.Na 
+beraadslaging,DE VLAAMSE REGERING BESLUIT :HOOFDSTUK 1. - Algemene bepalingenArtikel 
+1. In dit besluit wordt verstaan onder :1°  afwezigheidsdag : de opvangdag die besteld is door 
+het gezin in het opvangplan in de schriftelijke overeenkomst tussen de organisator en het gezin, waarop 
+het kind afwezig is;2°  agentschap : het intern verzelfstandigd agentschap met rechtspersoonlijkheid 
+Opgroeien regie, opgericht bij artikel 3 van het decreet van 30 april 2004;3°  attest van toezicht 
+: het attest van toezicht, vermeld in artikel 3, § 1, van het Kwaliteitsbesluit Buitenschoolse 
+Opvang van 16 mei 2014;4°  buitenschoolse opvang : de buitenschoolse opvang, vermeld in artikel 
+1, 1°,  van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;5°  decreet van 30 
+april 2004 : het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met 
+rechtspersoonlijkheid Opgroeien regie;6°  decreet van 20 april 2012 : het decreet van 20 april 
+2012 houdende de organisatie van kinderopvang van baby's en peuters;7°  doelgroepbeperking 
+: de beperking van het type gezin dat mag gebruikmaken van de kinderopvang of buitenschoolse opvang, 
+opgelegd aan de organisator van kinderopvang of buitenschoolse opvang. De doelgroepbeperking is opgelegd 
+in het kader van de bestrijding van de COVID-19-epidemie door een federale maatregel, een Vlaamse maatregel, 
+of een maatregel van de provinciegouverneur of de burgemeester als vermeld in artikel 27 van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken. De maatregelen ten aanzien van gezinnen die betrekking hebben op de thuisisolatie vallen 
+daar niet onder;8°  gezinsopvang voor buitenschoolse kinderen : de gezinsopvang, vermeld in 
+artikel 1, 4°,  van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;9°  groepsopvang 
+voor buitenschoolse kinderen : de groepsopvang, vermeld in artikel 1, 5°,  van het Kwaliteitsbesluit 
+Buitenschoolse Opvang van 16 mei 2014;10°  kinderopvang : de kinderopvang, vermeld in artikel 
+2 van het decreet van 20 april 2012;11°  lokale dienst : de lokale dienst, vermeld in artikel 
+1, 15°,  van het besluit van de Vlaamse Regering van 27 november 2015 houdende de voorwaarden voor de 
+erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools 
+van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte 
+buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning 
+groepsopvang en een plussubsidie;12°  minister : de Vlaamse minister van Welzijn, Volksgezondheid, 
+Gezin en Armoedebestrijding;13°  openingsdag : de dag waarop men beschikbaar is om kinderen 
+op te vangen;14°  opvangmoment : een van de volgende momenten op een openingsdag waarop een 
+kind buitenschools opgevangen wordt : a) vóór schooltijd; b) na schooltijd; 
+c) op woensdagnamiddag; d) op een schoolvrije dag; e) een schoolvakantiedag;15° 
+ opvang op een schooldag : de opvang vóór schooltijd, na schooltijd of op woensdagnamiddag;16° 
+ opvang op een schoolvrije dag : de opvang op een schoolvrije dag of gedurende de schoolvakantie;17° 
+ project FCUD buitenschoolse opvang : het project, vermeld in artikel 1, 4°,  van het besluit van de 
+Vlaamse Regering van 15 juli 2016 betreffende de subsidiëring van projecten vanuit het vroegere Fonds 
+voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut, dat buitenschoolse 
+opvang organiseert;18°  subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte 
+: de subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, vermeld in artikel 42 tot 
+en met 48 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;19°  subsidie voor 
+initiatief buitenschoolse opvang : de subsidie voor initiatief voor buitenschoolse opvang, vermeld in 
+artikel 19 tot en met 31 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;20° 
+ subsidie voor inkomenstarief voor buitenschoolse opvang : de subsidie voor inkomenstarief, vermeld in 
+artikel 36 tot en met 41 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;21° 
+ verplichte sluiting : de gedeeltelijke of volledige sluiting van een kinderopvanglocatie of opvanglocatie 
+die een direct gevolg is van een van de volgende situaties : a) de sluiting is opgelegd in 
+het kader van de bestrijding van de COVID-19-epidemie door een van de volgende maatregelen : 
+1) een federale maatregel; 2) een Vlaamse maatregel; 3) een maatregel van de provinciegouverneur 
+of de burgemeester als vermeld in artikel 27 van het ministerieel besluit van 28 oktober 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken; b) de volledige 
+of gedeeltelijke sluiting van de opvanglocatie door de afwezigheid van een of meer kinderbegeleiders 
+naar aanleiding van een quarantaineattest of besmetting met het COVID-19-virus waardoor de gewone werking 
+niet kan verdergezet worden overeenkomstig de geldende voorwaarden. Die sluiting is aan het agentschap 
+gemeld conform de administratieve richtlijnen van het agentschap; c) een situatie van overmacht 
+die aan COVID-19 gerelateerd is;22°  werkdag : een dag die geen zaterdag, zondag of een van 
+de tien wettelijke feestdagen is.Art. 2. De subsidies worden toegekend met inachtneming van 
+het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, 
+lid 2, van het verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie 
+voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang 
+belaste ondernemingen.Art. 3. Met toepassing van artikel 10, 3°,  van het decreet van 20 april 
+2012 kan het agentschap aan de organisator van kinderopvang een subsidie toekennen om de gevolgen van 
+het COVID-19-virus te compenseren en om de specifieke subsidievoorwaarden, vermeld in artikel 4 en 7 
+van dit besluit, na te leven.Met toepassing van artikel 5, § 2, 2°,  a), en artikel 
+13, § 2, van het decreet van 30 april 2004 kan het agentschap aan de organisator van buitenschoolse 
+opvang een subsidie toekennen om de gevolgen van het COVID-19-virus te compenseren en om de specifieke 
+subsidievoorwaarden, vermeld in artikel 10 en 12 van dit besluit, na te leven.De minister bepaalt 
+per kalendermaand op basis van de ernst van het aantal besmettingen, het aantal ziekenhuisopnames en 
+de positiviteitsratio van de afgenomen COVID-19-testen en op basis van de geldende federale maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken, welke van de volgende subsidies het agentschap 
+kan toekennen :1°  een algemene subsidie : een algemene subsidie geldt voor de afwezigheidsdagen, 
+voor het verlies van ouderbijdragen en voor de volledige sluiting wegens overmacht die aan COVID-19 gerelateerd 
+is, ongeacht de reden en de periode van de afwezigheden van de opgevangen kinderen in een bepaalde maand;2° 
+ een selectieve subsidie : een selectieve subsidie geldt alleen voor de afwezigheidsdagen en het verlies 
+van ouderbijdragen tijdens de periode dat een verplichte sluiting of doelgroepbeperking geldt voor bepaalde 
+organisatoren in een bepaalde maand.HOOFDSTUK 2. - Subsidie ter ondersteuning van de organisatoren 
+van kinderopvangAfdeling 1. - Algemene subsidie kinderopvangArt. 4. Het agentschap 
+kent een algemene subsidie toe aan de organisator van kinderopvang als de organisator daarvoor conform 
+artikel 15 van dit besluit een aanvraag indient en voldoet aan al de volgende voorwaarden :1° 
+ de organisator is beschikbaar om de dienstverlening voort te zetten voor alle gezinnen die daar nood 
+aan hebben en levert inspanningen om beschikbare medewerkers ruimer in te zetten dan het huidige opvangaanbod. 
+De organisator houdt daarvoor alle medewerkers actief. Deze voorwaarde is niet van toepassing als de 
+organisator kan aantonen dat hij door overmacht als gevolg van COVID-19 de dienstverlening niet kan verderzetten;2° 
+ de organisator en de medewerkers activeren naar aanleiding van de COVID-19-epidemie geen tijdelijke 
+werkloosheid of overbruggingsrecht voor zelfstandigen voor de medewerkers die in de locatie tewerkgesteld 
+zijn waarvoor de subsidie gevraagd wordt. De organisator betaalt de medewerkers voor de kinderopvang 
+op de volgende wijze verder tijdens de periode waarvoor de algemene subsidie gevraagd wordt : 
+a) in afwijking van artikel 65 van het Subsidiebesluit van 22 november 2013 betaalt de organisator aan 
+de kinderbegeleiders die het sociaal statuut van aangesloten onthaalouders hebben, een kostenvergoeding 
+van 17,50 euro per volledige afwezigheidsdag in de kinderopvanglocatie bij de kinderbegeleider of een 
+herleid bedrag als vermeld in artikel 5, derde lid, van dit besluit; b) de organisator betaalt 
+aan alle andere medewerkers correcte lonen of vergoedingen, waardoor die medewerkers in staat zijn een 
+gezonde en toekomstgerichte sociaalrechtelijke situatie uit te bouwen in de kinderopvanglocatie;3° 
+ de organisator voldoet aan de maatregelen voor de gezinnen, vermeld in artikel 22 van dit besluit;4° 
+ de organisator en de medewerkers doen geen beroep op de Vlaamse coronapremies voor ondernemers en zelfstandigen 
+die een omzetdaling vaststellen of die hun activiteit volledig of gedeeltelijk moeten stopzetten door 
+de COVID-19-epidemie of maatregelen die daarvoor worden genomen.In afwijking van het eerste 
+lid, 2°,  kan de organisator uitzonderlijk wel een systeem activeren waardoor de medewerkers niet vergoed 
+hoeven te worden als het noodzakelijk is voor de werking om de niet-beschikbare medewerker te vervangen 
+en als een werknemer een beroep wil doen op de tijdelijke werkloosheid voor de opvang van een kind.Art. 
+5. De algemene subsidie voor de organisator van kinderopvang bedraagt :1°  voor de kinderopvangplaatsen 
+waarvoor de organisator niet hoeft te voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 
+van het Subsidiebesluit van 22 november 2013 : a) voor gezinsopvang voor baby's en peuters 
+: 17,50 euro per afwezigheidsdag; b) voor groepsopvang voor baby's en peuters : 27 euro per 
+afwezigheidsdag;2°  voor de kinderopvangplaatsen van de organisator die groepsopvang voor baby's 
+en peuters met samenwerkende onthaalouders in het sociaal statuut van de aangesloten onthaalouders of 
+gezinsopvang voor baby's en peuters organiseert en die voor die plaatsen de subsidie voor inkomenstarief 
+voor kinderopvang ontvangt van het agentschap en voldoet aan de voorwaarden, vermeld in artikel 20 tot 
+en met 36/1 van het voormelde besluit : a) 20,01 euro per afwezigheidsdag voor de organisator 
+die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders of met kinderbegeleiders 
+in het project werknemersstatuut voor onthaalouders; b) 17,50 euro per afwezigheidsdag voor 
+de organisator die niet werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders 
+of met kinderbegeleiders in het project werknemersstatuut voor onthaalouders;3°  voor de kinderopvangplaatsen 
+van de organisator die groepsopvang voor baby's en peuters organiseert en die voor die plaatsen de subsidie 
+voor inkomenstarief voor kinderopvang ontvangt van het agentschap en voldoet aan de voorwaarden, vermeld 
+in artikel 20 tot en met 36/1 van het voormelde besluit : 20 euro per afwezigheidsdag.In het 
+eerste lid wordt verstaan onder :1°  gezinsopvang voor baby's en peuters : de kinderopvang 
+met een vergunning voor gezinsopvang als vermeld in artikel 4, eerste lid, 1°,  van het decreet van 20 
+april 2012;2°  groepsopvang voor baby's en peuters : de kinderopvang met een vergunning voor 
+groepsopvang als vermeld in artikel 4, eerste lid, 2°,  van het decreet van 20 april 2012;3° 
+ subsidie voor inkomenstarief voor kinderopvang : de subsidie voor inkomenstarief, vermeld in artikel 
+1, 17°,  van het Subsidiebesluit van 22 november 2013.De organisator ontvangt :1° 
+ de volledige subsidie, vermeld in het eerste lid, voor een afwezigheidsdag op een gereserveerde opvangdag 
+die vijf uur of meer duurt;2°  60 % van dat bedrag voor een opvangdag die minder dan vijf uur 
+en minstens drie uur duurt;3°  40 % voor een opvangdag die minder dan drie uur duurt.Art. 
+6. Het aantal afwezigheidsdagen dat in aanmerking komt voor de subsidie, vermeld in artikel 5, kan nooit 
+meer bedragen dan het resultaat van volgende berekening : het aantal vergunde kinderopvangplaatsen van 
+de kinderopvanglocatie vermenigvuldigd met het aantal werkdagen in de maand waarvoor de aanvraag wordt 
+ingediend, verminderd met het aantal aanwezigheidsdagen van kinderen in die periode.Afdeling 
+2. - Selectieve subsidie kinderopvangArt. 7. Het agentschap kent de selectieve subsidie toe 
+aan de organisator van kinderopvang als de organisator daarvoor conform artikel 15 van dit besluit een 
+aanvraag indient en voldoet aan al de volgende voorwaarden :1°  de organisator is onderworpen 
+aan een verplichte sluiting of aan een doelgroepbeperking;2°  de organisator voldoet aan de 
+voorwaarden, vermeld in artikel 4, eerste lid, 1°,  2°  en 4°,  voor de volledige periode van de verplichte 
+sluiting of doelgroepbeperking en leeft de modaliteiten van de verplichte sluiting of de doelgroepbeperking;3° 
+ de organisator voldoet aan de maatregelen voor de gezinnen, vermeld in artikel 23.Art. 8. 
+De selectieve subsidie wordt op basis van de bedragen, vermeld in artikel 5, toegekend aan de organisator 
+van kinderopvang voor de afwezigheidsdagen waarop de verplichte sluiting geldt of voor de afwezigheidsdagen 
+van een kind ten gevolge van de doelgroepbeperking.Art. 9. Het aantal afwezigheidsdagen dat 
+in aanmerking komt voor de subsidie, vermeld in artikel 8, kan nooit meer bedragen dan het resultaat 
+van de volgende berekening : het aantal vergunde kinderopvangplaatsen van de kinderopvanglocatie vermenigvuldigd 
+met het aantal werkdagen in de periode dat de verplichte sluiting of de doelgroepbeperking geldt, verminderd 
+met het aantal aanwezigheidsdagen van kinderen in die periode.HOOFDSTUK 3. - Subsidie ter ondersteuning 
+van de organisatoren van buitenschoolse opvangAfdeling 1. - Algemene compensatie buitenschoolse 
+opvangArt. 10. Het agentschap kent de algemene subsidie toe aan de organisator van buitenschoolse 
+opvang als de organisator daarvoor conform artikel 15 van dit besluit een aanvraag indient en voldoet 
+aan al de volgende voorwaarden :1°  de voorwaarden, vermeld in artikel 4;2°  de organisator 
+werkt samen met het lokaal bestuur dat voor de opvang op schoolvrije dagen en voor de opvang tijdens 
+de schooltijd de opvangvragen en het opvangaanbod coördineren.Art. 11. De algemene subsidie 
+voor de organisator van buitenschoolse opvang bedraagt :1°  voor de opvanglocatie van een organisator 
+van buitenschoolse opvang met een erkenning zonder subsidie of met een attest van toezicht : 
+a) voor opvang op een schooldag : 8,75 euro per openingsdag op een schooldag per plaats voor een percentage 
+van de plaatsen op de erkenning of het attest van toezicht; b) voor opvang op een schoolvrije 
+dag : 17,50 euro per openingsdag op een schoolvrije dag per plaats voor een percentage van de plaatsen 
+op de erkenning of het attest van toezicht;2°  voor de opvanglocatie waarvoor een organisator 
+van buitenschoolse opvang de subsidie voor initiatief buitenschoolse opvang, de subsidie voor lokale 
+dienst, de subsidie voor project FCUD buitenschoolse opvang of de subsidie voor buitenschoolse opvang 
+in een afzonderlijke binnenruimte ontvangt : a) voor opvang op een schooldag : 7 euro per openingsdag 
+op een schooldag per plaats voor een percentage van de plaatsen op de erkenning of van de plaatsen met 
+toestemming; b) voor opvang op een schoolvrije dag : 14 euro per openingsdag op een schoolvrije 
+dag per plaats voor een percentage van de plaatsen op de erkenning of van de plaatsen met toestemming;3° 
+ voor de opvangplaatsen van een organisator van buitenschoolse opvang die groepsopvang voor buitenschoolse 
+kinderen met samenwerkende onthaalouders in het sociaal statuut van aangesloten onthaalouders of gezinsopvang 
+voor buitenschoolse kinderen organiseert en die voor die plaatsen de subsidie voor inkomenstarief voor 
+buitenschoolse opvang ontvangt van het agentschap en voldoet aan de voorwaarden, vermeld in artikel 20 
+tot en met 36/1 van het Subsidiebesluit van 22 november 2013 : de bedragen, vermeld in artikel 5, eerste 
+lid, 2°,  van dit besluit;4°  voor de opvangplaatsen van een organisator van buitenschoolse 
+opvang die groepsopvang voor buitenschoolse kinderen organiseert en die voor die plaatsen de subsidie 
+voor inkomenstarief voor buitenschoolse opvang ontvangt : het bedrag, vermeld in artikel 5, eerste lid, 
+3°,  van dit besluit;5°  voor de opvangplaatsen waarvoor de organisator de subsidie voor project 
+FCUD zieke kinderen ontvangt : 12 euro per aanwezigheidsdag van minstens 3 uur en 4,5 euro voor een aanwezigheidsdag 
+van minder dan 3 uur, voor het aantal aanwezigheidsdagen dat de organisator minder realiseert dan in 
+dezelfde maand in 2019.In het eerste lid, 5°,  wordt verstaan onder project FCUD zieke kinderen 
+: het project, vermeld in artikel 1, 4°,  van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende 
+subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor 
+personeelsleden met een gewezen gescostatuut, dat opvang van zieke kinderen organiseert.De 
+minister bepaalt het percentage, vermeld in het eerste lid, 1°  en 2°.  De minister bepaalt die percentages 
+per volledige kalendermaand op basis van de evolutie van de aanwezigheden in de opvang en van de geldende 
+federale maatregelen in het kader van de bestrijding van de verspreiding van het COVID-19-virus. De minister 
+kan een onderscheid maken in het percentage naargelang de organisator al of niet verplicht gesloten is.Afdeling 
+2. - Selectieve compensatie buitenschoolse opvangArt. 12. Het agentschap kent de selectieve 
+subsidie toe aan de organisator van buitenschoolse opvang als de organisator daarvoor conform artikel 
+15 van dit besluit een aanvraag indient en voldoet aan de voorwaarden, vermeld in artikel 7.Art. 
+13. In geval van een verplichte sluiting van de volledige opvanglocatie bedraagt de subsidie voor de 
+organisator van buitenschoolse opvang :1°  voor de opvanglocatie van een organisator van buitenschoolse 
+opvang met een erkenning zonder subsidie of met een attest van toezicht : a) voor opvang op 
+een schooldag : 8,75 euro per openingsdag op een schooldag per plaats voor 80 % van de plaatsen op de 
+erkenning of het attest van toezicht; b) voor opvang op een schoolvrije dag : 17,50 euro per 
+openingsdag op een schoolvrije dag per plaats voor 80 % van de plaatsen op de erkenning of het attest 
+van toezicht;2°  voor de opvanglocatie waarvoor een organisator van buitenschoolse opvang de 
+subsidie voor initiatief buitenschoolse opvang, de subsidie voor lokale dienst, de subsidie voor project 
+FCUD buitenschoolse opvang of de subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte 
+ontvangt : a) voor opvang op een schooldag : 7 euro per openingsdag op een schooldag per plaats 
+voor 80 % van de plaatsen op de erkenning of van de plaatsen met toestemming; b) voor opvang 
+op een schoolvrije dag : 14 euro per openingsdag op een schoolvrije dag per plaats voor 80 % van de plaatsen 
+op de erkenning of van de plaatsen met toestemming;3°  voor de opvangplaatsen van een organisator 
+van buitenschoolse opvang die groepsopvang voor buitenschoolse kinderen met samenwerkende onthaalouders 
+in het sociaal statuut van de aangesloten onthaalouders of gezinsopvang voor buitenschoolse kinderen 
+organiseert en die voor die plaatsen de subsidie voor inkomenstarief voor buitenschoolse opvang ontvangt 
+van het agentschap en voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit 
+van 22 november 2013 : de bedragen, vermeld in artikel 5, eerste lid, 2°,  van dit besluit;4° 
+ voor de opvangplaatsen van een organisator van buitenschoolse opvang die groepsopvang voor buitenschoolse 
+kinderen organiseert en die voor die plaatsen de subsidie voor inkomenstarief voor buitenschoolse opvang 
+ontvangt : het bedrag, vermeld in artikel 5, eerste lid, 3°,  van dit besluit.Art. 14. In dit 
+artikel wordt verstaan onder :1°  gemiddelde duurtijd : de volgende duurtijden, gebaseerd op 
+het gemiddelde in de sector, waarop kinderen opgevangen worden : a) vóór schooltijd : 1,5 uur; 
+b) na schooltijd : 3 uur; c) op woensdagnamiddag : 6 uur; d) op een schoolvrije dag 
+en een schoolvakantiedag : 11 uur;2°  maximaal beschikbare opvangaanbod : het resultaat van 
+de berekening waarbij per opvangmoment per openingsdag het aantal erkende plaatsen of plaatsen op het 
+attest van toezicht wordt vermenigvuldigd met de gemiddelde duurtijd van het opvangmoment, waarna het 
+resultaat van al die vermenigvuldigingen wordt opgeteld.In geval van een doelgroepbeperking 
+of gedeeltelijke sluiting van de opvanglocatie bedraagt de subsidie voor de organisator van buitenschoolse 
+opvang :1°  voor de organisator van buitenschoolse opvang met een erkenning zonder subsidie 
+van het agentschap of met een attest van toezicht : a) voor opvang op een schooldag : 8,75 
+euro per verloren plaats per openingsdag op een schooldag; b) voor opvang op een schoolvrije 
+dag : 17,50 euro per verloren plaats per openingsdag op een schoolvrije dag;2°  voor de organisator 
+van buitenschoolse opvang die de subsidie voor initiatief buitenschoolse opvang, de subsidie voor lokale 
+dienst, de subsidie voor project FCUD buitenschoolse opvang of de subsidie voor buitenschoolse opvang 
+in een afzonderlijke binnenruimte ontvangt : a) voor opvang op een schooldag : 7 euro per verloren 
+plaats per openingsdag op een schooldag; b) voor opvang op een schoolvrije dag : 14 euro per 
+verloren plaats per openingsdag op een schoolvrije dag;3°  voor de opvangplaatsen van een organisator 
+van buitenschoolse opvang die groepsopvang voor buitenschoolse kinderen met samenwerkende onthaalouders 
+in het sociaal statuut van de aangesloten onthaalouders of gezinsopvang voor buitenschoolse kinderen 
+organiseert en die voor die plaatsen de subsidie voor inkomenstarief voor buitenschoolse opvang ontvangt 
+van het agentschap en voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit 
+van 22 november 2013 : de bedragen, vermeld in artikel 5, eerste lid, 2°,  van dit besluit;4° 
+ voor de opvangplaatsen van een organisator van buitenschoolse opvang die groepsopvang voor buitenschoolse 
+kinderen organiseert en die voor die plaatsen de subsidie voor inkomenstarief voor buitenschoolse opvang 
+ontvangt : het bedrag, vermeld in artikel 5, eerste lid, 3°,  van dit besluit.Het aantal verloren 
+plaatsen, vermeld in het tweede lid, 1°  en 2°,  is gebaseerd op het verschil tussen het gerealiseerde 
+aanwezigheidspercentage in de opvanglocatie en een bezetting van 80 % van het maximaal beschikbare opvangaanbod 
+van de organisator en wordt berekend op de volgende wijze :1°  het gerealiseerde aanwezigheidspercentage 
+wordt afgetrokken van 80 %;2°  het percentage dat het resultaat is van de berekening, vermeld 
+in punt 1°,  wordt berekend op het maximaal beschikbare opvangaanbod;3°  per opvangmoment dat 
+de organisator aanbiedt wordt de gemiddelde duurtijd vermenigvuldigd met het aantal openingsdagen voor 
+dat opvangmoment, waarna die resultaten worden opgeteld;4°  het resultaat van de berekening, 
+vermeld in punt 2°,  wordt gedeeld door het resultaat van de berekening, vermeld in punt 3°. Het 
+gerealiseerde aanwezigheidspercentage, vermeld in het derde lid, wordt berekend op de volgende wijze 
+:1°  per opvangmoment wordt het totale aantal effectieve aanwezigheden over de verschillende 
+openingsdagen vermenigvuldigd met de gemiddelde duurtijd van het opvangmoment;2°  de resultaten 
+van de vermenigvuldigingen, vermeld in punt 1°,  worden opgeteld;3°  het resultaat van de som, 
+vermeld in punt 2°,  wordt gedeeld door het maximaal beschikbare opvangaanbod en vervolgens vermenigvuldigd 
+met 100.HOOFDSTUK 4. - AanvraagprocedureArt. 15. De aanvraag van de algemene en selectieve 
+subsidie voor kinderopvang of voor buitenschoolse opvang wordt ingediend uiterlijk op de laatste dag 
+van de tweede maand die volgt op de maand waarvoor de subsidie aangevraagd wordt. De aanvraag wordt ingediend 
+volgens de richtlijnen van het agentschap.De aanvraag wordt ingediend met het aanvraagformulier 
+dat het agentschap ter beschikking stelt en waarin de organisator al de volgende informatie bezorgt over 
+de maand waarvoor de subsidie gevraagd wordt :1°  de identificatiegegevens van de organisator 
+en de kinderopvanglocatie in kwestie;2°  de maand waarvoor de subsidie gevraagd wordt;3° 
+ het aantal en de duur van de afwezigheidsdagen;4°  verklaring op erewoord over het feit dat 
+de organisator voldoet aan de voorwaarden, vermeld in artikel 4;5°  de datum en de ondertekening.Voor 
+de aanvraag van een selectieve subsidie door een organisator van kinderopvang bezorgt de organisator 
+naast de gegevens, vermeld in het tweede lid, al de volgende gegevens over de periode van de verplichte 
+sluiting of de doelgroepbeperking in de maand waarvoor de subsidie gevraagd wordt :1°  het 
+aantal en de duur van de aanwezigheidsdagen;2°  de periode waarvoor de verplichte sluiting 
+of doelgroepbeperking geldt;3°  de beschrijving van de reden van de sluiting en de vermelding 
+van de instantie die de beslissing tot sluiting heeft genomen, of de vermelding van de regelgeving die 
+de verplichte sluiting of de doelgroepbeperking bevat.Voor de aanvraag van een algemene subsidie 
+door een organisator van buitenschoolse opvang bezorgt de organisator naast de gegevens, vermeld in het 
+tweede lid, 1°,  2°  en 5°,  al de volgende gegevens :1°  voor de algemene subsidie vermeld 
+in artikel 11, eerste lid, 1°  tot en met 4°  : het aantal openingsdagen voor opvang op een schooldag 
+en voor opvang op een schoolvrije dag;2°  voor de algemene subsidie vermeld in artikel 11, 
+eerste lid, 5°  : het aantal aanwezigheidsdagen in de voorafgaande maand en het aantal aanwezigheidsdagen 
+in dezelfde periode in 2019;3°  verklaring op erewoord over het feit dat de organisator voldoet 
+aan de voorwaarden, vermeld in artikel 7.Voor de aanvraag van een selectieve subsidie door 
+een organisator van buitenschoolse opvang bezorgt de organisator naast de gegevens, vermeld in het tweede 
+lid, 1°,  2°  en 5°,  al de volgende gegevens over de periode van de verplichte sluiting of doelgroepbeperking 
+in de maand waarvoor de subsidie gevraagd wordt :1°  de periode waarvoor de verplichte sluiting 
+of doelgroepbeperking geldt;2°  voor de organisator met de subsidie voor inkomenstarief : het 
+aantal en de duur van de afwezigheidsdagen en het aantal en de duur van de aanwezigheidsdagen;3° 
+ voor de organisator zonder de subsidie voor inkomenstarief, in geval van een aanvraag naar aanleiding 
+van doelgroepbeperking of gedeeltelijke verplichte sluiting : a) het aantal openingsdagen per 
+opvangmoment; b) het aantal effectieve aanwezigheden per opvangmoment;4°  voor de 
+organisator zonder de subsidie voor inkomenstarief, in geval van een volledige verplichte sluiting : 
+het aantal voorziene openingsdagen op een schooldag en op een schoolvrije dag;5°  de beschrijving 
+van de reden van de sluiting en vermelding van de instantie die de beslissing tot sluiting heeft genomen, 
+of de vermelding van de regelgeving die de verplichte sluiting of de doelgroepbeperking bevat.Art. 
+16. Het agentschap beslist over de aanvraag uiterlijk zestig kalenderdagen na de dag waarop het de aanvraag 
+heeft ontvangen. Het agentschap brengt de organisator met een e-mail op de hoogte van de beslissing.Als 
+de subsidie wordt toegekend, betaalt het agentschap de subsidie uiterlijk dertig dagen na de dag waarop 
+het de beslissing tot toekenning heeft genomen.Als de organisator de gegevens niet tijdig bezorgt 
+aan het agentschap conform artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 7 december 
+2018 houdende de kinderopvangtoeslag en kleutertoeslag, betaalt het agentschap in afwijking van het eerste 
+lid de subsidiebedragen, vermeld in artikel 5, eerste lid, 1°,  van dit besluit, uiterlijk zestig dagen 
+na de dag waarop het de gegevens in het kader van de kinderopvangtoeslag heeft ontvangen.Als 
+de organisator de gegevens niet tijdig bezorgt aan het agentschap conform artikel 10, § 1, van 
+het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, 
+betaalt het agentschap in afwijking van het eerste lid de subsidiebedragen, vermeld in artikel 5, eerste 
+lid, 2°  en 3°,  artikel 11, eerste lid, 3°  en 4°,  artikel 13, 3°  en 4°,  en artikel 14, tweede lid, 
+3°  en 4°,  van dit besluit, uiterlijk zestig dagen na de dag waarop de organisator de gegevens heeft 
+bezorgd, aan het agentschap in het kader van het systeem inkomenstarief.Als het agentschap 
+de gegevens, vermeld in het derde en vierde lid, niet ontvangen heeft binnen 120 dagen nadat het de aanvraag 
+heeft ontvangen, vervalt het recht op de algemene of selectieve subsidie waarop de aanvraag betrekking 
+heeft.HOOFDSTUK 5. - Toezicht en handhavingArt. 17. Het agentschap en Zorginspectie 
+oefenen toezicht uit op de naleving van de bepalingen van dit besluit. De nodige informatie voor het 
+toezicht kan ook ingewonnen worden bij de federale of Vlaamse gegevensbronnen.Het agentschap 
+kan conform artikel 19 tot en met 23 van het decreet van 20 april 2012 bestuurlijke maatregelen opleggen 
+als de organisator van kinderopvang de bepalingen van dit besluit niet naleeft.Overeenkomstig 
+artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de 
+begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, 
+alsook voor de organisatie van de controle door het Rekenhof, vordert het agentschap de subsidie terug 
+als de organisator :1°  de voorwaarden niet naleeft, waaronder de subsidie werd verleend;2° 
+ de subsidie niet aanwendt voor de doeleinden waarvoor ze is verleend;3°  de controle op de 
+aanwending van de subsidie verhindert.Als uit toezicht blijkt dat de subsidie een overcompensatie 
+is ten opzichte van de kosten die de organisator heeft, vordert het agentschap die overcompensatie terug.Het 
+agentschap brengt de organisator met een aangetekende brief op de hoogte van de beslissingen, vermeld 
+in dit artikel.HOOFDSTUK 6. - BezwaarmogelijkheidArt. 18. organisator kan uiterlijk 
+dertig kalenderdagen na de kennisgeving van een beslissing tot weigering van de subsidie als vermeld 
+in artikel 16, of een beslissing tot handhaving als vermeld in artikel 17, bezwaar aantekenen bij het 
+agentschap met een aangetekende brief.De termijn van dertig kalenderdagen, vermeld in het eerste 
+lid, gaat in vanaf de derde werkdag die volgt op de dag waarop het agentschap de beslissing in kwestie 
+met een aangetekende brief aan de postdiensten overhandigd heeft, tenzij de geadresseerde het tegendeel 
+bewijst.De aangetekende brief, vermeld in het eerste lid, bevat de volgende gegevens :1° 
+ de naam en het ondernemingsnummer van de organisator;2°  de beslissing waartegen bezwaar wordt 
+aangetekend en de motivering van het bezwaar;3°  de datum en de handtekening van de organisator.Art. 
+19. Het agentschap stuurt een elektronische ontvangstmelding en beslist over de ontvankelijkheid van 
+het bezwaar uiterlijk tien kalenderdagen na de dag waarop het het bezwaar heeft ontvangen.Art. 
+20. Het bezwaar is ontvankelijk als al de volgende voorwaarden zijn vervuld :1°  het is tijdig 
+en aangetekend aan het agentschap bezorgd;2°  het bevat de nodige gegevens, vermeld in artikel 
+18, derde lid.Art. 21. Het bezwaar wordt ten gronde behandeld volgens de regels die zijn vastgelegd 
+in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van 
+een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.Het 
+bezwaar schort de uitvoering van de beslissing niet op.HOOFDSTUK 7. - Maatregelen voor de gezinnen 
+Art. 22. Voor de maanden waarvoor de minister conform artikel 3 van dit besluit bepaalt dat 
+de organisator de algemene subsidie kan aanvragen, gelden de algemene maatregelen voor de gezinnen, vermeld 
+in het tweede tot en met het zesde lid.In afwijking van de bepalingen in de schriftelijke overeenkomst, 
+vermeld in artikel 36 van het Vergunningsbesluit van 22 november 2013, en in afwijking van artikel 28 
+van het Subsidiebesluit van 22 november 2013 betalen de gezinnen niets voor de afwezigheidsdagen van 
+het kind in de kinderopvanglocatie.De organisator die voldoet aan de voorwaarden, vermeld in 
+artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, trekt de afwezigheidsdagen van 
+het kind niet af van het aantal gerechtvaardigde afwezigheidsdagen, vermeld in artikel 29 van het voormelde 
+besluit, waarop een gezin recht heeft op basis van de schriftelijke overeenkomst of het huishoudelijk 
+reglement.De organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en 
+met 36/1 van het Subsidiebesluit van 22 november 2013, trekt de afwezigheidsdagen van het kind niet af 
+van het aantal dagen waarop een gezin, op basis van de schriftelijke overeenkomst of het huishoudelijk 
+reglement, recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet 
+betalen.Per volledige kalendermaand waarin de maatregelen voor de gezinnen, vermeld in het 
+eerste tot en met het vierde lid, van toepassing zijn, kan de organisator voor het lopend kalenderjaar, 
+in afwijking van de bepalingen in de schriftelijke overeenkomst, een vermindering van maximaal één twaalfde 
+toepassen op :1°  het totale aantal gerechtvaardigde afwezigheidsdagen voor het kalenderjaar, 
+vermeld in artikel 29, eerste lid, 2°,  van het Subsidiebesluit van 22 november 2013, voor de organisator 
+die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het voormelde besluit;2° 
+ het totale aantal dagen waarop een gezin, op basis van de schriftelijke overeenkomst, voor het kalenderjaar 
+recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet betalen, 
+voor de organisator die niet voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het 
+voormelde besluit.Om het aantal dagen te berekenen waarop een gezin recht heeft bij toepassing 
+van de vermindering, vermeld in het vijfde lid, worden de volgende afrondingsregels gebruikt :1° 
+ als het resultaat eindigt op minder dan 25 honderdsten, wordt het eindresultaat naar het geheel getal 
+beneden afgerond;2°  als het resultaat eindigt op minstens 25 honderdsten of minder dan 75 
+honderdsten, wordt het eindresultaat afgerond op het geheel getal met 50 honderdsten;3°  als 
+het resultaat eindigt op minstens 75 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel 
+getal afgerond.Art. 23. In dit artikel wordt verstaan onder leefgroep :1°  voor de 
+kinderopvang van baby's en peuters : de leefgroep, vermeld in artikel 55 van het Vergunningsbesluit van 
+22 november 2013;2°  voor de buitenschoolse opvang : het welomlijnde aantal plaatsen waarvoor 
+een verplichte sluiting opgelegd wordt.Voor de maanden waarvoor de minister conform artikel 
+3 van dit besluit bepaalt dat de organisator de selectieve subsidie kan aanvragen, gelden de selectieve 
+maatregelen voor de gezinnen, vermeld in het derde tot en met het vijfde lid.In afwijking van 
+de bepalingen in de schriftelijke overeenkomst en het huishoudelijk reglement, vermeld in artikel 34 
+en 36 van het Vergunningsbesluit van 22 november 2013, en in afwijking van artikel 25 en 27 van het Kwaliteitsbesluit 
+Buitenschoolse Opvang van 16 mei 2014 en artikel 28 van het Subsidiebesluit van 22 november 2013 betalen 
+de gezinnen niets voor de afwezigheidsdagen van hun kind tijdens de periode van verplichte sluiting van 
+de leefgroep in kwestie of van de opvanglocatie of tijdens de periode dat hun kind door de doelgroepbeperking 
+niet naar de opvanglocatie mag gaan.De organisator die voldoet aan de voorwaarden, vermeld 
+in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, trekt tijdens de periode 
+van verplichte sluiting van de leefgroep in kwestie of van de opvanglocatie of tijdens de periode dat 
+de doelgroepbeperking voor het kind geldt, de afwezigheidsdagen van het kind niet af van het aantal gerechtvaardigde 
+afwezigheidsdagen, vermeld in artikel 29 van het voormelde besluit, waarop een gezin, op basis van de 
+schriftelijke overeenkomst of het huishoudelijk reglement, recht heeft.De organisator die niet 
+voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 
+2013, trekt tijdens de periode van verplichte sluiting van de leefgroep in kwestie of van de opvanglocatie 
+of tijdens de periode dat de doelgroepbeperking voor het kind geldt, de afwezigheidsdagen van het kind 
+niet af van het aantal dagen waarop een gezin, op basis van de schriftelijke overeenkomst of het huishoudelijk 
+reglement, recht heeft om het kind afwezig te laten zijn in de opvang zonder dat het gezin ervoor moet 
+betalen.Art. 24. Onverminderd de situaties vermeld in artikel 34, § 1, van het Subsidiebesluit 
+van 22 november 2013, heeft een contracthouder recht op een individueel verminderd tarief als hij aan 
+al de volgende voorwaarden voldoet :1°  de contracthouder had op het moment van de berekening 
+van het actueel geldend inkomenstarief een gezamenlijk belastbaar inkomen voor aftrekbare bestedingen 
+van maximum 44.493,57 euro;2°  de contracthouder kan op basis van een officieel document aantonen 
+dat het gezamenlijke maandinkomen van de contracthouder en, als deze er is, de inwonende persoon de maand 
+voorafgaand aan de aanvraag van het individueel verminderd tarief minstens 10 % lager is dan een twaalfde 
+van het meest recente gezamenlijk belastbaar inkomen voor aftrekbare bestedingen, vermeld in artikel 
+33, § 1, eerste lid, 1°,  b), van het voormelde besluit.De contracthouder die voldoet 
+aan de voorwaarden, vermeld in het eerste lid, heeft recht op een vermindering van 25 % op het inkomenstarief 
+dat berekend wordt op het moment van de aanvraag van het individueel verminderde tarief, met als minimum 
+het standaardminimumtarief. Er is maximaal één vermindering van 25 % per gezin.Het systeem 
+bepaalt dat individueel verminderde tarief automatisch als de contracthouder het individueel verminderde 
+tarief aanvraagt en die situatie aanvinkt in het online-instrument.Het individueel verminderd 
+tarief, vermeld in het eerste lid :1°  moet aangevraagd worden uiterlijk 31 januari 2021;2° 
+ heeft als startdatum de maand na de aanvraag van het attest inkomenstarief;3°  wordt toegekend 
+voor zes maanden, tenzij er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief 
+moet aanvragen als vermeld in artikel 32, derde lid van het Subsidiebesluit van 22 november 2013.HOOFDSTUK 
+8. - WijzigingsbepalingenArt. 25. In artikel 3, eerste lid, van het besluit van de Vlaamse 
+Regering van 2 oktober 2020 tot regeling van een subsidie voor de organisatoren en van maatregelen voor 
+de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus 
+en tot wijziging van het besluit van de Vlaamse Regering van 24 maart 2020 tot bestrijding van de negatieve 
+gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren in de kinderopvang en het besluit 
+van de Vlaamse Regering van 1 april 2020 tot bestrijding van de negatieve gevolgen van het COVID-19 virus 
+voor de gezinnen en de organisatoren in de buitenschoolse opvang, in de opvang van zieke kinderen en 
+in de preventieve gezinsondersteuning wordt de zinsnede "periode van 1 oktober 2020 tot 31 december 2020" 
+vervangen door de zinsnede "maand oktober 2020".Art. 26. In artikel 7, eerste lid, van hetzelfde 
+besluit wordt de zinsnede "periode van 1 oktober 2020 tot 31 december 2020" vervangen door de zinsnede 
+"maand oktober 2020".Art. 27. Artikel 12 van hetzelfde besluit worden opgeheven.Art. 
+28. In artikel 24, tweede lid, van hetzelfde besluit wordt de zinsnede "Artikel 11 houdt op uitwerking 
+te hebben op 31 december 2020 en" vervangen door de zinsnede "Artikel 11 houdt op uitwerking te hebben 
+op 31 oktober 2020 en".HOOFDSTUK 9. - SlotbepalingenArt. 29. Dit besluit heeft uitwerking 
+met ingang van 1 november 2020.Artikel 1 tot en met 24 van dit besluit houden op uitwerking 
+te hebben op 31 maart 2021.Art. 30. De Vlaamse minister, bevoegd voor opgroeien, is belast 
+met de uitvoering van dit besluit.Brussel, 13 november 2020.De minister-president 
+van de Vlaamse Regering,J. JAMBONDe Vlaamse minister van Welzijn, Volksgezondheid, 
+Gezin en Armoedebestrijding,W. BEKE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-25Numac : 2020043738
+

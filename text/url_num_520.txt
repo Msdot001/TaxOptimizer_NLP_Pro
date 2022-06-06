@@ -1,0 +1,193 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/10/02/2021031105/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021031105
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 2 OKTOBER 2019. - Koninklijk besluit tot uitvoering van artikel 205/4, § 2, van het Wetboek van de inkomstenbelastingen 1992. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van het koninklijk besluit van 2 oktober 2019 tot uitvoering van artikel 205/4, § 2, 
+van het Wetboek van de inkomstenbelastingen 1992 (Belgisch Staatsblad van 17 oktober 2019).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN2. OKTOBER 2019 - Königlicher Erlass zur Ausführung von Artikel 
+205/4 § 2 des Einkommensteuergesetzbuches 1992BERICHT AN DEN KÖNIGSire,Ziel 
+des Entwurfs eines Königlichen Erlasses, der Eurer Majestät zur Unterschrift vorgelegt wird, ist es, 
+in Ausführung von Artikel 205/4 § 2 des Einkommensteuergesetzbuches 1992 (EStGB 92) Modalitäten 
+und Fristen für die in § 1 dieses Artikels erwähnte Verpflichtung zu bestimmen. Es handelt sich 
+hierbei bloß um eine detaillierte Beschreibung und, wo nötig, Verdeutlichung der bereits im Gesetzestext 
+kurz erläuterten Beweislast des Steuerpflichtigen, durch die der Abzug für Einkünfte aus Innovationen 
+korrekt festgelegt werden kann. Dieser Erlassentwurf hat daher keine budgetären Auswirkungen über die 
+des Gesetzes hinaus.Im Hinblick auf die Einhaltung der in Artikel 207 des EStGB 92 bestimmten 
+Reihenfolge der Abzugsoperationen, die im Königlichen Erlass zur Ausführung des Einkommensteuergesetzbuches 
+1992 (KE/EStGB 92) übernommen worden ist, wird zwischen dem Abschnitt in Bezug auf definitiv besteuerte 
+Einkünfte und dem Abschnitt in Bezug auf den Abzug für Risikokapital ein neuer Abschnitt 27quater1 
+eingefügt. Dazu muss der Abschnitt in Bezug auf den Abzug für Risikokapital umnummeriert werden.Im 
+neuen Artikel 734quater/1 wird die in Artikel 205/4 
+§ 1 Absatz 1 des EStGB 92 aufgenommene Dokumentationspflicht wie folgt näher erläutert:1. 
+Um sicherzustellen, dass das von einem verbundenen Unternehmen erworbene geistige Eigentumsrecht zu einem 
+marktüblichen Preis bewertet wird, muss der Steuerpflichtige die notwendigen Unterlagen mit den Gesamtausgaben, 
+die das verbundene Unternehmen in Bezug auf dieses geistige Eigentumsrecht getätigt hat, zur Verfügung 
+halten.2. Der Steuerpflichtige muss die Einkünfte aus Innovationen in die in Artikel 205/1 
+§ 2 Nr. 2 des EStGB 92 erwähnten Kategorien aufteilen.3. Nur die seit dem 1. Juli 2016 
+bezogenen Einkünfte aus Innovationen kommen für den Abzug in Betracht. Für die Besteuerungszeiträume, 
+in die dieses Datum fällt, muss also nachgewiesen werden, dass die Einkünfte aus Innovationen frühestens 
+am 1. Juli 2016 bezogen worden sind.4. Steuerpflichtige, die gemäß Artikel 543 des EStGB 
+92 für ein Patent oder ergänzendes Schutzzertifikat die Übergangsregelung des Abzugs für Einkünfte aus 
+Patenten anwenden, dürfen in Bezug auf dieses Patent oder ergänzende Schutzzertifikat den Abzug für Einkünfte 
+aus Innovationen nicht in den Besteuerungszeiträumen, die vor dem 1. Juli 2021 enden, anwenden. Die Anwendung 
+der in Artikel 543 des EStGB 92 vorgesehenen Übergangsregelung ist für die bis zum 30. Juni 2021 bezogenen 
+Einkünfte aus Patenten möglich. Die Kombination der beiden Regelungen ist im ersten Besteuerungszeitraum, 
+der nach dem 30. Juni 2021 endet, erlaubt, aber natürlich nicht in Bezug auf dieselben Zeiträume. Gegebenenfalls 
+muss der Steuerpflichtige daher ebenfalls nachweisen, dass die Einkünfte aus Innovationen, die aus einem 
+Patent oder ergänzenden Schutzzertifikat hervorgehen, nicht in einem Zeitraum des Besteuerungszeitraums 
+bezogen worden sind, in dem er in Bezug auf dieses Patent oder ergänzende Schutzzertifikat noch den Abzug 
+für Einkünfte aus Patenten angewandt hat.5. Der Steuerpflichtige muss nachweisen, wie und anhand 
+welcher Berechnungsmethode(n) der Bruttobetrag der Einkünfte aus Innovationen festgelegt worden ist.6. 
+Nur der Teil der Entschädigungen, der den tatsächlichen Schaden infolge der Verletzung eines geistigen 
+Eigentumsrechts ausgleicht, kann als Einkünfte aus Innovationen in Betracht kommen. Der Steuerpflichtige 
+muss nachweisen, wie der rein reipersekutorische Teil der Entschädigungen bestimmt worden ist, sofern 
+dies nicht bereits in der gerichtlichen Entscheidung oder Schiedsentscheidung, in der gütlichen Einigung 
+oder im Versicherungsvertrag bestimmt worden ist.7. Zur Überprüfung, ob der Nettobetrag der 
+Einkünfte aus Innovationen korrekt festgelegt worden ist, muss der Steuerpflichtige nachweisen, wie die 
+abgezogenen Kosten bestimmt worden sind, und diese Kosten in die Kategorien "Kosten des Besteuerungszeitraums", 
+"vorgetragene Kosten" und "historische Kosten" aufteilen.8. Für geistige Eigentumsrechte, die 
+gemeinsam mit anderen Steuerpflichtigen entwickelt worden sind, muss der Beitrag des Steuerpflichtigen 
+zu den gemeinsamen Gesamtausgaben für die Entwicklung des geistigen Eigentumsrechts nachgewiesen werden, 
+sodass dieser Beitrag auf die Zuerkennung von Einkünften aus Innovationen, die aus diesem gemeinsam entwickelten 
+geistigen Eigentumsrecht hervorgehen, und auf den gemäß Artikel 205/3 § 1 Absatz 1 oder 
+2 des EStGB 92 bestimmten Bruch abgestimmt werden kann.9. Schließlich müssen die verschiedenen 
+Bestandteile des vom Steuerpflichtigen gemäß Artikel 205/3 § 1 Absatz 1 oder 2 des EStGB 
+92 angewandten Bruches erläutert werden. Der Betrag des Zählers muss in "Ausgaben für eigene F&E-Tätigkeiten", 
+"Ausgaben für F&E-Tätigkeiten, die im Wege von Unteraufträgen an nicht verbundene Unternehmen vergeben 
+werden" und "Ausgaben für den Erwerb von geistigen Eigentumsrechten" aufgeteilt werden. Der Betrag des 
+Nenners muss in die ersten beiden dieser Kategorien aufgeteilt werden.Zur Bestimmung, ob Ausgaben 
+sich direkt auf Einkünfte aus Innovationen beziehen, muss weniger die "Art" dieser Ausgaben, sondern 
+vielmehr ihre tatsächliche Verwendung betrachtet werden. Die Erfüllung der oben erläuterten Dokumentationspflicht 
+muss daher ebenfalls anhand von Daten aus der Kostenrechnung erfolgen, mit denen diese tatsächliche Verwendung 
+deutlich nachgewiesen werden kann.Da der in Artikel 205/3 § 1 Absatz 1 des EStGB 92 
+erwähnte Bruch sich aus allen in Betracht kommenden Ausgaben und aus den Gesamtausgaben, die der Steuerpflichtige 
+in dem Besteuerungszeitraum und in den vorhergehenden Besteuerungszeiträumen für die Entwicklung oder 
+Verbesserung eines geistigen Eigentumsrechts verwendet hat, zusammensetzt, müssen die Belege zur Verfügung 
+gehalten werden, solange die geltenden Untersuchungsfristen weiterhin angewandt werden können.Im 
+neuen Artikel 734quater/2 wird verdeutlicht, wie der 
+Steuerpflichtige die in Artikel 205/4 § 1 Absatz 2 des EStGB 92 erwähnte abweichende Festlegung 
+der Einkünfte aus Innovationen, entweder pro Produkt- oder Dienstleistungsart oder pro Produkt- oder 
+Dienstleistungsgruppe, rechtfertigen muss.Soweit, Sire, die Tragweite des Ihnen vorgelegten 
+Erlasses.Ich habe die Ehre,Sire,der ehrerbietigeund treue DienerEurer 
+Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. DE CROO2. 
+OKTOBER 2019 - Königlicher Erlass zur Ausführung von Artikel 205/4 §  2 des Einkommensteuergesetzbuches 
+1992PHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund 
+der Verfassung, des Artikels 108;Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 
+205/4 § 2, eingefügt durch das Gesetz vom 9. Februar 2017;Aufgrund des KE/EStGB 92;In 
+der Erwägung, dass in vorliegendem Erlass die Beweislast des Steuerpflichtigen in Bezug auf den Abzug 
+für Einkünfte aus Innovationen verdeutlicht wird, ohne dass der Erlass budgetäre Auswirkungen hat;Aufgrund 
+des Gutachtens Nr. 66.555/3 des Staatsrates vom 30. September 2019, abgegeben in Anwendung von Artikel 
+84 §  1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;In 
+der Erwägung, dass der König in Anwendung von Artikel 205/4 § 2 des Einkommensteuergesetzbuches 
+1992 insbesondere ermächtigt ist, Modalitäten und Frist für die in § 1 dieses Artikels erwähnte 
+Beweislast zu bestimmen;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschlossen und erlassen Wir:Artikel 1 - In Kapitel 1 des KE/EStGB 92 wird der heutige 
+Abschnitt 27quater1 zu Abschnitt 27quater2 umnummeriert.Art. 
+2 - In Kapitel 1 des KE/EStGB 92 wird ein Abschnitt 27quater1, der die Artikel 734quater/1 
+und 734quater/2 umfasst, mit folgendem Wortlaut eingefügt:"Abschnitt 
+27quater1 - Abzug für Einkünfte aus Innovationen(Einkommensteuergesetzbuch 
+1992, Artikel 205/4 § 2)Art. 734quater/1 
+- Damit die in Artikel 205/4 § 1 Absatz 1 des Einkommensteuergesetzbuches 1992 erwähnten Beträge 
+festgelegt werden können, wird unter anderem verlangt, dass:1. die Unterlagen aufbewahrt werden, 
+in denen die Gesamtausgaben in Bezug auf ein in Artikel 205/1 § 2 Nr. 5 desselben Gesetzbuches 
+erwähntes geistiges Eigentumsrecht detailliert werden, die von dem verbundenen Unternehmen getätigt werden, 
+dessen vorerwähntes geistiges Eigentumsrecht erworben wurde und für das die vorerwähnten Ausgaben eine 
+Aufwendung bilden,2. die in Artikel 205/1 § 2 Nr. 2 desselben Gesetzbuches erwähnten 
+zu berücksichtigenden Einkünfte aus Innovationen gegebenenfalls entsprechend der Art der Vergütung aufgeteilt 
+werden,3. für den Besteuerungszeitraum, in den das Datum des 1. Juli 2016 fällt, nachgewiesen 
+wird, dass die in Nr. 2 erwähnten zu berücksichtigenden Einkünfte aus Innovationen frühestens am 1. Juli 
+2016 bezogen worden sind,4. für den Besteuerungszeitraum, in den das Datum des 1. Juli 2021 
+fällt, gegebenenfalls nachgewiesen wird, dass die in Nr. 2 erwähnten zu berücksichtigenden Einkünfte 
+aus Innovationen in dem Teil des Besteuerungszeitraums bezogen worden sind, für den Artikel 543 desselben 
+Gesetzbuches in Bezug auf das geistige Eigentumsrecht nicht angewandt wird,5. erläutert wird, 
+wie der Bruttobetrag der Einkünfte aus Innovationen festgelegt worden ist,6. erläutert wird, 
+wie der den tatsächlichen Schaden ausgleichende Teil der Entschädigungen bestimmt worden ist, die sich 
+direkt auf ein geistiges Eigentumsrecht beziehen und infolge einer Verletzung des betreffenden geistigen 
+Eigentumsrechts geschuldet werden, sofern dies nicht bereits in der gerichtlichen Entscheidung oder Schiedsentscheidung, 
+in der gütlichen Einigung oder im Versicherungsvertrag bestimmt worden ist,7. erläutert wird, 
+wie die von den Einkünften aus Innovationen abgezogenen Kosten bestimmt worden sind und gegebenenfalls 
+aufgeteilt werden in:a) die in Artikel 205/1 § 2 Nr. 3 desselben Gesetzbuches erwähnten 
+in den Kosten aufgenommenen Ausgaben, die den Bruttobetrag der Einkünfte aus Innovationen nicht übersteigen,b) 
+das negative Ergebnis, das gemäß Artikel 205/2 § 1 Absatz 3 desselben Gesetzbuches abgezogen 
+wird,c) die in den vorhergehenden Besteuerungszeiträumen in den Kosten aufgenommenen Gesamtausgaben, 
+die gemäß Artikel 205/2 § 2 Absatz 1 bis 3 desselben Gesetzbuches abgezogen werden,8. 
+bei einem geistigen Eigentumsrecht, das aus einem gemeinsamen Entwicklungsprojekt hervorgeht, nachgewiesen 
+wird, wie der Steuerpflichtige zu den Gesamtausgaben, die gemeinsam zur Umsetzung dieses geistigen Eigentumsrechts 
+getätigt werden, beiträgt,9. erläutert wird, wie der in Artikel 205/3 § 1 Absatz 1 oder 
+2 desselben Gesetzbuches erwähnte Bruch bestimmt worden ist, wobei die Ausgaben aufgeteilt werden in:a) 
+die in Artikel 205/1 § 2 Nr. 4 einleitender Satz desselben Gesetzbuches erwähnten in Betracht 
+kommenden Ausgaben, die von der Gesellschaft für Forschungs- und Entwicklungstätigkeiten, die von der 
+Gesellschaft selbst ausgeführt werden, getätigt werden,b) die in Artikel 205/1 § 2 Nr. 
+4 erster oder zweiter Gedankenstrich desselben Gesetzbuches erwähnten in Betracht kommenden Ausgaben,c) 
+die in Artikel 205/1 § 2 Nr. 5 zweiter Gedankenstrich desselben Gesetzbuches erwähnten Gesamtausgaben,d) 
+die in Artikel 205/1 § 2 Nr. 5 dritter Gedankenstrich desselben Gesetzbuches erwähnten Gesamtausgaben.Die 
+in vorhergehendem Absatz verlangten Erläuterungen zu den Kosten und Ausgaben müssen anhand von Daten 
+aus der Kostenrechnung erfolgen, mit denen die tatsächliche Verwendung der Kosten und Ausgaben nachgewiesen 
+werden kann.Die Belege müssen bis zum letzten Tag der Untersuchungsfrist des letzten Steuerjahres, 
+in dem die Gesellschaft den Abzug für Einkünfte aus Innovationen in Bezug auf das geistige Eigentumsrecht 
+entweder pro Produkt- oder Dienstleistungsart oder pro Produkt- oder Dienstleistungsgruppe angewandt 
+hat, zur Verfügung der Verwaltung gehalten werden.Art. 734quater/2 
+- Zur Rechtfertigung der in Artikel 205/4 § 1 Absatz 2 des Einkommensteuergesetzbuches 1992 erwähnten 
+Festlegung der Einkünfte aus Innovationen, entweder pro Produkt- oder Dienstleistungsart oder pro Produkt- 
+oder Dienstleistungsgruppe, wird unter anderem verlangt, dass:1. eine Übersicht der in Artikel 
+205/1 § 2 Nr. 1 desselben Gesetzbuches erwähnten zugrunde liegenden geistigen Eigentumsrechte 
+dargelegt wird, aus der entweder die Produkt- oder Dienstleistungsart oder die Produkt- oder Dienstleistungsgruppe 
+hervorgeht,2. erläutert wird, warum die in Nr. 1 erwähnte Festlegung der Einkünfte aus Innovationen 
+pro geistiges Eigentumsrecht aus praktischer Sicht nicht durchführbar ist,3. eine detaillierte 
+Beschreibung entweder der Produkt- oder Dienstleistungsart oder der Produkt- oder Dienstleistungsgruppe 
+gegeben wird, für die die Einkünfte aus Innovationen festgelegt werden, und dass erläutert wird, warum 
+diese Art oder Gruppe als Ausgangspunkt der Festlegung gewählt worden ist."Art. 3 - Der für 
+Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 2. Oktober 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-28Numac : 2021031105
+

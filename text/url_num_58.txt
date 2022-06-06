@@ -1,0 +1,83 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/04/07/2020020859/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020020859
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 7 APRIL 2019. - Koninklijk besluit tot wijziging van het KB/WIB 92 betreffende de erkenningsprocedure om giften te krijgen die recht geven op de belastingvermindering bedoeld in artikel 14533 van het Wetboek van de inkomstenbelastingen 1992. - Duitse vertaling 
+De hierna volgende tekst 
+is de Duitse vertaling van het koninklijk besluit van 7 april 2019 tot wijziging van het KB/WIB 92 betreffende 
+de erkenningsprocedure om giften te krijgen die recht geven op de belastingvermindering bedoeld in artikel 
+14533 van het Wetboek van de inkomstenbelastingen 1992 (Belgisch Staatsblad van 29 april 
+2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN7. APRIL 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 
+92 hinsichtlich des Zulassungsverfahrens für den Erhalt von unentgeltlichen Zuwendungen, die zu der in 
+Artikel 14533 des Einkommensteuergesetzbuches 1992 erwähnten Steuerermäßigung 
+berechtigenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund 
+des Einkommensteuergesetzbuches 1992:- des Artikels 14533 § 2 Absatz 
+1,- des Artikels 14533 § 3 Absatz 1;Aufgrund des KE/EStGB 
+92;Aufgrund der Artikel 5 und 14 des Königlichen Erlasses vom 16. November 1994 über die Verwaltungs- 
+und Haushaltskontrolle;In der Erwägung, dass vorliegender Erlass ein Verwaltungsverfahren ändert, 
+ohne budgetäre Auswirkungen zu haben;Aufgrund des Gutachtens Nr. 65.536/3 des Staatsrates vom 
+21. März 2019, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 
+koordinierten Gesetze über den Staatsrat;In der Erwägung, dass Anträge auf Zulassung für den 
+Erhalt von unentgeltlichen Zuwendungen, die zu der in Artikel 14533 des Einkommensteuergesetzbuches 
+1992 erwähnten Steuerermäßigung für unentgeltliche Zuwendungen berechtigen, derzeit beim Minister 
+der Finanzen eingereicht werden müssen;Dass die zuständigen Dienste des FÖD Finanzen diese 
+Anträge einer behördlichen Überprüfung unterziehen;Dass diese Anträge aus Gründen der Eilbedürftigkeit 
+ihrer Bearbeitung direkt an die zuständigen Dienste des FÖD Finanzen gerichtet werden sollten;Dass 
+dies die Befugnis des Ministers der Finanzen, solchen Anträgen stattzugeben oder nicht, in keinster Weise 
+beeinträchtigt;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:Artikel 1 - In Artikel 6318/1 § 
+5 Absatz 1 des KE/EStGB 92 werden die Wörter "beim Minister der Finanzen" durch die Wörter "beim Generalverwalter 
+Steuerwesen des FÖD Finanzen" ersetzt.Art. 2 -  In Artikel 6318/5 § 
+3 desselben Erlasses werden die Wörter "beim Minister der Finanzen" durch die Wörter "beim Generalverwalter 
+Steuerwesen des FÖD Finanzen" ersetzt.Art. 3 -  Der für Finanzen zuständige Minister ist mit 
+der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 7. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020020859
+

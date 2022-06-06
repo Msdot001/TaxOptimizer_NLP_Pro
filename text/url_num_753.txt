@@ -1,0 +1,58 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-02-09Numac : 2022030409
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 11 JANUARI 2022. - Leefmilieu Brussel. - Bericht. - Verhoging van het bedrag van de belasting op het verbranden van afvalstoffen overeenkomstig artikel 40 van de Ordonnantie van 14 juni 2012 betreffende afvalstoffen 
+Met toepassing van artikel 40 van de Ordonnantie van 14 juni 2012 betreffende 
+afvalstoffen, vanaf het belastingjaar 2022, wordt het bedrag van de belasting op afvalverbranding verhoogd 
+tot 15 euro per ton afvalstoffen die in aanmerking komt voor verbranding.Dit bedrag is voor 
+het jaar 2022 vastgesteld op 15 euro.Met ingang op 1 januari 2022.De Directeur-generaal,F. 
+FONTAINEDe adjunct-Directrice-generaal,B. DEWULF   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-02-09Numac : 2022030409
+

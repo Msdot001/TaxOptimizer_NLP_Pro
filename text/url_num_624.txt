@@ -1,0 +1,217 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/24/2021042349/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-06Numac : 2021042349
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 24 APRIL 2020. - Koninklijk besluit tot wijziging van het KB/WIB 92 met betrekking tot de nadere regels en modaliteiten voor het indienen door de ondernemingen die erkend zijn voor uitzendarbeid van de in artikel 2755, § 4, zevende lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde verklaring. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van 
+het koninklijk besluit van 24 april 2020 tot wijziging van het KB/WIB 92 met betrekking tot de nadere 
+regels en modaliteiten voor het indienen door de ondernemingen die erkend zijn voor uitzendarbeid van 
+de in artikel 2755, § 4, zevende lid, van het Wetboek van de inkomstenbelastingen 
+1992 bedoelde verklaring (Belgisch Staatsblad van 30 april 2020).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN24. APRIL 2020 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich 
+der Regeln und Modalitäten für die Einreichung der in Artikel 2755 § 4 Absatz 
+7 des Einkommensteuergesetzbuches 1992 erwähnten Bescheinigung durch die für Leiharbeit zugelassenen 
+UnternehmenBERICHT AN DEN KÖNIGSire,im Königlichen Erlass vom 3. April 
+2019 zur Abänderung des KE/EStGB 92 hinsichtlich der Regeln und Modalitäten für die Einreichung der in 
+Artikel 2755 § 4 Absatz 7 des Einkommensteuergesetzbuches 1992 erwähnten Bescheinigung 
+sind die Regeln und Modalitäten für die Einreichung der sogenannten De-minimis-Bescheinigung festgelegt 
+worden, die erforderlich ist, um die in Artikel 2755 § 4 des EStGB 92 vorgesehene 
+Regelung, die auf den Bereich der Systemschifffahrt anwendbar ist, mit der De-minimis-Verordnung (Verordnung 
+(EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des 
+Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen) in Übereinstimmung zu 
+bringen.In Artikel 2755 § 4 Absatz 6 des EStGB 92 ist jedoch vorgesehen, 
+dass für Leiharbeit zugelassene Unternehmen den in Artikel 2755 § 4 Absatz 1 
+des EStGB 92 erwähnten Unternehmen (nachstehend: in der Systemschifffahrt tätige Unternehmen) gleichgestellt 
+sind, wenn diese für Leiharbeit zugelassenen Unternehmen den in der Systemschifffahrt tätigen Unternehmen 
+Leiharbeitnehmer zur Verfügung stellen. Damit zielte der Gesetzgeber darauf ab, in Anlehnung an ähnliche, 
+in den Artikeln 2751, 2755 §§ 1 bis 3, 2758 
+und 2759 des EStGB 92 erwähnte Maßnahmen eine Form der Transparenz zu schaffen, 
+durch die eine Befreiung, für die ein bestimmter Arbeitgeber in Frage kommt, ebenfalls auf ein für Leiharbeit 
+zugelassenes Unternehmen anwendbar sein kann, wenn dieses dem erstgenannten Unternehmen einen oder mehrere 
+Leiharbeitnehmer zur Verfügung stellt. Damit soll die Gleichbehandlung von Entlohnungen, die direkt vom 
+Arbeitgeber gezahlt werden, und Entlohnungen, die indirekt über eine Leiharbeitsagentur gezahlt werden, 
+sichergestellt werden.Im vorerwähnten Königlichen Erlass vom 3. April 2019 wurde jedoch nicht 
+präzisiert, welche Beihilfe auf der Bescheinigung anzugeben ist, wenn die Befreiung von einem für Leiharbeit 
+zugelassenen Unternehmen beantragt wird, das einem in der Systemschifffahrt tätigen Unternehmen einen 
+oder mehrere Leiharbeitnehmer zur Verfügung stellt. Diese Rechtsunsicherheit hat bisher verhindert, dass 
+für Leiharbeit zugelassene Unternehmen diese Regelung in Anspruch nehmen. Um dieser Rechtsunsicherheit 
+ein Ende zu setzen, wird mit vorliegendem Entwurf daher auch bezweckt, die Regeln und Modalitäten für 
+die für Leiharbeit zugelassenen Unternehmen näher zu bestimmen, sodass für diese Unternehmen die Hindernisse, 
+die derzeit die effektive Nutzung dieser Maßnahme verhindern, beseitigt werden.Ähnlich 
+wie beim oben erwähnten Ziel, eine Ungleichbehandlung zu vermeiden zwischen einerseits Entlohnungen, 
+die direkt von einem in der Systemschifffahrt tätigen Unternehmen gezahlt werden, und andererseits Entlohnungen, 
+die von einem für Leiharbeit zugelassenen Unternehmen gezahlt werden, wird mit vorliegendem Entwurf beabsichtigt 
+zu verdeutlichen, dass in dem Fall, in dem die Befreiung von einem für Leiharbeit zugelassenen Unternehmen 
+beantragt wird, in der in Artikel 2755 § 4 Absatz 7 des EStGB 92 erwähnten Bescheinigung 
+die Beihilfe des in der Systemschifffahrt tätigen Unternehmens angegeben werden muss, dem die Leiharbeitnehmer 
+zur Verfügung gestellt werden, so als ob dieses in der Systemschifffahrt tätige Unternehmen selbst die 
+in Artikel 2755 § 4 des EStGB 92 erwähnte Befreiung beantragt hätte.Dies 
+hat also ebenfalls zur Folge, dass, wenn das für Leiharbeit zugelassene Unternehmen mehreren in der Systemschifffahrt 
+tätigen Unternehmen Leiharbeitnehmer zur Verfügung stellt, das erstgenannte Unternehmen mehrere Bescheinigungen 
+übermitteln muss, nämlich eine für jedes in der Systemschifffahrt tätige Unternehmen, dem das für Leiharbeit 
+zugelassene Unternehmen Leiharbeitnehmer zur Verfügung stellt.Obwohl die Befreiung in erster 
+Linie dem für Leiharbeit zugelassenen Unternehmen zugutekommt, kann davon ausgegangen werden, dass der 
+wirtschaftliche Vorteil der Befreiung aufgrund der Funktionsweise des Marktes einen niedrigeren Kostenpreis 
+zugunsten des in der Systemschifffahrt tätigen Unternehmens, dem die Leiharbeitnehmer zur Verfügung gestellt 
+werden, zur Folge haben wird.Da für Leiharbeit zugelassene Unternehmen durch die Anwendung 
+dieser Maßnahme einem erhöhten Verwaltungsaufwand ausgesetzt sind und es möglich sein muss, die 
+damit verbundenen Kosten ganz oder teilweise auf die Unternehmen abzuwälzen, denen die Leiharbeitnehmer 
+zur Verfügung gestellt werden, zielt vorliegender Entwurf nicht darauf ab, das wirtschaftliche und vertragliche 
+Verhältnis zwischen diesen beiden Unternehmen zu regeln.Dennoch wird empfohlen, beim Abschluss 
+eines Leiharbeitsvertrags zwischen dem in der Systemschifffahrt tätigen Unternehmen und dem für Leiharbeit 
+zugelassenen Unternehmen besonders aufmerksam zu sein auf die Möglichkeit, dass meine Verwaltung infolge 
+der von ihr durchgeführten Untersuchung feststellt, dass das in der Systemschifffahrt tätige Unternehmen, 
+dem die Leiharbeitnehmer zur Verfügung gestellt werden, nicht alle Anwendungsbedingungen erfüllt. In 
+diesem Fall wird nämlich der unrechtmäßig befreite Berufssteuervorabzug beim Schuldner zurückgefordert, 
+das heißt in diesem Fall bei dem Unternehmen, das die Leiharbeitnehmer zur Verfügung gestellt hat 
+und die Entlohnungen dieser Arbeitnehmer zahlt.Darüber hinaus wird ebenfalls empfohlen, in 
+diesen Vertrag Bestimmungen über den Informationsaustausch aufzunehmen, um sicherzustellen, dass beide 
+Vertragsparteien über alle relevanten Informationen verfügen, die erforderlich sind, um die in Artikel 
+2755 § 4 Absatz 7 des EStGB 92 erwähnte Bescheinigung und gegebenenfalls jede 
+zukünftige ähnliche De-minimis-Bescheinigung korrekt auszufüllen. So muss einerseits das in der Systemschifffahrt 
+tätige Unternehmen, dem die Leiharbeitnehmer zur Verfügung gestellt werden, über jede Bescheinigung, 
+die das für Leiharbeit zugelassene Unternehmen infolge der Zurverfügungstellung von Leiharbeitnehmern 
+eingereicht hat, informiert werden. Andererseits muss das für Leiharbeit zugelassene Unternehmen über 
+alle De-minimis-Beihilfen informiert werden, die das in der Systemschifffahrt tätige Unternehmen oder 
+eine Gesellschaft, die Teil der Unternehmensgruppe ist, der dieses angehört, während des laufenden Besteuerungszeitraums 
+und der beiden vorhergehenden Besteuerungszeiträume erhalten hat.Selbstverständlich kann das 
+Fehlen dieses Informationsaustauschs niemals gegen meine Verwaltung geltend gemacht werden, um eine falsch 
+ausgefüllte Bescheinigung zu rechtfertigen.Schließlich wird auf den besonderen Fall hingewiesen, 
+in dem innerhalb desselben Erklärungszeitraums sowohl das für Leiharbeit zugelassene Unternehmen, das 
+einem in der Systemschifffahrt tätigen Unternehmen Leiharbeitnehmer zur Verfügung stellt, als auch dieses 
+in der Systemschifffahrt tätige Unternehmen von der in Artikel 2755 § 4 des EStGB 
+92 erwähnten Befreiung Gebrauch machen. In diesem Fall wird die Befreiung zwei verschiedenen Arbeitgebern 
+gewährt, die beide die in Artikel 2755 § 4 Absatz 7 des EStGB 92 erwähnte Bescheinigung 
+einreichen müssen. Es stellt sich dann die Frage, in welche Bescheinigung welche Beihilfe aufgenommen 
+werden soll.Im Bericht an den König zum Königlichen Erlass vom 3. April 2019 zur Abänderung 
+des KE/EStGB 92 hinsichtlich der Regeln und Modalitäten für die Einreichung der in Artikel 2755 
+§ 4 Absatz 7 des Einkommensteuergesetzbuches 1992 erwähnten Bescheinigung wurde bereits klargestellt, 
+dass der Betrag der Befreiung von der Zahlung des Berufssteuervorabzugs, die in der zweiten Erklärung 
+für einen bestimmten Erklärungszeitraum beantragt wird, ebenfalls in der Bescheinigung in Bezug auf diesen 
+Zeitraum vermerkt sein muss. Auf diese Weise ist der betreffende Schuldner des Berufssteuervorabzugs 
+verpflichtet zu prüfen, ob der De-minimis-Höchstbetrag durch die beantragte Befreiung von der Zahlung 
+des Berufssteuervorabzugs nicht überschritten wird.Gemäß Artikel 3 Absatz 4 der De-minimis-Verordnung 
+gilt als Bewilligungszeitpunkt einer De-minimis-Beihilfe der Zeitpunkt, zu dem das Unternehmen nach belgischen 
+Rechtsvorschriften einen Rechtsanspruch auf die Beihilfe erwirbt, und zwar unabhängig davon, wann die 
+De-minimis-Beihilfe tatsächlich an das Unternehmen ausgezahlt wird. Außer bei Berichtigungen gilt 
+folglich als Bewilligungszeitpunkt einer Beihilfe in Form einer Befreiung von der Zahlung des Berufssteuervorabzugs 
+für die Anwendung dieser Verordnung der Zeitpunkt, zu dem die zweite Erklärung zum Berufssteuervorabzug 
+und die De-minimis-Bescheinigung bei der Verwaltung eingereicht werden.Streng genommen ist 
+also die Reihenfolge, in der die zweiten Erklärungen eingereicht werden, wichtig um zu bestimmen, wer 
+welche Beihilfe in die Bescheinigung aufnimmt. Beide Unternehmen können jedoch - wenn sie für denselben 
+Erklärungszeitraum eine zweite Erklärung und eine Bescheinigung einreichen, je nachdem, ob die Befreiung 
+gewährt wurde oder nicht - auch dafür optieren, ihre jeweiligen Befreiungsbeträge in die Bescheinigung 
+aufzunehmen. In diesem Fall ist die Reihenfolge, in der diese Erklärungen und Bescheinigungen eingereicht 
+werden, nicht wichtig und man ist also nicht von den Handlungen einer dritten Partei abhängig.Die 
+Reihenfolge, in der die Bescheinigungen eingereicht werden, ist im letzteren Fall ebenfalls wichtig, 
+wenn meine Verwaltung prüfen muss, ob die in Artikel 2755 § 4 Absatz 4 des EStGB 
+92 erwähnte Bedingung erfüllt ist. Nehmen wir beispielsweise an, meine Verwaltung stellt fest, dass das 
+in der Systemschifffahrt tätige Unternehmen bestimmte De-minimis-Beihilfen, die in der Vergangenheit 
+unrechtmäßig erhalten wurden, irrtümlicherweise nicht in die Bescheinigung aufgenommen hat und 
+auch das Unternehmen, das die Leiharbeitnehmer zur Verfügung gestellt hat, nicht darüber informiert hat, 
+so dass die Höchstbeträge für Beihilfen überschritten wurden. In diesem Fall ist es für die Anwendung 
+der Steuervorschriften nicht relevant, welche Partei den Fehler begangen hat, und es muss überprüft werden, 
+ob die in Artikel 2755 § 4 Absatz 4 des EStGB 92 erwähnte Bedingung sowohl von 
+dem in der Systemschifffahrt tätigen Unternehmen als auch vom Unternehmen, das Leiharbeitnehmer zur Verfügung 
+stellt, erfüllt wird. In diesem Fall ist daher die Reihenfolge, in der die zweite Erklärung und die Bescheinigung 
+eingereicht worden sind, ausschlaggebend für die Feststellung, wem die Befreiung unrechtmäßig gewährt 
+wurde und bei wem sie zurückgefordert werden muss.Schließlich wird noch darauf hingewiesen, 
+dass in vorliegendem Entwurf keine spezifische Inkrafttretungsbestimmung vorgesehen ist, da bisher noch 
+kein Leiharbeitsunternehmen auf diese Maßnahme zurückgreift. Aus diesem Grund gilt die gemeinrechtliche 
+Inkrafttretungsbestimmung, aufgrund deren vorliegender Entwurf ab dem zehnten Tag nach seiner Veröffentlichung 
+in Kraft tritt.Soweit, Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe 
+die Ehre,Sire,der ehrerbietigeund treue DienerEurer Majestät 
+zu sein.Der Vizepremierminister und Minister der FinanzenA. DE CROO24. 
+APRIL 2020 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Regeln und Modalitäten 
+für die Einreichung der in Artikel 2755 § 4 Absatz 7 des Einkommensteuergesetzbuches 
+1992 erwähnten Bescheinigung durch die für Leiharbeit zugelassenen UnternehmenPHILIPPE, Konig 
+der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 
+1992, des Artikels 2755 § 6, eingefügt durch das Gesetz vom 23. März 2019;Aufgrund 
+des KE/EStGB 92;Aufgrund des Königlichen Erlasses vom 16. November 1994 über die Verwaltungs- 
+und Haushaltskontrolle, der Artikel 5 und 14;In der Erwägung, dass die Bestimmungen des vorliegenden 
+Erlasses keine direkten oder indirekten finanziellen Auswirkungen haben können;Aufgrund der 
+am 12. Januar 1973 koordinierten Gesetze über den Staatsrat, des Artikels 3 § 1;Aufgrund 
+der Dringlichkeit;In der Erwägung, dass:- durch das Gesetz vom 23. März 2019 zur 
+Abänderung des Einkommensteuergesetzbuches 1992 in Bezug auf die steuerrechtlichen Bestimmungen über 
+den Jobdeal eine Befreiung von der Zahlung eines Teils des Berufssteuervorabzugs für die Systemschifffahrt 
+eingeführt worden ist,- diese Befreiung von der Zahlung des Berufssteuervorabzugs auf die ab 
+dem 1. Januar 2019 gezahlten oder zuerkannten Entlohnungen anwendbar ist,- diese Befreiung 
+von der Zahlung des Berufssteuervorabzugs nur angewandt werden kann, wenn der Schuldner des Berufssteuervorabzugs 
+gleichzeitig mit seinem Antrag auf Befreiung von der Zahlung des Berufssteuervorabzugs eine Bescheinigung 
+in Bezug auf die Einhaltung der Höchstbeträge für Beihilfen wie erwähnt in der allgemeinen De-minimis-Verordnung 
+(Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 
+und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen) einreicht,- 
+Klärungsbedarf besteht für den Fall, dass dieser Schuldner ein für Leiharbeit zugelassenes Unternehmen 
+ist, das Unternehmen, die die in Artikel 2755 § 4 Absatz 1 des Einkommensteuergesetzbuches 
+1992 erwähnten Bedingungen erfüllen, Leiharbeitnehmer zur Verfügung stellt,- die Regeln und 
+Modalitäten in Bezug auf diese Bescheinigung daher dringend ergänzt werden müssen, damit die Regeln sowohl 
+für die für Leiharbeit zugelassenen Unternehmen als auch für die Unternehmen, die die in Artikel 2755 
+§ 4 Absatz 1 des Einkommensteuergesetzbuches 1992 erwähnten Bedingungen erfüllen und denen von 
+diesen für Leiharbeit zugelassenen Unternehmen Leiharbeitnehmer zur Verfügung gestellt werden, verdeutlicht 
+werden,- vorliegender Erlass folglich schnellstmöglich ergehen muss;Auf Vorschlag 
+des Vizepremierministers und Ministers der Finanzen Haben Wir beschlossen und erlassen Wir:Artikel 
+1 - Artikel 954/1 §  2 des KE/EStGB 92 wird durch zwei Absätze mit folgendem 
+Wortlaut ergänzt:"Ist der in Absatz 1 erwähnte Schuldner ein für Leiharbeit zugelassenes Unternehmen 
+und stellt dieses Unternehmen einem Unternehmen, das die in Artikel 2755 § 4 
+Absatz 1 desselben Gesetzbuches erwähnten Bedingungen erfüllt, einen oder mehrere Leiharbeitnehmer zur 
+Verfügung, so wird auf dieser Bescheinigung die in Artikel 2755 § 4 Absatz 7 
+desselben Gesetzbuches erwähnte Beihilfe dieses Unternehmens, dem diese Leiharbeitnehmer zur Verfügung 
+gestellt werden, so angegeben, als ob dieses Unternehmen selbst die in Artikel 2755 
+§ 4 desselben Gesetzbuches erwähnte Befreiung von der Zahlung des Berufssteuervorabzugs beantragen 
+würde.Die Beihilfe, die auf der in vorliegendem Artikel erwähnten Bescheinigung angegeben ist, 
+umfasst in allen Fällen ebenfalls die Beihilfe, die einem für Leiharbeit zugelassenen Unternehmen infolge 
+der Zurverfügungstellung von Leiharbeitnehmern an das Unternehmen, das die in Artikel 2755 
+§ 4 Absatz 1 desselben Gesetzbuches erwähnten Bedingungen erfüllt, gewährt worden ist, so als 
+ob dieses Unternehmen, dem diese Leiharbeitnehmer zur Verfügung gestellt werden, die Beihilfe selbst 
+erhalten hätte."Art. 2 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden 
+Erlasses beauftragt.Gegeben zu Brüssel, den 24. April 2020PHILIPPEVon Königs 
+wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-06Numac : 2021042349
+

@@ -1,0 +1,114 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/12/13/2021022205/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-26Numac : 2021022205
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 13 DECEMBER 2020. - Koninklijk besluit tot uitvoering van het artikel 3, § 2 van de wet van 6 november 2020 om toe te staan dat in het kader van de coronavirus-COVID-19-epidemie verpleegkundige activiteiten worden uitgeoefend door personen die wettelijk daartoe niet bevoegd zijn. - Officieuze coördinatie in het Duits 
+De hierna volgende tekst is de officieuze coördinatie in het Duits van het koninklijk 
+besluit van 13 december 2020 tot uitvoering van het artikel 3, § 2 van de wet van 6 november 2020 
+om toe te staan dat in het kader van de coronavirus-COVID-19-epidemie verpleegkundige activiteiten worden 
+uitgeoefend door personen die wettelijk daartoe niet bevoegd zijn (Belgisch Staatsblad van 30 december 
+2020), zoals het achtereenvolgens werd gewijzigd bij:- het koninklijk besluit van 25 maart 
+2021 tot wijziging van het koninklijk besluit van 13 december 2020 tot uitvoering van het artikel 3, 
+§ 2 van de wet van 6 november 2020 om toe te staan dat in het kader van de coronavirus-COVID-19-epidemie 
+verpleegkundige activiteiten worden uitgeoefend door personen die wettelijk daartoe niet bevoegd zijn 
+(Belgisch Staatsblad van 30 maart 2021);- het koninklijk besluit van 7 juli 2021 tot wijziging 
+van het koninklijk besluit van 13 december 2020 tot uitvoering van het artikel 3, § 2 van de wet 
+van 6 november 2020 om toe te staan dat in het kader van de coronavirus-COVID-19-epidemie verpleegkundige 
+activiteiten worden uitgeoefend door personen die wettelijk daartoe niet bevoegd zijn (Belgisch Staatsblad 
+van 9 juli 2021).Deze officieuze coördinatie in het Duits is opgemaakt door de Centrale dienst 
+voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST VOLKSGESUNDHEIT, 
+SICHERHEIT DER NAHRUNGSMITTELKETTE UND UMWELT13. DEZEMBER 2020 - Königlicher Erlass zur Ausführung 
+von Artikel 3 § 2 des Gesetzes vom 6. November 2020 zur Ermächtigung von gesetzlich nicht befugten 
+Personen, im Rahmen der Epidemie des Coronavirus COVID-19 zur Krankenpflege gehörende Tätigkeiten auszuüben 
+Artikel 1 - Die Tätigkeiten, die in der Liste in Anlage zum vorliegenden Erlass aufgeführt 
+sind, sind von den Tätigkeiten ausgeschlossen, die aufgrund von Artikel 2 des Gesetzes vom 6. November 
+2020 zur Ermächtigung von gesetzlich nicht befugten Personen, im Rahmen der Epidemie des Coronavirus 
+COVID-19 zur Krankenpflege gehörende Tätigkeiten auszuüben, erlaubt sind.Art. 2 - Vorliegender 
+Erlass tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft und tritt am [1. Oktober 
+2021] außer Kraft.[Art. 2 abgeändert durch Art. 1 des K.E. vom 25. März 2021 (B.S. vom 
+30. März 2021)]Art. 3 - Der für die Volksgesundheit zuständige Minister ist mit der Ausführung 
+des vorliegenden Erlasses beauftragt.Anlage [Anlage abgeändert durch Art. 2 des K.E. 
+vom 25. März 2021 (B.S. vom 30. März 2021) und Art. 1 des K.E. vom 7. Juli 2021 (B.S. vom 9. Juli 2021)]Liste 
+der Tätigkeiten, die ausgeschlossen sind von den aufgrund von Artikel 2 des Gesetzes vom 6. November 
+2020 zur Ermächtigung von gesetzlich nicht befugten Personen, im Rahmen der Epidemie des Coronavirus 
+COVID-19 zur Krankenpflege gehörende Tätigkeiten auszuüben, erlaubten Tätigkeiten Folgende 
+Tätigkeiten sind von den aufgrund von Artikel 2 des Gesetzes vom 6. November 2020 erlaubten Tätigkeiten 
+ausgeschlossen:- Pflegediagnose und Bestimmung der Krankenpflege- Entscheidung über 
+die Durchführung und/oder Delegation/Subsidiarität von krankenpflegerischen Handlungen- Delegation 
+von krankenpflegerischen Handlungen, Ausbildung in diesem Bereich und Überwachung dieser Handlungen- 
+Koordination der Krankenpflege- Sauerstoffverabreichung- Aspiration und Drainage 
+der Atemwege- Krankenpflege von Patienten mit künstlichem Atemweg und Überwachung- 
+Handhabung und Überwachung von Geräten zur kontrollierten Beatmung- Legen eines intravenösen 
+Katheters in eine periphere Vene, Blutentnahme und intravenöse Infusion mit isotoner Kochsalzlösung und 
+eventueller Benutzung eines Infusionsreglers- Anlegen einer intravenösen Infusion mit isotoner 
+Kochsalzlösung über ein subkutanes Portsystem, das mit einer Vene verbunden ist, Blutentnahme und Benutzung 
+eines Infusionsreglers- Manuelle Entfernung von Fäkulomen- Scheidenspülung- 
+Aseptische Vulvapflege- Vorbereitung, Durchführung und Überwachung in den Bereichen:[• 
+Wundpflege] • Wundpflege mit Gazestreifen und Drains • Entfernen loser 
+Fremdkörper aus den Augen- Krankenpflege von Frühgeborenen mit Benutzung eines Inkubators und 
+Überwachung- Überwachung der Vorbereitung des zu sterilisierenden Materials und des Sterilisationsverfahrens- 
+Handhabung radioaktiver Produkte- Maßnahmen zur Vorbeugung körperlicher Verletzungen: 
+Mittel zur Ruhigstellung, Isolierung, Vorbeugung von Stürzen, Überwachung- Transport von Patienten, 
+für die eine ständige Überwachung erforderlich ist- Verwaltung der chirurgischen und anästhesiologischen 
+Ausrüstung- Vorbereitung eines Patienten auf eine Anästhesie und einen chirurgischen Eingriffaufgrund 
+der Komplexität, der erforderlichen spezifischen Kompetenzen und der Einbeziehung der Verantwortlichkeit 
+des betreffenden Arztes:- Technische Krankenpflegeleistungen, die von Krankenpflegefachkräften 
+erbracht werden dürfen und für die eine ärztliche Verschreibung erforderlich ist (B2), wie bestimmt im 
+Königlichen Erlass vom 18. Juni 1990 zur Festlegung der Liste der technischen Krankenpflegeleistungen 
+und der Liste der Handlungen, die Ärzte oder Zahnärzte Krankenpflegefachkräften anvertrauen können, sowie 
+der Modalitäten für die Durchführung dieser Leistungen und Handlungen und der Qualifikationsbedingungen, 
+die die Krankenpflegefachkräfte erfüllen müssen, mit Ausnahme folgender technischer Krankenpflegeleistungen:o 
+Vorbereitung und Verabreichung von Impfungeno Entnahme und Sammeln von Sekretionen und Ausscheidungen 
+[...], undo Blutentnahme durch kapilläre Punktion- Handlungen, die Ärzte oder Zahnärzte 
+Krankenpflegefachkräften (C), wie im selben Königlichen Erlass bestimmt, anvertrauen können- 
+Technische Krankenpflegeleistungen und medizinische Handlungen, die von Ärzten oder Zahnärzten anvertraut 
+werden können und Krankenpflegern vorbehalten sind, die Inhaber einer besonderen Berufsbezeichnung sind, 
+wie im selben Königlichen Erlass bestimmt.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-26Numac : 2021022205
+

@@ -1,0 +1,451 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/09/27/2021022054/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-05Numac : 2021022054
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 27 SEPTEMBER 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+27 september 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 28 september 
+2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES27. SEPTEMBER 2021 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund des Gesetzes vom 31. Dezember 
+1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes vom 5. August 1992 über das 
+Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit, 
+der Artikel 181, 182 und 187;Aufgrund des Ministeriellen Erlasses vom 28. Oktober 2020 zur 
+Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 23. September 2021;Aufgrund des Einverständnisses 
+des Staatssekretärs für Haushalt vom 23. September 2021;Aufgrund der am 27. September 2021 
+abgegebenen Stellungnahme der Minister, die im Rat darüber beraten haben;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Werktagen (die auf acht Werktage ausgeweitet werden kann, wenn der Begutachtungsantrag 
+der Generalversammlung vorgelegt wird) abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen 
+zu erwägen, die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, 
+wobei die jüngsten Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 17. September 2021 
+beschlossenen Maßnahmen gerechtfertigt haben; dass daher kurzfristig bestimmte Maßnahmen 
+anzupassen sind; dass die im vorerwähnten Konzertierungsausschuss beschlossenen Maßnahmen ein zusammenhängendes 
+Ganzes bilden; dass einige dieser Maßnahmen bereits ab der Veröffentlichung des vorliegenden Erlasses 
+im Belgischen Staatsblatt und die anderen am 1. Oktober 2021 in Kraft treten; dass der Ministerielle 
+Erlass jedoch ausreichend im Voraus im Belgischen Staatsblatt offiziell veröffentlicht werden muss, damit 
+sich die Sektoren vorbereiten können;In Erwägung der Konzertierung zwischen den Regierungen 
+der föderierten Teilgebiete und den zuständigen föderalen Behörden im Rahmen der häufig abgehaltenen 
+Sitzungen des Konzertierungsausschusses, insbesondere der Sitzungen des Konzertierungsausschusses vom 
+11. Mai 2021, 4. und 18. Juni 2021, 19. Juli 2021, 20. August 2021 und 17. September 2021 für die im 
+Erlass getroffenen Maßnahmen;In Erwägung der Stellungnahmen der RAG und der Gutachten 
+der GEMS;In Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In 
+Erwägung der Stellungnahme des Corona-Kommissariats vom 14. September 2021 "in Bezug auf das Vorhandensein 
+oder Nichtvorhandensein einer epidemischen Notsituation gemäß den Kriterien des Pandemiegesetzes" 
+und der diesbezüglichen Risikobewertung der RAG vom 1. September 2021;In Erwägung des Artikels 
+191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen 
+der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen 
+Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, 
+dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen 
+ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) und e) der Verordnung (EU) 
+Nr. 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen 
+bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 
+95/46/EG;In Erwägung der Verfassung, des Artikels 23;In Erwägung des Zusammenarbeitsabkommens 
+vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, 
+der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame 
+Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von 
+den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams 
+im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen 
+auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 2020 
+zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung des 
+Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der 
+Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission über 
+die Übermittlung notwendiger Daten an die föderierten Teilgebiete, die lokalen Behörden oder die Polizeidienste 
+zur Durchsetzung der verpflichteten Quarantäne oder Tests von Reisenden aus dem Ausland, die bei ihrer 
+Ankunft in Belgien einer verpflichteten Quarantäne oder Untersuchung unterliegen;In Erwägung 
+des Gesetzes vom 8. April 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 24. März 2021;In 
+Erwägung des Zusammenarbeitsabkommens vom 31. Mai 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Deutschsprachigen Gemeinschaft, der Wallonischen Region und der Gemeinsamen Gemeinschaftskommission 
+über besondere Verarbeitungen personenbezogener Daten zur Rückverfolgung und Untersuchung von Clustern 
+und Personengemeinschaften, zur Durchsetzung der Quarantäne- und Testpflicht sowie zur Überwachung der 
+Einhaltung von Maßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 am Arbeitsplatz 
+durch die zuständigen Sozialinspektoren;In Erwägung des Gesetzes vom 20. Juni 2021 zur Billigung 
+des vorerwähnten Zusammenarbeitsabkommens vom 31. Mai 2021;In Erwägung des Zusammenarbeitsabkommens 
+vom 14. Juli 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Französischen Gemeinschaft, 
+der Deutschsprachigen Gemeinschaft, der Gemeinsamen Gemeinschaftskommission, der Wallonischen Region 
+und der Französischen Gemeinschaftskommission über die Verarbeitung von Daten im Zusammenhang mit dem 
+digitalen EU-COVID-Zertifikat, dem COVID Safe Ticket, dem PLF und der Verarbeitung personenbezogener 
+Daten von Lohnempfängern und Selbständigen, die im Ausland leben oder wohnen und in Belgien Tätigkeiten 
+ausüben;In Erwägung des Gesetzes vom 20. Juli 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens 
+vom 14. Juli 2021;In Erwägung des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung 
+und die Bewältigung von Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister 
+und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder 
+eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 
+13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements 
+in Bezug auf das Coronavirus COVID-19;In Erwägung der Protokolle, die von den zuständigen Ministern 
+in Konzertierung mit den betreffenden Sektoren bestimmt werden;In Erwägung der Empfehlung (EU) 
+2020/1475 des Rates vom 13. Oktober 2020 für eine koordinierte Vorgehensweise bei der Beschränkung der 
+Freizügigkeit aufgrund der COVID-19-Pandemie;In Erwägung der Empfehlung (EU) 2020/912 des Rates 
+vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und die 
+mögliche Aufhebung dieser Beschränkung;In Erwägung der Verordnung (EU) 2021/953 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der 
+Freizügigkeit während der COVID-19-Pandemie;In Erwägung der Verordnung (EU) 2021/954 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) für Drittstaatsangehörige mit rechtmäßigem 
+Aufenthalt oder Wohnsitz im Hoheitsgebiet der Mitgliedstaaten während der COVID-19-Pandemie;In 
+Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere 
+hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 
+von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, 
+dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen 
+hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung 
+der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, 
+dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen der Epidemie 
+führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In Erwägung 
+der Erklärung des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er insbesondere darauf 
+hingewiesen hat, dass die Übertragung und die Übertragungsquellen in den Häusern, an geschlossenen öffentlichen 
+Orten und bei Personen, die die Selbstschutzmaßnahmen nicht korrekt befolgen, stattfinden beziehungsweise 
+zu finden sind;In Erwägung der Erklärung des Generaldirektors der WHO Europa vom 29. April 
+2021, in der darauf hingewiesen wird, dass die von Einzelnen und der Gesellschaft als Ganzes ergriffenen 
+Gesundheitsmaßnahmen weiterhin die dominanten Elemente sind, die die Entwicklung der Pandemie bestimmen; 
+dass wir uns bewusst sein müssen, dass Impfstoffe allein die Pandemie nicht beenden werden; dass es im 
+Kontext der Pandemie eine Kombination aus Impfstoffen und energischen Gesundheitsmaßnahmen ist, 
+die uns den deutlichsten Pfad zurück zur Normalität weisen;In Erwägung der Erklärung des Generaldirektors 
+der WHO Europa vom 20. Mai 2021, in der angegeben wird, dass die Zahl der Infektionen und der damit verbundenen 
+Todesfälle zurückgeht, dass aber weiterhin Wachsamkeit geboten ist; dass in den kommenden Monaten zunehmende 
+Mobilität, physische Interaktion und Zusammenkünfte in Europa möglicherweise zu einer verstärkten Übertragung 
+führen werden; dass, wenn die sozialen Maßnahmen gelockert werden, Tests und Sequenzierung, Isolation, 
+Kontaktermittlung, Quarantäne und Impfung verstärkt werden müssen, um die Kontrolle zu behalten und zu 
+gewährleisten, dass der Trend weiterhin rückläufig bleibt; dass weder Tests noch Impfungen einen Ersatz 
+für die Einhaltung von Maßnahmen wie der körperlichen Distanzwahrung und dem Tragen von Masken 
+in öffentlichen Räumen oder Gesundheitseinrichtungen darstellen;In Erwägung der Erklärung des 
+Generaldirektors der WHO Europa vom 10. Juni 2021, in der betont wird, dass trotz der insgesamt günstigen 
+Entwicklung der epidemischen Situation in Europa die Impfabdeckung der Bevölkerung, insbesondere der 
+aufgrund ihres Alters oder aufgrund von Komorbiditätsfaktoren gefährdeten Bevölkerung, nicht so hoch 
+ist, dass nun jegliches Risiko ausgeschlossen wäre; dass es folglich notwendig ist, vorsichtig zu bleiben, 
+um ein Wiederaufflammen der Epidemie zu vermeiden; dass daher nach wie vor die Eigenverantwortlichkeit 
+der Bürger gefordert ist, insbesondere im Hinblick auf die Einhaltung des Social Distancing;In 
+Erwägung der Erklärung des Generaldirektors der WHO Europa vom 1. Juli 2021, in der betont wird, dass 
+aufgrund des Auftretens neuer Varianten - insbesondere der besorgniserregenden Delta-Variante -, einer 
+immer noch unzureichenden Impfdeckung und der Zunahme der Reisen die Gefahr einer neuen Ansteckungswelle 
+in der europäischen Region besteht; dass daher an die Verantwortung der Bürger, Urlauber und Reisenden 
+appelliert wird, insbesondere hinsichtlich der Notwendigkeit, sich impfen zu lassen;In Erwägung 
+der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr für die Bevölkerung und der daraus entstehenden 
+Dringlichkeit;In der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit auslöst, 
+die meist die Lunge und die Atemwege befällt;In der Erwägung, dass das Coronavirus COVID-19 
+von Mensch zu Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar auf 
+alle möglichen Verbreitungsarten durch Mund und Nase erfolgt;In der Erwägung, dass der Tagesdurchschnitt 
+der festgestellten Neuansteckungen mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen 
+leicht gestiegen ist auf 2020 bestätigte positive Fälle am 21. September 2021;In der Erwägung, 
+dass am 24. September 2021 insgesamt 662 COVID-19-Patienten in belgischen Krankenhäusern behandelt wurden; 
+dass am selben Tag insgesamt 210 Patienten auf Intensivstationen lagen; dass diese Zahlen eine Lockerung 
+bestimmter Maßnahmen zulassen;In der Erwägung, dass die Inzidenz am 21. September 2021 
+im 14-Tage-Mittel 244 pro 100 000 Einwohner beträgt; dass die Reproduktionsrate, basierend auf der Zahl 
+der neuen Krankenhausaufnahmen, 0,881 beträgt;In der Erwägung, dass der Belegungsgrad der Intensivstationen 
+in Belgien deutlich unter der Zielschwelle von weniger als 500 COVID-19-Patienten bleibt und dass sowohl 
+die Zahl der Krankenhausaufnahmen als auch die Positivitätsrate einen leichten Abwärtstrend zeigen; dass 
+diese Situation daher nicht einer kritischen epidemischen Notsituation auf dem gesamten Staatsgebiet 
+entspricht;In der Erwägung, dass der Druck auf die Krankenhäuser und die Kontinuität der Versorgung, 
+die nicht mit COVID-19 zusammenhängt, derzeit noch unter Kontrolle ist; dass sich eine bestimmte Anzahl 
+von Krankenhäusern dennoch in Phase 1B oder sogar 2A des Krankenhausnoteinsatzplans befindet;In 
+der Erwägung, dass am 23. September 2021 eine Impfdeckung von 72,5 % der belgischen Bevölkerung erreicht 
+wurde; dass es sich bei dieser Zahl um Personen handelt, die bereits vollständig geimpft wurden;In 
+der Erwägung, dass die Entwicklung der Gesundheitslage jedoch die Aufhebung mehrerer Einschränkungen 
+ermöglicht, insbesondere die Maskenpflicht, die in zahlreichen Situationen aufgehoben wird, insbesondere 
+für Aktivitäten, die im Freien stattfinden; dass das Tragen einer Maske jedoch weiterhin Pflicht bleibt 
+in bestimmten Einrichtungen und während bestimmten Aktivitäten, die in Innenräumen stattfinden; dass, 
+insofern das Social Distancing nicht eingehalten werden kann, das Tragen einer Maske dringend empfohlen 
+bleibt;In der Erwägung, dass Tanzlokale und Diskotheken ihre Tätigkeiten ab dem 1. Oktober 
+2021 wieder aufnehmen dürfen; dass der Zugang zu Diskotheken und Tanzlokalen jedoch in jedem Fall unter 
+Einhaltung der Modalitäten des vorerwähnten Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert werden 
+muss;In der Erwägung, dass bestimmte Zusammenkünfte in geschlossenen und überdachten Orten 
+noch stets ein besonderes Risiko für die Gesundheit der Bevölkerung darstellen und bestimmten Beschränkungen 
+unterliegen müssen;In der Erwägung, dass Aktivitäten im Freien immer bevorzugt werden sollten; 
+dass im gegenteiligen Fall die Räume ausreichend durchgelüftet werden müssen;In der Erwägung, 
+dass die Verwendung von Luftqualitätsmessgeräten (CO2) erforderlich ist, um die Bevölkerung 
+vor erhöhten Ansteckungsrisiken in bestimmten Einrichtungen oder geschlossenen Bereichen zu schützen, 
+insbesondere in den geschlossenen Bereichen von Gaststättenbetrieben und Schankstätten des Hotel- und 
+Gaststättengewerbes, einschließlich Tanzkneipen, von Einrichtungen des Sportsektors, einschließlich 
+Fitnesszentren, und von Einrichtungen des Veranstaltungssektors, einschließlich Diskotheken und 
+Tanzlokalen, da aufgrund der dortigen Aktivitäten die Ausbreitung von Aerosolen, insbesondere für nicht 
+nichtgeimpfte Personen, besonders hoch sein kann; dass diese Geräte an einer zentralen Stelle aufgestellt 
+werden müssen und nicht neben einer Tür, einem Fenster oder einer Lüftungsanlage; dass diese Geräte zudem 
+für Besucher gut sichtbar sein müssen, es sei denn, ein alternatives System einer öffentlich zugänglichen 
+Echtzeit-Anzeige ist vorgesehen; dass mindestens ein Luftqualitätsmessgerät in jedem separaten Bereich 
+vorhanden sein muss, in dem Speisen und Getränke zubereitet und serviert werden, in dem Sport getrieben 
+wird, in dem die Veranstaltung stattfindet, in dem es Warteschlangen gibt, und in den Umkleideräumen;In 
+Erwägung, dass die vorerwähnten Einrichtungen ab dem 1. Oktober 2021 dieselben Anforderungen in Bezug 
+auf den Richtwert für die Luftqualität erfüllen müssen; dass der Richtwert für die Luftqualität bei 900 
+ppm CO2 liegt; dass der Betreiber bei Überschreitung des Wertes von 900 ppm über einen 
+auf einer Risikoanalyse fußenden Aktionsplan verfügen muss, um Ausgleichsmaßnahmen zur Lüftung 
+und/oder Luftentkeimung und/oder Luftfilterung, wie im Ministeriellen Erlass vom 12. Mai 2021 zur vorläufigen 
+Festlegung der Bedingungen für die Inverkehrbringung von Luftreinigungssystemen im Rahmen der Bekämpfung 
+von SARS-CoV-2 außerhalb medizinischer Zwecke erwähnt, zu gewährleisten, mit denen eine Luftqualität 
+sichergestellt wird, die dem Luftqualitätsrichtwert von 900 ppm entspricht; dass für den Fall, dass der 
+Wert von 1 200 ppm überschritten wird, zudem ein anerkanntes System zur Luftentkeimung und/oder Luftfilterung 
+bereitgestellt werden muss, das eine Luftqualität gewährleistet, die dem Luftqualitätsrichtwert von 900 
+ppm entspricht; dass jedoch für die Einhaltung der diesbezüglichen neuen Vorschriften ein Übergangszeitraum 
+bis mindestens 31. Oktober 2021 vorgesehen ist; dass nach Ablauf des Übergangszeitraums eine sofortige 
+Schließung der Einrichtung erfolgen kann, wenn die geltenden Vorschriften nicht eingehalten werden;In 
+der Erwägung, dass das vorerwähnte Zusammenarbeitsabkommen vom 14. Juli 2021 den föderierten Teilgebieten 
+und den zuständigen lokalen Behörden die Möglichkeit bietet, ab dem 1. Oktober 2021 unter Einhaltung 
+der darin festgelegten Bedingungen die Mindestanzahl Teilnehmer für Großereignisse, die in Artikel 
+15 § 3 des vorliegenden Erlasses erwähnt sind, zu verringern; dass dieses Zusammenarbeitsabkommen 
+ihnen auch die Möglichkeit bietet, die Regelung, die bei Großereignissen gilt, zur Pflicht zu machen; 
+dass dieses Zusammenarbeitsabkommen den föderierten Teilgebieten die Befugnis einräumt, die Modalitäten, 
+die bereits für Großereignisse gelten, auf die in diesem Zusammenarbeitsabkommen aufgeführten Angelegenheiten 
+und Einrichtungen auszudehnen;In der Erwägung, dass bestimmte Personen über ein Impfzertifikat 
+verfügen müssen, um im Rahmen nicht unbedingt notwendiger Reisen nach Belgien reisen zu dürfen; dass 
+bestimmte Minderjährige gemäß den Rechtsvorschriften ihres Landes alt genug sind, um geimpft zu 
+werden; dass es schwer vorstellbar ist, dass nicht unbedingt notwendige Reisen ausschließlich den 
+Personen vorbehalten sind, die alt genug sind, um geimpft zu werden; dass Minderjährige folglich keinen 
+Impfnachweis vorlegen müssen, wenn sie in Begleitung einer Person reisen, die im Besitz eines Impfzertifikats 
+ist;In der Erwägung, dass es bei Reisenden mit einer Papierversion des Passagier-Lokalisierungsformulars 
+zu einer Verzögerung beim Erhalt eines Testcodes für einen PCR-Test und der notwendigen Mitteilung über 
+die zu treffenden Gesundheitsmaßnahmen kommt; dass zwischen der Ankunft des Reisenden und dem Eingang 
+der Papierversion des Passagier-Lokalisierungsformulars zur Fluggastkontrolle bei Saniport manchmal mehrere 
+Tage vergehen; dass dies Gesundheitsrisiken mit sich bringt, insbesondere für ungeimpfte Reisende, die 
+aus roten Zonen kommen; dass die Papierversionen des Passagier-Lokalisierungsformulars oft unvollständig, 
+unleserlich und leicht zu fälschen sind, was zu Schwierigkeiten bei der Weiterverfolgung der Maßnahmen 
+für ankommende Reisende führt; dass die Bearbeitung des Passagier-Lokalisierungsformulars in Papierform 
+eine erhebliche Arbeitsbelastung für die zuständigen Verwaltungen, Kontroll- und Inspektionsdienste, 
+die Polizei und die Kontaktzentren darstellt; dass hierdurch andere Prioritäten zurückgestellt werden 
+müssen; dass aus diesen Gründen die Möglichkeit, ein Passagier-Lokalisierungsformular in Papierform auszufüllen, 
+ab dem 1. Oktober 2021 abgeschafft wird; dass diese Abschaffung mit Begleitmaßnahmen einhergeht, 
+wie zum Beispiel Unterstützung der Reisenden durch den Beförderer beim Ausfüllen des elektronischen PLF 
+und/oder beim Ausdrucken des QR-Codes; dass darüber hinaus eine Übergangsfrist von 14 Tagen vorgesehen 
+wird;In der Erwägung, dass angesichts der noch fragilen Gesundheitslage die noch geltenden 
+Einschränkungen erforderlich sind, um eine erneute Verschlechterung der Lage zu verhindern und sicherzustellen, 
+dass die Bemühungen der gesamten Bevölkerung und aller betroffenen Sektoren, einschließlich des 
+Wirtschafts- und Gesundheitssektors, nicht zunichtegemacht werden;In der Erwägung, dass Maßnahmen 
+zur Beschränkung und Begleitung bestimmter Aktivitäten nach wie vor unerlässlich und verhältnismäßig 
+sind, um das Grundrecht auf Leben und Gesundheit der Bevölkerung zu wahren; dass in der Höchstanzahl 
+der Personen, die zusammenkommen dürfen, immer die Kinder bis zum Alter von 12 Jahren einschließlich 
+inbegriffen sind, sofern nicht ausdrücklich etwas anderes bestimmt ist;In der Erwägung, dass 
+im Hinblick auf die Einhaltung aller Gesundheitsempfehlungen und des Social Distancing noch immer an 
+das Verantwortungsbewusstsein und die Solidarität jedes Bürgers appelliert wird; dass die Regeln des 
+Social Distancing insbesondere die Einhaltung eines Abstands von 1,5 m zwischen den Personen betreffen;In 
+der Erwägung, dass die Hygienemaßnahmen unerlässlich bleiben, zum Beispiel die besondere Beachtung 
+der Hygienemaßnahmen beim Niesen und Husten;In der Erwägung, dass die Gesundheitslage 
+regelmäßig bewertet wird; dass dies bedeutet, dass strengere Maßnahmen nie ausgeschlossen 
+werden können;In der Erwägung, dass die lokalen Behörden jedoch die Möglichkeit haben, je nach 
+epidemiologischer Situation auf ihrem Gebiet verschärfte Maßnahmen zu ergreifen, sofern diese verhältnismäßig 
+und zeitlich begrenzt sind,Erlässt:Artikel 1 - Artikel 1 des Ministeriellen Erlasses 
+vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 wird wie folgt abgeändert:1. Nummer 23 wird wie folgt ersetzt: "23. 
+"Impfzertifikat": ein digitales COVID-Impfzertifikat der EU oder ein Impfzertifikat, das in einem Land, 
+das nicht zur Europäischen Union gehört, ausgestellt wurde und das von der Europäischen Kommission auf 
+der Grundlage von Durchführungsrechtsakten oder von Belgien auf der Grundlage bilateraler Abkommen als 
+gleichwertig angesehen wird, und mit dem bescheinigt wird, dass alle in der Packungsbeilage angegebenen 
+Dosen eines Impfstoffs gegen das Virus SARS-Cov-2, wie auf der Website "info-coronavirus.be" des Föderalen 
+Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt erwähnt, seit mindestens 
+zwei Wochen verabreicht sind. In Ermangelung eines Gleichwertigkeitsbeschlusses der Europäischen Kommission 
+wird auch ein Impfzertifikat akzeptiert, das in einem Land, das nicht zur Europäischen Union gehört, 
+ausgestellt wurde und das mindestens folgende Informationen auf Niederländisch, Französisch, Deutsch 
+oder Englisch enthält:- Daten, aus denen hervorgeht, wer die geimpfte Person ist (Name, Geburtsdatum 
+und/oder ID-Nummer),- Angaben, mit denen bescheinigt wird, dass alle in der Packungsbeilage 
+angegebenen Dosen eines Impfstoffs gegen das Virus SARS-Cov-2, wie auf der Website "info-coronavirus.be" 
+des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt erwähnt, 
+seit mindestens zwei Wochen verabreicht sind,- Markenname und Chargennummer oder Name des Herstellers 
+oder des Inhabers der Genehmigung für das Inverkehrbringen jedes verabreichten Impfstoffs,- 
+Datum der Verabreichung jeder verabreichten Dosis des Impfstoffs,- Name des Landes, der Provinz 
+oder der Region, wo der Impfstoff verabreicht wurde,- Aussteller des Impfzertifikats mit seiner 
+Unterschrift, seinem Stempel oder einer digital lesbaren eindeutigen Zertifikatkennung,".2. 
+Der Artikel wird durch die Nummern 27 und 28 mit folgendem Wortlaut ergänzt:"27. "Diskotheken 
+und Tanzlokalen": Vergnügungsstätten, die aus einem oder mehreren Räumen bestehen und wo hauptsächlich 
+zu Musik getanzt wird,28. "Zusammenarbeitsabkommen vom 14. Juli 2021": das Zusammenarbeitsabkommen 
+vom 14. Juli 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Französischen Gemeinschaft, 
+der Deutschsprachigen Gemeinschaft, der Gemeinsamen Gemeinschaftskommission, der Wallonischen Region 
+und der Französischen Gemeinschaftskommission über die Verarbeitung von Daten im Zusammenhang mit dem 
+digitalen EU-COVID-Zertifikat, dem COVID Safe Ticket, dem PLF und der Verarbeitung personenbezogener 
+Daten von Lohnempfängern und Selbständigen, die im Ausland leben oder wohnen und in Belgien Tätigkeiten 
+ausüben, einschließlich aller nachfolgenden Ergänzungen und Abänderungen."Art. 2 - Artikel 
+6 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 Absatz 1 Nr. 5 wird aufgehoben.2. 
+Paragraph 1 Absatz 2 wird wie folgt ersetzt: " In den geschlossenen Bereichen von Gaststättenbetrieben 
+und Schankstätten des Hotel- und Gaststättengewerbes ist die Verwendung eines Luftqualitätsmessgeräts 
+(CO2) Pflicht. Dieses Messgerät muss an einer für Besucher gut einsehbaren Stelle installiert 
+sein, es sei denn, es wird ein alternatives System einer öffentlich zugänglichen Echtzeit-Anzeige bereitgestellt. 
+Der Richtwert für die Luftqualität liegt bei 900 ppm CO2. Wird der Wert von 900 ppm 
+überschritten, muss der Betreiber über einen auf einer Risikoanalyse fußenden Aktionsplan verfügen, 
+um Ausgleichsmaßnahmen zur Lüftung und/oder Luftentkeimung und/oder Luftfilterung, wie im Ministeriellen 
+Erlass vom 12. Mai 2021 zur vorläufigen Festlegung der Bedingungen für die Inverkehrbringung von Luftreinigungssystemen 
+im Rahmen der Bekämpfung von SARS-CoV-2 außerhalb medizinischer Zwecke erwähnt, zu gewährleisten, 
+mit denen eine Luftqualität sichergestellt wird, die der Luftqualitätsnorm von 900 ppm entspricht. Wird 
+der Wert von 1 200 ppm überschritten, muss der Betreiber zudem ein anerkanntes System zur Luftentkeimung 
+und/oder -filterung bereitstellen, das eine Luftqualität gewährleistet, die der Luftqualitätsnorm von 
+900 ppm entspricht."3. In § 2 wird Absatz 1 durch eine Nummer 9 mit folgendem Wortlaut 
+ergänzt: "9. In den geschlossenen Bereichen tragen Personalmitglieder eine Maske oder eine andere Alternative 
+aus Stoff gemäß Artikel 25."4. In § 2 Absatz 3 Nr. 2 werden die Wörter "weniger 
+als 200 Personen bis zum 30. September 2021 einschließlich und mit " und die Wörter "ab dem 1. 
+Oktober 2021" aufgehoben.5. In § 2 Absatz 3 Nr. 3 werden die Wörter "weniger als 400 
+Personen bis zum 30. September 2021 einschließlich und mit " und die Wörter "ab dem 1. Oktober 
+2021" aufgehoben.6. In § 2 wird Absatz 3 durch eine Nummer 4 mit folgendem Wortlaut 
+ergänzt: "4. Aktivitäten in Diskotheken und Tanzlokalen."7. Paragraph 3 wird aufgehoben.Art. 
+3 - Artikel 8 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 Absatz 1 Nr. 3 wird 
+aufgehoben.2. Paragraph 1 Absatz 2 wird aufgehoben.3. Paragraph 1 früherer Absatz 
+3, der zu Absatz 2 wird, wird wie folgt ersetzt: "In geschlossenen Gemeinschaftsbereichen der Einrichtungen 
+des Sportsektors, einschließlich Fitnesszentren, und der Einrichtungen des Veranstaltungssektors, 
+einschließlich Diskotheken und Tanzlokalen, ist die Verwendung eines Luftqualitätsmessgeräts (CO2) 
+Pflicht. Dieses Messgerät muss an einer für Besucher gut einsehbaren Stelle installiert sein, es sei 
+denn, es wird ein alternatives System einer öffentlich zugänglichen Echtzeit-Anzeige bereitgestellt. 
+Der Richtwert für die Luftqualität liegt bei 900 ppm CO2. Wird der Wert von 900 ppm 
+überschritten, muss der Betreiber über einen auf einer Risikoanalyse fußenden Aktionsplan verfügen, 
+um Ausgleichsmaßnahmen zur Belüftung und/oder Luftentkeimung und/oder Luftfilterung, wie im Ministeriellen 
+Erlass vom 12. Mai 2021 zur vorläufigen Festlegung der Bedingungen für die Inverkehrbringung von Luftreinigungssystemen 
+im Rahmen der Bekämpfung von SARS-CoV-2 außerhalb medizinischer Zwecke erwähnt, zu gewährleisten, 
+mit denen eine Luftqualität sichergestellt wird, die der Luftqualitätsnorm von 900 ppm entspricht. Wird 
+der Wert von 1 200 ppm überschritten, muss der Betreiber zudem ein anerkanntes System zur Luftentkeimung 
+und/oder -filterung bereitstellen, das eine Luftqualität gewährleistet, die der Luftqualitätsnorm von 
+900 ppm entspricht."4. Paragraph 2 wird wie folgt ersetzt: " § 2 - Diskotheken und Tanzlokale 
+können ihren Betrieb wieder aufnehmen, sofern der Zugang unter Einhaltung der Bestimmungen des Zusammenarbeitsabkommens 
+vom 14. Juli 2021 organisiert wird."Art. 4 - Artikel 13 desselben Erlasses wird wie folgt abgeändert:1. 
+Absatz 1 Nr. 2 wird aufgehoben.2. In Absatz 1 Nr. 9 werden die Wörter ", das Tragen der Maske" 
+aufgehoben.Art. 5 - Artikel 15 desselben Erlasses wird wie folgt ersetzt:"Art. 15 
+- § 1 - Private Zusammenkünfte, die in Innenräumen stattfinden, dürfen für höchstens 500 Personen 
+organisiert werden, unbeschadet einer möglichen Anwendung der Modalitäten von § 2.Private 
+Zusammenkünfte, die im Freien stattfinden, dürfen für höchstens 750 Personen organisiert werden, unbeschadet 
+einer möglichen Anwendung der Modalitäten von § 2. § 2 - Ereignisse, kulturelle 
+oder andere Darbietungen, Sportwettkämpfe, Sporttrainings und Kongresse dürfen in Innenräumen für ein 
+Publikum von höchstens 3 000 Personen veranstaltet werden. Werden 500 oder mehr Personen empfangen, sind 
+die in den Artikeln 6 und 8 vorgesehenen Modalitäten und das geltende Protokoll einzuhalten und muss 
+die vorherige Genehmigung der zuständigen lokalen Behörde gemäß Artikel 16 eingeholt werden.Ereignisse, 
+kulturelle oder andere Darbietungen, Sportwettkämpfe, Sporttrainings und Kongresse dürfen im Freien für 
+ein Publikum von höchstens 5 000 Personen veranstaltet werden. Werden 750 oder mehr Personen empfangen, 
+sind die in den Artikeln 6 und 8 vorgesehenen Modalitäten und das geltende Protokoll einzuhalten und 
+muss die vorherige Genehmigung der zuständigen lokalen Behörde gemäß Artikel 16 eingeholt werden.Im 
+Fall einer Aufteilung des Publikums in Blöcken können die in den Absätzen 1 und 2 erwähnten Höchstzahlen 
+überschritten werden, sofern folgende Mindestregeln und die geltenden Protokolle eingehalten werden:1. 
+Eine Vermischung des Publikums in den verschiedenen Blöcken ist vor, während und nach der Aktivität nicht 
+möglich.2. Für jeden Block werden getrennte Ein- und Ausgänge und eine getrennte sanitäre Infrastruktur 
+vorgesehen.3. Das Fassungsvermögen eines Blocks übersteigt nicht die in Absatz 1 erwähnte Höchstzahl 
+Personen, wenn die Aktivität in Innenräumen stattfindet, beziehungsweise die in Absatz 2 erwähnte Höchstzahl 
+Personen, wenn die Aktivität im Freien stattfindet.4. Die Kapazität aller Blöcke zusammen beträgt 
+höchstens ein Drittel der Gesamtkapazität der Infrastruktur.Vorliegender Paragraph findet keine 
+Anwendung, wenn aufgrund eines lokalen Polizeierlasses, einer lokalen Polizeiverordnung, eines Dekrets 
+oder einer Ordonnanz der Zugang auf der Grundlage des Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert 
+werden muss. § 3 - Großereignisse und Test- und Pilotprojekte in Innenräumen dürfen 
+für mindestens 500 Personen und höchstens 75 000 Personen pro Tag, Mitarbeiter und Organisatoren nicht 
+einbegriffen, veranstaltet werden, vorbehaltlich der vorherigen Genehmigung der zuständigen lokalen Behörden 
+und sofern die Modalitäten des Zusammenarbeitsabkommens vom 14. Juli 2021 eingehalten werden.Großereignisse 
+und Test- und Pilotprojekte im Freien dürfen für mindestens 750 Personen und höchstens 75 000 Personen 
+pro Tag, Mitarbeiter und Organisatoren nicht einbegriffen, veranstaltet werden, vorbehaltlich der vorherigen 
+Genehmigung der zuständigen lokalen Behörden und sofern die Modalitäten des Zusammenarbeitsabkommens 
+vom 14. Juli 2021 eingehalten werden.In jedem geschlossenen Bereich der Infrastruktur, in dem 
+ein Großereignis stattfindet, ist die Verwendung eines Luftqualitätsmessgeräts (CO2) 
+Pflicht. Dieses Messgerät muss an einer für Besucher gut einsehbaren Stelle installiert sein, es sei 
+denn, es wird ein alternatives System einer öffentlich zugänglichen Echtzeit-Anzeige bereitgestellt. 
+Der Richtwert für die Luftqualität liegt bei 900 ppm CO2. Wird der Wert von 900 ppm 
+überschritten, muss der Betreiber über einen auf einer Risikoanalyse fußenden Aktionsplan verfügen, 
+um Ausgleichsmaßnahmen zur Lüftung und/oder Luftentkeimung und/oder Luftfilterung, wie im Ministeriellen 
+Erlass vom 12. Mai 2021 zur vorläufigen Festlegung der Bedingungen für die Inverkehrbringung von Luftreinigungssystemen 
+im Rahmen der Bekämpfung von SARS-CoV-2 außerhalb medizinischer Zwecke erwähnt, zu gewährleisten, 
+mit denen eine Luftqualität sichergestellt wird, die der Luftqualitätsnorm von 900 ppm entspricht. Wird 
+der Wert von 1 200 ppm überschritten, muss der Betreiber zudem ein anerkanntes System zur Luftentkeimung 
+und/oder -filterung bereitstellen, das eine Luftqualität gewährleistet, die der Luftqualitätsnorm von 
+900 ppm entspricht.Der Empfangsbereich des Großereignisses wird in einer Weise organisiert, 
+die die Einhaltung der Regeln des Social Distancing ermöglicht.Die in den Absätzen 1 und 2 
+erwähnten Mindestzahlen können gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 geändert werden. 
+§ 4 - Handelsmessen sind unter Einhaltung der in Artikel 5 vorgesehenen Modalitäten und des anwendbaren 
+Protokolls erlaubt.Vorliegender Paragraph findet keine Anwendung, wenn aufgrund eines Dekrets 
+oder einer Ordonnanz der Zugang auf der Grundlage des Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert 
+wird."Art. 6 - Artikel 16 desselben Erlasses wird wie folgt ersetzt:"Art. 16 - Die 
+zuständigen lokalen Behörden verwenden das CERM und, sofern anwendbar, das CIRM, wenn sie einen Genehmigungsbeschluss 
+in Bezug auf die Organisation der in Artikel 15 § 2 erwähnten Aktivitäten fassen, mit Ausnahme:1. 
+der in Artikel 15 § 2 Absatz 1 erwähnten Aktivitäten mit einem Publikum von weniger als 500 Personen,2. 
+der in Artikel 15 § 2 Absatz 2 erwähnten Aktivitäten mit einem Publikum von weniger als 750 Personen.In 
+Artikel 15 § 2 Absatz 1 erwähnte Aktivitäten können unbeschadet der Möglichkeit der Aufteilung 
+des Publikums nur für ein Publikum von höchstens 100 Prozent der CIRM-Kapazität genehmigt werden, ohne 
+dass dabei die Zahl von 3 000 Personen überschritten wird.Vorliegender Artikel findet keine 
+Anwendung, wenn aufgrund eines lokalen Polizeierlasses, einer lokalen Polizeiverordnung, eines Dekrets 
+oder einer Ordonnanz der Zugang auf der Grundlage des Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert 
+werden muss."Art. 7 - In Artikel 19 Absatz 2 desselben Erlasses werden die Wörter ". Ist das 
+Tragen einer Maske oder einer Alternative aus Stoff aus medizinischen Gründen nicht möglich, kann ein 
+Gesichtsschutzschirm benutzt werden" durch die Wörter ", gemäß Artikel 25" ersetzt.Art. 
+8 - Artikel 21 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1bis Absatz 1 und 
+2 wird wie folgt ersetzt: "Die in § 1 erwähnten Maßnahmen gelten weder für Reisende, die 
+im Besitz eines Impfzertifikats sind, noch für Personen bis zum Alter von 17 Jahren einschließlich, 
+die mit einer Begleitperson reisen, die im Besitz eines Impfzertifikats ist.Wird ein Beförderer 
+eingesetzt, ist dieser verpflichtet zu überprüfen, ob die in Absatz 1 erwähnten Reisenden und Begleitpersonen 
+vor dem Einsteigen im Besitz eines Impfzertifikats sind. Fehlt dieses Impfzertifikat, muss der Beförderer 
+das Einsteigen untersagen."2. In § 3 Absatz 1 werden die Wörter "den Websites des Föderalen 
+Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts" durch die Wörter "der Website 
+des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt" ersetzt.3. 
+Paragraph 3 Absatz 2 wird aufgehoben.4. In § 4 Absatz 1 werden die Wörter "den Websites 
+des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts" durch die Wörter 
+"der Website des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette 
+und Umwelt" ersetzt.5. Paragraph 4 Absatz 2 wird aufgehoben.6. In § 5 Absatz 
+1 werden die Wörter "den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und 
+des Ausländeramts" durch die Wörter "der Website des Föderalen Öffentlichen Dienstes Volksgesundheit, 
+Sicherheit der Nahrungsmittelkette und Umwelt" ersetzt.7. Paragraph 5 Absatz 2 wird aufgehoben.8. 
+In § 5bis werden die Wörter "Ist es nicht möglich, einen solchen Nachweis zu erhalten, muss der 
+Reisende eine Kopie des gemäß den Paragraphen 3, 4 und 5 ausgefüllten Passagier-Lokalisierungsformulars 
+mit sich führen, und zwar während der gesamten Reise bis zum Endbestimmungsort in Belgien und während 
+der folgenden 48 Stunden." aufgehoben.Art. 9 - Artikel 23 desselben Erlasses wird wie folgt 
+abgeändert:1. In § 1 Absatz 2 Nr. 7 werden die Wörter "weniger als 200 Personen bis 
+zum 30. September 2021 einschließlich und von" und die Wörter "ab dem 1. Oktober 2021" aufgehoben.2. 
+In § 1 Absatz 2 Nr. 8 werden die Wörter "weniger als 400 Personen bis zum 30. September 2021 einschließlich 
+und von" und die Wörter "ab dem 1. Oktober 2021" aufgehoben.3. In § 1 wird Absatz 2 
+durch eine Nummer 16 mit folgendem Wortlaut ergänzt: "16. in den Fällen, in denen der Zugang auf der 
+Grundlage des Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert wird."4. In § 2 
+werden zwischen den Wörtern "von öffentlichen Verkehrsmitteln" und den Wörtern "die Regeln" die Wörter 
+"und organisierten gemeinschaftlichen Beförderungsmitteln" eingefügt.Art. 10 - Artikel 25 § 
+1 desselben Erlasses wird wie folgt ersetzt:" § 1 - Es wird dringend empfohlen, dass 
+jeder, mit Ausnahme der Kinder bis zum Alter von 12 Jahren einschließlich, Mund und Nase mit einer 
+Maske oder einer Alternative aus Stoff bedeckt, wenn die Regeln des Social Distancing unmöglich eingehalten 
+werden können, außer in den in Artikel 23 § 1 Absatz 2 erwähnten Fällen und unbeschadet 
+der Anwendung der Paragraphen 2 und 3.Mit Ausnahme der Kinder bis zum Alter von 12 Jahren einschließlich 
+ist jeder in jedem Fall verpflichtet, an folgenden Orten Mund und Nase mit einer Maske oder einer Alternative 
+aus Stoff zu bedecken:1. in den in Artikel 19 vorgesehenen geschlossenen Bereichen,2. 
+in den geschlossenen Bereichen der organisierten gemeinschaftlichen Beförderungsmittel,3. für 
+Dienstleistungserbringer und Kunden: in Einrichtungen und an Orten, wo Kontaktberufe ausgeübt werden, 
+bei denen es direkten Körperkontakt zwischen Dienstleister und Kunde gibt oder während mindestens 15 
+Minuten der Abstand von 1,5 m zwischen Dienstleister und Kunde nicht gewährleistet werden kann,4. 
+für Mitarbeiter und Veranstalter und für das Publikum: während der in Artikel 15 § 2 Absatz 1 
+vorgesehenen Aktivitäten mit einem Publikum von 500 oder mehr Personen."Art. 11 - In Artikel 
+26 desselben Erlasses werden die Wörter "25 § 1 Absatz 2 und 3" durch die Wörter "25 § 
+1 Absatz 2" ersetzt.Art. 12 - Vorliegender Erlass tritt am 1. Oktober 2021 in Kraft, mit Ausnahme 
+von Artikel 8 Nr. 1, der am Tag der Veröffentlichung des vorliegenden Erlasses im Belgischen Staatsblatt 
+in Kraft tritt.Brüssel, den 27. September 2021A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-05Numac : 2021022054
+

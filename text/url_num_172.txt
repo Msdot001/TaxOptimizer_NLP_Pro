@@ -1,0 +1,739 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/11/2020041827/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020041827
+WAALSE OVERHEIDSDIENST 
+ 11 JUNI 2020. - Besluit van de Waalse Regering van bijzondere machten nr. 47 betreffende het steunprogramma voor operatoren in de toeristische sector in het kader van de gezondheidscrisis COVID-19 
+VERSLAG 
+AAN DE WAALSE REGERINGI. Algemeen overzicht1. Ten gevolge van de lockdownmaatregelen 
+die de Nationale Veiligheidsraad (hierna NVR) ter bestrijding van COVID-19 vaststelde, nam de Waalse 
+Regering meerdere initiatieven om de economische sectoren te ondersteunen die leden onder een stopzetting 
+of een vertraging van hun activiteit.De algemene beleidsverklaring van de Waalse Regering 2019-2024 
+stelt het volgende vast: "Toerisme, of voor ontspanning of voor zaken, biedt in verschillende 
+gradaties talrijke kansen voor de economische ontwikkeling. Om de toeristische troeven van 
+Wallonië beter uit te spelen, is de Regering voornemens:- Het toerisme te beschouwen als een 
+volwaardige economische sector die rijkdom voortbrengt en veel werkgelegenheid verschaft in Wallonië". 
+Het toerisme staat in Wallonië immers voor een aanzienlijk economisch gewicht, namelijk: - 
+2.8 miljard € de jaarlijkse uitgaven; - 7.9 miljard € omzet ;- 3.6 miljard 
+€ bruto-toegevoegde waarde, goed voor 4.1% van de Waalse bruto-toegevoegde waarde ;- 84.000 
+arbeidsplaatsen ofte 59.000 voltijdsequivalenten. 2. De toeristische sector lijdt hard onder 
+de sanitaire crisis, hoofdzakelijk wegens de maatregelen van de NVR. Deze maatregelen werden eerst in 
+formele vorm gegoten bij een ministerieel besluit van 13 maart 2020 houdende dringende maatregelen ter 
+beperking van de verspreiding van het coronavirus COVID-19. Vervolgens werd dit ministerieel besluit 
+opgeheven en vervangen door het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen 
+ter beperking van het coronavirus COVID-19 (inwerkingtreding op 23 maart 2020). De maatregelen waarvan 
+sprake zijn de volgende: • Sluiting van restaurants, discotheken, bars en cafés;• 
+Afgelasting van alle recreatieve, culturele, folkloristische, sportieve, privé- of publieke activiteiten, 
+ongeacht de omvang ervan;- Zijn gesloten voor het publiek: musea, theaters, opera's, filmzalen, 
+culturele centra, bibliotheken, toeristische bezienswaardigheden, toeristische diensten, pretparken, 
+indoorpretparken, recreatiecentra en dierenparken;- Ook gesloten zijn sport- of fitnesszalen 
+(stages/individuele lessen inbegrepen), zwembaden; de toegang tot dergelijke ruimtes in hotels en vakantielogies 
+is eveneens verboden;- Alle massamanifestaties zijn verboden (carnavals, processies, tentoonstellingen 
+enz); afgelasting van alle grote evenementen zoals festivals, tot eind augustus;• Niet-essentiële 
+winkels en handelszaken moeten sluiten;• Niet-essentiële verplaatsingen zijn verboden. 
+Toeristische verplaatsingen worden als niet-essentieel beschouwd. Bovendien mag vanaf nu niemand meer 
+naar zijn tweede verblijf trekken;• Gites, campings, gastenverblijven, Airbnb en gemeubileerde 
+vakantiewoningen zijn toeristische inrichtingen die moeten sluiten;• Hotels mogen open 
+blijven om onderdak te bieden bij essentiële verplaatsingen (dus niet voor toeristische verblijven), 
+zonder mogelijkheid tot toegang tot een bar, gemeenschappelijke zalen of recreatieve ruimtes; de restaurants 
+van deze hotels moeten sluiten, behalve als ze de maaltijd op de kamer kunnen brengen. De bezettingsgraad 
+van de open gebleven hotels is laag.Overigens is, wat de luchtvaartsector betreft, de luchthaven 
+van Charleroi sinds 25 maart gesloten, Ryanair heeft bijna al zijn vluchten sinds 24 maart geschorst 
+en Brussels Airlines schorste al zijn vluchten sinds 20 maart.Ten slotte zijn de Europese grenzen 
+sinds 17 maart gesloten.Dit geeft voor de raming van de verloren omzet in de maanden maart, 
+april en mei 2020 volgende cijfers:   Toeristische 
+industrie in zijn geheel - totale omzet 1.159.747.798 € Toeristische industrie 
+in zijn geheel - totale omzet enkel aan toerisme verbonden  320.407.174 € Enkel 
+sectoren logies en toeristische bezienswaardigheden  128.369.087 €  De 
+operatoren met afgelaste activiteiten wegens opgelegd door de federale overheid in de Nationale Veiligheidsraad 
+krijgen ook te maken met gederfde ontvangsten die op hun beurt verminderde kasmiddelen en een gebrek 
+aan contante middelen veroorzaken. Daardoor dreigen stakingen van betalingen aan schuldeisers en nevengevolgen. 
+Zaak is dus, om onhoudbare economische situaties te temperen.3. Op 17 maart 2020 heeft het 
+Waals Parlement een decreet aangenomen tot toekenning van bijzondere machten aan de Waalse Regering in 
+het kader van de gezondheidscrisis COVID-19. In artikel 1, § 1, daarvan wordt bepaald 
+dat de Regering in de aangelegenheden die onder de bevoegdheid van het Waals Gewest vallen alle nuttige 
+maatregelen nemen om elke situatie te voorkomen en te behandelen die problemen stelt in het strikte kader 
+van de pandemie COVID-19 en de gevolgen ervan en die geregeld moet worden op straffe van ernstig gevaar. 
+4. Er is dus aan de Waalse Regering voorgesteld om alle dringende maatregelen te nemen ten 
+behoeve van de operatoren belast met toeristische activiteiten om er de leefbaarheid van te ondersteunen 
+en de blijvende gevolgen van de sanitaire crisis op de Waalse economie ongedaan te maken. Deze 
+vinden de grondslag van hun opbouw in een overkoepelend financieel steunprogramma op korte termijn waarvan 
+de perimeter vastgesteld werd op grond van de uitgeoefende toeristische activiteiten.De voorstellen 
+werden opgebouwd rond volgende richtsnoeren: - Contante middelen toekennen om stakingen van 
+betalingen bij schuldeisers en nevengevolgen te voorkomen en onhoudbare economische situaties te temperen;- 
+Overkoepelend beleid: de verschillende toeristische activiteiten beogen die geschorst zijn wegens de 
+maatregelen van de Nationale Veiligheidsraad; - De administratieve lasten van de behandeling 
+van de aanvraagdossiers ingediend zowel voor het Commissariaat-generaal voor Toerisme, dat ze zal beheren 
+overeenkomstig de regeling van artikel 5.D, § 1, 1°,  van het Waals Toerismewetboek1, als voor 
+de gerechtigden zo laag mogelijk houden; - Zorgen voor een budgettaire beheersing door projectiemechanismen 
+(cursoren en maximumbedragen) en de vaststelling van toegekende budgetten. Beoogd worden: - 
+De activiteiten in de evenementensector; - De activiteiten in de sector bezienswaardigheden; 
+- De activiteiten in verband met logies in de sector sociaal toerisme.Daarnaast zullen 
+de machtigingen voor een hervatting van activiteiten die de NVR zou kunnen nemen gepaard gaan met nieuwe 
+sanitaire vereisten waarvoor generische steun zal worden aangeboden. 5. De wetgevingstechniek 
+van de bijzondere machten wordt in overweging genomen. Wegens het overkoepelend karakter van de maatregelen 
+en met oog voor een vlotte leesbaarheid, wordt door de Regering een enkel besluit aangenomen. Daarin 
+wordt alle overwogen steun opgenomen, met voor elke maatregel daarvan een wetgevingsmaatregel voor het 
+gegrond maken van het recht op steun, daarnaast de uitvoeringsmaatregelen met betrekking tot met name 
+de toekenningscriteria en -regels. 6. Op 2 juni 2020 werd de Raad van State, afdeling wetgeving, 
+door de Minister van Ambtenarenzaken, Toerisme, Erfgoed en Verkeersveiligheid van het Waals Gewest verzocht 
+advies uit te brengen binnen een termijn van vijf werkdagen over een ontwerp-besluit van de Waalse Regering 
+van bijzondere machten nr. xx houdende het steunprogramma voor operatoren in de toeristische sector in 
+het kader van de sanitaire crisis in verband met COVID-19.Het advies van de Raad van State 
+werd uitgebracht op 9 juni 2020 (advies 67/523/4).7. Dit besluit kadert in deze context en 
+strekt ertoe, een steunprogramma vast te stellen voor de toeristische operatoren.II. Bespreking 
+van de artikelen HOOFDSTUK I. - Verhoging van de subsidiëring van de door het Commissariaat-generaal 
+voor Toerisme erkende Huizenvoor toerisme voor de verwezenlijking van de acties en campagnes 
+voor de promotie van het toerisme in hun ambtsgebiedArtikel 1 strekt ertoe, de subsidiëring 
+van de huizen voor toerisme, erkend door het Commissariaat-generaal voor Toerisme, te versterken voor 
+de uitvoering van de acties en campagnes voor de promotie van het toerisme in hun activiteitengebied, 
+in het kader van de relance van de sector volgend op de sanitaire crisis veroorzaakt door COVID-19. Artikel 
+594.D van het Waals Wetboek voor Toerisme voorziet in een subsidiepercentage van de huizen voor toerisme 
+voor de acties of campagnes voor promotie van het toerisme in hun activiteitengebied van 40% of 50% (bij 
+acties die minstens twee huizen voor toerisme samen uitvoeren), met een maximumbedrag vastgesteld overeenkomstig 
+de procedure bedoeld in artikel 595.D.De vaststelling van een tegemoetkomingspercentage houdt 
+de facto een financiële bijdrage in van de huizen voor toerisme die in verhouding staat tot de percentages 
+van de niet gesubsidieerde uitgegeven uitgaven. Zij moeten dus over de financiële draagkracht beschikken 
+om deze bedragen te dekken in de vorm van eigen ontvangsten of andere financiële deelnames.  Ten 
+opzichte van de aangekondigde perspectieven ten gevolge van de sanitaire crisis COVID-19 moeten toeristen 
+onvoorwaardelijk beschikken over alle nuttige, aantrekkelijke en volledige informatie op activiteitenborden 
+die zij te lezen krijgen. De huizen voor toerisme zijn het professionele referentieniveau voor 
+het toerisme dat een vermazing van het grondgebied van het Waals Gewest verzekert.Daarom is 
+beslist om het subsidiëringspercentage bedoeld in artikel 594.D van het Waals Toerismewetboek op 100% 
+te brengen. Deze maatregel geeft de huizen voor toerisme de middelen om hun opdrachten volledig 
+te dekken en het operationeel potentieel op te voeren in termen van promotie om de gevolgen van de sanitaire 
+crisis COVID-19 op te vangen. Het tweede lid voorziet in een voorwaarde voor de toekenning 
+van de subsidie aan de huizen voor toerisme. Deze voorwaarde streeft ernaar dat de huizen voor toerisme 
+zich in het communicatieplan positioneren dat ingevoerd zal worden met het oog op de relance in de sector 
+na de sanitaire crisis veroorzaakt door COVID-19.HOOFDSTUK II. - Subsidiëring voor operatoren 
+in de toeristische sector die doorgaans toeristische evenementen met een regionale toeristische bestemming 
+organiseren, voor de kosten in verband met de organisatie van evenementen met een regionale toeristische 
+bestemming die tussen 14 maart 2020 en 31 augustus 2020 werden afgelastSubsidiëring voor afgelastParagraaf 
+1 is gewijd aan een subsidie ter dekking van de financiële verbintenissen die de toeristische operatoren 
+aangegaan hebben in het kader van de organisatie van evenementgebonden activiteiten met een regionale 
+toeristische bestemming. Sinds de beslissing van de Nationale Veiligheidsraad van 12 maart 
+2020, die in het ministerieel besluit van 13 maart 2020 is vastgesteld, werden alle recreatieve, culturele, 
+folkloristische, sportieve, privé- of publieke activiteiten, ongeacht de omvang ervan, vanaf 14 maart 
+en tot herroeping daarvan afgelast.De operatoren die doorgaans evenementgebonden activiteiten 
+met een regionale toeristische bestemming organiseren kunnen heden binnen de perken van de beschikbare 
+begrotingskredieten over facultatieve subsidies beschikken voor de promotie van deze activiteiten op 
+basis van de omschrijvende inhoud van basisallocatie 33.01 van het jaarlijks begrotingsdecreet van het 
+Commissariaat-generaal voor Toerisme.De instandhouding van de subsidiëring voor de promotie 
+van deze afgelaste activiteiten is zinloos geworden en kan juridisch niet langer meer worden verantwoord. 
+Toch dient vastgesteld dat de organisatie van evenementgebonden activiteiten met een regionale 
+toeristische bestemming talrijke andere financiële verbintenissen inhoudt naast de promotie, hoofdzakelijk 
+lang voor de datum van het geprogrammeerd evenement (boeking van de zaal, brouwers, hygiëne, veiligheid, 
+artiestenprestaties enz) waaraan de operatoren en ondergeschikte besturen zich niet kunnen onttrekken 
+daar zij aan contracten gebonden zijn.Paragraaf 2 bepaalt dat dit financiële steunmechanisme 
+de vorm aanneemt van een subsidiëring van de uitgaven aangegaan voor ieder evenement voorafgaand aan 
+de datum waarop de maatregelen van de Nationale Veiligheidsraad werden aangekondigd, namelijk 12 maart 
+2020. Met andere woorden, alle verbintentissen die voor 14 maart 2020 contractueel bij derden 
+werden aangegaan voor bedoeld evenement komen in aanmerking. Een schriftelijk contract is niet 
+onontbeerlijk. Het overmaken van een factuur of van een bestelbon kan het bestaan bewijzen van een juridische 
+verbintenis in een contractueel kader. In dat geval dienen de factuur of bestelbon te dateren van voor 
+14 maart 2020, behalve indien bij elk rechtsmiddel aangetoond wordt dat er wel degelijk vooraf een op 
+die datum gesloten rechtsverbintenis bestond. Die uitgaven komen niet in aanmerking als de 
+contractuele verbintenis een expliciete afgelastingsclausule van de verplichting tot betaling inhoudt. 
+Daaronder worden verstaan, de uitgaven die door de organisator van het evenement geschrapt worden wegens 
+een expliciete afgelastingsclausule, zij kunnen de toekenning van de subsidie niet verantwoorden. Het 
+bestaan van een duidelijke afgelastingsclausule zorgt ervoor dat de uitgave niet in aanmerking komt, 
+zelfs als de organisator ervan afziet, deze clausule in te roepen en daadwerkelijk deze uitgave zou hebben 
+betaald. De juridische verbintenis in een contractueel kader moet met een derde zijn afgesloten. 
+Dat betekent dat de medeondertekenaar van het contract geen deel mag uitmaken van de organisator van 
+de toeristische sector. De loonuitgaven voor personeelsleden, via een arbeidsovereenkomst tewerkgesteld 
+door de organisator van de toeristische dienst, komen niet in aanmerking, evenmin als de uitgaven voor 
+een bestuurder van de organisator van een evenement. De subsidies worden vereffend na voorlegging 
+van de aangegane kosten, met dien verstande dat de daadwerkelijke betaling later kan plaatsvinden. Doel 
+van de maatregel is immers ervoor te zorgen dat de organisatoren van evenementen over genoeg contante 
+middelen beschikken om hun leveranciers schadeloos te stellen. De toekenning van de subsidie is dus niet 
+verbonden aan de voorwaarde van de voorafgaandelijke betaling van de leveranciers, maar die betaling, 
+die in voorkomend geval later plaatsvindt, is onontbeerlijk. Paragraaf 3 voorziet in de voorwaarden 
+voor de toekenning van deze subsidie. Die criteria voor het in aanmerking nemen van de evenementgebonden 
+activiteit met een toeristische inslag zijn net dezelfde als de criteria voor de toepassing, door de 
+administratieve rechtspraak van het Commissariaat generaal voor Toerisme, voor de facultatieve subsidie 
+voor de promotie. Aldus komen in aanmerking voor de maatregel, de operatoren die doorgaans 
+evenementgebonden activiteiten met een toeristische bestemming en een regionaal bereik organiseren. Het 
+criterium van tijdsgebonden terugkeer is bepalend. Uitgesloten en niet beoogd zijn de activiteiten 
+waarvan het cultureel, sportief, milieu- of nog erfgoedgericht evenementgebonden karakter overwegend 
+is. Uitgesloten zijn eveneens de evenementgebonden activiteiten met een hoofdzakelijk lokaal bereik.Het 
+regionaal bereik van het evenement wordt beoordeeld naar:- Het aantal deelnemers aan het evenement;- 
+De rechtstreekse en de onrechstreekse economische effecten;- Het volume van de uitgaven aangegaan 
+door de operator voor de organisatie van het evenement;- De weerklank van het evenement op 
+het imago van Wallonië als reisdoel. De activiteit had moeten plaatsvinden tussen 14 maart 
+2020 en 31 augustus 2020 inbegrepen. De activiteit die zich over meerdere dagen zou afspelen en waarvan 
+sommige dagen buiten die periode liggen, komen in aanmerking als minstens één dag in die periode vervat 
+is. In functie van de analyse van de verschillende evaluatiecriteria inzake het regionaal bereik 
+van de evenementgebonden activiteit wordt het steunbedrag door het Commissariaat-generaal voor Toerisme 
+ter beslissing voorgelegd aan de Minister van Toerisme. In zijn advies 67.523/4 heeft de afdeling 
+wetgeving van de Raad van State geacht dat het de fundamentele elementen van deze regeling aan precisie 
+ontbrak. Er dient evenwel aangestipt dat deze bevoegdheid tot toekenning van een subsidie volgens 
+het voornemen van de steller van de tekst in een discretionaire beoordelingsbevoegdheid kadert. De rechtsleer 
+heeft een onderscheid gemaakt tussen de gebonden bevoegdheid en de discretionaire bevoegdheid inzake 
+subsidie: "De subsidie wordt door de tekst ingevoerd (...) evenals door de uitvoeringsbesluiten 
+ervan, die dienen om te bepalen of de bevoegdheid van de subsidiërende overheid gebonden dan wel discretionair 
+is.Als het bedrag van de subsidie, de toekenningsvoorwaarden ervan en de gerechtigden er nauwkeurig 
+en objectief in omschreven staan, betreft het een gebonden bevoegdheid (...).(...). Als de 
+teksten de subsidiërende overheid een beoordelingsbevoegdheid verlenen, betreft het integendeel een discretionaire 
+bevoegdheid (...)." (J. De Beys, B. Gors et Ch. Thiebaut, « La procédure d'octroi des subventions » in 
+D. Renders (dir.), Les subventions, Brussel, Larcier, 2011, blz. 310-311).Ter zake is deze 
+subsidiëring erop gericht, discretionair van aard te zijn: de subsidiërende overheid beschikt over een 
+ruime beoordelingsbevoegdheid zowel wat betreft de erkenning van de hoedanigheid van "operatoren van 
+de toeristische sector die doorgaans evenementgebonden activiteiten met een regionale toeristische bestemming 
+organiseren" als wat betreft het begrip "regionale toeristische bestemming". Hetzelfde geldt voor de 
+omvang van de toeristische impact, die bepalend is voor het subsidiebedrag. De subsidiërende 
+overheid zal in de praktijk op de administratieve rechtspraak kunnen bogen zoals zij tot stand is gekomen 
+bij de toekenning van subsidies aan de toeristische operatoren voor evenementen die beschouwd worden 
+als van regionaal belang.Paragraaf 4 gaat nader in op de verplichting om een subsidieaanvraag 
+in te dienen. Om de administratieve stappen die de operatoren dienen te ondernemen zo goed 
+mogelijk te beperken, worden de aanvragen voor een facultatieve subsidie voor de promoties, ingediend 
+voor 14 maart 2020 in het kader van de promotie-activiteiten, geacht aanvragen te zijn die geldig zijn 
+ingediend in het kader van de nieuwe tegemoetkoming. Paragraaf 5 bepaalt de subsidiebedragen, 
+vastgesteld als volgt: 6.000 €, 10.000 €, 15.000 €, 20.000 € of 25.000 €. Het 
+juiste bedrag wordt door de Minister belast met Toerisme vastgesteld in functie van de belangrijkheid 
+van de evenementgebonden activiteit voor het regionaal toerisme. Die belangrijkheid wordt beoordeeld 
+tegen het licht van de criteria bedoeld in artikel 4, § 3, 3°  (a) (aantal deelnemers, bedrag 
+van de financiering, economische effecten...). Paragraaf 6 bevestigt de controlebevoegdheid 
+van het Commissariaat-generaal voor Toerisme.Om deze controle mogelijk te maken, krijgt de 
+operator van de toeristische sector of het ondergeschikte bestuur, in bijlage bij de princiepsbeslissing 
+tot toekenning van de subsidie bedoeld in § 1, een aangifte van het type schuldvordering. De operator 
+heeft de verplichting om die schuldvorderingsaangifte, behoorlijk ingevuld, terug te sturen naar het 
+Commissariaat-generaal voor Toerisme. Bij een teveel geïnd bedrag dient de toeristische operator 
+het deel van de subsidie terug te betalen dat het bedrag dat hij daadwerkelijk betaald heeft voor de 
+organisatie van de afgelaste activiteit, te boven gaat. Overigens is dit de bevestiging van het algemeen 
+rechtsprincipe dat zegt dat iedere subsidie, bestemd voor andere doelen dan die waarvoor zij bestemd 
+is, terugbetaald dient te worden. De operator heeft de verplichting om zijn medecontractant 
+daadwerkelijk te betalen, in voorkomend geval na ontvangst van de subsidie. Hij dient dus in staat te 
+zijn om deze betaling te bewijzen en stelt zich bloot aan een eis tot terugbetaling van het subsidiebedrag 
+indien hij niet in staat is om op zijn minst de daadwerkelijke betaling te bewijzen van uitgaven die 
+minstens gelijkwaardig zijn aan gekregen subsidiebedrag. HOOFDSTUK III. - Steun voor de toeristische 
+attracties toegelaten door het Commissariaat-generaal voor Toerisme voor de onderhoudskosten van hun 
+infrastructuur tijdens de periode van verplichte sluiting voor het publiek als gevolg van de maatregelen 
+van de Federale Overheid om de verspreiding van het coronavirus COVID-19 te beperkenArtikel 
+3, paragraaf 1, verwijst naar artikel 1, 5°. D van het Waals Toerismewetboek, waarin een begripsomschrijving 
+opgenomen is van wat onder een toeristische bezienswaardigheid wordt verstaan:"5°  toeristische 
+bezienswaardigheid: de plaats van bestemming, bestaande uit een geheel van geïntegreerde en duidelijk 
+identificeerbare activiteiten en diensten van een bestendige infrastructuur, die op regelmatige wijze 
+uitgebaat wordt als natuurlijke, culturele of recreatieve waardevolle kern en die aangelegd is met het 
+doel toeristen, dagtoeristen en plaatselijke bezoekers zonder voorafgaandelijke reservering te ontvangen;Kermisattracties, 
+plaatsen die eenvoudigweg materieel te huur aanbieden, landschappen, steden, vrij toegankelijke plaatsen 
+en plaatsen bestemd voor loutere sportbeoefening, voor de organisatie van spektakels, cultuur-, sportevenementen 
+of feestelijkheden vormen geen toeristische bezienswaardigheid". Er dient naar deze begripsomschrijving 
+verwezen voor de uitvoering van de steunmaatregel overwogen in dit hoofdstuk. Bij beslissing 
+van de Nationale Veiligheidsraad van 12 maart 2020 werden alle toeristische bezienswaardigheden vanaf 
+14 maart gesloten.Bij beslissingen van de Nationale Veiligheidsraad van 6 mei, 13 mei en 3 
+juni wordt de heropening van de bezienswaardigheden geprogrammeerd voor sommige op 18 mei, andere op 
+8 juni en andere nog op 1 juli mits specifieke sanitaire maatregelen. Over de periode van schorsing 
+van hun activiteiten hebben de toeristische bezienswaardigheden dus geen enkele ontvangst in verband 
+met inkomgelden geïnd.Overigens hebben de toeristische bezienswaardigheden over diezelfde periode 
+kosten moeten dragen voor de instandhouding en het onderhoud van hun infrastructuren, waaronder sommige 
+permanent zijn en dus gemaakt moesten worden gedurende de periode van opschorting van hun activiteiten. 
+Om deze operatoren te ondersteunen, beslist de Regering een financieel steunmechanisme in te 
+voeren voor de operatoren, om deel te nemen aan het dekken van de kosten inherent aan de instandhouding 
+en aan het onderhoud van de infrastructuren van de toeristische bezienswaardigheden ten opzichte van 
+het toeristisch gewicht van de betrokken bezienswaardigheid. Paragraaf 2 voorziet in de voorwaarden 
+voor de toekenning van deze steun. In aanmerking komen voor de maatregel, de operatoren gemachtigd 
+door het Commissariaat generaal voor Toerisme krachtens de artikelen 110.D en volgende van het Waals 
+Toerismewetboek op de datum van inwerkingtreding van het besluit. Paragraaf 3 verstrekt de 
+formule voor de berekening van het steunbedrag. Er wordt van uitgegaan dat de ontvangsten gebonden 
+aan de toegangsprijzen een minimumdekking vormen voor de kosten gebonden aan de infrastructuren van de 
+bezienswaardigheden, zonder welke de rendabiliteit van de activiteiten niet gewaarborgd kan worden. Bijgevolg 
+is de aangenomen methodologie voor de berekening om het bedrag van de steun, toegekend aan de operatoren, 
+vast te stellen. Criteria die in overweging worden genomen: - Daggemiddelde van de 
+betalende bezoeken over het jaar (betalende bezoekers 2019 / 365);- Forfaitair vastgesteld 
+bedrag bij elk betalend bezoek, bestemd voor onderhoud van de infrastructuren : 1,25 €;- 
+Aantal dagen waarop de bezienswaardigheid gesloten is, met een maximum van 86 dagen.Het bedrag 
+van de steun, toegekend aan de operatoren, wordt vastgesteld door vermenigvuldiging van deze drie factoren. 
+Het daggemiddelde van de betalende bezoeken wordt berekend met als basis de betalende bezoeken 
+van het jaar 2019. Dat aantal bezoekers wordt over het kalenderjaar 2019 berekend (van 1 januari tot 
+31 januari 2019), en zonder inoverwegingname van de volledige duur van de toeristische activiteit van 
+de inrichting, om een gemeenschappelijk en eenvoudige rekenregel te behouden. Om het aantal 
+bezoekers te objectiveren en een gelijke behandeling te garanderen, is het aantal bezoekers gelijk aan 
+het "in tempore non suspecto" door de operator verstrekte getal overeenkomstig artikel 131, 11°,  van 
+het Wetboek, luidende: "De vergunninghouder verstrekt het Commissariaat-generaal voor Toerisme 
+uiterlijk 31 januari van elk jaar de gegevens over de toeristische bezoekersaantallen van het afgelopen 
+kalenderjaar, met inbegrip van de economische basisindicatoren en volgens de wijze bepaald door het Commissariaat-generaal 
+voor Toerisme".De berekeningsmethode voor de bezoekers werd door het "Observatoire wallon du 
+Tourisme" vastgelegd op basis van statistieke normen, zodat dit voor alle operatoren een gelijke toepassing 
+garandeert. Op vraag van het "Observatoire wallon du Tourisme", dat de bezienswaardigheden bevraagt in 
+verband met de bezoekersaantallen, worden de seizoenskaarten niet bij elk bezoek in rekening gebracht, 
+maar enkel bij aankoop ervan. Er is dus geen veelvuldige berekening : elk abonnement telt voor één bezoek.Het 
+maximumaantal in rekening gebrachte sluitingsdagen, namelijk 86, werd berekend in functie van de periode 
+van 14 maart tot en met 7 juni 2020. Hier dient aangestipt dat dat aantal, rekening houdende met dwingende 
+begrotingsfactoren, tot een maximum van 86 wordt beperkt.Het aantal dagen waarop de bezienswaardigheid 
+gesloten is, wordt in kalenderdagen geteld. Het feit dat de bezienswaardigheid hoe dan ook op sommige 
+van die dagen gesloten zou zijn geweest (wekelijkse of seizoensgebonden sluitingsdagen enz) heeft geen 
+enkel effect. Ten slotte mag het bedrag van van de toegekende steun niet lager zijn dan 1.000 
+€, noch hoger dan 200.000 €.HOOFDSTUK IV. - Ondersteuning van de verenigingen voor 
+sociaal toerisme, erkend door het Commissariaat-generaal voor Toerisme, voor onderhoudskosten voor hun 
+infrastructuren voor toeristische logiesverstrekking van 14 maart 2020 tot 7 juni 2020Artikel 
+4, paragraaf 1, strekt ertoe steun toe te kennen ten gunste van de verenigingen voor sociaal toerisme 
+bedoeld in artikel 1, 48°,  van het Waals Toerismewetboek (waarin sociaal toerisme omschreven wordt als 
+"de vrijetijds- en vakantieactiviteiten die op zodanige wijze door een vereniging georganiseerd worden 
+dat elke persoon, en meer in het bijzonder de economisch en cultureel mindergegoeden, de beste praktische 
+voorwaarden aangeboden worden om daadwerkelijk toegang te krijgen tot die activiteiten") en die erkend 
+zijn krachtens artikel 313.D van het Waals Toerismewetboek op de datum van inwerkingtreding van het besluit 
+voor de onderhoudskosten van hun toeristische logiesinfrastructuren, gemaakt tijdens de periode van 14 
+maart 2020 tot en met 7 juni 2020 tijdens welke deze logiesvertrekkende inrichtingen voor het publiek 
+gesloten waren wegens de opeenvolgende beslissingen van de federale overheid.Deze steun wordt 
+aan de vereniging voor sociaal toerisme zelf gestort, daar het de enige erkende marktdeelnemer is (die 
+overigens over de rechtspersoonlijkheid bescikt) in de sector in het Waals Toerismewetboek.Paragraaf 
+2 voorziet in de toekenningsvoorwaarden. Er dient aangestipt: - voor wat het hotelwezen 
+betreft werden de logiesverstrekkende activiteiten door de federale overheid niet opgeschort; - 
+voor wat betreft de streekgebonden logiesverstrekking worden de activiteiten ofwel in hoofdactiviteit 
+uitgeoefend met beroepsinkomsten onder een rechtsstatuut dat het voordeel van de steunmaatregel aan de 
+zelfstandigen en de kmo's, vastgesteld door de Regering, mogelijk maakte, ofwel als activiteiten in bijberoep 
+waardoor ze geen hoofdactiviteit vormen (geen hoofdinkomen); - voor wat betreft de logiesverstrekkingen, 
+niet gemachtigd door het Commissariaat generaal voor Toerisme betreft, zij ontsnappen geheel en al aan 
+deregulering en aan de controle van de toeristische activiteiten door het Comissariaat en zijn niet onderworpen 
+aan enige aangifte van toeristische hoofdactiviteiten. Om deze redenen komen de categorieën 
+als bovenbedoeld niet in aanmerking voor de maatregel.Overigens dient, onder de talrijke gevolgen 
+van de sanitaire crisis, bijzondere aandacht geschonken te worden aan toeristen met een economisch verzwakte 
+portefeuille voor wie de gebruikmaking van logiesverstrekkingen in het sociaal toerisme geen loutere 
+keuze, maar de enige uitweg is. De operatoren in het sociaal toerisme bieden kwaliteitsvolle 
+logiesverstrekkingen tegen een solidaire prijs aan. De Regering heeft dus beslist, ze te ondersteunen 
+via een financiële steun waardoor zij bij de hervatting van activiteiten onderhouden kwaliteitsvolle 
+logies kunnen aanbieden, om de overdracht van de kosten, gemaakt voor het onderhoud van deze logies gedurende 
+de periode van opschorting van hun activiteiten, op de voorgestelde prijzen te kunnen temperen.Paragraaf 
+3 verstrekt de formule voor de berekening van het steunbedrag. De berekeningsmethode die voorgesteld 
+wordt om het bedrag van de steun toegekend aan de operatoren voor sociaal toerisme vast te stellen, wordt 
+in samenhang met hoofdstuk 4 vastgelegd, "Ondersteuning voor de instandhouding van de infrastructuren 
+van de toeristische bezienswaardigheden". Uitgaande van het principe dat het Commissariaat 
+generaal voor Toerisme niet over de specifieke bezoekcijfers beschikt voor elke logiesverstrekking in 
+het sociaal toerisme, wordt het criterium dat gekoppeld is aan het daggemiddelde van de betalende bezoekers 
+over één jaar niettemin vervangen door de beddencapaciteit van de logiesverstrekkingen. De 
+ontvangsten in verband met de prijs van de overnachtingen dekken op zijn minst de kosten verbonden aan 
+het onderhoud van de logiesverstrekkingen in het sociaal toerisme, wil de rendabiliteit van activiteit 
+behouden blijven. Criteria die in overweging worden genomen: - Capaciteit van de 
+logiesverstrekkingen inzake aantal bedden: - Forfaitair vastgesteld bedrag bij elke betalende 
+overnachting, bestemd voor onderhoud van de logiesverstrekkingen: 1,25 €;- Het aantal 
+sluitingsdagen van de logiesverstrekking wordt vastgesteld op 82 dagen ter dekking van de periode van 
+18 maart tot en met 7 juni.Het bedrag van de steun, toegekend aan de operatoren, wordt vastgesteld 
+door vermenigvuldiging van deze drie factoren.HOOFDSTUK V. - Steun voor sommige toeristische 
+instellingen, toeristische logiesverstrekkingen en toeristische bezienswaardigheden gemachtigd of erkend 
+door het Commissariaat-generaal voor Toerisme voor de kosten betreffende het invoeren van de voor de 
+hervatting van de activiteiten verplichte sanitaire maatregelenDe hervatting van de activiteiten 
+dient gepaard te gaan met de sanitaire maatregelen door de federale overheid vastgesteld ten gevolge 
+van de Nationale Veiligheidsraad van 3 juni 2020.Artikel 5 heeft als doel de steun voor kosten 
+voor het invoeren van de sanitaire maatregelen verplicht voor de hervatting van activiteiten. De 
+toeristische operatoren die de invoering van sanitaire maatregelen als voorwaarde voor de hervatting 
+van activiteiten kregen opgelegd zullen uitgaven moeten maken waaraan de Regering voorstelt deel te nemen. 
+Paragraaf 1 bakent de potentiële gerechtigden van deze steun af. Het betreft toeristische logiesverstrekkingen, 
+verenigingen voor sociaal toerisme en toeristische bezienswaardigheden gemachtigd of erkend door het 
+Commissariaat generaal voor Toerisme.Paragraaf 2 wijst op de voorwaarden waaraan de actoren 
+bedoeld in paragraaf 1 moeten voldoen om de steun te krijgen.Om voor die steun in aanmerking 
+te komen, dienen de toeristische operatoren gemachtigd te zijn door het Commissariaat generaal voor Toerisme 
+op de datum van inwerkingtreding van het besluit en op het tijdstip van vereffening van de steun.Daarbij 
+moet de operator, voor wat betreft de toeristische logiesverstrekkingen, als hij deze voorwaarde niet 
+vervult op het tijdstip van vereffening van de steun, het bewijs leveren dat de aanvraag voor hernieuwing 
+van de machtiging is ingediend. Overigens zal de operator zich ertoe moeten verbinden, de sanitaire 
+maatregelen, op het tijdstip van indiening van de steunaanvraag opgelegd door de federale overheid, na 
+te leven. Paragraaf 3 gaat dieper in op de berekening van het toegekende forfaitair bedrag, 
+vastgesteld per categorie of subcategorie operatoren uit de toeristische sector. De bedragen 
+van de toegekende steun worden forfaitair bepaald in functie van de activiteiten die de operatoren voorzien, 
+en voor sommigen onder hen, a rato van het toeristisch gewicht van de activiteiten die zij voorzien, 
+met maximumbedragen per schaal. Volgende berekeningsmethode werd vastgesteld: - Logiesverstrekkingen 
+onder huurgeld (toeristische accommodatie op het platteland, verblijven op de boerderij, vakantiewoningen 
+in de stad en gemeubileerde vakantiewoningen): 600 € forfaitair per gemachtigde logiesverstrekking 
+onder huurgeldregeling;- gastenkamers: 300 € vast voor de gezamenlijke gastenkamers of 
+gastenkamers op de boerderij, gelegen op éénzelfde uitbatingslocatie;- hotelinrichtingen wegens 
+het toeristisch gewicht onder verwijzing naar de wooneenheden: 1.000 € vast + 10 € per kamer; 
+- campings a rato van het toeristisch gewicht onder verwijzing naar de kampeerplaatsen: 1.000 
+€ vast + 5 € per kampeerplaats;- vakantiedorpen a rato van het toeristisch gewicht 
+onder verwijzing naar het aantal verblijfseenheden: 1.000 € vast + 10 € per verblijfseenheid;- 
+logiesverstrekkingen voor sociaal toerisme, a rato van het toeristisch gewicht onder verwijzing naar 
+het aantal bedden: 1.000 € vast + 10 € per bed ; - bezienswaardigheden, rato van 
+het toeristisch gewicht onder verwijzing naar het aantal betalende bezoekers: 1.000 € vast + 0.2 
+€ per betalende bezoekers, te ramen voor de rest van de toeristische periode (daggemiddelde van 
+de betalende bezoekers van het jaar 2019 vermenigvuldigd met het aantal dagen begrepen tussen de openingsdatum 
+toegelaten door de federale overheid, namelijk 18 mei 2020, 8 juni 2020 of 1 juli 2020, en 30 november 
+2020 inbegrepen). Het einde van de toeristische periode wordt vastgesteld op 30 november 2020 
+en is een realistische overeenstemming met de sluiting van de meeste bezienswaardigheden.Paragraaf 
+4 bevestigt de controlebevoegdheid van het Commissariaat-generaal voor Toerisme. Er kan een a posteriori 
+controle over de werkelijk gemaakte uitgaven doorgevoerd worden, met verplichting tot terugbetaling voor 
+de operatoren, in voorkomend geval, voor het deel van de steun dat het bedrag van de uitgaven te boven 
+gaat. HOOFDSTUK VI. - Nadere regels voor het indienen van de subsidie-en steunaanvragen 
+bedoeld in de hoofdstukken 2 tot 5Artikel 6 voorziet in nadere regels voor het indienen van 
+de subsidie- en steunaanvragen. Enkel de aanvragen ingediend op basis van de type-formulieren, vastgesteld 
+door het Commissariaat-generaal voor Toerisme, zijn ontvankelijk. Enkel de aanvragen ingediend 
+via het on line formulier dat ingevuld kan worden op de website van het Commissariaat generaal voor Toerisme 
+of bij gecertificeerde elektronische zending van het formulier, overeenstemmend met de subsidie of de 
+steun, behoorlijk ingevuld met een duidelijk aangeduid e-mail adres, zijn ontvankelijk.Alle 
+aanvragen worden uiterlijk 30 juni 2020 ingediend. HOOFDSTUK VII. - Slot- en overgangsbepalingenArtikel 
+7 bepaalt dat het besluit in werking treedt daags na aanneming ervan door de Waalse Regering.Artikel 
+8 bepaalt dat de Minister bevoegd voor Toerisme belast is met de uitvoering van dit besluit._______Nota's 
+1 Art. 5D van het Waals Toerismewetboek. «  § 1.Het Commissariaat-generaal voor Toerisme 
+wordt belast met:1°  de uitvoering van het algemeen toerismebeleid van de Regering;...".Advies 
+van de Raad van State nr. 67.523/4 van 9 juni 2020Afdeling wetgevingOp 2 juni 2020 
+werd de Raad van State, afdeling wetgeving, door de Minister van Ambtenarenzaken, Informatica, Administratieve 
+Vereenvoudiging, belast met kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid van het Waals Gewest 
+verzocht binnen een termijn van vijf werkdagen advies uit te brengen over een ontwerp-besluit van de 
+Waalse Regering `van bijzondere machten nr. ... betreffende het steunprogramma voor operatoren in de 
+toeristische sector in het kader van de gezondheidscrisis COVID-19'.Het ontwerp werd door de 
+vierde kamer onderzocht op 9 juni 2020. De kamer was samengesteld uit Martine Baguet, voorzitster van 
+de kamer, Luc Cambier en Bernard Blero, Staatsraden, en Anne-Catherine Van Geersdaele, griffier.Verslag 
+werd uitgebracht door Benoit Jadot, eerste auditeur afdelingschef.Het advies met onderstaande 
+tekst werd uitgebracht op 9 juni 2020.  Volgens artikel 84, § 1, eerste lid, 3°,  van 
+de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, dienen in de adviesaanvraag in het 
+bijzonder de motieven te worden opgegeven die het dringend karakter verantwoorden.Het schrijven 
+luidt als volgt:"Gelet op de dringende noodzakelijkheid, ingegeven door het feit dat de maatregelen, 
+afgekondigd door de Nationale Veiligheidsraad van 12 maart 2020 en het ministerieel besluit van 23 maart 
+2020 houdende dringende maatregelen ter beperking van de verspreiding van het coronavirus COVID-19 met 
+name de afgelasting eisen van alle activiteiten van culturele, feestelijke, folkloristische, sportieve, 
+toeristische en recreatieve aard, evenals de sluiting voor het publiek van de toeristische operatoren 
+vanaf 14 maart 2020;Dat de toeristische operatoren wier activiteiten zijn geschorst of afgelast 
+verder te maken hebben met onderhoudskosten voor hun infrastructuur of uitgaven die vastgelegd werden 
+voor de beslissing van de Nationale Veiligheidsraad van 12 maart 2020;Dat ze te maken hebben 
+met het uitblijven van ontvangsten, waardoor het kasgeld vermindert en er een gebrek aan liquide middelen 
+ontstaat; Dat de stakingen van betalingen aan de schuldeisers van de toeristische operatoren 
+en aanverwante gevolgen dreigen voor te komen, met eventueel ondraaglijke gevolgen op economisch vlak;Dat 
+de hervatting van de activiteiten van de toeristische operatoren verplicht de invoering van sanitaire 
+maatregelen inhoudt;Dat bijgevolg dringende maatregelen aangenomen dienen te worden ten gunste 
+van de toeristische operatoren om hun leefbaarheid te ondersteunen en te voorkomen dat er een massaal 
+domino-effect op de Waalse economie ontstaat;Dat deze steun en subsidies onverwijld gestort 
+moeten kunnen worden en dat de dringende noodzakelijkheid dus verantwoord is".Daar de adviesaanvraag 
+is ingediend op grond van artikel 84, § 1, lid 1, 3°,  van de wetten `op de Raad van State', gecoördineerd 
+op 12 januari 1973, beperkt de afdeling wetgeving haar onderzoek tot de rechtsgrond van het ontwerp, 
+tot de bevoegdheid van de steller van de akte en tot het voltooien van de voorafgaandelijke vormvereisten, 
+overeenkomstig artikel 84, § 3, van voornoemde gecoördineerde wetten.Op deze drie punten 
+geeft het ontwerp aanleiding tot volgende bemerkingen.ALGEMENE BEMERKINGENOm de voorwaarden 
+voor de toekenning van de subsidies en de steun te bepalen, zoals ze geregeld geacht te worden in de 
+hoofdstukken 3 tot 7 van het ontwerp-besluit, wordt hierin gewag gemaakt van maatregelen die de subsidie- 
+en steunaanvragers moeten of hebben moeten toepassen ten gevolge van beslissingen van de Nationale Veiligheidsraad. 
+De hoofdstukken 3 tot 5 bakenen bovendien de periodes af waarin deze maatregelen toegepast moesten zijn 
+om het toekennen van de subsidies en steun waarvan sprake mogelijk te maken.Dit geeft aanleiding 
+tot volgende algemene bemerkingen:1. Krachtens artikel 3, lid 1, van het koninklijk besluit 
+van 28 januari 2015 `tot oprichting van de Nationale Veiligheidsraad' bepaalt de Raad "het algemeen inlichtingen- 
+en veiligheidsbeleid, verzekert zijn coördinatie en bepaalt de prioriteiten van de inlichtingen- en veiligheidsdiensten".De 
+Nationale Veiligheidsraad speelt een beslissende rol in het vaststellen van de maatregelen ter beperking 
+van de verspreiding van het coronavirus COVID-19.Er dient evenwel vastgesteld dat de door de 
+Raad genomen beslissingen vanzelf geen juridisch dwingende draagwijdte hebben. Er dienen andere beslissingen 
+te worden genomen om via bepalingen met dwingende kracht de maatregelen vast te stellen ter beperking 
+van de verspreiding van COVID-19. Zo werden, en worden nog steeds, zoals aangegeven in de nota en in 
+het verslag aan de Waalse Regering, verschillende opeenvolgende besluiten van de federale Minister van 
+Veiligheid en Binnenlandse Zaken aangenomen en om de maatregelen ter zaken, genomen door de Nationale 
+Veiligheidsraad, te "formaliseren".Daarom wordt aanbevolen om in het besluit in ontwerp te 
+voorkomen dat specifiek verwezen wordt naar de beslissingen van de Nationale Veiligheidsraad.De 
+beste oplossing zou eerder hierin bestaan:a) op generische wijze verwijzen naar de maatregelen 
+genomen door de federale overheid om de verspreiding van het coronavirus COVID-19 te beperken;b) 
+of, daar waar het nuttig of nodig is voor het begrijpen van het besluit in ontwerp, nauwkeurig verwijzen 
+naar de dwingende federale bepalingen die de bij de tekst overwogen maatregelen opleggen2..2. 
+Hoe dan ook is het de taak van de Regering om zich ervan te vergewissen dat er geen enkele fout te lezen 
+staat in het vernoemen van de juiste periodes waarin de subsidie- en steunaanvragers de maatregelen, 
+die bepaald werden om aanspraak te kunnen maken op het voordeel van genoemde subsidies en steun, moesten 
+of moeten toepassen.In dat opzicht dient bemerkt:a) dat, zoals bevestigd door de 
+afgevaardigde van de Minister, in de hoofdstukken 4 en 5 (artikelen 5 en 6) de datum van 8 juni 2020 
+vervangen dient te worden door de datum van 7 juni 2020;b) of nog dat er onzekerheid bestaat 
+wat betreft de aanvangsdatum van de periode die in overweging dient genomen voor de toepassing van hoofdstuk 
+5 (artikel 6): terwijl het beschikkend gedeelte gewag maakt van de datum van 14 maart 2020, is er immers 
+in de nota aan de Waalse Regering dan weer sprake van de datum van 18 maart 20203.3. Het ontwerp-besluit 
+dient herzien om rekening te houden met deze bemerkingen.BIJZONDERE BEMERKINGENAANHEFIn 
+de aanhef van een besluit zijn de eerste te beogen bepalingen, bepalingen die het besluit van een rechtsgrond 
+voorzien. Daarom dient het decreet van 17 `tot toekenning van bijzondere machten aan de Waalse Regering 
+in het kader van de gezondheidscrisis COVID-19' beoogd te worden voor het Waalse Toerismewetboek.BESCHIKKEND 
+GEDEELTEArtikel 1.Zoals neergeschreven, lijkt het of de aan het onderzoek onderworpen 
+bepaling het Commisariaat generaal voor Toerisme permanent met een nieuwe opdracht belast. Mocht de bepaling 
+op deze wijze worden opgevat, dan zou ze de bijzondere machten te boven gaan, zoals bij het decreet van 
+17 maart 2020 aan de Regering toegekend, in zover zij zich er niet toe zou beperken tot "[het nemen van] 
+alle nuttige maatregelen (...) om elke situatie te voorkomen en te behandelen die problemen stelt in 
+het strikte kader van de pandemie COVID-19 en de gevolgen ervan en die geregeld moet worden op straffe 
+van ernstig gevaar", zoals bepaald in artikel 1, § 1, van het decreet van 17 maart 2020.De 
+intentie van de Regering is evenwel manifest verschillend. Volgens het verslag aan de Waalse Regering 
+strekt deze bepaling er immers toe "in het Waals Toerismewetboek de bevoegdheid van het Commisariaat-generaal 
+voor toerisme te bevestigen inzake steun aan de operatoren in de toeristische sector, teneinde de hem 
+bij dit besluit toevertrouwde opdrachten van een juridische grondslag te voorzien". Deze nieuwe opdrachten, 
+zoals geregeld in de hoofdstukken 3 tot 7 van het ontwerp-besluit, kaderen evenwel in de bijzondere machten 
+bij het decreet van 17 maart 2020 toegekend aan de Regering.Daarbij hoeft het Waals Toerismewetboek 
+daartoe niet gewijzigd: enerzijds voldoet het besluit in ontwerp om de bevoegdheid waarvan sprake toe 
+te kennen aan het Commisariaat generaal voor Toerisme; anderzijds, zoals overigens bevestigd in het verslag 
+aan de Waalse Regering, passen de nieuwe opdrachten toegekend aan het Commisariaat generaal voor toerisme 
+reeds in het kader van de algemene opdracht om het algemeen regeringsbeleid uit te voeren zoals bij artikel 
+5.D, § 1, 1°,  van het Waals Wetboek voor Toerisme, aan genoemd orgaan toevertrouwd.Artikel 
+1 dient dus weggelaten.Artikel 2.Voorliggende bepaling dient uitwerking te hebben 
+tijdens, enkel, de toepassingsduur van het "communicatieplan vastgesteld met het oog op de relance van 
+de sector volgend op de sanitaire crisis door COVID-19". Daarom is het beter om deze bepaling, eerder 
+dan ze in te voegen in het Waals Toerismewetboek, op te vatten als een autonome bepaling.Daarnaast 
+dient nauwkeurig te worden opgegeven, wie het plan waarvan sprake vaststelt.Artikel 3.Voorliggende 
+bepaling lijkt ertoe te strekken, permanent van toepassing te zijn zonder zich ertoe beperken, om de 
+bewoordingen van artikel 1, § 1, van het decreet van 17 maart 2020 te hernemen, een situatie te 
+regelen die problemen stelt in het strikte kader van de pandemie COVID-19 en de gevolgen ervan en die 
+geregeld moet worden op straffe van ernstig gevaar". De gekozen bewoordingen wijzen op een overschrijding 
+van de bijzondere machten, aan de Regering toegekend bij het decreet van 17 maart 2020. De 
+bepaling dient naar vorm en inhoud te worden herzien om binnen de perken van deze bevoegdheden te blijven.Wat 
+de vorm betreft, houdt dit in dat zij niet mag lijken te strekken tot het algeheel vervangen van artikel 
+594.D, § 2, van het Waals Toerismewetboek. Hoe dan ook is het beter om deze bepaling, eerder dan 
+ze in te voegen in het Waals Toerismewetboek, op te vatten als een autonome bepaling.Artikel 
+4.1. Het ontbreekt in voorliggende bepaling aan nauwkeurigheid over verschillende fundamentele 
+elementen van de regeling waarin zij voorziet.Zo ontbeert het deze bepaling aan een nauwkeurige 
+bepaling en een voldoende omkadering van de voorwaarden die te vervullen zijn om deze personen te kunnen 
+beschouwen als bekleed met de hoedanigheid van "operatoren van de toeristische sector die doorgaans evenementgebonden 
+activiteiten met een regionale toeristische bestemming organiseren" en ze aanspraak te kunnen laten maken 
+op het voordeel van de in de tekst overwogen subsidie. Zo wordt het begrip zelf "operatoren van de toeristische 
+sector" niet omschreven. Wat betreft de vraag of een evenementgebonden activiteit een "regionale toeristische 
+bestemming" vertoont, wordt in paragraaf 3, 3°,  a) vermeld dat verschillende samen te voegen criteria 
+verenigd moeten zijn, maar deze criteria - "aantal deelnemers", "financieringsbedrag per operator van 
+de toeristische sector", "bedrag van de directe en indirecte economische effecten" en "de bijdrage aan 
+de ontwikkeling van het toeristisch imago van Wallonië" zijn zelf erg vaag. De voorwaarde vervat in het 
+"doorgaans" organiseren van de activiteiten vermeld in de tekst lijdt eveneens aan een gebrek aan precisie.De 
+afdeling wetgeving stipt verder aan dat paragraaf 5, door zonder enige precisie gewag te maken van de 
+"omvang" van de "toeristische impact" van de betrokken activiteit tegenover de criteria bedoeld in paragraaf 
+3, 3°,  a), onvoldoende aanwijzingen verstrekt over de in acht te nemen regels met het oog op het bepalen 
+van het bedrag van de toepasselijke subsidie.2. Paragraaf 2 en paragraaf 3, 2°,  eisen dat 
+de subsidieaanvraag verbintenissen heeft aangegaan "in een contractueel kader bij derden".Het 
+verslag aan de Waalse Regering bevat dienaangaande volgende uitleg: "Dat betekent dat de medeondertekenaar 
+van het contract geen deel mag uitmaken van de organisator van de toeristische sector. De loonuitgaven 
+voor personeelsleden, via een arbeidsovereenkomst tewerkgesteld door de organisator van de toeristische 
+dienst, komen niet in aanmerking, evenmin als de uitgaven voor een bestuurder van de organisator van 
+een evenement".Als dit daadwerkelijk de intentie is van de stellers van de tekst, moet deze 
+dienovereenkomstig worden herzien. Het personeelslid of de bestuurder van een organisatie heeft immers, 
+behoudens andersluidende bepaling, a priori de hoedanigheid van derde tegenover laatstgenoemde.Artikel 
+7.Het Waals Toerismewetboek maakt geen gebruik van de uitdrukking "gastenverblijf" dat gebruikt 
+wordt in paragraaf 3, lid 3, 2°,  van voorliggende bepaling.Zoals bevestigd door de afgevaardigde 
+van de Minister, is het de intentie van stellers van de tekst om aldus de streekgebonden toeristische 
+logiesverstrekking te beogen onder gebruikmaking van één van de benamingen "gastenkamer" of "gastenkamer 
+op de hoeve" bepaald in artikel 1.D, 29°,  d) en e) van het Waals Toerismewetboek.Voorliggende 
+bepaling dient te worden herzien onder gebruikmaking van de terminologie van het Waals Toerismewetboek.Artikel 
+9.De afdeling wetgeving ziet niet goed in waarom het besluit op de datum van aanneming ervan 
+uitwerking zou dienen te hebben.Dan is bijgevolg beter om de datum van bekendmaking ervan in 
+overweging te nemen om de inwerkingtreding ervan vast te stellen.De Griffier,   De Voorzitster,Anne-Catherine 
+VAN GEERSDAELE   Martine BAGUET_______Nota's2 De afdeling wetgeving stipt 
+hier geheel in het bijzonder, war betreft de sanitaire maatregelen opgelegd voor de hervatting van de 
+activiteiten, aan, beoogd bij artikel 7 van het ontwerp-besluit dat artikel 1, § 3, van het ministerieel 
+besluit van 23 maart houdende dringende maatregelen ter beperking van de verspreiding van het coronavirus 
+COVID-19 van toepassing is als vervangen bij het ministerieel besluit van 5 juni 2020.3 Het 
+cijfer 82 opgenomen in de inleidende zin van artikel 6, § 3, maakt blijkbaar deel uit van de vooronderstelling 
+dat 18 maart 2020 als datum in overweging dient te worden genomen.11 JUNI 2020. 
+- Besluit van de Waalse Regering van bijzondere machten nr. 47 betreffende het steunprogrammavoor 
+operatoren in de toeristische sector in het kader van de gezondheidscrisis COVID-19De Waalse 
+Regering,Gelet op het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de 
+Waalse Regering in het kader van de gezondheidscrisis COVID-19;Gelet op het Waals Toerismewetboek;Gelet 
+op het advies van de Inspectie van Financiën, gegeven op 22 mei 2020; Gelet op de instemming 
+van de Minister van Begroting, gegeven op 29 mei 2020;Gelet op het rapport van 19 mei 2020, 
+opgesteld overeenkomstig artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de 
+resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad 
+en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen;Gelet 
+op de dringende noodzakelijkheid, gemotiveerd door het feit dat de maatregelen van de federale overheid 
+ter beperking van de verspreiding van het coronavirus COVID-19 met name de afgelasting inhouden van alle 
+activiteiten met een cultureel, sociaal, feestelijk, folkloristisch, sportief, toeristisch en recreatief 
+karakter evenals de sluiting voor het publiek van de toeristische operatoren met ingang van 14 maart 
+2020;Dat de toeristische operatoren waarvan de activiteiten werden geschorst of afgelast, nog 
+steeds te maken hebben met kosten voor het onderhoud van hun infrastructuur of met uitgaven die werden 
+gemaakt vóór de maatregelen die de federale overheid op 13 maart 2020 heeft genomen om de verspreiding 
+van het coronavirus COVID-19 te beperken; Dat zij geconfronteerd worden met inkomstentekorten 
+die leiden tot een gebrek aan cashflow en liquiditeiten; Dat de stakingen van betalingen aan 
+de schuldeisers van de toeristische operatoren, en de nevengevolgen daarvan, nakend zijn, wat tot economisch 
+onhoudbare situaties zou kunnen leiden;Dat de hervatting van de activiteiten van de toeristische 
+operatoren noodzakelijkerwijs de implementatie van sanitaire maatregelen zal vereisen; Dat 
+bijgevolg dringende maatregelen moeten worden genomen ten gunste van de toeristische operatoren om hun 
+leefbaarheid te ondersteunen en bijgevolg een massale impact op de Waalse economie door een domino-effect 
+te vermijden;Dat het van belang is om dergelijke steun en subsidies zo snel mogelijk te kunnen 
+betalen en dat de dringende noodzakelijkheid daarom gerechtvaardigd is;Gelet op het advies 
+67.523/4 van de Raad van State, gegeven op 9 juni 2020, overeenkomstig artikel 84, § 1, eerste 
+lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht 
+van de Minister van Toerisme;Na beraadslaging,Besluit : HOOFDSTUK I. - 
+Verhoging van de subsidiëring van de door het Commissariaat-generaal voor Toerisme erkende Huizenvoor 
+toerisme voor de verwezenlijking van de acties en campagnes voor de promotie van het toerisme in hun 
+ambtsgebiedArtikel 1. In het kader van het herstel van de sector na de gezondheidscrisis als 
+gevolg van COVID-19, bedraagt het subsidiepercentage bedoeld in artikel 584.D van het Waals Toerismewetboek 
+met betrekking tot de Huizen voor toerisme 100 % van de kosten van de actie of de campagne voor de promotie 
+van het toerisme.De in lid 1 bedoelde actie of campagne voor de promotie van het Huis voor 
+toerisme maakt deel uit van het communicatieplan opgezet om de sector nieuw leven in te blazen na de 
+gezondheidscrisis als gevolg van COVID-19.HOOFDSTUK II. - Subsidiëring voor operatoren in de 
+toeristische sector die doorgaans toeristische evenementen met een regionale toeristische bestemming 
+organiseren, voor de kosten in verband met de organisatie van evenementen met een regionale toeristische 
+bestemming die tussen 14 maart 2020 en 31 augustus 2020 werden afgelastArt. 2.  § 1. 
+Binnen de perken van de beschikbare begrotingskredieten komt het Commissariaat-generaal voor Toerisme 
+tegemoet in de uitgaven van de operatoren van de toeristische sector die gewoonlijk toeristische evenementen 
+met een regionale toeristische bestemming organiseren, voor de evenementen met een regionale toeristische 
+bestemming die tussen 14 maart 2020 en 31 augustus 2020 werden afgelast als gevolg van de maatregelen 
+die de federale overheid heeft genomen om de verspreiding van het coronavirus COVID-19 te beperken. 
+§ 2. De in paragraaf 1 bedoelde subsidie heeft uitsluitend betrekking op de juridisch aangegane 
+uitgaven, zonder uitdrukkelijke mogelijkheid tot afgelasting, in een contractueel kader met derden vóór 
+14 maart 2020, ongeacht de feitelijke datum van betaling. Noch de werknemers die door de toeristische 
+operator op grond van een arbeidsovereenkomst in dienst zijn genomen, noch de mandatarissen van de toeristische 
+operator worden beschouwd als derden in de zin van deze bepaling.  § 3. De in paragraaf 
+1 bedoelde subsidiëring wordt toegekend wanneer:1°  de operator van de toeristische sector 
+regelmatig evenementen met een regionale toeristische bestemming organiseert;2°  de operator 
+van de toeristische sector vóór 14 maart 2020 reeds wettelijke verplichtingen in een contractueel kader 
+met derden is aangegaan, voor de in paragraaf 1 bedoelde activiteiten; 3°  de in paragraaf 
+1 bedoelde activiteit waarvoor de subsidiëring aangevraagd wordt de volgende voorwaarden vervult:(a) 
+ze beschikt over een regionale toeristische bestemming ten opzichte van de volgende samengevoegde criteria:- 
+het aantal deelnemers;- het bedrag van de financiering door de operator van de toeristische 
+sector;- het bedrag van de rechtstreekse en onrechtstreekse economische impact;- 
+de bijdrage tot de ontwikkeling van het toeristische imago van Wallonïe;(b) het lokaal, sportief, 
+cultureel, erfgoedgebonden of milieukarakter is niet doorslaggevend ten opzichte van de regionale toeristische 
+bestemming; (c) ze moest tussen 14 maart 2020 en 31 augustus 2020 plaatsvinden; § 
+4. De operator van de toeristische sector dient een subsidieaanvraag in waaruit blijkt dat aan de in 
+paragraaf 3 van dit artikel bedoelde voorwaarden voldaan is.De operatoren van de toeristische 
+sector die vóór 14 maart 2020 bij het Commissariaat-generaal voor Toerisme een subsidieaanvraag voor 
+de promotie van hun evenementen met een regionale toeristische bestemming hebben ingediend, worden vrijgesteld 
+van de indiening van de in het vorige lid bedoelde aanvraag. § 5. Het bedrag van de 
+in paragraaf 1 bedoelde subsidie komt overeen met een forfaitair bedrag van 6.000 euro, 10.000 euro, 
+15.000 euro, 20.000 euro of 25.000 euro, afhankelijk van de omvang van de toeristische impact van de 
+in paragraaf 1 bedoelde activiteit ten opzichte van de criteria bedoeld in paragraaf 3, 3°,  a), van 
+dit artikel. § 6. Het Commissariaat-generaal voor Toerisme ziet toe op de naleving van 
+de in dit artikel bedoelde voorwaarden. Binnen vijftien dagen na de kennisgeving van de princiepsbeslissing 
+tot toekenning van de in § 1 bedoelde subsidie richt de operator van de toeristische sector de 
+bij deze beslissing gevoegde, naar behoren ingevulde schuldvorderingsaangifte aan het Commissariaat-generaal 
+voor Toerisme. De schuldvorderingsaangifte bevat een beschrijving van de in paragraaf 2 van dit artikel 
+bedoelde uitgaven alsook alle bewijsstukken die de vastlegging van die uitgaven en het bedrag ervan aantonen. 
+Het Commissariaat-generaal voor Toerisme is bevoegd om te controleren of het bedrag van de 
+in paragraaf 1 bedoelde subsidie niet hoger is dan het bedrag dat de operator van de toeristische sector 
+daadwerkelijk heeft betaald voor de organisatie van de afgelaste activiteit. De operator van de toeristische 
+sector betaalt het deel van de subsidie terug dat het bedrag daadwerkelijk betaald voor de organisatie 
+van de afgelaste activiteit overschrijdt.HOOFDSTUK III. - Steun voor de toeristische attracties 
+toegelaten door het Commissariaat-generaal voor Toerisme voor de onderhoudskosten van hun infrastructuur 
+tijdens de periode van verplichte sluiting voor het publiek als gevolg van de maatregelen van de Federale 
+Overheid om de verspreiding van het coronavirus COVID-19 te beperkenArt. 3.  § 1. Binnen 
+de perken van de beschikbare begrotingskredieten kent het Commissariaat-generaal voor Toerisme steun 
+toe aan de toeristische bezienswaardigheden bedoeld in artikel 1.D, 5°  van het Waals Toerismewetboek, 
+die krachtens artikelen 110.D en volgende van het Waals Toerismewetboek op de datum van inwerkingtreding 
+van dit besluit toegelaten zijn, voor de onderhoudskosten van hun infrastructuur in de periode waarin 
+zij verplicht voor het publiek gesloten zijn als gevolg van de maatregelen van de federale overheid om 
+de verspreiding van het coronavirus COVID-19 te beperken. § 2. De in paragraaf 1 bedoelde 
+steun wordt verleend wanneer:1°  de toeristische bezienswaardigheid wordt toegelaten krachtens 
+artikelen 110.D. en volgende van het Waals Toerismewetboek op de datum van inwerkingtreding van dit besluit;2° 
+ de toeristische attractie een steunaanvraag ingediend heeft waaruit blijkt dat aan de voorwaarde bedoeld 
+in § 2, 1°  van dit artikel voldaan is. § 3. Het bedrag van de in paragraaf 1 
+bedoelde steun wordt berekend volgens de formule "PT x EI x JF" waarbij:1°  PT stemt overeen 
+met het daggemiddelde van het aantal bezoeken over het kalenderjaar 2019, en vertegenwoordigt het toeristisch 
+gewicht van de toeristische bezienswaardigheid.Het daggemiddelde wordt bekomen door het totaalaantal 
+bezoeken over het kalenderjaar 2019 te delen door 365. Het aantal bezoeken over het kalenderjaar 2019 
+wordt vastgesteld onder verwijzing naar de informatie die de toeristische bezienswaardigheden medegedeeld 
+hebben aan het Commissariaat-generaal voor Toerisme voor het jaar 2019, ter uitvoering van artikel 131, 
+11°,  van het Waals Toerismewetboek;2°  EI stemt overeen met 1,25 €, beschouwd als het 
+forfaitair deel van de prijs van het betalende inkomticket dat de onderhoudskosten van de infrastructuren 
+dekt;3°  JF stemt overeen met het aantal kalenderdagen van verplichte sluiting van de toeristische 
+bezienswaardigheid, met een maximum van 86.Het bedrag van de steun bedoeld in paragraaf 1 mag 
+niet lager dan 1.000 € en niet hoger dan 200.000 € per toeristische bezienswaardigheid zijn.HOOFDSTUK 
+IV. - Ondersteuning van de verenigingen voor sociaal toerisme, erkend door het Commissariaat-generaal 
+voor Toerisme, voor onderhoudskosten voor hun infrastructuren voor toeristische logiesverstrekking van 
+14 maart 2020 tot 7 juni 2020Art. 4.  § 1. Binnen de perken van de beschikbare begrotingskredieten 
+kent het Commissariaat-generaal voor Toerisme steun toe aan de verenigingen voor sociaal toerisme bedoeld 
+in artikel 1, 48°, °  van het Waals Toerismewetboek, die krachtens artikel 313.D van het Waals Toerismewetboek 
+op de datum van inwerkingtreding van dit besluit erkend zijn, voor de onderhoudskosten van hun infrastructuur 
+voor toeristische logiesverstrekking tijdens de periode van 18 maart 2020 tot en met 7 juni 2020 waarin 
+deze logiesverstrekkingen verplicht voor het publiek gesloten zijn als gevolg van de maatregelen van 
+de federale overheid om de verspreiding van het coronavirus COVID-19 te beperken.  § 
+2. De in paragraaf 1 bedoelde steun wordt verleend wanneer:1°  de vereniging voor sociaal toerisme 
+bedoeld in artikel 1, 48°,  van het Waals Toerismewetboek op de datum van inwerkingtreding van dit besluit 
+erkend is krachtens artikel 313.D van het Waals Toerismewetboek;2°  de vereniging voor sociaal 
+toerisme een steunaanvraag ingediend heeft waaruit blijkt dat aan de voorwaarde bedoeld in § 2, 
+1°  van dit artikel voldaan is. § 3. Het bedrag van de in paragraaf 1 bedoelde steun 
+wordt forfaitair berekend volgens de formule "CA x EH x 82" waarbij:1°  CA overeenstemt met 
+de maximale dagelijkse opvangcapaciteit naar aantal bedden van de gezamenlijke toeristische logiesverstrekkingen 
+beheerd door een vereniging voor sociaal toerisme;2°  EH overeenstemt met 1,25 €, beschouwd 
+als het forfaitair deel van de prijs van elke betalende overnachting ter dekking van de onderhoudskosten 
+van de infrastructuur van de toeristische logiesverstrekkingen beheerd door een vereniging voor sociaal 
+toerisme. HOOFDSTUK V. - Steun voor sommige toeristische instellingen, toeristische logiesverstrekkingen 
+en toeristische bezienswaardigheden gemachtigd of erkend door het Commissariaat-generaal voor Toerisme 
+voor de kosten betreffende het invoeren van de voor de hervatting van de activiteiten verplichte sanitaire 
+maatregelenArt. 5.  § 1. Binnen de perken van de beschikbare begrotingskredieten komt 
+het Commissariaat-generaal voor Toerisme tegemoet in de kosten voor het invoeren van de sanitaire maatregelen 
+door de federale overheid opgelegd voor de hervatting van de activiteiten, ten gunste: 1°  
+van de toeristische logiesverstrekkingen bedoeld in artikel 1, 28°,  van het Waals Toerismewetboek, die 
+gemachtigd zijn krachtens artikelen 202.D en volgende van het Waals Toerismewetboek;2°  de 
+verenigingen voor sociaal toerisme bedoeld in artikel 1, 48°,  van het Waals Toerismewetboek die erkend 
+zijn krachtens artikel 313.D van het Waals Toerismewetboek;3°  de toeristische bezienswaardigheden 
+bedoeld in artikel 1.D, 5°,  van het Waals Toerismewetboek, die gemachtigd zijn krachtens artikelen 110.D 
+en volgende van het Waals Toerismewetboek. § 2. De in paragraaf 1 bedoelde steun wordt 
+verleend wanneer:1°  de operator van de toeristische sector bedoeld in paragraaf 1, 1°  tot 
+3°,  van dit artikel door het Commissariaat-generaal erkend of gemachtigd is overeenkomstig de bepalingen 
+van het Waals Toerismewetboek bedoeld in paragraaf 1, en dit zowel op de datum van inwerkingtreding van 
+dit besluit als op de datum van vereffening van de steun; 2°  de operator van de toeristische 
+sector bedoeld in paragraaf 2, 1°,  van dit artikel zich er op de datum van de indiening van de aanvraag 
+bedoeld in paragraaf 2, 3°,  van dit artikel toe verbindt, de sanitaire maatregelen, opgelegd door de 
+federale overheid, in acht te nemen;3°  de operator van de toeristische sector bedoeld in paragraaf 
+2, 1°,  van dit artikel een steunaanvraag ingediend heeft waaruit blijkt dat aan de voorwaarden bedoeld 
+in § 2, 1°  en 2°,  van dit artikel voldaan is.Indien de toeristische logiesverstrekking 
+bedoeld in paragraaf 1, 1°,  van dit artikel niet gemachtigd is op de datum van vereffening van de steun, 
+dient hij uiterlijk op die datum een nieuwe volledige machtigingsaanvraag in. § 3. Het 
+steunbedrag bedoeld in paragraaf 1 stemt overeen met een forfaitair bedrag vastgesteld per categorie 
+of subcategorie operatoren van de toeristische sector. Dat bedrag wordt, voor de subcategorieën 
+van operatoren van de toeristische sector, vastgesteld rekening houdend met hun toeristisch gewicht of 
+hun maximale opvangcapaciteit. Die bedragen worden vastgesteld als volgt:1°  600 
+€ per logiesverstrekking onder huurgeld, namelijk toeristische accommodatie op het platteland, verblijven 
+op de boerderij, vakantiewoningen in de stad en gemeubileerde vakantiewoningen;2°  300€ 
+voor de gezamenlijke gastenkamers of gastenkamers op de boerderij, gelegen op éénzelfde uitbatingslocatie; 
+3°  voor de campings:(a) 1.000 € per camping ;(b) 5 € per standplaats 
+; 4°  voor de hotelbinrichtingen: (a) 1.000 € per hotelinrichting; (b) 
+10 € per kamer ; 5°  voor de vakantiedorpen: (a) 1.000 € per vakantiedorp 
+; (b) 10 € per verblijfseenheid ; 6°  voor de logiesverstrekkingen beheerd door 
+de verenigingen voor sociaal toerisme: (a) 1.000 € per vereniging voor sociaal toerisme 
+; (b) 10 € per bed voor de gezamenlijke logiesverstrekkingen per vereniging voor sociaal 
+toerisme;7°  voor de toeristische bezienswaardigheden:(a) 1.000 € per toeristische 
+bezienswaardigheid; (b) 0,20 € per verwachte bezoeker voor de resterende toeristische 
+periode van het jaar 2020, berekend op basis van het daggemiddelde van het aantal bezoeken over het jaar 
+2019 vermenigvuldigd met het aantal dagen vervat tussen de openingsdatum, gemachtigd door de federale 
+overheid, namelijk 18 mei 2020, 8 juni 2020 of 1 juli 2020, en 30 november 2020 inbegrepen. Het daggemiddelde 
+wordt bekomen door het totaalaantal bezoeken over het kalenderjaar 2019 te delen door 365. Het aantal 
+bezoeken over het kalenderjaar 2019 wordt vastgesteld onder verwijzing naar de informatie die de toeristische 
+bezienswaardigheden medegedeeld hebben aan het Commissariaat-generaal voor Toerisme voor het jaar 2019, 
+ter uitvoering van artikel 131, 11°,  van het Waals Toerismewetboek. § 4. Het Commissariaat-generaal 
+voor Toerisme ziet toe op de naleving van de in dit artikel bedoelde voorwaarden.Het Commissariaat-generaal 
+voor Toerisme is gemachtigd om erop toe te zien dat het steunbedrag bedoeld in paragraaf 1 het bedrag 
+van de feitelijk verrichte uitgaven van de operatoren in de toeristische sector bedoeld in paragraaf 
+1, 1°  tot 3°,  van dit artikel niet overschrijdt om de sanitaire maatregelen in te voeren, opgelegd 
+door de federale overheid en nodig voor de hervatting van de activiteiten. De operator in de toeristische 
+sector betaalt het deel van de steun terug dat het bedrag van de feitelijk verrichte uitgaven bedoeld 
+in paragraaf 3 te boven gaat.HOOFDSTUK VI. - Nadere regels voor het indienen van de subsidie- 
+en steunaanvragen bedoeldin de hoofdstukken 2 tot 5Art. 6. De aanvraag tot toekenning 
+van de subsidies en de steun bedoeld in de hoofdstukken 2 tot 5 van dit besluit wordt ingediend: 1° 
+ via het on line formulier dat ingevuld kan worden op de website van het Commissariaat-generaal voor 
+Toerisme; 2°  via een gecertificeerde elektronische zending van het formulier dat overeenstemt 
+met de subsidie of de steun zoals aangevraagd, behoorlijk ingevuld, naar het daarin vermeld e-mail adres. 
+De formulieren bedoeld in lid 1 zijn vrij downloadbaar op de website van het Commissariaat-generaal 
+voor Toerisme.Het bericht van ontvangst van het elektronisch schrijven en bijlagen daarvan 
+gelden als certificatie en bewijs van de ontvangst ervan. De datum van verzending van de e-mail 
+geldt als datum van indiening van de aanvraag. Enkel de aanvragen uiterlijk ingediend op 30 juni 2020 
+zijn ontvankelijk. HOOFDSTUK VII. - Slot- en overgangsbepalingenArt. 7. Dit besluit 
+treedt in werking daags na aanneming ervan.Art. 8. De Minister bevoegd voor Toerisme is belast 
+met de uitvoering van dit besluit.Namen, 11 juni 2020.De Minister-President,E. 
+DI RUPODe Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging,belast 
+met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020041827
+

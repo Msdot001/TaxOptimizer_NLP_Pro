@@ -1,0 +1,161 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020042058/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-06Numac : 2020042058
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 18 JUNI 2020. - Bijzonder machtsbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/031 tot tijdelijke wijziging van het besluit van 23 maart 1994 van de Regering van het Brussels Hoofdstedelijk Gewest betreffende het beheer van afvalstoffen afkomstig van activiteiten in de gezondheidszorg in het kader van de COVID-19-gezondheidscrisis 
+De Brusselse Hoofdstedelijke Regering,Gelet 
+op artikel 39 van de Grondwet;Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming 
+der instellingen en inzonderheid op artikel 6;Gelet op de bijzondere wet van 12 januari 1989 
+met betrekking tot de Brusselse instellingen;Gelet op de ordonnantie van 19 maart 2020 om bijzondere 
+machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis 
+COVID-19;Gelet op het koninklijk besluit van 8 maart 1989 tot oprichting van Leefmilieu Brussel, 
+artikel 3, § 2;Gelet op het besluit van de Regering van het Brussels Hoofdstedelijk 
+Gewest van 23 maart 1994 betreffende het beheer van afvalstoffen afkomstig van activiteiten in de gezondheidszorg 
+(hierna "het besluit AGZ");Gelet op het besluit van de Brusselse Hoofdstedelijke Regering van 
+18 juli 2000 tot regeling van haar werkwijze en tot regeling van de ondertekening van de akten van de 
+Regering;Gelet op het besluit van de Brusselse Hoofdstedelijke Regering van 22 juli 2019 tot 
+vaststelling van de verdeling van de bevoegdheden tussen de ministers van de Brusselse Hoofdstedelijke 
+Regering;Gelet op de Gelijke Kansentest, zoals vastgesteld bij het besluit van de Brusselse 
+Hoofdstedelijke Regering van 22 november 2018 tot uitvoering van de ordonnantie van 4 oktober 2018 tot 
+invoering van de gelijke kansentest, uitgevoerd op 23 april 2020 ;Gelet op het advies nr. 67.488/1 
+van de Raad van State gegeven op 4 juni 2020 in toepassing van artikel 84, §  1, lid 1, 3°  van 
+de wetten op de Raad van State gecoördineerd op12 januari 1973; Op voordracht van de Minister 
+belast met leefmilieu;Na beraadslaging,Overwegende dat het coronavirus COVID-19 op 
+11 maart 2020 door de WHO bestempeld werd als een pandemie;Overwegende dat de COVID-19-pandemie 
+een directe impact heeft op de sector van de gezondheidszorg en op het beheer van de afvalstoffen die 
+worden geproduceerd in het kader van hun activiteiten;Overwegende dat de sector van de gezondheidszorg, 
+in het bijzonder de ziekenhuizen en de rusthuizen, te maken hebben met enerzijds een zeer sterke stijging 
+van de hoeveelheid afvalstoffen uit de gezondheidszorg die ze produceren, en anderzijds met een dreigend 
+tekort aan verpakkingen die voldoen aan de bepalingen van het besluit AGZ;Overwegende dat na 
+overleg met de sector (ziekenhuizen, de federatie go4circle, SANTHEA en virologen) de maatregelen voor 
+het sorteren en voor alternatieve verpakkingen van het "COVID-19" afval overeenkomstig het besluit AGZ 
+in de omzendbrief van 1 april 2020 zijn uitgelegd en verduidelijkt;Overwegende dat deze omzendbrief 
+niet volstaat, aangezien deze alternatieven het enerzijds niet mogelijk maken om de toename van de afvalstromen 
+te beheren en anderzijds alleen betrekking hebben op "COVID-19"-afval;Overwegende dat de wettelijke 
+kenmerken van de verpakkingen van infectieuze afvalstoffen dus tijdelijk versoepeld moeten worden, zonder 
+de milieubescherming en de principes van het afvalstoffenbeheer in gevaar te brengen;Overwegende 
+dat ook de kenmerken van de soepele en harde verpakkingen, alsook de gebruiksvoorwaarden ervan, moeten 
+worden verduidelijkt;Overwegende dat de bescherming van het personeel dat belast is met het 
+beheer van dit afval te allen tijde moet worden gewaarborgd en dat het tekort aan reglementaire verpakkingen 
+niet ten koste mag gaan van de veiligheid van de afvalbeheerders die dit afval manipuleren tijdens de 
+inzameling en verwerking ervan;Overwegende dat de toename van de hoeveelheid afval waarschijnlijk 
+zal leiden tot verzadiging van de verwerkingscentra, wat betekent dat het onmogelijk is om het afval 
+te verwerken binnen de tijd die het besluit AZG vereist (24 uur tussen de inzameling en de verwerking);Overwegende 
+dat de tussentijdse opslag moet worden toegestaan om de continuïteit van het beheer van afvalstoffen 
+te waarborgen op een wijze die de bescherming van het leefmilieu en de volksgezondheid waarborgt ;Overwegende 
+dat de bijkomende maatregelen ter bescherming voorgesteld in dit besluit zorgen voor een voldoende bescherming 
+van de bevolking en de werknemers; dat de voorgestelde alternatieve en compenserende maatregelen als 
+algemeen effect hebben om de beste condities te verzekeren voor de strijd tegen de verspreiding van het 
+virus;Overwegende dat de substantiële stijging van de productie van speciale afvalstoffen met 
+het daaruit volgende risico van schaarste van geschikte verpakkingen en de moeilijkheden om de afvalstoffen 
+te verwerken binnen de vereiste termijnen zeker zal aanhouden na afloop van de quarantaineperiode die 
+is opgelegd door de federale overheid, aangezien de sector van de gezondheidszorg de sector is die het 
+sterkst en in meerderheid getroffen is door de gevolgen van de COVID-19-epidemie;Dat dus wordt 
+voorgesteld tijdelijk af te wijken van het besluit AGZ zoals voorzien door onderhavig besluit; dat deze 
+afwijking van kracht is vanaf 16 maart 2020 en tot twee maanden nadat de Nationale Veiligheidsraad de 
+COVID-19-gezondheidscrisis als beëindigd heeft verklaard;Dat er wordt voorgesteld dat de in 
+onderhavig besluit bedoelde maatregelen terugwerkende kracht hebben tot 16 maart 2020, i.e. de eerste 
+werkdag waarop de nationale "social distancing"-maatregelen van toepassing werden; dat deze terugwerkende 
+kracht niet noopt tot bezwaren;Overwegende dat het, rekening houdend met de dringendheid om 
+het beheer van afvalstoffen uit de gezondheidszorg te waarborgen, aangewezen is om, overeenkomstig artikel 
+2 van de ordonnantie van 19 maart 2020 tot toekenning van bijzondere volmachten aan de Regering, met 
+spoed het advies van de Raad van State in te winnen,Besluit :Artikel 1. Onder artikel 
+6 van het besluit van de Regering van het Brussels Hoofdstedelijk Gewest van 23 maart 1994 betreffende 
+het beheer van afvalstoffen afkomstig van activiteiten in de gezondheidszorg worden een lid 3 en een 
+lid 4 toegevoegd die luiden als volgt:"De afvalstoffen bedoeld in artikel 1, 2°,  a) worden 
+verpakt in harde of halfharde of soepele verpakkingen conform aan het ADR.De afvalstoffen bedoeld 
+in artikel 1, 2°,  a) mogen worden verpakt in soepele verpakkingen niet conform aan het ADR in het geval 
+van moeilijkheden met de bevoorrading van verpakkingen voorzien in lid 3 ten gevolge van de COVID-19-gezondheidscrisis, 
+en op voorwaarde dat Leefmilieu Brussel vooraf zijn goedkeuring heeft gegeven conform de procedure bedoeld 
+onder artikel 6bis. "Art. 2. Een nieuw artikel 6bis dat luidt als volgt, wordt toegevoegd aan 
+ditzelfde besluit:"Artikel 6bis.De inzamelaar van speciale afvalstoffen die soepele 
+verpakkingen die niet conform zijn aan het ADR, wenst te kunnen gebruiken, dient hiervoor langs elektronische 
+weg een aanvraag in bij Leefmilieu Brussel. Deze aanvraag kan ingediend worden door een federatie uit 
+naam van haar leden. Deze aanvraag omvat minimum:1°  een afdoende en controleerbare 
+verklaring van de moeilijkheden bij de bevoorrading met harde en halfharde verpakkingen wegens de COVID-19-gezondheidscrisis;2° 
+ de gezondheidszorginstelling(en) waarop deze aanvraag betrekking heeft;3°  de verbrandingsinstallatie 
+waarnaar het te verwerken afval zal worden afgevoerd.Binnen de 2 werkdagen na ontvangst van 
+de aanvraag deelt Leefmilieu Brussel, langs elektronische weg, zijn beslissing van goedkeuring of weigering 
+van het gebruik van soepele zakken mee. Indien binnen deze termijn geen kennisgeving wordt ontvangen, 
+wordt de aanvraag geacht stilzwijgend geweigerd te zijn.De aanvrager brengt Leefmilieu Brussel 
+op de hoogte van iedere wijziging aan een van de elementen opgesomd onder lid 2, alsook van het einde 
+van de periode waarin soepele zakken worden gebruikt. "Art. 3. Artikel 8 van dit besluit wordt 
+aangevuld met het volgende lid:"In geval van verzadiging van de verwerkingscapaciteit in de 
+verbrandingsinstallaties wegens de COVID-19-gezondheidscrisis kan worden afgeweken van de termijn van 
+vierentwintig uur vermeld onder lid 1, op voorwaarde dat is voldaan aan volgende cumulatieve voorwaarden:1. 
+De speciale afvalstoffen worden verpakt in harde verpakkingen;2. In de tussentijdse opslagplaats 
+wordt een temperatuur van maximum 15° C gehandhaafd;3. De opslagduur van de speciale afvalstoffen 
+in de tussentijdse opslagplaats mag niet langer zijn dan 5 dagen."Art. 4. Onder punt 1 van 
+bijlage IV van ditzelfde besluit wordt een lid toegevoegd dat luidt als volgt:"Bij moeilijkheden 
+met de bevoorrading van verpakkingen die het mogelijk maken om te voldoen aan dit punt wegens de COVID-19-gezondheidscrisis, 
+kan worden afgeweken van de kenmerken op het vlak van kleur en minimale afmetingen van het opschrift. 
+"Art. 5. Punt 2, lid 1 van bijlage IV van ditzelfde besluit wordt vervangen door:"Soepele 
+verpakkingen hebben enerzijds een dubbele lasnaad en een minimale dikte van 75 micrometer, en anderzijds 
+een doeltreffend sluitsysteem, zoals een ingebouwd lint of een colsonbandje."Art. 6. Punt 4 
+van bijlage IV van ditzelfde besluit wordt als volgt vervangen :"De harde verpakkingen zijn 
+conform aan het ADR.Bij moeilijkheden met de bevoorrading van harde verpakkingen conform aan 
+het ADR wegens de COVID-19-gezondheidscrisis, kunnen harde verpakkingen die niet conform zijn aan ADR 
+worden gebruikt op voorwaarde dat ze aan volgende minimale kenmerken voldoen :- Bruto gewicht 
+: maximum 25 kg;- Dikte van de wanden : minimum 5 mm;- Vorm : rechthoekig.De 
+al dan niet aan het ADR conforme harde verpakkingen hebben een maximaal volume van 60 l en zijn uitgerust 
+met een onomkeerbare sluiting, of bij ontstentenis met clips, een sluitring, een sluitband, een schroefdeksel 
+of een andere gelijkwaardige sluiting. Alle maatregelen worden genomen om te vermijden dat de verpakkingen 
+gemakkelijk kunnen worden geopend."Art. 7. Onderhavig besluit is van kracht vanaf 16 maart 
+2020, en tot 31 december 2020.De afvalstoffen bedoeld in artikel 1, 2°,  a) van het besluit 
+van de Regering van het Brussels Hoofdstedelijk Gewest van 23 maart 1994 betreffende het beheer van afvalstoffen 
+afkomstig van activiteiten in de gezondheidszorg mogen echter worden verpakt in soepele verpakkingen 
+niet conform aan het ADR in het geval van moeilijkheden met de bevoorrading van verpakkingen voorzien 
+in lid 3 ten gevolge van de COVID-19-gezondheidscrisis, zonder voorafgaande goedkeuring door Leefmilieu 
+Brussel et dit, tot aan de inwerkingtreding van huidig besluit.Art. 8. De minister die bevoegd 
+is voor het leefmilieu is belast met de uitvoering van dit besluit.Brussel, 18 juni 2020.Voor 
+de Brusselse Hoofdstedelijke Regering:De Minister-President van de Brusselse Hoofdstedelijke 
+Regering,R. VERVOORTDe Minister van de Brusselse Hoofdstedelijke Regering, bevoegd 
+voor klimaattransitie, leefmilieu, energie en participatieve democratie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-06Numac : 2020042058
+

@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-26Numac : 2020041903
+MINISTERIE VAN LANDSVERDEDIGING 
+ 16 JUNI 2020. - Koninklijk besluit nr. 31 houdende bijzondere maatregelen voor de militairen in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19. - Erratum 
+In het Belgisch 
+Staatsblad nr. 180 van 23 juni 2020, bladzijde 46058, in het artikel 1 van de Nederlandstalige tekst, 
+dient men "30 juli 1938" te vervangen door "30 juli 1838".  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-26Numac : 2020041903
+

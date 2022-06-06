@@ -1,0 +1,138 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020015041/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020015041
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 18 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 33 betreffende de aanpassing van het tijdschema van de externe evaluaties die niet bekrachtigd worden voor het schooljaar 2020-2021 in het kader van de COVID-19- gezondheidscrisis 
+De Regering van de Franse Gemeenschap,Gelet 
+op het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van 
+de COVID-19-gezondheidscrisis, artikel 1, § 1, f) ;Gelet op het decreet van 2 juni 2006 
+betreffende de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en 
+het getuigschrift van basisonderwijs na het lager onderwijs;Gelet op de dringende noodzakelijkheid 
+gemotiveerd door de noodzaak om de Franse Gemeenschap in staat te stellen, vóór het einde van het schooljaar, 
+te reageren op de maatregelen die zijn genomen in het kader van de bestrijding van de COVID-19-pandemie, 
+overeenkomstig artikel 1, § 1, f, van het decreet van 17 maart 2020 tot toekenning van bijzondere 
+machten aan de Regering in het kader van de COVID-19-gezondheidscrisis, door het tijdschemar van de externe 
+evaluaties die niet bekrachtigd worden aan te passen, zodat de scholen het volgende schooljaar gerust 
+kunnen organiseren en zich kunnen concentreren op de uit te voeren gezondheids- en pedagogische maatregelen;Gelet 
+op het advies nr. 67.567/2 van de Raad van State, gegeven op 12 juni 2020, met toepassing van artikel 
+84, § 1, eerste lid, 3°,  van de wetten op de Raad van state, gecoördineerd op 12 januari 1973 
+;Overwegende dat, overeenkomstig artikel 8, § 4, van het decreet van 2 juni 2006 betreffende 
+de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en het getuigschrift 
+van basisonderwijs na het lager onderwijs (hierna het decreet betreffende de externe evaluaties genoemd) 
+worden de externe evaluaties die niet bekrachtigd worden (EENC) tussen 1 en 31 oktober van hetzelfde 
+schooljaar aan de leerlingen onderworpenOverwegende dat, overeenkomstig artikel 8, § 
+1, tweede lid, van het decreet betreffende de externe evaluaties en het besluit van de Regering van de 
+Franse Gemeenschap van 10 mei 2017 tot goedkeuring van het driejarenplan met betrekking tot de externe 
+evaluaties die niet bekrachtigd worden met een getuigschrift in de algemene en technologische humaniora 
+en in de beroeps- en technische humaniora (2018-2019, 2019-2020, 2020-2021), zoals gewijzigd bij het 
+besluit van de Regering van de Franse Gemeenschap van 24 mei 2019 (hierna het besluit van de Regering 
+van de Franse Gemeenschap van 10 mei 2017), hebben de EENC betrekking op het lezen en het produceren 
+van geschreven stukken in het derde en het vijfde jaar lager onderwijs en slechts op het lezen in het 
+vierde jaar secundair onderwijs;Overwegende dat het oorspronkelijke tijdschema voor de EENC 
+voorzag in pretests van de evaluaties in mei 2020, dat deze hadden moeten worden gevolgd door een periode 
+van analyse van de resultaten en vervolgens de afronding van het ontwerp van de evaluatie;Overwegende 
+het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken, zoals gewijzigd op 25 mei 2020, en inzonderheid de schorsing van lessen 
+en activiteiten in het kleuter-, lager- en secundair onderwijs;Overwegende dat na de schorsing 
+van de lessen in de scholen kon de externe evaluatie die niet bekrachtigd wordt, niet vooraf worden getest;Overwegende 
+dat pretests een noodzakelijke stap zijn om de wetenschappelijke basis van de evaluatie en de kwaliteit 
+ervan te waarborgen en dat de resultaten die eruit zouden voortvloeien bijgevolg weinig geldig zouden 
+zijn en dat het gebruik ervan ter ondersteuning van de sturing van de scholen twijfelachtig zou zijn;Overwegende 
+dat na de lange periode van schorsing van de lessen tijdens dit schooljaar en de onzekerheid over het 
+volgende schooljaar, het tijdschema voor het afleggen van de evaluaties in de scholen, dat overeenkomstig 
+het decreet betreffende de externe evaluaties voor oktober is gepland, hoogstwaarschijnlijk ongunstig 
+en onvoldoende zal zijn om alle leerlingen die bij de EENC betrokken zijn, gedurende drie lestijden te 
+mobiliseren;Overwegende dat hetzelfde geldt voor de tijd die nodig is voor de verbetering van 
+de evaluaties en vooral voor de interpretatie en toe-eigening van de resultaten door de pedagogische 
+teams, een opdracht die één van de essentiële elementen van het systeem vormt;Overwegende dat 
+het bindende aspect van de evaluaties waarschijnlijk onwelkom is, aangezien de leertijd in de klassen 
+zal worden geteld;Overwegende dat de organisatie van het volgende schooljaar op dit ogenblik 
+onbekend is en hoogstwaarschijnlijk een aanzienlijke invloed zal hebben op het afleggen van de evaluaties;Overwegende 
+dat de evaluaties voor de algemene en technologische humaniora en de beroeps- en technische humaniora 
+oorspronkelijk gepland waren voor oktober 2019, maar om de verschillende actoren te laten profiteren 
+van de tijd die nodig is om de verandering in verband met de geplande hervormingen in het kader van het 
+Excellentiepact op te bouwen, zijn ze bij wijze van uitzondering met een jaar uitgesteld op basis van 
+het besluit van de Regering van de Franse Gemeenschap van 24 mei 2019 tot wijziging van het besluit van 
+de Regering van de Franse Gemeenschap van 10 mei 2017;Overwegende dat het uitstellen van het 
+hele systeem met een jaar voor het tweede achtereenvolgende jaar zou neerkomen op het verzenden van een 
+boodschap aan de actoren dat de externe evaluaties die niet bekrachtigd worden niet onontbeerlijk zijn;Overwegende 
+dat zowel het Europese onderwijsbeleid als het nieuwe bestuur van de scholen waarin het Excellentiepact 
+voorziet, vragen om de regelmatige organisatie van externe evaluaties die bekrachtigd worden;Overwegende 
+dat externe evaluaties die niet bekrachtigd worden, een essentieel sturingsinstrument zijn en dat het 
+daarom belangrijk is deze in het schooljaar 2020-2021 te behouden;Overwegende dat, bovendien, 
+het uitstellen van deze evaluaties tot het volgende schooljaar tot een vertraging zou leiden van vijf 
+jaar tussen twee evaluaties met betrekking tot hetzelfde onderwerp en het onmogelijk zou zijn om de recente 
+resultaten te benutten;Overwegende dat om al deze redenen de externe evaluaties die niet bekrachtigd 
+worden in het schooljaar 2020-2021 moeten worden behouden en dat een nieuw tijdschema moet worden vastgesteld;Overwegende 
+dat het genummerde besluit uitwerking zal hebben met ingang van de dag van de bekendmaking ervan in het 
+Belgisch Staatsblad, is het dringend noodzakelijk om de scholen voor het einde van het schooljaar te 
+informeren, zodat ze het begin van het schooljaar in september 2020 gerust kunnen organiseren en zich 
+kunnen concentreren op de uit te voeren gezondheids- en zeker ook pedagogische maatregelen. In dit opzicht 
+leeft dit besluit de voorwaarden na die worden opgelegd door de rechtspraak van de Raad van State en 
+het Grondwettelijk Hof met betrekking tot de terugwerkende kracht van de reglementaire bepalingen in 
+het licht van de uitzonderlijke omstandigheden die tot de vaststelling ervan hebben geleid en de verwezenlijking 
+van een doelstelling van algemeen belang, zoals het recht op onderwijs, het recht van elk kind op maatregelen 
+en diensten die bijdragen tot zijn of haar ontwikkeling, alsook het primaire belang van het kind ;Overwegende 
+dat overeenkomstig artikel 3 van het decreet van 17 maart 2020 tot toekenning van bijzondere machten 
+aan de Regering in het kader van de COVID-19-gezondheidscrisis, de besluiten bedoeld in artikel 1 kunnen 
+aangenomen worden zonder dat vooraf de door de wet of regelgeving vereiste adviezen, overlegraadplegingen 
+en onderhandelingen zijn genomen of georganiseerd, maar worden toch aangenomen na het advies van de Afdeling 
+van de Wetgeving van de Raad van State te hebben ingewonnen, behalve als deze bepaalt niet in staat te 
+zijn om haar advies binnen een termijn van vijf dagen mee te delenOp de voordracht van de Minister 
+van Onderwijs ;Na beraadslaging,Besluit : Artikel 1. In afwijking van artikel 
+8, § 4, eerste lid, van het decreet van 2 juni 2006 betreffende de externe evaluatie van de verworven 
+kennis van leerlingen van het leerplichtonderwijs en het getuigschrift van basisonderwijs na het lager 
+onderwijs, voor het schooljaar 2020-2021, worden de externe evaluaties die niet bekrachtigd worden bedoeld 
+in §§ 1, en 2, van artikel 8, van hetzelfde decreet, tussen 1 en 28 februari 2021 aan de 
+leerlingen onderworpen.Art. 2. Dit besluit treedt in werking de dag waarop het in het Belgisch 
+Staatsblad wordt bekendgemaakt.Art. 3. De Minister van Onderwijs is belast met de uitvoering 
+van dit besluit.Brussel, 18 juni 2020.De Minister-President,P.-Y. JEHOLETDe 
+Minister van Onderwijs,C. DESIR   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020015041
+

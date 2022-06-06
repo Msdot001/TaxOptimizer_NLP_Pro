@@ -1,0 +1,65 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-08Numac : 2021042563
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 25 JUNI 2021. - Besluit van de Voorzitter van het directiecomité tot wijziging van het besluit van de Voorzitter van het Directiecomité van 9 december 2015 tot oprichting van de P Centra binnen de Administratie Particulieren van de Algemene Administratie van de Fiscaliteit en tot vaststelling van hun zetel en hun materiële en territoriale bevoegdheid zoals gewijzigd door de besluiten van de Voorzitter van het Directiecomité van 19 september 2016, 2 februari 2017, 20 september 2017, 8 februari 2018, 19 oktober 2018, 1 april 2019, 13 september 2019, 24 december 2019, 29 mei 2020 en 14 oktober 2020 
+De Voorzitter van 
+het directiecomité,Gelet op het advies van de Inspecteur van Financiën, gegeven op 23 juni 
+2021,Besluit :Artikel 1. In artikel 1 van het besluit van de Voorzitter van het directiecomité 
+van 9 december 2015 tot oprichting van de P Centra binnen de Administratie Particulieren van de Algemene 
+Administratie van de Fiscaliteit en tot vaststelling van hun zetel en hun materiële en territoriale bevoegdheid 
+zoals gewijzigd door de besluiten van de Voorzitter van het Directiecomité van 19 september 2016, 2 februari 
+2017, 20 september 2017, 8 februari 2018, 19 oktober 2018, 1 april 2019, 13 september 2019, 24 december 
+2019, 29 mei 2020 en 14 oktober 2020, worden de bepalingen onder 8°  en 9°  vervangen als volgt:« 
+8°  P Centrum Luik waarvan de zetel gevestigd is in Luik en met een standplaats in Eupen, Hoei, Malmedy, 
+Sankt-Vith en Verviers; 9°  P Centrum Namen waarvan de zetel gevestigd is in Namen en met een 
+standplaats in Aarlen, Dinant, Marche-en-Famenne en Neufchâteau; »Art. 2. Dit besluit treedt 
+in werking op 1 september 2021.Brussel, 25 juni 2021.H. D'HONDT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-08Numac : 2021042563
+

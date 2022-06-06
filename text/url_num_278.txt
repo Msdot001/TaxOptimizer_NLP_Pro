@@ -1,0 +1,99 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State  
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-07Numac : 2020042846
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 1 SEPTEMBER 2020. - Omzendbrief nr.°  685. - Richtlijnen in het kader van de bijzondere COVID-19-maatregelen voor de personeelsleden van het federaal openbaar ambt inzake de organisatie van het werk 
+Aan 
+de federale overheidsdiensten en de diensten die ervan afhangen, het Ministerie van Defensie en de instellingen 
+van openbaar nut die behoren tot het federaal administratief openbaar ambt zoals bepaald in artikel 1 
+van de wet van 22 juli 1993 houdende bepaalde maatregelen inzake ambtenarenzaken Geachte collega's,Geachte 
+mevrouw,Geachte heer,Overwegende de dringendheid gemotiveerd door het feit dat het 
+coronavirus COVID-19 zich over het Europese grondgebied en in België verspreidt, en dat er dringende 
+maatregelen worden genomen om het risico voor de volksgezondheid te verminderen; Overwegende 
+dat er maatregelen werden genomen om het risico voor de volksgezondheid te verminderen, waaronder "telewerk", 
+de invoering van het "quarantainegetuigschrift" voor werknemers die zich mogelijk in de incubatieperiode 
+bevinden van het COVID-19-virus en voor een groot aantal werknemers die beschermd moeten worden omdat 
+ze door hun medische situatie tot een risicogroep behoren, evenals de invoering van een "quarantaineperiode" 
+voor wie terugkomt van niet-essentiële reizen zoals toeristische reizen, in functie van de door de FOD 
+Buitenlandse Zaken gecommuniceerde kleurcodes; Overwegende de noodzaak om de gevolgen voor 
+de personeelsleden van het federaal administratief openbaar ambt te verduidelijken en te preciseren;Moeten 
+de volgende richtlijnen uitgevaardigd worden: 1. Inzake de organisatie van het werk: Er 
+wordt verwezen naar de richtlijnen vermeld in artikel 2 van het ministerieel besluit van 30 juni 2020 
+houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, dat laatst 
+gewijzigd werd door het ministerieel besluit van 28 juli 2020, of door elke andere bepaling die voorgenoemd 
+artikel 2 zou vervangen of wijzigen, en waarvan het toepassingsgebied hetzelfde zou zijn als dat van 
+deze omzendbrief. 2. Inzake quarantainegetuigschriften: Wanneer het personeelslid 
+zich niet naar zijn werkplaats kan begeven wegens een quarantainegetuigschrift, verricht het personeelslid 
+zijn prestaties in telewerk. Wanneer de functie van het personeelslid niet in telewerk kan worden uitgeoefend, 
+wordt het personeelslid ter beschikking gesteld van de leidend ambtenaar. De leidend ambtenaar of zijn 
+afgevaardigde vertrouwt het personeelslid taken toe die zoveel mogelijk met zijn functie zijn verbonden 
+en die in zijn verblijfplaats moeten worden uitgevoerd. Technische personeelsleden kunnen eventueel administratieve 
+opdrachten toegewezen krijgen als dit past binnen hun algemene competentieniveau. Het personeelslid krijgt 
+bij gebrek een dienstvrijstelling voor de periodes waarin hem geen taken zijn toegewezen.Een 
+personeelslid dat bij terugkomst van een niet-essentiële reis naar het buitenland een quarantainegetuigschrift 
+krijgt, bevindt zich echter in de situatie die beschreven wordt in punt 3. 3. Inzake verplichte 
+of aanbevolen quarantaineperiode: Wanneer het personeelslid terugkomt van een niet-essentiële 
+reis en hij in quarantaineperiode moet in navolging van de aanbevelingen of verplichtingen van de FOD 
+Buitenlandse Zaken, dan moet hij de volgende regels in acht nemen, waarbij een onderscheid gemaakt wordt 
+tussen 2 hypothesen :-Als bij vertrek naar het buitenland voor een niet-essentiële reis de 
+regels bepalen dat bij terugkeer een verplichte of aanbevolen quarantaineperiode in acht zou moeten genomen 
+worden, verricht het personeelslid zijn prestaties in telewerk, voor zover de leidend ambtenaar of zijn 
+afgevaardigde het om dienstredenen nodig vindt dat het personeelslid zijn prestaties uitoefent tijdens 
+de quarantaineperiode. Als de functie van het personeelslid niet in telewerk kan worden uitgeoefend of 
+als de leidend ambtenaar of zijn afgevaardigde dit niet toestaan, neemt het personeelslid verlof om de 
+quarantaineperiode te overbruggen (jaarlijks verlof, recuperatie- of ander verlof); - Als bij 
+vertrek naar het buitenland voor een niet-essentiële reis de regels bepalen dat bij terugkeer geen verplichte 
+of aanbevolen quarantaineperiode in acht zou moeten genomen worden, dan zijn de regels voorzien in punt 
+2, lid 1, van toepassing. Het bewijs dat de geldende regels op het moment van vertrek niet 
+voorzagen in verplichte of aanbevolen quarantaineperiode bij terugkeer uit het buitenland is de verantwoordelijkheid 
+van het personeelslid.Deze omzendbrief is niet van toepassing op beroepsverplaatsingen, waarvoor 
+verwezen wordt naar punt 1. Deze omzendbrief treedt in werking op 1 september 2020.De 
+Minister van Ambtenarenzaken,D. CLARINVAL   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-07Numac : 2020042846
+

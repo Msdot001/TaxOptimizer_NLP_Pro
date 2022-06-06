@@ -1,0 +1,238 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/24/2021042470/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042470
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 24 JUNI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering betreffende steun aan ondernemingen die een contactberoep of een zogenaamde niet-essentiële activiteit uitoefenen in het kader van de gezondheidscrisis COVID-19 
+De Brusselse Hoofdstedelijke Regering,Gelet op de ordonnantie van 3 mei 
+2018 betreffende de steun voor de economische ontwikkeling van ondernemingen, de artikelen 28 en 30;Gelet 
+op artikel 2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 1 juni 2021;Gelet op het akkoord 
+van de Minister van Begroting, gegeven op 3 juni 2021;Gelet op het advies van de Economische 
+en Sociale Raad voor het Brussels Hoofdstedelijk Gewest, gegeven op 16 juni 2021;Gelet op het 
+advies van de Gegevensbeschermingsautoriteit, gegeven op 14 juni 2021 ;Gelet op de spoedeisendheid, 
+gemotiveerd door het feit dat de COVID-19-gezondheidscrisis aanzienlijke economische gevolgen heeft voor 
+veel ondernemingen;Dat het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken, zoals van toepassing op 27 maart 2021, onder 
+meer de volledige of gedeeltelijke sluiting van de contactberoepen en bepaalde zogenaamde niet-essentiële 
+handelszaken oplegde;Dat deze context de omzet van deze inrichtingen sterk vermindert; dat 
+deze vaste kosten moeten blijven dragen en vaak hebben moeten investeren om aan de gezondheidsvoorschriften 
+te voldoen; dat als gevolg daarvan een aanzienlijk deel van deze inrichtingen momenteel in een zeer slechte 
+financiële positie verkeert en, voor sommige, zelfs op de rand van het failliet; dat deze inrichtingen 
+veel personeel in dienst hebben; dat de ineenstorting van deze economische sectoren negatieve gevolgen 
+zou hebben voor andere verwante sectoren, zoals die van hun leveranciers;Dat het om deze verschillende 
+redenen gepast is om deze inrichtingen onverwijld opnieuw financieel te steunen en hun zo snel mogelijk 
+steun uit te keren; dat de urgentie gerechtvaardigd is;Gelet op advies 69.543/1 van de Raad 
+van State, gegeven op 15 juni 2021, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de 
+wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op voorstel van de Minister van 
+Economie,Na beraadslaging,Besluit :HOOFDSTUK 1. - Algemene bepalingenArtikel 
+1. Voor de toepassing van dit besluit wordt verstaan onder:1°  minister: de minister van de 
+Brusselse Hoofdstedelijke Regering bevoegd voor Economie;2°  ministerieel besluit van 28 oktober 
+2020: het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken;3°  de minimisverordening: de verordening (EU) nr. 
+1407/2013 van de commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 
+van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, bekend gemaakt in het 
+Publicatieblad van de Europese Unie L352 van 24 december 2013;4°  BEW: Brussel Economie en 
+Werkgelegenheid van de Gewestelijke Overheidsdienst Brussel;5°  KBO : de Kruispuntbank van 
+Ondernemingen.Art. 2. De minister verleent, voor hun inkomensverlies in het kader van de gezondheidscrisis 
+COVID-19, steun aan de ondernemingen die :1°  ofwel verplicht werden op 27 maart 2021 een of 
+meer vestigingseenheden gelegen in het Gewest te sluiten, op grond van artikel 8, § 4, van het 
+ministerieel besluit van 28 oktober 2020 zoals van toepassing op 27 maart 2021;2°  ofwel vanaf 
+27 maart 2021 hun activiteiten enkel hebben kunnen verderzetten via een systeem van bestellen en afhalen, 
+van leveren, of via een systeem op afspraak, op grond van artikel 8bis van het ministerieel besluit van 
+28 oktober 2020 zoals van toepassing op 27 maart 2021.De steun wordt toegekend onder de voorwaarden 
+bepaald in dit besluit.De gezondheidscrisis COVID-19 wordt erkend als een buitengewone gebeurtenis, 
+als bedoeld in artikel 28 van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische 
+ontwikkeling van ondernemingen.De steun wordt verleend onder de voorwaarden bedoeld in de de 
+minimisverordening.De in dit besluit vastgestelde steunvoorwaarden zijn van toepassing onverminderd 
+de in de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen 
+vastgestelde voorwaarden.HOOFDSTUK 2. - Algemene steunvoorwaardenArt. 3. De begunstigde:1° 
+ is ingeschreven in de KBO op 31 december 2020;2°  heeft, op 31 december 2020, een vestigingseenheid 
+ingeschreven in de KBO op het grondgebied van het Gewest, oefent er een economische activiteit uit en 
+beschikt er over personele middelen en eigen goederen die specifiek voor hem bestemd zijn;3° 
+ geniet de btw-vrijstellingsregeling voor kleine ondernemingen bedoeld in artikel 56bis van het Btw-Wetboek 
+niet;4°  heeft een of meer van de premies bedoeld in de volgende besluiten niet genoten:a) 
+het besluit van de Brusselse Hoofdstedelijke Regering nr. 2020/42 van 18 juni 2020 betreffende de toekenning 
+van een premie voor de creatieve en culturele instellingen zonder winstoogmerk getroffen door COVID-19-crisis;b) 
+het besluit van de Brusselse Hoofdstedelijke Regering van 12 oktober 2020 treffende de steun tot vergoeding 
+van de creatieve en culturele instellingen zonder winstoogmerk getroffen door de dringende maatregelen 
+om de verspreiding van het COVID-19-virus te beperken;5°  indien hij voor 1 januari 2019 in 
+de KBO is ingeschreven, verklaart op eer dat zijn omzetverlies over de eerste vier maanden van 2021 ten 
+opzichte van de eerste vier maanden van 2019 ten minste gelijk is aan het in artikel 8 of 10, naar gelang 
+het geval, vastgestelde steunbedrag.Art. 4. De begunstigde heeft in 2019 een omzet verwezenlijkt 
+die hoger dan 25.000 euro is.De omzet wordt bepaald op basis van de gegevens opgenomen in de 
+ontvangstbewijzen van de btw-aangiftes van uiterlijk 24 juni 2021.In afwijking van het tweede 
+lid, voor wat betreft de btw-eenheden in de zin van artikel 4, § 2, van het Wetboek van de belasting 
+over de toegevoegde waarde, wordt de omzet bepaald op basis van de gegevens opgenomen in de ontvangstbewijzen 
+van de btw-aangiftes van de btw-eenheid van uiterlijk 24 juni 2021 en een getuigschrift van een gecertificeerd 
+accountant, een gecertificeerd belastingadviseur of een bedrijfsrevisor, dat de lijst van alle leden 
+van de btw-eenheid en de maandelijkse of trimestriële omzet voor 2019 van alle leden van btw-eenheid 
+bevat.Het eerste lid is niet van toepassing op de begunstigden ingeschreven in de KBO vanaf 
+1 januari 2019.Art. 5. De begunstigde die, in het kader van zijn beroepsactiviteiten, door 
+een gerechtelijke beslissing die in kracht van gewijsde is gegaan wordt gesanctioneerd op basis van artikel 
+26 van het ministerieel besluit van 28 oktober 2020, of elke bepaling die het vervangt, is uitgesloten 
+van de steun of, desgevallend, gehouden ze terug te betalen.De begunstigde leeft de voorwaarde 
+bepaald in het eerste lid na gedurende een periode van drie jaar vanaf de datum van de toekenning van 
+de steun.Art. 6. Enkel de gegevens ingeschreven in de KBO op de datum van de steunaanvraag 
+gelden.HOOFDSTUK 3. - Steun voor de ondernemingen die een contactberoep uitoefenenArt. 
+7. Komt in aanmerking voor de steun voor de ondernemingen die een contactberoep uitoefenen, de begunstigde 
+die, cumulatief:1°  een van de activiteiten hieronder opgenomen uitoefent, ingeschreven onder 
+de btw-activiteiten in de KBO op 31 december 2020 :a) de activiteit '96.021 - Haarverzorging';b) 
+de activiteit '96.022 - Schoonheidsverzorging';c) de activiteit '96.040 - Sauna's, solaria, 
+baden enz.';d) de activiteit '96.092 - Plaatsen van tatouages en piercings';2°  onderworpen 
+is aan de verplichting om een of meer vestigingseenheden gelegen in het Gewest te sluiten overeenkomstig 
+artikel 8, § 4, van het ministerieel besluit van 28 oktober 2020 zoals van toepassing op 27 maart 
+2021.Art. 8. De steun bestaat uit een premie van 3.000 euro per actieve vestigingseenheid in 
+het Gewest die actief is in een contactberoep, zoals ingeschreven in de KBO op 31 december 2020 en verplicht 
+gesloten overeenkomstig artikel 8 van het ministerieel besluit van 28 oktober 2020 zoals van toepassing 
+op 27 maart 2021.De premie wordt toegekend voor een maximum van vijf vestigingseenheden per 
+begunstigde.HOOFDSTUK 4. - Steun voor de ondernemingen die een zogenaamde niet-essentiële activiteit 
+uitoefenenArt. 9. Komt in aanmerking voor de steun voor de ondernemingen die een zogenaamde 
+niet-essentiële activiteit uitoefenen, de begunstigde die, cumulatief:1°  een van de activiteiten 
+opgenomen in bijlage uitoefent, ingeschreven onder de btw-activiteiten in de Kruispuntbank van Ondernemingen 
+op 31 december 2020;2°  vanaf 27 maart 2021 zijn activiteiten enkel heeft kunnen verderzetten 
+via een systeem van bestellen en afhalen, van leveren, of via een systeem op afspraak, op grond van artikel 
+8bis van het ministerieel besluit van 28 oktober 2020 zoals van toepassing op 27 maart 2021.Art. 
+10. De steun bestaat uit een premie van 1.500 euro per actieve vestigingseenheid in het Gewest die actief 
+is een zogenaamde niet-essentiële sector, zoals ingeschreven in de KBO op 31 december 2020 en die zijn 
+activiteiten enkel heeft kunnen verderzetten via een systeem van bestellen en afhalen, van leveren, of 
+via een systeem op afspraak, op grond van artikel 8bis van het ministerieel besluit van 28 oktober 2020 
+zoals van toepassing op 27 maart 2021.De premie wordt toegekend voor een maximum van vijf vestigingseenheden 
+per begunstigde.HOOFDSTUK 5. - Procedure voor de behandeling van de steunaanvraagdossiers en 
+de vereffening van de steunArt. 11. De begunstigde dient de steunaanvraag in bij BEW door middel 
+van een formulier dat BEW op zijn website ter beschikking stelt aan de ondernemingen die voldoen aan 
+de voorwaarden bepaald in artikel 3, 1°  en 2°,  7, 1°,  en 9, 1°,  van dit besluit en die en die zich 
+niet in een van de situaties bedoeld in artikel 41, eerste lid, 3°,  van de ordonnantie van 3 mei 2018 
+betreffende de steun voor de economische ontwikkeling van ondernemingen bevinden. Het formulier vermeldt 
+de bewijsstukken die de begunstigde bij zijn aanvraag voegt.De begunstigde kan slechts één 
+enkele steunaanvraag indienen.De begunstigde kan de verschillende premies bedoeld in de hoofdstukken 
+3 en 4 niet combineren. In zijn steunaanvraag kiest de begunstigde onherroepelijk welke van de twee premies 
+hij aanvraagt.BEW ontvangt de steunaanvraag ten laatste op 28 juli 2021.De begunstigde 
+vermeldt in zijn aanvraag de andere onder de de-minimisverordening of andere de-minimisverordeningen 
+vallende steun die de onderneming gedurende de twee voorafgaande belastingjaren en het lopende belastingjaar 
+heeft ontvangen.BEW kan per e-mail alle documenten of informatie opvragen die het voor het 
+onderzoek van de aanvraag noodzakelijk acht. De begunstigde verstrekt de aanvullende documenten en informatie 
+binnen twintig dagen. Indien binnen deze termijn geen antwoord wordt ontvangen, wordt de steun geweigerd.De 
+toekenningsbeslissing wordt binnen de twee maanden van de datum van de ontvangst van de aanvraag aan 
+de begunstigde betekend.BEW deelt de begunstigde mee dat de steun overeenkomstig de de minimisverordening 
+wordt verleend.Art. 12. De steun wordt in één enkele schijf vereffend op een Belgische zichtrekening 
+op naam van de begunstigde.Art. 13.  § 1. Het beheer en de controle van de aanvragen 
+kan, om de in de aanvraag opgegeven gegevens te controleren of aan te vullen, de verwerking van de volgende 
+categorieën van persoonsgegevens betreffen:1°  de identificatie- en contactgegevens van de 
+personen die namens de begunstigden de aanvraag indienen;2°  de identificatie-, adres- en contactgegevens 
+evenals een referentie voor een bankrekening van de zelfstandige ondernemingen natuurlijk persoon die 
+de premie aanvragen;3°  de gegevens betreffende sancties en inbreuken van de begunstigden bedoeld 
+in artikel 5;4°  de gegevens die noodzakelijk zijn om de naleving van de voorwaarden bedoeld 
+in de artikelen 3, 4, 7 en 9 na te gaan. § 2. BEW is de verantwoordelijke voor de verwerkingen 
+van persoonsgegevens bedoeld in § 1.BEW kan de persoonsgegevens, en andere gegevens, 
+bekomen van de aanvrager of van een andere overheidsinstantie, waaronder de FOD Economie en de FOD Financiën. 
+§ 3. De maximale bewaringstermijn voor persoonsgegevens die op grond van dit artikel worden verwerkt, 
+bedraagt drie jaar vanaf de dag van de weigering of van de vereffening van de steun, behalve voor persoonsgegevens 
+die eventueel nodig zouden zijn voor de behandeling van geschillen met de steunaanvrager, die bewaard 
+worden gedurende de tijd die nodig is om dergelijke geschillen te behandelen, met inbegrip van de uitvoering 
+van eventuele gerechtelijke beslissingen.HOOFDSTUK 6. - SlotbepalingenArt. 14. Dit 
+besluit treedt in werking op 1 juli 2021.Art. 15. De minister is belast met de uitvoering van 
+dit besluit.Brussel, 24 juni 2021.Voor de Brusselse Hoofdstedelijke Regering:De 
+Minister-President van de Brusselse Hoofdstedelijke Regering,R. VERVOORTDe Minister 
+van de Brusselse Hoofdstedelijke Regering bevoegd voor Economie,A. MARONBijlage 
+- Btw-activiteiten die in aanmerking komen voor de steun voor de ondernemingen die een zogenaamde niet-essentiële 
+activiteit uitoefenen45.113 - Detailhandel in auto's en lichte bestelwagens (≤ 3,5 ton)45.193 
+- Detailhandel in andere motorvoertuigen (> 3,5 ton)45.206 - Wassen en poetsen van motorvoertuigen45.320 
+- Detailhandel in onderdelen en accessoires van motorvoertuigen47.191 - Detailhandel in niet-gespecialiseerde 
+winkels waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte < 2500 m2)47.192 
+- Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte 
+vanaf 2500 m2)47.410 - Detailhandel in computers, randapparatuur en software 
+in gespecialiseerde winkels47.430 - Detailhandel in audio- en videoapparatuur in gespecialiseerde 
+winkels47.512 - Detailhandel in huishoudtextiel en beddengoed in gespecialiseerde winkels47.519 
+- Detailhandel in overig textiel in gespecialiseerde winkels47.523 - Detailhandel in wand- 
+en vloertegels in gespecialiseerde winkels47.524 - Detailhandel in parket-, laminaat- en kurkvloeren 
+in gespecialiseerde winkels47.527 - Detailhandel in sanitaire artikelen en sanitair installatiemateriaal 
+in gespecialiseerde winkels47.530 - Detailhandel in tapijten en andere vloerbedekking en wandbekleding 
+in gespecialiseerde winkels47.540 - Detailhandel in elektrische huishoudapparaten in gespecialiseerde 
+winkels47.591 - Detailhandel in huismeubilair in gespecialiseerde winkels47.592 - 
+Detailhandel in verlichtingsartikelen in gespecialiseerde winkels47.593 - Detailhandel in glas-, 
+porselein- en aardewerk en in niet-elektrische huishoudelijke artikelen in gespecialiseerde winkels47.594 
+- Detailhandel in muziekinstrumenten in gespecialiseerde winkels47.599 - Detailhandel in andere 
+huishoudelijke artikelen in gespecialiseerde winkels, n.e.g.47.630 - Detailhandel in audio- 
+en video-opnamen in gespecialiseerde winkels47.640 - Detailhandel in sport- en kampeerartikelen 
+in gespecialiseerde winkels47.650 - Detailhandel in spellen en speelgoed in gespecialiseerde 
+winkels47.711 - Detailhandel in damesbovenkleding in gespecialiseerde winkels47.712 
+- Detailhandel in herenbovenkleding in gespecialiseerde winkels47.713 - Detailhandel in baby- 
+en kinderbovenkleding in gespecialiseerde winkels47.714 - Detailhandel in onderkleding, lingerie 
+en strand- en badkleding in gespecialiseerde winkels47.715 - Detailhandel in kledingaccessoires 
+in gespecialiseerde winkels47.716 - Detailhandel in dames-, heren-, baby- en kinderboven- en 
+onderkleding en kledingaccessoires in gespecialiseerde winkels (algemeen assortiment)47.721 
+- Detailhandel in schoeisel in gespecialiseerde winkels47.722 - Detailhandel in lederwaren 
+en reisartikelen in gespecialiseerde winkels47.750 - Detailhandel in cosmetica en toiletartikelen 
+in gespecialiseerde winkels47.770 - Detailhandel in uurwerken en sieraden in gespecialiseerde 
+winkels47.782 - Detailhandel in fotografische en optische artikelen en in precisieinstrumenten 
+in gespecialiseerde winkels47.783 - Detailhandel in wapens en munitie in gespecialiseerde winkels47.784 
+- Detailhandel in drogisterijartikelen en onderhoudsproducten in gespecialiseerde winkels47.785 
+- Detailhandel in fietsen in gespecialiseerde winkels47.786 - Detailhandel in souvenirs en 
+religieuze artikelen in gespecialiseerde winkels47.787 - Detailhandel in nieuwe kunstvoorwerpen 
+in gespecialiseerde winkels47.788 - Detailhandel in babyartikelen (algemeen assortiment)47.789 
+- Overige detailhandel in nieuwe artikelen in gespecialiseerde winkels, n.e.g.47.791 - Detailhandel 
+in antiquiteiten in winkels47.792 - Detailhandel in tweedehandskleding in winkels47.793 
+- Detailhandel in andere tweedehandsgoederen in winkels, m.u.v. tweedehandskleding47.820 - 
+Markt- en straathandel in textiel, kleding en schoeisel47.890 - Markt- en straathandel in andere 
+artikelen47.990 - Overige detailhandel, niet in winkels en exclusief markt- en straathandel77.220 
+- Verhuur van videobanden, dvd's en cd's82.190 - Fotokopiëren, documentvoorbereiding en andere 
+gespecialiseerde ondersteunende activiteiten ten behoeve van kantoren95.110 - Reparatie van 
+computers en randapparatuur95.210 - Reparatie van consumentenelektronica95.220 - 
+Reparatie van huishoudapparaten en van werktuigen voor gebruik in huis en tuin95.230 - Reparatie 
+van schoeisel en lederwaren95.240 - Reparatie van meubelen en stoffering95.250 - 
+Reparatie van uurwerken en sieraden95.290 - Reparatie van andere consumentenartikelen96.093 
+- Diensten in verband met de verzorging van huisdieren, m.u.v. veterinaire diensten96.094 - 
+Africhten van huisdieren95.095 - Pensions voor huisdierenGezien om gevoegd te worden 
+bij het besluit van de Brusselse Hoofdstedelijke Regering van 24 juni 2021 betreffende steun aan ondernemingen 
+die een contactberoep of een zogenaamde niet-essentiële activiteit uitoefenen in het kader van de gezondheidscrisis 
+COVID-19;Brussel, 24 juni 2021.Voor de Brusselse Hoofdstedelijke Regering:De 
+Minister-President van de Brusselse Hoofdstedelijke Regering,R. VERVOORTDe Minister 
+van de Brusselse Hoofdstedelijke Regering bevoegd voor Economie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042470
+

@@ -1,0 +1,392 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/06/28/2020021096/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-10Numac : 2020021096
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 28 JUNI 2019. - Koninklijk besluit tot wijziging van de koninklijke besluiten nrs. 4, 10, 19, 51 en 54 met betrekking tot de belasting over de toegevoegde waarde wat betreft de indiening langs elektronische weg van de aangiften van aanvang, wijziging en stopzetting van activiteit, de vrijstellingsregeling van belasting, houdende technische aanpassingen betreffende de communautaire en nationale wetgeving en tot opheffing van het koninklijk besluit nr. 47 van 25 februari 1996 tot regeling van de controle van de voldoening van de belasting over de toegevoegde waarde verschuldigd ter zake van de levering, intracommunautaire verwerving en invoer van vervoermiddelen, in de zin van artikel 8bis, § 2, 1°,  van het wetboek. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het koninklijk besluit 
+van 28 juni 2019 tot wijziging van de koninklijke besluiten nrs. 4, 10, 19, 51 en 54 met betrekking tot 
+de belasting over de toegevoegde waarde wat betreft de indiening langs elektronische weg van de aangiften 
+van aanvang, wijziging en stopzetting van activiteit, de vrijstellingsregeling van belasting, houdende 
+technische aanpassingen betreffende de communautaire en nationale wetgeving en tot opheffing van het 
+koninklijk besluit nr. 47 van 25 februari 1996 tot regeling van de controle van de voldoening van de 
+belasting over de toegevoegde waarde verschuldigd ter zake van de levering, intracommunautaire verwerving 
+en invoer van vervoermiddelen, in de zin van artikel 8bis, § 2, 1°,  van het wetboek (Belgisch 
+Staatsblad van 12 juli 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN28. JUNI 
+2019 - Königlicher Erlass zur Abänderung der Königlichen Erlasse Nr. 4, 10, 19, 51 und 54 in Bezug auf 
+die Mehrwertsteuer hinsichtlich der elektronischen Einreichung von Erklärungen über Tätigkeitsaufnahme, 
+-wechsel und -beendigung und der Steuerbefreiungsregelung, zur Festlegung technischer Anpassungen in 
+Bezug auf die gemeinschaftlichen und nationalen Rechtsvorschriften und zur Aufhebung des Königlichen 
+Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, den innergemeinschaftlichen 
+Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis §  2 Nr. 1 des Gesetzbuches geschuldeten 
+MehrwertsteuerBERICHT AN DEN KÖNIGSire,mit vorliegendem Entwurf eines Königlichen 
+Erlasses wird bezweckt, den Königlichen Erlass Nr. 10 vom 29. Dezember 1992 über die Modalitäten für 
+die Ausübung der in den Artikeln 15 § 2 Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 
+des Mehrwertsteuergesetzbuches vorgesehenen Optionen, über Erklärungen über Tätigkeitsaufnahme, -wechsel 
+und -beendigung und über vorhergehende Erklärungen im Bereich der Mehrwertsteuer sowie den Königlichen 
+Erlass Nr. 19 vom 29. Juni 2014 über die Regelung der Befreiung von der Mehrwertsteuer zugunsten von 
+Kleinunternehmen abzuändern. Mit dem Entwurf wird ebenfalls die Abänderung der Königlichen Erlasse Nr. 
+4, 51 und 54 in Bezug auf die Mehrwertsteuer bezweckt. Diese Abänderungen betreffen technische Anpassungen 
+in Bezug auf die gemeinschaftlichen und nationalen Rechtsvorschriften. Schließlich wird durch den 
+Entwurf der Königliche Erlass Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die 
+Lieferung, den innergemeinschaftlichen Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis 
+§ 2 Nr. 1 des Gesetzbuches geschuldeten Mehrwertsteuer aufgehoben.KAPITEL 1 - Elektronische 
+Einreichung von Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigungAufgrund von Artikel 
+1 des Königlichen Erlasses Nr. 10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung der in 
+den Artikeln 15 § 2 Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Optionen, über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende 
+Erklärungen im Bereich der Mehrwertsteuer (nachstehend "Königlicher Erlass Nr. 10") müssen Personen mit 
+Ausnahme der in Absatz 5 dieses Artikels erwähnten Personen, bevor sie eine wirtschaftliche Tätigkeit 
+ausüben, durch die sie die Eigenschaft eines Mehrwertsteuerpflichtigen erhalten, eine entsprechende Erklärung 
+beim zuständigen Dienst der mit der Mehrwertsteuer beauftragten Verwaltung einreichen.Diese 
+in Artikel 53 § 1 Absatz 1 Nr. 1 des Mehrwertsteuergesetzbuches (nachstehend "Gesetzbuch") erwähnte 
+Erklärung ist auch unter der Bezeichnung "Formular 604A" bekannt.In dieser Bestimmung ist für 
+diese Mehrwertsteuerpflichtigen ebenfalls die Verpflichtung vorgesehen, jede im Rahmen dieser Tätigkeit 
+eingetretene Änderung zu melden beziehungsweise eine Erklärung in Bezug auf die Beendigung dieser Tätigkeit 
+einzureichen. Diese Erklärungen sind in den Artikeln 2 und 3 des Königlichen Erlasses Nr. 10 erwähnt 
+und werden anhand des "Formulars 604B" beziehungsweise des "Formulars 604C" eingereicht, damit dem zuständigen 
+Dienst jede Änderung der Identifizierungsdaten (Änderung des Gesellschaftsnamens, des Wohn- oder Gesellschaftssitzes, 
+der Rechtsform, der Tätigkeit usw.) sowie die Tätigkeitsbeendigung mitgeteilt werden kann.Seit 
+vielen Jahren müssen eine Reihe von Unterlagen auf der Grundlage der dem König durch Artikel 53octies 
+§ 2 des Gesetzbuches zuerkannten Ermächtigung elektronisch eingereicht werden. Dies gilt insbesondere 
+für die in Artikel 53 § 1 Absatz 1 Nr. 2 des Gesetzbuches erwähnte periodische Mehrwertsteuererklärung, 
+die in Artikel 53quinquies des Gesetzbuches erwähnte jährliche Liste der mehrwertsteuerpflichtigen Kunden 
+und die in Artikel 53sexies des Gesetzbuches erwähnte Liste der innergemeinschaftlichen Umsätze.In 
+Artikel 53octies § 2 des Gesetzbuches ist seit seiner Abänderung durch das Gesetz vom 29. November 
+2017 (Belgisches Staatsblatt vom 6. Dezember 2017, deutsche Übersetzung: Belgisches Staatsblatt vom 27. 
+August 2018) vorgesehen, dass der König unter den von Ihm festzulegenden Bedingungen gestatten oder auch 
+vorschreiben kann, dass die in Artikel 53 § 1 Absatz 1 Nr. 1 des Gesetzbuches erwähnten Erklärungen 
+über Tätigkeitsaufnahme, -wechsel und -beendigung anhand eines Verfahrens eingereicht werden, bei dem 
+Informatik- und Telematiktechniken angewandt werden.Artikel 6 des Königlichen Erlasses Nr. 
+10 wird somit durch Artikel 4 des Entwurfs ersetzt, durch den in § 1 die Verpflichtung vorgesehen 
+wird, Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung elektronisch einzureichen.Im 
+neuen Artikel 6 § 1 Absatz 2 des Königlichen Erlasses Nr. 10 ist eine Ausnahme zu diesem Grundsatz 
+für Steuerpflichtige vorgesehen, die nachweisen können, dass sie selbst oder die Person, die zur Einreichung 
+der betreffenden Erklärungen ermächtigt ist, nicht über die notwendigen computergestützten Mittel verfügen, 
+um dieser Verpflichtung nachzukommen. Es handelt sich um dieselbe Ausnahme wie die, die im Bereich periodische 
+Mehrwertsteuererklärungen in Artikel 18 § 5 des Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 
+über Maßnahmen im Hinblick auf die Gewährleistung der Zahlung der Mehrwertsteuer vorgesehen ist.Der 
+Begriff "elektronisch" betrifft die Einreichung über eine elektronische Anwendung, die von der Verwaltung 
+zur Verfügung gestellt wird, und, auf der Grundlage von Artikel 7bis des Königlichen Erlasses Nr. 10, 
+die elektronische Versendung der in den Artikeln 1 bis 3 desselben Erlasses erwähnten Daten über einen 
+vom FÖD Wirtschaft, KMB, Mittelstand und Energie zugelassenen einzigen Unternehmensschalter.Aufgrund 
+des neuen Artikels 6 § 1 Absatz 3 desselben Erlasses ist der Minister der Finanzen oder sein Beauftragter 
+mit der Ausführung dieser Bestimmung beauftragt. Er legt insbesondere das Muster der Formulare, die als 
+Erklärungen über Tätigkeitsaufnahme, -wechsel oder -beendigung gelten, und die Modalitäten und Bedingungen 
+für die Einreichung dieser Formulare in elektronischer Form oder in Papierform (aufgrund der in Artikel 
+6 § 1 Absatz 2 des Königlichen Erlasses Nr. 10 vorgesehenen Toleranz) fest.Im neuen 
+Artikel 6 des Königlichen Erlasses Nr. 10 wird in § 2 die Verpflichtung teilweise wieder aufgenommen, 
+die im heutigen Artikel 6 dieses Erlasses vorgesehen ist, aufgrund dessen die in den Artikeln 4 und 5 
+desselben Erlasses erwähnten Erklärungen auf Formularen erstellt werden müssen, die den Betreffenden 
+bei den zuständigen Mehrwertsteuerdiensten zur Verfügung gestellt werden.Es handelt sich um 
+die in den Artikeln 53bis §§  1 und 2 und 25ter § 1 Absatz 2 Nr. 2 des Gesetzbuches 
+erwähnten Erklärungen. Sie betreffen einerseits die Überschreitung der Schwelle oder die Option für die 
+Besteuerung im Bereich innergemeinschaftliche Erwerbe von Gütern durch die in Artikel 25ter § 
+1 Absatz 2 Nr. 2 Buchstabe a) des Gesetzbuches erwähnten Personen (von der Mehrwertsteuer befreite Steuerpflichtige, 
+Steuerpflichtige, die der landwirtschaftlichen Regelung unterliegen, Steuerpflichtige ohne Recht auf 
+Vorsteuerabzug und nichtsteuerpflichtige juristische Personen) und andererseits den Erwerb einer ersten 
+Dienstleistung durch Steuerpflichtige, die nicht für Zwecke der Mehrwertsteuer erfasst sind, wobei sie 
+für diese Dienstleistung auf der Grundlage von Artikel 51 § 2 Absatz 1 Nr. 1 des Gesetzbuches 
+die Steuer schulden. Diese Erklärungen sind nicht von der vorliegenden Maßnahme in Bezug auf die 
+Verpflichtung zur elektronischen Einreichung betroffen.Die EDV-Anwendung, die Steuerpflichtigen 
+im Hinblick auf die Erfüllung der im neuen Artikel 6 § 1 des Königlichen Erlasses Nr. 10 erwähnten 
+Verpflichtung zur Verfügung gestellt wird, wird derzeit entwickelt. Im Prinzip wird diese Anwendung spätestens 
+am 1. Januar 2020 eingeführt und somit für die Steuerpflichtigen verfügbar sein.Folglich ist 
+in Artikel 14 des Entwurfs vorgesehen, dass Artikel 4 des Entwurfs, durch den Artikel 6 des Königlichen 
+Erlasses Nr. 10 ersetzt wird, am 1. Januar 2020 in Kraft tritt, damit die durch diese Bestimmung eingeführte 
+Verpflichtung voll und ganz anwendbar wird.Schließlich wird in den Artikeln 1, 2, 3, 
+5 und 6 des Entwurfs die Terminologie angepasst, die zur Bezeichnung der Dienste verwendet wird, die 
+für die Bearbeitung der Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung zuständig sind.Seit 
+Inkrafttreten des Gesetzes vom 25. April 2014 zur Anpassung der Bezeichnungen der Verwaltungen des Föderalen 
+Öffentlichen Dienstes Finanzen in den steuerrechtlichen Vorschriften und zur Festlegung verschiedener 
+anderer Gesetzesabänderungen (Belgisches Staatsblatt vom 16. Mai 2014, deutsche Übersetzung: Belgisches 
+Staatsblatt vom 14. April 2015) wird die für die Mehrwertsteuer zuständige Verwaltung als "die mit der 
+Mehrwertsteuer beauftragte Verwaltung" bezeichnet. Folglich wird im Rahmen der vorliegenden Abänderung 
+des Königlichen Erlasses Nr. 10 der Begriff "Mehrwertsteueramt" durch die Begriffe "zuständiger Dienst 
+der mit der Mehrwertsteuer beauftragten Verwaltung" ersetzt. Diese Abänderung wird jedoch nur in Artikel 
+1 Absatz 1 dieses Erlasses durchgeführt, da dies die erste Bestimmung ist, in der auf die Verwaltung 
+verwiesen wird. In den Artikeln 1 Absatz 4, 2 Absatz 1, 3, 4, 5, 7 und 7bis des Königlichen Erlasses 
+Nr. 10 wird wie im Königlichen Erlass vom 24. Januar 2015 zur Abänderung der Königlichen Erlasse Nr. 
+1, 2, 3, 4, 7, 9, 10, 11, 15, 19, 23, 24, 27, 31, 46, 47, 48, 50, 54 und 56 über die Mehrwertsteuer und 
+des Königlichen Erlasses vom 7. Juni 2007 zur Ausführung der Artikel 84quinquies bis 84decies des Mehrwertsteuergesetzbuches 
+(Belgisches Staatsblatt vom 20. Februar 2015, Ausg. 2, deutsche Übersetzung: Belgisches Staatsblatt vom 
+18. September 2015), der sich auf dieselbe Problematik bezieht, nur auf die "Verwaltung" verwiesen, ohne 
+dass die Wörter "mit der Mehrwertsteuer beauftragt" erwähnt werden.KAPITEL 2 - SteuerbefreiungsregelungGemäß 
+Artikel 53quinquies Absatz 3 des Gesetzbuches sind Steuerpflichtige, die der in Artikel 56bis des Gesetzbuches 
+vorgesehenen Steuerbefreiungsregelung unterliegen und keine Umsätze bewirken, für die sie die in Artikel 
+53quinquies Absatz 1 und 2 des Gesetzbuches vorgesehene jährliche Liste der steuerpflichtigen Kunden 
+einreichen müssen, nicht verpflichtet, die Verwaltung davon in Kenntnis zu setzen. Im Falle einer leeren 
+Liste der steuerpflichtigen Kunden muss diese Liste folglich nicht bei der Verwaltung eingereicht werden.In 
+Artikel 4 des Königlichen Erlasses Nr. 19 vom 29. Juni 2014 über die Regelung der Befreiung von der Mehrwertsteuer 
+zugunsten von Kleinunternehmen ist jedoch vorgesehen, dass von der Mehrwertsteuer befreite Steuerpflichtige 
+den Betrag ihres Jahresumsatzes anhand eines Vermerks mitteilen müssen, der in die vorerwähnte jährliche 
+Liste eingetragen werden muss. Wenn ein von der Mehrwertsteuer befreiter Steuerpflichtige keine jährliche 
+Liste der steuerpflichtigen Kunden bei der Verwaltung einreichen muss, kann der Betrag des Jahresumsatzes 
+natürlich auch nicht über diese Liste mitgeteilt werden.Angesichts des Vorhergehenden wird 
+durch Artikel 7 des Entwurfs in Artikel 4 des vorerwähnten Königlichen Erlasses Nr. 19 ein neuer Paragraph 
+2 eingefügt, in dem bestimmt ist, dass Steuerpflichtige, die gemäß Artikel 56bis des Gesetzbuches 
+der Steuerbefreiungsregelung unterliegen und aufgrund von Artikel 53quinquies Absatz 3 des Gesetzbuches 
+davon befreit sind, die jährliche Liste der steuerpflichtigen Kunden einzureichen, nicht mehr dazu verpflichtet 
+sind, der Verwaltung den Betrag ihres Umsatzes mitzuteilen.KAPITEL 3 - Technische Anpassungen 
+in Bezug auf gemeinschaftliche RechtsvorschriftenDurch Artikel 3 des Gesetzes vom 1. April 
+2009 zur Abänderung des Mehrwertsteuergesetzbuches (Belgisches Staatsblatt vom 22. April 2009, Ausg. 
+2, deutsche Übersetzung: Belgisches Staatsblatt vom 29. Juni 2009) ist Artikel 1 § 6 Nr. 4 des 
+Gesetzbuches ersetzt worden, um die wortgetreue Umsetzung der Begriffsbestimmung "verbrauchsteuerpflichtige 
+Waren" wie in Artikel 2 Absatz 3 der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das 
+gemeinsame Mehrwertsteuersystem erwähnt (ABl.EU L 347 vom 11. Dezember 2006) in innerstaatliches Recht 
+zu gewährleisten. Seitdem besteht diese Begriffsbestimmung aus einem Satz.Durch die erste durch 
+Artikel 8 des Entwurfs angebrachte Anpassung wird der Verweis auf das Gesetzbuch im verlangten Sinn abgeändert, 
+wobei Tabakwaren, die ursprünglich in Artikel 1 Absatz 1 des Königlichen Erlasses Nr. 51 vom 14. April 
+1993 über die Vereinfachungsregelung für den innergemeinschaftlichen Erwerb von Akzisenprodukten im Bereich 
+der Mehrwertsteuer nicht erwähnt waren, jedoch ausdrücklich ausgeschlossen werden.Die Richtlinie 
+92/12/EWG des Rates vom 25. Februar 1992 über das allgemeine System, den Besitz, die Beförderung und 
+die Kontrolle verbrauchsteuerpflichtiger Waren ist mehrmals grundlegend abgeändert worden. Der Klarheit 
+halber ist diese Richtlinie durch die Richtlinie 2008/118/EG des Rates vom 16. Dezember 2008 über das 
+allgemeine Verbrauchsteuersystem und zur Aufhebung der Richtlinie 92/12/EWG (ABl.EU L 9/12 vom 14. Januar 
+2009) ersetzt worden.Die zweite durch vorerwähnten Artikel 8 angebrachte Anpassung und die 
+in den Artikeln 9 bis 11 dieses Entwurfs erwähnten Anpassungen betreffen daher die Ersetzung der Verweise 
+auf die Richtlinie 92/12/EWG in vorerwähntem Königlichen Erlass Nr. 51 und im Königlichen Erlass Nr. 
+54 vom 25. Februar 1996 über die andere Lagerregelung als die Zolllagerregelung erwähnt in Artikel 39quater 
+des Mehrwertsteuergesetzbuches.KAPITEL 4 - Technische Anpassungen in Bezug auf nationale RechtsvorschriftenDurch 
+den Königlichen Erlass vom 10. Februar 2009 zur Abänderung des Königlichen Erlasses Nr. 4 vom 29. Dezember 
+1969 in Bezug auf Erstattungen im Bereich der Mehrwertsteuer (Belgisches Staatsblatt vom 13. Februar 
+2009, Ausg. 2) ist der Vorteil der monatlichen Erstattung der Mehrwertsteuergutschrift unter anderem 
+auf Steuerpflichtige ausgedehnt worden, die Immobilienarbeiten ausführen, sofern diese Umsätze gemäß 
+dem Königlichen Erlass Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung 
+der Güter und Dienstleistungen nach diesen Sätzen dem ermäßigten Mehrwertsteuersatz von 6 Prozent 
+unterliegen. Diese Maßnahme ist in Artikel 81 § 2 Absatz 1 Nr. 3 Buchstabe 
+d) des vorerwähnten Königlichen Erlasses Nr. 4 aufgenommen.Durch den Königlichen Erlass vom 
+14. Dezember 2015 zur Abänderung des vorerwähnten Königlichen Erlasses Nr. 20 (Belgisches Staatsblatt 
+vom 15. Dezember 2015, Ausg. 2, deutsche Übersetzung: Belgisches Staatsblatt vom 3. November 2016) ist 
+in Tabelle A der Anlage zu letztgenanntem Erlass die Rubrik "XL. Schulgebäude" eingefügt worden. Diese 
+Rubrik ist durch den Königlichen Erlass vom 3. August 2016 (Belgisches Staatsblatt vom 19. August 2016, 
+Ausg. 2, deutsche Übersetzung: Belgisches Staatsblatt vom 23. Januar 2018) ersetzt worden und betrifft 
+fortan "Für Unterricht und Schülerbetreuung bestimmte Gebäude". Aufgrund der Rubrik XL Nr. 3 unterliegen 
+Immobilienarbeiten in Bezug auf solche Gebäude dem ermäßigten Steuersatz von 6 Prozent.Durch 
+Artikel 12 dieses Entwurfs wird Artikel 81 § 2 Absatz 1 Nr. 3 Buchstabe d) des 
+Königlichen Erlasses Nr. 4 im verlangten Sinn abgeändert, um diese Bestimmung mit den am Königlichen 
+Erlass Nr. 20 angebrachten Abänderungen in Übereinstimmung zu bringen.KAPITEL 5 - Aufhebung 
+des Königlichen Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, 
+den innergemeinschaftlichen Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis  § 
+2 Nr. 1 des Gesetzbuches geschuldeten MehrwertsteuerIn Artikel 53nonies § 2 des Gesetzbuches 
+ist bestimmt, dass der König jede andere Maßnahme im Hinblick auf Kontrolle und Zahlung der Steuer 
+ergreift, die aufgrund der Lieferung, der Einfuhr oder des innergemeinschaftlichen Erwerbs eines Fahrzeugs 
+geschuldet wird.In Ausführung dieser Bestimmung ist in den Artikeln 1 bis 3 des Königlichen 
+Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, den innergemeinschaftlichen 
+Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis § 2 Nr. 1 des Gesetzbuches geschuldeten 
+Mehrwertsteuer auferlegt, dass Anträgen auf - gegebenenfalls vorübergehende - Zulassung eines Fahrzeugs 
+in Belgien Erklärungen beiliegen müssen, in denen bestätigt ist, dass für das betreffende Fahrzeug alle 
+erforderlichen Formalitäten in Bezug auf die Mehrwertsteuer erledigt worden sind (gemeinschaftlicher 
+Charakter des Fahrzeugs, Entrichtung der Mehrwertsteuer, eventuelle Ausnahme usw.).Die vorerwähnten 
+Erklärungen bestehen darin, dass zwei Papier-Vignetten vom steuerpflichtigen Verkäufer (in der Regel 
+einem Konzessionär) auf dem bei der Direktion für Fahrzeugzulassungen (DIV) einzureichenden Zulassungsantrag 
+angebracht werden:- eine Papier-Vignette (Vignette 705), die bei Erstzulassung in Belgien (neue 
+Fahrzeuge oder Gebrauchtfahrzeuge, die in Belgien eingehen) von den Zolldiensten ausgestellt wird und 
+als Nachweis für den gemeinschaftlichen Charakter des Fahrzeugs dient,- eine andere Papier-Vignette 
+(Vignette 904), die zusammen mit der ersten Vignette vom Konzessionär bei Erstzulassung in Belgien oder 
+bei einem aufgrund der Artikel 39, 39bis beziehungsweise 42 § 3 des Gesetzbuches von der Mehrwertsteuer 
+befreiten Verkauf des Fahrzeugs, das daher im Rahmen dieser Steuerbefreiung in Belgien vorübergehend 
+zugelassen wird, angebracht werden muss.Da die DIV der mit der Mehrwertsteuer beauftragten 
+Verwaltung ein Feedback über die tatsächliche Zulassung dieser Fahrzeuge gibt, kann die Verwaltung für 
+jeden Steuerpflichtigen spezifische gezielte Kontrollen in Bezug auf die Zahlung der Mehrwertsteuer auf 
+die Lieferung oder die korrekte Anwendung der Befreiung von der Mehrwertsteuer durchführen (Artikel 39, 
+39bis und 42 § 3 Absatz 1 Nr. 1 bis 8 des Gesetzbuches).Im Laufe des Jahres 2017 hat 
+die Generalverwaltung Zoll und Akzisen die Informatisierung der Vignette 705 umgesetzt, die weiterhin 
+bei Erstzulassung von Landfahrzeugen bei der DIV auf dem Zulassungsantrag anzubringen ist.Die 
+Vignette 705 wird von dieser Verwaltung nach Untersuchung der zoll- und steuerrechtlichen Situation dieses 
+Landfahrzeugs ausgestellt. Dies ist der Fall für Landfahrzeuge, die in Belgien produziert werden beziehungsweise 
+importiert oder innergemeinschaftlich erworben werden. Dabei ist zu bemerken, dass die Produktion, die 
+Einfuhr beziehungsweise der innergemeinschaftliche Erwerb eines Landfahrzeugs nicht immer mit dem Verkauf 
+in Zusammenhang steht, der Anlass zur Erstzulassung gibt (insbesondere bei aufeinander folgenden Verkäufen).Es 
+hat sich herausgestellt, dass die schwerfälligen Formalitäten in Bezug auf die in Artikel 3 des vorerwähnten 
+Königlichen Erlasses Nr. 47 erwähnte Erklärung unter Berücksichtigung einerseits der sehr beschränkten 
+Anzahl tatsächlicher Betrugsfälle in diesem Zusammenhang und andererseits der alternativen Kontrollverfahren, 
+über die die mit der Mehrwertsteuer beauftragte Verwaltung heute verfügt, nicht mehr gerechtfertigt sind.Die 
+korrekte Anwendung der Mehrwertsteuervorschriften wird gewährleistet durch die Kontrollen, die von den 
+Zolldiensten bei der Ausstellung der Vignetten 705 durchgeführt werden, die von der DIV erteilten Auskünfte 
+(zum Beispiel im Rahmen von Anträgen auf Zulassung von Fahrzeugen, die nur für eine vorübergehende Zulassung 
+in Belgien in Betracht kommen konnten, für die aber später ein Antrag auf endgültige Zulassung in Belgien 
+gestellt wird) oder auch die Möglichkeit, gezielte sektorbezogene Kontrollen durchführen zu lassen.Folglich 
+hat sich herausgestellt, dass die Formalitäten in Bezug auf die Ausstellung und das Anbringen der Vignette 
+904 aufgehoben werden können. Aus denselben Gründen kann die ähnliche Verpflichtung in Bezug auf Wasserfahrzeuge, 
+die in Artikel 4 des vorerwähnten Königlichen Erlasses Nr. 47 vorgesehen ist, ebenfalls aufgehoben werden.Außerdem 
+sind die meisten Bestimmungen von Artikel 8 des Königlichen Erlasses Nr. 47 entweder überholt (zum Beispiel 
+im Bereich Diplomatennummernschilder) oder bereits in den Königlichen Erlassen Nr. 18 vom 29. Dezember 
+1992 über die Steuerbefreiungen in Bezug auf die Ausfuhr von Gütern und Dienstleistungen aus der Gemeinschaft 
+im Bereich der Mehrwertsteuer, Nr. 46 vom 29. Dezember 1992 über die Erklärung des innergemeinschaftlichen 
+Erwerbs von Fahrzeugen und die Zahlung der diesbezüglich geschuldeten Mehrwertsteuer und Nr. 48 vom 29. 
+Dezember 1992 über die Lieferung von Fahrzeugen im Sinne von Artikel 8bis § 2 Nr. 1 des Mehrwertsteuergesetzbuches 
+unter den in Artikel 39bis des Mehrwertsteuergesetzbuches erwähnten Bedingungen aufgenommen (zum Beispiel 
+die Verpflichtung, das Fahrzeug vor Ende des dritten Monats nach dem Monat der vorübergehenden Zulassung 
+zum Bestimmungsmitgliedstaat zu befördern).Unter Berücksichtigung des Vorhergehenden und der 
+Vorschriften, die in den Bereichen Zoll und Fahrzeugzulassung bestehen, gibt es keinen zwingenden Grund 
+mehr, den Königlichen Erlass Nr. 47 beizubehalten. Daher wird er durch Artikel 13 des Entwurfs aufgehoben.Die 
+Aufhebung des Königlichen Erlasses Nr. 47 bringt für die Verwaltung eine tatsächliche administrative 
+Vereinfachung und eine Verringerung der mit der Digitalisierung des Informationsflusses verbundenen Kosten 
+mit sich; außerdem führt sie zu einer erheblichen Verringerung des Verwaltungsaufwands für die 
+betreffenden Steuerpflichtigen.Ich habe die Ehre,Sire,der ehrerbietigeund 
+treue DienerEurer Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. 
+DE CROO28. JUNI 2019 - Königlicher Erlass zur Abänderung der Königlichen Erlasse 
+Nr. 4, 10, 19, 51 und 54 in Bezug auf die Mehrwertsteuer hinsichtlich der elektronischen Einreichung 
+von Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und der Steuerbefreiungsregelung, zur 
+Festlegung technischer Anpassungen in Bezug auf die gemeinschaftlichen und nationalen Rechtsvorschriften 
+und zur Aufhebung des Königlichen Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung 
+der für die Lieferung, den innergemeinschaftlichen Erwerb und die Einfuhr von Fahrzeugen im Sinne von 
+Artikel 8bis §  2 Nr. 1 des Gesetzbuches geschuldeten MehrwertsteuerPHILIPPE, Konig 
+der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Mehrwertsteuergesetzbuches, 
+des Artikels 15 § 2 Absatz 3, eingefügt durch den Königlichen Erlass vom 29. Dezember 1992, bestätigt 
+durch das Gesetz vom 22. Juli 1993 und zuletzt abgeändert durch das Gesetz vom 30. Juli 2018, des Artikels 
+25ter § 1 Absatz 2 Nr. 2 Absatz 3, eingefügt durch das Gesetz vom 28. Dezember 1992, ersetzt durch 
+den Königlichen Erlass vom 29. Dezember 1992 und bestätigt durch das Gesetz vom 22. Juli 1993, des Artikels 
+39quater § 1 Absatz 2, eingefügt durch den Königlichen Erlass vom 10. November 1996, bestätigt 
+durch das Gesetz vom 15. Oktober 1998 und abgeändert durch das Gesetz vom 17. Dezember 2012, des Artikels 
+53octies § 1 Absatz 6, eingefügt durch das Gesetz vom 28. Dezember 1992 und ersetzt durch das 
+Gesetz vom 17. Dezember 2012, und § 2, eingefügt durch das Gesetz vom 28. Dezember 1992 und zuletzt 
+abgeändert durch das Gesetz vom 29. November 2017, des Artikels 53nonies § 2, eingefügt durch 
+das Gesetz vom 28. Dezember 1992, des Artikels 53duodecies, eingefügt durch das Gesetz vom 30. Juli 2018, 
+des Artikels 58 § 1bis Absatz 2, eingefügt durch den Königlichen Erlass vom 29. Dezember 1992 
+und bestätigt durch das Gesetz vom 22. Juli 1993, und des Artikels 76 § 1 Absatz 3, ersetzt durch 
+das Gesetz vom 26. November 2009;Aufgrund des Königlichen Erlasses Nr. 4 vom 29. Dezember 1969 
+in Bezug auf Erstattungen im Bereich der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 
+10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung der in den Artikeln 15 § 2 Absatz 
+3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches vorgesehenen Optionen, 
+über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende Erklärungen 
+im Bereich der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 19 vom 29. Juni 2014 über 
+die Regelung der Befreiung von der Mehrwertsteuer zugunsten von Kleinunternehmen;Aufgrund des 
+Königlichen Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, 
+den innergemeinschaftlichen Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis § 
+2 Nr. 1 des Gesetzbuches geschuldeten Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 
+51 vom 14. April 1993 über die Vereinfachungsregelung für den innergemeinschaftlichen Erwerb von Akzisenprodukten 
+im Bereich der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 54 vom 25. Februar 1996 
+über die andere Lagerregelung als die Zolllagerregelung erwähnt in Artikel 39quater des Mehrwertsteuergesetzbuches;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 4. Juli 2018;Aufgrund des Einverständnisses der 
+Ministerin des Haushalts vom 6. Mai 2019;Aufgrund des Gutachtens Nr. 66.204/3 des Staatsrates 
+vom 17. Juni 2019, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 
+1973 koordinierten Gesetze über den Staatsrat;Aufgrund der Auswirkungsanalyse beim Erlass von 
+Vorschriften, die gemäß den Artikeln 6 und 7 des Gesetzes vom 15. Dezember 2013 zur Festlegung 
+verschiedener Bestimmungen in Sachen administrative Vereinfachung durchgeführt worden ist;Auf 
+Vorschlag des Vizepremierministers und Ministers der FinanzenHaben Wir beschloßen und 
+erlassen Wir:KAPITEL 1 - Elektronische Einreichung von Erklärungen über Tätigkeitsaufnahme, 
+-wechsel und -beendigungArtikel 1 - Artikel 1 des Königlichen Erlasses Nr. 10 vom 29. Dezember 
+1992 über die Modalitäten für die Ausübung der in den Artikeln 15 § 2 Absatz 3 und 25ter § 
+1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches vorgesehenen Optionen, über Erklärungen über 
+Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende Erklärungen im Bereich der Mehrwertsteuer, 
+zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 2015, wird wie folgt abgeändert:1. 
+In Absatz 1 werden die Wörter "beim Mehrwertsteueramt, das für den Ort zuständig ist, an dem sie ansässig 
+sind," durch die Wörter "bei dem zuständigen Dienst der mit der Mehrwertsteuer beauftragten Verwaltung, 
+dem sie unterstehen," ersetzt.2. In Absatz 4 werden die Wörter "mit der Mehrwertsteuer beauftragten" 
+aufgehoben.Art. 2 - In Artikel 2 Absatz 1, Artikel 3 und Artikel 4 desselben Erlasses, zuletzt 
+abgeändert durch die Königlichen Erlasse vom 14. April 2009, 28. Mai 2004 und 9. Dezember 2009, werden 
+die Wörter "bei dem für sie zuständigen Mehrwertsteueramt" beziehungsweise "bei dem für den Anmeldepflichtigen 
+zuständigen Mehrwertsteueramt" jeweils durch die Wörter "bei dem zuständigen Dienst der Verwaltung, dem 
+sie unterstehen," beziehungsweise "bei dem zuständigen Dienst der Verwaltung, dem der Anmeldepflichtige 
+untersteht," ersetzt.Art. 3 - In Artikel 5 desselben Erlasses, zuletzt abgeändert durch den 
+Königlichen Erlass vom 9. Dezember 2009, werden die Wörter "bei dem für sie zuständigen Mehrwertsteueramt" 
+durch die Wörter "bei dem zuständigen Dienst der Verwaltung, dem sie unterstehen," ersetzt.Art. 
+4 - Artikel 6 desselben Erlasses wird wie folgt ersetzt:"Art. 6 - § 1 - Steuerpflichtige, 
+die zur Einreichung der in den Artikeln 1 bis 3 erwähnten Erklärungen verpflichtet sind, reichen diese 
+Erklärungen elektronisch ein.Die in Absatz 1 erwähnten Steuerpflichtigen sind von der Verpflichtung 
+zur elektronischen Einreichung befreit, solange sie selbst oder gegebenenfalls die Person, die zur Einreichung 
+dieser Erklärungen ermächtigt ist, nicht über die notwendigen computergestützten Mittel verfügen, um 
+dieser Verpflichtung nachzukommen.Der Minister der Finanzen oder sein Beauftragter regelt die 
+praktischen Modalitäten für die Anwendung der Absätze 1 und 2. § 2 - Die in den Artikeln 
+4 und 5 erwähnten Erklärungen werden auf Formularen erstellt, die den Betreffenden bei den zuständigen 
+Diensten der Verwaltung zur Verfügung gestellt werden und deren Muster vom Minister der Finanzen oder 
+von seinem Beauftragten festgelegt wird."Art. 5 - In Artikel 7 Absatz 1 desselben Erlasses, 
+ersetzt durch den Königlichen Erlass vom 30. April 2013, werden die Wörter "den Leiter des für sie zuständigen 
+Mehrwertsteueramtes" durch die Wörter "den zuständigen Beamten des Dienstes der Verwaltung, dem sie unterstehen," 
+ersetzt.Art. 6 - In Artikel 7bis desselben Erlasses, eingefügt durch den Königlichen Erlass 
+vom 28. Mai 2004, werden die Wörter "dem für den Steuerpflichtigen zuständigen Mehrwertsteueramt" durch 
+die Wörter "bei dem zuständigen Dienst der Verwaltung, dem der Steuerpflichtige untersteht," ersetzt.KAPITEL 
+2 - SteuerbefreiungsregelungArt. 7 - Artikel 4 des Königlichen Erlasses Nr. 19 vom 29. Juni 
+2014 über die Regelung der Befreiung von der Mehrwertsteuer zugunsten von Kleinunternehmen, abgeändert 
+durch den Königlichen Erlass vom 24. Januar 2015, wird wie folgt ersetzt:"Art. 4 - § 
+1 - Steuerpflichtige, die am 31. Dezember die Steuerbefreiungsregelung anwenden, sind verpflichtet, vor 
+dem 31. März des folgenden Jahres der Verwaltung den Gesamtbetrag des Umsatzes mitzuteilen, den sie im 
+Laufe des vorhergehenden Kalenderjahres erzielt haben.Haben sie ihre wirtschaftliche Tätigkeit 
+in diesem Jahr aufgenommen, müssen sie ebenfalls angeben, über welchen Zeitraum sie diese Tätigkeit ausgeübt 
+haben.Diese Angaben müssen in den dazu vorgesehenen Rahmen der jährlichen Liste der steuerpflichtigen 
+Kunden, die Steuerpflichtige gemäß Artikel 53quinquies Absatz 1 und 2 des Gesetzbuches bei der 
+Verwaltung einreichen müssen, eingetragen werden. § 2 - Steuerpflichtige, die gemäß 
+Artikel 53quinquies Absatz 3 des Gesetzbuches davon befreit sind, die jährliche Liste der mehrwertsteuerpflichtigen 
+Kunden einzureichen, sind ebenfalls von den in § 1 erwähnten Verpflichtungen befreit."KAPITEL 
+3 - Technische Anpassungen in Bezug auf gemeinschaftliche RechtsvorschriftenArt. 8 - In Artikel 
+1 Absatz 1 des Königlichen Erlasses Nr. 51 vom 14. April 1993 über die Vereinfachungsregelung für den 
+innergemeinschaftlichen Erwerb von Akzisenprodukten im Bereich der Mehrwertsteuer werden die Wörter "in 
+Artikel 1 § 6 Nr. 4 Buchstabe a) und b) des Gesetzbuches erwähnt sind" durch die Wörter "in Artikel 
+1 § 6 Nr. 4 des Gesetzbuches erwähnt sind, mit Ausnahme von Tabakwaren," und die Wörter "Artikel 
+7 der Richtlinie 92/12/EWG" durch die Wörter "Artikel 33 der Richtlinie 2008/118/EG" ersetzt.Art. 
+9 - In Artikel 4 desselben Erlasses werden die Wörter "des Artikels 23 der Richtlinie 92/12/EWG" durch 
+die Wörter "des Artikels 12 der Richtlinie 2008/118/EG" ersetzt.Art. 10 - In Artikel 2 Nr. 
+1 des Königlichen Erlasses Nr. 54 vom 25. Februar 1996 über die andere Lagerregelung als die Zolllagerregelung 
+erwähnt in Artikel 39quater des Mehrwertsteuergesetzbuches, ersetzt durch den Königlichen Erlass vom 
+20. Dezember 2001, werden die Wörter "Artikel 4 Buchstabe b) der Richtlinie 92/12/EWG" durch die Wörter 
+"Artikel 4 Absatz 11 der Richtlinie 2008/118/EG" ersetzt.Art. 11 - In Artikel 4 desselben Erlasses, 
+aufgehoben durch den Königlichen Erlass vom 8. Oktober 1999 und wieder aufgenommen durch den Königlichen 
+Erlass vom 20. Dezember 2001, werden die Wörter "Artikel 4 Buchstabe b) der Richtlinie 92/12/EWG" durch 
+die Wörter "Artikel 4 Absatz 11 der Richtlinie 2008/118/EG" ersetzt.KAPITEL 4 - Technische 
+Anpassungen in Bezug auf nationale RechtsvorschriftenArt. 12 - Artikel 81 
+§ 2 Absatz 1 Nr. 3 Buchstabe d) des Königlichen Erlasses Nr. 4 vom 29. Dezember 1969 in Bezug 
+auf Erstattungen im Bereich der Mehrwertsteuer, ersetzt durch den Königlichen Erlass vom 5. August 2011, 
+wird wie folgt ersetzt:"d) Lieferungen von Gütern und Dienstleistungen, auf die gemäß 
+Tabelle A Rubrik XXXI, XXXII, XXXIII, XXXVI, XXXVII, XXXVIII und XL der Anlage zum Königlichen Erlass 
+Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen 
+nach diesen Sätzen der ermäßigte Mehrwertsteuersatz anwendbar ist,".KAPITEL 5 - Aufhebung 
+des Königlichen Erlasses Nr. 47 vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, 
+den innergemeinschaftlichen Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis  § 
+2 Nr. 1 des Gesetzbuches geschuldeten MehrwertsteuerArt. 13 - Der Königliche Erlass Nr. 47 
+vom 25. Februar 1996 über die Kontrolle der Zahlung der für die Lieferung, den innergemeinschaftlichen 
+Erwerb und die Einfuhr von Fahrzeugen im Sinne von Artikel 8bis § 2 Nr. 1 des Gesetzbuches geschuldeten 
+Mehrwertsteuer, zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 2015, wird aufgehoben.KAPITEL 
+6 - SchlussbestimmungenArt. 14 - Artikel 4 tritt am 1. Januar 2020 in Kraft.Art. 
+15 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 28. Juni 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-10Numac : 2020021096
+

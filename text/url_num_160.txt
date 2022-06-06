@@ -1,0 +1,280 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/04/2020202631/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-15Numac : 2020202631
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID EN FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 4 JUNI 2020. - Koninklijk besluit nr. 30 tot wijziging van het koninklijk besluit nr. 17 van 4 mei 2020 tot uitvoering van artikel 5, § 1, 3°,  van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), met het oog op het verlenen van uitstel van betaling aan bepaalde werkgevers van de bedragen geïnd door de Rijksdienst voor Sociale Zekerheid 
+VERSLAG AAN DE KONINGSire,Artikel 
+5, § 1, 3°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19, machtigt U om directe of indirecte 
+steun te bieden aan of beschermende maatregelen te nemen voor de getroffen financiële sectoren, de economische 
+sectoren, de profit- en non-profitsector, de bedrijven en de huishoudens om de gevolgen van de pandemie 
+te beperken.Het ontwerp van koninklijk besluit dat wij ter ondertekening aan Uwe Majesteit 
+voorleggen strekt tot aanpassing van het koninklijk besluit nr. 17 van 4 mei 2020 tot uitvoering van 
+artikel 5, § 1, 3°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), met het oog op het verlenen 
+van uitstel van betaling aan bepaalde werkgevers van de bedragen geïnd door de Rijksdienst voor Sociale 
+Zekerheid, dat toelaat aan de werkgevers die getroffen zijn door de sociaal-economische gevolgen van 
+het coronavirus COVID-19 een bepaald uitstel van betaling te verlenen voor bedragen die aan de Rijksdienst 
+voor Sociale Zekerheid (RSZ) vervallen zijn. De kwestieuze aanpassingen worden gerechtvaardigd 
+door de noodzaak om het koninklijk besluit nr. 17 te verduidelijken, mede in het licht van de vragen 
+en opmerkingen van zowel de sociale secretariaten als de representatieve werkgeversorganisatie.Bovendien 
+formaliseert dit besluit de wijze waarop de uitgestelde bedragen op 15 december 2020 moeten worden betaald 
+en de manier waarop de burgerlijke sancties (opslagen en intresten) opnieuw van toepassing zullen zijn 
+in geval van laattijdige betaling vanaf 16 december 2020.Tot slot, aangezien de regering gepreciseerd 
+heeft dat de crisis inzake het coronavirus COVID-19 een situatie van overmacht voor de werkgevers vormde, 
+bleek het consequent om ook een vrijstelling te voorzien van de sanctie met betrekking tot de laattijdige 
+betaling van voorschotten om te voorkomen dat zij in bepaalde omstandigheden die onder deze crisissituatie 
+vallen, zouden worden gesanctioneerd. De niet-toepassing van deze sanctie vervolledigt het systeem dat 
+reeds werd ingevoerd door het voormelde koninklijk besluit nr. 17 om de toepassing te vermijden van andere 
+soorten sancties bedoeld in de artikelen 28 en volgende van de wet van 27 juni 1969 tot herziening van 
+de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders en diens uitvoeringsbesluit 
+van 28 november 1969, gelet op de economische situatie waarin de werkgevers zich bevinden ingevolge de 
+crisis.De redactie van de bepalingen werd aangepast overeenkomstig advies 67.483/1 van de afdeling 
+wetgeving van de Raad van State van 3 juni 2020. Artikelsgewijze besprekingArt. 1Deze 
+bepaling integreert de aanpassingen aan het ministerieel besluit van 23 maart 2020 bij ministerieel besluit 
+van 8 mei 2020. Hiertoe worden enkele verwijzingen in artikel 1 aangepast. De bepaling in paragraaf 
+1, 3° betreft de werkgevers, niet-essentiële bedrijven die in de onmogelijkheid waren om de sanitaire 
+maatregelen te respecteren en bijgevolg op grond van voornoemd ministerieel besluit moesten sluiten. 
+Aangezien deze bepaling niet meer geldt ingevolge de vervanging ervan bij artikel 2 van het ministerieel 
+besluit van 30 april 2020 houdende wijziging van het ministerieel besluit van 23 maart 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, wordt statisch verwezen 
+naar het ministerieel besluit van 23 maart in de oorspronkelijke versie of zoals gewijzigd ministerieel 
+besluit van 3 april 2020. Art. 2Deze bepaling preciseert de periode waarop het uitstel 
+van betaling slaat. Het betreft de bedragen verschuldigd aan de Rijksdienst voor Sociale Zekerheid die 
+vervallen vanaf 20 maart 2020 tot 15 december 2020. Tevens wordt gepreciseerd dat het uitstel van betaling 
+geen betrekking heeft op de bedragen die verschuldigd zijn ingevolge ambtshalve rechtzettingen door de 
+RSZ voor het tweede kwartaal 2020, noch op de voorschotten voor het derde kwartaal 2020, het saldo voor 
+het derde kwartaal 2020 en het eerste en tweede voorschot voor het vierde kwartaal 2020. Hiertoe wordt 
+artikel 2, § 1, van het voormeld KB nr. 17 van 4 mei 2020 gewijzigd.Art. 3Deze 
+bepaling strekt ertoe de modaliteiten van het uitstel van betaling nader te bepalen. Hiertoe wordt een 
+artikel 2/1 ingevoegd in het voormeld KB nr. 17 van 4 mei 2020. In een eerste paragraaf wordt 
+de uiterste termijn van de aanvragen tot uitstel van betaling bedoeld in artikel 2 vastgesteld op 31 
+juli 2020. Ter wille van de duidelijkheid wordt expliciet bepaald dat het uitstel van betaling dat verkregen 
+werd vóór 31 juli 2020 behouden blijft tot 15 december 2020. Een tweede paragraaf preciseert 
+de uiterste betalingstermijn van de bedragen waarvoor uitstel van betaling werd verkregen. Deze bedragen 
+dienen uiterlijk op 15 december 2020 betaald te zijn aan de RSZ. In een derde paragraaf worden 
+de termijnen bepaald waarover de erkende sociale secretariaten beschikken om de bijdragen die zij hebben 
+ontvangen van hun aangeslotenen door te storten aan de Rijksdienst voor Sociale Zekerheid. In 
+een vierde paragraaf worden de gevolgen bepaald van het overschrijden van de uiterste betalingsdatum 
+(15 december 2020). In geval van laattijdige betaling is de werkgever bijdrageopslagen en verwijlinteresten 
+verschuldigd. Tot slot preciseert een vijfde paragraaf dat de bedragen die op het ogenblik 
+van het indienen van een verklaringen op eer vervallen en betaald zijn, niet worden terugbetaald door 
+de RSZ. Art. 4Dit artikel voegt een artikel 3/1 in. Dit artikel bepaalt dat de forfaitaire 
+vergoeding die normaliter verschuldigd is door werkgevers die hun kwartaalvoorschotten laattijdig betalen, 
+niet van toepassing is voor de voorschotten met betrekking tot het eerste en tweede kwartaal 2020. Art. 
+5Dit artikel regelt de inwerkingtreding. Een inwerkingtreding met terugwerkende kracht tot 
+20 maart 2020 is in dezen onontbeerlijk voor de verwezenlijking van een doelstelling van algemeen belang, 
+meer bepaald om de sociaaleconomische gevolgen van het coronavirus COVID-19 te milderen. De datum van 
+inwerkingtreding is dezelfde als deze van het gewijzigd KB nr. 17 van 4 mei 2020.Art. 6Dit 
+artikel wijst de Ministers aan die belast zijn met de uitvoering van het besluit. Ik heb de 
+eer te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe 
+dienaar,De Minister van Sociale Zaken,M. DE BLOCKDe Minister van Werk,N. 
+MUYLLERAAD VAN STATEafdeling WetgevingAdvies 67.483/1, 
+van 3 juni 2020, over,een ontwerp van koninklijk besluit nr.30 tot wijziging van het koninklijk besluit 
+nr. 17 van 4 mei 2020 tot uitvoering van artikel 5, § 1, 3°, van de wet van 27 maart 2020 die 
+machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het 
+coronavirus COVID-19 (II), met het oog op het verlenen van uitstel van betaling aan bepaalde werkgevers 
+van de bedragen geïnd door de Rijksdienst voor Sociale Zekerheid'Op 26 mei 2020 is de Raad 
+van State, afdeling Wetgeving, door de Minister van Sociale Zaken verzocht binnen een termijn van vijf 
+werkdagen een advies te verstrekken over een ontwerp van koninklijk besluit nr. 30 'tot wijziging van 
+het koninklijk besluit nr. 17 van 4 mei 2020 tot uitvoering van artikel 5, § 1, 3°, van de wet 
+van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de 
+verspreiding van het coronavirus COVID-19 (II), met het oog op het verlenen van uitstel van betaling 
+aan bepaalde werkgevers van de bedragen geïnd door de Rijksdienst voor Sociale Zekerheid'.Het 
+ontwerp is door de eerste kamer onderzocht op 28 mei 2020. De kamer was samengesteld uit Marnix VAN DAMME, 
+kamervoorzitter, Wilfried VAN VAERENBERGH en Wouter PAS, staatsraden, Michel TISON en Johan PUT, assessoren, 
+en Wim GEURTS, griffier.Het verslag is uitgebracht door Brecht STEEN, eerste auditeur-afdelingshoofd.De 
+overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van 
+Wouter PAS, staatsraad.Het advies, waarvan de tekst hierna volgt, is gegeven op 3 juni 2020.1. 
+Aangezien de stellers van het ontwerp een beroep doen op de rechtsgrond in artikel 5, § 1, 3°, 
+van de wet van 27 maart 2020 'die machtiging verleent aan de Koning om maatregelen te nemen in de strijd 
+tegen de verspreiding van het coronavirus COVID-19 (II)', geven de stellers van het ontwerp terecht aan 
+dat krachtens artikel 4, derde lid, van de wet van 27 maart 2020 'die machtiging verleent aan de Koning 
+om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I)' het mogelijk 
+wordt gemaakt dat een beroep wordt gedaan op de procedure bedoeld in artikel 84, § 1, eerste lid, 
+3°, van de gecoördineerde wetten op de Raad van State, om de afdeling Wetgeving, om een advies te verzoeken 
+"binnen een termijn van vijf werkdagen" zonder dat het spoedeisende karakter van de adviesaanvraag nog 
+met bijzondere redenen moet worden omkleed. Overeenkomstig artikel 84, § 3, eerste lid, van de 
+wetten op de Raad van State, heeft de afdeling Wetgeving zich moeten beperken tot het onderzoek van de 
+bevoegdheid van de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de voorgeschreven 
+vormvereisten is voldaan.STREKKING EN RECHTSGROND VAN HET ONTWERP2. Het om advies 
+voorgelegde ontwerp van koninklijk besluit beoogt een aantal preciseringen en wijzigingen aan te brengen 
+aan het koninklijk besluit nr. 17 van 4 mei 2020 (1) dat ertoe strekt om voor bepaalde categorieën van 
+werkgevers die zijn getroffen door de maatregelen ter bestrijding van de COVID-19 epidemie, onder bepaalde 
+voorwaarden tot 15 december 2020 uitstel van betaling van socialezekerheidsbijdragen te verlenen.3. 
+Het ontwerp vindt rechtsgrond in artikel 5, § 1, 3°, van de wet van 27 maart 2020 'die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II)'.ONDERZOEK VAN DE TEKSTAanhef4. In het eerste lid van de 
+aanhef dient te worden verwezen naar artikel 5, § 1, 3°, van de wet van 27 maart 2020 (II).Artikel 
+15. Aangezien artikel 1 van het koninklijk besluit nr. 17 niet is onderverdeeld in paragrafen, 
+schrappe men in de Nederlandse tekst van de inleidende zin van artikel 1 " § 1".6. In 
+artikel 1, e), van het ontwerp wordt gepreciseerd dat het gaat om werkgevers, handelszaken en winkels 
+die gesloten zijn op grond van artikel 2, derde lid, van het voornoemd ministerieel besluit van 23 maart 
+(niet: april) 2020, gewijzigd bij ministerieel besluit van 3 april 2020.Het is volgens het 
+verslag aan de Koning de bedoeling om "statisch" te verwijzen, omdat de tekst van artikel 2, derde lid, 
+niet meer geldt sinds de wijziging van 30 april 2020. De wijziging bij ministerieel besluit van 3 april 
+2020 had evenwel pas uitwerking op 3 april 2020 zodat als gevolg van de statische verwijzing niet meer 
+wordt verwezen naar de bepaling zoals die gold vóór die datum. Het is nochtans klaarblijkelijk niet de 
+bedoeling dat werkgevers, handelszaken en winkels die gesloten waren vóór die datum niet voor het betalingsuitstel 
+in aanmerking komen. Aangezien artikel 2, derde lid, sinds de wijziging van 30 april 2020 niet meer bestaat, 
+lijkt het beter om de bestaande bepaling als volgt aan te vullen: "zoals het luidde vóór het werd vervangen 
+bij het ministerieel besluit van 30 april 2020" of om de ontworpen wijziging als volgt te formuleren: 
+"voornoemd ministerieel besluit van 23 maart 2020 in de oorspronkelijke versie of zoals gewijzigd bij 
+ministerieel besluit van 3 april 2020".In elk geval dient in de Nederlandse tekst te worden 
+verwezen naar het ministerieel besluit van "23 maart" in plaats van "23 april".Artikel 27.In 
+de Nederlandse tekst van artikel 2 van het ontwerp schrijve men "a)" in plaats van "b)".Artikel 
+38. Het ontworpen artikel 2/1, § 1, van het koninklijk besluit nr. 17 bepaalt dat de 
+mogelijkheid om overeenkomstig artikel 2 een uitstel van betaling te verkrijgen, vervalt op 31 juli 2020.In 
+het verslag aan de Koning, gevoegd bij het ontwerp, wordt bij de eerste paragraaf van artikel 3 toegelicht 
+dat de uiterste termijn van de aanvragen tot uitstel van betaling wordt vastgesteld op 31 juli 2020. 
+Enkel in de gevallen van artikel 2, §§ 2 en 3, van het koninklijk besluit nr. 17 is een 
+aanvraag, onder de vorm van een verklaring op eer, vereist, terwijl in het geval van artikel 2, § 
+1, van het koninklijk besluit nr. 17 automatisch een uitstel van betaling wordt toegekend. Indien het 
+de bedoeling van de stellers is om enkel voor de gevallen van het aanvragen van het uitstel in een vervaldatum 
+te voorzien, moet in het ontworpen artikel 2/1, § 1, van het koninklijk besluit verwezen worden 
+naar "artikel 2, §§ 2 en 3" in de plaats van naar "artikel 2".De griffier   De 
+voorzitterWim GEURTS   Marnix VAN DAMME_______Nota(1) Koninklijk 
+besluit nr. 17 van 4 mei 2020 'tot uitvoering van artikel 5, § 1, 3°, van de wet van 27 maart 
+2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding 
+van het coronavirus COVID-19 (II), met het oog op het verlenen van uitstel van betaling aan bepaalde 
+werkgevers van de bedragen geïnd door de Rijksdienst voor Sociale Zekerheid'.4 
+JUNI 2020. - Koninklijk besluit nr. 30 tot wijziging van het koninklijk besluit nr. 17 van 4 mei 2020 
+tot uitvoering van artikel 5, § 1, 3°, van de wet van 27 maart 2020 die machtiging verleent aan 
+de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), 
+met het oog op het verlenen van uitstel van betaling aan bepaalde werkgevers van de bedragen geïnd door 
+de Rijksdienst voor Sociale Zekerheid FILIP, Koning der Belgen, Aan allen die nu 
+zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 
+(II), artikel 5, § 1, 3°;Gelet op het koninklijk besluit nr. 17 van 4 mei 2020 tot uitvoering 
+van artikel 5, § 1, 3°, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om 
+maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), met het oog 
+op het verlenen van uitstel van betaling aan bepaalde werkgevers van de bedragen geïnd door de Rijksdienst 
+voor Sociale Zekerheid;Gelet op het advies van de inspecteur van Financiën, gegeven op 19 mei 
+2020;Gelet op de akkoordbevinding van de Minister van Begroting, d.d. 20 mei 2020;Gelet 
+op de wet van 25 april 1963 betreffende het beheer van de instellingen van openbaar nut voor sociale 
+zekerheid en sociale voorzorg, artikel 15, eerste lid; Gelet op de dringende noodzakelijkheid;Gelet 
+op het artikel 8 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, 
+is dit besluit vrijgesteld van een regelgevingsimpactanalyse gezien de hoogdringendheid gemotiveerd door 
+de noodzaak om onverwijld de sociaal-economische gevolgen van het coronavirus COVID-19 voor de ondernemingen 
+op te vangen door bepaalde werkgevers een uitstel van betaling te verlenen voor de bedragen die verschuldigd 
+zijn aan de Rijksdienst voor Sociale Zekerheid; Gelet op advies 67.483/1 van de Raad van State, 
+gegeven op 3 juni 2020, met toepassing van artikel 4, derde lid, van de wet van 27 maart 2020 die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (I);Overwegende de kwalificatie van het coronavirus COVID-19 als een pandemie door 
+de Wereldgezondheidsorganisatie (WHO) op 11 maart 2020;Overwegende dat de WHO op 16 maart 2020 
+het hoogste dreigingsniveau heeft uitgeroepen aangaande COVID-19 dat de wereldeconomie destabiliseert 
+en zich snel verspreidt over de wereld; Op de voordracht van de Minister van Sociale Zaken 
+en de Minister van Werk en op het advies van de in Raad vergaderde Ministers,Hebben Wij besloten 
+en besluiten Wij : Artikel 1. In artikel 1, van het koninklijk besluit nr. 17 van 4 mei 2020 
+tot uitvoering van artikel 5, § 1, 3°, van de wet van 27 maart 2020 die machtiging verleent aan 
+de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II), 
+met het oog op het verlenen van uitstel van betaling aan bepaalde werkgevers van de bedragen geïnd door 
+de Rijksdienst voor Sociale Zekerheid, worden volgende wijzigingen aangebracht: a) in de bepaling 
+onder 1°, b, worden de woorden ", toeristische" ingevoegd tussen de woorden "recreatieve" en de woorden 
+"en sportieve sector";b) in de bepaling onder 1°, b, worden de woorden "artikel 1, § 
+6, van het ministerieel besluit" vervangen door de woorden "artikel 1 van het ministerieel besluit"; 
+c) in de bepaling onder 1°, c, worden de woorden ", toeristische" ingevoegd tussen de woorden 
+"recreatieve" en de woorden "en sportieve sector"; d) in de bepaling onder 1°, c, worden de 
+woorden "artikel 1, § 6, van het ministerieel besluit" vervangen door de woorden "artikel 1 van 
+het ministerieel besluit"; e) in de bepaling onder 3°, worden de woorden "voornoemd ministerieel 
+besluit van 23 april 2020" vervangen door de woorden "voornoemd ministerieel besluit van 23 maart 2020, 
+gewijzigd bij ministerieel besluit van 3 april 2020 in de oorspronkelijke versie of zoals gewijzigd bij 
+ministerieel besluit van 3 april 2020".Art. 2. In artikel 2 van hetzelfde besluit, worden volgende 
+wijzigingen aangebracht: a) in paragraaf 1 worden de woorden ", die vanaf 20 maart 2020 vervallen 
+zijn en voor zover het bijdragen betreft die slaan op prestaties van voor het derde kwartaal van 2020." 
+vervangen door de woorden "en die vanaf 20 maart 2020 tot 15 december 2020 vervallen, met uitzondering 
+van: 1° de door de voormelde Rijksdienst ambtshalve vastgestelde bijdragen met betrekking tot 
+het tweede kwartaal 2020 in toepassing van artikel 22 van de wet van 27 juni 1969 tot herziening van 
+de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;2° 
+de voorschotten voor het derde kwartaal 2020; 3° het saldo voor het derde kwartaal 2020;4° 
+het eerste en tweede voorschot voor het vierde kwartaal 2020."; b) in paragraaf 2 worden de 
+woorden "hetzelfde uitstel van betaling bedoeld in paragraaf 1 op voorwaarde dat zij een verklaring op 
+eer indienen" vervangen door de woorden "tot 15 december 2020 hetzelfde uitstel van betaling bedoeld 
+in paragraaf 1 op voorwaarde dat zij tussen 20 maart 2020 en 31 juli 2020 een verklaring op eer indienen"; 
+c) in paragraaf 3 worden de woorden "een uitstel van betaling van de volgende bedragen:  
+- het saldo van de bijdragen die voor het eerste kwartaal 2020 verschuldigd zijn;  - het saldo 
+van de bijdragen die voor het tweede kwartaal 2020 verschuldigd zijn;  - het debetbericht voor 
+de regeling van de jaarlijkse vakantie der handarbeiders betreffende het vakantiedienstjaar 2019;  
+- de voorschotten voor het tweede kwartaal 2020;  - de nog te vervallen rechtzettingen van 
+bijdragen; - de nog te vervallen maandelijkse afbetalingen van de lopende afbetalingplannenop 
+voorwaarde dat zij een verklaring op eer indienen" vervangen door de woorden "hetzelfde uitstel van betaling 
+bedoeld in paragraaf 1 op voorwaarde dat zij tussen 20 maart 2020 en 31 juli 2020 een verklaring op eer 
+indienen".Art. 3. In hetzelfde besluit, wordt een artikel 2/1 ingevoegd, luidende: "Art. 
+2/1. § 1. De mogelijkheid om overeenkomstig artikel 2, §§ 2 en 3, een uitstel van 
+betaling te verkrijgen, vervalt op 31 juli 2020. Het uitstel van betaling dat verkregen werd vóór 31 
+juli 2020 blijft behouden tot 15 december 2020. § 2. De bedragen waarvoor de werkgever 
+overeenkomstig artikel 2 een uitstel van betaling heeft verkregen, dienen uiterlijk op 15 december 2020 
+betaald te zijn aan de Rijksdienst voor Sociale Zekerheid. § 3. In afwijking van artikel 
+34, vijfde lid, van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 
+1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid 
+der arbeiders, beschikken de erkende sociale secretariaten over een termijn tot uiterlijk 23 december 
+2020 om de bijdragen die zij van hun aangeslotenen hebben bekomen en die betrekking hebben op de vervallen 
+bijdragen voor het eerste en tweede kwartaal 2020 en op het debetbericht voor de jaarlijkse vakantie 
+van handarbeiders voor het vakantiedienstjaar 2019, door te storten aan de Rijksdienst voor Sociale Zekerheid. 
+In afwijking van het eerste lid, moeten de ontvangen stortingen die betrekking hebben op de 
+rechtzettingen van bijdragen die tijdens de periode van het uitstel van betaling werden opgesteld en 
+de achterstallen uiterlijk op 15 december 2020 door middel van individuele stortingen worden overgemaakt 
+aan de voormelde Rijksdienst.  § 4. De werkgever die de bedragen waarvoor een uitstel 
+van betaling werd bekomen niet uiterlijk op 15 december 2020 stort, is aan de voormelde Rijksdienst een 
+bijdrageopslag van 10 pct. van het verschuldigde bedrag en een verwijlinterest van 7 pct. per jaar verschuldigd. 
+De interesten worden berekend vanaf 16 december 2020 tot op de dag waarop de betaling van het saldo plaats 
+heeft. § 5. Het uitstel van betaling heeft geen betrekking op de door de Rijksdienst 
+voor Sociale Zekerheid geïnde bedragen die op het moment van de indiening van de verklaring op eer bedoeld 
+in paragrafen 2 en 3 vervallen en betaald zijn. Deze bedragen kunnen niet het voorwerp uitmaken van een 
+terugbetaling door de voormelde Rijksdienst.". Art. 4. In hetzelfde besluit, wordt een artikel 
+3/1 ingevoegd, luidende: "Art. 3/1. De vaste vergoeding wegens het niet-nakomen van de verplichtingen 
+inzake betaling van voorschotten bedoeld in artikel 54bis van het voornoemde koninklijk besluit van 28 
+november 1969 is niet van toepassing voor het eerste en het tweede kwartaal 2020.".Art. 4. 
+Dit besluit heeft uitwerking met ingang van 20 maart 2020.Art. 5. De minister bevoegd voor 
+Sociale zaken en de minister bevoegd voor Werk zijn, ieder wat hem betreft, belast met de uitvoering 
+van dit besluit.Gegeven te Brussel, 4 juni 2020.FILIPVan Koningswege : 
+De Minister van Sociale Zaken,M. DE BLOCKDe Minister van Werk,N. 
+MUYLLE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-15Numac : 2020202631
+

@@ -1,0 +1,274 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/18/2021020452/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-23Numac : 2021020452
+WAALSE OVERHEIDSDIENST
+ 18 FEBRUARI 2021. - Besluit van de Waalse Regering tot uitvoering van artikel 47/17bis van het Waalse Wetboek van Sociale Actie en Gezondheid met betrekking tot het protocol voor de uitvoering van fase 1.a.4 van het COVID 19-vaccinatieprogramma voor volwassen wat betreft de eerstelijnshulp en eerstelijnszorg 
+De 
+Waalse Regering,Gelet op het Waalse Wetboek van Sociale Actie en Gezondheid, inzonderheid op 
+artikel 47/17bis ingevoegd bij het besluit van de Waalse Regering van bijzondere machten nr. 68 van 16 
+december 2020 tot invoeging van een artikel 47/17bis in het Waalse Wetboek van Sociale Actie en Gezondheid 
+met betrekking tot de vaccinatie van volwassenen tegen COVID-19;Gelet op het voorstel voor 
+een protocol tot uitvoering van fase 1.a.4. van het COVID 19-vaccinatieprogramma voor volwassenen wat 
+betreft de eerstelijnshulp en eerstelijnszorg, van de Waalse cel COVID-19 en het Waals Agentschap van 
+Gezondheid, Sociale Bescherming, Handicap en Gezinnen, ontvangen op 3 februari 2021 januari 2021;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 2 februari 2021;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 3 februari 2021;Gelet op het rapport opgesteld op 
+1 februari 2021 overeenkomstig artikel 4, 2°,  van het decreet van 3 maart 2016 houdende uitvoering van 
+de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft 
+plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen voor 
+de aangelegenheden geregeld krachtens artikel 138 van de Grondwet;Gelet op het advies van het 
+inter-Franstalig overlegorgaan van 10 februari 2021 en het overleg in het intra-Franstalige ministerieel 
+comité voor overleg van 10 februari 2021;Gelet op het advies 68.808/4 van de Raad van State, 
+gegeven op 10 februari 2021, overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de wetten op 
+de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de dringende noodzakelijkheid 
+ingegeven door de context van de gezondheidscrisis en het vitale belang voor de volksgezondheid en om 
+de heropleving van de pandemie in verband met COVID-19 te voorkomen, dat de nodige maatregelen inzake 
+vaccinatie kunnen worden genomen;Gelet op de overlegvergaderingen tussen de Regeringen van 
+de deelgebieden en de bevoegde federale autoriteiten, in de Nationale Veiligheidsraad die sinds begin 
+maart 2020 bijeenkomt;Gelet op artikel 191 van het EU-Verdrag waarin het voorzorgsbeginsel 
+vastgeschreven is in het kader van het beheer van een internationale sanitaire crisis en de actieve voorbereiding 
+op het potentieel voorvallen van deze crisissen; dat dit beginsel inhoudt dat, wanneer er een ernstig 
+risico zich naar alle waarschijnlijkheid kan voordoen, de publieke overheden dringende en voorlopige 
+maatregelen dienen te nemen;Gelet op de verklaring van WHO in verband met de kenmerken van 
+het coronavirus COVID-19, in het bijzonder de sterke besmettelijkheid en het sterfelijkheidsrisico;Overwegende 
+dat WHO op 11 maart 2020 het coronavirus COVID-19 als een pandemie gelabeld heeft;Overwegende 
+dat WHO op 16 maart 2020 zijn dreigingsniveau voor het coronavirus COVID-19, die de wereldeconomie destabiliseert 
+en zich snel over de wereld spreidt, naar de hoogste graad heeft opgetrokken;Gelet op de verspreiding 
+van het coronavirus COVID-19 op Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid 
+en het gezondheidsrisico dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt;Overwegende 
+dat het, om de verspreiding van het virus te vertragen en te beperken, nodig is onmiddellijk de in overweging 
+genomen maatregelen te bevelen, welke onontbeerlijk blijken op vlak van volksgezondheid;Overwegende 
+dat het gevaar zich over het grondgebied van het gehele land verspreidt; dat het in het algemeen belang 
+is dat er samenhang gegeven wordt aan de getroffen maatregelen om de openbare orde in stand te houden, 
+zodat de doeltreffendheid ervan hoogst mogelijk is;Overwegende dat de rechtstreekse en onrechtstreekse 
+gevolgen van de crisis een beheer en een snelle respons op gewestelijk niveau vereisen;Overwegende 
+dat COVID-19 nog steeds circuleert op Europees en Belgisch grondgebied;Overwegende dat, hoewel 
+de gunstige ontwikkelingen het mogelijk hebben gemaakt de algemene beperkingen die aan de bevolking worden 
+opgelegd te beperken, sommige daarvan nog steeds bestaan en dat COVID-19 nog steeds een groot gezondheidsrisico 
+van uitzonderlijke en ongekende aard vormt;Overwegende dat het van vitaal belang is voor de 
+volksgezondheid en om de heropleving van de pandemie in verband met COVID-19 te voorkomen, dat de nodige 
+vaccinatiemaatregelen kunnen worden genomen;Overwegende dat de vaccinatie van de volwassen 
+bevolking tegen COVID-19 begin 2021 van start is gegaan met het personeel en de bewoners in de rusthuizenOverwegende 
+dat de vaccinatie van het publiek waarop de huidige fase betrekking heeft, in de loop van de maand februari 
+2021 zal beginnen;Overwegende dat de leden van de eerste lijn zo spoedig mogelijk moeten worden 
+gevaccineerd om hen in staat te stellen bij de bevolking in te grijpen door zichzelf te beschermen, teneinde 
+de continuïteit van de zorg- en hulpverlening te waarborgen ;Overwegende dat de dringende noodzakelijkheid 
+verantwoord is".Gelet op de wet van 22 december 2020 houdende diverse maatregelen met betrekking 
+tot snelle antigeentesten en de registratie en verwerking van gegevens betreffende vaccinaties in het 
+kader van de strijd tegen de COVID-19-pandemie, inzonderheid op artikel 11;Gelet op het koninklijk 
+besluit van 24 december 2020 betreffende de registratie en de verwerking van gegevens met betrekking 
+tot vaccinaties tegen COVID-19;Gelet op de beslissing van de interministeriële conferentie 
+van 3 december 2020;Overwegende dat de vaccinatie gefaseerd is, rekening houdend met de beschikbare 
+dosissen;Overwegende dat er bijgevolg prioritaire groepen vastgesteld moesten worden, in overleg 
+met elk deelgebied en de federale overheid;Overwegende dat de vaccinatie in fase 1.a.4. zowel 
+betrekking heeft op zorgverleners die onder koninklijk besluit nr. 78 vallen als op beroepsbeoefenaars 
+in de hulpverlening die door hun activiteiten met risicogroepen aan COVID-19 worden blootgesteld;Overwegende 
+dat beroepsbeoefenaars die in de eerstelijn met deze risicogroepen in contact komen, ook in eerste instantie 
+worden gevaccineerd, aangezien zij een infectiedrager voor risicogroepen zijn en dat de logica van vaccinatie 
+is alle risicogroepen in dezelfde fase te beschermen;Overwegende dat dit protocol ook contextuele 
+elementen bevat, in het belang van de leesbaarheid en de voorspelbaarheid van de regelgevingsnormOverwegende 
+dat deze leden van de eerste lijn gevaccineerd moeten worden;Op de voordracht van de Minister 
+van Gezondheid;Na beraadslaging,Besluit : Artikel 1. Dit besluit regelt, 
+overeenkomstig artikel 138 van de Grondwet, een aangelegenheid bedoeld in artikel 128, § 1, ervan.Art. 
+2. De Regering neemt het protocol aan voor de uitvoering van fase 1.a.4, wat betreft de eerstelijnshulp 
+en eerstelijnszorg van het COVID 19-vacinatieprogramma voor volwassenen bedoeld in artikel 47/17bis van 
+het Waals Wetboek van Sociale Actie en Gezondheid, vermeld in bijlage bij dit besluit.Art. 
+3. Dit besluit heeft uitwerking met ingang van 3 februari 2021.Art. 4. De Minister van Gezondheid 
+is belast met de uitvoering van dit besluit.Namen, 18 februari 2021.Voor de Regering:De 
+Minister-President,E. DI RUPODe Minister van Tewerkstelling, Vorming, Gezondheid, 
+Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. MORREALEBijlage 
+bij het besluit van de Waalse Regering tot uitvoering van artikel 47/17bis van het Waalse Wetboek van 
+Sociale Actie en Gezondheid met betrekking tot het protocol voor de uitvoering van fase 1.a.4 van het 
+COVID 19-vaccinatieprogramma voor volwassen wat betreft de eerstelijnshulp en eerstelijnszorg"Protocol 
+voor de uitvoering van fase 1.a.4 van het vaccinatieprogramma voor volwassenen tegen COVID-19, wat betreft 
+de eerstelijnshulp en eerstelijnszorg.De hoofdbeginselen van de Belgische vaccinatiestrategie 
+tegen COVID-19 zijn de volgende:De Interministeriële Conferentie Volksgezondheid van 11 november 
+2020 heeft de hoofdbeginselen vastgesteld, onderliggend aan de Belgische vaccinatiestrategie:- 
+Vaccinale dekking met een doel van 70 % van de bevolking;- Bepalen van de prioritaire groepen 
+op grond van wetenschappelijke adviezen;- Kosteloze vaccinatie op vrijwillige basis voor elke 
+burger;- Medefinanciering van het gezamenlijk vaccinatieprogramma door de federale overheid 
+en de deelgebieden.Deze beslissingen zijn verbonden aan volgende voorwaarden en gegevens:- 
+Massieve vaccinatiecampagnes waarbij de vaccins geleverd worden in meerdosisflacons, dezelfde dag toe 
+te dienen;- België één of meerdere doeltreffende en veilige vaccins tegen COVID-19 ter beschikking 
+stellen.- De capaciteit van het Belgisch gezondheidssysteem voor de geleidelijke en doeltreffende 
+verdeling en de vaccinatie van de bevolking, waarbij de autoriteiten voor volksgezondheid ondersteund 
+worden door de interfederale Task force "vaccin COVID-19", op 16 november 2020 opgericht door de Interministeriële 
+conferentie Volksgezondheid, de gezamenlijke gezondheidsstructuren van het land waaronder Sciensano en 
+het Federaal Agentschap voor geneesmiddelen en gezondheidsproducten (FAGG). Daartoe wordt de registratiesoftware 
+Vaccinet+ door alle deelgebieden gebruikt.- De wil om door overtuigingskracht en transparantie 
+de terughoudendheid tegenover het vaccin te overwinnen en er zo voor te zorgen dat de bevolking deze 
+strategie inzake volksgezondheid onderschrijft.De vaccinatie tegen COVID-19 betreft enkel het 
+volwassen publiek (vanaf 18 jaar). Kinderen en zwangere vrouwen worden in dit stadium nog niet bediend, 
+er wordt in een bijzondere bepaling voorzien voor vrouwen in de vruchtbare leeftijd (er bestaan contra-indicaties 
+voor zwangere vrouwen, behalve in bijzondere gevallen waarin de toestand dit, op grond van een medische 
+analyse, strikt vereist). Er zal, in voorkomend geval, een vaccinatiekaart kunnen worden uitgereikt aan 
+iedere persoon die de vaccinatie tegen COVID-19 gekregen heeft.Vaccinatiefases en prioritair 
+verklaarde doelgroepen:De Interministeriële Conferentie Volksgezondheid heeft op 3 december 
+2020 op grond van de aanbeveling van de Task Force beslist een "advies voor de operationalisering van 
+de vaccinatiestrategie tegen COVID-19 voor België" goed te keuren, dat gevolg geeft aan het advies van 
+de wetenschappers van de Hoge Gezondheidsraad. Dat document voorziet in een gefaseerde toegang van de 
+prioritair verklaarde doelgroepen tot het COVID-19-vaccin.De COVID-19-vaccinatie wordt dus 
+gefaseerd in functie van deze prioriteiten.De vierde groep die als prioritair gelabeld wordt 
+door de Interministeriële Conferentie Volksgezondheid in fase 1.a.4 richt zich tot de eerstelijnshulp 
+en eerstelijnszorg.Het in bedoeld document ontwikkelde protocol beoogt uitsluitend fase 1.a.4. 
+wat betreft de eerstelijnshulp en eerstelijnszorg. De vaccins die in deze fase toegediend moeten worden 
+zijn het Pfizer-vaccin en het Moderna-vaccin (vaccins van het type mRNA), evenals het AstraZeneca-vaccin 
+(vaccin van het type adenovirus), waarvan de toedieningsaanbevelingen bij het uitschrijven van deze procedure 
+gekend zijn. Het gebruik van een ander vaccin houdt in, dat er een specifieke toedieningsaanbeveling 
+wordt uitgevaardigd door het FAGG.Het protocol heeft betrekking op:- De zorgverstrekkers 
+bedoeld bij koninklijk besluit nr. 78, met inbegrip van de hulpverleners-ambulanciers van de dringende 
+medische hulp.- De gezinshelp(st)ers, de sociale gezinshelp(st)ers, de thuisoppassers (voor 
+zieke kinderen inbegrepen), de hulpdiensten voor gezinnen en bejaarde personen bedoeld bij de artikelen 
+219 en volgende van het Waals Wetboek van Sociale Actie en Gezondheid, decreetgevend deel.- 
+De coördinatoren (m/v) van de centra voor de coördinatie van thuishulp en thuiszorg, bedoeld bij de artikelen 
+434 en volgende van hetzelfde Wetboek.- De leden van de diensten bedoeld in artikel 283 van 
+hetzelfde Wetboek, voor wat betreft de diensten respijtzorg, hulp aan de activiteiten van het dagelijkse 
+leven, vroegtijdige hulpverlening, begeleiding voor volwassenen, inschakeling in het arbeidscircuit van 
+gehandicapte jongeren, begeleidingsdiensten voor gezinsopvang voor gehandicapte personen, die blootgesteld 
+worden of dreigen te worden aan patiënten die zouden kunnen lijden aan COVID-19.- De osteopaten, 
+de tandartsassistenten met regelmatige uitoefening van hun activiteiten in eerstelijnszorg en eerstelijnshulp.Procedure 
+en gegevensstroom voor fase 1.a.4:De vaccinaties tegen COVID-19 die in het Franse taalgebied 
+worden toegediend, worden geregistreerd door de persoon die het vaccin heeft toegediend, of door diens 
+gemachtigde.De arts (die eindverantwoordelijke blijft) of de verpleegkundige die een vaccin 
+tegen COVID-19 toedient of met het toezicht belast is, dient zich overeenkomstig het bestaand wettelijk 
+kader te registreren in het register Vaccinet+.Alle COVID-19-vaccins voor de vastgelegde doelgroep 
+worden door de overheden ter beschikking gesteld van de vaccinatoren. Ze moeten besteld worden in het 
+bestel- en registratiesysteem bepaald in de SOP (Standard operating procedures), opgesteld door het Federaal 
+Agentschap voor geneesmiddelen en gezondheidsproducten, volgens de regels die de overheden voorafgaandelijk 
+hebben medegedeeld.Fasering van de acties in fase 1.a.4A. Gezamenlijke organisatie 
+van de verdeling van de Pfizer-, Moderna- en Astrazeneca-vaccins door de interfederale Taskforce en het 
+Waals GewestNegentien ziekenhuishubs, gelijkelijk verspreid over het grondgebied van het Franse 
+taalgebied in algemene ziekenhuizen die voor de Pfizer-vaccins over een koelcapaciteit op -80° C beschikken, 
+worden op grond van hun opslagcapaciteit en met hun instemming aangewezen, evenals twee hoofdcentra in 
+Ronquières en Bierset.De Moderna-instellingen beschikken over een koelcapaciteit op -20°  C.De 
+Astrazeneca-instellingen beschikken over een koelcapaciteit op 2 tot 8°  C.Het totaal aantal 
+vaccins dat bij de centrale Hub besteld moet worden, wordt bepaald door de som van de personeelsleden 
+in de eerstelijnszorg en de eerstelijnshulp.De ziekenhuisapotheken in de Pfizer-hubs en de 
+centrale hubs voor Moderna en Astrazeneca verdelen de vaccins, volgens hun beschikbaarheid, in de vaccinatiecentra 
+voor deze fase 1.a.4. Deze vaccinatiecentra worden onder andere bepaald op grond van de geografische 
+criteria, waarbij de lijst ervan beschikbaar is op de website van het "Agence wallonne pour une vie de 
+qualité".B. Operationele ontplooiing van de verdeling van de mRNA-vaccins van Pfizer en Moderna 
+en van het Astrazeneca-vaccinDe bestelling, de opslag en de verdeling van elk vaccin beantwoorden 
+aan de "standard operating procedures" (SOP), vastgelegd door het Federaal Agentschap voor Geneesmiddelen 
+en Gezondheidsproducten.C. Voorbereiding van het Pfizer-vaccinDe vaccinerende arts 
+die de vaccinatie uitvoert of coördineert neemt de SOP's over: het vaccinflesje wordt door hem uit de 
+koelkast gehaald (2 tot 8°  C), wordt 30 minuten aan kamertemperatuur blootgesteld en elk vaccinflesje 
+(oplossing met 1.8 ml fysiologisch water) wordt binnen de 2 uur opnieuw samengesteld, met het opgelost 
+vloeimiddel dat 6 vaccinaties van 0.3 ml mogelijk maakt.Het opgelost vaccin blijft 6 uur bij 
+een temperatuur van 2 tot 30° C toedienbaar.D. Voorbereiding van het Moderna-vaccinDe 
+vaccinerende arts, die de vaccinatie uitvoert of coördineert, neemt de SOP's over: het vaccinflesje wordt 
+door hem uit de koelkast gehaald (2 tot 8°  C), wordt 15 minuten aan kamertemperatuur blootgesteld en 
+binnen de 12 uur wordt de vaccinatie aangevat.Geen enkele oplossing is nodig, elke flesje van 
+5 ml maakt 10 vaccinaties van 0,5 ml mogelijk.Onmiddellijk na het openprikken moet de inhoud 
+van het flesje binnen de zes uur worden gebruikt. Zodra het vaccin in het spuitje zit, moet het onmiddellijk 
+worden gebruikt. Het ontdooid Moderna vaccin is broos, het mag niet worden geschud.E. Voorbereiding 
+van het Astrazeneca-vaccinDe vaccinerende arts, die de vaccinatie uitvoert of coördineert, 
+neemt de SOP's over: het vaccinflesje wordt door hem uit de koelkast gehaald (2 tot 8°  C), en binnen 
+de 6 uur wordt de vaccinatie aangevat. Geen enkele oplossing is nodig, elke flesje van 5 ml maakt 10 
+vaccinaties van 0,5 ml mogelijk.Zodra het vaccin in het spuitje zit, moet het onmiddellijk 
+worden gebruikt.F. Organisatie van de vaccinatie in de vaccinatiecentraDe arts van 
+de eindgebruiker, die de vaccinatie uitvoert of coördoneert, neemt de SOP's van het toe te dienen vaccin 
+over.De te vaccineren kandidaat dient zich met de vaccinatiecode in het hem toegewezen vaccinatiecentrum 
+aan, draagt een chirurgisch masker, ontsmet zich de handen en leeft de barrièrehandelingen na.De 
+vaccinerende arts heeft vooraf de te vaccineren kandidaat geïnformeerd en zijn instemming ingewonnen, 
+overeenkomstig de SOP's.Het aantal kandidaten die zich willen laten inenten wordt vooraf aan 
+de ziekenhuishub waaraan het vaccinatiecentrum is gekoppeld, overgemaakt, met inachtneming van de termijnen 
+bepaald in de SOP's.De lijst met meubilair, informaticamaterieel en geneeskundig materiaal 
+wordt door de artsen die in het vaccinatiecentrum met de vaccinatie belast zijn, voor aanvang van de 
+vaccinatie bekrachtigd (zie bijlage a).Het administratief beheer en de medische anamnese met 
+betrekking tot, hoofdzakelijk, de potentiële contra-indicaties en de allergie-risico's gaan vooraf aan 
+de intramusculaire injectie. Daarop volgt een 15 tot 30 minuten durend toezicht in een lokaal waar de 
+social distancing maatregelen mogelijk moeten zijn, met toezicht op de allergierisico's.Het 
+invoeren van de vaccinatiegegevens in Vaccinnet+ overeenkomstig het bestaand wettelijk kader wordt gevolgd 
+door het vastleggen van de afspraak voor de injectie van de tweede vaccindosis overeenkomstig de SOP's 
+voor elk vaccin.G. Plaatsen waar de vaccinatie wordt uitgevoerdDe vaccinatie zal 
+plaatsvinden in het vaccinatiecentrum dat via de afsprakentool aan de kandidaat wordt toegewezen, op 
+basis van de postcode van de woonst van de te vaccineren kandidaat.H. UitnodigingDe 
+te vaccineren kandidaat meldt zich op de afsprakentool aan na daartoe een uitnodigingsschrijven te hebben 
+gekregen via de post, gekoppeld aan een uitnodiging via e-mail of sms als deze informatie beschikbaar 
+is. In de uitnodiging worden zowel de code vermeld om de vaccinatie te krijgen, als twee vaccinatieplaatsen, 
+vooraf bepaald op grond van de postcode van zijn woonst.Via de afsprakentool kiest de kandidaat 
+dan de plaats, de datum en de uren voor zijn vaccinatie.Als de kandidaat niet op de uitnodiging 
+ingaat, wordt hij doorverwezen naar volgende fases 1B dan wel 2 van de vaccinatiecampagne.I. 
+Communicatie en type evaluatie:Een algemene communicatie over COVID-19, de vaccinatie en het 
+vaccinatieproces wordt vooraf toegankelijk gemaakt voor de zorgverstrekkers in de eerstelijnszorg en 
+de eerstelijnshulp. Deze communicatie bestaat met name uit hetvolgende:- Er wordt in visuele 
+informatiedragers en/of dialoogondersteunende tools (werkgever of federatie of groepering van verstrekkers 
+en hun werknemers of leden) voorzien;- de website voor COVID van AVIQ, waaronder een lijst 
+FAQ ter beschikking van bedoelde beoefenaars;- het organiseren van webinars en het beheer van 
+de vragen die daar aan bod komen.Bijlage a: Lijst van het materieel en de geneesmiddelen 
+vereist in de SOP vaccinatie:A. Basisuitrustingen:- Wachtzaal met mogelijkheid tot 
+social distancing en aanplakken van contra-indicaties- Hydroalcoholische Gel- Vaccinatiezaal:o 
+Bloeddrukmetero Stethoscoop- Koelkast om geneesmiddelen te bewaren, op een temperatuur 
+tussen 2 en 8 graden, met een geijkte temperatuurregistratie of een thermometer die 2 temperatuuropnames 
+per dag mogelijk maakt, koelkast of lokaal achter en op slot- Vuilniszakken en -bakken voor 
+B1-afvalstoffen- Vuilnisbakken voor B2-afvalstoffen, lege vaccinatieflesjes, spuiten en naalden- 
+Vaccinatiezaal die groot genoeg is voor 2 personen, en verlucht- Minstens 2 tafels en 4 stoelen 
+(voldoende afstandsbewaring)- Lopend water voor handenwassen- Mogelijkheid tot waarborgen 
+van de bescherming van het privé-leven- Verzorgingswagentje met hydroalcoholische oplossingen, 
+doekjes en ontsmettingsmiddel voor oppervlaktes- Na vaccin-wachtzaal waar 15 minuten toezicht 
+met inachtneming van social distancing mogelijk isB. Informatica uitrustingen:- Minstens 
+1 pc, 1 ID-kaartlezer, 1 barcodescanner en QR code-scanner, 1 printer- Indien mogelijk WiFi 
+verbinding, WiFi-code beschikbaar- Toegang tot de vaccinatiesoftware "Vaccinet+"C. 
+Beschermende uitrusting voor het personeel:- Chirurgisch masker- Handschoenen- 
+Optioneel: Kiel, bril, of gezichtsschermD. Uitrusting voor de voorbereiding en de toediening 
+van het vaccin- Spuit van 3 ml, met een gradatie van 0,1 ml, en 18G-spuitnaald, ampullen NaCl 
+0.9% voor vaccinoplossing- Spuit 1ml, gradatie met 0,1 ml en injectienaald met 23 of 25 gauge- 
+Kompressen,- Alcohol-ontsmettingsdoekjes voor flesje, individueel verpakt verbandE. 
+Uitrustingen voor de patiënten:- Anafylactische en allergiekit met minstens 2 ampullen adrenaline 
+1 mg/1 ml, 2 1 ml spuiten met 1 ml gradatie, 2 naalden 18 G, 2 naalden 21 G, 2 naalden 23 G,- 
+Solumedrol ampullen- Antihistamintabletten- Suikerhoudende dranken.- Zuurstofsaturatiemeter 
+(pols-oxymeter)Bijlage bij het besluit van de Waalse Regering tot uitvoering van artikel 47/17bis 
+van het Waalse Wetboek van Sociale Actie en Gezondheid met betrekking tot het protocol voor de uitvoering 
+van fase 1.a.4 van het COVID 19-vaccinatieprogramma voor volwassen wat betreft de eerstelijnshulp en 
+eerstelijnszorg.Namen, 18 februari 2021.Voor de Regering:De Minister-President,E. 
+DI RUPODe Minister van Tewerkstelling, Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en 
+Vrouwenrechten,Ch. MORREALE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-23Numac : 2021020452
+

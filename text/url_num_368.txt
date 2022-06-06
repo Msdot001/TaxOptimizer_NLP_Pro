@@ -1,0 +1,75 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State   Kamer van volksvertegenwoordigers ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/11/30/2020043762/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-11Numac : 2020043762
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 30 NOVEMBER 2020. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur en de wet van 21 december 2009 betreffende het accijnsstelsel van alcoholvrije dranken en koffie (1) 
+FILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen 
+zullen, Onze Groet.De Kamer van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen, 
+hetgeen volgt : Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 74 van 
+de Grondwet. Art. 2.  In artikel 370 van de gewone wet van 16 juli 1993 tot vervollediging 
+van de federale staatsstructuur, gewijzigd bij de wet van 7 maart 1996, wordt de bepaling onder 8°  vervangen 
+als volgt : "8°  ongegiste vruchtensappen (druivemost daaronder begrepen) en ongegiste groentesappen, 
+zonder toegevoegde alcohol, met of zonder toegevoegde suiker of andere zoetstoffen van de GN-code 2009, 
+met uitzondering van vers geperste vruchtensappen en groentesappen die geen enkele bewerking hebben ondergaan, 
+die in de detailhandel ter plaatse vervaardigd worden en die onmiddellijk te koop aangeboden worden voor 
+consumptie en die dus niet voor wederverkoop bestemd zijn;". Art. 3.  In artikel 7 van de wet 
+van 21 december 2009 betreffende het accijnsstelsel van alcoholvrije dranken en koffie, gewijzigd bij 
+de programmawet van 25 december 2017, wordt de bepaling onder h) vervangen als volgt : "h) 
+ongegiste vruchtensappen en ongegiste groentesappen, zonder toegevoegde alcohol, met of zonder toegevoegde 
+suiker of andere zoetstoffen van de GN-code 2009, met uitzondering van vers geperste vruchtensappen en 
+groentesappen die geen enkele bewerking hebben ondergaan, die in de detailhandel ter plaatse vervaardigd 
+worden en die onmiddellijk te koop aangeboden worden voor consumptie en die dus niet voor wederverkoop 
+bestemd zijn;". Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed 
+en door het Belgisch Staatsblad zal worden bekendgemaakt.  Gegeven te Brussel, 30 november 
+2020.FILIPVan Koningswege :De Vice-Eerste Minister en Minister van Financiën,V. 
+VAN PETEGHEMMet's Lands zegel gezegeld :De Minister van Justicie,V. VAN 
+QUICKENBORNE_______Nota(1) Kamer van volksvertegenwoordigers(www.dekamer.be)Stukken. 
+- 55-0864Integraal Verslag : 9 november 2020.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-11Numac : 2020043762
+

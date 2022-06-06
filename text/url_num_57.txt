@@ -1,0 +1,86 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-27Numac : 2020030796
+FEDERALE OVERHEIDSDIENST FINANCIEN
+  
+Algemene Administratie van de Fiscaliteit. - Bericht aan de schuldenaars van commissies, makelaarslonen, 
+restorno's, vacatiegelden, erelonen, gratificaties, vergoedingen of voordelen van alle aardDe 
+richtlijnen voor het bestellen, opstellen en indienen van de papieren fiches 281.50 en samenvattende 
+opgaven 325.50 voor de inkomsten van 2019 zijn beschikbaar op de webpagina https://financien.belgium.be/nl/ondernemingen 
+(klik op Personeel en loon > Bericht aan schuldenaars > Bericht aan schuldenaars (aanslagjaar 2020) > 
+Commissies, makelaarslonen, restorno's, vacatiegelden, erelonen, gratificaties, vergoedingen of voordelen 
+van alle aard (Fiche 281.50 - opgave 325.50)).De richtlijnen voor het indienen van die documenten 
+langs elektronische weg (of op elektronische informatiedrager) zijn opgenomen in de brochure 'Belcotax 
+on web'. Die brochure kan eveneens op bovenvermelde webpagina worden geraadpleegd (klik op E-services 
+> Belcotax-on-web > Technische documentatie > Brochure inkomsten 2019).In beide gevallen moeten 
+die documenten vóór 30.06.2020 worden ingediend.TER HERINNERINGVolgens artikel 57, 
+1°,  van het Wetboek van de inkomstenbelastingen 1992 (WIB 92) worden de betaalde of toegekende commissies, 
+makelaarslonen, handels- of andere restorno's, toevallige of niet-toevallige vacatiegelden of erelonen, 
+gratificaties, vergoedingen of voordelen van alle aard, die voor de verkrijgers al dan niet in België 
+belastbare beroepsinkomsten zijn (behalve de bezoldigingen van meewerkende echtgenoten), maar als beroepskosten 
+aangenomen als ze worden verantwoord door individuele fiches en een samenvattende opgave.Artikel 
+30 van het koninklijk besluit tot uitvoering van het WIB 92 bepaalt dat die fiches en die samenvattende 
+opgave elektronisch moeten worden ingediend, tenzij de schuldenaars (of de personen die gemachtigd zijn 
+om die fiches en die opgave in hun naam in te dienen) niet over de nodige geïnformatiseerde middelen 
+beschikken om aan die verplichting te voldoen. In dat geval moeten die fiches en die opgave op papier 
+of op een elektronische informatiedrager worden ingediend.Meer informatie over het indienen 
+van die documenten is te verkrijgen bij de volgende KMO Centra Specifieke Materies - Bedrijfsvoorheffing:  Brussels Hoofdstedelijk Gewest KMO Centrum Specifieke 
+Materies - Bedrijfsvoorheffing BrusselKruidtuinlaan 50 bus 34061000 BrusselTel.: 
+0257/52 990 (N/F) Région de Bruxelles-Capitale Centre PME Matières Spécifiques - Précompte Professionnel 
+BruxellesBoulevard du Jardin Botanique 50 bte 3406, 1000 BruxellesTél. : 0257/52 
+990 (N/F)Vlaams Gewest KMO Centrum Specifieke Materies - Bedrijfsvoorheffing AalstDr. 
+André Sierensstraat 16 bus 19300 AalstTel.: 0257/73 660 (N) Région flamande KMO 
+Centrum Specifieke Materies - Bedrijfsvoorheffing AalstDr. André Sierensstraat 16 bus 1, 9300 
+AalstTel. : 0257/73 660 (N)Waals Gewest Centre PME Matières Spécifiques 
+- Précompte Professionnel MonsAvenue Mélina Mercouri 17000 MonsTél.: 0257/88 
+110 (F) Région wallonne Centre PME Matières Spécifiques - Précompte Professionnel MonsAvenue 
+Mélina Mercouri 1, 7000 MonsTél. : 0257/88 110 (F)  (De pers 
+wordt verzocht dit bericht over te nemen)  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-27Numac : 2020030796
+

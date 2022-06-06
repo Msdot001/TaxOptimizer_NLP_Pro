@@ -1,0 +1,162 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020015039/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-26Numac : 2020015039
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 18 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 35 houdende afwijking van diverse bepalingen met betrekking tot het aanvullend secundair beroepsonderwijs, afdeling verpleegkunde in het kader van de COVID-19 gezondheidscrisis 
+De Regering van de Franse Gemeenschap,Gelet 
+op het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van 
+de gezondheidscrisis COVID-19, artikel 1, § 1er, f);Gelet op het decreet 
+van 11 mei 2017 betreffende de vierde graad van het aanvullend secundair beroepsonderwijs, afdeling verpleegkunde;Gelet 
+op de dringende noodzaak om de Franse Gemeenschap in staat te stellen vóór het einde van het schooljaar 
+te reageren op de maatregelen die zijn genomen in het kader van de bestrijding van de COVID-19-pandemie, 
+overeenkomstig artikel 1, § 1, f), van het decreet van 17 maart 2020 tot toekenning van bijzondere 
+machten aan de Regering in het kader van de COVID-19-pandemie:- door in deze uitzonderlijke 
+omstandigheden het einde van het schooljaar te organiseren voor alle leerlingen in het door de Federatie 
+Wallonië-Brussel georganiseerde of gesubsidieerde onderwijs die zijn ingeschreven in de vierde graad 
+van het aanvullend beroepsonderwijs (EPSC), afdeling verpleegkunde;- door aanpassing van het 
+EPSC-curriculum 4e graad, afdeling verpleegkunde, voor studenten die in 2019-2020 zijn ingeschreven, 
+na de schorsing van de cursussen als gevolg van het verschijnen van COVID-19;- door al deze 
+leerlingen en hun ouders indien nodig zo snel mogelijk op de hoogte te stellen van de regelingen voor 
+het einde van het schooljaar;Overwegende het ministerieel besluit van 23 maart 2020 betreffende 
+noodmaatregelen ter beperking van de verspreiding van het coronavirus COVID-19, zoals gewijzigd op 20 
+mei 2020, en inzonderheid op artikel 6 betreffende de opschorting van lessen en activiteiten in het kleuter-, 
+lager en secundair onderwijs;Overwegende dat het nodig is om af te wijken van de verdeling 
+van de uurvolumes van klinisch en theoretisch onderwijs per studiejaar en in plaats daarvan te streven 
+naar de voltooiing ervan aan het einde van de opleiding als geheel, voor leerlingen die zijn ingeschreven 
+in het eerste, tweede en derde jaar van het aanvullend secundair beroepsonderwijs, afdeling verpleegkunde, 
+in 2019-2020, gezien de moeilijkheid om, met het oog op de opschorting van de lessen, deze verdeling 
+per studiejaar te respecteren, en dit tot het behalen van het getuigschrift van ziekenhuisverpleegkundige 
+of ziekenhuisverpleegkundige - oriëntatie geestelijke gezondheid en psychiatrie, op voorwaarde dat de 
+betrokken leerlingen ten minste voor hun eerste jaar op 31 oktober 2020 hebben geslaagd;Overwegende 
+dat het noodzakelijk is de verplichting om bij de administratie een verzoek tot afwijking in te dienen 
+voor de organisatie van stages tijdens de winter- en voorjaarsvakantie voor de eerste drie jaar en de 
+zomervakantie voor de eerste twee jaar alleen voor leerlingen die in 2019-2020 in een van de eerste drie 
+jaar van de graad zijn ingeschreven, op te schorten, en dit tot het einde van hun opleiding, op voorwaarde 
+dat de betrokken leerlingen ten minste hun eerste jaar hebben gehaald;Overwegende dat het passend 
+is om de klassenraad in 2019-2020 de bevoegdheid te geven om derdejaarsstudenten, die de ontbrekende 
+klinische onderwijsuren tijdens de zomervakantie of vóór 31 januari 2021 van het derde aanvullende jaar 
+niet willen of kunnen aanvullen, in staat te stellen deze ontbrekende uren na deze datum aan te vullen 
+en zo het jaar tussen 1 februari en 30 juni 2021 af te ronden;Overwegende de klassenraad in 
+2019-2020 de bevoegdheid moet krijgen om leerlingen uit het derde jaar die geen tijd hebben gehad om 
+hun tweede zitting voor 30 juni 2020 te presenteren, toe te staan deze tweede sessie uit te stellen en 
+een beslissing te nemen over de afgifte van het getuigschrift van ziekenhuisverpleegkundige of ziekenhuisverpleegkundige 
+- oriëntatie geestelijke gezondheid en psychiatrie - tot uiterlijk 31 oktober 2020;Overwegende 
+het, bij wijze van uitzondering in 2019-2020, passend is om de organisatie van de theoretische proeven 
+op afstand toe te staan naar aanleiding van de maatregelen die zijn genomen om de covid19-pandemie te 
+bestrijden;Overwegende dat als gevolg van de schorsing van de klassen naar aanleiding van het 
+verschijnen van COVID-19 afgeweken moet worden van de mogelijkheid voor de klassenraad om een leerling 
+tot laureaat te verklaren van het derde jaar of de eindproef die niet voldoet aan de slaagcriteria vanwege 
+het aantal lesuren dat aan het eind van het schooljaar 2019-2020 niet werd bezocht,, aangezien deze leerlingen 
+het einde van hun studieperiode naderen;Overwegende dat deze mogelijkheid wordt gehandhaafd 
+voor leerlingen die in het eerste en tweede jaar zijn ingeschreven, op voorwaarde dat er een herstelplan 
+wordt opgesteld om hun vaardigheden te consolideren;Overwegende het bijgevolg passend is om 
+voor het eerste en tweede jaar de bevoegdheid voor de evaluatie en validatie van de theoretische vakken 
+aan het einde van het schooljaar 2019-2020, tijdens de daaropvolgende jaren van het curriculum, aan de 
+klassenraad toe te vertrouwen;Overwegende dat de inrichtende machten, bij wijze van uitzondering, 
+in 2019-2020, moeten kunnen beslissen om al dan niet praktijkproeven te organiseren in het licht van 
+de opschorting van de cursussen waartoe de Regering naar aanleiding van de COVID-pandemie heeft besloten.Gelet 
+op advies 67.573/2 van de Raad van State, uitgebracht op 15 juni 2020, met toepassing van artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op 
+de voordracht van de Minister van Onderwijs;Na beraadslaging,Besluit : Artikel 
+1.  § 1. In afwijking van artikel 3, § 2, tweede lid, van het decreet van 11 mei 2017 betreffende 
+de vierde graad van het aanvullend secundair beroepsonderwijs, afdeling verpleegkunde, kan de klassenraad 
+voor het jaar 2019-2020 de organisatie van andere zittingen toestaan tot uiterlijk 31 oktober 2020. 
+§ 2. In afwijking van artikel 3, § 2, vierde lid, van hetzelfde decreet beslist de klassenraad 
+voor het schooljaar 2019-2020 voor de overeenkomstig het vorige lid georganiseerde zittingen uiterlijk 
+op 31 oktober 2020 over de uitreiking van het brevet van ziekenhuisverpleegkundige of ziekenhuisverpleegkundige 
+- oriëntatie geestelijke gezondheid en psychiatrie.Art. 2. In afwijking van artikel 3, leden 
+3 en 5, van hetzelfde decreet is de verdeling per studiejaar van de lestijden van klinische en theoretische 
+opleiding niet van toepassing voor leerlingen die zijn ingeschreven in het eerste, tweede en derde jaar 
+in 2019-2020, en dit tot ze het getuigschrift ziekenhuisverpleegkundige of ziekenhuisverpleegkundige 
+- geestelijke gezondheid en psychiatrische geaardheid hebben behaald, op voorwaarde dat de betrokken 
+leerlingen ten minste voor het eerste jaar zijn geslaagd.De 2960 lestijden (2466 uur) van de 
+klinische onderwijsopleiding, waarvan minimaal 2760 lestijden (2300 uur) in de vakken bedoeld in het 
+tweede lid van artikel 21 en het tweede lid van artikel 25 van hetzelfde decreet, moeten aan het einde 
+van de opleiding als geheel worden verwezenlijkt.De 2448 lestijden (2040 uur) van de theoretische 
+lerarenopleiding moeten voor het einde van de gehele opleiding zijn gevolgd.Art. 3.  § 
+1. In afwijking van punt 1 van eerste lid van artikel 9 van hetzelfde decreet wordt de verplichting om 
+in 2019-2020 theoretische proeven te organiseren afgeschaft voor de eerste en tweedejaars leerlingen. 
+Het is aan de inrichtende machten om te beslissen of zij deze proeven al dan niet handhaven.Als 
+de theorieproeven worden gehandhaafd, kan een in 2019-2020 gegeven cursus in de volgende jaren worden 
+geëvalueerd voor eerste en tweedejaarsstudenten. Zij moeten aan het einde van de gehele cursus zijn afgerond, 
+op voorwaarde dat de betrokken leerlingen ten minste het eerste jaar van hun opleiding hebben doorlopen. 
+§ 2. Wanneer de theorieproeven in 2019-2020 worden gehandhaafd, kunnen ze op afstand worden georganiseerd. 
+In dat geval verzoekt de school de leerling uiterlijk tien werkdagen voor de datum waarop de proef moet 
+worden afgelegd, formeel te melden of hij niet in de correcte materiële omstandigheden verkeert om de 
+proef te kunnen afleggen, zodat de school een passende oplossing kan voorstellen.Art. 4. In 
+afwijking van artikel 9, paragraaf 1, punt 2, van hetzelfde decreet wordt de verplichting om in 2019-2020 
+praktijkproeven te organiseren voor leerlingen van het eerste en tweede leerjaar afgeschaft. Het komt 
+aan de inrichtende machten toe om te beslissen of zij deze tests al dan niet handhaven.Als 
+de praktijkproeven worden gehandhaafd, kunnen ze in latere jaren worden georganiseerd voor eerste en 
+tweedejaars leerlingen.Zij moeten aan het einde van de gehele opleiding zijn uitgevoerd, op 
+voorwaarde dat de betrokken leerlingen ten minste het eerste jaar van hun opleiding hebben doorlopen. 
+In dit geval is de in paragraaf 2, punt 2, van hetzelfde artikel bedoelde verdeling van deze proeven 
+per studiejaar niet van toepassing.Art. 5. In afwijking van artikel 10, § 3 van hetzelfde 
+decreet kan de klassenraad in 2019-2020 een leerling die niet voldoet aan de criteria om te slagen, niet 
+tot laureaat verklaren in het derde jaar of in het eindexamen.Eerste en tweedejaars leerlingen 
+kunnen alleen tot laureaat worden uitgeroepen door de klassenraad als ze een herstelplan hebben om hun 
+vaardigheden te consolideren.Art. 6. In afwijking van artikel 11, paragraaf 1, van hetzelfde 
+decreet, kunnen in de winter-, lente- en zomervakantie stages worden georganiseerd voor leerlingen die 
+in 2019-2020 in de eerste drie jaar van het opleidingsprogramma zijn ingeschreven, zonder dat bij de 
+Minister van Onderwijs om afwijking verzocht hoeft te worden, op voorwaarde dat zij ten minste voor het 
+eerste jaar zijn geslaagd.In 2019-2020 kan de klassenraad toestaan dat derdejaars leerlingen 
+die de ontbrekende klinische onderwijsuren tijdens de zomervakantie of vóór 31 januari 2021 van het derde 
+aanvullende jaar niet willen of kunnen aanvullen, deze ontbrekende uren na die datum kunnen aanvullen 
+en zo het jaar tussen 1 februari en 30 juni 2021 kunnen aanvullen.Art. 7. In afwijking van 
+artikel 14, punt 2, van hetzelfde decreet mag het aantal leerlingen per verpleger of vroedvrouw in 2020 
+bij wijze van uitzondering meer dan drie bedragen.Art. 8. In afwijking van de artikelen 18, 
+19, 20, 22, 23 en 24 van hetzelfde decreet is de verdeling van de lestijden van klinisch onderwijs niet 
+van toepassing tot het einde van de cursus voor leerlingen die zijn ingeschreven in een van de eerste 
+drie jaren van het diploma in 2019-2020, op voorwaarde dat zij ten minste voor het eerste jaar zijn geslaagd. 
+De leerling moet al deze lestijden van klinisch onderwijs hebben doorlopen aan het einde van zijn opleiding.Art. 
+9. Dit besluit treedt in werking de dag waarop het wordt ondertekend.Art. 10. De minister bevoegd 
+voor het leerplichtonderwijs is belast met de uitvoering van dit besluit.Brussel, 18 juni 2020.De 
+Minister-President,P.-Y. JEHOLETDe Minister van Onderwijs,C. DESIR   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-26Numac : 2020015039
+

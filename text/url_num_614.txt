@@ -1,0 +1,1905 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/29/2021042537/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042537
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 29 JUNI 2021. - Koninklijk besluit tot wijziging van de koninklijke besluiten nrs. 1, 4, 7, 10, 22, 24, 31, 41, 44 en 56 met betrekking tot de belasting over de toegevoegde waarde 
+VERSLAG AAN 
+DE KONINGSire,Dit ontwerp van koninklijk besluit wijzigt:- het koninklijk 
+besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting 
+over de toegevoegde waarde (hierna: "het koninklijk besluit nr. 1");- het koninklijk besluit 
+nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde 
+(hierna: "het koninklijk besluit nr. 4");- het koninklijk besluit nr. 7 van 29 december 1992 
+met betrekking tot de invoer van goederen voor de toepassing van de belasting over de toegevoegde waarde 
+(hierna: "het koninklijk besluit nr. 7");- het koninklijk besluit nr. 10 van 29 december 1992 
+met betrekking tot de uitoefeningsmodaliteiten van de keuzen, bedoeld in de artikelen 15, § 2, 
+derde lid, 21bis, § 2, 9°,  vierde lid, 25ter, § 1, tweede lid, 2°,  tweede lid en 44, 
+§ 3, 2°,  d), van het Wetboek van de belasting over de toegevoegde waarde, de aangiften van aanvang, 
+wijziging, stopzetting van activiteit en de voorafgaande kennisgevingen inzake de belasting over de toegevoegde 
+waarde (hierna: "het koninklijk besluit nr. 10");- het koninklijk besluit nr. 22 van 15 september 
+1970 met betrekking tot de bijzondere regeling voor landbouwondernemers inzake belasting over de toegevoegde 
+waarde (hierna: "het koninklijk besluit nr. 22");- het koninklijk besluit nr. 24 van 29 december 
+1992 met betrekking tot de voldoening van de belasting over de toegevoegde waarde (hierna: "het koninklijk 
+besluit nr. 24");- het koninklijk besluit nr. 31 van 2 april 2002 met betrekking tot de toepassingsmodaliteiten 
+van de belasting over de toegevoegde waarde ten aanzien van de handelingen verricht door niet in België 
+gevestigde belastingplichtigen (hierna: "het koninklijk besluit nr. 31");- het koninklijk besluit 
+nr. 41 van 30 januari 1987 tot vaststelling van het bedrag van de proportionele fiscale geldboeten op 
+het stuk van de belasting over de toegevoegde waarde (hierna: "het koninklijk besluit nr. 41");- 
+het koninklijk besluit nr. 44 van 9 juli 2012 tot vaststelling van het bedrag van de niet-proportionele 
+fiscale geldboeten op het stuk van de belasting over de toegevoegde waarde (hierna: "het koninklijk besluit 
+nr. 44");- het koninklijk besluit nr. 56 van 9 december 2009 met betrekking tot de teruggaaf 
+inzake belasting over de toegevoegde waarde aan belastingplichtigen gevestigd in een andere lidstaat 
+dan de lidstaat van teruggaaf (hierna: "het koninklijk besluit nr. 56").De wijzigingen die 
+dit ontwerp aanbrengt in de voormelde koninklijke besluiten komen voort uit de invoering in het Wetboek 
+van de belasting over de toegevoegde waarde (hierna "het Wetboek") bij de wet van 2 april 2021 tot wijziging 
+van het Wetboek van de belasting over de toegevoegde waarde wat de regeling betreft die van toepassing 
+is op afstandsverkopen van goederen en op bepaalde leveringen van goederen en diensten (hierna: "de wet 
+van 2 april 2021") (Belgisch Staatsblad van 13 april 2021), van een fundamentele hervorming van de regels 
+met betrekking tot de regeling van afstandsverkopen van goederen en van de regels met betrekking tot 
+de vereenvoudingsregeling voor telecommunicatiediensten, radio- en televisieomroepdiensten of elektronische 
+diensten verricht voor niet-belastingplichtigen (bekend als de zogenaamde "MOSS" of de "Mini One stop 
+shop" of nog, de mini één-loketregeling).Deze hervorming resulteert uit de omzetting in Belgisch 
+recht van enerzijds deel 2 van de Richtlijn (EU) 2017/2455 van de Raad van 5 december 2017 tot wijziging 
+van Richtlijn 2006/112/EG en Richtlijn 2009/132/EG wat betreft bepaalde btw-verplichtingen voor diensten 
+en afstandsverkopen van goederen (hierna: "de Richtlijn 2017/2455") en anderzijds van de Richtlijn (EU) 
+2019/1995 van de Raad van 21 november 2019 tot wijziging van Richtlijn 2006/112/EG wat betreft de bepalingen 
+inzake afstandsverkopen en bepaalde binnenlandse leveringen van goederen (hierna: "de Richtlijn 2019/1995"). 
+De nieuw genomen wettelijke maatregelen om zich te schikken naar de voornoemde richtlijnen treden in 
+werking op 1 juli 2021, overeenkomstig het besluit (EU) 2020/1109 van de Raad van 20 juli 2020 tot wijziging 
+van Richtlijnen (EU) 2017/2455 en (EU) 2019/1995 wat betreft de data van omzetting en toepassing in respons 
+op de COVID-19-pandemie.Deze richtlijnen worden aangevuld met vier andere instrumenten van 
+de Europese rechtsorde die door de lidstaten niet in hun nationale rechtsorde moeten en kunnen worden 
+omgezet, respectievelijk omdat deze normen rechtstreeks toepasselijk zijn of omdat zij alleen tussen 
+de lidstaten verplichtingen scheppen, namelijk:1) de Uitvoeringsverordening (EU) 2017/2459 
+van de Raad van 5 december 2017 tot wijziging van Uitvoeringsverordening (EU) nr. 282/2011 houdende vaststelling 
+van maatregelen ter uitvoering van Richtlijn 2006/112/EG betreffende het gemeenschappelijke stelsel van 
+belasting over de toegevoegde waarde (hierna: "de Uitvoeringsverordening 2017/2459"). Deze Uitvoeringsverordening 
+voorziet in een vereenvoudiging van de toepassing van het vermoeden betreffende de plaats van vestiging 
+van de afnemer om de plaats van telecommunicatie-, omroep- of langs elektronische weg verrichte diensten 
+voor niet-belastingplichtigen te bepalen, dat is opgenomen in artikel 24 ter van de Uitvoeringsverordening 
+(EU) nr. 282/2011 van de Raad van 15 maart 2011 houdende vaststelling van maatregelen ter uitvoering 
+van Richtlijn 2006/112/EG betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde 
+waarde;2) de Uitvoeringsverordening (EU) 2019/2026 van de Raad van 21 november 2019 tot wijziging 
+van Uitvoeringsverordening (EU) nr. 282/2011 wat betreft door elektronische interfaces gefaciliteerde 
+leveringen van goederen of diensten en de bijzondere regelingen voor belastingplichtigen die diensten 
+voor niet-belastingplichtigen, afstandsverkopen van goederen en bepaalde binnenlandse goederenleveringen 
+verrichten (hierna: "de Uitvoeringsverordening 2019/2026"), zoals gewijzigd, wat de datum van inwerkingtreding 
+betreft, door de Uitvoeringsverordening (EU) 2020/1112 van de Raad van 20 juli 2020 tot wijziging van 
+Uitvoeringsverordening (EU) 2019/2026 wat betreft de toepassingsdata in respons op de COVID-19-pandemie. 
+Deze Uitvoeringsverordening omvat een aantal belangrijke preciseringen omtrent de correcte toepassing 
+van de regels die werden opgenomen in deel 2 van de Richtlijn 2017/2455 en in de Richtlijn 2019/1995;3) 
+de Verordening (EU) 2017/2454 van de Raad van 5 december 2017 tot wijziging van Verordening (EU) nr. 
+904/2010 van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het 
+gebied van de belasting over de toegevoegde waarde (hierna: "de Uitvoeringsverordening 2017/2454"), zoals 
+gewijzigd, wat de datum van inwerkingtreding betreft, door de Verordening (EU) 2020/1108 van de Raad 
+van 20 juli 2020 tot wijziging van Verordening (EU) 2017/2454 wat betreft de toepassingsdata in respons 
+op de COVID-19-pandemie. Deze verordening strekt ertoe om tussen de lidstaten meer samenwerking en coördinatie 
+tot stand te brengen bij de controle van bedrijven met grensoverschrijdende handelingen die gebruik maken 
+van de bijzondere regelingen voor afstandsverkopen, om ervoor te zorgen dat de regels door de betrokken 
+ondernemingen zo goed mogelijk worden nageleefd;4) de Uitvoeringsverordening (EU) 2020/194 
+van de Commissie van 12 februari 2020 tot vaststelling van nadere bepalingen voor de toepassing van Verordening 
+(EU) nr. 904/2010 van de Raad wat betreft bijzondere regelingen voor belastingplichtigen die diensten 
+voor niet-belastingplichtigen, afstandsverkopen van goederen en bepaalde binnenlandse goederenleveringen 
+verrichten. Deze Uitvoeringsverordening van de Europese Commissie voorziet in de technische specificaties 
+en gemeenschappelijke bepalingen voor de elektronische uitwisseling van informatie met betrekking tot 
+het nieuwe OSS-systeem.De belangrijkste wijzigingen die aan de btw-regeling werden aangebracht 
+kunnen als volgt worden samengevat:1) de uitbreiding van het toepassingsgebied van de twee 
+bestaande vereenvoudigingsregelingen ("EU-regeling" en "niet-EU-regeling") binnen de MOSS ("Mini One 
+stop shop") die voortaan globaal de intracommunautaire afstandsverkopen van goederen en alle aan particulieren 
+verrichte diensten door communautaire marktdeelnemers ("EU-regeling") zal omvatten alsook alle aan particulieren 
+verrichte diensten door marktdeelnemers van buiten de Gemeenschap ("niet-EU-regeling");2) de 
+afschaffing van de bestaande drempels voor intracommunautaire afstandsverkopen van goederen, die verstorend 
+werkten op de eengemaakte markt maar de invoering van een globale EU btw-drempel voor intracommunautaire 
+afstandsverkopen van goederen en telecommunicatie-, radio- en televisiediensten of elektronische diensten 
+verricht aan particulieren (hierna "TBE-diensten");3) de invoering van een volledig nieuw onderdeel 
+binnen het MOSS-systeem waarbij de btw verschuldigd op de afstandsverkopen van goederen afkomstig uit 
+derde landen of derdelandsgebieden op een vereenvoudigde manier kan worden aangegeven en betaald ("invoerregeling"). 
+Ingevolge de aanzienlijke uitbreiding van het toepassingsgebied van MOSS, wordt het systeem nu OSS ("One 
+stop shop") genoemd;4) de afschaffing van de bestaande btw-vrijstelling voor de invoer van 
+kleine zendingen tot 22 euro afkomstig van leveranciers in derde landen, die EU-verkopers benadeelde. 
+Die vrijstelling wordt vervangen door een invoervrijstelling tot 150 euro die enkel van toepassing is 
+indien de goederen worden ingevoerd in het kader van de afstandsverkopen van goederen afkomstig uit derde 
+landen of derdelandsgebieden die werden aangegeven binnen de nieuwe vereenvoudigingsregeling van het 
+OSS-systeem;5) de invoering van een aanvullende vereenvoudigingsregeling buiten het OSS-systeem 
+voor zowel de aangifte als de betaling van btw die verschuldigd is bij de invoer van goederen bestemd 
+voor de eindverbruiker in het kader van afstandsverkopen van goederen ingevoerd uit derde landen of derdelandsgebieden, 
+wanneer de btw niet werd voldaan via de invoerregeling binnen de OSS;6) de invoering van een 
+regeling waarin elektronische interfaces die afstandsverkopen van goederen faciliteren ook aansprakelijk 
+worden gesteld voor de correcte voldoening van de verschuldigde btw over de afstandsverkopen die via 
+hun interface werden gerealiseerd.De wet van 2 april 2021 die de Richtlijn 2017/2455 en de 
+Richtlijn 2019/1995 omzet, moet worden aangevuld met een reeks wijzigingen aan de voornoemde koninklijke 
+besluiten, in de mate dat deze hervorming een rechtstreekse impact heeft op deze koninklijke besluiten. 
+Bovendien voorzien sommige bepalingen van het Wetboek, gewijzigd of ingevoegd bij de wet van 2 april 
+2021, in een reeks delegaties aan de Koning wat de uitvoering van deze bepalingen betreft.De 
+maatregelen ter uitvoering van de bepalingen van de wet van 2 april 2021 en opgenomen in dit ontwerp 
+worden hierna nader toegelicht.Dit ontwerp houdt rekening met de opmerkingen van de afdeling 
+wetgeving van de Raad van State in zijn advies nr. 69.432/2 van 21 juni 2021, met uitzondering van het 
+punt 6 (zie commentaar met betrekking tot artikel 19 van het ontwerp).Artikelsgewijze besprekingArtikel 
+1Dit ontwerp van koninklijk besluit voorziet enerzijds in de omzetting van deel 2 van de Richtlijn 
+2017/2455 en anderzijds in de omzetting van Richtlijn 2019/1995.De lidstaten moesten oorspronkelijk 
+de nodige wettelijke en administratieve maatregelen treffen om zich te schikken naar de voornoemde richtlijnen 
+met ingang van 1 januari 2021. Ingevolge het besluit (EU) 2020/1109 van de Raad van 20 juli 2020 tot 
+wijziging van Richtlijnen (EU) 2017/2455 en (EU) 2019/1995 wat betreft de data van omzetting en toepassing 
+in respons op de COVID-19-pandemie, werd dat tijdstip evenwel uitgesteld tot 1 juli 2021.Ten 
+slotte voorziet dit koninklijk besluit, door de regels die het invoert, in de gedeeltelijke omzetting 
+van Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel 
+van belasting over de toegevoegde waarde (hierna "de Richtlijn 2006/112/EG").Artikel 2Artikel 
+2 van het ontwerp vervangt paragraaf 1 van artikel 16, nieuw, van het koninklijk besluit nr. 1 rekening 
+houdend met de substantiële wijzigingen die aan artikel 15 van het Wetboek werden aangebracht door de 
+wet van 2 april 2021. Die wijzigingen worden in detail toegelicht in dit verslag aan de Koning met betrekking 
+tot de artikelen 13 tot 15 van het ontwerp, wat de modaliteiten betreft van de keuze voor de belastingheffing 
+over de intracommunautaire afstandsverkopen van goederen en de TBE-diensten in de lidstaat van verbruik, 
+wanneer de communautaire drempel van 10.000 euro aan omzet voor die handelingen niet werd overschreden.Artikel 
+16, § 1, van het koninklijk besluit nr. 1 legt een bijzondere verplichting op aan de belastingplichtigen 
+die "afstandsverkopen" verrichten (in de zin van artikel 15, §§ 1 en 2, van het Wetboek, 
+maar toen nog niet als dusdanig gedefinieerd als zelfstandig juridische begrip), onder de drempel vastgelegd 
+door de lidstaat van bestemming overeenkomstig artikel 34, oud, van de Richtlijn 2006/112/EG (dat bedrag 
+is, tot 30 juni 2021, in België vastgelegd op 35.000 euro krachtens artikel 15, § 1, tweede lid, 
+1°,  van het Wetboek). De bedoelde "afstandsverkopen" in de zin van artikel 15, §§ 1 en 
+2, van het Wetboek zijn aldus de leveringen van goederen verzonden of vervoerd door de leverancier of 
+voor zijn rekening naar een andere lidstaat voor een belastingplichtige of een niet-belastingplichtige 
+rechtspersoon die er niet toe gehouden is om de belasting te voldoen ter zake van zijn intracommunautaire 
+verwervingen van goederen of voor enige andere niet-belastingplichtige.Die verplichting houdt 
+in dat de betrokken belastingplichtigen op elk ogenblik in staat moeten zijn om ten behoeve van de ambtenaren 
+van de administratie belast met de belasting over de toegevoegde waarde, voor het lopend kalenderjaar 
+het totale bedrag te bepalen van hun leveringen van goederen die in aanmerking komen voor de berekening 
+van de drempels bedoeld in artikel 15, § 1, tweede lid, 1°,  (voor de leveringen verricht naar 
+België) en § 2, eerste lid, 2°,  van het Wetboek (voor de leveringen verricht vanuit België naar 
+een andere lidstaat). Die verplichting is slechts van toepassing ingeval die leveringen daadwerkelijk 
+geacht worden plaats te vinden in de lidstaat van aanvang van de verzending of het vervoer, wat enerzijds 
+impliceert dat de voormelde drempel niet werd overschreden in het lopende kalenderjaar noch in de loop 
+van het voorafgaande kalenderjaar en anderzijds dat de belastingplichtige er niet voor heeft gekozen 
+dat die leveringen worden belast in de lidstaat van aankomst van de verzending of het vervoer van de 
+goederen.In de mate dat die leveringen van goederen ("afstandsverkopen") systematisch het voorwerp 
+uitmaakten van een factuur krachtens de destijds vigerende regels, kon het omzetcijfer met betrekking 
+tot die handelingen verricht in de loop van het jaar worden aangetoond aan de hand van die facturen opgenomen 
+in een boek voor uitgaande facturen overeenkomstig artikel 14, § 2, eerste lid, 2°,  van het koninklijk 
+besluit nr. 1.Rekening houdend met de door de wet van 2 april 2021 aangebrachte wijzigingen 
+inzake de factureringsregels met betrekking tot intracommunautaire afstandsverkopen van goederen, bestaat 
+een dergelijke factureringsverplichting niet langer ten aanzien van:- de intracommunautaire 
+afstandsverkopen van goederen verricht naar een andere lidstaat of naar België waarvoor de belastingplichtige 
+de drempel van 10.000 euro heeft overschreden of waarvoor hij heeft gekozen voor belastingheffing in 
+de lidstaat van bestemming, wanneer hij gebruikmaakt van de EU-regeling (in dat geval worden de intracommunautaire 
+afstandsverkopen van goederen geacht plaats te vinden overeenkomstig artikel 15, § 1, 1°,  of 
+§ 2, eerste lid, nieuw, van het Wetboek, maar er bestaat geen factureringsverplichting overeenkomstig 
+artikel 53, § 2, eerste lid, 2°,  nieuw, van het Wetboek);- de intracommunautaire afstandsverkopen 
+van goederen verricht vanuit België naar een andere lidstaat in de mate waarin de leverancier in het 
+lopende kalenderjaar of in de loop van het voorgaande kalenderjaar de drempel van 10.000 euro niet heeft 
+overschreden en evenmin heeft gekozen voor belastingheffing in die lidstaat (in dat geval, worden de 
+intracommunautaire afstandsverkopen van goederen geacht plaats te vinden in België overeenkomstig artikel 
+14, § 2, eerste lid, van het Wetboek, zonder enige factureringsverplichting overeenkomstig artikel 
+53, § 2, eerste lid, 2°,  nieuw, van het Wetboek, dat uitdrukkelijk verwijst naar artikel 15, 
+§§ 1 en 2, nieuw, van het Wetboek).Om de voormelde drempel te kunnen opvolgen, 
+behoudt artikel 16, § 1, nieuw, van het koninklijk besluit nr. 1 de verplichting voor de in België 
+gevestigde belastingplichtigen die intracommunautaire afstandsverkopen van goederen verrichten die geacht 
+worden plaats te vinden in België krachtens artikel 15, § 2, tweede lid, nieuw, van het Wetboek, 
+om op elk ogenblik in staat te zijn om ten behoeve van de ambtenaren van de administratie belast met 
+de belasting over de toegevoegde waarde, voor het lopend kalenderjaar het totale bedrag te bepalen van 
+hun intracommunautaire afstandsverkopen van goederen. Die verplichting wordt uitgebreid tot de TBE-diensten 
+die geacht worden in België plaats te vinden aangezien de voormelde drempel van 10.000 euro naar het 
+omzetcijfer refereert dat voor beide soorten handelingen wordt gerealiseerd. Het tweede lid 
+van die bepaling voorziet erin dat het bewijs wordt geleverd aan de hand van een afzonderlijke inschrijving 
+in het in artikel 14, § 2, eerste lid, 3°,  van het koninklijk besluit nr. 1 bedoelde dagboek 
+van ontvangsten, met aanduiding van de aard van de verkochte goederen of diensten, de maatstaf van heffing, 
+de verschuldigde belasting en de lidstaat van aankomst van de verzending of het vervoer van de goederen 
+of waarin de ontvanger van de dienst gevestigd is of zijn woonplaats of gebruikelijk verblijfplaats heeft, 
+behalve ingeval een factuur wordt uitgereikt (de factuur die is opgenomen in het boek voor uitgaande 
+facturen vormt dan een voldoende bewijs). Artikel 3De wet van 2 april 2021 heeft 
+de artikelen 58ter en 58quater van het Wetboek vervangen en heeft een nieuw artikel 58quinquies ingevoegd. 
+Deze bepalingen treden in werking op 1 juli 2021.Artikel 58ter, nieuw, van het Wetboek hervormt 
+de bijzondere niet-EU-regeling waarvan het toepassingsgebied wordt uitgebreid. Deze regeling geldt voor 
+alle diensten die worden verricht aan niet-belastingplichtigen die in de Gemeenschap zijn gevestigd of 
+er hun woonplaats of gebruikelijke verblijfplaats hebben en die worden geacht in de Gemeenschap plaats 
+te vinden op basis van een plaatsbepalingsregel van artikel 21bis van het Wetboek, ongeacht het aanknopingspunt 
+van de plaatsbepalingsregel (bijvoorbeeld de plaats waar het onroerend goed waarop de dienst betrekking 
+heeft, gelegen is).Artikel 58quater, nieuw, van het Wetboek heeft betrekking op de bijzondere 
+EU-regeling, waarvan het materiële en personele toepassingsgebied wordt uitgebreid. Deze regeling geldt 
+voortaan voor alle diensten die worden verricht aan niet-belastingplichtigen en die op grond van artikel 
+21bis van het Wetboek geacht worden plaats te vinden in een andere lidstaat dan die waar de dienstverrichter 
+is gevestigd, ongeacht het aanknopingspunt van de plaatsbepalingsregel. De regeling betreft eveneens 
+andere categorieën van handelingen (in casu intracommunautaire afstandsverkopen van goederen en zelfs 
+bepaalde binnenlandse leveringen van goederen), afhankelijk van de omstandigheden waarin deze handelingen 
+worden verricht.Het materiële toepassingsgebied van deze twee regelingen zal derhalve niet 
+langer beperkt zijn tot de strikte categorie van TBE-diensten, waardoor hun materiële toepassingsgebied 
+aanzienlijk wordt verruimd.Het personele toepassingsgebied van artikel 58quater van het Wetboek 
+is eveneens uitgebreid en beoogt voortaan:- belastingplichtigen die in de Gemeenschap zijn 
+gevestigd, voor de aangifte en betaling van de btw die verschuldigd is op de diensten die zij verrichten 
+voor een niet-belastingplichtige op voorwaarde dat die belastingplichtigen niet gevestigd zijn in de 
+lidstaat waar de dienst voor btw-doeleinden geacht wordt plaats te vinden;- belastingplichtigen 
+die niet in de Gemeenschap zijn gevestigd voor de aangifte en betaling van de btw die verschuldigd is 
+op de intracommunautaire afstandsverkopen van goederen die zij verrichten;- faciliterende elektronische 
+interfaces in de zin van artikel 13bis, nieuw, van het Wetboek, ongeacht of ze in de Gemeenschap zijn 
+gevestigd of niet, voor de aangifte en de betaling van de btw die verschuldigd is bij intracommunautaire 
+afstandsverkopen van goederen en op leveringen van goederen waarbij de plaats van vertrek en aankomst 
+van de verzending of het vervoer in dezelfde lidstaat is gelegen (binnenlandse leveringen).Tot 
+slot voert artikel 58quinquies van het Wetboek een nieuwe bijzondere regeling in voor de aangifte en 
+de betaling van de verschuldigde btw op afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde 
+goederen, in zendingen met een intrinsieke waarde van niet meer dan 150 euro (invoerregeling). Boven 
+dit bedrag zullen deze goederen zowel inzake douanerechten als inzake btw belast worden volgens de gewone 
+regels.Deze facultatieve regeling laat leveranciers die goederen verkopen aan klanten in de 
+Gemeenschap waarvan het vertrek van de verzending of het vervoer plaatsvindt op het grondgebied van derdelandsgebieden 
+of derde landen, toe de verschuldigde btw op de afstandsverkopen van deze binnen het gehele grondgebied 
+van de Gemeenschap ingevoerde goederen aan te geven en te voldoen via een vereenvoudigde regeling die 
+gelijkaardig is aan die voorzien in de voormelde artikelen 58ter en 58quater (één-loket-systeem).Elk 
+van deze regelingen voorziet in soortgelijke regels met betrekking tot de aangifte- en betalingsverplichtingen 
+voor de verschuldigde btw op de handelingen waarvoor de belastingplichtige gebruikmaakt van deze regelingen. 
+De verplichtingen inzake aangifte en betaling van de in het kader van deze regelingen verschuldigde btw 
+moeten door de belastingplichtige worden vervuld op kwartaalbasis wat de eerste twee regelingen betreft, 
+overeenkomstig de artikelen 58ter, § 6, en 58quater, § 6, van het Wetboek, en op maandbasis 
+voor de invoerregeling overeenkomstig artikel 58quinquies, § 6, van het Wetboek. De belastingplichtige 
+dient die aangifte, opgesteld in euro in, uiterlijk vóór het einde van de maand volgend op het verstrijken 
+van het belastingtijdvak bedoeld door elke regeling en voldoet de btw met betrekking tot de betrokken 
+aangifte, uiterlijk bij het verstrijken van de termijn waarbinnen de aangifte moet worden ingediend.Overeenkomstig 
+de in de artikelen 58ter, § 9, 58quater, § 9 en 58quinquies, § 9 van het Wetboek 
+voorziene machtiging aan de Koning, wijzigt artikel 3 van dit ontwerp artikel 18, § 7, eerste 
+lid, van het koninklijk besluit nr. 1, om de formaliteiten vast te leggen die in acht moeten worden genomen 
+met betrekking tot de aangifte van de handelingen die in het kader van deze regelingen worden uitgevoerd.Deze 
+aangiften moeten worden ingediend ook als er in het belastingtijdvak geen enkele handeling werd verricht.De 
+gegevens die deze aangiften moeten bevatten, zijn opgesomd in de artikelen 58ter, § 6, tweede 
+lid, 58quater, § 6, tweede tot en met zevende lid, en 58quinquies, § 6, tweede lid, van 
+het Wetboek.Wijzigingen die na de indiening van die aangifte moeten worden aangebracht, worden 
+binnen drie jaar na de datum waarop de oorspronkelijke aangifte werd ingediend, volgens dezelfde modaliteiten 
+in een latere aangifte opgenomen. In die latere aangifte worden de betrokken lidstaat van verbruik, het 
+belastingtijdvak en het bedrag van de verschuldigde belasting waarvoor wijzigingen nodig zijn, vermeld.Artikel 
+18, § 7, nieuw, van het koninklijk besluit nr. 1 preciseert dat de gegevens van deze aangiften 
+elektronisch moeten worden meegedeeld, via het Intervat-portaal.Artikel 4Artikel 
+4 van dit ontwerp vervangt artikel 26bis van het koninklijk besluit nr. 1 om de boekhoudkundige verplichtingen 
+vast te leggen die voortvloeien uit de artikelen 58ter, § 7 en 58quater, § 7, van het Wetboek 
+(artikel 26bis, § 1, nieuw), vervangen bij de wet van 2 april 2021, en de artikelen 58quinquies, 
+§ 7 (artikel 26bis, § 2, nieuw) en 58sexies, § 4, van het Wetboek (artikel 26bis, 
+§ 3, nieuw), ingevoegd bij dezelfde wet.Artikel 26bis, § 1, nieuw, van het koninklijk 
+besluit nr. 1 heeft derhalve betrekking op de boekhouding die voor btw-doeleinden moet worden gehouden 
+door belastingplichtigen die gebruik maken van de bijzondere regelingen bedoeld in de artikelen 58ter 
+en 58quater van het Wetboek, met uitsluiting van de in artikel 54ter van het Wetboek bedoelde belastingplichtigen. 
+De verplichting om een dergelijke boekhouding te voeren, is voorzien in respectievelijk de artikelen 
+58ter, § 7, en 58quater, § 7, van het Wetboek.Deze boekhouding wordt door de 
+betrokken belastingplichtigen gevoerd in de vorm van een register van de handelingen die onder deze bijzondere 
+regelingen vallen. Dat register moet voldoende gedetailleerd zijn om de belastingadministratie van de 
+lidstaat van verbruik in staat te stellen de juistheid van de in de artikelen 58ter, § 6 en 58quater, 
+§ 6, van het Wetboek bedoelde btw-aangifte te controleren.Wat de in dit register op 
+te nemen vermeldingen betreft, stelt artikel 63 quater, lid 1, nieuw, van de Uitvoeringsverordening (EU) 
+nr. 282/2011 van de Raad van 15 maart 2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 
+2006/112/EG betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (hierna 
+"de Uitvoeringsverordening 282/2011") een vermoeden in dat het register als voldoende gedetailleerd wordt 
+beschouwd wanneer het, volgens de genoemde hypothese, de volgende informatie bevat:- de lidstaat 
+van verbruik waar de goederen worden geleverd of de diensten worden verricht;- de beschrijving 
+en de hoeveelheid van de geleverde goederen of het soort van de verrichte diensten;- de datum 
+van levering van de goederen of de datum waarop de dienst is verricht;- de maatstaf van heffing 
+met vermelding van de gebruikte munteenheid alsook latere verhogingen of verlagingen van die maatstaf 
+van heffing;- het toegepaste btw-tarief en het verschuldigde btw-bedrag, met vermelding van 
+de gebruikte munteenheid;- de datum en het bedrag van de ontvangen betalingen en de eventuele 
+ontvangen vooruitbetalingen vóór de levering van de goederen of de dienstverrichting;- wanneer 
+een factuur wordt uitgereikt, de op de factuur vermelde gegevens;- met betrekking tot goederen, 
+de gegevens om de plaats te bepalen waar de verzending of het vervoer van de goederen naar de afnemer 
+begint en eindigt en met betrekking tot diensten, de gegevens om de plaats te bepalen waar de afnemer 
+gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft;- met betrekking tot 
+goederen, enig bewijs van de eventuele teruggave van de goederen, met inbegrip van de maatstaf van heffing 
+en het toegepaste btw-tarief.Door de rechtstreekse werking van artikel 63 quater, lid 1, nieuw, 
+van de Uitvoeringsverordening 282/2011 in het Belgische recht, is geen verdere vermelding of aanvullende 
+informatie vereist, hoewel de belastingplichtige uiteraard uit eigen initiatief dergelijke informatie 
+in zijn registers kan opnemen. De hierboven vermelde gegevens worden op grond van deze bepaling als noodzakelijk 
+maar voldoende beschouwd om de administraties van de betrokken lidstaten van verbruik in staat te stellen 
+de correcte toepassing van de beoogde bijzondere regelingen te controleren.Artikel 26bis, § 
+2, nieuw, van het koninklijk besluit nr. 1 betreft de boekhouding die moet worden gevoerd door de belastingplichtigen 
+die gebruikmaken van de bijzondere regeling bedoeld in artikel 58quinquies van het Wetboek, met uitsluiting 
+van de in artikel 54ter van het Wetboek bedoelde belastingplichtigen. De verplichting om een dergelijke 
+boekhouding te voeren is voorzien in artikel 58quinquies, § 7 van het Wetboek.Deze boekhouding 
+wordt door de belastingplichtige of door de tussenpersoon in de zin van artikel 58quinquies, § 
+1, tweede lid, 2°,  van het Wetboek voor elk van de door hem vertegenwoordigde belastingplichtigen gevoerd 
+in de vorm van een register van handelingen verricht in het kader van deze bijzondere regeling dat voldoende 
+gedetailleerd is om de belastingadministratie van de lidstaat van verbruik in staat te stellen de juistheid 
+van de btw-aangifte bedoeld in artikel 58quinquies, § 6, van het Wetboek te controleren.Wat 
+de in dit register op te nemen vermeldingen betreft, stelt artikel 63 quater, lid 2, nieuw, van de Uitvoeringsverordening 
+282/2011 een vermoeden in dat het register als voldoende gedetailleerd wordt beschouwd wanneer het, volgens 
+de genoemde hypothese, de volgende informatie bevat:- de lidstaat van verbruik waar de goederen 
+worden geleverd;- de omschrijving en de hoeveelheid van de geleverde goederen;- de 
+datum van levering van de goederen;- de maatstaf van heffing met vermelding van de gebruikte 
+munteenheid;- latere verhogingen of verlagingen van de maatstaf van heffing;- het 
+toegepaste btw-tarief;- het verschuldigde btw-bedrag met vermelding van de gebruikte munteenheid;- 
+de datum en het bedrag van de ontvangen betalingen;- wanneer een factuur wordt uitgereikt, 
+de op de factuur vermelde gegevens;- de gegevens om de plaats te bepalen waar de verzending 
+of het vervoer van de goederen naar de afnemer begint en eindigt;- het bewijs van de eventuele 
+teruggave van de goederen, met inbegrip van de maatstaf van heffing en het toegepaste btw-tarief;- 
+het ordernummer of het uniek transactienummer;- het uniek zendingsnummer wanneer de belastingplichtige 
+rechtstreeks betrokken is bij de levering.Door de rechtstreekse werking van artikel 63 quater, 
+tweede lid, van de Uitvoeringsverordening 282/2011 in het Belgische recht, is geen bijkomende vermelding 
+of informatie vereist, ook al kan de belastingplichtige uit eigen beweging uiteraard bijkomende informatie 
+in zijn registers opnemen. De hierboven vermelde gegevens worden op grond van deze bepaling als noodzakelijk 
+maar voldoende beschouwd om de administraties van de betrokken lidstaten van verbruik in staat te stellen 
+de correcte toepassing van de beoogde bijzondere regelingen te controleren.De gegevens in deze 
+boekhouding moeten op verzoek van de ambtenaren van de administratie belast met de belasting over de 
+toegevoegde waarde alsook van die van de bevoegde administratie van de lidstaat van verbruik langs elektronische 
+weg ter beschikking worden gesteld. Ze moeten bovendien worden bewaard gedurende tien jaar vanaf het 
+verstrijken van het jaar waarin de dienst wordt verleend (artikel 58ter, § 7, tweede en derde 
+lid, artikel 58quater, § 7, tweede en derde lid, en artikel 58quinquies, § 7, tweede en 
+derde lid, van het Wetboek).Artikel 26bis, § 3, nieuw, van het koninklijk besluit nr. 
+1 betreft tot slot de boekhouding die moet worden gevoerd door de personen die gebruikmaken van de bijzondere 
+regeling bedoeld in artikel 58sexies van het Wetboek. Het betreft de personen die de goederen aan de 
+Algemene Administratie van de douane en accijnzen in België aanbrengen voor rekening van de persoon voor 
+wie de goederen bestemd zijn.Overeenkomstig artikel 58sexies, § 4, van het Wetboek wordt 
+deze boekhouding gevoerd door de betrokken personen in de vorm van een register van de handelingen die 
+onder deze bijzondere regeling vallen. Dit register moet voldoende gedetailleerd zijn om de belastingadministratie 
+of de administratie van de douane van de lidstaat van invoer in staat te stellen de juistheid van de 
+maandaangifte bedoeld in artikel 58sexies, § 3, eerste lid, van het Wetboek te controleren.In 
+tegenstelling tot de drie voorafgaande vereenvoudigingsregelingen bevat de Uitvoeringsverordening 282/2011 
+in dit geval geen vermoeden welke vermeldingen voldoende zijn om te kunnen aannemen dat aan de boekhoudkundige 
+verplichtingen met betrekking tot deze verrichtingen is voldaan.Artikel 26bis, § 3, 
+nieuw, van het koninklijk besluit nr. 1 voorziet aldus in een reeks verplichte vermeldingen die de betrokken 
+administraties in staat moeten stellen de juistheid van de bovenbedoelde maandelijkse aangifte en de 
+naleving van de toepassingsvoorwaarden van de vereenvoudigingsregeling bedoeld in artikel 58sexies van 
+het Wetboek te controleren. Derhalve wordt bepaald dat degene die de goederen bij de Algemene Administratie 
+van de douane en accijnzen aanbrengt voor rekening van degene voor wie de goederen zijn bestemd, in genoemd 
+register voor elke verrichting de volgende gegevens vermeldt:1°  een volgnummer;2° 
+ de datum van invoer of de periode waarin de invoer heeft plaatsgevonden;3°  de naam en het 
+adres van de geadresseerde van de ingevoerde goederen;4°  de omschrijving van de ingevoerde 
+goederen;5°  de vermelding van het toepasselijke tarief, van de maatstaf van heffing en van 
+het bedrag van de verschuldigde belasting voor elk goed in de zending;6°  in voorkomend geval, 
+de vermelding van de toepasselijke bepaling van de richtlijn of van de overeenkomstige nationale bepaling, 
+of een andere vermelding dat de levering van goederen of de dienstverrichting is vrijgesteld;7° 
+ de intrinsieke waarde van de zending waarin de ingevoerde goederen zich bevinden;8°  in voorkomend 
+geval, de datum waarop de douaneaangifte werd geannuleerd en de bestemming van de goederen die werden 
+opgenomen in de geannuleerde aangifte.De laatste vermelding heeft betrekking op het geval waarin 
+de goederen door de aangever bij de douane worden aangegeven vóór het tijdstip waarop de aangever de 
+belasting int die verschuldigd is door de tot voldoening van de bij invoer verschuldigde belasting gehouden 
+persoon. Indien de goederen door de eindafnemer worden geweigerd en hij de uit hoofde van deze regeling 
+verschuldigde belasting bij invoer niet aan de aangever betaalt, moet de aangever de douaneaangifte die 
+betrekking heeft op de ingevoerde maar door de eindklant geweigerde goederen ongeldig maken. In 
+dat geval is het dus noodzakelijk, met het oog op de opvolging van de goederen en de correcte toepassing 
+van de belasting, dat het in artikel 26bis, § 3, nieuw, van het koninklijk besluit nr. 1 bedoelde 
+register de datum vermeldt waarop de annulering van de douaneaangifte is uitgevoerd, alsook de werkelijke 
+bestemming van de goederen waarop deze geannuleerde douaneaangifte betrekking heeft (bv. wederuitvoer 
+of vernietiging van de goederen).Er wordt eveneens gepreciseerd dat dit register, op verzoek, 
+langs elektronische weg ter beschikking moet worden gesteld van de administratie belast met de belasting 
+over de toegevoegde waarde.Anderzijds wordt in het huidige ontwerp niet gespecifieerd hoe lang 
+dit register moet worden bewaard. Aangezien noch in Richtlijn 2006/112/EG, noch in artikel 58sexies, 
+nieuw, van het Wetboek een specifieke termijn is vastgesteld, is de bewaringstermijn van zeven jaar voorzien 
+in artikel 60, § 4, van het Wetboek, van toepassing . Punt 34 van advies nr. 104/2020 van de Gegevensbeschermingsautoriteit 
+van 19 oktober 2020 over het voorontwerp van wet tot wijziging van het Wetboek van de belasting over 
+de toegevoegde waarde wat de regeling betreft die van toepassing is op afstandsverkopen van goederen 
+en op bepaalde leveringen van goederen en diensten, waarin wordt voorgesteld om uitdrukkelijk in een 
+dergelijke bewaringstermijn te voorzien, wordt derhalve niet gevolgd.Artikel 5Artikel 
+5 van het ontwerp voegt in het koninklijk besluit nr. 1 een artikel 26ter in.In uitvoering 
+van artikel 54ter, vierde lid, van het Wetboek, verplicht deze bepaling elke belastingplichtige bedoeld 
+in dit artikel 54ter van het Wetboek (met uitsluiting van de btw-eenheden in de zin van artikel 4, § 
+2, van het Wetboek) die via het gebruik van een elektronische interface zoals een marktplaats, platform, 
+portaal of soortgelijk middel, de levering van goederen of het verrichten van diensten aan een niet-belastingplichtige 
+binnen de Gemeenschap faciliteert, een boekhouding te houden onder de vorm van registers waarin hij die 
+handelingen opneemt.Artikel 54 quater, lid 1, nieuw, van de Uitvoeringsverordening 282/2011 
+bepaalt dat de belastingplichtige bedoeld in artikel 242 bis van Richtlijn 2006/112/EG (de elektronische 
+interface die de levering van goederen of het verrichten van diensten aan een niet-belastingplichtige 
+binnen de Gemeenschap faciliteert), zoals iedere belastingplichtige die zelf leveringen van goederen 
+of diensten verricht, de volgende boekhouding voert met betrekking tot leveringen wanneer hij geacht 
+wordt de goederen zelf te hebben ontvangen en geleverd overeenkomstig artikel 14 bis van Richtlijn 2006/112/EG 
+of wanneer door zijn tussenkomst een langs elektronische weg verrichte dienst wordt verricht waarbij 
+hij verondersteld wordt in eigen naam te handelen overeenkomstig artikel 9 bis van deze Uitvoeringsverordening 
+282/2011:- de in artikel 63 quater van de Uitvoeringsverordening 282/2011 bedoelde registers, 
+indien de belastingplichtige ervoor gekozen heeft één van de bijzondere regelingen van titel XII, hoofdstuk 
+6, van Richtlijn 2006/112/EG van het OSS-systeem toe te passen (het betreft de registers bedoeld in artikel 
+26bis, nieuw, van het koninklijk besluit nr. 1);- de in artikel 242 van Richtlijn 2006/112/EG 
+bedoelde registers, indien de belastingplichtige er niet voor gekozen heeft één van de bijzondere regelingen 
+van in titel XII, hoofdstuk 6, van Richtlijn 2006/112/EG toe te passen.Artikel 26ter, § 
+1, nieuw, van het koninklijk besluit nr. 1 heeft betrekking op de boekhouding die voor btw-doeleinden 
+moet worden gevoerd door de in artikel 54ter van het Wetboek bedoelde belastingplichtige die er voor 
+kiest één van de bijzondere regelingen van het OSS-systeem (bedoeld in de artikelen 58ter tot 58quinquies 
+van het Wetboek) toe te passen.Het betreft de registers bedoeld in artikel 26bis, nieuw, van 
+het koninklijk besluit nr. 1. De gegevens die er moeten worden in opgenomen, zijn die bedoeld in artikel 
+63 quater van de Uitvoeringsverordening 282/2011, waarvoor mutatis mutandis wordt verwezen naar de toelichting 
+bij artikel 26bis, §§ 1 en 2, nieuw, van het koninklijk besluit nr. 1.Artikel 
+26ter, § 2, nieuw, van het koninklijk besluit nr. 1 betreft de boekhouding die voor btw-doeleinden 
+moet worden gevoerd door de in artikel 54ter van het Wetboek bedoelde belastingplichtige die er niet 
+voor kiest gebruik te maken van één van de bijzondere regelingen van het OSS-systeem . Het gaat om een 
+boekhouding die voldoende gedetailleerd is om de toepassing van de btw en de controle ervan door de belastingadministratie 
+mogelijk te maken. Deze boekhouding wordt door de lidstaten vastgesteld overeenkomstig artikel 242 van 
+Richtlijn 2006/112/EG.Met het oog op de samenhang en de eenvormigheid bepaalt artikel 26ter, 
+§ 2, nieuw, van het koninklijk besluit nr. 1 dat de in artikel 54ter van het Wetboek bedoelde 
+belastingplichtige die ervoor kiest geen gebruik te maken van één van de bijzondere regelingen van het 
+OSS-systeem, eveneens verplicht zal zijn in de in artikel 54ter van het Wetboek bedoelde registers dezelfde 
+gegevens op te nemen als degene die hij moet opnemen indien hij gebruik zou maken van één van de in de 
+artikelen 58ter tot 58quinquies van het Wetboek bedoelde vereenvoudigingsregelingen. Het betreft de in 
+artikel 63 quater van de Uitvoeringsverordening 282/2011 bedoelde gegevens, waarvoor bijgevolg eveneens 
+mutatis mutandis wordt verwezen naar de toelichting bij artikel 26bis, §§ 1 en 2, nieuw, 
+van het koninklijk besluit nr. 1. Het betreft in dit geval de gegevens die uitdrukkelijk zijn opgenomen 
+in artikel 26ter, § 2, nieuw, van het koninklijk besluit nr. 1, aangezien artikel 63 quater van 
+de Uitvoeringsverordening 282/2011 in dit specifieke geval niet rechtstreeks van toepassing is in het 
+Belgische recht, maar deze verplichting inspireert.Ongeacht of hij al dan niet van één van 
+deze regelingen gebruikmaakt, wordt de elektronische interface die de bedoelde handelingen faciliteert, 
+voor btw-doeleinden immers beschouwd als respectievelijk leverancier of dienstverrichter, overeenkomstig 
+artikel 13bis van het Wetboek voor de bedoelde leveringen, en overeenkomstig artikel 9 bis van de Uitvoeringsverordening 
+282/2011 voor de bedoelde diensten, en, bijgevolg, in het algemeen als primaire schuldenaar van de ter 
+zake van deze handelingen verschuldigde btw. De vereenvoudigingsregeling is slechts een modaliteit voor 
+de aangifte en betaling van de btw die op deze handelingen verschuldigd is. Niets wijst er dus op dat 
+de boekhoudkundige verplichtingen van de elektronische interfaces op dit specifieke punt verschillend 
+zijn voor de juiste toepassing van de belasting die verschuldigd is op de handelingen waarvoor zij geacht 
+worden de goederen zelf te hebben ontvangen en geleverd, of wanneer zij tussenkomen bij het verrichten 
+van een dienst langs elektronische weg waarbij zij verondersteld worden in eigen naam te handelen. Artikel 
+54 quater, lid 2, van de Uitvoeringsverordening 282/2011 somt de gegevens op die de belastingplichtige 
+moet bewaren in de registers bedoeld in artikel 242 bis van Richtlijn 2006/112/EG, omgezet in artikel 
+54ter, nieuw, van het Wetboek wat de andere handelingen betreft dan die bedoeld in lid 1 van die bepaling 
+(en bedoeld in paragrafen 1 en 2 van artikel 26ter, nieuw, van het koninklijk besluit nr. 1). 
+Artikel 26ter, § 3, nieuw, van het koninklijk besluit nr. 1 heeft dus betrekking op de boekhouding 
+die voor btw-doeleinden moet worden gevoerd door de in artikel 54ter van het Wetboek bedoelde belastingplichtige 
+ten aanzien van andere handelingen als bedoeld in artikel 26ter, §§ 1 en 2, nieuw, van 
+het koninklijk besluit nr. 1. Dat betreft onder meer de leveringen waarvoor hij niet geacht wordt deze 
+zelf te hebben ontvangen en geleverd overeenkomstig artikel 13bis van het Wetboek of wanneer hij tussenkomt 
+bij het verrichten van een dienst langs elektronische weg waarbij hij niet verondersteld wordt in eigen 
+naam te handelen overeenkomstig artikel 9 bis van de Uitvoeringsverordening 282/2011. De in het register 
+op te nemen gegevens zijn de volgende, overeenkomstig artikel 54 quater, lid 2, nieuw, van de Uitvoeringsverordening 
+282/2011:- de naam, postadres en elektronisch adres of website van de leverancier wiens handelingen 
+worden gefaciliteerd via het gebruik van de elektronische interface en, indien beschikbaar, het btw-identificatienummer 
+of nationaal belastingnummer van de leverancier en het bankrekeningnummer of het virtuele rekeningnummer 
+van de leverancier; - een beschrijving van de goederen, de waarde ervan, de plaats waar de 
+verzending of het vervoer van de goederen eindigt, alsook het tijdstip van de levering en, indien beschikbaar, 
+het ordernummer of het uniek transactienummer;- een beschrijving van de diensten, de waarde 
+ervan, informatie voor de vaststelling van de plaats en het tijdstip van de dienst en, indien beschikbaar, 
+het ordernummer of het uniek transactienummer.Het bijhouden van deze registers moet de administratie 
+van de lidstaten waar deze handelingen plaatsvinden, in staat stellen na te gaan of de btw correct is 
+toegepast door de belastingplichtigen die, via deze elektronische interface, handelingen binnen de Gemeenschap 
+verrichten. Wat btw-eenheden betreft, preciseert artikel 26ter, § 4, nieuw, van het 
+koninklijk besluit nr. 1 dat deze verplichting enkel geldt voor de leden van deze btw-eenheden, voor 
+de handelingen die hen betreffen.Krachtens artikel 26ter, § 5, nieuw, van het koninklijk 
+besluit nr. 1 worden deze registers, op verzoek, uitsluitend langs elektronische weg meegedeeld aan fiscale 
+administratie van de lidstaten waar de handelingen plaatsvinden.Artikelen 6 en 7Artikel 
+6, 1°,  van het ontwerp vervangt artikel 9, § 2, van het koninklijk besluit nr. 4 dat voortaan 
+bepaalt dat niet wordt ingegaan op de aanvraag tot teruggaaf indien die betrekking heeft op een bedrag 
+van minder dan 50 euro. Dit bedrag van 50 euro (in plaats van 25 euro voorheen) is afgestemd op de regel 
+die geldt voor aanvragen tot teruggaaf die worden ingediend op basis van Richtlijn 2008/9/EG en het koninklijk 
+besluit nr. 56 ten aanzien van belastingplichtigen die niet in België maar in een andere lidstaat gevestigd 
+zijn (artikel 11, § 2, tweede lid, van het koninklijk besluit nr. 56). In artikel 3, lid 2, van 
+Richtlijn 86/560/EEG is namelijk het volgende bepaald: "De teruggaaf mag niet worden verleend onder gunstiger 
+voorwaarden dan die welke voor belastingplichtigen uit de Gemeenschap gelden".Er wordt van 
+deze wijziging gebruik gemaakt om de benaming te wijzigen van de voor deze teruggaaf bevoegde dienst 
+van de administratie belast met de belasting over de toegevoegde waarde, met name het KMO centrum Specifieke 
+Materies die in de plaats komt van het voormalige Centraal kantoor voor buitenlandse belastingplichtigen.Artikel 
+6, 2°,  van het ontwerp brengt tevens een aanpassing van legistieke aard aan in artikel 9 van koninklijk 
+besluit nr. 4, door de schrapping van paragraaf 3 van die bepaling betreffende de teruggaaf van de btw 
+in hoofde van belastingplichtigen die gebruik maken van de bijzondere regeling bedoeld in artikel 58ter 
+van het Wetboek. Deze bepaling is immers opgenomen in artikel 9bis, nieuw, van het koninklijk besluit 
+nr. 4, ingevoegd bij artikel 7 van dit ontwerp. Deze nieuwe bepaling regelt de modaliteiten voor de teruggaaf 
+van de voorbelasting aan andere belastingplichtigen dan die gehouden tot de indiening van de aangifte 
+bedoeld in artikel 53, § 1, eerste lid, 2°,  van het Wetboek, en die gebruikmaken van de bijzondere 
+regelingen bedoeld in de artikelen 58ter tot 58quinquies van het Wetboek.Naar analogie met 
+het bepaalde in artikel 9 van het koninklijk besluit nr. 4, staat artikel 9bis, nieuw, van dat besluit 
+toe aan iedere andere belastingplichtige dan een belastingplichtige gehouden tot indiening van de in 
+artikel 53, § 1, eerste lid, 2°,  van het Wetboek bedoelde aangifte, en die gebruik maakt van 
+één van de bijzondere regelingen bedoeld in de artikelen 58ter tot 58quinquies van het Wetboek (ongeacht 
+of hij België al dan niet als lidstaat van identificatie heeft gekozen voor de toepassing van deze bijzondere 
+regelingen), om de belasting in aftrek te brengen die werd geheven van de aan hem geleverde goederen 
+en verrichte diensten en die betrekking heeft op zijn handelingen die onder die bijzondere regeling vallen.Deze 
+belastingplichtige mag inderdaad de belasting geheven van de aan hem geleverde goederen en verrichte 
+diensten niet in aftrek brengen in de aangifte bedoeld in de artikelen 58ter, § 6, 58quater, § 
+6, en 58quinquies, § 6, van het Wetboek. Krachtens de artikelen 58ter, § 8, eerste lid, 
+58quater, § 8, eerste lid, en 58quinquies, § 8, eerste lid, van het Wetboek kan hij in 
+beginsel zijn recht op aftrek slechts uitoefenen bij wijze van teruggaaf op grond van artikel 76, § 
+2, van het Wetboek. Artikel 9bis, nieuw, van het koninklijk besluit nr. 4 preciseert de modaliteiten 
+van deze teruggaaf, overeenkomstig artikel 76, § 2, tweede lid, van het Wetboek.Er wordt 
+een onderscheid gemaakt naargelang de rechthebbende op teruggaaf in België is gevestigd, dan wel niet 
+in België maar in een andere lidstaat is gevestigd, of niet in de Gemeenschap is gevestigd.In 
+het eerste geval bepaalt artikel 9bis, § 2, eerste lid, nieuw, van het koninklijk besluit nr. 
+4 dat de belastingplichtige een aanvraag om teruggaaf moet indienen bij de bevoegde dienst van de administratie 
+die belast is met de belasting over de toegevoegde waarde waaronder hij ressorteert. De aanvraag moet 
+in tweevoud bij deze dienst worden ingediend vóór het verstrijken van het derde kalenderjaar volgend 
+op het jaar waarin de oorzaak van de teruggaaf is ontstaan. In het tweede geval bepaalt artikel 
+9bis, § 2, tweede lid, nieuw, van het koninklijk besluit nr. 4 dat de in artikel 76, § 
+2, van het Wetboek bedoelde teruggaaf gebeurt volgens de procedure en de modaliteiten van het koninklijk 
+besluit nr. 56 van 9 december 2009 met betrekking tot de teruggaaf inzake belasting over de toegevoegde 
+waarde aan belastingplichtigen gevestigd in een andere lidstaat dan de lidstaat van teruggaaf dat de 
+omzetting vormt in Belgisch recht van richtlijn 2008/9/EG van de Raad van 12 februari 2008 tot vaststelling 
+van nadere voorschriften voor de in richtlijn 2006/112/EG vastgestelde teruggaaf van de belasting over 
+de toegevoegde waarde aan belastingplichtigen die niet in de lidstaat van teruggaaf maar in een andere 
+lidstaat gevestigd zijn (hierna: "de Richtlijn 2008/9/EG). In het derde geval bepaalt artikel 
+9bis, § 2, derde lid, nieuw, van koninklijk besluit nr. 4 dat de belastingplichtige een aanvraag 
+tot teruggaaf moet indienen bij het KMO Centrum Specifieke Materies. De aanvraag moet in drie exemplaren 
+bij deze dienst worden ingediend uiterlijk op 30 september van het kalenderjaar dat volgt op het tijdvak 
+waarop het teruggaafverzoek betrekking heeft. Deze bepaling preciseert dat geen gevolg zal worden gegeven 
+aan een aanvraag tot teruggaaf voor een bedrag van minder dan 50 euro. In afwijking van artikel 
+9, § 2, van het koninklijk besluit nr. 4 sluit het feit dat een niet in België gevestigde belastingplichtige 
+(ongeacht of hij al dan niet in de Gemeenschap is gevestigd) in België belastbare handelingen verricht, 
+waarvoor hij in casu gebruikmaakt van één van de regelingen voorzien in de artikelen 58ter tot 58quinquies 
+van het Wetboek, hem niet uit van het recht om bij wege van teruggaaf de belasting te recupereren die 
+is geheven van de aan hem geleverde goederen en verrichte diensten en die betrekking hebben op zijn handelingen 
+die onder die bijzondere regelingen vallen. Dit volgt rechtstreeks uit de artikelen 368, eerste alinea, 
+artikel 369 undecies, eerste alinea, en artikel 369 quater, eerste alinea, van Richtlijn 2006/112/EG.Wanneer 
+de betrokken belastingplichtige daarentegen activiteiten verricht die niet onder deze bijzondere regeling 
+vallen en waarvoor hij gehouden is zich in België voor btw-doeleinden te laten identificeren, recupereert 
+hij de voormelde btw niet door middel van een aanvraag tot teruggaaf maar brengt hij die btw in aftrek 
+in de periodieke aangifte die hij overeenkomstig artikel 53, § 1, eerste lid, 2°,  van het Wetboek 
+moet indienen. Dit wordt met name gepreciseerd in de artikelen 58ter, § 8, tweede lid, 58quater, 
+§ 8, tweede lid, en 58quinquies, § 8, tweede lid, van het Wetboek.Artikel 9bis, 
+§ 3, nieuw, van koninklijk besluit nr. 4 bepaalt tenslotte dat de vorm van de aanvragen tot teruggaaf, 
+de over te leggen stukken en de modaliteiten van de teruggaven door de minister van Financiën of zijn 
+afgevaardigde worden vastgesteld. Aangezien het louter praktische modaliteiten betreft die geen impact 
+hebben op het recht op teruggaaf, wordt er effectief in voorzien dat de administratie die rechtstreeks 
+kan bepalen, zoals aangegeven door de afdeling wetgeving van de Raad van State in punt 4.1. van zijn 
+voormelde advies nr. 69.432/2.Artikel 8Artikel 8 van dit ontwerp vult paragraaf 1 
+van artikel 5 van het koninklijk besluit nr. 7 aan met een verwijzing naar de in artikel 58sexies van 
+het Wetboek bedoelde bijzondere regeling voor de aangifte en de betaling van de btw die verschuldigd 
+is bij de invoer in België (als lidstaat van bestemming) van andere goederen dan accijnsproducten, in 
+zendingen met een intrinsieke waarde van niet meer dan 150 euro, wanneer geen gebruik wordt gemaakt van 
+de bijzondere regeling bedoeld in hoofdstuk IX, afdeling 4 (artikel 58quinquies), van het Wetboek, ingevoegd 
+bij de wet van 2 april 2021.Deze wijziging van artikel 5, § 1, van het koninklijk besluit 
+nr. 7 maakt het mogelijk een uitstel toe te staan tussen het tijdstip van indiening van de aangifte ten 
+verbruik van goederen in het kader van deze bijzondere regeling en de daadwerkelijke betaling van de 
+bij invoer verschuldigde belasting, die overeenkomstig artikel 58sexies, § 3, tweede lid, van 
+het Wetboek, plaatsvindt ten laatste op de zestiende dag van de maand volgend op de maand waarop de in 
+het eerste lid van dezelfde bepaling bedoelde maandaangifte betrekking heeft.Artikel 9Artikel 
+9 brengt enerzijds enkele terminologische wijzigingen aan en vult anderzijds artikel 6, § 2, van 
+het koninklijk besluit nr. 7 aan met een derde lid om de personen aan te duiden die, overeenkomstig de 
+mogelijkheid die wordt gelaten door artikel 201 van Richtlijn 2006/112/EG (dat bepaalt dat bij invoer 
+de btw verschuldigd is door degene(n) die de lidstaat van invoer als de tot voldoening van de belasting 
+gehouden personen heeft aangewezen of erkend) geacht worden de btw bij invoer van andere goederen dan 
+accijnsproducten te voldoen (geadresseerden van de goederen bij invoer in de zin van artikel 6, § 
+1, van het koninklijk besluit nr. 7) in zendingen met een intrinsieke waarde van al dan niet meer dan 
+150 euro, verricht ten behoeve van een verkoop op afstand van uit derdelandsgebieden of derde landen 
+ingevoerde goederen.Het feit dat de invoer gebeurt ten behoeve van een verkoop op afstand van 
+uit derdelandsgebieden of derde landen ingevoerde goederen, impliceert dat de voorwaarden van artikel 
+1, § 20, van het Wetboek vervuld zijn voor de toepassing van artikel 6, § 2, derde lid, 
+nieuw, van het koninklijk besluit nr. 7. Deze voorwaarden zijn:- dat de levering van goederen 
+wordt verricht voor een belastingplichtige of voor een niet-belastingplichtige rechtspersoon van wie 
+de intracommunautaire verwervingen van goederen krachtens artikel 3, lid 1, van de Richtlijn 2006/112/EG 
+niet aan de btw zijn onderworpen, of voor enige andere niet-belastingplichtige;- dat de geleverde 
+goederen geen nieuwe vervoermiddelen zijn bedoeld in artikel 8bis, § 2, van het Wetboek, noch 
+goederen, geleverd na montage of installatie, door of voor rekening van de leverancier, met of zonder 
+beproeven van de geïnstalleerde of gemonteerde goederen.In deze nieuwe bepaling wordt een onderscheid 
+gemaakt tussen drie verschillende hypothesen:- de invoer van andere goederen dan accijnsproducten, 
+in zendingen met een intrinsieke waarde van meer dan 150 euro, verricht ten behoeve van een verkoop op 
+afstand van uit derdelandsgebieden of derde landen ingevoerde goederen die plaatsvindt in een andere 
+lidstaat dan België;- de invoer van andere goederen dan accijnsproducten, in zendingen met 
+een intrinsieke waarde van niet meer dan 150 euro, verricht ten behoeve van een verkoop op afstand van 
+uit derdelandsgebieden of derde landen ingevoerde goederen, wanneer de aangever gebruikmaakt van de bijzondere 
+regeling bedoeld in artikel 58sexies van het Wetboek (bijzondere regeling voor de aangifte en betaling 
+van de btw bij invoer);- de invoer van andere goederen dan accijnsproducten, in zendingen met 
+een intrinsieke waarde van niet meer dan 150 euro, verricht ten behoeve van een verkoop op afstand van 
+uit derdelandsgebieden of derde landen ingevoerde goederen wanneer de aangever geen gebruikmaakt van 
+de bijzondere regeling bedoeld in artikel 58sexies van het Wetboek (toepassing van de algemene regeling 
+bij invoer).Invoer in België van goederen in zendingen met een intrinsieke waarde van meer 
+dan 150 euro, verricht ten behoeve van een verkoop op afstand die plaatsvindt in een andere lidstaat 
+dan BelgiëVoor zendingen van een dergelijke waarde kan geen gebruik worden gemaakt van één 
+van de vereenvoudigingsregelingen voorzien in de artikelen 58quinquies en 58sexies van het Wetboek voor 
+de aangifte en de betaling van de btw, noch met betrekking tot de verkoop op afstand van uit derdelandsgebieden 
+of derde landen ingevoerde goederen, noch met betrekking tot de invoer.De invoer in België 
+van andere goederen dan accijnsproducten in zendingen met een intrinsieke waarde van meer dan 150 euro 
+ten behoeve van een verkoop op afstand van uit derdelandsgebieden of derde landen ingevoerde goederen 
+die plaatsvindt in een andere lidstaat dan België, is bij toepassing van de normale regels in België 
+aan de belasting onderworpen. De tot voldoening van die btw gehouden persoon (de geadresseerde van de 
+goederen bij invoer, in de zin van artikel 6, § 1, van het koninklijk besluit nr. 7) kan, bij 
+de huidige stand van de wetgeving, de koper (of overnemer) zijn aan wie de goederen worden verzonden 
+op het tijdstip waarop de belasting opeisbaar wordt, dan wel de leverancier (de "verkoper of overdrager 
+of een vorige verkoper of overdrager" in de huidige bewoordingen) op voorwaarde dat hij in België is 
+gevestigd of voor btw-doeleinden in België is geïdentificeerd overeenkomstig artikel 50, § 1, 
+eerste lid, 3°,  van het Wetboek, of dat hij vertegenwoordigd is door een persoon die vooraf is erkend 
+overeenkomstig artikel 55, § 3, tweede lid, van het Wetboek (artikel 6, § 2, eerste en 
+tweede lid, van het koninklijk besluit nr. 7).Indien de koper bij de invoer van goederen in 
+België als geadresseerde optreedt, wordt de invoer belast met toepassing van de normale regels. Bovendien 
+wordt de verkoop op afstand van uit derdelandsgebieden of derde landen ingevoerde goederen geacht plaats 
+te vinden in de lidstaat van bestemming van de verkoop op afstand, overeenkomstig artikel 33, lid 1, 
+punt b), van Richtlijn 2006/112/EG. Dit leidt tot een effectieve economische dubbele belastingheffing 
+in hoofde van de koper, in het bijzonder omdat het een koper zonder recht op aftrek betreft.Om 
+dit te verhelpen, bepaalt artikel 6, § 2, derde lid, 1°,  nieuw, van het koninklijk besluit nr. 
+7 derhalve dat in de voormelde omstandigheden de tot de voldoening van de btw bij invoer gehouden persoon 
+(de geadresseerde van de goederen bij invoer) steeds de leverancier is.Wanneer de leverancier 
+in dergelijk geval systematisch optreedt als de geadresseerde van de goederen bij invoer en dus als de 
+persoon gehouden tot de voldoening van de btw bij invoer, wordt de invoer in zijn hoofde belast met toepassing 
+van de normale regels en worden de afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde 
+goederen geacht plaats te vinden in de lidstaat van bestemming van de afstandsverkoop overeenkomstig 
+artikel 33, punt b), van Richtlijn 2006/112/EG.Rekening houdend met wat voorafgaat, zal de 
+leverancier zich in dat geval aldus overeenkomstig de normale regels moeten laten identificeren voor 
+btw-doeleinden in België en een gewone periodieke btw-aangifte indienen. Mits hij beschikt over een vergunning 
+voor de verlegging van heffing, kan hij dan de verschuldigde btw bij invoer aangeven in die periodieke 
+aangifte en vervolgens in dezelfde aangifte weer in aftrek brengen. Bij gebreke van een dergelijke vergunning 
+draagt de leverancier de in België verschuldigde btw af aan de Algemene Administratie van de douane en 
+accijnzen en kan hij deze btw in aftrek brengen in zijn periodieke btw-aangifte.Wat de formaliteiten 
+betreft die in de lidstaat van bestemming van de goederen (andere dan België) moeten worden vervuld, 
+zal de leverancier in beginsel ook in die lidstaat van bestemming van de goederen voor btw-doeleinden 
+moeten worden geïdentificeerd met het oog op de aangifte en de betaling van de verschuldigde btw voor 
+afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde goederen.Samenvattend 
+wordt in deze regeling de invoer in België hier te lande belast maar deze belasting is aftrekbaar in 
+hoofde van de leverancier. De afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde 
+goederen worden belast in de lidstaat van bestemming. Finaal zal de uiteindelijke koper van de goederen 
+alleen de verschuldigde btw aan zijn leverancier betalen in de lidstaat van bestemming van de goederen. 
+De leverancier zal zich anderzijds zowel in België (voor de betaling van de verschuldigde btw op de invoer) 
+als in de lidstaat van bestemming van de goederen (voor de betaling van de verschuldigde btw op de afstandsverkoop) 
+voor btw-doeleinden moeten laten identificeren.Invoer in België van goederen in zendingen met 
+een intrinsieke waarde van niet meer dan 150 euro, verricht ten behoeve van een verkoop op afstand van 
+uit derdelandsgebieden of derde landen ingevoerde goederen Artikel 6, § 2, derde lid, 
+2°  en 3°,  nieuw, van het koninklijk besluit nr. 7 duidt de geadresseerden aan ten aanzien van goederen 
+die in België worden ingevoerd (die in België gehouden zijn de btw te voldoen) in zendingen met een intrinsieke 
+waarde van niet meer dan 150 euro wanneer de in artikel 58quinquies van het Wetboek bedoelde bijzondere 
+regeling per definitie hetzij niet wordt toegepast uit vrije keuze (het gaat om een facultatieve regeling 
+in hoofde van de leverancier), hetzij niet conform wordt toegepast. In dat geval zijn er twee mogelijkheden: 
+ofwel wordt de bij invoer in België verschuldigde btw aangegeven en betaald volgens de vereenvoudigingsregeling 
+bepaald in artikel 58sexies van het Wetboek, ofwel worden de normale regels inzake de aangifte en betaling 
+van de btw bij invoer toegepast.1) Toepassing van de in artikel 58sexies van het Wetboek bedoelde 
+regeling door de persoon die de goederen aanbrengt bij de Algemene Administratie van de douane en accijnzen 
+voor rekening van de persoon voor wie de goederen bestemd zijnArtikel 58sexies, § 2, 
+van het Wetboek maakt een onderscheid tussen de schuldenaar van de belasting bij invoer en de persoon 
+die de goederen bij de douane aanbrengt.Hoewel de koper van de goederen de wettelijke schuldenaar 
+is van de op de invoer verschuldigde btw, is hij niet de persoon die ertoe gehouden is die belasting 
+daadwerkelijk aan de douaneautoriteiten te betalen. Artikel 58sexies, § 2, 2°,  van het Wetboek 
+bepaalt immers dat de persoon die de goederen bij de Algemene Administratie van de douane en accijnzen 
+in België aanbrengt, de belasting int bij de persoon voor wie de goederen bestemd zijn (de koper van 
+de goederen, die de wettelijke schuldenaar is van de verschuldigde belasting) en die belasting betaalt 
+overeenkomstig paragraaf 3 van die bepaling.Over het algemeen worden deze formaliteiten voor 
+het aangeven van de goederen bij de douane uitgevoerd door koerierdiensten of postdiensten. Deze marktdeelnemers 
+zullen dus de bij invoer verschuldigde belasting aan de douane moeten betalen om de goederen op het grondgebied 
+van de Gemeenschap in het vrije verkeer te kunnen brengen. Deze dienstverrichters zijn dan, in principe 
+vóór de aangifte van de goederen en de betaling van de douanerechten en de btw, verantwoordelijk voor 
+de inning bij de koper van de goederen van het bedrag van de bij invoer verschuldigde btw, overeenkomstig 
+artikel 58sexies, § 2, 2°,  van het Wetboek.In concreto en in overeenstemming met de 
+mogelijkheid die aan de lidstaten wordt gelaten door artikel 63 quinquies, tweede alinea, van de Uitvoeringsverordening 
+282/2011, wordt de voorwaarde "die de goederen bij de douane aanbiedt namens de persoon voor wie de goederen 
+zijn bestemd" als vervuld beschouwd als de persoon die de goederen bij de douane aanbiedt te kennen geeft 
+voornemens te zijn van de bijzondere regeling gebruik te maken en de btw te innen bij de persoon voor 
+wie de goederen bestemd zijn.In dat geval zal de koper, overeenkomstig artikel 58sexies, § 
+2, 1°,  van het Wetboek, hoe dan ook schuldenaar zijn van de btw bij de invoer. Bijgevolg bepaalt artikel 
+6, § 2, derde lid, 2°,  nieuw, van het koninklijk besluit nr. 7 voortaan dat in dit geval de verkrijger 
+de geadresseerde is van de ingevoerde goederen en dus gehouden is tot de voldoening van de btw. Aangezien 
+het een toepassingsmodaliteit van deze bijzondere regeling betreft, is er bijgevolg geen afwijkende regel 
+mogelijk.De plaats van de verkoop op afstand van uit derdelandsgebieden of derde landen ingevoerde 
+goederen moet worden bepaald op grond van artikel 14, § 2, van het Wetboek, met dien verstande 
+dat artikel 15, § 1, eerste lid, 2°  en 3°,  van het Wetboek in dit geval niet van toepassing 
+kan zijn.Bij een levering met vervoer is de plaats van levering overeenkomstig artikel 14, 
+§ 2, eerste lid, van het Wetboek, derhalve in beginsel de plaats waar het goed zich bevindt op 
+het tijdstip van vertrek van de verzending of het vervoer.De in het tweede lid van deze laatste 
+bepaling opgenomen afwijkende regel voor de situatie waarin de goederen worden verzonden of vervoerd 
+van uit een derde land, is slechts van toepassing wanneer de leverancier bij invoer als geadresseerde 
+optreedt. Dit is hier niet het geval aangezien de bijzondere regeling van artikel 58sexies van het Wetboek 
+van toepassing is.Bijgevolg zijn dergelijke afstandsverkopen van uit derdelandsgebieden of 
+derde landen ingevoerde goederen in de Gemeenschap niet aan belasting onderworpen, terwijl de invoer 
+aan de btw wordt onderworpen in de lidstaat van invoer, die tevens de lidstaat van bestemming is (in 
+dit geval België). Er is bijgevolg geen economisch dubbele belastingheffing in hoofde van de koper, in 
+tegenstelling tot het voormelde geval met betrekking tot goederen ingevoerd in zendingen met een intrinsieke 
+waarde van meer dan 150 euro.Deze regel is slechts van toepassing in de veronderstelling dat 
+België zowel de lidstaat van binnenkomst van de goederen op het grondgebied van de Gemeenschap als de 
+lidstaat van bestemming van de goederen is.In dit verband moet niettemin rekening worden gehouden 
+met de douanereglementering die bepaalt dat wanneer in het kader van een afstandsverkoop van uit derdelandsgebieden 
+of derde landen ingevoerde goederen in een verzending van goederen met een intrinsieke waarde die 150 
+euro niet overschrijdt (en die dus kan genieten van de vrijstelling van invoerrechten) op het grondgebied 
+van de Gemeenschap worden gebracht in een andere lidstaat dan de lidstaat van aankomst van de verzending 
+of het vervoer en geen gebruik werd gemaakt van de bijzondere regeling bedoeld in titel XII, hoofdstuk 
+6, afdeling 4, van de Richtlijn 2006/112/EG, de goederen maar ten verbruik zullen kunnen worden aangegeven 
+in de lidstaat van aankomst van de verzending of het vervoer (artikel 221, lid 4, nieuw, van Uitvoeringsverordening 
+(EU) 2015/2447 van de Commissie van 24 november 2015 houdende nadere uitvoeringsvoorschriften voor enkele 
+bepalingen van Verordening (EU) nr. 952/2013 van het Europees Parlement en de Raad tot vaststelling van 
+het douanewetboek van de Unie, zoals gewijzigd door artikel 1, 9) van Uitvoeringsverordening (EU) 2020/893 
+van de Commissie van 29 juni 2020 tot wijziging van die Uitvoeringsverordening (EU) 2015/2447). Daaruit 
+volgt dat in de voormelde omstandigheden de invoer voor btw-doeleinden van goederen die het grondgebied 
+van de Gemeenschap binnenkomen via een andere lidstaat dan die van definitieve bestemming slechts kan 
+plaatsvinden in die laatste lidstaat, zodat ook in een dergelijk geval de lidstaat van invoer voor btw-doeleinden 
+en de lidstaat van bestemming dezelfde zijn. Indien die lidstaat België is, zal de bovenstaande regeling 
+aldus van toepassing kunnen zijn, wanneer gebruik wordt gemaakt van de bijzondere regeling bedoeld in 
+artikel 58sexies van het Wetboek bij de invoer van de goederen, ook al zijn de goederen dus via een andere 
+lidstaat het grondgebied van de Gemeenschap binnengekomen.2) Niet-toepassing van de in artikel 
+58sexies van het Wetboek bedoelde regeling door de persoon die de goederen aanbrengt bij de Algemene 
+Administratie van de douane en accijnzen voor rekening van de persoon voor wie de goederen bestemd zijn 
+en toepassing van de gewone btw-regelingWanneer de in artikel 58sexies van het Wetboek bedoelde 
+vereenvoudigingsregeling niet wordt toegepast of wanneer de leverancier de bijzondere invoerregeling 
+binnen het OSS-systeem niet correct toepast (artikel 58quinquies van het Wetboek), zijn de volgende regels 
+van toepassing op de invoer van andere goederen dan accijnsproducten in zendingen met een intrinsieke 
+waarde van niet meer dan 150 euro verricht ten behoeve van een afstandsverkoop van uit derdelandsgebieden 
+of derde landen ingevoerde goederen.De invoer van goederen in België wordt belast. In de huidige 
+stand van de wetgeving kan zowel de verkrijger als de leverancier ("de verkoper") optreden als geadresseerde 
+en dus als persoon die gehouden is tot de voldoening van de btw bij invoer.Indien de verkrijger 
+optreedt als geadresseerde bij de invoer van goederen en derhalve schuldenaar is van de btw, is de analyse 
+vergelijkbaar met die uiteengezet in punt 1 hiervoor. De invoer wordt belast in toepassing van de normale 
+regels en de afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde goederen worden voor 
+btw-doeleinden geacht plaats te vinden buiten de Gemeenschap overeenkomstig artikel 14, § 2, eerste 
+lid, van het Wetboek.Artikel 6, § 2, derde lid, 3°,  nieuw, van het koninklijk besluit 
+nr. 7 bepaalt evenwel dat voortaan in dit geval de leverancier de geadresseerde is van de goederen bij 
+invoer en aldus gehouden is tot de voldoening van de btw.In dat geval blijft de invoer van 
+de goederen in België belast maar wordt de plaats van de afstandsverkoop van uit derdelandsgebieden of 
+derde landen ingevoerde goederen bepaald op grond van artikel 14, § 2, tweede lid, van het Wetboek. 
+Dit heeft tot gevolg dat de verkoop op afstand van uit derdelandsgebieden of derde landen ingevoerde 
+goederen geacht wordt plaats te vinden in de lidstaat van invoer, in dit geval België.Rekening 
+houdend met wat voorafgaat, zal de leverancier zich in dat geval aldus overeenkomstig de normale regels 
+moeten laten identificeren voor btw-doeleinden in België en een gewone periodieke btw-aangifte indienen. 
+Mits hij beschikt over een vergunning voor de verlegging van heffing, kan hij dan de verschuldigde btw 
+bij invoer aangeven in die periodieke aangifte en vervolgens in dezelfde aangifte weer in aftrek brengen. 
+Bij gebrek aan een dergelijke vergunning draagt de leverancier de in België verschuldigde btw af aan 
+de Algemene Administratie van de douane en accijnzen en kan hij deze btw in aftrek brengen in zijn periodieke 
+btw-aangifte. Bovendien zal hij de verschuldigde btw over de afstandsverkopen van uit derdelandsgebieden 
+of derde landen ingevoerde goederen in deze aangifte moeten opnemen.Bijgevolg worden de afstandsverkopen 
+van uit derdelandsgebieden of derde landen ingevoerde goederen definitief belast in de Gemeenschap (in 
+dit geval in België), terwijl de invoer wel eveneens in België wordt belast maar die belasting door de 
+leverancier die optreedt als geadresseerde bij invoer onmiddellijk in aftrek kan worden gebracht.Indien 
+de leverancier de administratieve formaliteiten verbonden aan btw-identificatie in België en de indiening 
+van periodieke btw-aangiften wil vermijden, kan hij kiezen om gebruik te maken van de bijzondere regeling 
+bedoeld in artikel 58quinquies van het Wetboek, die hem in staat stelt deze administratieve formaliteiten 
+te vermijden. In dat geval is immers enerzijds de invoer vrijgesteld en kunnen anderzijds de aangifte 
+en betaling van de verschuldigde btw op de afstandsverkopen van uit derdelandsgebieden of derde landen 
+ingevoerde goederen door middel van deze vereenvoudigingsregeling worden gedaan.Artikel 10Artikel 
+10 van het ontwerp vult artikel 7, § 1, van het koninklijk besluit nr. 7 aan met een nieuw lid 
+dat bepaalt dat de toepassing van de in artikel 58sexies van het Wetboek bedoelde bijzondere regeling 
+het voorwerp uitmaakt van een vermelding aangebracht met het elektronisch systeem voor de indiening van 
+douaneaangiften dat de Algemene Administratie van de douane en accijnzen gebruikt om aangiften voor het 
+verbruik te aanvaarden. Het betreft de AC4 verklaring.Artikel 11Artikel 11 van het 
+ontwerp wijzigt artikel 9, § 1, eerste lid, van het koninklijk besluit nr. 7, zodat voortaan ook 
+bij toepassing van de bijzondere regeling bedoeld in artikel 58sexies van het Wetboek, de voldoening 
+van de btw niet wordt vastgesteld op het voor de geadresseerde bestemde exemplaar van de aangifte ten 
+verbruik, naar analogie met de situatie van de verleggingsregeling bij invoer bedoeld in artikel 7, § 
+2 en 5, § 3, van het koninklijk besluit nr. 7.Artikel 58sexies, § 3, eerste lid, 
+van het Wetboek bepaalt immers de verplichtingen van de persoon die de goederen bij de douane aanbrengt 
+met betrekking tot de aangifte van de belasting die verschuldigd is bij invoer in het kader van de huidige 
+regeling. Deze belasting moet inderdaad worden opgenomen in een afzonderlijke maandelijkse aangifte die 
+uiterlijk op de veertiende dag van de maand die volgt op de maand waarop ze betrekking heeft, wordt ingediend. 
+Deze indiening gebeurt langs elektronische weg, waarbij in de aangifte het totale bedrag van de in de 
+betrokken kalendermaand geïnde belasting wordt vermeld.Het tweede lid van deze bepaling preciseert 
+dat degene die de goederen bij de douane aanbrengt, het totale bedrag van de in de aangifte vermelde 
+belasting voldoet uiterlijk op de zestiende dag van de maand die volgt op de maand waarop de aangifte 
+betrekking heeft. Deze termijn komt overeen met de maximumtermijn die geldt voor het uitstel van betaling 
+van de verschuldigde douanerechten overeenkomstig artikel 111, lid 6, tweede alinea, van het douanewetboek 
+van de Unie. Artikel 369 novovicies, lid 2, nieuw, van de Richtlijn 2006/112/EG bepaalt immers dat de 
+lidstaten eisen dat de uit hoofde van deze regeling verschuldigde btw elke maand verschuldigd is binnen 
+de termijn die voor de betaling van de invoerrechten geldt.Artikel 12Artikel 12 van 
+het ontwerp heft artikel 18 van het koninklijk besluit nr. 7 op.Deze bepaling voorzag in een 
+vrijstelling van de btw voor de invoer van kleine zendingen tot 22 euro afkomstig van leveranciers in 
+derde landen. Deze vrijstelling wordt met ingang van 1 juli 2021 afgeschaft bij artikel 3 van de Richtlijn 
+2017/2455, waarbij titel IV van de Richtlijn 2009/132/EG van de Raad van 19 oktober 2009 houdende bepaling 
+van de werkingssfeer van artikel 143, onder b) en c), van Richtlijn 2006/112/EG met betrekking tot de 
+vrijstelling van de belasting over de toegevoegde waarde voor de definitieve invoer van bepaalde goederen 
+wordt opgeheven.Deze vrijstelling wordt vervangen door een btw-vrijstelling bij invoer bedoeld 
+in artikel 40, § 1, 1° bis, van het Wetboek, die slechts van toepassing is wanneer de goederen 
+worden ingevoerd in het kader van afstandsverkopen van uit derdelandsgebieden of derde landen ingevoerde 
+goederen die worden aangegeven binnen de nieuwe vereenvoudigingsregeling van het OSS-systeem (artikel 
+58quinquies van het Wetboek).Artikelen 13, 14 en 15Artikel 15, § 1, eerste 
+lid, 1°,  van het Wetboek, vervangen bij de wet van 2 april 2021, voorziet in een afwijking van de geldende 
+regels voor de plaatsbepaling van leveringen van goederen met vervoer ten aanzien van de intracommunautaire 
+afstandsverkopen van goederen wanneer de goederen zich in België bevinden op het tijdstip van de aankomst 
+van de verzending of het vervoer van de goederen naar de afnemer, met uitsluiting van de leveringen van 
+goederen onderworpen aan de bijzondere regeling van belastingheffing bedoeld in de artikelen 312 tot 
+341 van de Richtlijn 2006/112/EG (bijzondere regeling voor belastingheffing over de winstmarge).Deze 
+specifieke plaatsbepalingsregel voor intracommunautaire afstandsverkopen van goederen kent op zijn beurt 
+weer een afwijking op grond waarvan die leveringen van goederen naar België onder bepaalde voorwaarden 
+plaatsvinden op de plaats van het vertrek van de verzending of het vervoer van de goederen (artikel 15, 
+§ 1, tweede lid, van het Wetboek). In dat geval wordt aldus de basisregel voor leveringen van 
+goederen met vervoer (artikel 14, § 2, van het Wetboek) opnieuw van toepassing. Deze afwijking 
+is onderworpen aan de volgende cumulatieve voorwaarden:1) de leverancier is gevestigd of heeft, 
+bij gebreke van een vestiging, zijn woonplaats of gebruikelijke verblijfplaats in slechts één lidstaat, 
+andere dan België. De afwijking is dus niet van toepassing voor leveranciers die niet in de Gemeenschap 
+gevestigd zijn, ook al verrichten zij dezelfde handelingen en evenmin voor leveranciers die in verschillende 
+lidstaten gevestigd zijn;2) de goederen worden verzonden of vervoerd naar België (logische 
+voorwaarde die voortvloeit uit de bedoelde situatie). Vermits het om intracommunautaire afstandsverkopen 
+van goederen gaat, worden de goederen hoe dan ook verzonden of vervoerd vanuit een andere lidstaat. De 
+afwijking is dus niet van toepassing op afstandsverkopen van goederen ingevoerd uit derdelandsgebieden 
+of derde landen;3) het totale bedrag, exclusief btw, van TBE-diensten verricht voor niet-belastingplichtigen 
+gevestigd in een andere lidstaat dan de lidstaat van vestiging van de dienstverrichter én van de intracommunautaire 
+afstandsverkopen van goederen naar een andere lidstaat dan de lidstaat van vestiging van de leverancier, 
+overschrijdt in het lopende kalenderjaar niet de drempel van 10.000 euro, en heeft evenmin deze drempel 
+in de loop van het voorgaande kalenderjaar overschreden. Accijnsproducten zijn, in tegenstelling tot 
+de situatie die tot op heden gold bij de nationale drempels voor afstandsverkopen, niet uitgesloten uit 
+de drempel bij intracommunautaire afstandsverkopen aan particulieren.Deze regeling houdt een 
+uitbreiding in van het materiële toepassingsgebied van de communautaire drempel die al vanaf 1 januari 
+2019 werd ingevoerd voor de plaatsbepaling van TBE-diensten. Die had de bedoeling om de administratieve 
+lasten voor micro-ondernemingen te beperken door te vermijden dat zij zich voor btw-doeleinden zouden 
+moeten laten identificeren in elke lidstaat waar voor particulieren verrichte TBE-diensten geacht worden 
+plaats te vinden. Deze drempel geldt voortaan ook voor de intracommunautaire afstandsverkopen van goederen 
+en wordt aldus berekend in functie van de globale omzet gerealiseerd voor de twee verschillende categorieën 
+van de voormelde belastbare handelingen samen.De jaaromzetdrempel van 10.000 euro is dus geen 
+nationale drempel per lidstaat maar een communautaire drempel die rekening houdt met het geheel van de 
+relevante handelingen van de belastingplichtige op het grondgebied van de Gemeenschap. Hoewel dit niet 
+uitdrukkelijk in de tekst van de richtlijn is vermeld, is het aangewezen, zoals de diensten van de Commissie 
+hebben verduidelijkt en door de grote meerderheid van de lidstaten werd onderschreven ter gelegenheid 
+van de vergadering van het btw-comité van 19 april 2021, om voor de berekening van de drempel van 10.000 
+euro alleen rekening te houden met de intracommunautaire afstandsverkopen van goederen die worden verricht 
+vanuit de lidstaat waar de belastingplichtige is gevestigd.In afwachting van een formeel richtsnoer 
+van het btw-comité heeft België zich, zoals nagenoeg alle andere lidstaten, achter dit standpunt geschaard, 
+dat wordt gerechtvaardigd door het streven naar samenhang om te voorkomen dat verschillende systemen 
+worden gebruikt voor de aangifte en betaling van de verschuldigde belasting op intracommunautaire afstandsverkopen 
+van goederen, naargelang deze vanuit België of een andere lidstaat worden verricht, wanneer de drempel 
+van 10.000 euro van toepassing is.Uit deze regel vloeit in ieder geval voort dat de intracommunautaire 
+afstandsverkopen van goederen door een in één enkele lidstaat gevestigde belastingplichtige vanuit een 
+andere lidstaat dan zijn lidstaat van vestiging altijd worden geacht plaats te vinden in de lidstaat 
+van aankomst van de verzending of het vervoer van de goederen. Wanneer de belastingplichtige in verschillende 
+lidstaten over vaste inrichtingen beschikt, is deze drempelregel hoe dan ook helemaal niet van toepassing, 
+zelfs niet voor de intracommunautaire afstandsverkopen vanuit de lidstaat waar hij de zetel van zijn 
+economische activiteit heeft gevestigd.Overigens moet volledigheidshalve worden verduidelijkt 
+dat indien de belastingplichtige intracommunautaire afstandsverkopen van goederen en TBE-diensten verricht 
+vanuit België voor een bedrag dat de drempel van 10.000 euro niet overschrijdt en hij niet kiest voor 
+belastingheffing over deze handelingen in de lidstaat van bestemming, hij geen gebruik zal kunnen maken 
+van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek voor de aangifte en betaling van 
+de btw die verschuldigd is over de intracommunautaire afstandsverkopen van goederen die hij bovendien 
+vanuit een andere lidstaat zou verrichten (de optie voor die regeling moet immers globaal gebeuren voor 
+alle intracommunautaire afstandsverkopen en dat is onverenigbaar met het gebruik van de drempelregel 
+voor de intracommunautaire afstandsverkopen vanuit de lidstaat van vestiging). Voor deze handelingen 
+zal hij zich derhalve voor btw-doeleinden moeten laten identificeren in de lidstaat of lidstaten van 
+aankomst van de verzending of het vervoer van de goederen, en daar aangifte moeten doen van de over deze 
+handelingen verschuldigde btw (in de regel door middel van een periodieke aangifte) overeenkomstig de 
+door die lidstaat of lidstaten vastgestelde modaliteiten. Dit standpunt is ook uiteengezet door de diensten 
+van de Europese Commissie tijdens de vergadering van het btw-comité van 19 april 2021. Zelfs 
+wanneer de leverancier van de goederen deze drempel niet overschrijdt, kan hij overeenkomstig artikel 
+15, § 1, vierde lid, van het Wetboek, niettemin kiezen voor belastingheffing in de lidstaat van 
+aankomst van de verzending of het vervoer van de goederen van deze intracommunautaire afstandsverkopen 
+van goederen (in casu in België wanneer België de lidstaat van bestemming is). De leverancier is in dat 
+geval gedurende twee kalenderjaren aan deze keuze gebonden.In dat geval kan de belastingplichtige 
+de btw verschuldigd op die intracommunautaire afstandsverkopen in België aangeven en betalen door middel 
+van zijn identificatie voor btw-doeleinden in België en de indiening van de periodieke btw-aangifte bedoeld 
+in artikel 53, § 1, eerste lid, 2°,  van het Wetboek, dan wel in zijn lidstaat van vestiging (en 
+identificatie) gebruikmaken van de bijzondere regeling bedoeld in titel XII, hoofdstuk 6, afdeling 3, 
+van de Richtlijn 2006/112/EG (OSS-systeem - Unieregeling).Artikel 15, § 2, van het Wetboek 
+vormt voor de intracommunautaire afstandsverkopen van goederen vanuit België het corrolarium van artikel 
+15, § 1, nieuw, van het Wetboek dat van toepassing is op de intracommunautaire afstandsverkopen 
+naar België. Dezelfde regels van plaatsbepaling zijn dus, mutatis mutandis, van toepassing volgens dezelfde 
+modaliteiten, met name wat betreft de berekening van de drempel van 10.000 euro. De uitoefening van de 
+voormelde keuze is in dit geval voorzien in artikel 15, § 2, vierde lid, van het Wetboek.Artikel 
+15, § 3, van het Wetboek bepaalt dat de Koning de modaliteiten bepaalt van de mededeling van de 
+gegevens inzake de eventuele overschrijding van de drempel van 10.000 euro alsook van de uitoefening 
+van de keuze bedoeld in artikel 15, § 2, vierde lid, van het Wetboek.Artikel 13 van 
+dit ontwerp wijzigt daarom het opschrift van het koninklijk besluit nr. 10 om rekening te houden met 
+deze keuze die niet langer gebonden is aan de vroegere plaatsbepalingsregels bepaald in artikel 15, oud, 
+van het Wetboek.Artikel 14 van het ontwerp vervangt artikel 7 van hetzelfde koninklijk besluit. 
+Het bepaalt de uitoefeningsmodaliteiten van de voormelde keuze en voorziet in de mededeling aan de administratie 
+van de gegevens betreffende het overschrijden van de drempel van 10.000 euro. Dit artikel regelt ook 
+de wisselwerking tussen de keuze om te opteren voor de bijzondere regeling bedoeld in artikel 58quater 
+van het Wetboek en de uitoefening van deze optie.Deze vervanging is het gevolg van de invoering 
+van het begrip "intracommunautaire afstandsverkopen van goederen" in artikel 1, § 19, van het 
+Wetboek (artikel 14, lid 4, 1, nieuw, van de Richtlijn 2006/112/EG) en de afschaffing van de specifieke 
+nationale drempels voor de huidige regeling van afstandsverkopen (voor de afstandsverkopen naar België 
+gold een drempel van 35.000 euro overeenkomstig artikel 15, § 1, tweede lid, 1°,  van het Wetboek). 
+Deze drempels zullen worden vervangen door de communautaire drempel van 10.000 euro.Meer bepaald 
+maakt artikel 7, nieuw, van koninklijk besluit nr. 10 in de paragrafen 1 en 2, wat de modaliteiten van 
+de keuze betreft, een onderscheid tussen de bedoelde belastingplichtigen al naargelang zij al dan niet 
+gebruikmaken van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek (OSS-systeem - EU-regeling) 
+voor de aangifte en de betaling van de btw verschuldigd over deze intracommunautaire afstandsverkopen 
+van goederen die, na de keuzeverklaring, onmiddellijk voor btw-doeleinden zullen geacht worden plaats 
+te vinden, in de lidstaat van aankomst van de verzending of het vervoer van de betrokken goederen.Artikel 
+7, § 1, eerste lid, nieuw, van het koninklijk besluit nr. 10 bepaalt dat belastingplichtigen die 
+gebruikmaken of gebruik wensen te maken van het voormeld OSS-systeem - bijzondere EU-regeling, geacht 
+worden op onweerlegbare wijze te hebben gekozen voor de plaatsbepaling van de intracommunautaire afstandsverkopen 
+van goederen in de lidstaat van aankomst van de verzending of het vervoer van de goederen in kwestie, 
+overeenkomstig artikel 15, § 2, vierde lid, van het Wetboek.Artikel 7, § 1, tweede 
+lid, nieuw, van het koninklijk besluit nr. 10 bepaalt het tijdstip vanaf wanneer deze optie ingaat.Wanneer 
+de belastingplichtige de in artikel 58quater van het Wetboek bedoelde bijzondere regeling nog niet toepast, 
+gaat de keuze in op de eerste dag waarop de belastingplichtige de bijzondere regeling bedoeld in artikel 
+58quater van het Wetboek mag toepassen, dat wil zeggen in beginsel, overeenkomstig artikel 57 quinquies 
+van de Uitvoeringsverordening 282/2011, vanaf de eerste dag van het kwartaal dat volgt op het verzoek 
+om inschrijving onder die bijzondere regeling.In de gevallen waarin de belastingplichtige deze 
+bijzondere regeling reeds toepast, gaat de keuze daarentegen in vanaf de eerste intracommunautaire afstandsverkoop 
+die de belastingplichtige verricht. Voor belastingplichtigen die op 1 juli 2021 al gebruikmaken van deze 
+bijzondere regeling voor hun TBE-diensten, gaat deze keuze in vanaf die datum.De rechtsgevolgen 
+van de keuze nemen hoe dan ook geen einde vóór 31 december van het tweede jaar dat volgt op die data, 
+al naargelang het geval. De keuze blijft evenwel gelden zolang de belastingplichtige gebruik blijft maken 
+van die bijzondere regeling. Aangezien het een onweerlegbaar vermoeden betreft, werd er toch in een mogelijkheid 
+voorzien om aan het vermoeden te ontsnappen. Aldus geldt de keuze niet meer wanneer de belastingplichtige 
+beslist om niet langer gebruik te maken van de in artikel 58quater van het Wetboek bedoelde bijzondere 
+regeling. In dat geval houdt de keuze onmiddellijk op uitwerking te hebben met alle gevolgen die daaruit 
+voortvloeien voor de plaatsbepaling van de intracommunautaire afstandsverkopen van goederen en de TBE-diensten 
+(in functie van een eventuele overschrijding van de drempel van 10.000 euro tijdens het lopende of voorafgaande 
+kalenderjaar).Artikel 7, § 1, vijfde lid, nieuw, van het koninklijk besluit nr. 10 preciseert 
+dat deze keuze (krachtens het vermoeden) eveneens geldt om de plaats van de TBE-diensten te bepalen in 
+de lidstaat waar de ontvanger is gevestigd of waar hij zijn woonplaats of gebruikelijke verblijfplaats 
+heeft.Artikel 7, § 2, eerste lid, nieuw, van het koninklijk besluit nr. 10 bepaalt dat 
+de belastingplichtigen die de in artikel 15, § 2, vierde lid, van het Wetboek bedoelde keuze maken 
+om de plaats van de leveringen van de goederen te laten plaatsvinden in de lidstaat van aankomst van 
+de verzending of het vervoer van de goederen, maar die geen gebruik willen maken van de bijzondere regeling 
+bedoeld in artikel 58quater van het Wetboek, eveneens gehouden zijn de bevoegde dienst van de administratie 
+belast met de belasting over de toegevoegde waarde waaronder zij ressorteren daarvan per aangetekende 
+zending in kennis te stellen. De aan de Belgische administratie te verstrekken gegevens opgenomen in 
+artikel 7, § 2, tweede lid, nieuw, van het koninklijk besluit nr. 10 zal er hoofdzakelijk op gericht 
+zijn de administratie van de lidstaten van aankomst van de vanuit België verzonden of vervoerde goederen 
+in kennis te stellen van de belastingheffing in de lidstaat van aankomst van de goederen alsook van de 
+btw-identificatie van de belastingplichtigen in de lidstaat of de lidstaten van aankomst.Artikel 
+7, § 2, derde lid, nieuw, van het koninklijk besluit nr. 10 preciseert dat die keuze ingaat op 
+de datum van de aangetekende zending en geldt tot 31 december van het tweede jaar dat op die datum volgt. 
+Deze keuze geldt voor de intracommunautaire afstandsverkopen van goederen vanuit andere lidstaten dan 
+België en tevens om de plaats van de diensten bedoeld in artikel 21bis, § 2, 9°,  tweede lid, 
+b), van het Wetboek te bepalen in de lidstaat waar de ontvanger van de dienst is gevestigd of waar hij 
+zijn woonplaats of gebruikelijke verblijfplaats heeft.Deze bepaling is ook van toepassing op 
+belastingplichtigen die wensen af te zien van de bijzondere regeling bedoeld in artikel 58quater van 
+het Wetboek. In dat geval is het in artikel 7, § 1, nieuw, van het koninklijk besluit nr. 10 bedoelde 
+onweerlegbare vermoeden niet meer van toepassing en moeten deze belastingplichtigen, indien zij de drempel 
+van 10.000 euro niet overschrijden, in voorkomend geval opteren voor belastingheffing over de intracommunautaire 
+afstandsverkopen die zij vanuit België verrichten in de lidstaat van bestemming. Indien zij van deze 
+optie geen gebruikmaken, vinden deze leveringen in België plaats overeenkomstig artikel 15, § 
+2, tweede lid, van het Wetboek (terugkeer naar de in artikel 14, § 2, van het Wetboek bedoelde 
+plaatsbepalingsregel).Vervolgens preciseert artikel 7, § 3, nieuw, van het koninklijk 
+besluit nr. 10 de modaliteiten van de aangifte die bij de administratie moet worden ingediend met betrekking 
+tot de overschrijding van de drempel van 10.000 euro bedoeld in artikel 15, § 2, tweede lid, 3°, 
+ van het Wetboek. Elke in paragraaf 2 bedoelde belastingplichtige doet aangifte volgens de modaliteiten 
+van de mededeling van de keuze bedoeld in de paragraaf 2, van de overschrijding van de drempel vanaf 
+de eerste handeling, in haar geheel beschouwd, waardoor de drempel is overschreden. Hij duidt in die 
+aangifte de datum aan vanaf wanneer die drempeloverschrijding heeft plaatsgevonden (datum van de eerste 
+handeling waardoor de drempel werd overschreden).Deze aangifte moet evenwel niet worden ingediend 
+indien de betrokken belastingplichtige:- een dergelijke verklaring reeds in de loop van het 
+voorafgaande kalenderjaar heeft ingediend;- in de loop van één van de twee voorafgaande kalenderjaren 
+of in het lopende kalenderjaar vrijwillig of onvrijwillig (rekening houdend met het in paragraaf 1 bedoelde 
+vermoeden) de in artikel 15, § 2, vierde lid, van het Wetboek bedoelde keuze heeft gemaakt overeenkomstig 
+de modaliteiten voorzien in artikel 7, §§ 1 en 2, nieuw, van het koninklijk besluit nr. 
+10.De minister van Financiën of zijn gemachtigde bepaalt de modaliteiten van deze verklaring, 
+meer in het bijzonder de vorm en de manier waarop de verklaring wordt gedaan. Aangezien het louter praktische 
+modaliteiten betreft, wordt er effectief in voorzien dat de administratie die rechtstreeks kan bepalen, 
+zoals aangegeven door de afdeling wetgeving van de Raad van State in punt 4.1. in zijn voormelde advies 
+nr. 69.432/3.Tot slot vervangt artikel 15 van het ontwerp artikel 7ter van het koninklijk besluit 
+nr. 10 om rekening te houden met de wijzigingen van artikel 21bis, § 2, 9°,  van het Wetboek bij 
+de wet van 2 april 2021. Die bepaling specifieert nu :- dat de drempel van 10.000 euro het 
+totale bedrag, exclusief btw, betreft van de TBE diensten en van de intracommunautaire afstandsverkopen 
+van goederen naar een andere lidstaat dan die van vestiging van de dienstverrichter (artikel 21bis, § 
+2, 9°,  tweede lid, c), van het Wetboek);- dat de keuze voorzien in deze bepaling (om dergelijke 
+TBE-diensten te belasten in de lidstaat van vestiging van de afnemer, ook wanneer deze drempel nog niet 
+is overschreden) automatisch ook de keuze inhoudt om de intracommunautaire afstandsverkopen van goederen 
+te belasten in de lidstaat van aankomst van de goederen, overeenkomstig artikel 59 quater, lid 3, van 
+Richtlijn 2006/112/EG (vierde alinea van dezelfde bepaling).Deze aanpassingen zijn ook opgenomen 
+in artikel 7ter van het koninklijk besluit nr. 10.Zoals het geval is voor de keuze voorzien 
+in artikel 7 van het koninklijk besluit nr. 10, maakt artikel 7ter van hetzelfde besluit een onderscheid 
+tussen twee gevallen, al naargelang de belastingplichtige al dan niet gebruikmaakt van de bijzondere 
+regeling bedoeld in artikel 58quater van het Wetboek. In bevestigend geval, geldt aldus hetzelfde onweerlegbare 
+vermoeden.Voor het overige wordt verwezen naar voormeld artikel 7, waarvan de structuur en 
+de regels mutatis mutandis van toepassing zijn op onderhavige keuze om de diensten te laten plaatsvinden 
+in de lidstaat waar de afnemer is gevestigd.Artikelen 16 en 17De vervanging van artikel 
+15 bij de wet van 2 april 2021 heeft eveneens een weerslag op twee bepalingen van het koninklijk besluit 
+nr. 22.In de eerste plaats bepaalt artikel 2, § 3, van dat besluit dat de bij artikel 
+57 van het Wetboek ingevoerde bijzondere regeling voor landbouwondernemers niet van toepassing is op 
+de leveringen van goederen verricht onder de voorwaarden van artikel 15, §§ 2 en 3, van 
+het Wetboek (hier worden de afstandsverkopen van goederen vanuit België bedoeld, overeenkomstig de oude 
+benadering van dat begrip, toen het nog geen autonoom juridisch begrip vormde maar een verwijzing inhield 
+naar specifieke plaatsbepalingsregels). Gelet op de wijziging van artikel 15 van het Wetboek, moet artikel 
+2, § 3, van koninklijk besluit nr. 22 voortaan verwijzen naar de intracommunautaire afstandsverkopen 
+van goederen, verricht onder de voorwaarden van artikel 15, § 2, nieuw, van het Wetboek. Op deze 
+handelingen zal de normale regeling integraal van toepassing zijn (dus ook de toepassing van de drempel 
+van 10.000 euro en de regel van de keuze voor belastingheffing in de lidstaat van aankomst van de verzending 
+of het vervoer van de goederen). Artikel 16 van het ontwerp voorziet in deze aanpassing.Deze 
+wijziging van het Wetboek heeft ook een invloed op artikel 4ter van koninklijk besluit nr. 22. Deze bepaling 
+voorziet in een specifieke factureringsplicht voor landbouwers die afstandsverkopen van landbouwproducten 
+verrichten bedoeld in artikel 15, §§ 2 en 3, oud, van het Wetboek. Voor deze handelingen 
+moet de landbouwondernemer aan de koper een factuur of een als zodanig geldend stuk uitreiken dat, benevens 
+de vermeldingen eventueel voorgeschreven door de lidstaat op het grondgebied waarvan de goederen zich 
+bevinden op het tijdstip van aankomst van de verzending of het vervoer naar de afnemer, een aantal specifieke 
+bijkomende vermeldingen bevat (een volgnummer, de datum waarop de factuur of het als zodanig geldend 
+stuk wordt uitgereikt, de naam en het adres van de koper en van de landbouwondernemer, de gewone benaming 
+en de hoeveelheid van de geleverde goederen alsook de prijs zonder belasting en de andere elementen van 
+de maatstaf van heffing).Ingevolge de evolutie van de factureringsregels (zowel inzake de bevoegde 
+lidstaat als inzake de vereisten inzake facturering wanneer België bevoegd is om die regels vast te stellen) 
+wordt deze specifieke verplichting geschrapt.Aangezien de landbouwer op grond van artikel 2, 
+§ 3, nieuw, van koninklijk besluit nr. 22 (zie artikel 16 van het ontwerp) de normale regeling 
+toepast op de intracommunautaire afstandsverkopen van goederen (landbouwproducten) die hij verricht, 
+zijn dezelfde regels inzake facturering op hem van toepassing als die gelden voor de andere belastingplichtigen 
+die dergelijke handelingen verrichten. Wanneer deze intracommunautaire afstandsverkopen van goederen 
+plaatsvinden in de lidstaat van bestemming (en dus ofwel de drempel van 10.000 euro is overschreden ofwel 
+de belastingplichtige heeft gekozen voor belastingheffing in de lidstaat van bestemming), zal de verplichting 
+om een factuur uit te reiken afhankelijk zijn van het feit of de belastingplichtige al dan niet gebruik 
+maakt van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek (EU-regeling). Indien 
+hij in België van deze regeling gebruikmaakt, is er geen verplichting om een dergelijke factuur uit te 
+reiken (gezamenlijke toepassing van de artikelen 53decies, § 1, derde lid, en 53, § 2, 
+eerste lid, 2°,  van het Wetboek). Indien hij geen gebruik maakt van die regeling is België niet bevoegd 
+om de regels inzake facturering vast te stellen (artikel 53decies, § 1, eerste lid, van het Wetboek).Rekening 
+houdend met de wijziging van artikel 16, § 1, van het koninklijk besluit nr. 1 (artikel 2 van 
+het ontwerp) zullen landbouwers die intracommunautaire afstandsverkopen van goederen verrichten onder 
+de drempel van 10.000 euro (die in België plaatsvinden op basis van artikel 14, § 2, van het Wetboek), 
+eveneens verplicht zijn een dagboek van ontvangsten te houden waarin de specifieke vermeldingen voor 
+deze intracommunautaire afstandsverkopen van goederen moeten worden opgenomen.Artikel 17 van 
+het ontwerp heft daarom artikel 4ter van het koninklijk besluit nr. 22 op.Artikel 18Artikel 
+18 van het ontwerp brengt een legistieke wijziging aan in artikel 5bis, tweede lid, van het koninklijk 
+besluit nr. 22 naar aanleiding van de wijzigingen die bij dit ontwerp in het koninklijk besluit nr. 4 
+worden aangebracht.Artikel 19De omzetting van Richtlijn 2017/2455 en Richtlijn 2019/1995 
+heeft onder meer geleid tot de uitbreiding van het toepassingsgebied van het huidige MOSS-systeem ("Mini 
+One stop shop") tot een OSS-systeem ("One stop shop").Deze uitbreiding brengt een wijziging 
+mee van de naam en de gegevens van de postrekening waarop de betalingen van de belasting moeten worden 
+verricht.Artikel 19 van het ontwerp wijzigt derhalve het opschrift van afdeling 1 van het koninklijk 
+besluit nr. 24 om rekening te houden met deze wijziging.In antwoord op de opmerking van de 
+afdeling wetgeving van de Raad van State (punt 6 van zijn voormeld advies nr. 69.432/3) moet ter zake 
+worden gepreciseerd dat het behoud van de terminologie "Mini one stop shop" zowel in de titel van afdeling 
+1 en van de onderafdelingen 3 en 4 van het koninklijk besluit nr. 24 als in artikel 13, nieuw, van hetzelfde 
+koninklijk besluit volledig verantwoord is. Er wordt immers verwezen naar de bankrekening met betrekking 
+tot de betaling van de verschuldigde belasting op handelingen die werden verricht vóór 1 juli 2021, die 
+dus nog wel degelijk binnen het toepassingsgebied vallen van de "oude" bijzondere regelingen van de Mini 
+one stop shop. Die bankrekeningen zullen op termijn uiteraard wel hun nut verliezen. Een toekomstige 
+wijziging van het koninklijk besluit nr. 24 zal aldus toelaten om elke referentie naar die terminologie 
+te schrappen wanneer die rekeningen effectief volledig overbodig zullen geworden zijn.Artikel 
+20Evenzo wordt het opschrift van onderafdeling 3 van afdeling 1 van het koninklijk besluit 
+nr. 24, dat specifiek betrekking heeft op de postrekening van het OSS-systeem ("Inning NETP"), gewijzigd 
+bij artikel 20 van het ontwerp.Artikel 21Artikel 21 van het ontwerp vervangt artikel 
+13bis van het koninklijk besluit nr. 24 om de betalingsmodaliteiten te bepalen van de btw die verschuldigd 
+is krachtens de vereenvoudigingsregelingen bedoeld in de artikelen 58ter, § 6, vierde lid, en 
+58quater, § 6, negende lid, van het Wetboek, zoals vervangen bij de wet van 2 april 2021, en in 
+artikel 58quinquies, § 6, vierde lid, van het Wetboek, ingevoegd bij dezelfde wet.De 
+gegevens van de postrekening worden aldus aangeduid in artikel 13bis, nieuw, van het koninklijk besluit 
+nr. 24. De betaling moet worden gedaan op de postrekening BE32 6792 0036 van "Inning NETP".De 
+betaling op deze postrekening wordt altijd gedaan door de schuldenaar door middel van een overschrijving 
+met vermelding van de gestructureerde mededeling die hem door de administratie wordt meegedeeld.Artikelen 
+22 en 23De artikelen 22 en 23 van het ontwerp vervangen respectievelijk het opschrift van onderafdeling 
+4 van afdeling 1 en artikel 13ter van koninklijk besluit nr. 24.Deze wijziging beoogt een rechtsgrondslag 
+te verschaffen voor (al dan niet laattijdige) betalingen die voortvloeien uit de (al dan niet laattijdige) 
+indiening van of correcties op MOSS-aangiften bedoeld in artikel 58ter, § 5, en artikel 58quater, 
+§ 5, van het Wetboek, zoals deze bepalingen van toepassing zijn tot en met 30 juni 2021. Deze 
+betalingen zullen nog steeds worden gedaan op de postrekening BE78 6792 0036 2186 van "Mini One stop 
+shop - VAT BE".Deze overgangsbepaling voorzien in artikel 13ter, nieuw, van het koninklijk 
+besluit nr. 24 is vergelijkbaar met artikel 13ter, in de versie die van toepassing is tot 30 juni 2021, 
+bij de overgang van het systeem " VAT on E-Services " (artikel 58bis, oud, van het Wetboek) naar het 
+één-loket-systeem "MOSS", dat op 1 januari 2015 in werking is getreden.Onderafdeling 4 en artikel 
+13ter van het koninklijk besluit nr. 24 worden vervangen, aangezien deze laatste bepaling, rekening houdend 
+met haar in de tijd beperkt toepassingsgebied, geen uitwerking meer heeft.Artikel 24Er 
+wordt gebruik gemaakt van de in dit ontwerp in het koninklijk besluit nr. 31 aangebrachte wijzigingen 
+om artikel 1 van dit besluit te herschrijven. Paragraaf 1 van deze bepaling is in feite volledig pleonastisch 
+en derhalve juridisch overbodig, aangezien de daarin vervatte regels reeds opgenomen zijn in artikel 
+55, §§ 1 en 2, van het Wetboek.Het gaat over de basisregels voor de aanwijzing 
+van een aansprakelijke vertegenwoordiger door een niet in België gevestigde (al dan niet in de Gemeenschap 
+gevestigde) belastingplichtige die in België bepaalde belastbare handelingen verricht.Artikel 
+24 van het ontwerp herschrijft dit artikel 1 door de bepalingen van de eerste paragraaf te schrappen 
+en de naam van de bevoegde dienst van de administratie belast met de btw voor deze aangelegenheden te 
+wijzigen, namelijk het KMO Centrum Specifieke Materies dat in de plaats komt van het vroegere centraal 
+btw-kantoor voor buitenlandse belastingplichtigen. Voor het overige blijft dit artikel 1 ongewijzigd.Artikel 
+25Artikel 25 van het ontwerp brengt dezelfde terminologische wijziging aan in artikel 2, § 
+2, van het koninklijk besluit nr. 31.Artikel 26Artikel 26 van het ontwerp voegt een 
+artikel 2bis in het koninklijk besluit nr. 31 in, dat voortaan de erkenningsprocedure en de toekenningprocedure 
+van de btw-identificatienummers regelt voor de in artikel 58quinquies, § 3, eerste lid, van het 
+Wetboek bedoelde tussenpersonen in het kader van de in dat artikel 58quinquies bedoelde bijzondere invoerregeling.Deze 
+procedure, die sterk lijkt op die voor de aansprakelijke vertegenwoordigers bedoeld in artikel 1 van 
+het koninklijk besluit nr. 31 en voor de vooraf erkende personen bedoeld in artikel 2 van hetzelfde besluit, 
+is volledig digitaal en wordt beheerd door het KMO Centrum Specifieke Materies.Deze procedure 
+wordt hoofdzakelijk geregeld in artikel 58quinquies, §§ 3 tot 5, van het Wetboek, terwijl 
+artikel 2bis, nieuw, van koninklijk besluit nr. 31 in hoofdzaak beperkt is tot de tussenkomst van het 
+KMO Centrum Specifieke Materies in deze procedure .Wat de in artikel 58quinquies bedoelde tussenpersoon 
+betreft, gebeurt de identificatie voor btw-doeleinden, overeenkomstig artikel 58quinquies, § 4, 
+tweede en derde lid, van het Wetboek in twee fasen door middel van afzonderlijke identificatienummers. 
+De tussenpersoon die zijn erkenning als zodanig ontvangt, krijgt een identificatienummer dat bestaat 
+uit negen cijfers dat wordt voorafgegaan door de letters 'IN'. Op basis van dit toegekend nummer kan 
+de tussenpersoon een verzoek om identificatie indienen voor de toepassing van deze bijzondere regeling 
+voor elke belastingplichtige die hij vertegenwoordigt. Dit identificatienummer bestaat eveneens uit negen 
+cijfers en wordt voorafgegaan door de letters 'IM'. Deze nummers worden hem door het KMO Centrum Specifieke 
+Materies langs elektronische weg meegedeeld, overeenkomstig artikel 58quinquies, § 4, vierde lid, 
+van het Wetboek.Deze bepaling, evenals alle andere met betrekking tot de formaliteiten verbonden 
+aan de erkenning van de aansprakelijk vertegenwoordiger, van de vooraf erkende persoon en van de tussenpersoon 
+vinden hun rechtsgrondslag in artikel 55, § 3, van het Wetboek. Overeenkomstig punt 3.2. van het 
+voormelde advies nr. 69.432/3 van de afdeling wetgeving van de Raad van State, is de enkele verwijzing 
+naar het eerste lid van deze bepaling op zich onvoldoende. De aanhef is dienovereenkomstig aangepast. 
+De tussenpersoon kan immers beschouwd worden als een vooraf erkend persoon bedoeld in artikel 55, § 
+3, tweede lid, van het Wetboek. Hoe dan ook zal een afzonderlijke grondslag worden gecreëerd in een toekomstig 
+wetsontwerp om op een meer specifieke manier de erkenningsformaliteiten van de tussenpersoon in het kader 
+van de regeling bedoeld in artikel 58quinquies van het Wetboek af te dekken, zodat een grotere coherentie 
+wordt gegarandeerd van de machtigingen aan de Koning binnen de bijzondere regelingen zelf.Artikel 
+27Er wordt eveneens gebruikgemaakt van deze wijzigingen om de zekerheidsregeling van artikel 
+3 van het koninklijk besluit nr. 31 grondig te hervormen ten aanzien van de aansprakelijke vertegenwoordigers 
+en de vooraf erkende personen. De aldus ingevoerde nieuwe regels zullen ook van toepassing zijn op de 
+tussenpersonen bedoeld in artikel 58quinquies, § 3, eerste lid, van het Wetboek.Artikel 
+3, tweede lid, oud, van het koninklijk besluit nr. 31 bepaalt dat door of vanwege de Minister van Financiën 
+de solvabiliteit van de aansprakelijke vertegenwoordiger of van de vooraf erkende persoon wordt beoordeeld 
+rekening houdend met hun verplichtingen. Afhankelijk van deze solvabiliteit kan de aansprakelijke vertegenwoordiger 
+of de vooraf erkende persoon worden verplicht een zekerheid te stellen om de invordering te waarborgen 
+van alle bedragen die ten laste van de vertegenwoordigde belastingplichtige(n) verschuldigd kunnen worden 
+als belastingen, geldboeten, nalatigheidsinteresten en kosten. Deze zekerheid (die kan worden herzien 
+in functie van de genoemde verplichtingen) wordt voor de aansprakelijke vertegenwoordiger vastgesteld 
+op ten hoogste een kwart van de belastingen die door de niet in België gevestigde belastingplichtige 
+verschuldigd zijn voor een periode van twaalf kalendermaanden. In geval van vertegenwoordiging onder 
+een globaal nummer door een vooraf erkende persoon, wordt deze vastgesteld op ten hoogste tien pct. van 
+de verschuldigde belastingen voor het geheel van de vertegenwoordigde belastingplichtigen.Deze 
+zekerheid kan bestaan uit een eerste hypotheek op een in België gelegen onroerend goed, een borgtocht 
+in speciën, een borgtocht in effecten of een persoonlijke borgstelling van een verzekeringsonderneming, 
+of van een bank of een private spaarkas die hun activiteiten in België mogen uitoefenen (artikel 3, zesde 
+lid, oud, van het koninklijk besluit nr. 31). Zoals aangegeven door de afdeling wetgeving van de Raad 
+van State in punt 10 van zijn voormeld advies nr. 69.432/3, worden hier de financiële instellingen bedoeld 
+die overeenkomstig de Belgische regelgeving hun activiteit op het Belgisch grondgebied mogen uitoefenen. 
+Overeenkomstig de Europese regels inzake vrijheid van vestiging en vrij verrichten van diensten, betreft 
+het dus niet noodzakelijkerwijze een in België gevestigde instelling.Artikel 27 van het ontwerp 
+vervangt artikel 3 van koninklijk besluit nr. 31, dat voortaan als volgt is opgesteld.Paragraaf 
+1, nieuw, herneemt de inhoud van het eerste lid, oud, en preciseert de voorwaarden om te kunnen worden 
+aangewezen als aansprakelijke vertegenwoordiger, als vooraf erkende persoon of als tussenpersoon. Deze 
+voorwaarden hebben betrekking op de plaats van vestiging en de bevoegdheid om contracten aan te gaan.Paragraaf 
+2, nieuw, bepaalt voortaan dat van deze verschillende personen een zekerheid kan worden geëist om de 
+invordering te waarborgen van alle bedragen die verschuldigd kunnen worden aan belasting, geldboeten, 
+nalatigheidsinteresten en kosten. In deze bepaling wordt eraan herinnerd dat de zekerheid kan bestaan 
+uit een borgtocht in speciën, een borgtocht in effecten of een persoonlijke borgstelling van een verzekeringsonderneming, 
+of van een bank of een private spaarkas die hun activiteiten in België uitoefenen.Paragraaf 
+3, nieuw, stelt het bedrag van deze zekerheid uniform vast op 10 pct. van het saldo van de verschuldigde 
+belasting voor een periode van twaalf kalendermaanden die voortvloeit uit de aangiften bedoeld in de 
+artikelen 53, § 1, eerste lid, 2°,  58ter, § 6, 58quater, § 6 en 58quinquies, § 
+6 van het Wetboek, die zijn ingediend tijdens het voorafgaande kalenderjaar. De discretionaire bevoegdheid 
+van het KMO Centrum Specifieke Materies wordt aldus opgeheven ten gunste van objectieve en uniforme criteria.Onder 
+het saldo van de verschuldigde belasting wordt, wat de periodieke btw-aangifte bedoeld in artikel 53, 
+§ 1, eerste lid, 2°,  van het Wetboek betreft, verstaan het resultaat van de belasting die verschuldigd 
+blijft na de indiening van die aangifte, dus na het in mindering brengen van de belasting die in die 
+aangifte in aftrek is gebracht. Dit bedrag komt overeen met het rooster [71] van deze aangifte. Voor 
+andere aangiften waarin geen aftrek kan worden toegepast, is dit gewoon de belasting die uit hoofde van 
+die aangiften verschuldigd is.Paragraaf 3, nieuw, bepaalt bovendien dat het bedrag van de zekerheid 
+voorlopig wordt vastgesteld op basis van de ramingen van de door de betrokkene verschuldigde belasting, 
+wanneer het niet mogelijk is een referentieperiode van één jaar vast te stellen voor de bepaling van 
+deze zekerheid (bijvoorbeeld in het geval van de aanvang van een werkzaamheid). De zekerheid wordt dan 
+vervolgens definitief bepaald op 30 april van het volgende jaar. Met het oog op evenredigheid 
+en doeltreffendheid wordt eveneens bepaald dat het bedrag van de zekerheid, afhankelijk van bovengenoemde 
+berekening, minimaal 7.500 euro en maximaal één miljoen euro bedraagt. Het bedrag van de zekerheid 
+wordt in ieder geval vastgelegd voor een periode die afloopt op 31 december van het tweede jaar die volgt 
+op het vaststellen van dat bedrag.Paragraaf 4, nieuw, bepaalt tot slot dat het bedrag van deze 
+zekerheid wordt herzien in het licht van de wijzigingen in omvang van de verbintenissen van de betrokken 
+personen, bijvoorbeeld in geval van een verhoging of verlaging van de verschuldigde belasting werd vastgesteld 
+of, in het geval van vooraf erkende personen of tussenpersonen, bij een wijziging van het aantal vertegenwoordigde 
+belastingplichtigen. Met het oog op een eventuele herziening zal de vergelijking tussen de verschuldigde 
+belastingen gebeuren ten aanzien van het jaar dat, al naargelang het geval, voorafgaat aan de vaststelling 
+of aan de wijziging van de zekerheid. De administratie zal altijd overgaan tot deze herziening in geval 
+het bedrag van de zekerheid verhoogt. Anderzijds kan door de betrokkene een herziening worden gevraagd 
+in geval van verlaging van de zekerheid. Er vindt hoe dan ook geen herziening plaats wanneer de wijziging 
+van het bedrag van de zekerheid minder dan tien pct. bedraagt.Artikel 28Artikel 28 
+van het ontwerp vervangt artikel 7 van het koninklijk besluit nr. 31 om rekening te houden met de verschillende 
+gevallen van btw-identificatie in België overeenkomstig artikel 50, § 1, eerste lid, 3°,  van 
+het Wetboek, zoals gewijzigd bij de wet van 2 april 2021. Deze wijziging vindt haar oorsprong in de werking 
+van de verschillende vereenvoudigingsregelingen in het OSS-systeem.Er worden enkele terminologische 
+wijzigingen aangebracht in de huidige tekst van artikel 7 van het koninklijk besluit nr. 31. Enerzijds 
+voorziet de bepaling voortaan dat het verzoek om teruggaaf moet worden ingediend bij de bevoegde dienst, 
+in casu het KMO Centrum Specifieke Materies (en niet langer het hoofd van het Centraal btw-kantoor voor 
+buitenlandse belastingplichtigen). Anderzijds wordt verduidelijkt dat in deze bepaling de niet in de 
+Gemeenschap gevestigde belastingplichtige wordt bedoeld en niet zozeer de belastingplichtige die "buiten 
+de Gemeenschap" is gevestigd (dit begrip sluit niet uit dat die belastingplichtige niet alleen buiten 
+de Gemeenschap maar tevens ook op het grondgebied van de Gemeenschap is gevestigd).Artikel 
+7 van het koninklijk besluit nr. 31 wordt om die reden in zijn geheel gewijzigd om in alle paragrafen 
+rekening te houden met deze aanpassingen.Eén van de basisvoorwaarden voor de teruggaaf van 
+btw aan niet in de Gemeenschap gevestigde belastingplichtigen is dat deze belastingplichtigen in beginsel 
+niet voor btw-doeleinden in België geïdentificeerd zijn en dat zij er niet toe gehouden zijn de periodieke 
+btw-aangifte in te dienen als bedoeld in artikel 53, § 1, eerste lid, 2°,  van het Wetboek.Dit 
+volgt uit de algemene opzet van artikel 1, lid 1, van de Dertiende Richtlijn 86/560/EEG van de Raad van 
+17 november 1986 betreffende de harmonisatie van de wetgevingen der lidstaten inzake omzetbelasting - 
+Regeling voor de teruggaaf van de belasting over de toegevoegde waarde aan niet op het grondgebied van 
+de Gemeenschap gevestigde belastingplichtigen (hierna: "de Richtlijn 86/560/EEG), volgens welke de belastingplichtige 
+die in de lidstaat van verbruik om teruggaaf verzoekt "geen leveringen van goederen of diensten heeft 
+verricht waarvan de plaats geacht wordt in de lidstaat [van verbruik] te zijn gelegen", met uitzondering 
+van bepaalde specifieke handelingen. Dat werd tot uitdrukking gebracht in artikel 7, § 1, van 
+koninklijk besluit nr. 31 in de versie vóór 1 juli 2021.Ingevolge de wijziging van artikel 
+50, § 1, eerste lid, 3°,  van het Wetboek, bij de wet van 2 april 2021, moet evenwel een onderscheid 
+worden gemaakt tussen verschillende gevallen. Dit maakt het voorwerp uit van de paragrafen 1 en 2 van 
+artikel 7 van het koninklijk besluit nr. 31.Artikel 7, § 1, nieuw, van het koninklijk 
+besluit nr. 31 houdt voortaan rekening met alle gevallen waarin een niet in de Gemeenschap gevestigde 
+belastingplichtige niet over een btw-identificatienummer beschikt dat de letters BE bevat en dat hem 
+is toegekend overeenkomstig artikel 50, § 1, eerste lid, 3°,  a), nieuw, van het Wetboek. De volgende 
+gevallen worden bedoeld:- ofwel verricht hij in België geen enkele in het Wetboek bedoelde 
+handeling die hem recht op aftrek verleent en waarvoor hij in België gehouden is tot de voldoening van 
+de belasting krachtens de artikelen 51 en 52 van het Wetboek en beschikt hij niet over een btw-identificatienummer 
+dat de letters BE bevat;- ofwel verricht hij in België enkel handelingen waarvoor hij gebruik 
+maakt van de bijzondere regeling bedoeld in titel XII, hoofdstuk 6, afdeling 2 of 4, van de Richtlijn 
+2006/112/EG (niet-Unieregeling of invoerregeling in het OSS-systeem), ongeacht of hij België al dan niet 
+als lidstaat van identificatie heeft gekozen (ook in dat geval wordt hem immers geen btw-identificatienummer 
+dat de letters BE bevat toegekend voor het gebruik van deze bijzondere regelingen);- ofwel 
+is hij toch voor btw-doeleinden in België geïdentificeerd door middel van een btw-identificatienummer 
+dat de letters BE bevat, maar dat hem is toegekend overeenkomstig artikel 50, § 1, eerste lid, 
+3°,  b), nieuw, van het Wetboek. Dit betreft het (zeer uitzonderlijke) geval waarbij de niet in België 
+gevestigde belastingplichtige (die, in dit geval,evenmin in de Gemeenschap is gevestigd) in 
+België geen enkele door het Wetboek bedoelde handeling verricht die hem recht op aftrek verleent en waarvoor 
+hij in België gehouden is tot de voldoening van de belasting krachtens de artikelen 51 en 52 van het 
+Wetboek, maar in een andere lidstaat dan België wel handelingen verricht waarvoor hij (in België) gebruikmaakt 
+van de bijzondere EU-regeling van het OSS-systeem, bedoeld in artikel 58quater van het Wetboek.Zoals 
+reeds was bepaald in artikel 7, § 1, oud, van het koninklijk besluit nr. 31, kan de belasting 
+die geheven is van de handelingen die de belastingplichtige heeft verricht of die hem in België werden 
+verstrekt onder het globale btw-identificatienummer dat overeenkomstig artikel 50, § 3, van het 
+Wetboek, werd toegekend aan een vooraf erkende persoon bedoeld in artikel 2, § 1, van het koninklijk 
+besluit nr. 31, niet worden teruggegeven.De nieuwe paragraaf 2 van artikel 7 van het koninklijk 
+besluit nr. 31 voorziet in een recht op teruggaaf voor iedere niet in de Gemeenschap gevestigde belastingplichtige 
+die voor btw-doeleinden in België is geïdentificeerd overeenkomstig artikel 50, § 1, eerste lid, 
+3°,  a), van het Wetboek, wanneer de niet in de Gemeenschap gevestigde belastingplichtige gebruik maakt 
+van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek en hij onder deze regeling ook 
+in België handelingen verricht die onder deze regeling vallen. De belastingplichtige met België 
+de lidstaat van identificatie voor de toepassing van deze regeling krijgt een btw-identificatienummer 
+voor de toepassing van deze regeling overeenkomstig artikel 50, § 1, 3°,  a), van het Wetboek. 
+Overeenkomstig artikel 57 sexies van de Uitvoeringsverordening 282/2011 identificeert de lidstaat van 
+identificatie de belastingplichtige die de Unieregeling toepast aan de hand van zijn in de artikelen 
+214 en 215 van de Richtlijn 2006/112/EG bedoelde btw-identificatienummer. Concreet betekent dit dat voor 
+belastingplichtigen (al dan niet in België gevestigd), die al een individueel btw-identificatienummer 
+hebben dat hen is toegekend overeenkomstig artikel 50, § 1, eerste lid, 1°  of 3°,  van het Wetboek 
+(nummer voorafgegaan door de letters BE), artikel 58quater, § 4, van het Wetboek bepaalt dat zij 
+dit nummer gebruiken voor de belastbare handelingen die onder deze bijzondere regeling vallen. De andere 
+belastingplichtigen moeten vóór de aanvang van hun activiteit die onder deze regeling valt, eveneens 
+een individueel btw-identificatienummer dat de letters BE bevat worden toegekend, overeenkomstig artikel 
+50, § 1, eerste lid, 1°  of 3°,  van het Wetboek. Wanneer de betrokken belastingplichtige 
+niet in de Gemeenschap is gevestigd en hij België als lidstaat van identificatie kiest, geschiedt zijn 
+identificatie voor btw-doeleinden in België overeenkomstig artikel 50, § 1, eerste lid, 3°,  a) 
+of b), van het Wetboek naargelang hij al dan niet in België handelingen verricht waarvoor hij gebruikmaakt 
+van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek. Indien hij voor btw-doeleinden 
+wordt geïdentificeerd op grond van artikel 50, § 1, eerste lid, 3°,  b) van het Wetboek (omdat 
+hij in België geen handelingen verricht die onder de EU-regeling vallen), is artikel 7, § 1, nieuw, 
+van het koninklijk besluit nr. 31 van toepassing (zie hierboven).In het geval bedoeld in artikel 
+7, § 2, nieuw, van het koninklijk besluit nr. 31, verricht de betrokken belastingplichtige in 
+België eveneens in het Wetboek bedoelde handelingen en zal voor btw-doeleinden in België geïdentificeerd 
+zijn overeenkomstig artikel 50, § 1, eerste lid, 3°,  a), van het Wetboek, maar zal hij niet gehouden 
+zijn de periodieke btw-aangifte bedoeld in artikel 53, § 1, eerste lid, 2°,  van het Wetboek (zie 
+artikel 53, § 1bis, tweede lid, nieuw, van het Wetboek) in te dienen. Deze belastingplichtige 
+zal bijgevolg zijn recht op aftrek slechts kunnen uitoefenen bij wijze van teruggaaf, overeenkomstig 
+artikel 58quater, § 8, eerste lid, van het Wetboek, dat uitdrukkelijk verwijst naar de teruggaaf 
+bedoeld in artikel 76, § 2, van het Wetboek.Deze teruggaaf aan een niet in de Gemeenschap 
+gevestigde belastingplichtige geschiedt volgens de procedure van de Richtlijn 86/560/EEG ("dertiende 
+richtlijn"). Artikel 7, §§ 3 en 4, nieuw van het koninklijk besluit nr. 31, bepalen dat 
+de aanvraag tot teruggaaf in drie exemplaren wordt ingediend bij het KMO Centrum Specifieke Materies, 
+uiterlijk op 30 september van het kalenderjaar volgend op het tijdvak waarop het teruggaafverzoek betrekking 
+heeft. Artikel 7, § 5, nieuw, van het koninklijk besluit nr. 31 bepaalt voortaan dat het niet 
+wordt ingegaan op de aanvraag tot teruggaaf indien zij betrekking heeft op een bedrag van minder dan 
+50 euro (in plaats van 25 euro voorheen). In dit verband wordt verwezen naar de toelichting bij de wijziging 
+van artikel 9,  § 2 van het koninklijk besluit nr. 4 (artikel 6, 1°,  van het ontwerp). De overige 
+bepalingen betreffende deze teruggaafprocedure worden door dit ontwerp inhoudelijk niet gewijzigd.Zoals 
+aangegeven in het advies nr. 68.482/3 van de Raad van State van 28 januari 2021 betreffende het voormeld 
+voorontwerp van wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de 
+regeling betreft die van toepassing is op afstandsverkopen van goederen en op bepaalde leveringen van 
+goederen en diensten, is deze teruggaafprocedure eveneens van toepassing voor een belastingplichtige 
+die van de bijzondere regeling gebruikmaakt voor de voldoening van de btw die in België verschuldigd 
+is op door hem verrichte handelingen die onder de bijzondere regeling vallen maar die België niet als 
+lidstaat van identificatie heeft gekozen. Dit geval wordt ook beoogd in artikel 7, § 1, van het 
+koninklijk besluit nr. 31.Artikel 29Artikel 29 van het ontwerp wijzigt het opschrift 
+van rubriek Ibis van afdeling 1 van tabel G van de bijlage bij het koninklijk besluit nr. 41, dat een 
+proportionele geldboete voorziet in het geval van niet-betaling van de verschuldigde belasting (in België) 
+waarvan de opeisbaarheid blijkt uit de ingediende aangifte bedoeld in de artikelen 58ter, § 6 
+en 58quater, § 6, van het Wetboek, zoals gewijzigd bij de wet van 2 april 2021 en in artikel 58quinquies, 
+§ 6, van het Wetboek, zoals ingevoegd bij dezelfde wet. Het vorige opschrift beperkte zich immers 
+tot het MOSS-systeem (regelingen bedoeld in de artikelen 58ter en 58quater van het Wetboek, in hun vorige 
+versie). Er wordt aan herinnerd dat deze boeten kunnen worden opgelegd door België als lidstaat 
+van verbruik. Immers, krachtens artikel 63 ter van de Uitvoeringsverordening 282/2011, "indien een btw-aangifte 
+niet of te laat wordt ingediend, of onvolledig of onjuist is, of wanneer de btw te laat wordt betaald, 
+worden eventuele interesten, boeten of andere heffingen door de lidstaat van verbruik berekend en geheven". 
+Overeenkomstig deze bepaling zijn deze boeten verschuldigd aan de lidstaat van verbruik door de belastingplichtige 
+of de voor zijn rekening handelende tussenpersoon. Het is dus niet aan de lidstaat van identificatie, 
+die optreedt als depositaris van de aangiften en als ontvanger van deze belastingen ten behoeve van alle 
+lidstaten van verbruik, om een dergelijke proportionele geldboete ten eigen bate op te leggen en te innen. 
+De redenering is identiek ten aanzien van de boete wegens niet-nakoming van de indieningsplicht, waarbij 
+de lidstaat van identificatie een belangrijke rol speelt.Artikel 30Punt 5 van rubriek 
+VIII van afdeling 2 van tabel G van de bijlage bij het koninklijk besluit nr. 41 betreft de sancties 
+die van toepassing zijn in geval van het ten onrechte toepassen of inroepen van de verlegging naar de 
+periodieke btw-aangifte met betrekking tot de bij invoer verschuldigde belasting, zoals bepaald in artikel 
+5, § 3, van koninklijk besluit nr. 7 (de zogenaamde "E.T. 14.000"-vergunningsregeling).De 
+vergunning E.T. 14.000 geeft belastingplichtigen die er houder van zijn de mogelijkheid de betaling van 
+de btw bij invoer te verleggen naar hun periodieke btw-aangiften. Belastingplichtigen die houder zijn 
+van deze vergunning hoeven dus niet langer de bij invoer verschuldigde btw bij de douane voor te financieren 
+op het tijdstip dat de goederen worden ingevoerd.Punt 5, B), 1°,  van rubriek VIII van afdeling 
+2 van tabel G van de bijlage bij het koninklijk besluit nr. 41 voorziet in een geldboete van 50 euro 
+voor het geheel van de overtredingen vastgesteld tijdens eenzelfde controle ingeval van inbreuken met 
+betrekking tot de verleggingsregeling bedoeld in artikel 5, § 3, van het koninklijk besluit nr. 
+7, wanneer de belasting volledig aftrekbaar is. Op dit vlak zijn talrijke inbreuken vastgesteld, waardoor 
+de correcte opvolging van de betrokken handelingen door de administratie in het gedrang wordt gebracht. 
+De bovengenoemde boete van 50 euro is in dit geval te weinig ontradend gebleken, gezien de bedragen die 
+ermee gemoeid zijn.Deze bedragen zullen in de toekomst waarschijnlijk sterk stijgen gezien 
+de ontwikkeling van de elektronische handel en de inwerkingtreding van de nieuwe regels inzake afstandsverkopen 
+van goederen die uit derdelandsgebieden of derde landen worden ingevoerd, in het bijzonder wanneer geen 
+gebruik wordt gemaakt van de bijzondere invoerregelingen van de artikelen 58quinquies van het Wetboek 
+(regeling in het kader van het OSS-systeem die in beginsel leidt tot vrijstelling van btw bij invoer) 
+en 58sexies van het Wetboek (regeling buiten het OSS-systeem waarbij de eindbestemmeling van de goederen 
+de tot voldoening van de btw bij invoer gehouden persoon is).Met het oog op een grotere coherentie 
+met de sancties die op het niveau van de binnenlandse handelingen zijn voorzien, vervangt artikel 30, 
+1°,  van het ontwerp punt 5 van rubriek VIII van afdeling 2 van tabel G van de bijlage bij het koninklijk 
+besluit nr. 41 door te voorzien in een proportionele geldboete van 5 of 10 pct. van de belasting waarvoor 
+de verleggingsregeling onrechtmatig werd toegepast of ingeroepen, afhankelijk van het bedrag van die 
+belasting.Rubriek IX van dezelfde afdeling 2 betreft de boete die van toepassing is op overtredingen 
+met betrekking tot de vrijstellingen, met name inzake invoer.Artikel 58quinquies van het Wetboek 
+voorziet in een facultatieve vereenvoudigingsregeling op grond waarvan de afstandsverkoop van uit derdelandsgebieden 
+of derde landen ingevoerde goederen in zendingen met een intrinsieke waarde van niet meer dan 150 euro 
+wordt belast volgens de modaliteiten van deze bijzondere regeling, terwijl de invoer van de geleverde 
+goederen is vrijgesteld van btw. Deze vrijstelling wordt bedoeld in artikel 40, § 1, 1bis, van 
+het Wetboek, ingevoegd bij de wet van 2 april 2021.Artikel 30, 2°,  van het ontwerp vult bijgevolg 
+het opschrift van rubriek IX van afdeling 2 van tabel G van de bijlage bij het koninklijk besluit nr. 
+41 aan met een verwijzing naar artikel 40, § 1, 1° bis, van het Wetboek, om elke overtreding met 
+betrekking tot deze btw-vrijstelling af te dekken. De boete van 10 pct. van de verschuldigde belasting 
+waarin de aangepaste rubriek voorziet blijft ongewijzigd.Artikel 58sexies, § 3, eerste 
+lid, van het Wetboek bepaalt de verplichtingen van de persoon die de goederen bij de douane aanbrengt 
+met betrekking tot de aangifte van de belasting die verschuldigd is bij invoer in het kader van de door 
+die bepaling bedoelde bijzonder regeling. Deze belasting moet worden opgenomen in een maandelijkse aangifte 
+die uiterlijk op de veertiende dag van de maand die volgt op de maand waarop ze betrekking heeft, wordt 
+ingediend. Deze indiening geschiedt langs elektronische weg, waarbij in de aangifte het totale bedrag 
+van de in de betrokken kalendermaand geïnde belasting wordt vermeld.Het tweede lid van deze 
+bepaling preciseert dat degene die de goederen bij de douane aanbrengt, het totale bedrag van de in de 
+aangifte vermelde belasting moet betalen uiterlijk op de zestiende dag van de maand die volgt op de maand 
+waarop de aangifte betrekking heeft. Deze termijn komt overeen met de maximumtermijn die geldt voor het 
+uitstel van betaling van de verschuldigde douanerechten overeenkomstig artikel 111, lid 6, tweede alinea, 
+van het douanewetboek van de Unie. Artikel 369 novovicies, lid 2, nieuw, van Richtlijn 2006/112/EG bepaalt 
+immers dat de lidstaten eisen dat de uit hoofde van deze regeling verschuldigde btw elke maand verschuldigd 
+is binnen de termijn die voor de betaling van de invoerrechten geldt.Artikel 30, 3°,  van het 
+ontwerp voegt bijgevolg in afdeling 2 van tabel G van de bijlage bij het koninklijk besluit nr. 41 een 
+nieuwe rubriek IXbis in om de boete te voorzien in geval van gehele of gedeeltelijke niet-betaling of 
+niet-tijdige betaling van de verschuldigde btw waarvan de opeisbaarheid blijkt uit de voormelde ingediende 
+aangifte en die nog verschuldigd blijft op de zeventiende dag van de maand die volgt op het tijdvak waarop 
+de aangifte betrekking heeft.Deze boete bedraagt 10 pct. van de verschuldigde belasting.Hoewel 
+de persoon die de goederen bij de douane aanbrengt juridisch niet de primaire btw-schuldenaar is krachtens 
+deze regeling, is hij niettemin de persoon die is aangewezen om deze belasting te betalen, overeenkomstig 
+artikel 58sexies, § 3, tweede lid, van het Wetboek .Artikel 31Artikel 31 van 
+het ontwerp wijzigt het opschrift van rubriek II van afdeling 1 van de bijlage bij het koninklijk besluit 
+nr. 44, om rekening te houden met de aangiften bedoeld in de artikelen 58ter, § 6, en 58quater, 
+§ 6, van het Wetboek, zoals gewijzigd bij de wet van 2 april 2021, en in artikel 58quinquies, 
+§ 6, van het Wetboek, zoals ingevoegd bij dezelfde wet.De barema's van de in deze rubriek 
+vastgestelde geldboeten blijven ongewijzigd.Artikel 32De artikelen 58quater, § 
+8, eerste en derde lid, en 58quinquies, § 8, eerste en derde lid, van het Wetboek bepalen dat 
+de belastingplichtigen die gebruikmaken van de bijzondere regelingen waarin deze bepalingen voorzien 
+en die in België niet gehouden zijn tot de indiening van periodieke btw-aangiften overeenkomstig artikel 
+53, § 1, eerste lid, 2°,  van het Wetboek, hun recht op aftrek in beginsel slechts uitoefenen 
+bij wijze van teruggaaf bedoeld in artikel 76, § 2, van het Wetboek.Overeenkomstig artikel 
+76, § 2, tweede lid, van het Wetboek geschiedt deze teruggaafprocedure voor de belastingplichtigen 
+die niet in België maar in een andere lidstaat gevestigd zijn overeenkomstig de bepalingen inzake teruggaaf 
+van de Richtlijn 2008/9/EG. Deze procedure en de modaliteiten voor deze teruggaaf maken het voorwerp 
+uit van het koninklijk besluit nr. 56.Artikel 32 van het ontwerp vult paragraaf 1, 2°,  van 
+artikel 2, van het koninklijk besluit nr. 56 aan met een bepaling onder c) om te voorzien in een teruggaaf 
+in de gevallen waarin een niet in België maar in een andere lidstaat gevestigde belastingplichtige belastbare 
+handelingen in België verricht waarvoor hij gebruik maakt van één van de bijzondere regelingen bedoeld 
+in titel XII, hoofdstuk 6, afdeling 3 of 4, van de Richtlijn 2006/112/EG. De verwijzing naar de bepalingen 
+van de richtlijn is hier relevant voor zover deze belastingplichtigen die niet in België maar in een 
+andere lidstaat dan België gevestigd zijn, gehouden zijn als lidstaat van identificatie voor die bijzondere 
+regelingen de lidstaat te kiezen waar zij de zetel van hun economische activiteit of een vaste inrichting 
+hebben gevestigd, die per definitie niet België kan zijn krachtens de bepalingen van het koninklijk besluit 
+nr. 56. Deze in de lidstaat van teruggaaf verrichte handelingen waarvoor de belastingplichtige 
+gebruikmaakt van één van de bijzondere regelingen bedoeld in titel XII, hoofdstuk 6, afdeling 3 of 4, 
+van Richtlijn 2006/112/EG, sluiten hem immers niet uit van het recht op teruggaaf van de in die lidstaat 
+van teruggaaf betaalde belastingen waarvoor hij om teruggaaf verzoekt.In dit verband wordt 
+verwezen naar de toelichting bij de invoeging van artikel 9bis in het koninklijk besluit nr. 4 (artikel 
+7 van het ontwerp).Artikel 33Artikel 25 van het koninklijk besluit nr. 56 somt de 
+gegevens op die moeten worden opgenomen in het teruggaafverzoek bedoeld in de teruggaafregeling voorzien 
+in dat koninklijk besluit wanneer België de lidstaat van vestiging van de aanvrager is.Artikel 
+25, § 1, 5°,  van het koninklijk besluit nr. 56 bepaalt dat het teruggaafverzoek onder meer een 
+verklaring van de aanvrager moet bevatten volgens welke hij gedurende het teruggaaftijdvak geen leveringen 
+van goederen of diensten heeft verricht waarvan de plaats voor btw-doeleinden geacht wordt in de lidstaat 
+van teruggaaf te zijn gelegen . Er zijn bepaalde uitzonderingen voorzien op deze regel. Als 
+corrolarium van de wijziging van artikel 2 van voormeld koninklijk besluit, wijzigt artikel 33 van het 
+ontwerp artikel 25, § 1, 5°,  van het koninklijk besluit nr. 56 om een bijkomende uitzondering 
+op deze regel te voorzien, met name leveringen van goederen of diensten waarvoor de belastingplichtige 
+gebruikmaakt van één van de bijzondere regelingen bedoeld in de artikelen 58quater of 58quinquies van 
+het Wetboek.Deze in de lidstaat van teruggaaf verrichte handelingen waarvoor de in België gevestigde 
+belastingplichtige gebruik maakt van één van de bijzondere regelingen bedoeld in artikelen 58quater of 
+58quinquies van het Wetboek, sluiten hem immers niet uit van het recht op teruggaaf van de in die lidstaat 
+van teruggaaf betaalde belastingen waarvoor hij om teruggaaf verzoekt.Artikel 34Artikel 
+34 van het ontwerp stelt de datum van inwerkingtreding van de nieuwe bepalingen vast op 1 juli 2021.In 
+afwijking van deze algemene regel bepaalt artikel 34, tweede lid, van het ontwerp een uitgestelde datum 
+van inwerkingtreding van artikel 27 van het ontwerp, dat artikel 3 van koninklijk besluit nr. 31 vervangt 
+met betrekking tot de regels inzake het vestigen van een zekerheid in hoofde van aansprakelijke vertegenwoordigers, 
+vooraf erkende personen en tussenpersonen. Om de eerste twee bovengenoemde categorieën de tijd te geven 
+zich aan de nieuwe regels op dit gebied aan te passen, is bepaald dat deze nieuwe regels op 1 oktober 
+2021 in werking treden. Dat heeft in het bijzonder betrekking op:- aansprakelijke vertegenwoordigers 
+en vooraf erkende personen die vóór 1 juli 2021 een zekerheid hebben gesteld in een andere vorm dan een 
+borgtocht in speciën, een borgtocht in effecten of een persoonlijke borgstelling van een verzekeringsonderneming, 
+een bank of een private spaarkas die hun activiteiten in België uitoefenen, of die deze zekerheid niet 
+hebben gesteld;- de personen die vanaf 1 juli 2021 zullen optreden als aansprakelijke vertegenwoordigers, 
+vooraf erkende personen of tussenpersonen en die er eveneens toe gehouden zullen zijn om een zekerheid 
+te stellen overeenkomstig artikel 3, nieuw, van het koninklijk besluit nr. 31.Ik heb de eer 
+te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De 
+Minister van Financiën,V. VAN PETEGHEM29 JUNI 2021. - Koninklijk 
+besluit tot wijziging van de koninklijke besluiten nrs. 1, 4, 7, 10, 22, 24, 31, 41, 44 en 56 met betrekking 
+tot de belasting over de toegevoegde waardeFILIP, Koning der Belgen, Aan allen die 
+nu zijn en hierna wezen zullen, Onze Groet.Gelet op de Grondwet, artikel 108; Gelet 
+op het Wetboek van de belasting over de toegevoegde waarde, artikel 15, § 3, vervangen bij de 
+wet van 2 april 2021, artikel 21bis, § 2, 9°,  vijfde lid, ingevoegd bij de wet van 11 februari 
+2019, artikel 52, § 1, vervangen bij de wet van 28 december 1992 en gewijzigd bij het koninklijk 
+besluit van 22 december 1995, bekrachtigd bij de wet van 15 oktober 1998, artikel 54ter, vierde lid, 
+ingevoegd bij de wet van 2 april 2021, artikel 55, § 3, vervangen bij de wet van 7 maart 2002 
+en gewijzigd bij de wet van 20 december 2002, artikel 57, § 5, tweede lid, ingevoegd bij de wet 
+van 28 december 1992, artikel 57, § 7, eerste lid, ingevoegd bij de wet van 28 december 1992, 
+artikel 58ter, § 9, ingevoegd bij de wet van 2 april 2021, artikel 58quater, § 9, ingevoegd 
+bij de wet van 2 april 2021, artikel 58quinquies, § 9, ingevoegd bij de wet van 2 april 2021, 
+artikel 58sexies, § 5, ingevoegd bij de wet van 2 april 2021, artikel 70, § 4, eerste lid, 
+vervangen bij de wet van 22 juni 2012, artikel 76, § 2, tweede lid, ingevoegd bij de wet van 26 
+november 2009 en artikel 84, derde lid, ingevoegd bij de wet van 4 augustus 1986;Gelet op het 
+koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de 
+belasting over de toegevoegde waarde;Gelet op het koninklijk besluit nr. 4 van 29 december 
+1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde;Gelet op 
+het koninklijk besluit nr. 7 van 29 december 1992 met betrekking tot de invoer van goederen voor de toepassing 
+van de belasting over de toegevoegde waarde;Gelet op het koninklijk besluit nr. 10 van 29 december 
+1992 met betrekking tot de uitoefeningsmodaliteiten van de keuzen, bedoeld in de artikelen 15, § 
+2, derde lid, 21bis, § 2, 9°,  vierde lid, 25ter, § 1, tweede lid, 2°,  tweede lid en 44, 
+§ 3, 2°,  d), van het Wetboek van de belasting over de toegevoegde waarde, de aangiften van aanvang, 
+wijziging, stopzetting van activiteit en de voorafgaande kennisgevingen inzake de belasting over de toegevoegde 
+waarde;Gelet op het koninklijk besluit nr. 22 van 15 september 1970 met betrekking tot de bijzondere 
+regeling voor landbouwondernemers inzake belasting over de toegevoegde waarde;Gelet op het 
+koninklijk besluit nr. 24 van 29 december 1992 met betrekking tot de voldoening van de belasting over 
+de toegevoegde waarde;Gelet op het koninklijk besluit nr. 31 van 2 april 2002 met betrekking 
+tot de toepassingsmodaliteiten van de belasting over de toegevoegde waarde ten aanzien van de handelingen 
+verricht door niet in België gevestigde belastingplichtigen;Gelet op het koninklijk besluit 
+nr. 41 van 30 januari 1987 tot vaststelling van het bedrag van de proportionele fiscale geldboeten op 
+het stuk van de belasting over de toegevoegde waarde;Gelet op het koninklijk besluit nr. 44 
+van 9 juli 2012 tot vaststelling van het bedrag van de niet-proportionele fiscale geldboeten op het stuk 
+van de belasting over de toegevoegde waarde;Gelet op het koninklijk besluit nr. 56 van 9 december 
+2009 met betrekking tot de teruggaaf inzake belasting over de toegevoegde waarde aan belastingplichtigen 
+gevestigd in een andere lidstaat dan de lidstaat van teruggaaf;Gelet op het advies van de inspecteur 
+van Financiën, gegeven op 25 mei 2021;Gelet op de akkoordbevinding van de Staatssecretaris 
+voor Begroting, d.d 31 mei 2021;Gelet op het advies nr. 50/2021 van de Gegevensbeschermingsautoriteit, 
+gegeven op 22 april 2021;Gelet op advies nr. 69.432/3 van de Raad van State, gegeven op 21 
+juni 2021 met toepassing van artikel 84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973;Gelet op de impactanalyse van de regelgeving, uitgevoerd overeenkomstig 
+de artikelen 6 en 7 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve 
+vereenvoudiging;Op de voordracht van de minister van Financiën,Hebben Wij besloten 
+en besluiten Wij :Artikel 1. Dit koninklijk besluit voorziet in de gedeeltelijke omzetting 
+van Richtlijn (EU) 2017/2455 van de Raad van 5 december 2017 tot wijziging van Richtlijn 2006/112/EG 
+en Richtlijn 2009/132/EG wat betreft bepaalde btw-verplichtingen voor diensten en afstandsverkopen van 
+goederen.Het koninklijk besluit voorziet eveneens in de gedeeltelijke omzetting van Richtlijn 
+(EU) 2019/1995 van de Raad van 21 november 2019 tot wijziging van Richtlijn 2006/112/EG wat betreft de 
+bepalingen inzake afstandsverkopen en bepaalde binnenlandse leveringen van goederen.Ten slotte 
+voorziet het koninklijk besluit in de gedeeltelijke omzetting van Richtlijn 2006/112/EG van de Raad van 
+28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde.Art. 
+2. Artikel 16, § 1, van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de 
+regeling voor de voldoening van de belasting over de toegevoegde waarde, vervangen bij het koninklijk 
+besluit van 19 december 2012 en gewijzigd bij het koninklijk besluit van 24 januari 2015, wordt vervangen 
+als volgt:"Art. 16. § 1. De in België gevestigde belastingplichtigen die in artikel 
+15, § 2, tweede lid, van het Wetboek bedoelde leveringen van goederen of in artikel 21bis, § 
+2, 9°,  tweede lid, van het Wetboek bedoelde diensten verrichten, delen op elk moment ten behoeve van 
+de ambtenaren van de administratie belast met de belasting over de toegevoegde waarde, per kalenderjaar 
+het totale bedrag mee van hun leveringen van goederen en van hun diensten die in aanmerking komen voor 
+de berekening van de in de artikelen 15, § 2, tweede lid, 3°,  en 21bis, § 2, 9°,  tweede 
+lid, c), van het Wetboek bedoelde drempels.Tenzij ze het voorwerp uitmaken van een factuur, 
+worden de handelingen bedoeld in het eerste lid afzonderlijk ingeschreven in het in artikel 14, § 
+2, eerste lid, 3°,  bedoelde dagboek van ontvangsten, met aanduiding van de aard van de verkochte goederen 
+of diensten, de maatstaf van heffing, het bedrag van de verschuldigde belasting en de lidstaat van aankomst 
+van de verzending of het vervoer van de goederen of die waar de ontvanger is gevestigd of zijn woonplaats 
+of gebruikelijke verblijfplaats heeft.".Art. 3. In artikel 18, § 7, van hetzelfde besluit, 
+vervangen bij het koninklijk besluit van 5 juli 2015, wordt het eerste lid vervangen als volgt:" 
+§ 7. De belastingplichtigen gehouden tot de indiening van de in de artikelen 58ter, § 6, 
+58quater, § 6 en 58quinquies, § 6, van het Wetboek bedoelde aangifte, gebruiken de aangifteformulieren 
+die bestaan uit een elektronisch bericht waarvan de inhoud is bepaald in de artikelen 58ter, § 
+6, tweede en derde lid, 58quater, § 6, tweede tot en met achtste lid en 58quinquies, § 
+6, tweede en derde lid, van het Wetboek. Zij sturen dat bericht naar het elektronisch adres dat te dien 
+einde door de minister van Financiën of zijn gemachtigde werd gecreëerd.".Art. 4. Artikel 26bis 
+van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 15 juli 2003 en vervangen bij het koninklijk 
+besluit van 5 juli 2015, wordt vervangen als volgt:"Art. 26bis. § 1. De in de artikelen 
+58ter en 58quater van het Wetboek bedoelde belastingplichtigen, met uitsluiting van de in artikel 54ter 
+van het Wetboek bedoelde belastingplichtigen, voeren een boekhouding in de vorm van registers van de 
+handelingen die in het kader van deze bijzondere regelingen worden verricht, overeenkomstig paragraaf 
+7 van die bepalingen.In de in het eerste lid bedoelde registers vermeldt de belastingplichtige 
+voor elke handeling de gegevens bedoeld in artikel 63 quater, lid 1, van de Uitvoeringsverordening (EU) 
+nr. 282/2011 van de Raad van 15 maart 2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 
+2006/112/EG betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde. 
+§ 2. De in artikel 58quinquies van het Wetboek bedoelde belastingplichtigen, met uitsluiting van 
+de in artikel 54ter van het Wetboek bedoelde belastingplichtigen, voeren een boekhouding in de vorm van 
+een register van de handelingen die in het kader van deze bijzondere regeling worden verricht overeenkomstig 
+paragraaf 7 van die bepaling.In het in het eerste lid bedoelde register vermeldt de belastingplichtige 
+voor elke handeling de gegevens bedoeld in artikel 63 quater, lid 2, van de Uitvoeringsverordening (EU) 
+nr. 282/2011 van de Raad van 15 maart 2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 
+2006/112/EG betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde.Wanneer 
+een in artikel 58quinquies, § 1, tweede lid, 2°,  van het Wetboek bedoelde tussenpersoon handelt 
+in naam en voor rekening van één of meer belastingplichtigen, houdt hij een dergelijk register bij voor 
+elk van de belastingplichtigen die hij vertegenwoordigt. § 3. De in artikel 58sexies 
+van het Wetboek bedoelde personen voeren een boekhouding in de vorm van een register van de handelingen 
+die in het kader van deze bijzondere regeling worden verricht, overeenkomstig paragraaf 4 van die bepaling.In 
+het in eerste lid bedoelde register neemt de persoon die voor rekening van de persoon voor wie de goederen 
+zijn bestemd de goederen bij de Algemene Administratie van de Douane en Accijnzen aanbrengt, voor elke 
+handeling op:1°  een volgnummer;2°  de datum van invoer of de periode waarin de invoer 
+heeft plaatsgevonden;3°  de naam en het adres van de geadresseerde van de ingevoerde goederen 
+bedoeld in artikel 6 van het koninklijk besluit nr. 7 van 29 december 1992 met betrekking tot de invoer 
+van goederen voor de toepassing van de belasting over de toegevoegde waarde;4°  de omschrijving 
+van de ingevoerde goederen;5°  de vermelding van het toepasselijke tarief, van de maatstaf 
+van heffing en van het bedrag van de verschuldigde belasting voor elk goed in de zending; 6° 
+ in voorkomend geval, de vermelding van de toepasselijke bepaling van de richtlijn of van de overeenkomstige 
+nationale bepaling, of een andere vermelding dat de levering van goederen of de dienstverrichting is 
+vrijgesteld;7°  de intrinsieke waarde van de zending waarin de ingevoerde goederen zich bevinden;8° 
+ in voorkomend geval, de datum waarop de douaneaangifte werd geannuleerd en de bestemming van de goederen 
+die werden opgenomen in die geannuleerde aangifte.Het in het eerste lid bedoelde register wordt 
+op verzoek aan de administratie belast met de belasting over de toegevoegde waarde ter inzage voorgelegd 
+op het elektronische adres aangeduid door de minister van Financiën of zijn gemachtigde.". Art. 
+5. In hetzelfde besluit wordt een artikel 26ter ingevoegd, luidende:"Art. 26ter. § 1. 
+De in artikel 54ter van het Wetboek bedoelde belastingplichtige neemt in de in dat artikel bedoelde registers, 
+voor elke levering waarvoor hij handelt overeenkomstig de voorwaarden van artikel 13bis van het Wetboek 
+en voor elke langs elektronische weg verrichte dienst waarvoor hij handelt overeenkomstig artikel 9 bis 
+van de Uitvoeringsverordening (EU) nr. 282/2011 van de Raad van 15 maart 2011 houdende vaststelling van 
+maatregelen ter uitvoering van Richtlijn 2006/112/EG betreffende het gemeenschappelijke stelsel van belasting 
+over de toegevoegde waarde, de in artikel 63 quater, lid 1 of 2, van de voormelde Uitvoeringsverordening 
+(EU) nr. 282/2011 bedoelde gegevens op, indien hij ervoor gekozen heeft één van de bijzondere regelingen 
+bedoeld in de artikelen 58ter, 58quater en 58quinquies van het Wetboek toe te passen. § 
+2. De in artikel 54ter van het Wetboek bedoelde belastingplichtige neemt in de in dat artikel bedoelde 
+registers, voor elke levering waarvoor hij handelt overeenkomstig de voorwaarden van artikel 13bis van 
+het Wetboek en voor elke langs elektronische weg verrichte dienst waarvoor hij handelt overeenkomstig 
+artikel 9 bis van de Uitvoeringsverordening (EU) nr. 282/2011 van de Raad van 15 maart 2011 houdende 
+vaststelling van maatregelen ter uitvoering van Richtlijn 2006/112/EG betreffende het gemeenschappelijke 
+stelsel van belasting over de toegevoegde waarde de volgende gegevens op, indien hij er niet voor gekozen 
+heeft één van de bijzondere regelingen bedoeld in de artikelen 58ter, 58quater en 58quinquies van het 
+Wetboek toe te passen:1°  de lidstaat van verbruik waar de leveringen van goederen of diensten 
+worden verricht;2°  het soort verrichte dienst of de omschrijving en de hoeveelheid van de 
+geleverde goederen;3°  de datum waarop de levering van de goederen of de dienst is verricht;4° 
+ de maatstaf van heffing met vermelding van de gebruikte munteenheid;5°  latere verhogingen 
+of verlagingen van de maatstaf van heffing;6°  het toegepaste btw-tarief;7°  het 
+verschuldigde btw-bedrag met vermelding van de gebruikte munteenheid;8°  de datum en het bedrag 
+van de ontvangen betalingen;9°  eventuele ontvangen vooruitbetalingen voordat de levering van 
+de goederen of de dienst is verricht;10°  indien een factuur wordt uitgereikt, de op de factuur 
+vermelde gegevens;11°  met betrekking tot diensten, de gegevens om de plaats te bepalen waar 
+de afnemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft, en met betrekking tot 
+goederen, de gegevens om de plaats te bepalen waar de verzending of het vervoer van de goederen naar 
+de afnemer begint en eindigt;12°  enig bewijs van eventueel retourneren van goederen, met inbegrip 
+van de maatstaf van heffing en het toegepaste btw-tarief;13°  het ordernummer of het uniek 
+nummer van de levering van goederen;14°  het uniek verzendingsnummer wanneer die belastingplichtige 
+rechtstreeks betrokken is bij de levering. § 3. De in artikel 54ter van het Wetboek 
+bedoelde belastingplichtige neemt, voor elke andere handeling dan bedoeld in de paragrafen 1 en 2, de 
+in artikel 54 quater, lid 2, van de Uitvoeringsverordening (EU) nr. 282/2011 van de Raad van 15 maart 
+2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 2006/112/EG betreffende het gemeenschappelijke 
+stelsel van belasting over de toegevoegde waarde bedoelde gegevens op. § 4. Elk lid 
+van een btw-eenheid in de zin van artikel 4, § 2, van het Wetboek houdt de in de paragrafen 1 
+tot en met 3 bedoelde registers bij voor de handelingen die hem betreffen. § 5. De in 
+paragrafen 1 tot en met 3 bedoelde registers worden op verzoek langs elektronische weg voorgelegd aan 
+de belastingadministratie van de lidstaten waar de handelingen plaatsvinden.".Art. 6. In artikel 
+9 van het koninklijk besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting 
+over de toegevoegde waarde, vervangen bij het koninklijk besluit van 15 mei 1984 en laatstelijk gewijzigd 
+bij het koninklijk besluit van 5 juli 2015, worden de volgende wijzigingen aangebracht:1°  
+paragraaf 2 wordt vervangen als volgt:" § 2. Wanneer de rechthebbende op teruggaaf een 
+buiten de Gemeenschap gevestigde belastingplichtige is die in België niet voor btw-doeleinden is geïdentificeerd 
+of een niet-belastingplichtige rechtspersoon die niet in België is gevestigd en er geen belastbare handelingen 
+verricht andere dan de intracommunautaire verwerving van nieuwe vervoermiddelen als bedoeld in artikel 
+8bis, § 2, van het Wetboek, moet hij een aanvraag tot teruggaaf indienen bij het KMO Centrum Specifieke 
+Materies. De aanvraag moet bij die ambtenaar toekomen, in drie exemplaren, uiterlijk op 30 september 
+van het kalenderjaar volgend op het tijdvak waarop het teruggaafverzoek betrekking heeft. Op de aanvraag 
+tot teruggaaf wordt niet ingegaan indien zij betrekking heeft op een bedrag van minder dan 50 euro.";2° 
+ paragraaf 3 wordt opgeheven.Art. 7. In hetzelfde besluit wordt een artikel 9bis ingevoegd, 
+luidende: "Art. 9bis. § 1. In afwijking van artikel 9 mag elke belastingplichtige die 
+gebruikmaakt van één van de bijzondere regelingen bedoeld in titel XII, hoofdstuk 6, van de Richtlijn 
+2006/112/EG, met uitsluiting van de belastingplichtigen gehouden tot indiening van de in artikel 53, 
+§ 1, eerste lid, 2°,  van het Wetboek bedoelde aangifte, de belastingen geheven van de aan hem 
+geleverde goederen en verstrekte diensten die verband houden met zijn onder die bijzondere regeling vallende 
+handelingen, recupereren bij wijze van teruggaaf volgens de in dit artikel vastgestelde modaliteiten. 
+§ 2. Wanneer de rechthebbende op de in paragraaf 1 bedoelde teruggaaf in België is gevestigd, 
+dient hij een aanvraag tot teruggaaf in bij de bevoegde dienst van de administratie belast met de belasting 
+over de toegevoegde waarde waaronder hij ressorteert. De aanvraag wordt in twee exemplaren naar deze 
+dienst toegestuurd vóór het verstrijken van het derde kalenderjaar volgend op dat waarin de oorzaak van 
+de teruggaaf zich heeft voorgedaan. Wanneer de rechthebbende op de in paragraaf 1 bedoelde 
+teruggaaf niet in België maar in een andere lidstaat is gevestigd, dient hij een aanvraag tot teruggaaf 
+in overeenkomstig de bepalingen van het koninklijk besluit nr. 56 van 9 december 2009 met betrekking 
+tot de teruggaaf inzake belasting over de toegevoegde waarde aan belastingplichtigen gevestigd in een 
+andere lidstaat dan de lidstaat van teruggaaf.Wanneer de rechthebbende op de in paragraaf 1 
+bedoelde teruggaaf niet in de Gemeenschap is gevestigd, dient hij een aanvraag tot teruggaaf in bij het 
+KMO Centrum Specifieke Materies. De aanvraag wordt in drie exemplaren naar deze dienst toegestuurd uiterlijk 
+op 30 september van het kalenderjaar volgend op het tijdvak waarop het teruggaafverzoek betrekking heeft. 
+Op de aanvraag tot teruggaaf wordt niet ingegaan wanneer zij betrekking heeft op een bedrag van minder 
+dan 50 euro. § 3. De minister van Financiën of zijn gemachtigde bepaalt de vorm van 
+de aanvragen tot teruggaaf, de over te leggen stukken en de modaliteiten van de teruggaven.". Art. 
+8. In artikel 5, § 1, van het koninklijk besluit nr. 7 van 29 december 1992 met betrekking tot 
+de invoer van goederen voor de toepassing van de belasting over de toegevoegde waarde, vervangen bij 
+het koninklijk besluit van 13 juni 2013, worden de woorden "artikel 58sexies van het Wetboek en" ingevoegd 
+tussen de woorden "het bepaalde in" en de woorden "de paragrafen 2 en 3".Art. 9. In artikel 
+6, § 2, van hetzelfde besluit, laatstelijk gewijzigd bij het koninklijk besluit van 20 februari 
+2004, worden de volgende wijzigingen aangebracht:1°  in het eerste lid worden de woorden "of 
+overnemer" telkens opgeheven;2°  in het tweede lid worden de woorden "verkoper of overdrager" 
+telkens vervangen door het woord "leverancier";3°  de paragraaf wordt aangevuld met een lid, 
+luidende:"In afwijking van het eerste en het tweede lid is de geadresseerde: 1°  
+de leverancier voor de invoer van andere goederen dan accijnsproducten, in zendingen met een intrinsieke 
+waarde van meer dan 150 euro, verricht ten behoeve van een afstandsverkoop van uit derdelandsgebieden 
+of derde landen ingevoerde goederen die plaatsvindt in een andere lidstaat dan België;2°  de 
+verkrijger voor de invoer van andere goederen dan accijnsproducten, in zendingen met een intrinsieke 
+waarde van niet meer dan 150 euro, verricht ten behoeve van een afstandsverkoop van uit derdelandsgebieden 
+of derde landen ingevoerde goederen wanneer de persoon die voor rekening van de persoon voor wie de goederen 
+zijn bestemd de goederen bij de Algemene Administratie van de Douane en Accijnzen aanbrengt, gebruikmaakt 
+van de bijzondere regeling bedoeld in artikel 58sexies van het Wetboek; 3°  de leverancier 
+voor de invoer van andere goederen dan accijnsproducten, in zendingen met een intrinsieke waarde van 
+niet meer dan 150 euro, verricht voor een afstandsverkoop van uit derdelandsgebieden of derde landen 
+ingevoerde goederen wanneer de persoon die voor rekening van de persoon voor wie de goederen zijn bestemd 
+de goederen bij de Algemene Administratie van de Douane en Accijnzen aanbrengt geen gebruikmaakt van 
+de bijzondere regeling bedoeld in artikel 58sexies van het Wetboek en wanneer de bijzondere regeling 
+bedoeld in artikel 58quinquies van het Wetboek niet wordt toegepast.".Art. 10. Artikel 7, § 
+1, van hetzelfde besluit, laatstelijk gewijzigd bij het koninklijk besluit van 24 januari 2015, wordt 
+aangevuld met een lid, luidende:"In de situaties bedoeld in artikel 58sexies van het Wetboek 
+maakt de toepassing van de in die bepaling bedoelde bijzondere regeling het voorwerp uit van een vermelding 
+aangebracht met het elektronisch systeem voor de indiening van douaneaangiften dat de Algemene Administratie 
+van de Douane en Accijnzen gebruikt om aangiften voor het verbruik te aanvaarden.".Art. 11. 
+In artikel 9, § 1, eerste lid, van hetzelfde besluit worden de woorden "in artikel 7, § 
+2" vervangen door de woorden "in artikel 7, § 1, derde lid of § 2".Art. 12. Artikel 
+18 van hetzelfde besluit, vervangen bij het koninklijk besluit van 29 juni 2015, wordt opgeheven.Art. 
+13. In het opschrift van het koninklijk besluit nr. 10 van 29 december 1992 met betrekking tot de uitoefeningsmodaliteiten 
+van de keuzen, bedoeld in de artikelen 15, § 2, derde lid, 21bis, § 2, 9°,  vierde lid, 
+25ter,  § 1, tweede lid, 2°,  tweede lid en 44, § 3, 2°,  d), van het Wetboek van de belasting 
+over de toegevoegde waarde, de aangiften van aanvang, wijziging, stopzetting van activiteit en de voorafgaande 
+kennisgevingen inzake de belasting over de toegevoegde waarde, laatstelijk gewijzigd bij het koninklijk 
+besluit van 7 november 2019, worden de woorden "15, § 2, derde lid" vervangen door de woorden 
+"15, § 2, vierde lid".Art. 14. Artikel 7 van hetzelfde besluit, laatstelijk gewijzigd 
+bij het koninklijk besluit van 28 juni 2019, wordt vervangen als volgt: "Art. 7. § 1. 
+Iedere uitsluitend in België gevestigde belastingplichtige, die gebruikmaakt van de in artikel 58quater 
+van het Wetboek bedoelde bijzondere regeling en die vanuit België intracommunautaire afstandsverkopen 
+van goederen verricht, waarvan het totale bedrag, exclusief btw, samen met het totale bedrag, exclusief 
+btw, van de diensten bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), van het Wetboek, tijdens 
+het voorgaande en lopende kalenderjaar de drempel van 10.000 euro niet heeft overschreden, wordt geacht 
+ervoor te kiezen de plaats van de door hem vanuit België verrichte intracommunautaire afstandsverkopen 
+van goederen te bepalen in de lidstaat van aankomst van de verzending of het vervoer van de goederen. 
+De in het eerste lid bedoelde keuze gaat in: 1°  wanneer de belastingplichtige de 
+bijzondere regeling bedoeld in artikel 58quater nog niet gebruikt: op de dag dat de bijzondere regeling 
+van toepassing is overeenkomstig artikel 57 quinquies van de Uitvoeringsverordening (EU) nr. 282/2011 
+van de Raad van 15 maart 2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 2006/112/EG 
+betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde;2°  wanneer 
+de belastingplichtige de bijzondere regeling bedoeld in artikel 58quater van het Wetboek al gebruikt: 
+vanaf de eerste door de belastingplichtige vanuit België verrichte intracommunautaire afstandsverkoop 
+van goederen of de eerste door de belastingplichtige verrichte dienst bedoeld in artikel 21bis, § 
+2, 9°,  tweede lid, b), van het Wetboek.In de gevallen dat de belastingplichtige die bijzondere 
+regeling al toepast vóór 1 juli 2021, gaat de keuze in op die datum.De in het eerste lid bedoelde 
+keuze geldt tot 31 december van het tweede jaar volgend op de in het tweede of derde lid bedoelde datum. 
+De keuze blijft evenwel van toepassing zolang de belastingplichtige van de in artikel 58quater van het 
+Wetboek bedoelde regeling gebruikmaakt en neemt een einde op de dag dat de belastingplichtige niet langer 
+van de bijzondere regeling gebruikmaakt. Deze keuze geldt eveneens om de plaats van de diensten 
+bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), van het Wetboek te bepalen in de lidstaat 
+waar de ontvanger van de dienst is gevestigd of waar hij zijn woonplaats of gebruikelijke verblijfplaats 
+heeft. § 2. Iedere uitsluitend in België gevestigde belastingplichtige, die geen gebruikmaakt 
+van de in artikel 58quater van het Wetboek bedoelde bijzondere regeling, die vanuit België intracommunautaire 
+afstandsverkopen van goederen verricht, waarvan het totale bedrag, exclusief btw, samen met het totale 
+bedrag, exclusief btw, van de diensten bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), van 
+het Wetboek, tijdens het voorafgaande en het lopende kalenderjaar de drempel van 10.000 euro niet heeft 
+overschreden en die ervoor kiest de plaats van de door hem verrichte intracommunautaire afstandsverkopen 
+te bepalen in de lidstaat van aankomst van de verzending of het vervoer van de goederen, stelt de dienst 
+van de administratie belast met de belasting over de toegevoegde waarde waaronder hij ressorteert bij 
+aangetekende zending van die keuze op de hoogte.Deze zending vermeldt:1°  de naam 
+of de maatschappelijke benaming van de belastingplichtige en het adres van zijn administratieve hoofdzetel 
+of de maatschappelijke zetel alsook het identificatienummer dat hem door de lidstaat van identificatie 
+werd toegekend voor de toepassing van de belasting over de toegevoegde waarde;2°  de lidstaten 
+van aankomst van de verzonden of vervoerde goederen ter bestemming waarvan de belastingplichtige de in 
+het eerste lid bedoelde handelingen verricht;3°  de datum alsook de naam en de hoedanigheid 
+van de ondertekenaar.De overeenkomstig het eerste lid gemaakte keuze gaat in op de datum van 
+de aangetekende zending en geldt tot 31 december van het tweede jaar dat op die datum volgt. Deze 
+keuze geldt eveneens om de plaats van de diensten bedoeld in artikel 21bis, § 2, 9°,  tweede lid, 
+b), van het Wetboek te bepalen in de lidstaat waar de ontvanger is gevestigd of waar hij zijn woonplaats 
+of gebruikelijke verblijfplaats heeft. § 3. De in paragraaf 2 bedoelde belastingplichtige 
+doet aangifte volgens de modaliteiten van de mededeling van de keuze bedoeld in de paragraaf 2, eerste 
+en tweede lid, van de overschrijding van de drempel van 10.000 euro, bedoeld in artikel 15, § 
+2, tweede lid, 3°,  van het Wetboek, vanaf de eerste handeling, in haar geheel beschouwd, waardoor de 
+drempel is overschreden en van de datum vanaf wanneer die overschrijding plaatsvond.De belastingplichtige 
+is evenwel van die verklaring ontslagen wanneer een dergelijke verklaring in de loop van het voorafgaande 
+kalenderjaar werd ingediend of wanneer hij in de loop van één van de twee voorafgaande kalenderjaren 
+of in het lopende kalenderjaar de keuze bedoeld in dit artikel heeft gemaakt.De minister van 
+Financiën of zijn gemachtigde bepaalt de vorm en de manier waarop de verklaring wordt gedaan.".Art. 
+15. Artikel 7ter van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 7 november 2019, wordt 
+vervangen als volgt:"Art. 7ter § 1. Iedere uitsluitend in België gevestigde belastingplichtige, 
+die gebruikmaakt van de in artikel 58quater van het Wetboek bedoelde bijzondere regeling en die in artikel 
+21bis, § 2, 9°,  tweede lid, b), van het Wetboek bedoelde diensten verricht, waarvan het totale 
+bedrag, exclusief btw, samen met het totale bedrag, exclusief btw, van de intracommunautaire afstandsverkopen 
+van goederen vanuit België, in het vorige en lopende kalenderjaar de drempel van 10.000 euro niet heeft 
+overschreden, wordt geacht ervoor te kiezen de plaats van die diensten te bepalen in de lidstaat waar 
+de afnemer van de dienst gevestigd is of waar die zijn woonplaats of gebruikelijke verblijfplaats heeft.De 
+in het eerste lid bedoelde keuze gaat in:1°  wanneer de belastingplichtige de bijzondere regeling 
+bedoeld in artikel 58quater nog niet gebruikt: op de dag dat de bijzondere regeling van toepassing is 
+overeenkomstig artikel 57 quinquies van de Uitvoeringsverordening (EU) nr. 282/2011 van de Raad van 15 
+maart 2011 houdende vaststelling van maatregelen ter uitvoering van Richtlijn 2006/112/EG betreffende 
+het gemeenschappelijke stelsel van belasting over de toegevoegde waarde; 2°  wanneer de belastingplichtige 
+de bijzondere regeling bedoeld in artikel 58quater van het Wetboek al gebruikt: vanaf de eerste door 
+de belastingplichtige verrichte dienst bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), van 
+het Wetboek of de eerste door de belastingplichtige vanuit België verrichte intracommunautaire afstandsverkoop 
+van goederen.In de gevallen dat de belastingplichtige die bijzondere regeling al toepast vóór 
+1 juli 2021, gaat de keuze in op die datum.De in het eerste lid bedoelde keuze geldt tot 31 
+december van het tweede jaar volgend op de in het tweede of derde lid bedoelde datum. De keuze blijft 
+evenwel van toepassing zolang de belastingplichtige van de in artikel 58quater van het Wetboek bedoelde 
+regeling gebruikmaakt en neemt een einde op de dag dat de belastingplichtige niet langer van de bijzondere 
+regeling gebruikmaakt. Deze keuze geldt eveneens om de plaats van de door de belastingplichtige 
+vanuit België verrichte intracommunautaire afstandsverkopen van goederen te bepalen in de lidstaat van 
+aankomst van de verzending of het vervoer van de goederen. § 2. Iedere uitsluitend in 
+België gevestigde belastingplichtige die geen gebruikmaakt van de in artikel 58quater van het Wetboek 
+bedoelde bijzondere regeling, die diensten bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), 
+van het Wetboek verricht, waarvan het totale bedrag, exclusief btw, samen met het totale bedrag, exclusief 
+btw, van de intracommunautaire afstandsverkopen van goederen vanuit België, in het vorige en lopende 
+kalenderjaar de drempel van 10.000 euro niet heeft overschreden en die ervoor kiest de plaats van deze 
+diensten te bepalen in de lidstaat waar de ontvanger van de dienst is gevestigd of waar die zijn woonplaats 
+of gebruikelijke verblijfplaats heeft, stelt de dienst van de administratie belast met de belasting over 
+de toegevoegde waarde waaronder hij ressorteert bij aangetekende zending van die keuze op de hoogte. 
+Deze zending vermeldt:1°  de naam of de maatschappelijke benaming van de belastingplichtige 
+en het adres van zijn administratieve hoofdzetel of maatschappelijke zetel alsook het identificatienummer 
+dat hem werd toegekend voor de toepassing van de belasting over de toegevoegde waarde krachtens artikel 
+50 van het Wetboek;2°  de lidstaat of de lidstaten waar de diensten plaatsvinden overeenkomstig 
+artikel 21bis, § 2, 9°,  eerste lid, van het Wetboek;3°  de datum alsook de naam en 
+de hoedanigheid van de ondertekenaar.De overeenkomstig het eerste lid gemaakte keuze gaat in 
+op de datum van de aangetekende zending en geldt tot 31 december van het tweede jaar dat op die datum 
+volgt. Deze keuze geldt eveneens om de plaats van de door de belastingplichtige verrichte intracommunautaire 
+afstandsverkopen van goederen vanuit België te bepalen in de lidstaat van aankomst van de verzending 
+of het vervoer van de goederen. § 3. De belastingplichtige bedoeld in paragraaf 2 die 
+diensten verricht bedoeld in artikel 21bis, § 2, 9°,  tweede lid, b), van het Wetboek, doet aangifte 
+volgens de modaliteiten van de mededeling van de keuze bedoeld in paragraaf 2, eerste en tweede lid, 
+van de overschrijding van de drempel van 10.000 euro bedoeld in artikel 21bis, § 2, 9°,  tweede 
+lid, c), van het Wetboek, vanaf de eerste handeling, in haar geheel beschouwd, waardoor de drempel is 
+overschreden en van de datum vanaf wanneer die overschrijding plaatsvond.De belastingplichtige 
+is evenwel van die verklaring ontslagen wanneer een dergelijke verklaring in de loop van het voorafgaande 
+kalenderjaar werd ingediend of wanneer hij in de loop van één van de twee voorafgaande kalenderjaren 
+of in het lopende kalenderjaar de keuze bedoeld in dit artikel heeft gemaakt, met inbegrip van de keuze 
+gemaakt krachtens dit artikel in de vóór 1 juli 2021 toepasselijke versie.De minister van Financiën 
+of zijn gemachtigde bepaalt de vorm en de manier waarop de verklaring wordt gedaan.".Art. 16. 
+In artikel 2, § 3, van het koninklijk besluit nr. 22 van 15 september 1970 met betrekking tot 
+de bijzondere regeling voor landbouwondernemers inzake belasting over de toegevoegde waarde, ingevoegd 
+bij het koninklijk besluit van 14 april 1993 en vervangen bij het koninklijk besluit van 30 april 2013, 
+worden de woorden "leveringen van goederen verricht onder de voorwaarden van artikel 15, §§ 
+2 en 3," vervangen door de woorden "intracommunautaire afstandsverkopen van goederen verricht onder de 
+voorwaarden van artikel 15, § 2,". Art. 17. Artikel 4ter van hetzelfde besluit, ingevoegd 
+bij het koninklijk besluit van 14 april 1993 en vervangen bij het koninklijk besluit van 30 april 2013, 
+wordt opgeheven. Art. 18. In artikel 5bis, tweede lid, van hetzelfde besluit, ingevoegd bij 
+het koninklijk besluit van 14 april 1993 en gewijzigd bij het koninklijk besluit van 9 december 2009, 
+worden de woorden "9, §§ 2 en 3," vervangen door de woorden "9, § 2, 9bis". Art. 
+19. In het koninklijk besluit nr. 24 van 29 december 1992 met betrekking tot de voldoening van de belasting 
+over de toegevoegde waarde, laatstelijk gewijzigd door het koninklijk besluit van 9 december 2019, wordt 
+het opschrift van afdeling 1 vervangen als volgt:"Afdeling 1. - Betalingen op de rekeningen 
+van "Btw-Ontvangsten" Brussel, "Inning en Invordering", "Inning NETP" en "Mini One Stop Shop - VAT BE"".Art. 
+20. In afdeling 1 van hetzelfde besluit, wordt het opschrift van onderafdeling 3, ingevoegd bij het koninklijk 
+besluit van 15 juli 2003 en waarvan het opschrift is vervangen bij het koninklijk besluit van 5 juli 
+2015, vervangen als volgt:"Onderafdeling 3. - Betaling op de postrekening "Inning NETP"".Art. 
+21. Artikel 13bis van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 15 juli 2003 en vervangen 
+bij het koninklijk besluit van 5 juli 2015, wordt vervangen als volgt:"Art. 13bis. De betaling 
+van de belasting bedoeld in de artikelen 58ter, § 6, vierde lid, 58quater, § 6, vierde 
+lid en 58quinquies, § 6, vierde lid, van het Wetboek waarvan de opeisbaarheid blijkt uit de aangifte 
+bedoeld in de artikelen 58ter, § 6, 58quater, § 6 en 58quinquies, § 6, van het Wetboek 
+wordt gedaan op de postrekening BE32 6792 0036 3402 van "Inning NETP".De betaling door de schuldenaar 
+van de belasting op de postrekening wordt gedaan door storting of overschrijving met vermelding van de 
+gestructureerde mededeling die hem werd ter kennis gebracht door de administratie. Zij heeft uitwerking 
+op de datum bepaald overeenkomstig artikel 4, § 1.".Art. 22. In afdeling 1 van hetzelfde 
+besluit, wordt het opschrift van onderafdeling 4, ingevoegd bij het koninklijk besluit van 5 juli 2015, 
+vervangen als volgt:"Onderafdeling 4. - Betaling op de postrekening van "Mini One Stop Shop 
+- VAT BE"".Art. 23. Artikel 13ter van hetzelfde besluit, ingevoegd bij het koninklijk besluit 
+van 5 juli 2015, wordt vervangen als volgt:"Art. 13ter. De betaling van de belasting bedoeld 
+in de artikelen 58ter, § 5, derde lid en 58quater, § 5, vierde lid, van het Wetboek waarvan 
+de opeisbaarheid blijkt uit de aangifte bedoeld in de artikelen 58ter, § 5 en 58quater, § 
+5, van het Wetboek, zoals deze bepalingen van toepassing zijn tot en met 30 juni 2021, met betrekking 
+tot een tijdvak voorafgaand aan 1 juli 2021, wordt gedaan op de postrekening BE78 6792 0036 2186 van 
+"Mini One Stop Shop - VAT BE".Wanneer een aangifte bedoeld in de artikelen 58ter, § 
+5 en 58quater, § 5, van het Wetboek, zoals deze bepalingen van toepassing zijn tot en met 30 juni 
+2021, wordt ingediend vanaf 1 juli 2021 en betrekking heeft op een tijdvak dat deze datum voorafgaat, 
+wordt de betaling van de belasting gedaan op de in het eerste lid vermelde postrekening.Wanneer 
+verbeteringen worden aangebracht aan een aangifte met betrekking tot een tijdvak voorafgaand aan 1 juli 
+2021, waardoor belasting aan de Schatkist wordt gestort, wordt de betaling eveneens gedaan op de in het 
+eerste lid daartoe voorziene postrekening.".Art. 24. Artikel 1 van het koninklijk besluit nr. 
+31 van 2 april 2002 met betrekking tot de toepassingsmodaliteiten van de belasting over de toegevoegde 
+waarde ten aanzien van de handelingen verricht door niet in België gevestigde belastingplichtigen, laatstelijk 
+gewijzigd bij het koninklijk besluit van 7 november 2019, wordt vervangen als volgt:"Art. 1. 
+§ 1. De niet in België gevestigde belastingplichtige die overeenkomstig artikel 55, § 1 
+of § 2, van het Wetboek een aansprakelijke vertegenwoordiger laat erkennen, richt een verzoek 
+aan het KMO Centrum Specifieke Materies waarin hij de volledige identiteit vermeldt van de aansprakelijke 
+vertegenwoordiger die hij de administratie belast met de belasting over de toegevoegde waarde ter erkenning 
+voorstelt.Het verzoek wordt ingediend op een formulier dat bij het KMO Centrum Specifieke Materies 
+ter beschikking wordt gesteld van de betrokkenen en waarvan het model wordt bepaald door de minister 
+van Financiën of zijn afgevaardigde.Dit verzoek vergezelt de aangifte van aanvang van werkzaamheid 
+voorgeschreven door artikel 53, § 1, eerste lid, 1°,  van het Wetboek, tenminste indien de niet 
+in België gevestigde belastingplichtige niet reeds in België voor btw-doeleinden zou zijn geïdentificeerd.Het 
+KMO Centrum Specifieke Materies geeft de niet in België gevestigde belastingplichtige en de aansprakelijke 
+vertegenwoordiger kennis van de erkenning. Tegelijkertijd, in de mate waarin de belastingplichtige niet 
+reeds voor btw-doeleinden is geïdentificeerd in België, deelt het KMO Centrum Specifieke Materies hem, 
+evenals aan zijn aansprakelijke vertegenwoordiger, ook het identificatienummer voor de belasting over 
+de toegevoegde waarde mee dat hem is toegekend.  § 2. Wanneer een niet in België gevestigde 
+belastingplichtige aan wie een identificatienummer is toegekend, de erkenning van zijn aansprakelijke 
+vertegenwoordiger wil schrappen maar zijn werkzaamheid hier te lande voortzet, of zijn aansprakelijke 
+vertegenwoordiger wil vervangen door een andere, doet hij daarvan aangifte bij het KMO Centrum Specifieke 
+Materies.De aansprakelijkheid van de aansprakelijke vertegenwoordiger wiens erkenning is ingetrokken 
+of die wordt vervangen, is onder die omstandigheden beperkt tot de handelingen verricht door de niet 
+in België gevestigde belastingplichtige tot de datum van aanvaarding door de administratie van het verzoek 
+dat het voorwerp uitmaakt van die aangifte.".Art. 25. In artikel 2, § 2, van hetzelfde 
+besluit worden de woorden "Centraal btw-kantoor voor buitenlandse belastingplichtigen" telkens vervangen 
+door de woorden "KMO Centrum Specifieke Materies".Art. 26. In hetzelfde besluit wordt een artikel 
+2bis ingevoegd, luidende:"Art. 2bis. Voorafgaand aan zijn identificatie, verkrijgt de tussenpersoon 
+bedoeld in artikel 58quinquies, § 3, eerste lid, van het Wetboek, op basis van de aangifte bedoeld 
+in deze bepaling een erkenning van het KMO Centrum Specifieke Materies.Het KMO Centrum Specifieke 
+Materies geeft de in het eerste lid bedoelde tussenpersoon kennis van de erkenning en deelt hem tegelijkertijd 
+het identificatienummer voor de belasting over de toegevoegde waarde mee dat hem is toegekend, alsook 
+het nummer dat is toegekend aan de belastingplichtige of belastingplichtigen voor wie hij is aangesteld, 
+overeenkomstig artikel 58quinquies, § 4, tweede en derde lid, van het Wetboek.".Art. 
+27. Artikel 3 van hetzelfde besluit, gewijzigd door het koninklijk besluit van 17 maart 2019, wordt vervangen 
+als volgt:"Art. 3. § 1. De in artikel 1 bedoelde aansprakelijke vertegenwoordiger of 
+de in artikel 2 bedoelde vooraf erkende persoon is bekwaam om contracten aan te gaan, is in België gevestigd 
+en aanvaardt de belastingplichtige te vertegenwoordigen. De in artikel 2bis bedoelde tussenpersoon 
+is bekwaam om contracten aan te gaan, is in België gevestigd en aanvaardt om in naam en voor rekening 
+van de belastingplichtige de verplichtingen na te komen waarin de in artikel 58quinquies van het Wetboek 
+bedoelde bijzondere regeling voorziet. § 2. Tot waarborg van de invordering van alle 
+bedragen die respectievelijk ten laste van de vertegenwoordigde belastingplichtige(n) of van de tussenpersoon 
+opeisbaar zouden kunnen worden aan belastingen, geldboeten, nalatigheidsinteresten en kosten, wordt een 
+zekerheid gevraagd.De zekerheid kan bestaan uit een borgtocht in speciën, een borgtocht in 
+effecten of een persoonlijke borgstelling van een verzekeringsonderneming, van een bank of een private 
+spaarkas die hun activiteiten in België mogen uitoefenen. § 3. Het bedrag van de zekerheid 
+bedoeld in paragraaf 2 wordt vastgesteld op tien pct. van het saldo van de verschuldigde belasting voor 
+een periode van twaalf kalendermaanden dat voortvloeit uit de in artikelen 53, § 1, eerste lid, 
+2°,  58ter, § 6, 58quater, § 6 en 58quinquies, § 6, van het Wetboek bedoelde aangiften 
+die zijn ingediend tijdens het voorafgaande kalenderjaar:1°  door de niet in België gevestigde 
+belastingplichtige wat de aansprakelijke vertegenwoordiger bedoeld in artikel 1 betreft;2° 
+ voor het geheel van de vertegenwoordigde belastingplichtigen wat de vooraf erkende persoon bedoeld in 
+artikel 2 betreft;3°  door de tussenpersoon bedoeld in artikel 2bis wat die tussenpersoon betreft.Wanneer 
+een dergelijke referentie naar de in het eerste lid bedoelde verschuldigde belasting ontbreekt, wordt 
+het bedrag van de zekerheid door de administratie voorlopig vastgesteld op basis van de ramingen van 
+de aansprakelijk vertegenwoordiger, van de vooraf erkende persoon of van de tussenpersoon. Ze wordt definitief 
+vastgesteld ten laatste op 30 april van het daaropvolgende jaar overeenkomstig de modaliteiten bedoeld 
+in het eerste lid.Wanneer een vooraf erkende persoon beschikt over twee globale nummers, wordt 
+het bedrag van de zekerheid volgens de in het eerste en tweede lid bedoelde toepassingsmodaliteiten bepaald 
+voor het geheel van de verrichte handelingen onder de twee nummers en kan het zonder onderscheid, geheel 
+of gedeeltelijk, worden gebruikt om de invordering te waarborgen van de verschuldigde bedragen voor de 
+handelingen verricht onder het ene of het andere van deze twee nummers.Het bedrag van de overeenkomstig 
+het eerste tot derde lid vastgestelde zekerheid mag niet lager zijn dan 7.500 euro en niet hoger dan 
+een miljoen euro. Het bedrag van de zekerheid wordt vastgesteld voor een periode die eindigt 
+op 31 december van het tweede jaar dat volgt op het jaar waarin de zekerheid werd vastgesteld. 
+§ 4. De in artikel 1 bedoelde aansprakelijke vertegenwoordiger, de in artikel 2 bedoelde vooraf 
+erkende persoon of de in artikel 2bis bedoelde tussenpersoon kan aan het einde van de in paragraaf 3, 
+vijfde lid, bedoelde periode om een herziening verzoeken van het bedrag van de zekerheid, in functie 
+van het saldo van de verschuldigde belasting bedoeld in paragraaf 3, eerste lid, wanneer het vastgestelde 
+verschil in dat saldo een verlaging van het bedrag van die zekerheid met zich meebrengt.De 
+administratie herziet het bedrag van deze zekerheid aan het einde van de in paragraaf 3, vijfde lid, 
+bedoelde periode, in functie van het saldo van de verschuldigde belasting bedoeld in paragraaf 3, eerste 
+lid, wanneer het vastgestelde verschil in dat saldo een verhoging van het bedrag van deze zekerheid met 
+zich meebrengt.Het bedrag van de zekerheid wordt niet herzien wanneer het verschil tussen de 
+in aanmerking te nemen bedragen minder dan 10 pct. bedraagt.".Art. 28. Artikel 7 van hetzelfde 
+besluit, laatstelijk gewijzigd bij het koninklijk besluit van 22 maart 2010, wordt vervangen als volgt:"Art. 
+7. § 1. De niet in de Gemeenschap gevestigde belastingplichtige die in België niet voor btw-doeleinden 
+dient te worden geïdentificeerd overeenkomstig artikel 50, § 1, eerste lid, 3°,  a), van het Wetboek, 
+kan teruggaaf verkrijgen van de belasting geheven van de hem geleverde goederen, van de hem verstrekte 
+diensten en van de door hem verrichte invoeren in het binnenland, mits een aanvraag tot teruggaaf wordt 
+ingediend bij het KMO Centrum Specifieke Materies. Hij kan evenwel geen teruggaaf verkrijgen van de belasting 
+geheven van de handelingen die hij heeft verricht of die hem werden verstrekt in het binnenland onder 
+het btw-identificatienummer dat overeenkomstig artikel 50, § 3, van het Wetboek, werd toegekend 
+aan een vooraf erkende persoon bedoeld in artikel 2, § 1.  § 2. Iedere niet in 
+de Gemeenschap gevestigde belastingplichtige die in België voor btw-doeleinden is geïdentificeerd overeenkomstig 
+artikel 50, § 1, eerste lid, 3°,  a), van het Wetboek ingevolge het feit dat hij gebruikmaakt 
+van de bijzondere regeling bedoeld in artikel 58quater van het Wetboek, kan teruggaaf verkrijgen van 
+de belasting geheven van de aan hem geleverde goederen, van de hem verstrekte diensten en van de door 
+hem verrichte invoeren in het binnenland, mits een aanvraag tot teruggaaf wordt ingediend bij het KMO 
+Centrum Specifieke Materies. § 3. De aanvraag wordt in drie exemplaren naar de in de 
+paragrafen 1 en 2 bedoelde dienst toegestuurd, uiterlijk op 30 september van het kalenderjaar volgend 
+op het tijdvak waarop het teruggaafverzoek betrekking heeft.De minister van Financiën of zijn 
+gemachtigde bepaalt de vorm van de aanvraag tot teruggaaf, de over te leggen stukken en de modaliteiten 
+van de teruggaaf. § 4. De teruggaaf geschiedt rekening houdend met de bankgegevens vermeld 
+in de aanvraag bedoeld in de paragrafen 1 en 2. De bankkosten voor de verrichting van de teruggaaf worden 
+in voorkomend geval in mindering gebracht van het voor teruggaaf vatbare bedrag.De teruggaaf 
+die niet kan worden uitgevoerd op de in het eerste lid beschreven wijze, geschiedt door middel van een 
+postassignatie gesteld op naam van de rechthebbende op teruggaaf. § 5. Op de aanvraag 
+tot teruggaaf wordt niet ingegaan indien zij betrekking heeft op een bedrag van minder dan 50 euro.".Art. 
+29. In afdeling 1 van tabel G van de bijlage bij het koninklijk besluit nr. 41 van 30 januari 1987 tot 
+vaststelling van het bedrag van de proportionele fiscale geldboeten op het stuk van de belasting over 
+de toegevoegde waarde, ingevoegd bij het koninklijk besluit van 21 oktober 1993 en laatstelijk gewijzigd 
+bij het koninklijk besluit van 29 maart 2021, wordt het opschrift van rubriek Ibis vervangen als volgt:"Ibis. 
+Gehele of gedeeltelijke niet-betaling of niet-tijdige betaling van de verschuldigde belasting waarvan 
+de opeisbaarheid blijkt uit de ingediende aangifte bedoeld in de artikelen 58ter, § 6, 58quater, 
+§ 6 en 58quinquies, § 6, van het Wetboek die nog verschuldigd blijft de tiende dag van 
+de tweede maand die volgt op het kalenderkwartaal waarvoor de voormelde aangifte werd ingediend.".Art. 
+30. In afdeling 2 van tabel G van de bijlage bij hetzelfde besluit, ingevoegd bij het koninklijk besluit 
+van 21 oktober 1993 en laatstelijk gewijzigd bij het koninklijk besluit van 17 maart 2019, worden de 
+volgende wijzigingen aangebracht: 1°  in rubriek VIII, wordt het vijfde punt vervangen als 
+volgt:"5. Inbreuken in verband met het onrechtmatig toepassen of inroepen van de verleggingsregeling 
+bedoeld in artikel 5, § 3, van het koninklijk besluit nr. 7 van 29 december 1992 met betrekking 
+tot de invoer van goederen voor de toepassing van de belasting over de toegevoegde waarde.  
+ 
+ Le montant des taxes dues pour une période contrôlée 
+d'un an (10) est : 
+ 
+ Het bedrag van de verschuldigde belasting voor een gecontroleerde periode 
+van één jaar (10) is: 5 p.c. de la taxe pour laquelle le report a été appliqué ou utilisé 
+à tort - inférieur ou égal à 1.250 EUR 5 pct. van de belasting waarvoor de verleggingsregeling 
+onrechtmatig werd toegepast of ingeroepen - minder dan of gelijk aan 1.250 EUR 10 
+p.c. de la taxe pour laquelle le report a été appliqué ou utilisé à tort"; - supérieur à 1.250 EUR 
+10 pct. van de belasting waarvoor de verleggingsregeling onrechtmatig werd toegepast of ingeroepen"; 
+- meer dan 1.250 EUR 
+ 
+ (10) Lorsque la période contrôlée est inférieure ou supérieure 
+à un an, le montant de 1.250 EUR est diminué ou augmenté proportionnellement.
+ 
+ (10) Indien de controleperiode 
+korter of langer is dan één jaar wordt het bedrag van 1.250 EUR proportioneel verminderd of verhoogd.
+ 2°  het opschrift van rubriek IX wordt vervangen als volgt:"IX. Overtredingen 
+met betrekking tot de vrijstellingen bedoeld in artikel 40, § 1, 1°,  1° bis en 2°,  en § 
+4, van het Wetboek";3°  een rubriek IXbis wordt ingevoegd, luidende:
+ "IXbis. Défaut de paiement, en tout ou en partie, ou paiement tardif 
+des taxes dues dont l'exigibilité résulte du dépôt de la déclaration visée à l'articles 58sexies, § 
+3, du Code et qui restent dues au dix-septième jour du mois qui suit la période à laquelle la déclaration 
+se rapporte. 10 p.c. de la taxe due". "IXbis. Gehele of gedeeltelijke niet-betaling of niet-tijdige 
+betaling van de verschuldigde belasting waarvan de opeisbaarheid blijkt uit de ingediende aangifte bedoeld 
+in artikel 58sexies, § 3, van het Wetboek en die nog verschuldigd blijft op de zeventiende dag 
+van de maand die volgt op het tijdvak waarop de aangifte betrekking heeft. 10 pct. van de verschuldigde 
+belasting".  Art. 31. In afdeling 1 van de bijlage bij het koninklijk besluit 
+nr. 44 van 9 juli 2012 tot vaststelling van het bedrag van de niet-proportionele fiscale geldboeten op 
+het stuk van de belasting over de toegevoegde waarde, laatstelijk gewijzigd bij het koninklijk besluit 
+van 11 december 2019, wordt het opschrift van rubriek II vervangen als volgt:"II. Aangiften 
+bedoeld in de artikelen 53ter, 1°,  58ter, § 6, 58quater, § 6, en 58quinquies, § 
+6, van het Wetboek en in artikel 18, § 7, tweede lid, van het koninklijk besluit nr. 1 en artikel 
+2, eerste lid, van het koninklijk besluit nr. 14".Art. 32. Artikel 2, § 1, 2°,  van 
+het koninklijk besluit nr. 56 van 9 december 2009 met betrekking tot de teruggaaf inzake belasting over 
+de toegevoegde waarde aan belastingplichtigen gevestigd in een andere lidstaat dan de lidstaat van teruggaaf 
+wordt aangevuld met de bepaling onder c), luidende:"c) leveringen van goederen of diensten 
+waarvoor de belastingplichtige gebruikmaakt van de bijzondere regeling bedoeld in titel XII, hoofdstuk 
+6, afdeling 3 of 4, van de Richtlijn 2006/112/EG.".Art. 33. Artikel 25, § 1, 5°,  van 
+hetzelfde besluit, wordt aangevuld met de bepaling onder c), luidende:"c) leveringen van goederen 
+of diensten waarvoor de belastingplichtige gebruikmaakt van één van de bijzondere regelingen bedoeld 
+in de artikelen 58quater of 58quinquies van het Wetboek;".Art. 34. Dit besluit treedt in werking 
+op 1 juli 2021.In afwijking van het eerste lid treedt artikel 27 van het huidige besluit in 
+werking op 1 oktober 2021.Art. 35. De minister bevoegd voor Financiën is belast met de uitvoering 
+van dit besluit.Brussel, 29 juni 2021.FILIPVan Koningswege :De 
+Minister van Financiën,V. VAN PETEGHEM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042537
+

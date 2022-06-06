@@ -1,0 +1,726 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/02/17/2022040357/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022040357
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 17 FEBRUARI 2022. - Koninklijk besluit houdende wijziging van het koninklijk besluit van 28 oktober 2021 houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie te voorkomen of te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het 
+koninklijk besluit van 17 februari 2022 houdende wijziging van het koninklijk besluit van 28 oktober 
+2021 houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid 
+van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie te voorkomen 
+of te beperken (Belgisch Staatsblad van 17 februari 2022).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST INNERES17. FEBRUAR 2022 - Königlicher Erlass zur Abänderung des Königlichen Erlasses 
+vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die erforderlich sind, um die 
+Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19 
+für die Volksgesundheit zu verhindern oder einzuschränkenPHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund der Verfassung, des Artikels 108;Aufgrund 
+des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation, 
+der Artikel 4 § 1 Absatz 1, 5 § 1 und 6;Aufgrund des Gesetzes vom 10. November 
+2021 zur Bestätigung des Königlichen Erlasses vom 28. Oktober 2021 zur Ausrufung der epidemischen Notsituation 
+in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund des Gesetzes vom 11. Februar 2022 
+zur Bestätigung des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung der Aufrechterhaltung der 
+epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund des Königlichen 
+Erlasses vom 28. Oktober 2021 zur Ausrufung der epidemischen Notsituation in Bezug auf die Pandemie des 
+Coronavirus COVID-19;Aufgrund des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung der 
+Aufrechterhaltung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund 
+des Königlichen Erlasses vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die 
+erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie 
+des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken;Aufgrund 
+der Konzertierung vom 10. Februar 2022, wie in Artikel 4 § 1 Absatz 1 des Gesetzes vom 14. August 
+2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation erwähnt;Aufgrund 
+der Konzertierung vom 11. Februar 2022 im Konzertierungsausschuss;Aufgrund der Befreiung von 
+der Auswirkungsanalyse, die in Artikel 8 § 2 Nr. 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung 
+verschiedener Bestimmungen in Sachen administrative Vereinfachung erwähnt ist;Aufgrund der 
+Stellungnahme des Finanzinspektors vom 16. Februar 2022;Aufgrund des Einverständnisses des 
+Staatssekretärs für Haushalt vom 16. Februar 2022;Aufgrund der am 17. Februar 2022 abgegebenen 
+Stellungnahme der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 
+koordinierten Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit;In 
+der Erwägung, dass es nicht möglich ist, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb 
+einer verkürzten Frist von fünf Werktagen (die auf acht Werktage ausgeweitet werden kann, wenn der Begutachtungsantrag 
+der Generalversammlung vorgelegt wird, was in der Praxis eine Frist von etwa zwei Wochen bedeutet) abzuwarten, 
+insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, die sich auf die sich stark entwickelnden 
+epidemiologischen Ergebnisse stützen, wobei die jüngsten Ergebnisse die auf der Sitzung des Konzertierungsausschusses 
+vom 11. Februar 2022 beschlossenen Maßnahmen gerechtfertigt haben; dass die in Artikel 2 Nr. 3 
+des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation 
+erwähnten Bedingungen immer noch erfüllt sind und daher die epidemische Notsituation ausgerufen und anschließend 
+aufrechterhalten worden ist; dass die Maßnahmen, die ein zusammenhängendes Ganzes bilden, eine 
+erhebliche Auswirkung auf die Rechte und Freiheiten haben und dass es daher wichtig ist, dass diejenigen, 
+die angesichts der epidemiologischen Umstände nicht mehr gerechtfertigt sind, nicht länger als nötig 
+aufrechterhalten werden; dass die meisten Maßnahmen bereits am 18. Februar 2022 in Kraft treten;In 
+Erwägung der Europäischen Konvention zum Schutz der Menschenrechte und Grundfreiheiten, des Artikels 
+2, der das Recht auf Leben schützt;In Erwägung des Vertrags über die Arbeitsweise der Europäischen 
+Union, des Artikels 191, in dem das Prinzip der Vorsorge im Rahmen der Bewältigung einer internationalen 
+Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen Krisenfall verankert ist; dass dieses 
+Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich 
+eintreten wird, dringende und vorläufige Schutzmaßnahmen ergreifen müssen;In Erwägung 
+des Artikels 6 Absatz 1 Buchstabe c) und e) der Verordnung (EU) 2016/679 des Europäischen Parlaments 
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener 
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In Erwägung der Verfassung, 
+des Artikels 23;In Erwägung der Empfehlung (EU) 2020/1475 des Rates vom 13. Oktober 2020 für 
+eine koordinierte Vorgehensweise bei der Beschränkung der Freizügigkeit aufgrund der COVID-19-Pandemie;In 
+Erwägung der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht 
+unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung dieser Beschränkung;In Erwägung 
+der Empfehlung des Rates vom 21. Januar 2021 für einen einheitlichen Rahmen für den Einsatz und die Validierung 
+von Antigen-Schnelltests und die gegenseitige Anerkennung der Ergebnisse von COVID-19-Tests in der EU;In 
+Erwägung der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über 
+einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung 
+von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat 
+der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie;In 
+Erwägung der Verordnung (EU) 2021/954 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über 
+einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung 
+von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat 
+der EU) für Drittstaatsangehörige mit rechtmäßigem Aufenthalt oder Wohnsitz im Hoheitsgebiet der 
+Mitgliedstaaten während der COVID-19-Pandemie;In Erwägung der delegierten Verordnung (EU) 2021/2288 
+der Kommission vom 21. Dezember 2021 zur Änderung des Anhangs der Verordnung (EU) 2021/953 des Europäischen 
+Parlaments und des Rates hinsichtlich des Anerkennungszeitraums von Impfzertifikaten, die im Format des 
+digitalen COVID-Zertifikats der EU ausgestellt werden und den Abschluss der ersten Impfserie bescheinigen;In 
+Erwägung der Empfehlung (EU) 2022/107 des Rates vom 25. Januar 2022 für eine koordinierte Vorgehensweise 
+zur Erleichterung der sicheren Ausübung der Freizügigkeit während der COVID-19-Pandemie und zur Ersetzung 
+der Empfehlung (EU) 2020/1475;In Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 
+zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen 
+Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame Verarbeitung von 
+Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von den zuständigen Agenturen 
+bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams im Rahmen einer Kontaktermittlung 
+bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen auf der Grundlage einer Datenbank 
+bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens 
+vom 25. August 2020;In Erwägung des Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem 
+Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen Gemeinschaft 
+und der Gemeinsamen Gemeinschaftskommission über die Übermittlung notwendiger Daten an die föderierten 
+Teilgebiete, die lokalen Behörden oder die Polizeidienste zur Durchsetzung der verpflichteten Quarantäne 
+oder der verpflichteten Tests von Reisenden aus dem Ausland, die bei ihrer Ankunft in Belgien einer verpflichteten 
+Quarantäne oder Untersuchung unterliegen;In Erwägung des Gesetzes vom 8. April 2021 zur Billigung 
+des vorerwähnten Zusammenarbeitsabkommens vom 24. März 2021;In Erwägung des Zusammenarbeitsabkommens 
+vom 31. Mai 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, 
+der Wallonischen Region und der Gemeinsamen Gemeinschaftskommission über besondere Verarbeitungen personenbezogener 
+Daten zur Rückverfolgung und Untersuchung von Clustern und Personengemeinschaften, zur Durchsetzung der 
+Quarantäne- und Testpflicht sowie zur Überwachung der Einhaltung von Maßnahmen zur Eindämmung der 
+Ausbreitung des Coronavirus COVID-19 am Arbeitsplatz durch die zuständigen Sozialinspektoren;In 
+Erwägung des Gesetzes vom 20. Juni 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 31. 
+Mai 2021;In Erwägung des Zusammenarbeitsabkommens vom 14. Juli 2021 zwischen dem Föderalstaat, 
+der Flämischen Gemeinschaft, der Französischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der 
+Gemeinsamen Gemeinschaftskommission, der Wallonischen Region und der Französischen Gemeinschaftskommission 
+über die Verarbeitung von Daten im Zusammenhang mit dem digitalen EU-COVID-Zertifikat, dem COVID Safe 
+Ticket, dem PLF und der Verarbeitung personenbezogener Daten von Lohnempfängern und Selbständigen, die 
+im Ausland leben oder wohnen und in Belgien Tätigkeiten ausüben;In Erwägung des Gesetzes vom 
+20. Juli 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 14. Juli 2021;In 
+Erwägung des Königlichen Erlasses vom 31. Januar 2003 zur Festlegung des Noteinsatzplans für Krisenereignisse 
+und Krisensituationen, die eine Koordination oder eine Bewältigung auf nationaler Ebene erfordern;In 
+Erwägung des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von 
+Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der 
+föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus 
+COVID-19;In Erwägung der Protokolle, die von den zuständigen Ministern in Konzertierung mit 
+den betreffenden Sektoren bestimmt werden;In Erwägung der Erklärung der WHO in Bezug auf die 
+Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In 
+Erwägung der am 11. März 2020 von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In 
+der Erwägung, dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 
+ausgerufen hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In 
+Erwägung der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich 
+gemacht hat, dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen 
+der Epidemie führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In 
+Erwägung der Erklärung des Regionaldirektors der WHO für Europa vom 15. Oktober 2020, in der er insbesondere 
+darauf hingewiesen hat, dass die Übertragung und die Übertragungsquellen in den Häusern, an geschlossenen 
+öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen nicht korrekt befolgen, stattfinden 
+beziehungsweise zu finden sind;In Erwägung der Erklärung des Regionaldirektors der WHO für 
+Europa vom 29. April 2021, in der darauf hingewiesen wird, dass die von Einzelnen und der Gesellschaft 
+als Ganzes ergriffenen Gesundheitsmaßnahmen weiterhin die dominanten Faktoren sind, die die Entwicklung 
+der Pandemie bestimmen; dass wir uns bewusst sein müssen, dass Impfstoffe allein die Pandemie nicht beenden 
+werden; dass es im Kontext der Pandemie eine Kombination aus Impfstoffen und energischen Gesundheitsmaßnahmen 
+ist, die uns den deutlichsten Pfad zurück zur Normalität weisen;In Erwägung der Erklärung des 
+Regionaldirektors der WHO für Europa vom 1. Juli 2021, in der betont wird, dass aufgrund des Auftretens 
+neuer Varianten - insbesondere der besorgniserregenden Delta-Variante -, einer immer noch unzureichenden 
+Impfabdeckung und der Zunahme der Reisen die Gefahr einer neuen Ansteckungswelle in der europäischen 
+Region besteht; dass daher an die Verantwortung der Bürger, Urlauber und Reisenden appelliert wird, insbesondere 
+hinsichtlich der Notwendigkeit, sich impfen zu lassen;In Erwägung der Erklärung des Regionaldirektors 
+der WHO für Europa vom 30. August 2021, in der betont wird, dass das Vorhandensein der ansteckenderen 
+Delta-Variante, die Lockerung der Hygienemaßnahmen und die Zunahme der Reisen zu einem Anstieg 
+der Zahl der Infektionen geführt haben; dass dies mit einem zunehmenden Druck auf die Krankenhäuser und 
+einem Anstieg der Zahl der Todesfälle einhergeht; dass es daher wichtig ist, die verschiedenen Schutzmaßnahmen, 
+insbesondere Impfungen und Masken, entschlossen aufrechtzuerhalten;In Erwägung der Erklärung 
+des Regionaldirektors der WHO für Europa vom 4. November 2021, in der darauf hingewiesen wird, dass Europa 
+wieder Epizentrum der Pandemie ist und die beobachteten rapide ansteigenden Fallzahlen je nach Regionen 
+sich durch eine unzureichende Impfabdeckung und die Lockerung gesundheitlicher und sozialer Maßnahmen 
+erklären;In Erwägung der Veröffentlichung der WHO Europa vom 25. November 2021, nach der gesundheitliche 
+und soziale Maßnahmen ein normales Leben ermöglichen, während das COVID-19-Coronavirus unter Kontrolle 
+gehalten wird und umfangreiche und schädigende Lockdown-Maßnahmen vermieden werden; dass eine zunehmende 
+Anzahl von Studien die Wirkung einer Reihe von Präventionsmaßnahmen wie regelmäßiges Händewaschen, 
+körperliche Distanzwahrung, Tragen von Masken und Belüftung belegt und dass jede dieser Maßnahmen 
+als solche wichtig ist, dass aber in Kombination mit anderen Maßnahmen, insbesondere Impfungen, 
+ihre Wirkung vervielfacht wird;In Erwägung der einleitenden Rede des Generaldirektors der WHO 
+vom 30. November 2021, in der darauf hingewiesen wurde, dass das Auftreten jeder neuen Variante unsere 
+Aufmerksamkeit erfordern sollte, insbesondere der Omikron-Variante; dass wir dem Virus umso mehr Gelegenheit 
+geben, in einer Weise zu mutieren, die wir weder vorhersagen noch der wir vorbeugen können, je länger 
+wir die Pandemie andauern lassen, indem wir die gesundheitlichen und sozialen Maßnahmen nicht angemessen 
+und kohärent umsetzen;In Erwägung der Erklärung des Regionaldirektors der WHO für Europa vom 
+7. Dezember 2021, in der betont wird, dass sich die tägliche Zahl der Todesfälle in der Europäischen 
+Region seit September 2021 verdoppelt hat und dass die höchsten Melderaten für Infektionen auf die Altersgruppe 
+der 5- bis 14-Jährigen entfallen; dass jedoch festgestellt wird, dass die Sterblichkeitsraten infolge 
+der Impfung der Bevölkerung verhältnismäßig niedriger sind als die bisherigen Höchstwerte; dass 
+dazu aufgefordert wird, von einem reaktiven Ansatz zu einer Stabilisierung der derzeitigen Krise durch 
+die Einführung von Maßnahmen wie der Fortsetzung der Impfung, dem Tragen von Masken und der Belüftung 
+überfüllter Räumlichkeiten überzugehen; In Erwägung der Veröffentlichung der WHO Europa vom 
+16. Dezember 2021, in der den Regierungen geraten wird, Maßnahmen zu ergreifen, um die Impfung 
+der Bevölkerung, einschließlich Auffrischdosen, fortzusetzen, Verhaltensweisen zu fördern, die 
+es der Bevölkerung ermöglichen, sich zu schützen und eine Infektion zu vermeiden, und die gesundheitlichen 
+Maßnahmen, insbesondere durch Vorschriften für Zusammenkünfte, zu verschärfen, um die Übertragung 
+ausreichend zu stabilisieren, sodass das tägliche Leben weitergehen kann und die Existenzmittel erhalten 
+bleiben; dass in dieser Veröffentlichung betont wird, dass diese Art von Vorschriften auf der Grundlage 
+einer Analyse der durch Zusammenkünfte verursachten Risiken angenommen werden sollten; dass dies im "Statement 
+Update on Coronavirus" des Regionaldirektors der WHO für Europa vom 21. Dezember 2021 weiter bestätigt 
+und spezifiziert worden ist;In Erwägung der Erklärung des Regionaldirektors der WHO für Europa 
+vom 11. Januar 2022, in der festgestellt wird, dass die hochansteckende Omikron-Variante zu einer Flutwelle 
+von Ansteckungen führt; dass in der ersten Woche des Jahres 2022 über 7 Millionen neue Fälle gemeldet 
+wurden, mehr als eine Verdopplung innerhalb von zwei Wochen; dass sich in diesem Tempo in den nächsten 
+sechs bis acht Wochen über 50 Prozent der Bevölkerung in dieser Region infizieren könnten; dass diese 
+Situation erneut eine schwere Belastung für die Gesundheitssysteme und das Pflegepersonal in den verschiedenen 
+Staaten darstellen wird;In der Erwägung, dass in derselben Erklärung verschiedene Maßnahmen 
+gefordert werden, um die Ausbreitung von Ansteckungen zu verlangsamen, wie zum Beispiel das allgemeine 
+Tragen von Masken, die Impfung und die Auffrischungsimpfungen, die Sensibilisierung der Bevölkerung und 
+insbesondere die Einhaltung der sofortigen Isolierung bei Auftreten von Krankheitssymptomen; dass daraus 
+hervorgeht, dass vor allem auf die Vermeidung und Begrenzung von negativen Folgen für die besonders anfälligen 
+Gruppen geachtet und die Beeinträchtigung von Gesundheitssystemen und unentbehrlichen Angeboten vermieden 
+werden sollte; dass es dennoch notwendig ist, die Schulen offenzuhalten, da dies für das psychische und 
+soziale Wohlergehen der Kinder und für ihren Schulerfolg von großer Bedeutung ist; dass zu diesem 
+Zweck die Annahme verschiedener Normen weiterhin von entscheidender Bedeutung ist, insbesondere im Bereich 
+der Belüftung und der Impfung von schutzbedürftigen Kindern;In Erwägung der einleitenden Rede 
+des Generaldirektors der WHO vom 18. Januar 2022, in der er unter anderem erklärt, dass die COVID-19-Epidemie 
+noch lange nicht vorbei ist, und hervorhebt, dass der weniger schwere Charakter der Omikron-Variante 
+nicht von ihrer Gefährlichkeit ablenken darf, insbesondere im Hinblick auf ihre Übertragbarkeit;In 
+Erwägung der Erklärung des Regionaldirektors der WHO für Europa vom 3. Februar 2022, in der festgestellt 
+wird, dass in der vergangenen Woche 12 Millionen neue Fälle von COVID-19 registriert wurden, die höchste 
+wöchentliche Fallinzidenz seit Beginn der Pandemie; dass diese Fälle hauptsächlich auf die leicht übertragbare 
+Omikron-Variante zurückzuführen sind, wenn auch mit geringerem Schweregrad; dass die Zahl der Krankenhauseinweisungen 
+weiter steigt, insbesondere bei anfälligen Bevölkerungsgruppen in Staaten mit geringerer Durchimpfung; 
+dass die Zahl der Krankenhauseinweisungen jedoch nicht so schnell steigt wie die Fallinzidenz; dass die 
+Zahl der Aufnahmen in den Intensivstationen nicht wesentlich zugenommen hat und dass die Zahl der Todesfälle 
+in der Region abzuflachen beginnt;In Erwägung der Stellungnahme des Hohen Gesundheitsrates 
+vom 9. Juli 2020;In Erwägung des Barometers, das auf der Sitzung des Konzertierungsausschusses 
+vom 21. Januar 2022 als Instrument zur Kommunikation und zur strukturierten und proaktiven Politikvorbereitung 
+im Bereich der Gesundheitsmaßnahmen gebilligt wurde;In Erwägung der COVID-19-Risikobewertung 
+der RAG vom 12. Januar 2022, die zu dem Schluss kommt, dass die konstitutiven Kriterien für eine epidemische 
+Notsituation im Sinne des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in 
+einer epidemischen Notsituation erfüllt sind;In Erwägung der Beurteilung der epidemiologischen 
+Situation der RAG vom 9. Februar 2022, aus der hervorgeht, dass der Höhepunkt der fünften Welle der Pandemie 
+erreicht worden zu sein scheint;In Erwägung der Mitteilung der RMG vom 2. und 17. Dezember 
+2021 über die zusätzlichen Maßnahmen im Rahmen der Omikron-Variante;In Erwägung der Gutachten 
+der Expertengruppe für die COVID-19-Managementstrategie (GEMS) vom 20. und 24. Oktober 2021, vom 14. 
+und 25. November 2021, vom 2. und 21. Dezember 2021, vom 14. Januar 2022 und vom 10. Februar 2022, zu 
+der ebenfalls in Artikel 4 § 1 Absatz 1 des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche 
+Maßnahmen in einer epidemischen Notsituation erwähnte Sachverständige gehören; dass in diesen Gutachten 
+erläutert wird, welche Maßnahmen ergriffen werden müssen und warum; dass in diesen Gutachten die 
+Notwendigkeit, Angemessenheit und Verhältnismäßigkeit der im vorliegenden Königlichen Erlass aufgeführten 
+Maßnahmen dargelegt wird; dass die wesentlichen Elemente dieser Gutachten in ihren Grundzügen in 
+die nachstehenden Erwägungsgründe aufgenommen werden;In Erwägung der konsolidierten Stellungnahme 
+des COVID-19-Kommissariats vom 14. Januar 2022, die sich auf die Stellungnahme der RAG vom 12. Januar 
+2022, die in der RMG besprochen wurde, stützt und am 19. Januar 2022 aktualisiert wurde;In 
+Erwägung der Stellungnahme des Ministers der Volksgesundheit vom 21. Januar 2022;In Erwägung 
+der Stellungnahmen des COVID-19-Kommissariats vom 25. Oktober 2021, vom 11. November 2021, vom 16. Dezember 
+2021 und vom 19. Januar 2022 in Bezug auf das Vorhandensein oder Nichtvorhandensein einer epidemischen 
+Notsituation gemäß den Kriterien des Pandemiegesetzes;In Erwägung des epidemiologischen 
+Berichts von Sciensano vom 16. Februar 2022;In der Erwägung, dass der Tagesdurchschnitt der 
+festgestellten Neuansteckungen mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen stark 
+gesunken ist auf 14 822 bestätigte positive Fälle;In der Erwägung, dass die Positivitätsrate 
+ebenfalls auf 30,9% gesunken ist, aber nach wie vor sehr hoch ist;In der Erwägung, dass die 
+Inzidenz am 12. Februar 2022 im 14-Tage-Mittel 2 561 pro 100 000 Einwohner beträgt;In der Erwägung, 
+dass die Reproduktionsrate, basierend auf der Zahl der neuen Krankenhausaufnahmen, 0,862 beträgt;In 
+der Erwägung, dass dieser weiterhin hohe Druck auf die Krankenhäuser und die Kontinuität der Versorgung, 
+die nicht mit COVID-19 zusammenhängt, seit dem 19. November 2021 einen Übergang zur Phase 1B des Krankenhausnoteinsatzplans 
+erforderlich gemacht hat; dass immer noch 18 Prozent der für Intensivpflege zugelassenen Betten belegt 
+sind;In der Erwägung, dass am 15. Februar 2022 insgesamt 3 514 COVID-19-Patienten in belgischen 
+Krankenhäusern behandelt werden, was einem Rückgang von 16 Prozent auf Wochenbasis entspricht; dass am 
+selben Tag insgesamt 363 Patienten auf Intensivstationen lagen, was einem Rückgang von 16 Prozent auf 
+Wochenbasis entspricht; dass die Belastung der Krankenhäuser noch immer hoch ist; dass die Belegung der 
+Intensivstationen zwar einen langsamen Rückgang zeigt, jedoch nach wie vor auf einem hohen Niveau liegt, 
+was zu einer Verzögerung der Versorgung führt;In der Erwägung, dass die lange Dauer der Pandemie 
+ebenfalls Auswirkungen auf die Anzahl der verfügbaren Betten auf den Intensivstationen durch den Mangel 
+an Pflegepersonal hat; dass ungefähr 200 dieser Betten durch den Ausfall von Pflegepersonal aufgrund 
+des Coronavirus COVID-19 oder anderer (psychosozialer) Gesundheitsprobleme nicht verfügbar sind;In 
+der Erwägung, dass die Lage im Gesundheitspflegesystem nach wie vor prekär ist, nicht nur in den Krankenhäusern, 
+sondern auch in Bezug auf die Kapazitäten der Primärpflege, insbesondere was die Hausärzte und Testzentren 
+sowie die Kontaktrückverfolgung betrifft; dass Pflegeleistungen sowohl in der Primärpflege als auch in 
+der Krankenhauspflege noch immer verschoben werden müssen;In der Erwägung, dass die Gesamtzahl 
+der Todesfälle pro Woche in der letzten Woche leicht um 4 Prozent auf durchschnittlich 44 Todesfälle 
+pro Tag gestiegen ist;In der Erwägung, dass die Viruszirkulation noch immer sehr hoch bleibt, 
+mit erheblichen Auswirkungen auf die Zahl der neuen Krankenhausaufnahmen, die in der letzten Woche um 
+20 Prozent gesunken, aber immer noch hoch ist; dass die Zahl der belegten Krankenhausbetten weiter verringert 
+werden muss; dass verhindert werden muss, dass sie auf einem derart hohen Niveau bleibt, dass ein erneuter 
+Anstieg, zum Beispiel infolge neuer Varianten, unmittelbar zu einer Überlastung des Gesundheitspflegesystems 
+führen würde;In der Erwägung, dass die Geschwindigkeit, mit der sich neue Varianten in Belgien 
+ausbreiten können, von der Viruszirkulation beeinflusst wird; dass wirksame Maßnahmen noch immer 
+erforderlich sind, um die Auswirkungen der Viruszirkulation zu verringern und sie beherrschbarer zu machen;In 
+der Erwägung, dass immer noch Maßnahmen zum Schutz der Bevölkerung und zur Verringerung des Drucks 
+auf das Gesundheitspflegesystem, einschließlich der Primärpflege, erforderlich sind;In 
+Erwägung der epidemiologischen Beurteilung der RAG vom 9. Februar 2022, in der festgestellt wird, dass 
+sich das Land immer noch in der höchsten epidemiologischen Alarmstufe befindet;In der Erwägung, 
+dass aus demselben Bericht hervorgeht, dass die RAG eine weitere Verbesserung der Gesundheitslage und 
+der Zahl der Krankenhausaufnahmen und bei der Auslastung der Intensivstationen erwartet, die es ermöglichen 
+würde, die Schwellenwerte für den Übergang zu einer neuen Phase des Barometers in der zweiten Februarhälfte 
+zu erreichen; dass diese Schwellenwerte einem Übergang zur Phase Orange des vorerwähnten Barometers entsprechen;In 
+Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr für die Bevölkerung und der daraus 
+entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit 
+auslöst, die meist die Lunge und die Atemwege befällt; dass das Coronavirus COVID-19 von Mensch zu Mensch 
+über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar auf alle möglichen Verbreitungsarten 
+durch Mund und Nase erfolgt;In der Erwägung, dass der Königliche Erlass vom 28. Oktober 2021, 
+der durch vorliegenden Erlass abgeändert wird, drei Arten von Maßnahmen enthält, nämlich dringende 
+Empfehlungen ohne strafrechtliche Sanktionen, Mindestregeln, die an verschiedenen Orten oder in verschiedenen 
+Tätigkeitssektoren zu beachten sind (oder Präventionsmaßnahmen, die für jedes betreffende Unternehmen, 
+jede betreffende Vereinigung oder jeden betreffenden Dienst angepasst sind), und bestimmte Zwangsmaßnahmen, 
+die in einer begrenzten Anzahl Bereiche notwendig sind;In der Erwägung, dass die Hygienemaßnahmen 
+unerlässlich bleiben, zum Beispiel die besondere Beachtung der Hygienemaßnahmen beim Niesen und 
+Husten, Handhygiene und Desinfizierung des verwendeten Materials;In der Erwägung, dass im Hinblick 
+auf die Einhaltung aller Gesundheitsempfehlungen und des Social Distancing noch immer an das Verantwortungsbewusstsein 
+und die Solidarität jedes Bürgers appelliert wird; dass die Regeln des Social Distancing insbesondere 
+die Einhaltung eines Abstands von 1,5 m zwischen den Personen betreffen;In der Erwägung, dass 
+das Tragen einer Maske eine wichtige Rolle bei der Eindämmung der Ausbreitung des Virus und beim Schutz 
+der Gesundheit von Personen in bestimmten Einrichtungen und bei bestimmten Tätigkeiten spielt; dass das 
+Tragen einer Maske daher in bestimmten Einrichtungen und bei bestimmten Tätigkeiten weiterhin Pflicht 
+ist; dass das Tragen einer Maske in allen Situationen, in denen die Regeln des Social Distancing nicht 
+eingehalten werden können, zudem dringend empfohlen wird, außer für die ausdrücklich vorgesehenen 
+Ausnahmen;In der Erwägung, dass aus dem Bericht der RAG vom 9. Februar 2022 hervorgeht, dass 
+die Zahl der Infektionen in der Altersgruppe der 10- bis 19-Jährigen zwar weiterhin besonders hoch ist, 
+die Inzidenz in der Altersgruppe der 0- bis 9-Jährigen jedoch gesunken ist; dass es daher möglich ist, 
+die Maskenpflicht für Personen im Primarschulwesen aufzuheben;In der Erwägung, dass jedoch 
+aus demselben Bericht hervorgeht, dass für die Altersgruppe der 10- bis 19-Jährigen nach wie vor Vorsichtsmaßnahmen 
+erforderlich sind; dass daher das Alter, ab dem die Maskenpflicht gilt, weiterhin bei 12 Jahren liegen 
+muss;In der Erwägung, dass angesichts der erheblichen Zirkulation des Virus bei Jugendlichen 
+das Tragen einer Maske in Innenräumen von Schulen und Bildungseinrichtungen ab dem ersten Sekundarschuljahr 
+weiterhin erforderlich ist, um den Präsenzunterricht soweit wie möglich aufrechtzuerhalten und gleichzeitig 
+die starke Ausbreitung des Virus innerhalb dieser Bevölkerungsgruppe zu begrenzen; dass die Gemeinschaften 
+spezifische Bedingungen in Bezug auf außergewöhnliche Umstände festlegen können, unter denen die 
+Maskenpflicht nicht gilt; dass diese Maßnahme auf Antrag der Gemeinschaften und in Absprache mit 
+ihnen unter Beachtung des Grundsatzes der föderalen Loyalität in den Erlass aufgenommen wurde; dass die 
+Maßnahme angesichts des Vorhergehenden notwendig und verhältnismäßig ist in Bezug auf das 
+verfolgte Ziel, nämlich die Ausbreitung des Virus zu bekämpfen und die Aufrechterhaltung des Präsenzunterrichts 
+zu gewährleisten;In der Erwägung, dass Zusammenkünfte sowohl in Innenräumen als auch im Freien 
+ein besonderes Risiko für die Gesundheit der Bevölkerung darstellen und bestimmten Beschränkungen unterliegen 
+müssen, um das Grundrecht auf Leben und Gesundheit der Bevölkerung zu wahren; dass Aktivitäten im Freien 
+immer bevorzugt werden sollten; dass es empfohlen wird, intensive Kontakte zu vermeiden; dass im gegenteiligen 
+Fall die Räume ausreichend durchgelüftet und belüftet werden müssen; dass aus dem Gutachten der GEMS 
+vom 21. Dezember 2021 hervorgeht, dass Ereignisse mit größeren Menschenmengen, bei denen die Hygienemaßnahmen 
+und die Regeln des Social Distancing nicht genügend eingehalten werden, mit Risiken verbunden sind;In 
+der Erwägung, dass das Ansteckungsrisiko bei nicht dynamischen Ereignissen, bei denen die Teilnehmer 
+auf freien oder zugewiesenen Plätzen sitzen und sich wenig oder ruhig bewegen und interagieren, offenbar 
+geringer ist; dass dieses Risiko bei dynamischen Ereignissen, bei denen die Teilnehmer weniger Abstand 
+halten können oder sich bewegen, um z. B. zu tanzen, dagegen höher ist; dass die Tatsache, ob ein Ereignis 
+in Innenräumen oder im Freien stattfindet, nicht das einzige relevante Kriterium für die Beurteilung 
+des Risikograds dieser Ereignisse ist;In der Erwägung, dass das Ansteckungsrisiko auch bei 
+nicht dynamischen Horeca-Tätigkeiten sowie bei Horeca-Tätigkeiten, bei denen die Gäste stehen und sich 
+überwiegend nicht bewegen, offenbar geringer ist; dass es in dieser Hinsicht gerechtfertigt ist, eine 
+höhere Belegung für diese Art von Horeca-Tätigkeiten sowie für Horeca-Tätigkeiten, die im Freien stattfinden, 
+zu erlauben;In der Erwägung, dass die für Ereignisse geltenden Maßnahmen auch dann gelten, 
+wenn sie in einem Horeca-Betrieb stattfinden;In der Erwägung, dass es für Ereignisse angesichts 
+der vorstehenden Erwägungen über die Gesundheitslage weiterhin notwendig ist, Maßnahmen in Bezug 
+auf die Teilnehmerzahl bei (Groß-)Ereignissen sowohl in Innenräumen als auch im Freien zu ergreifen; 
+dass die derzeitige günstige Entwicklung der epidemischen Situation es ermöglicht, dynamische Ereignisse 
+in Innenräumen wieder zu erlauben; dass diese Ereignisse unter strikter Einhaltung der vorgesehenen Maßnahmen 
+sowie der Protokolle stattfinden müssen; dass dies mehrmals in den Gutachten der GEMS bestätigt worden 
+ist; dass es bei dynamischen Ereignissen besonders schwierig ist, die Regeln des Social Distancing und 
+die Maskenpflicht einzuhalten; dass sich in Innenräumen der Einrichtungen, in denen solche Ereignisse 
+stattfinden, daher viele Aerosole ausbreiten können; dass daher während solcher Ereignisse aufgrund des 
+höheren Risikos im Vergleich zu anderen Arten von Ereignissen eine strengere Kapazitätsbeschränkung gilt; 
+dass diese strengere Maßnahme, solange sich die Gesundheitslage nicht wirklich verbessert hat, 
+daher notwendig ist, um das Grundrecht auf Leben und Gesundheit der Bevölkerung zu wahren;In 
+der Erwägung, dass die Regeln für öffentlich zugängliche Ereignisse und private Ereignisse angesichts 
+der Einführung neuer Kriterien nun mit wenigen Ausnahmen ähnlich sein dürfen, da der Unterschied zwischen 
+den epidemiologischen Auswirkungen dieser Situationen nur geringfügig ist; dass diese Ausnahmen einerseits 
+durch die auf dem Spiel stehenden Grundrechte, wie das Recht auf Wahrung des Privatlebens und das Recht 
+auf Schutz personenbezogener Daten, und andererseits durch die Unangemessenheit bestimmter Regeln für 
+private Ereignisse begründet sind;In der Erwägung, dass in Verbindung mit der Unterscheidung 
+zwischen dynamischen Ereignissen, die ein höheres Risiko darstellen, und nicht dynamischen Ereignissen, 
+die ein geringeres Risiko darstellen, die Entwicklung der Gesundheitslage eine Lockerung bestimmter Maßnahmen 
+in Bezug auf Ereignisse ermöglicht; dass bei der Begrenzung der Anzahl der bei Ereignissen anwesenden 
+Personen die Kapazität des Orts, an dem das Ereignis stattfindet, berücksichtigt werden muss; dass mehr 
+als 200 Personen empfangen werden dürfen, sofern die Anzahl empfangener Personen 70 Prozent der Kapazität 
+des Orts, an dem dynamische Ereignisse in Innenräumen stattfinden, und 80 Prozent der Kapazität des Orts, 
+an dem nicht dynamische Ereignisse in Innenräumen und Ereignisse im Freien stattfinden, nicht überschreitet; 
+dass in bestimmten Fällen jedoch 100 Prozent der Kapazität genutzt werden darf, insbesondere wenn der 
+Richtwert für die Innenraumluftqualität in Innenräumen eingehalten werden kann oder wenn im Freien eine 
+Aufteilung in Blöcken oder zusätzliche Anti-Crowding-Maßnahmen (Kontrolle von Menschenmengen) vorgesehen 
+sind; dass die Kapazitätsbeschränkungen daher nicht für Ereignisse mit 200 oder weniger Personen gelten 
+und die Kapazität von 200 Personen daher immer gewährleistet ist, unabhängig vom Ergebnis der Luftqualitätsmessungen;In 
+der Erwägung, dass es unter bestimmten Umständen nicht möglich ist, die Bedingungen in Bezug auf die 
+Aufteilung in Blöcken einzuhalten; dass die lokalen Behörden in diesem Fall auf der Grundlage zusätzlicher 
+Anti-Crowding-Maßnahmen entscheiden können, dass die Sicherheit noch ausreichend gewährleistet 
+ist; dass diese Maßnahmen die Vermeidung von Menschenmengen sowohl am Ort des Ereignisses als auch 
+in der Umgebung dieses Ortes sowie in Bezug auf die damit verbundenen Beförderungsmittel betreffen können; 
+dass im Falle einer solchen Entscheidung die Kapazitätsbeschränkungen nicht gelten;In Erwägung 
+des geringeren Risikos von Ereignissen, die im Freien stattfinden, und der günstigen Entwicklung der 
+epidemiologischen Situation gilt die Maskenpflicht nicht mehr für Teilnehmer an solchen Ereignissen; 
+dass diese Pflicht jedoch weiterhin für Mitarbeiter und Organisatoren von Ereignissen gilt, so wie dies 
+auch für das Personal bei der gewerbsmäßigen Ausübung von Horeca-Tätigkeiten vorgesehen ist;In 
+der Erwägung, dass es im Hinblick auf die Achtung vor dem Privatleben notwendig ist, private Ereignisse, 
+die zu Hause oder in touristischen Unterkünften stattfinden, keinen Beschränkungen zu unterwerfen;In 
+der Erwägung, dass Organisatoren von Ereignissen für die Kontrolle der Menschenmenge verantwortlich sind; 
+dass die lokalen Behörden aufgefordert werden, die Einhaltung der für Ereignisse geltenden Maßnahmen 
+streng zu überwachen; dass diese Ereignisse nicht stattfinden können, wenn diese Maßnahmen nicht 
+eingehalten werden können;In der Erwägung, dass im Streben nach Kohärenz Filmvorführungen in 
+Kinos und Kongresse angesichts der Anzahl Personen, die dort zusammenkommen, den für Ereignisse geltenden 
+Regeln entsprechen müssen; dass sich daher genau wie für die anderen Ereignisse die Regeln für Kongresse, 
+je nachdem, ob diese dynamisch oder nicht dynamisch organisiert werden, unterscheiden; dass im Zusammenarbeitsabkommen 
+vom 14. Juli 2021 vorgesehen ist, dass die Regeln für die Anwendung des COVID Safe Tickets, unter anderem 
+in Kinos und bei Kongressen, durch die föderierten Teilgebiete bestimmt werden;In der Erwägung, 
+dass sich bei organisierten Aktivitäten in Innenräumen wie Ereignissen nur eine begrenzte Anzahl von 
+Personen versammeln dürfen, um Ansteckungen zu vermeiden; dass diese Einschränkung angesichts der im 
+Allgemeinen wiederkehrenden Art dieser Aktivitäten gerechtfertigt ist; dass es daher angesichts der großen 
+Anzahl Aktivitäten dieser Art gerechtfertigt ist, die Anzahl der Personen, die sich bei diesen Gelegenheiten 
+versammeln, auf Gruppen von 200 Personen in Innenräumen zu beschränken; dass die geltenden Protokolle 
+eingehalten werden müssen; dass Teilnehmer bis zum Alter von 17 Jahren einschließlich und hilfsbedürftige 
+Teilnehmer von zwei volljährigen Personen begleitet werden können; dass diese beiden letzten Personen 
+nicht in der Höchstzahl einbegriffen sind;In der Erwägung, dass sportliche Aktivitäten zur 
+geistigen und körperlichen Gesundheit des Einzelnen beitragen; dass für diese Aktivitäten aus diesem 
+Grund keine Höchstanzahl zugelassener Personen in Bezug auf organisierte Aktivitäten gilt; dass diese 
+Höchstanzahl jedoch für Sportlager gilt, die auf gleiche Weise wie zum Beispiel Kultur- und Jugendlager 
+behandelt werden; dass jedoch dringend empfohlen wird, Gruppen- und Kontaktsport so oft wie möglich im 
+Freien auszuüben;In der Erwägung, dass auch die schrittweise Aufhebung der Einschränkungen 
+für Horeca-Tätigkeiten fortgesetzt werden kann, insbesondere der Einschränkungen hinsichtlich der Öffnungs- 
+und Schließzeiten der Einrichtungen dieses Sektors, der Anzahl der Personen, die zusammen an einem 
+Tisch sitzen dürfen, der Verpflichtung, sitzen zu bleiben, und der Maskenpflicht;In der Erwägung, 
+dass für die vorerwähnten Einrichtungen Lockerungen in Bezug auf das Verbot der gewerbsmäßigen 
+Ausübung von Horeca-Tätigkeiten zwischen Mitternacht und 5.00 Uhr vorgesehen worden sind; dass es daher 
+kohärent ist, dass die gleichen Lockerungen auch für Nightshops vorgesehen werden;In der Erwägung, 
+dass diese Lockerungen aufgrund der günstigen epidemiologischen Lage auch damit einhergehen sollten, 
+dass in Unternehmen, die Verbrauchern Waren oder Dienstleistungen anbieten, die Einschränkungen in Bezug 
+auf Social Distancing, Gruppengröße und Anzahl der Personen, die sich in ihren Räumen aufhalten 
+dürfen, insbesondere in Geschäften und Einkaufszentren, aufgehoben werden sollten; dass parallel dazu 
+die Größe der Gruppen, die Märkte besuchen, nicht mehr begrenzt sein sollte;In der Erwägung, 
+dass Terrassen oder Zelte mehrere Bedingungen erfüllen müssen, um als im Freien befindlich beziehungsweise 
+als Außenbereich im Sinne des vorliegenden Erlasses zu gelten; dass in beiden Fällen die Luft frei 
+zirkulieren können muss; dass in Fällen, in denen diese Kriterien nicht erfüllt sind, diese Räumlichkeiten 
+als in Innenräumen befindlich beziehungsweise als Innenbereiche gelten;In der Erwägung, dass 
+die Verwendung von Luftqualitätsmessgeräten (CO2) immer noch erforderlich ist, um die 
+Bevölkerung vor erhöhten Ansteckungsrisiken in den Innenräumen von bestimmten Einrichtungen zu schützen, 
+insbesondere in den Gaststättenbetrieben und Schankstätten des Hotel- und Gaststättengewerbes, einschließlich 
+Diskotheken und Tanzlokalen, den Einrichtungen des Sportsektors, den Infrastrukturen, in denen bestimmte 
+Großereignisse stattfinden, den Kinos und den Einrichtungen des Veranstaltungssektors, da aufgrund 
+der dortigen Aktivitäten die Ausbreitung von Aerosolen besonders hoch sein kann; dass die Luftqualitätsvorschriften 
+ebenfalls für diese Einrichtungen gelten, wenn dort zum Beispiel private Ereignisse, öffentlich zugängliche 
+Ereignisse oder organisierte Aktivitäten stattfinden;In der Erwägung, dass angesichts der Gesundheitslage 
+und zur Gewährleistung der Kohärenz der geltenden Maßnahmen Diskotheken und Tanzlokale wieder geöffnet 
+werden können; dass der Zugang zu Diskotheken und Tanzlokalen jedoch in jedem Fall unter Einhaltung der 
+Modalitäten des vorerwähnten Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert werden muss; dass 
+diese Einrichtungen die Horeca-Regeln in Bezug auf ihre regelmäßigen Dienstleistungen einhalten 
+müssen;In der Erwägung, dass aus dem Bericht der GEMS vom 10. Februar 2022 hervorgeht, dass 
+vorbehaltlich der strikten Einhaltung der Gesundheitsmaßnahmen am Arbeitsplatz die Regeln in Bezug 
+auf die verpflichtende Arbeit im Homeoffice aufgehoben werden können; dass jedoch weiterhin empfohlen 
+wird, die Anwesenheit am Arbeitsplatz zu beschränken, um Kontakte zwischen Personen im Arbeitsumfeld 
+zu begrenzen und die Zahl der Personen, die zu den Stoßzeiten öffentliche Verkehrsmittel benutzen, 
+zu verringern;In der Erwägung, dass es empfohlen wird, die Zahl der Kontakte zu verringern 
+und für Zusammenkünfte oder Treffen Selbsttests zu verwenden; dass die Verwendung von Selbsttests ein 
+nützlicher Weg ist, um Ansteckungen rechtzeitig festzustellen und der Ausbreitung des Virus vorzubeugen;In 
+der Erwägung, dass in der Höchstanzahl der Personen, die zusammenkommen dürfen, ebenfalls immer die Kinder 
+inbegriffen sind, sofern nicht ausdrücklich etwas anderes bestimmt ist;In der Erwägung, dass 
+die Empfehlung (EU) 2022/107 des Rates vom 25. Januar 2022 für eine koordinierte Vorgehensweise zur Erleichterung 
+der sicheren Ausübung der Freizügigkeit während der COVID-19-Pandemie und zur Ersetzung der Empfehlung 
+(EU) 2020/1475 einen personenbasierten Ansatz für Reisen während der COVID-19-Pandemie befürwortet, was 
+bedeutet, dass der Impf-, Test- oder Genesungsstatus des Reisenden Ausschlag geben sollte; dass ein solcher 
+Ansatz die geltenden Regelungen vereinfacht und Reisenden mehr Klarheit und Vorhersehbarkeit bietet; 
+dass daher Personen ab dem Alter von 12 Jahren, die aus einem anderen Land nach Belgien reisen und ihren 
+Hauptwohnort nicht in Belgien haben, über ein Impf-, Test- oder Genesungszertifikat verfügen müssen; 
+dass Ausnahmen beibehalten werden, unter anderem, um Fahrten im Rahmen des täglichen Lebens in Grenzgebieten 
+nicht zu behindern;In der Erwägung, dass zur Erleichterung der Freizügigkeit innerhalb der 
+EU in Bezug auf Testzertifikate standardisierte Gültigkeitszeiträume und akzeptierte Arten von Tests, 
+die auf EU-Ebene bestimmt werden, beibehalten werden sollten; dass es aus diesem Grund auch wichtig ist, 
+den standardisierten Gültigkeitszeitraum der ersten Impfserie und die unbegrenzte Gültigkeit der Auffrischungsdosis 
+wie auf EU-Ebene bestimmt beizubehalten; dass es aus demselben Grund auch wichtig ist, den standardisierten 
+Gültigkeitszeitraum des Genesungszertifikats beizubehalten;In der Erwägung, dass der internationale 
+Reiseverkehr zur Ausbreitung bekannter und unbekannter Varianten des Virus führen kann und daher eine 
+rasche Überwachung der erlassenen Gesundheitsvorschriften erfordert; dass bestimmte Personen immer noch 
+über ein Impfzertifikat verfügen müssen, um im Rahmen nicht unbedingt notwendiger Reisen nach Belgien 
+reisen zu dürfen; dass aus solchen Zertifikaten hervorgeht, dass eine Person gegen das Coronavirus COVID-19 
+geimpft ist, was einen sichereren Personenverkehr ermöglicht;In der Erwägung, dass zur angemessenen 
+Überwachung und Rückverfolgung von Reisenden ein Passenger Locator Form (PLF) immer noch ausgefüllt werden 
+muss; dass diese Dokumente als Grundlage dienen, um erforderlichenfalls die notwendige Kontaktrückverfolgung 
+und Gesundheitsüberwachung durch die zuständigen Dienste zu gewährleisten; dass dieses Formular elektronisch 
+ausgefüllt werden muss, um insbesondere zu vermeiden, dass es zu einer Verzögerung beim Erhalt eines 
+Testcodes für einen PCR-Test und der notwendigen Mitteilung über die zu befolgenden Gesundheitsmaßnahmen 
+kommt; dass der Beförderer verpflichtet ist zu überprüfen, ob alle Passagiere vor dem Einsteigen die 
+elektronische Fassung des PLF ausgefüllt haben; dass der Flughafenbetreiber dies bei der Ankunft auf 
+belgischem Staatsgebiet ebenfalls überprüfen muss;In der Erwägung, dass angesichts der weiterhin 
+prekären Gesundheitslage die geltenden Einschränkungen erforderlich sind, um eine erneute Verschlechterung 
+der Lage zu verhindern;In der Erwägung, dass ein Bürgermeister, wenn er feststellt, dass in 
+einer bestimmten Einrichtung gegen die Vorschriften des vorliegenden Erlasses verstoßen wird, im 
+Interesse der Volksgesundheit unter anderem die verwaltungsrechtliche Schließung der betreffenden 
+Einrichtung anordnen kann;In der Erwägung, dass beim Ergreifen der vorliegenden Maßnahmen 
+insbesondere die Auswirkungen der Anwendung dieser Maßnahmen auf schutzbedürftige Personen und 
+Gruppen berücksichtigt wurden, die aufgrund ihres Gesundheitszustands oder ihrer persönlichen oder beruflichen 
+Situation größeren Schwierigkeiten ausgesetzt sind, die Gesundheitsmaßnahmen einzuhalten 
+oder sich diesen Maßnahmen zu unterwerfen; dass eine Ausnahme von der Maskenpflicht beispielsweise 
+für Personen vorgesehen ist, die aus medizinischen Gründen oder aufgrund einer Beeinträchtigung keine 
+Maske oder keinen Gesichtsschutzschirm tragen können; dass schutzbedürftigen Personen das Tragen von 
+FFP2-Masken, die einen besseren Schutz gegen das Virus bieten, empfohlen wird;In der Erwägung, 
+dass die vorgesehenen Maßnahmen zum Schutz der Bevölkerung und zur Fortsetzung der Impfkampagne 
+erforderlich sind; dass angesichts der aktuellen epidemischen Situation die vorgesehenen Maßnahmen 
+angemessen, notwendig und verhältnismäßig sind; dass die Gesundheitslage regelmäßig bewertet 
+wird; dass dies bedeutet, dass strengere Maßnahmen nie ausgeschlossen sind;In der Erwägung, 
+dass die in vorliegendem Erlass getroffenen Maßnahmen erforderlich sind, um die Ausbreitung der 
+Omikron-Variante zu verlangsamen und ihre Auswirkungen auf die Krankenhausaufnahmen und die Belegung 
+der Intensivstationen zu begrenzen; dass damit unter anderem bezweckt wird, dass der Präsenzunterricht 
+so weit wie möglich fortgesetzt werden kann, aber andererseits auch angestrebt wird, den Sektoren, die 
+Besucher sicher empfangen können, Perspektiven zu bieten; dass negative Auswirkungen auf die kritischen 
+Sektoren ebenfalls so weit wie möglich vermieden werden sollen;In der Erwägung, dass angesichts 
+aller vorerwähnten Erwägungen alle im vorliegenden Erlass vorgesehenen verwaltungspolizeilichen Maßnahmen 
+notwendig, angemessen und verhältnismäßig sind, um das Recht der Bevölkerung auf Leben und Gesundheit 
+zu schützen und folglich die Ausbreitung des Coronavirus COVID-19 einzudämmen, und dass sie im Hinblick 
+auf dieses Ziel und die Entwicklung der epidemiologischen Situation in Belgien verhältnismäßig 
+sind;Auf Vorschlag der Ministerin des Innern und aufgrund der Stellungnahme der Minister, die 
+im Rat darüber beraten haben,Haben Wir beschloßen und erlassen Wir:Artikel 
+1 - Artikel 1 des Königlichen Erlasses vom 28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, 
+die erforderlich sind, um die Folgen der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie 
+des Coronavirus COVID-19 für die Volksgesundheit zu verhindern oder einzuschränken, wird wie folgt abgeändert:1. 
+Nummer 6 wird aufgehoben.2. Die Nummern 15, 16 und 17 werden wie folgt ersetzt:"15. 
+"Impfzertifikat": ein digitales COVID-Impfzertifikat der EU mit einem Impfstoff gegen das Virus SARS-Cov-2, 
+wie auf der Website "info-coronavirus.be" des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit 
+der Nahrungsmittelkette und Umwelt erwähnt, oder ein Impfzertifikat mit einem solchen Impfstoff, das 
+in einem Land, das nicht zur Europäischen Union gehört, ausgestellt wurde und das von der Europäischen 
+Kommission auf der Grundlage von Durchführungsrechtsakten oder von Belgien auf der Grundlage bilateraler 
+Abkommen als gleichwertig angesehen wird, und mit dem bescheinigt wird, dass alle in der Packungsbeilage 
+angegebenen Dosen seit mindestens zwei Wochen verabreicht sind und dass nach Abschluss der ersten Impfserie 
+nicht mehr als 270 Tage vergangen sind, oder mit dem bescheinigt wird, dass nach Abschluss der ersten 
+Impfserie eine Auffrischungsdosis verabreicht worden ist. In Ermangelung eines Gleichwertigkeitsbeschlusses 
+der Europäischen Kommission wird auch ein Impfzertifikat akzeptiert, das in einem Land, das nicht zur 
+Europäischen Union gehört, ausgestellt wurde und das mindestens folgende Informationen auf Niederländisch, 
+Französisch, Deutsch oder Englisch enthält:- Daten, aus denen hervorgeht, wer die geimpfte 
+Person ist (Name, Geburtsdatum und/oder Erkennungsnummer),- Angaben, mit denen bescheinigt 
+wird, dass ein Impfstoff gegen das Virus SARS-Cov-2, wie auf der Website "info-coronavirus.be" des Föderalen 
+Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt erwähnt, verabreicht 
+ist,- Angaben, mit denen bescheinigt wird, dass alle in der Packungsbeilage angegebenen Dosen 
+seit mindestens zwei Wochen verabreicht sind und dass seit dem Datum der letzten Dosis der ersten Impfserie 
+nicht mehr als 270 Tage vergangen sind, oder Angaben, mit denen bescheinigt wird, dass nach Abschluss 
+der ersten Impfserie eine Auffrischungsdosis verabreicht worden ist,- Markenname und Name des 
+Herstellers oder des Inhabers der Genehmigung für das Inverkehrbringen jedes verabreichten Impfstoffs. 
+Wird einer der beiden Namen nicht angegeben, muss auch die Chargennummer angegeben werden,- 
+Datum der Verabreichung jeder verabreichten Dosis des Impfstoffs oder Gesamtzahl Impfdosen und Bezeichnung 
+des letzten Impfstoffs und Datum der letzten Verabreichung,- Name des Landes, der Provinz oder 
+der Region, wo das Impfzertifikat ausgestellt wurde,- Aussteller des Impfzertifikats,16. 
+"Testzertifikat": ein digitales EU-COVID-Zertifikat oder ein anderes Zertifikat auf Niederländisch, Französisch, 
+Deutsch oder Englisch, in dem angegeben ist, dass entweder binnen 72 Stunden vor der Ankunft auf belgischem 
+Staatsgebiet ein NAAT-Test (Nucleic Acid Amplification Test) mit negativem Ergebnis in einem offiziellen 
+Labor durchgeführt wurde oder binnen 24 Stunden vor der Ankunft auf belgischem Staatsgebiet ein RAT-Test 
+(Rapid Antigen Test) - der in der aktualisierten gemeinsamen Liste anerkannter Antigen-Schnelltests für 
+die Diagnose von COVID-19 aufgeführt ist, die auf der Grundlage der Empfehlung des Rates vom 21. Januar 
+2021 für einen einheitlichen Rahmen für den Einsatz und die Validierung von Antigen-Schnelltests und 
+die gegenseitige Anerkennung der Ergebnisse von COVID-19-Tests in der EU erstellt wurde - mit negativem 
+Ergebnis von einer Fachperson durchgeführt wurde,17. "Genesungszertifikat": ein digitales EU-COVID-Genesungszertifikat 
+oder ein Genesungszertifikat, das in einem Land, das nicht zur Europäischen Union gehört, ausgestellt 
+wurde und das von der Europäischen Kommission auf der Grundlage von Durchführungsrechtsakten oder von 
+Belgien auf der Grundlage bilateraler Abkommen als gleichwertig angesehen wird und aus dem hervorgeht, 
+dass seit dem Datum des positiven Ergebnisses des NAAT-Tests nicht mehr als 180 Tage vergangen sind."Art. 
+2 - In Artikel 1bis desselben Erlasses werden die Wörter "5bis, 5ter," aufgehoben.Art. 3 - 
+Artikel 2 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 wird wie folgt ersetzt:" 
+§ 1 - Homeoffice wird in allen Unternehmen, Vereinigungen und Diensten für alle bei ihnen beschäftigten 
+Personen empfohlen, ungeachtet der Art ihres Arbeitsverhältnisses, außer wenn dies aufgrund der 
+Art der Funktion, der Kontinuität der Leitung des Unternehmens, seiner Tätigkeiten beziehungsweise Dienstleistungen 
+unmöglich ist. Homeoffice erfolgt in Übereinstimmung mit den bestehenden kollektiven Arbeitsabkommen 
+und Vereinbarungen."2. Paragraph 1bis wird aufgehoben.3. Paragraph 2bis wird aufgehoben.4. 
+In § 3 werden die Wörter ", 1bis, 2 und 2bis" durch die Wörter "und 2" ersetzt.Art. 
+4 - Artikel 4 desselben Erlasses wird wie folgt abgeändert:1. In Absatz 2 werden die Nummern 
+6, 7, 8 und 9 aufgehoben.2. Die Absätze 3 und 4 werden aufgehoben.Art. 5 - Artikel 
+4bis desselben Erlasses wird aufgehoben.Art. 6 - Artikel 5 desselben Erlasses wird wie folgt 
+ersetzt:"Art. 5 - § 1 - Bei gewerbsmäßiger Ausübung von Horeca-Tätigkeiten sind 
+unbeschadet der auf der Website des zuständigen öffentlichen Dienstes veröffentlichten Mindestregeln 
+oder der geltenden Protokolle folgende Mindestregeln einzuhalten:1. Betreiber informieren Kunden, 
+Personalmitglieder und Dritte rechtzeitig und deutlich sichtbar über die geltenden Präventionsmaßnahmen.2. 
+Betreiber stellen Personal und Kunden erforderliche Produkte für die Handhygiene zur Verfügung.3. 
+Betreiber ergreifen die erforderlichen Hygienemaßnahmen, um die Örtlichkeit und das verwendete 
+Material regelmäßig zu desinfizieren.4. Betreiber gewährleisten eine gute Durchlüftung 
+der Innenräume.5. Öffentliche Plätze, einschließlich Terrassen im öffentlichen Raum, 
+werden gemäß den von den lokalen Behörden erlassenen Vorschriften organisiert.6. Die 
+Anzahl Kunden, die in Innenräumen empfangen werden, muss auf 70 Prozent der Gesamtkapazität der Innenräume 
+des Ortes, an dem Horeca-Tätigkeiten ausgeübt werden, begrenzt sein.Absatz 1 Nr. 6 findet in 
+folgenden Fällen keine Anwendung:1. wenn die Kundschaft bei der gewerbsmäßigen Ausübung 
+von Horeca-Tätigkeiten nicht dynamisch ist,2. wenn die Kundschaft oder ein Teil davon bei der 
+gewerbsmäßigen Ausübung von Horeca-Tätigkeiten stehend und größtenteils nicht in Bewegung 
+ist,3. wenn der in Artikel 9 § 2 Absatz 1 erwähnte Richtwert bei der gewerbsmäßigen 
+Ausübung von Horeca-Tätigkeiten eingehalten werden kann,4. wenn die gewerbsmäßige Ausübung 
+von Horeca-Tätigkeiten im Rahmen von Eheschließungen oder Bestattungen stattfindet.Wenn 
+der in Artikel 9 § 3 Absatz 1 erwähnte Grenzwert für die Luftqualität in Innenräumen von Gaststättenbetrieben 
+und Schankstätten des Hotel- und Gaststättengewerbes nicht eingehalten werden kann, muss ab dem nächsten 
+Service ein Abstand von 1,5 m zwischen den Tischen vorgesehen werden oder müssen andere Maßnahmen 
+ergriffen werden, damit der Grenzwert eingehalten werden kann.Vorliegender Paragraph findet 
+keine Anwendung bei Dienstleistungen im Haus des Verbrauchers. § 2 - Diskotheken und 
+Tanzlokale können unter Einhaltung der in § 1 erwähnten Regeln ihren Betrieb wieder aufnehmen, 
+sofern der Zugang unter Einhaltung der Bestimmungen des Zusammenarbeitsabkommens vom 14. Juli 2021 organisiert 
+wird."Art. 7 - Die Artikel 5bis und 5ter desselben Erlasses werden aufgehoben.Art. 
+8 - Artikel 6 desselben Erlasses wird aufgehoben.Art. 9 - Artikel 7 desselben Erlasses wird 
+wie folgt abgeändert:1. In § 1 Absatz 2 werden die Wörter "Absatz 4 und 5" durch die 
+Wörter "Absatz 3, 4 und 5" ersetzt.2. Paragraph 2 wird aufgehoben.Art. 10 - Artikel 
+8 desselben Erlasses wird wie folgt abgeändert:1. In Absatz 1 werden die Nummern 2 und 5 aufgehoben.2. 
+Absatz 2 wird aufgehoben.Art. 11 - Artikel 9 desselben Erlasses wird wie folgt abgeändert:1. 
+Paragraph 1 Absatz 1 Nr. 3 wird durch die Wörter "einschließlich Diskotheken und Tanzlokale," ergänzt.2. 
+In Paragraph 1 Absatz 2 werden zwischen den Wörtern "in dem es Warteschlangen gibt," und den Wörtern 
+"sowie in den Umkleideräumen" die Wörter "in dem getanzt wird," eingefügt.3. [Abänderung des 
+französischen Textes]4. Paragraph 2 Absatz 3 wird wie folgt ersetzt: "Wenn die CO2-Konzentration 
+automatisch aufgezeichnet wird und jederzeit gelesen und zur Verfügung gestellt werden kann, kann die 
+durchschnittliche CO2-Konzentration entweder pro Stunde oder für die Dauer der Aktivität 
+oder des Ereignisses zur Kontrolle des Richtwertes berücksichtigt werden."5. In § 3 
+Absatz 1 werden die Wörter "25 m3" durch die Wörter "18 m3" ersetzt.6. 
+In § 3 Absatz 1 werden die Wörter "1200 ppm" durch die Wörter "1500 ppm" ersetzt.Art. 
+12 - Artikel 11 desselben Erlasses wird wie folgt abgeändert:1. In Absatz 1 Nr. 2 werden die 
+Wörter "in den Artikeln 5 und 5bis" durch die Wörter "in Artikel 5" ersetzt.2. Absatz 2 wird 
+aufgehoben.Art. 13 - In Artikel 12 desselben Erlasses werden die Paragraphen 1, 2, 3 und 4 
+wie folgt ersetzt:" § 1 - Organisierte Aktivitäten sind erlaubt, unbeschadet der Artikel 
+5, 7, 9, 22 und 23 und des anwendbaren Protokolls.In Abweichung von Absatz 1 sind organisierte 
+Aktivitäten in Innenräumen nur für eine oder mehrere Gruppen von höchstens 200 Personen, Mitarbeiter 
+und Veranstalter nicht einbegriffen, erlaubt.In einer in Absatz 2 erwähnten Gruppe versammelte 
+Personen müssen in derselben Gruppe zusammenbleiben und dürfen nicht mit Personen aus anderen Gruppen 
+zusammenkommen.Bei organisierten Aktivitäten, die in Absatz 2 erwähnt sind, dürfen Teilnehmer 
+bis zum Alter von 17 Jahren einschließlich und hilfsbedürftige Teilnehmer von zwei volljährigen 
+Personen begleitet werden.Die in Absatz 2 und Absatz 3 erwähnte Höchstzahl gilt nicht für sportliche 
+Aktivitäten, mit Ausnahme von Sportlagern. § 2 - Private Ereignisse sind erlaubt, unbeschadet 
+der Artikel 5, 7, 9 und 22.Findet ein privates Ereignis mit mehr als 200 Personen statt, muss 
+die Anzahl empfangener Personen, Mitarbeiter und Veranstalter nicht einbegriffen, auf 80 Prozent der 
+Gesamtkapazität des Ortes, wo das Ereignis stattfindet, begrenzt werden.Findet ein dynamisches 
+privates Ereignis mit mehr als 200 Personen in Innenräumen statt, muss in Abweichung von Absatz 2 die 
+Anzahl empfangener Personen, Mitarbeiter und Veranstalter nicht einbegriffen, auf 70 Prozent der Gesamtkapazität 
+des Ortes, wo das Ereignis stattfindet, begrenzt werden.Die in Absatz 2 und Absatz 3 erwähnten 
+Begrenzungen finden in folgenden Fällen keine Anwendung:1. bei einem privaten Ereignis, das 
+im Freien stattfindet, wenn gemäß Artikel 12bis eine Aufteilung in Blöcken vorgesehen wird,2. 
+bei einem privaten Ereignis, das im Freien stattfindet, wenn zusätzliche Anti-Crowding-Maßnahmen 
+vorgesehen werden, vorbehaltlich einer positiven Stellungnahme des Sicherheitsbüros, das erwähnt ist 
+in Artikel 1 Nr. 5 des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung 
+von Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der 
+Provinzgouverneure bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung 
+auf nationaler Ebene erfordern,3. bei einem privaten Ereignis, das im Freien stattfindet, aber 
+nicht in einer ständigen oder vorübergehenden Struktur, die für den Empfang einer bestimmbaren Zahl von 
+Personen bestimmt ist,4. bei einem privaten Ereignis, das in Innenräumen stattfindet, wenn 
+der in Artikel 9 § 2 Absatz 1 erwähnte Richtwert während des Ereignisses eingehalten werden kann.Unbeschadet 
+der Artikel 5, 7, 9 und 22 findet vorliegender Paragraph keine Anwendung auf private Ereignisse, wenn 
+sie:1. zu Hause stattfinden,2. in einer Touristenunterkunft stattfinden,3. 
+im Rahmen von Eheschließungen oder Bestattungen stattfinden. § 3 - Öffentlich 
+zugängliche Ereignisse, die in Innenräumen stattfinden, sind unbeschadet der Artikel 5, 7, 9 und 22 und 
+des anwendbaren Protokolls für höchstens 50 Personen, Mitarbeiter und Veranstalter nicht einbegriffen, 
+erlaubt.Öffentlich zugängliche Ereignisse, die im Freien stattfinden, sind unbeschadet der 
+Artikel 5, 7, 9 und 22 und des anwendbaren Protokolls für höchstens 100 Personen, Mitarbeiter und Veranstalter 
+nicht einbegriffen, erlaubt.Vorliegender Paragraph findet keine Anwendung, wenn aufgrund eines 
+lokalen Polizeierlasses, einer lokalen Polizeiverordnung, eines Dekrets oder einer Ordonnanz der Zugang 
+gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 organisiert werden muss. § 
+4 - Großereignisse, die in Innenräumen stattfinden, sind unbeschadet der Artikel 5, 7, 9 und 22 
+und des anwendbaren Protokolls für mindestens 50 Personen, Mitarbeiter und Veranstalter nicht einbegriffen, 
+erlaubt, vorbehaltlich der vorherigen Genehmigung der zuständigen lokalen Behörden und sofern die Modalitäten 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 eingehalten werden.Großereignisse, die 
+im Freien stattfinden, sind unbeschadet der Artikel 5, 7, 9 und 22 und des anwendbaren Protokolls für 
+mindestens 100 Personen, Mitarbeiter und Veranstalter nicht einbegriffen, erlaubt, vorbehaltlich der 
+vorherigen Genehmigung der zuständigen lokalen Behörden und sofern die Modalitäten des Zusammenarbeitsabkommens 
+vom 14. Juli 2021 eingehalten werden.Findet ein Großereignis mit mehr als 200 Personen 
+statt, muss die Anzahl empfangener Personen, Mitarbeiter und Veranstalter nicht einbegriffen, auf 80 
+Prozent der Gesamtkapazität des Ortes, wo das Ereignis stattfindet, begrenzt werden. In diesem Fall muss 
+der Durchsatz für die Belüftung und/oder Luftreinigung den in Artikel 9 § 3 Absatz 1 erwähnten 
+Grenzwert einhalten oder darf der Durchschnittswert der CO2-Messungen in Innenräumen 
+den in Artikel 9 § 3 Absatz 1 erwähnten Grenzwert nicht überschreiten. Wenn dieser Grenzwert nicht 
+eingehalten werden kann, muss die Anzahl empfangener Personen begrenzt werden oder müssen andere Maßnahmen 
+ergriffen werden, damit der Grenzwert ab dem nächsten Ereignis eingehalten werden kann.Findet 
+ein dynamisches Großereignis mit mehr als 200 Personen in Innenräumen statt, muss in Abweichung 
+von Absatz 3 die Anzahl empfangener Personen, Mitarbeiter und Veranstalter nicht einbegriffen, auf 70 
+Prozent der Gesamtkapazität des Ortes, wo das Ereignis stattfindet, begrenzt werden. In diesem Fall muss 
+der Durchsatz für die Belüftung und/oder Luftreinigung den in Artikel 9 § 3 Absatz 1 erwähnten 
+Grenzwert einhalten oder darf der Durchschnittswert der CO2-Messungen in Innenräumen 
+den in Artikel 9 § 3 Absatz 1 erwähnten Grenzwert nicht überschreiten. Wenn dieser Grenzwert nicht 
+eingehalten werden kann, muss die Anzahl empfangener Personen begrenzt werden oder müssen andere Maßnahmen 
+ergriffen werden, damit der Grenzwert ab dem nächsten Ereignis eingehalten werden kann.Die 
+in Absatz 3 und Absatz 4 erwähnten Begrenzungen finden in folgenden Fällen keine Anwendung:1. 
+bei einem Großereignis, das im Freien stattfindet, wenn gemäß Artikel 12bis eine Aufteilung 
+in Blöcken vorgesehen wird,2. bei einem Großereignis, das im Freien stattfindet, wenn 
+zusätzliche Anti-Crowding-Maßnahmen vorgesehen werden, vorbehaltlich einer positiven Stellungnahme 
+des Sicherheitsbüros, das erwähnt ist in Artikel 1 Nr. 5 des Königlichen Erlasses vom 22. Mai 2019 über 
+die Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler und provinzialer Ebene und 
+über die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, 
+die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern,3. bei einem Großereignis, 
+das im Freien stattfindet, aber nicht in einer ständigen oder vorübergehenden Struktur, die für den Empfang 
+einer bestimmbaren Zahl von Personen bestimmt ist,4. bei einem Großereignis, das in Innenräumen 
+stattfindet, wenn der in Artikel 9 § 2 Absatz 1 erwähnte Richtwert während des Ereignisses eingehalten 
+werden kann.Der Empfangsbereich des Großereignisses wird in einer Weise organisiert, 
+die die Einhaltung der Regeln des Social Distancing ermöglicht.Die in Absatz 1 und Absatz 2 
+erwähnten Mindestzahlen können gemäß dem Zusammenarbeitsabkommen vom 14. Juli 2021 geändert werden.In 
+Abweichung von Absatz 1 und Absatz 2 kann auch ein Großereignis mit weniger als 50 Personen in 
+Innenräumen und weniger als 100 Personen im Freien in Anwendung der Modalitäten des Zusammenarbeitsabkommens 
+vom 14. Juli 2021 veranstaltet werden, sofern der Veranstalter die Besucher im Voraus darüber informiert."Art. 
+14 - Artikel 12bis desselben Erlasses wird wie folgt abgeändert:1. In Nr. 2 werden die Wörter 
+"und eine getrennte sanitäre Infrastruktur" aufgehoben.2. Nummer 3 wird wie folgt ersetzt:"3. 
+Die Anzahl empfangener Personen in einem Block beträgt nicht mehr als 2000 Personen."3. Nummer 
+4 wird aufgehoben.Art. 15 - In Artikel 14 Absatz 1 desselben Erlasses werden die Wörter "Ab 
+dem Alter von 6 Jahren" durch die Wörter "Ab dem Alter von 12 Jahren" ersetzt.Art. 16 - Artikel 
+18 desselben Erlasses wird wie folgt abgeändert:1. Absatz 1 wird wie folgt ersetzt:"Bei 
+einer in Artikel 17 §§ 1, 2 und 3 erwähnten Reise müssen Personen ab dem Alter von 12 Jahren, 
+die in belgisches Staatsgebiet einreisen und ihren Hauptwohnort nicht in Belgien haben, über ein Impf-, 
+Test- oder Genesungszertifikat verfügen. Der Beförderer ist verpflichtet zu überprüfen, dass diese Personen 
+vor dem Einsteigen ein Impf-, Test- oder Genesungszertifikat vorweisen. Fehlt ein Impf-, Test- oder Genesungszertifikat, 
+muss der Beförderer das Einsteigen untersagen."2. Absatz 2 wird aufgehoben.3. Im 
+früheren Absatz 3, der Absatz 2 wird, werden die Wörter "des gemäß Absatz 1 und Absatz 2 erforderlichen 
+Zertifikats" durch die Wörter "des erforderlichen Impf-, Test- oder Genesungszertifikats" ersetzt.4. 
+Im früheren Absatz 4, der Absatz 3 wird, werden die Wörter "in Absatz 1 und Absatz 2 vorgesehenen" aufgehoben.Art. 
+17 - In Artikel 20 Absatz 2 Nr. 2 desselben Erlasses werden die Wörter "5 Jahren" durch die Wörter "11 
+Jahren" ersetzt.Art. 18 - Artikel 22 § 1 desselben Erlasses wird wie folgt abgeändert:1. 
+In Absatz 1 und Absatz 2 werden die Wörter "6 Jahren" jeweils durch die Wörter "12 Jahren" ersetzt.2. 
+Im einleitenden Satz von Absatz 2 werden die Wörter "an folgenden Orten" durch die Wörter "in folgenden 
+Fällen" ersetzt.3. In Absatz 2 Nr. 7 werden die Wörter "vorbehaltlich der Nummern 11 und 12" 
+aufgehoben.4. In Absatz 2 Nr. 11 werden die Wörter "den Artikeln 5, 5bis und 5ter" durch die 
+Wörter "Artikel 5" ersetzt.5. Absatz 2 Nr. 12 wird aufgehoben.6. Absatz 2 Nr. 13 
+wird wie folgt ersetzt:"13. bei nicht dynamischen privaten Ereignissen in Innenräumen, außer 
+wenn sie zu Hause oder in einer Touristenunterkunft stattfinden,".7. Absatz 2 Nr. 14 wird wie 
+folgt ersetzt:"14. für Teilnehmer: bei nicht dynamischen öffentlich zugänglichen Ereignissen, 
+die in Innenräumen stattfinden, wie in Artikel 12 §§ 3 und 4 erwähnt,".8. Absatz 
+2 Nr. 15 wird wie folgt ersetzt:"15. für Mitarbeiter und Veranstalter: bei öffentlich zugänglichen 
+Ereignissen, die in Artikel 12 §§ 3 und 4 erwähnt sind,".9. Absatz 2 Nr. 17 wird 
+aufgehoben.10. Die Absätze 3 und 4 werden wie folgt ersetzt:"Ab dem Alter von 12 
+Jahren ist jeder verpflichtet, in Innenräumen von Schulen und Bildungseinrichtungen Mund und Nase mit 
+einer Maske zu bedecken, unbeschadet der Anwendung der Paragraphen 2 und 3.Die in Absatz 3 
+erwähnte Verpflichtung:1. gilt nicht für Kinder ab 12 Jahren, die noch nicht im Sekundarschulwesen 
+eingeschult wurden,2. gilt für Kinder unter 12 Jahren, die bereits im Sekundarschulwesen eingeschult 
+wurden,3. gilt nicht unter den spezifischen Bedingungen, die gemäß Artikel 23 festgelegt 
+werden."11. Ein Absatz 5 mit folgendem Wortlaut wird eingefügt:"Absatz 2 gilt nicht:1. 
+für Teilnehmer: bei dynamischen privaten Ereignissen und dynamischen öffentlich zugänglichen Ereignissen, 
+die in Artikel 12 §§ 3 und 4 erwähnt sind,2. für Kunden: im Teil von Einrichtungen, 
+in dem Horeca-Tätigkeiten gewerbsmäßig ausgeübt werden."Art. 19 - Vorliegender Erlass 
+tritt am 18. Februar 2022 in Kraft, mit Ausnahme der Artikel 15, 17 und 18 Nr. 1 und 10, die am 19. Februar 
+2022 in Kraft treten.Art. 20 - Der für Inneres zuständige Minister ist mit der Ausführung des 
+vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 17. Februar 2022PHILIPPEVon 
+Königs wegen:Die Ministerin des InnernA. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022040357
+

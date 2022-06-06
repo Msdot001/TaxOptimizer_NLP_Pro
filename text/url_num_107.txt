@@ -1,0 +1,398 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/14/2020041340/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-20Numac : 2020041340
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 14 MEI 2020. - Koninklijk besluit nr. 21 houdende tijdelijke aanpassingen aan de vergoedingsvoorwaarden en administratieve regels in de verplichte verzekering voor geneeskundige verzorging ten gevolge van de COVID-19 pandemie 
+VERSLAG AAN DE KONINGSire,Ik heb de eer U hierbij 
+een ontwerp van koninklijk besluit nr. 21 houdende tijdelijke aanpassingen aan de vergoedingsvoorwaarden 
+en administratieve regels in de verplichte verzekering voor geneeskundige verzorging ten gevolge van 
+de COVID-19 pandemie voor te leggen.Bij wet van 27 maart 2020 heeft de wetgever aan de Koning 
+bijzondere machten verleend om maatregelen te nemen in de strijd tegen de verspreiding van het Coronavirus 
+COVID-19. Het betreft maatregelen om de directe en indirecte gevolgen van de COVID-19 pandemie voor de 
+verplichte verzekering op te vangen.Overeenkomstig artikel 2 van de wet van 27 maart 2020 die 
+machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het 
+coronavirus COVID-19 (II) beoogt het ontwerp van besluit het mogelijk te maken de toegang tot de noodzakelijke 
+zorgen te waarborgen teneinde te reageren op de coronavirus COVID-19 epidemie of pandemie en de gevolgen 
+ervan op te vangen, meer bepaald deze gelieerd aan het garanderen van de volksgezondheid gelet op de 
+inperkingsmaatregelen.De maatregelen beogen om het mogelijk te maken dat in het licht van de 
+huidige context de noodzakelijke zorgen verstrekt worden aan de patiënt. Deze maatregelen vereisen een 
+dringende juridische formalisering opdat de continuïteit van de zorg en de rechtszekerheid voor de verschillende 
+partners van de verplichte verzekering voor geneeskundige verzorging gewaarborgd worden. Het geheel van 
+de maatregelen beoogt de belangen van de patiënten te beschermen en kan geen afbreuk aan hun rechten 
+tot gevolg hebben.Artikel 6, tweede lid, van de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 
+(II) voorziet in de mogelijkheid om de wettelijke of reglementaire adviezen niet in te winnen dan wel 
+deze binnen een kortere termijn in te winnen. In het kader van de voorbereiding van huidig ontwerp werd 
+de moeilijkheid vastgesteld voor deze organen om in de huidige context te vergaderen. Voor sommige procedures 
+zijn de besluitvormingsorganen schriftelijk geraadpleegd kunnen worden of is er overleg geweest zonder 
+fysiek contact. In de reglementaire bepalingen die de werking van die organen regelen en de huishoudelijke 
+reglementen is die mogelijkheid echter niet altijd voorzien of slechts voor minder belangrijke zaken. 
+Daarnaast is formeel overleg op afstand om praktische of reglementaire redenen niet altijd mogelijk geweest. 
+Om de besluitvorming niet te blokkeren hebben afwijkingen van de formele overlegprocedures plaatsgevonden 
+zonder evenwel het overleg met de stakeholders uit te schakelen. Er heeft in de plaats daarvan of aanvullend 
+informeel overleg plaatsgevonden met de stakeholders, in het bijzonder de ziekenfondsen en de vertegenwoordigers 
+van de zorgverleners voor deze materies.Transversale overwegingenHet was niet mogelijk 
+om alle wettelijk en reglementair voorziene procedures te volgen maar de vastgestelde maatregelen zijn 
+aangenomen op basis van vragen van patiënten, zorgverleners en ziekenfondsen en maakten voorwerp uit 
+van informeel overleg met de zorgverleners en de ziekenfondsen (hetzij door digitaal overleg, uitwisselingen 
+per mail en telefonische contacten).Om een optimale gelijke behandeling voor patiënten en zorgverleners 
+te bewerkstelligen, werden 12 principes afgesproken met de verzekeringsinstellingen op basis van commentaar 
+uit de verschillende sectoren, die als basis dienden voor de aangenomen maatregelen met betrekking tot 
+vergoedingsvoorwaarden in de verschillende sectoren (met uitzondering van de geneesmiddelen die een specifieke 
+aanpak vergden). Deze principes zijn vervolgens aangepast in functie van de specificiteiten van elke 
+sector.1/ Geldigheid niet-medicamenteuze voorschriften wordt verlengd met 6 maanden - de uitvoerende 
+zorgverlener (kiné, verpleegkundige, enz.) is verantwoordelijk om te checken of de inhoud van het voorschrift 
+nog actueel is.2/ Als in de vergoedingsvoorwaarden van een verstrekking een maximale leeftijdsvoorwaarde 
+wordt vermeld, wordt deze leeftijd verlengd met 6 maanden.3/ Levertermijnen door de zorgverleners 
+worden verlengd met 6 maanden.4/ Adviserend artsen kunnen op basis van dossier oordelen, zelfs 
+als dit onvolledig is.Als reglementering voor een akkoord van een adviserend arts een lichamelijk 
+onderzoek voorziet, kan de adviserend arts een akkoord geven zonder lichamelijk onderzoek als hij vindt 
+dat hij over voldoende (schriftelijke) informatie beschikt.De termijnen voor beslissing van 
+adviserend arts worden niet verlengd.Als een stilzwijgend akkoord is voorzien bij gebrek aan 
+beslissing binnen een termijn, blijft de regel dezelfde, d.w.z. dat het akkoord wordt geacht te zijn 
+gegeven als de termijn is verstreken.Dit wordt niet gewijzigd om niet te raken aan de rechten 
+van de sociaal verzekerde.5/ Voorschrift kan worden opgesteld na telefonische of video consultatie.6/ 
+De duurtijd voor het in aanmerking nemen van documenten die een medische toestand bewijzen wordt verlengd 
+met 6 maanden.7/ Verlenging van de niet medicamenteuze akkoorden, stilzwijgende akkoorden, 
+kennisgevingen van de adviserend artsen met 6 maanden voor deze die gedeeltelijk in werking waren gedurende 
+de COVID periode (van 1 maart tem een datum te bepalen) zonder dat deze verlenging evenwel het voorziene 
+aantal zittingen wijzigt.De uitvoerende zorgverlener (kiné, verpleegkundige, enz.) is verantwoordelijk 
+om te checken of de inhoud nog actueel is gelet op de gezondheidstoestand van de patiënt.8/ 
+Verlenging met 6 maanden van de termijnen voor het overmaken van documenten die een voorwaarde zijn voor 
+terugbetaling van een verstrekking.9/ Mogelijkheid voor de adviserend-artsen om te werken op 
+basis van kopies van een document.10/ Ondertekening door de zorgverlener in naam van de patiënt 
+met vermelding dat de patiënt werd geïnformeerd over de inhoud van het document.11/ De maximumtermijnen 
+ten opzichte van een gebeurtenis of tussen verstrekkingen, die zijn voorzien in de vergoedingsvoorwaarden, 
+worden telkens verlengd met zes maanden.12/ Voor alle prestaties voor dewelke een opvolgtermijn 
+is voorzien (termijn binnen dewelke een opvolging dient te gebeuren zonder dat een prestatie kan worden 
+aangerekend) en als deze termijn loopt of begint te lopen tijdens de covid periode, wordt deze termijn 
+geschorst vanaf 1 maart tot het einde van de COVID periode. Daarenboven wordt deze termijn verlengd met 
+30 dagen.De artikelen 1 tot 30 verwijzen naar de maatregelen die tot doel hebben om de gevolgen 
+van de actuele toestand op te vangen voor verschillende sectoren van de verzekering voor geneeskundige 
+verzorging. Deze zullen u hieronder kort artikelsgewijs worden beschreven.Artikel 1. De maatregelen 
+bedoeld in het ontwerp van besluit betreffen de tijdelijke aanpassingen vereist in het kader van de verzekering 
+voor geneeskundige verzorging en nodig voor het behoud van de continuïteit van de zorgen ten gevolge 
+van de pandemie, door de inperkingsmaatregelen in het bijzonder die werden genomen en hun weerslag op 
+de toegang tot zorgen voor de rechthebbenden.Afdeling 1 - Aanpassing vergoedingsvoorwaarden 
+van bepaalde geneesmiddelenDe maatregelen passen de regels van verzekering voor geneeskundige 
+verzorging aan met betrekking tot de machtigingen voor vergoeding van bepaalde geneesmiddelen, producten 
+of farmaceutische verstrekkingen. Ze hebben tot doel om te voorkomen dat de behandeling van en terugbetaling 
+aan de patiënt onderbroken zou worden, evenals om de naleving van bepaalde maatregelen van inperking 
+door COVID-19 te vergemakkelijken.Art. 2. Voor de vergoeding van specialiteiten gebruikt in 
+het kader van medisch begeleide voortplanting, wordt de maximale leeftijd verlengd met 6 maanden.Art. 
+3. De terugbetalingsvoorwaarden van de antimycotica (farmaceutische specialiteiten op basis van voriconazole, 
+posaconazole, isavuconazole, caspofungine en anidulafungine) worden tijdelijk uitgebreid om de terugbetaling 
+ook mogelijk te maken voor behandeling van bepaalde schimmelinfecties bij COVID- 19 patiënten.Art. 
+4. Voor zuurstof en de oxyconcentrators zal de lopende machtiging minstens tot en met 31 mei 2020 geldig 
+blijven en de terugbetaling van maximaal 6 periodes van 1 maand mogelijk maken. Op die manier kan de 
+overgang naar langdurige zuurstoftherapie uitgesteld worden naar een latere datum.De onderlinge 
+uitwisselbaarheid van de machtigingen/akkoorden afgeleverd door de adviserend artsen in het kader van 
+zuurstoftherapie is voorzien : een machtiging/akkoord dat gegeven is voor het ene type zuurstoftherapie 
+is ook geldig voor een ander type zuurstoftherapie.Art. 5. Minstens tot en met 31 mei 2020 
+zullen, in het geval van een tekort aan erytrocytenconcentraten, de specialiteiten op basis van IV-ijzer 
+en erytropoëtines terugbetaald zijn, op voorwaarde dat ze bedoeld zijn ter correctie van bepaalde bloedarmoedes 
+om zo te voorkomen dat transfusies nodig zijn.Art. 6. Publieke officina's zullen de specialiteiten 
+EyleaR en LucentisR minstens tot en met 31 mei 2020 kunnen afleveren, zodat de toediening ervan mogelijk 
+is in een praktijkruimte (bij een oftalmoloog of in een privé-centrum) die de optimale aseptische omstandigheden 
+garandeert overeenkomstig de richtlijnen van het FAGG.Art. 7. De machtiging van de adviserend-arts 
+voor de terugbetaling van een geneesmiddel wordt automatisch verlengd met drie maanden.Afdeling 
+2 - Gebruik van de RID-code van het elektronisch voorschriftArt. 8. Om de verspreiding van 
+het virus COVID-19 tegen te gaan is het voor voorschrijvers van geneesmiddelen mogelijk - met de toestemming 
+van de patiënt - om geen papieren bewijs van elektronisch voorschrift aan de patiënt te bezorgen, maar 
+wel de RID-code van het voorschrift via een andere communicatiemethode (e-mail, telefoon, Skype, enz.). 
+De RID-code is de streepjescode die staat voor het unieke voorschriftnummer van het geneesmiddelenvoorschrift. 
+Op elk elektronisch voorschrift staat onder de barcode de `vertaling' ervan in letters en cijfers.Afdeling 
+3 - ArtsenArt. 9. Teneinde de zorgkwaliteit en zorgcontinuïteit ook tijdens de COVID-19-crisis 
+te garanderen, uiteraard met respect voor de regels voor fysieke afstand, worden bepaalde regels van 
+de verzekering voor geneeskundige verzorging aangepast voor de terugbetaling van verstrekkingen die artsen-specialisten 
+afleveren (artikels van de nomenclatuur 1, 2, 3, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 
+23, 24, 24bis, 25, 26, 32, 33, 33bis, 33ter en 34). Concreet, betreft het met name:• 
+De vergoedingsvoorwaarden betreffende de leeftijd van de patiënt• De maximumtermijnen 
+voor bepaalde verstrekkingen en toepassingsregels• De opvolgingstermijnenAfdeling 
+4 - Oncologische zorgArt. 10. Omwille van COVID-19 stellen ziekenhuizen niet-dringende consultaties 
+en behandelingen uit, kan de opvolging van sommige overeenkomsten niet binnen de afgesproken termijnen 
+of regels plaatsvinden en kunnen de procedures voor de indiening van aanvragen niet volledig worden gerespecteerd. 
+Om te vermijden dat deze uitzonderlijke situatie nadelige gevolgen heeft voor de betrokken patiënten 
+en voor de betrokken ziekenkuizen worden uitzonderlijk bepaalde maatregelen genomen:• 
+De maximumleeftijd voor oncofreezing (behoud van de vruchtbaarheid)• De periode voor 
+borstreconstructie met eigen weefsel• De indieningstermijn van het activiteitenrapport 
+voor Next Generation sequencing (NGS)- netwerken• De termijnen voor het begeleidingscomité 
+en activiteitenrapport voor "Gen expressie Profileringstesten" (GEP) bij vroegstadiumborstkanker• 
+Het indienen van een aanvraagdossier voor de ten laste neming van de kosten voor hadrontherapie enkel 
+per e-mail.Afdeling 5 - Versoepeling van de verlengingsvoorwaarden van zorgtrajectenArt. 
+11. Omwille van COVID-19 crisis stellen artsen en ziekenhuizen niet-dringende contacten, consultaties 
+en behandelingen uit. Dit kan een belangrijke impact hebben op de jaarlijkse verlenging van de zorgtrajecten 
+voor chronische patiënten (chronische nierinsufficiëntie of diabetes type 2). Om zo veel mogelijk te 
+vermijden dat deze uitzonderlijke situatie nadelige gevolgen heeft voor de betrokken patiënten en voor 
+de betrokken artsen, worden de verlengingsvoorwaarden versoepeld.Afdeling 6 - Medische beeldvormingArt. 
+12. In deze COVID-19-crisis is het nodig om mogelijks besmette patiënten te kunnen scheiden van andere 
+patiënten. In deze context neemt de vraag naar CT-onderzoeken op specifieke apparaten overal toe. Sommige 
+ziekenhuizen hebben een hybride apparaat met CT (SPECT-CT), voorbehouden voor onderzoeken nucleaire geneeskunde. 
+Die zijn nu vaak beschikbaar vanwege uitstel van niet-dringende zorg. De regels van de verzekering voor 
+geneeskundige verzorging worden aangepast om de scheiding van patiënten te vergemakkelijken en de verspreiding 
+van het virus te vermijden. Het is nu tijdelijk toegestaan om deze hybride apparaten met CT ook voor 
+CT onderzoek buiten de nucleaire geneeskunde te gebruiken.Afdeling 7 - Revalidatiecentra en 
+gespecialiseerde centraArt. 13. Omwille van de COVID-19 crisis stellen ziekenhuizen niet-dringende 
+contacten, consultaties en behandelingen uit. Dit kan een belangrijke impact hebben op de toepassing 
+van de overeenkomsten gesloten met revalidatiecentra en gespecialiseerde centra. Om zo veel mogelijk 
+te vermijden dat deze uitzonderlijke situatie nadelige gevolgen heeft voor de betrokken patiënten en 
+voor de betrokken instellingen, heeft het College van artsen-directeurs voorgesteld om uitzonderlijk 
+bepaalde maatregelen te nemen voor de betrokken sectoren.Afdeling 8 - BandagistenArt. 
+14. Deze maatregelen passen de voorwaarden voor terugbetaling aan in verband met de leeftijd van de patiënt, 
+de geldigheidsduur van medische voorschriften en de termijn voor het afleveren van de verstrekkingen 
+die bandagisten afleveren.Afdeling 9 - Verstrekkers van implantatenArt. 15. Teneinde 
+de zorgkwaliteit en zorgcontinuïteit ook tijdens de COVID-19-crisis te garanderen, uiteraard met respect 
+voor de regels voor fysieke afstand, worden bepaalde regels van de verzekering voor geneeskundige verzorging 
+aangepast voor de terugbetaling van verstrekkingen die verstrekkers van implantaten afleveren (cf Lijst 
+van implantaten en invasieve medische hulpmiddelen en revalidatieovereenkomst implanteerbare hartdefibrillatoren):• 
+De vergoedingsvoorwaarden betreffende de leeftijd van de patiënt• De termijn voor het 
+registeren van gegevens voor bepaalde verstrekkingen van de lijst• De termijnen voor 
+de opvolging van behandeling na implantatie• De termijnen voor het aanvragen van een 
+volgnummer• De termijnen voor het indienen van tussentijdse, finale of periodieke verslagen• 
+De termijnen van de tijdelijke tegemoetkoming voor de behandeling van een mitralisklepregurgitatie (BKT)• 
+De geldigheidstermijn van de voorschriften voor ambulante invasieve medische hulpmiddelen• 
+De geldigheidtermijn van de akkoorden voor vergoeding• De regels rond de medico-administratieve 
+documenten bestemd voor de adviserend artsen, het College van artsen-directeurs of het secretariaat van 
+het CTIIMH• De termijnen om de gegevens te registeren voor implanteerbare hartdefibrillatoren• 
+De termijnen om een hartdefibrillator te implanteren, na de implantatie van een resynchronisatie-elektrode.Continuïteit 
+in de verwerking van individuele dossiers wordt verzekerd door middel van peer review-vergaderingen en 
+vergaderingen van het College van artsen-directeurs via teleconferentie. De beslissingstermijn wordt 
+dus NIET verlengd om geen inbreuk te maken op de rechten van patiënten.Om dezelfde reden wordt 
+ook de beslissingstermijn van de adviserend arts NIET verlengd.Afdeling 10 - LogopedistenArt. 
+16. Teneinde de zorgkwaliteit en zorgcontinuïteit ook tijdens de COVID-19-crisis te garanderen, uiteraard 
+met respect voor de regels voor fysieke afstand, worden bepaalde regels van de verzekering voor geneeskundige 
+verzorging aangepast voor de terugbetaling van verstrekkingen van logopedisten (art. 36 van de nomenclatuur 
+van geneeskundige verstrekkingen):• De vergoedingsvoorwaarden betreffende de leeftijd 
+van de patiënt• De termijnen om een behandeling te starten• De regels 
+rond het voorschrift• De geldigheidstermijn van behandelingsakkoorden• 
+De regels rond de te verzenden documenten aan de adviserend arts.Afdeling 11 - KinesitherapeutenArt. 
+17. Teneinde de zorgkwaliteit en zorgcontinuïteit ook tijdens de COVID-19-crisis te garanderen, uiteraard 
+met respect voor de regels voor fysieke afstand, worden bepaalde regels van de verzekering voor geneeskundige 
+verzorging aangepast voor de terugbetaling van verstrekkingen door kinesitherapeuten (art. 7 van de nomenclatuur):• 
+De vergoedingsvoorwaarden betreffende de leeftijd van de patiënt• De geldigheidstermijn 
+van medische voorschriften• De geldigheidsduur van medische vaststellingen voor de aandoeningen 
+F-acuut (Fa) en F-chronisch (Fb) • De geldigheidsduur van de kennisgeving voor de aandoening 
+F-acuut (Fa)• De geldigheidsduur van een akkoord voor zware aandoeningen (E) van een 
+adviserend arts en de procedure om het akkoord te krijgen. Bepaalde elementen worden niet aangepast 
+zoals de vergoedingsvoorwaarde betreffende het maximaal aantal prestaties per periode.Afdeling 
+12 - OpticiensArt. 18. Deze maatregelen passen de vergoedingsvoorwaarden aan gekoppeld aan 
+de leeftijd van de patiënt, de geldigheidsduur van medische voorschriften en de termijn voor het jaarlijkse 
+onderhoud van oogprothesen.Afdeling 13 - OrthopedistenArt. 19. Deze maatregelen passen 
+de voorwaarden voor terugbetaling aan gekoppeld aan de leeftijd van de patiënt, de geldigheidsduur van 
+medische voorschriften, de periode voor levering van orthopedische diensten, verlenging van de niet-medicamenteuze 
+akkoorden, stilzwijgende akkoorden, kennisgevingen (voorbeeld: drukkledij) en de periode inzake garantie, 
+onderhoud of reparatie van prothesen.Afdeling 14 - TandartsenArt. 20. Teneinde de 
+zorgkwaliteit en zorgcontinuïteit ook tijdens de COVID-19-crisis te garanderen, uiteraard met respect 
+voor de regels voor fysieke afstand, worden bepaalde regels van de verzekering voor geneeskundige verzorging 
+aangepast voor de terugbetaling van verstrekkingen door tandartsen (art. 5 en 6 van de nomenclatuur).Afdeling 
+15 - VerpleegkundigenArt. 21. Om de continuïteit van de verpleegkundige zorg tijdens de COVID-19-crisis 
+te waarborgen, worden de modaliteiten van facturering aangepast.Afdeling 16 - Thuisverpleegkundige: 
+de identiteit van de patiënt verifiëren bij derdebetalerArt. 22. Tijdens de crisisperiode in 
+verband met COVID-19 moet de eID van de patiënt niet worden gelezen om hun identiteit te controleren 
+in de situaties waar de gezondheid van patiënten en/of thuisverpleegkundigen in het gedrang kan komen. 
+Tijdens hun identiteitscontrole kunnen verpleegkundigen de manuele invoering toepassen. Op deze manier 
+kan de derdebetalersregeling correct worden toegepast tijdens deze uitzonderlijke periode, ook bij niet-lezing 
+van de eID.Afdeling 17 - VroedvrouwenArt. 23. Een aantal verstrekkingen in het kader 
+van de terugbetaalbare postnatale zorg kunnen ten laatste 1 jaar na de bevalling worden verleend. Die 
+termijn blijft onveranderd.Afdeling 18 - Verstrekkingen voorzien in het koninklijk besluit 
+van 10 januari 1991 tot vaststelling van de nomenclatuur van de revalidatieverstrekkingen bedoeld in 
+artikel 23, § 2, tweede lid, van de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen gecoördineerd op 14 juli 1994, tot vaststelling van de honoraria en prijzen 
+van die verstrekkingen en tot vaststelling van het bedrag van de verzekeringstegemoetkoming in die honoraria 
+en prijzen - ErgotherapieverstrekkingenArt. 24. De maatregel is een voorstel van het College 
+van artsen-directeurs dat krachtens artikel 23 § 2, tweede lid van de gecoördineerde wet van 14 
+juli 1994 bevoegd is om advies te geven over de in dat lid bedoelde nomenclatuur van de revalidatieverstrekkingen.Het 
+voorstel is tot stand gekomen na vragen in die zin van betrokken zorgverleners.Het artikel 
+voorziet de mogelijkheid om de ergotherapieverstrekkingen die normaliter moeten worden verricht binnen 
+de periode van 6 maanden nadat de patiënt een volledig revalidatieprogramma heeft gevolgd in een revalidatiecentrum 
+dat met het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering een overeenkomst voor locomotorische 
+en/of neurologische revalidatie heeft gesloten, te verrichten in de periode van 12 maanden na het einde 
+van dat revalidatieprogramma. De verlenging van de normaal voorziene periode van 6 maanden is noodzakelijk 
+omdat niet alle ergotherapieverstrekkingen op kwalitatieve wijze via videocommunicatie kunnen worden 
+gerealiseerd en omdat de ergotherapieverstrekkingen die alleen op kwalitatieve wijze kunnen worden verricht 
+als ze geheel of gedeeltelijk in het leefmilieu van de rechthebbende kunnen worden gerealiseerd, tijdens 
+de COVID-19-crisisperiode dikwijls worden uitgesteld om besmetting te voorkomen, waardoor de voorziene 
+ergotherapieverstrekkingen niet in de voorziene periode van 6 maanden kunnen worden verricht.Afdeling 
+19 - DocumentenArt. 25. De documenten die aan het ziekenfonds bezorgd moeten worden om de rechten 
+op terugbetaling van geneeskundige verzorging te behouden, (aanvraag tot inschrijving bij een ziekenfonds, 
+aanvraag van de verhoogde tegemoetkoming, enz.) kunnen worden bezorgd binnen verlengde termijnen. De 
+verjaringstermijnen voor de vorderingen tot de betaling van geneeskundige verstrekkingen, tot de terugvordering 
+van de waarde der ten laste van de verzekering voor geneeskundige verzorging ten onrechte verleende prestaties 
+en tot de terugbetaling van persoonlijke bijdragen worden verlengd.Art. 26. Voor de documenten 
+die moeten bezorgd worden aan het ziekenfonds met oog op het behouden van de rechten op terugbetalingen 
+van geneeskundige verzorging (aanvraag inschrijving bij een ziekenfonds, aanvraag verhoogde tegemoetkoming, 
+enz..) alsook voor de documenten die de artsen moeten bezorgen aan het ziekenfonds van de verzekerde 
+met oog op de toekenning van de palliatieve en incontinentieforfaits, wordt het opsturen van een elektronische 
+beveiligde kopie aanvaard.Afdeling 20 - Verlenging aanvraagtermijn van bepaalde vergoedingen 
+of tegemoetkomingen voor zorgverlenersArt. 27. Artikel 27 voorziet in een verlenging van de 
+aanvraagtermijn voor de vergoeding voor stagemeesters van kandidaat-specialisten voor referentiejaar 
+2018 tot 30 april 2020. Ten gevolge van de coronacrisis en de bijkomende, meer prioritaire taken die 
+aan deze beroepsgroep werden toevertrouwd, is het aangewezen een ruimere termijn te geven voor het verrichten 
+van deze administratieve handeling.Art. 28. Artikel 28 voorziet in een verlenging van de aanvraagtermijn 
+voor de financiële tegemoetkoming voor kinesitherapeuten voor het gebruik van telematica en het elektronisch 
+beheer van dossiers voor referentiejaar 2020 tot 30 april 2020. Ten gevolge van de coronacrisis is het 
+aangewezen een ruimere termijn te geven voor het verrichten van deze administratieve handeling.Art. 
+29. Artikel 29 voorziet in een verlenging van de aanvraagtermijn voor de tegemoetkoming aan huisartsen 
+voor gebruik van telematica en het elektronisch beheer van de medische dossiers voor referentiejaar 2018 
+tot 30 april 2020. Ten gevolge van de coronacrisis en de bijkomende, meer prioritaire taken die aan deze 
+beroepsgroep werden toevertrouwd, is het aangewezen een ruimere termijn te geven voor het verrichten 
+van deze administratieve handeling.Afdeling 21 - AudiciensArt. 30. Teneinde de zorgkwaliteit 
+en zorgcontinuïteit ook tijdens de COVID-19-crisis te garanderen, uiteraard met respect voor de regels 
+voor fysieke afstand, worden bepaalde regels van de verzekering voor geneeskundige verzorging aangepast 
+voor de terugbetaling van verstrekkingen door audiciens (art. 31 van de nomenclatuur) :- voorwaarden 
+voor terugbetaling aan in verband met de leeftijd van de patiënt;- geldigheidsduur van medische 
+voorschriften;- periode voor het verlenen van de diensten van de audiciens;- maximumtermijnen 
+ten opzichte van een gebeurtenis of tussen verstrekkingen (voorbeeld: contralaterale toerusting).Artikel 
+31 voorziet dat het aan de Koning toekomt om de datum vast te stellen waarop de tijdelijke maatregelen 
+eindigen. In functie van onder andere de evolutie van de sanitaire situatie, de algemene situatie, de 
+maatregelen uitgevoerd ten gevolge van de fasen inzake opheffing van inperkingsmaatregelen en de werkelijke 
+beschikbaarheid van zorgverleners, zal het einde van de verschillende maatregelen in de tijd moeten worden 
+gespreid. De Koning zal dus voor elke maatregel de meest geschikte datum kunnen vaststellen om deze op 
+te heffen.Dit besluit zal moeten worden bekrachtigd bij wet overeenkomstig artikel 7, tweede 
+lid, van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de 
+strijd tegen de verspreiding van het coronavirus COVID-19 (II). De maatregelen die worden genomen op 
+basis van dit besluit zullen een in de tijd beperkt effect hebben en beogen niet om de reglementering 
+definitief te wijzigen. Evenwel is het niet mogelijk om vooruit te lopen op de evolutie van de sanitaire 
+situatie en dus meteen de duurtijd van de overwogen maatregelen vast te stellen.Artikel 32 
+bepaalt de inwerkingtreding van het koninklijk besluit. Om de belangen van de patiënten en de zorgverleners 
+te waarborgen wordt voorgesteld dat de maatregelen kunnen worden genomen met terugwerkende kracht op 
+1 maart 2020.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Minister van Sociale Zaken en Volksgezondheid,M. 
+DE BLOCK14 MEI 2020. - Koninklijk besluit nr. 21 houdende tijdelijke aanpassingen 
+aan de vergoedingsvoorwaarden en administratieve regels in de verplichte verzekering voor geneeskundige 
+verzorging ten gevolge van de COVID-19 pandemieFILIP, Koning der Belgen, Aan allen 
+die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II), de artikelen 5, § 1, 1°,  en 6;Gelet op de wet betreffende de verplichte 
+verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 4 mei 2020 ;Gelet op de akkoordbevinding 
+van de Minister van Begroting, gegeven op 8 mei 2020 ;Gelet op het artikel 8, § 2, 2°, 
+ van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, 
+is dit besluit vrijgesteld van een regelgevingsimpactanalyse;Gelet op de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (I), artikel 4, tweede lid;Overwegende de spoedeisendheid gemotiveerd 
+door de uitbraak van de pandemie coronavirus COVID-19 op het Belgisch grondgebied en de onmogelijkheid 
+om de gevestigde instanties formeel bijeen te roepen;Overwegende de substantiële toename van 
+het formeel en fysiek overleg dat nodig zou zijn in technische werkgroepen, raden en commissies om de 
+kritieke situaties als gevolg van de verspreiding van het coronavirus COVID-19 aan te pakken;Overwegende 
+het informeel overleg met de verzekeringsinstellingen, met de respectievelijke vertegenwoordigers van 
+de zorgverleners, en met het Nationaal Intermutualistich College, in het bijzonder over de periode van 
+13 maart tot 27 april;Overwegende de noodzaak om alle maatregelen die om redenen van volksgezondheid 
+en continuïteit van zorg zijn vastgesteld en reeds zijn uitgevoerd, zo spoedig mogelijk te regulariseren 
+alsook om de terugwerkende kracht ervan te beperken en de rechtszekerheid te waarborgen voor alle actoren 
+die dagelijks bij de bestrijding van de pandemie betrokken zijn;Op de voordracht van de Minister 
+van Sociale Zaken en Volksgezondheid en op het advies van de in Raad vergaderde Ministers,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. Dit besluit stelt tijdelijke maatregelen vast die 
+van toepassing zijn in de verplichte verzekering voor geneeskundige verzorging om te reageren op de COVID-19 
+pandemie en de gevolgen ervan op te vangen.Afdeling 1. - Aanpassing vergoedingsvoorwaardenvan 
+bepaalde geneesmiddelenArt. 2. Voor de vergoeding van specialiteiten gebruikt in het kader 
+van medisch begeleide voortplanting gelden de maatregelen in bijlage 1.Art. 3. Voor de antimycotica 
+gelden de maatregelen in bijlage 2.Art. 4. Voor zuurstoftherapie gelden de maatregelen in bijlage 
+3.Art. 5. Voor de tekorten aan erytrocytenconcentraten gelden de maatregelen in bijlage 3.Art. 
+6. Voor oftalmologie gelden de maatregelen in bijlage 3.Art. 7. Voor de machtigingen voor vergoeding 
+van bepaalde geneesmiddelen gelden de maatregelen in bijlage 4.Afdeling 2. - Gebruik van de 
+RID-code van het elektronisch voorschriftArt. 8. Voor de voorschriften van geneesmiddelen gelden 
+de maatregelen in bijlage 5.Afdeling 3. - ArtsenArt. 9. Voor de artsen-specialisten 
+gelden de maatregelen in bijlage 6.Afdeling 4. - Oncologische zorgArt. 10. Voor de 
+oncologische zorg gelden de maatregelen in bijlage 7.Afdeling 5. - Versoepeling van de verlengingsvoorwaardenvan 
+zorgtrajectenArt. 11. Voor de zorgtrajecten gelden de maatregelen in bijlage 8.Afdeling 
+6. - Medische beeldvormingArt. 12. Voor de medische beeldvorming gelden de maatregelen in bijlage 
+9.Afdeling 7. - Revalidatiecentra en gespecialiseerde centraArt. 13. Voor de revalidatiecentra 
+en gespecialiseerde centra gelden de maatregelen in bijlage 10.Afdeling 8. - BandagistenArt. 
+14. Voor de bandagisten gelden de maatregelen in bijlage 11.Afdeling 9. - Verstrekkers van 
+implantatenArt. 15. Voor de verstrekkers van implantaten gelden de maatregelen in bijlage 12.Afdeling 
+10. - LogopedistenArt. 16. Voor de logopedisten gelden de maatregelen in bijlage 13.Afdeling 
+11. - KinesitherapeutenArt. 17. Voor de kinesitherapeuten gelden de maatregelen in bijlage 
+14.Afdeling 12. - OpticiensArt. 18. Voor de opticiens gelden de maatregelen in bijlage 
+15.Afdeling 13. - OrthopedistenArt. 19. Voor de orthopedisten gelden de maatregelen 
+in bijlage 16.Afdeling 14. - TandartsenArt. 20. Voor de tandartsen gelden de maatregelen 
+in bijlage 17.Afdeling 15. - VerpleegkundigenArt. 21. Voor de elektronische facturering 
+van verpleegkundigen gelden de maatregelen in bijlage 18.Afdeling 16. - Thuisverpleegkundige: 
+de identiteitvan de patiënt verifiëren bij derdebetalerArt. 22. Voor de lezing eID 
+gelden de maatregelen in bijlage 19.Afdeling 17. - VroedvrouwenArt. 23. Voor de vroedvrouwen 
+gelden de maatregelen in bijlage 20.Afdeling 18. - Verstrekkingen voorzien in het koninklijk 
+besluit van 10 januari 1991 tot vaststelling van de nomenclatuur van de revalidatieverstrekkingen bedoeld 
+in artikel 23, § 2, tweede lid, van de wet betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen gecoördineerd op 14 juli 1994, tot vaststelling van de honoraria en prijzen 
+van die verstrekkingen en tot vaststelling van het bedrag van de verzekeringstegemoetkoming in die honoraria 
+en prijzen - ErgotherapieverstrekkingenArt. 24. Voor een rechthebbende die een volledig programma 
+heeft gevolgd in een revalidatiecentrum dat met het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering 
+een overeenkomst voor locomotorische en/of neurologische revalidatie heeft gesloten, kunnen de verstrekkingen 
+784291, 784302, 784313, 784335 en 784350 worden verricht tot 12 maanden na de einddatum van het programma 
+in het revalidatiecentrum, als de periode van 6 maanden die hiervoor normaal wordt voorzien, gedeeltelijk 
+in de periode die loopt vanaf 14 maart 2020 valt.Afdeling 19. - DocumentenArt. 25. 
+Voor de documenten die aan het ziekenfonds bezorgd moeten worden, alsook voor de vorderingen tot de betaling 
+van geneeskundige verstrekkingen, tot de terugvordering van de waarde der ten laste van de verzekering 
+voor geneeskundige verzorging ten onrechte verleende prestaties en tot de terugbetaling van persoonlijke 
+bijdragen, gelden de maatregelen in bijlage 21.Art. 26. Voor de documenten die moeten bezorgd 
+worden aan het ziekenfonds, enerzijds door de verzekerden met oog op het behouden van hun rechten op 
+geneeskundige verzorging, en anderzijds door de artsen met oog op de toekenning aan de verzekerden van 
+de palliatieve en incontinentieforfaits, zijn de maatregelen genomen in de bijlagen 21 en 22 van toepassing.Afdeling 
+20. - Verlenging aanvraagtermijn van bepaaldevergoedingen of tegemoetkomingen voor zorgverlenersArt. 
+27. De vervaltermijn waarbinnen de vergoeding zoals voorzien in het koninklijk besluit van 11 juni 2018 
+tot vaststelling van het bedrag en de betalingsmodaliteiten van de vergoeding voor de stagemeesters in 
+de geneeskunde van kandidaat-specialisten kan worden aangevraagd voor referentiejaar 2018, eindigt op 
+30 april 2020.Art. 28. De vervaltermijn waarbinnen de tegemoetkoming zoals voorzien in het 
+koninklijk besluit van 18 februari 2005 tot bepaling van de voorwaarden en de nadere regels overeenkomstig 
+dewelke de verplichte verzekering voor geneeskundige verzorging en uitkeringen een financiële tegemoetkoming 
+verleent aan de kinesitherapeuten voor het gebruik van telematica en het elektronisch beheer van dossiers 
+kan worden aangevraagd voor referentiejaar 2020, eindigt op 30 april 2020.Art. 29. De vervaltermijn 
+waarbinnen de tegemoetkoming zoals voorzien in het koninklijk besluit van 30 juni 2017 tot bepaling van 
+de voorwaarden en de modaliteiten overeenkomstig dewelke de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen een financiële tegemoetkoming verleent aan de huisartsen voor gebruik van telematica 
+en het elektronisch beheer van de medische dossiers kan worden aangevraagd voor referentiejaar 2018, 
+eindigt op 30 april 2020.Afdeling 21. - AudiciensArt. 30. Voor de audiciens gelden 
+de maatregelen in bijlage 23.Art. 31. De maatregelen die zijn vastgesteld bij dit besluit blijven 
+van toepassing tot een door de Koning te bepalen datum, zelfs als er in de bijlagen een einddatum is 
+vastgesteld. De Koning kan voor iedere maatregel een andere datum bepalen.Art. 32. Dit besluit 
+heeft uitwerking met ingang van 1 maart 2020.Art. 33. De minister bevoegd voor Sociale Zaken 
+is belast met de uitvoering van dit besluit.Gegeven te Brussel, 14 mei 2020.FILIPVan 
+Koningswege :De Minister van Sociale Zaken en Volksgezondheid,M. DE BLOCK Voor de raadpleging van de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-20Numac : 2020041340
+

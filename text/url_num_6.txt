@@ -1,0 +1,73 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/01/20/2020020094/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-01-28Numac : 2020020094
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 20 JANUARI 2020. - Ministerieel besluit tot aanpassing van het ministerieel besluit van 20 december 2019 tot aanduiding van de gedelegeerde inzake de toepassing van de artikelen 734/11 tot 734/14 en 734quater/1 van het koninklijk besluit tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 
+De Vice-Eerste Minister en Minister van Financiën,Gelet 
+op artikel 205/5, § 5, van het Wetboek van de inkomstenbelastingen 1992 ingevoegd bij de wet van 
+25 december 2017;Gelet op het koninklijk besluit tot uitvoering van het Wetboek van de inkomstenbelastingen 
+1992, artikel 734quater/3;Gelet op het ministerieel besluit 
+van 20 december 2019 tot aanduiding van de gedelegeerde inzake de toepassing van de artikelen 734/11 
+tot 734/14 en 734quater/1 van het koninklijk besluit tot 
+uitvoering van het Wetboek van de inkomstenbelastingen 1992;Gelet op het koninklijk besluit 
+van 16 november 1994 betreffende de administratieve en begrotingscontrole, artikelen 5 en 14;Overwegende 
+dat de bepalingen van dit besluit geen rechtstreekse of onrechtstreekse financiële weerslag kunnen hebben;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Overwegende 
+dat de bepalingen van dit besluit niet reglementair van aard zijn,Besluit :Artikel 
+1. Het opschrift van het ministerieel besluit van 20 december 2019 tot aanduiding van de gedelegeerde 
+inzake de toepassing van de artikelen 734/11 tot 734/14 en 734quater/1 
+van het koninklijk besluit tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 
+wordt vervangen als volgt:"Ministerieel besluit van 20 december 2019 tot aanduiding van de 
+gedelegeerde inzake de toepassing van de artikelen 734/11 tot 734/14 en 
+734quater/3 van het koninklijk besluit tot uitvoering 
+van het Wetboek van de inkomstenbelastingen 1992".Art. 2. In artikel 1 van hetzelfde ministerieel 
+besluit wordt het woord "734quater/1" vervangen door het woord "734quater/3".Brussel, 
+20 januari 2020.A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-01-28Numac : 2020020094
+

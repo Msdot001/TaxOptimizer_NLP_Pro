@@ -1,0 +1,94 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022040471
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene administratie van de fiscaliteit. - Belasting van niet-inwoners (natuurlijke personen). - Bericht 
+aan de werkgevers die bezoldigingen betalen aan arbeiders die niet-inwoner zijn en als seizoenarbeiders 
+in de land- en tuinbouw werkenWettelijke bepalingenArtikel 7 van de wet van 21 januari 
+2022 houdende diverse fiscale bepalingen (BS 28.01.2022), hierna W 21.01.2022 heeft de mogelijkheid ingevoerd 
+om de bedrijfsvoorheffing die verschuldigd is op bezoldigingen van niet-inwoners die als seizoenarbeiders 
+in de land- en tuinbouw werken bevrijdend te maken. Voor de inwoners van een lidstaat van de Europese 
+Economische Ruimte gaat het om een keuzestelsel, aangezien zij ervoor kunnen opteren om hun inkomsten 
+te regulariseren via een aangifte in de belasting van niet-inwoners (natuurlijke personen).Onder 
+bezoldigingen van seizoenarbeiders in de land- of tuinbouw wordt verstaan:- de bezoldigingen 
+voor prestaties als gelegenheidswerker in de land- of tuinbouw als bedoeld in artikel 8bis van het koninklijk 
+besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet 
+van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders - de eindejaarspremie 
+en de getrouwheidspremie die door het Waarborg- en Sociaal Fonds voor het tuinbouwbedrijf worden toegekend 
+- de bezoldigingen voor prestaties als arbeider in de land- of tuinbouw ingevolge een contract 
+van bepaalde duur of voor een duidelijk omschreven werk van maximaal zes opeenvolgende kalenderweken 
+onmiddellijk aansluitend op een tewerkstelling als gelegenheidsarbeider in de land- of tuinbouw bij dezelfde 
+werkgever, en het vakantiegeld dat daarop betrekking heeft.Dat stelsel is alleen van toepassing 
+wanneer de belastingplichtige en, desgevallend, zijn echtgenoot tijdens het betrokken belastbare tijdperk 
+in België geen andere dan de hiervoor vermelde inkomsten hebben behaald of verkregen die moeten worden 
+aangegeven en geregulariseerd in de belasting van niet-inwoners (natuurlijke personen).Deze 
+bepalingen zijn van toepassing vanaf aanslagjaar 2022 (inkomsten van het jaar 2021).Door de 
+werknemer te vervullen formaliteitenDe seizoenarbeiders moeten, op basis van de wettekst, aan 
+hun werkgever een door de fiscale administratie van hun woonplaats uitgereikte woonplaatsverklaring bezorgen, 
+uiterlijk op de dag van de eerste betaling door die werkgever van bezoldigingen van seizoenarbeiders 
+in de land- of tuinbouw.Gelet op de mogelijke problemen die de arbeider kan ondervinden om 
+een door zijn fiscale administratie uitgereikte woonplaatsverklaring te bekomen en deze binnen de wettelijke 
+termijn aan zijn werkgever te bezorgen, wordt toegestaan dat een verklaring die zijn officiële woonplaats 
+vaststelt, mag worden verstrekt door een andere overheidsinstantie dan de fiscale administratie, voor 
+zover die overheidsinstantie bevoegd is om de burgerlijke woonplaats vast te stellen. Een dergelijke 
+verklaring beantwoordt aan de bedoeling van de wet, namelijk dat de werkgever het adres van de officiële 
+woonplaats van de arbeider zou kennen om zijn administratieve verplichtingen correct te kunnen nakomen.Een 
+dergelijke verklaring is verplicht vanaf aanslagjaar 2023 (inkomsten van het jaar 2022).Door 
+de werkgever te vervullen formaliteitenDe wettekst verplicht de werkgever om vóór 1 maart van 
+het jaar volgend op het inkomstenjaar via elektronische weg een afschrift van de woonplaatsverklaring 
+te bezorgen aan de fiscale administratie.Aangezien de wet de Minister van Financiën belast 
+met het bepalen van de nadere regels voor het bezorgen van deze verklaringen, is om pragmatische redenen 
+en om de administratieve formaliteiten in hoofde van de werkgever te verlichten besloten dat deze laatste 
+de woonplaatsverklaringen ter beschikking moet houden van de Belgische fiscale administratie en ze over 
+te maken op elk verzoek van die administratie.Tenslotte bevat de fiche 281.10 van de inkomsten 
+van het jaar 2021 een nieuw vak dat toelaat te vermelden dat de fiche bezoldigingen van een seizoenarbeider 
+niet-inwoner in de land- of tuinbouw onderworpen aan de bevrijdende bedrijfsvoorheffing betreft.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-09Numac : 2022040471
+

@@ -1,0 +1,108 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/12/03/2021034199/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-12-09Numac : 2021034199
+WAALSE OVERHEIDSDIENST
+ 3 DECEMBER 2021. - Besluit van de Waalse Regering tot wijziging van het besluit van de Waalse Regering van bijzondere machten nr. 74 van 22 december 2020 betreffende de toekenning van een investeringspremie voor de vervaardiging van producten in verband met COVID-19, teneinde de beslissing tot toekenning van een investeringspremie te verlengen tot 31 december 2021 
+De Waalse Regering,Gelet 
+op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote 
+ondernemingen, artikel 10;Gelet op het decreet van 29 oktober 2020 tot toekenning van bijzondere 
+machten aan de Waalse Regering om te reageren op de tweede golf van de gezondheidscrisis door COVID-19, 
+artikel 3, § 2;Gelet op het besluit van de Waalse Regering van bijzondere machten nr. 
+74 van 22 december 2020 betreffende de toekenning van een investeringspremie voor de vervaardiging van 
+producten in verband met COVID-19;Gelet op het rapport van 15 september 2021, opgemaakt overeenkomstig 
+artikel 3, 2°,  van het decreet van 3 april 11 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 2014 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 4 oktober 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 
+14 oktober 2021;Gelet op de goedkeuring van de Europese Commissie, gegeven op 12 januari 2021, 
+betreffende de steunregeling nr. SA.60414 (2020/N);Gelet op advies 70.309/2 van de Raad van 
+State, gegeven op 10 november 2021, overeenkomstig artikel 84, § 1, eerste lid, 2°,  van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de mededeling van de Commissie 
+van 19 maart 2020 in verband met de tijdelijke omkadering van de staatssteunmaatregelen ter ondersteuning 
+van de economie in de actuele context van de wijd verspreide COVID-19- epidemie, voor het laatst gewijzigd 
+op 28 januari 2021;Gelet op de kennisgeving aan de Europese Commissie en haar goedkeuring op 
+12 januari 2021 betreffende de steunregeling nr. SA.60414 (2020/N);Overwegende dat het besluit 
+van de Waalse Regering van bijzondere machten nr. 74 van 22 december 2020 betreffende de toekenning van 
+een investeringspremie voor de vervaardiging van producten in verband met COVID-19 ten doel heeft financiële 
+steun te verlenen aan ondernemingen aan ondernemingen die producten kunnen vervaardigen die nodig zijn 
+om het hoofd te bieden aan de uitbraak van de COVID-19-pandemie;Gelet op het decreet van 14 
+mei 2021 houdende bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten genomen 
+in het kader van het beheer van de gezondheidscrisis tijdens de tweede golf COVID-19;Overwegende 
+dat door de bekrachtiging alle bij een besluit van bijzondere machten vastgestelde of gewijzigde bepalingen 
+kracht van wet verkrijgen;Overwegende dat het besluit van de Waalse Regering van bijzondere 
+machten nr. 74 van 22 december 2020 betreffende de toekenning van een investeringspremie voor de vervaardiging 
+van producten in verband met COVID-19 dus de juridische waarde van een decreet heeft;Overwegende 
+dat de COVID-19-pandemie tot na 30 juni 2021 voortduurt en dat de Europese Commissie haar mededeling 
+van de Commissie van 19 maart 2020 in verband met de tijdelijke omkadering van de staatssteunmaatregelen 
+ter ondersteuning van de economie in de actuele context van de wijd verspreide COVID-19-epidemie heeft 
+verlengd;Overwegende dat voor de analyse van de verzoeken van bepaalde ondernemingen uitwisselingen 
+met de betrokken ondernemingen en de toezending van aanvullende, soms zeer technische en wetenschappelijke 
+informatie nodig waren;Overwegende dat deze uitwisselingen het niet mogelijk hebben gemaakt 
+binnen de in de regeling vastgestelde termijn een beslissing te nemen, terwijl de betrokken ondernemingen 
+aan de toekenningscriteria voldoen;Overwegende dat dit besluit ertoe strekt de beslissing voor 
+de toekenning van een investeringspremie te verlengen tot en met 31 december 2021, overeenkomstig punt 
+22, onder d), van bovengenoemd beslissing van de Commissie van 19 maart 2020, zoals gewijzigd op 28 januari 
+2021;Overwegende dat dit besluit derhalve terugwerkende kracht tot 1 juli 2021 moet hebben 
+om te voorkomen dat de ondernemingen die aan de toekenningsvoorwaarden voldoen, maar waarvan de beslissing 
+niet vóór 30 juni 2021 kon worden genomen, worden benadeeld;Overwegende dat het noodzakelijk 
+is dit besluit aan te nemen om te voldoen aan de voorwaarden bedoeld in de bovengenoemde mededeling van 
+de Commissie, met name opdat de beslissingen tot toekenning van de investeringspremie bedoeld in het 
+bovengenoemde besluit van de Waalse Regering van 22 december 2020 uiterlijk op 31 december 2021 worden 
+genomen;Op de voordracht van de Minister van Economie;Na beraadslaging,Besluit 
+: Artikel 1. In de inleidende zin van artikel 2, eerste lid, van het besluit van de Waalse 
+Regering van bijzondere machten nr. 74 van 22 december 2020 betreffende de toekenning van een investeringspremie 
+voor de vervaardiging van producten in verband met COVID-19 worden de woorden "30 juni" vervangen door 
+de woorden "31 december".Art. 2. Dit besluit heeft uitwerking met ingang van 1 juli 2021 en 
+houdt op van kracht te zijn op 1 januari 2022.Art. 3. De Minister van Economie is belast met 
+de uitvoering van dit besluit.Namen, 3 december 2021.Voor de Regering,De 
+Minister-President,E. DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-12-09Numac : 2021034199
+

@@ -1,0 +1,175 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/30/2021032850/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-20Numac : 2021032850
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 30 APRIL 2020. - Koninklijk besluit betreffende een correcte en tijdige informatiestroom over de aantallen COVID-19-patiënten, de behandelcapaciteit in ziekenhuizen en voorraden aan persoonlijk beschermingsmateriaal. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het koninklijk besluit 
+van 30 april 2020 betreffende een correcte en tijdige informatiestroom over de aantallen COVID-19-patiënten, 
+de behandelcapaciteit in ziekenhuizen en voorraden aan persoonlijk beschermingsmateriaal (Belgisch Staatsblad 
+van 6 mei 2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in 
+Malmedy.FÖDERALER ÖFFENTLICHER DIENST VOLKSGESUNDHEIT, SICHERHEIT DER NAHRUNGSMITTELKETTE 
+UND UMWELT30. APRIL 2020 - Königlicher Erlass über einen korrekten und zeitnahen Informationsfluss 
+über die COVID-19-Patientenzahlen, die Behandlungskapazitäten in Krankenhäusern und die Bestände an persönlicher 
+SchutzausrüstungBERICHT AN DEN KÖNIGSire,der Entwurf eines Erlasses, den 
+ich die Ehre habe, Eurer Majestät vorzulegen, bezweckt, die erforderlichen Maßnahmen zur Bewältigung 
+der außergewöhnlichen Krise zu ergreifen, mit der unser Land derzeit konfrontiert ist, nämlich 
+der COVID-19-Pandemie. Diese Krise bringt besondere und schwerwiegende Probleme mit sich, vor allem im 
+Hinblick auf die Volksgesundheit.Am 12. März hat das Nationale Krisenzentrum die föderale Phase 
+der Noteinsatzplanung ausgelöst. Anschließend hat die Risk Management Group (nachstehend RMG) am 
+13. März beschlossen, dass die aktive Phase der Krankenhausnoteinsatzpläne ab dem 14. März ausgelöst 
+werden muss.Während der aktiven Phase muss der Generaldirektor (oder sein Stellvertreter) jedes 
+Krankenhauses dem Incident Crisis Management System (nachstehend ICMS) die Behandlungskapazitäten seines 
+Krankenhauses melden. Nur allgemeine Krankenhäuser mit einer Funktion für spezialisierte Notfallpflege 
+und/oder einer Intensivpflegeeinheit werden in das ICMS aufgenommen.Darüber hinaus sammelt 
+Sciensano über das Web-Tool "Epistat" epidemiologische Daten zu Infektionskrankheiten. Seit Beginn der 
+COVID-19-Krise in Belgien liegt der Schwerpunkt auf den COVID-19-Patientendaten, wobei die Häufigkeit 
+erheblich zugenommen hat.Seit dem 18. März ist jedes allgemeine Krankenhaus (also einschließlich 
+der Universitätskrankenhäuser) aufgefordert, jeden Tag vor 11.00 Uhr eine bestimmte Anzahl Daten zu übermitteln. 
+Dabei handelt es sich einerseits um Daten zu den Patientenzahlen (wie Anzahl Patienten im Krankenhaus, 
+Anzahl Patienten in einer Intensivpflegeeinheit, Anzahl Patienten, die beatmet werden müssen, usw.) und 
+andererseits um Daten zu den Behandlungskapazitäten (Anzahl freier Betten im Krankenhaus, Anzahl freier 
+Plätze in den Intensivpflegeeinheiten, Anzahl verfügbarer Beatmungsgeräte usw.).Da das betreffende 
+Virus hoch ansteckend ist, muss das Pflegepersonal in den Krankenhäusern strenge Hygieneschutzmaßnahmen 
+befolgen, um eine Ansteckung des Personals zu vermeiden. Die Verwendung von so genannter spezieller persönlicher 
+Schutzausrüstung (PPE) wie Masken, Handschuhe, Kittel, Schürzen, Schutzbrillen usw. ist eine wesentliche 
+Voraussetzung für sicheres Arbeiten.Der Verbrauch solcher Ausrüstung ist jedoch aufgrund der 
+großen Anzahl infizierter Patienten, die in Krankenhäuser aufgenommen werden müssen, hoch. Außerdem 
+ist zu erwarten, dass diese Situation noch einige Zeit anhalten wird.Die eigenen Bestände an 
+solcher Ausrüstung in den Krankenhäusern beginnen stark zu sinken. Die öffentlichen Behörden haben daher 
+umfangreiche Bestellungen für PPE aufgegeben, um diesen Mangel zu beheben.Die derzeit verfügbaren 
+Bestände reichen jedoch nicht aus, um die Sicherheitsbestände der einzelnen Krankenhäuser vollständig 
+aufzufüllen. Daher ist es notwendig, dass das verfügbare Material prioritär an die Krankenhäuser geliefert 
+wird, die es am dringendsten benötigen.Um einen genauen Überblick über die Bestände der Krankenhäuser 
+und den täglichen Materialverbrauch zu erhalten, hat der FÖD Volksgesundheit, Sicherheit der Nahrungsmittelkette 
+und Umwelt eine Online-Plattform eingerichtet, über die die Krankenhäuser Material aus dem Bestand der 
+öffentlichen Behörden bestellen können. Jedem Antrag ist eine Schätzung des krankenhauseigenen Bestands 
+und des Tagesverbrauchs beizufügen. Auf diese Weise kann die Verwaltung bestimmen, welche Einrichtungen 
+prioritär beliefert werden müssen.Die meisten Krankenhäuser übermitteln die geforderten Daten 
+gewissenhaft. Leider muss jedoch auch festgestellt werden, dass einige Krankenhäuser trotz wiederholter 
+Aufforderung der Behörden, aber auch der Dachorganisationen der Krankenhäuser, die Daten nicht rechtzeitig 
+und/oder fehlerhaft übermitteln.Mit vorliegendem Erlass soll daher die Übermittlung dieser 
+Informationen verbindlich vorgeschrieben werden. Darüber hinaus müssen die Daten innerhalb der geforderten 
+Frist registriert werden. Die bereitgestellten Informationen müssen so genau wie möglich sein, aber das 
+Ziel ist natürlich nicht, die Krankenhäuser mit administrativen und logistischen Aufgaben zu überlasten.Es 
+muss noch unterstrichen werden, dass diese Datensammlungen keine personenbezogenen Daten enthalten. In 
+allen Fällen handelt es sich um aggregierte Daten. Die Datenschutz-Grundverordnung ist daher nicht anwendbar.Ich 
+habe die Ehre,Sire,der ehrerbietigeund treue DienerEurer Majestät 
+zu sein.Die Ministerin der Volksgesundheit M. DE BLOCK30. 
+APRIL 2020 - Königlicher Erlass über einen korrekten und zeitnahen Informationsfluss über die COVID-19-Patientenzahlen, 
+die Behandlungskapazitäten in Krankenhäusern und die Bestände an persönlicher SchutzausrüstungPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des am 10. 
+Juli 2008 koordinierten Gesetzes über die Krankenhäuser und andere Pflegeeinrichtungen, des Artikels 
+92 Absatz 1;Aufgrund der Stellungnahme des Finanzinspektors vom 31. März 2020 und 6. April 
+2020;Aufgrund der Auswirkungsanalyse beim Erlass von Vorschriften, die gemäß den Artikeln 
+6 und 7 des Gesetzes vom 15. Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative 
+Vereinfachung durchgeführt worden ist;Aufgrund der Dringlichkeit, begründet durch den Umstand, 
+dass vorliegender Erlass eine außergewöhnliche Krisensituation betrifft, und zwar die Folgen der 
+COVID-19-Pandemie, die derzeit in Belgien grassiert und besondere und schwerwiegende Probleme für die 
+Volksgesundheit mit sich bringt;Dass die Behörden im Rahmen des "Surge Capacity Plan Hospitals 
+& Transport" dringend einen vollständigen Überblick über die Kapazitäten in den Krankenhäusern benötigen, 
+insbesondere in Bezug auf die Anzahl im Krankenhaus aufgenommener Patienten, die verfügbaren Intensivbetten, 
+die verfügbaren Beatmungsgeräte usw;Dass die öffentlichen Behörden außerdem dringend 
+einen genauen Überblick über die noch vorhandenen Bestände an persönlicher Schutzausrüstung benötigen, 
+damit neue Lieferungen solcher Ausrüstung angekauft und entsprechend dem Bedarf der Pflegeanbieter und 
+-einrichtungen bestmöglich verteilt werden können.Dass vorliegender Erlass folglich schnellstmöglich 
+veröffentlicht werden muss;Aufgrund des Gutachtens Nr. 67.258/3 des Staatsrates vom 23. April 
+2020, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 3 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Auf Vorschlag der Ministerin der VolksgesundheitHaben 
+Wir beschloßen und erlassen Wir:Artikel 1 - § 1 - Jedes allgemeine Krankenhaus, 
+das im Incident Crisis Management System (ICMS) aufgenommen ist, übermittelt täglich vor 11.00 Uhr folgende 
+Daten über das ICMS:1. die nach Standort unterteilte Kapazität an freien Betten, die eine Aufnahme 
+von mit dem COVID-19-Virus infizierten Patienten ermöglichen,2. die nach Standort unterteilte 
+Kapazität an freien Betten in einer Intensivpflegeeinheit, die eine Aufnahme von mit dem COVID-19-Virus 
+infizierten Patienten ermöglichen,3. die nach Standort unterteilte Anzahl freier Beatmungsgeräte 
+im Krankenhaus,4. die nach Standort unterteilte Anzahl freier Geräte zur extrakorporalen Membranoxygenierung 
+(ECMO) im Krankenhaus. § 2 - Die in § 1 erwähnten Daten müssen sich auf die Situation 
+beziehen, wie sie am Tag der Übermittlung der betreffenden Daten im Krankenhaus besteht.Der 
+Generaldirektor des Krankenhauses ist für die Richtigkeit und die rechtzeitige Übermittlung der Daten 
+verantwortlich. § 3 - Der Föderale Öffentliche Dienst Volksgesundheit, Sicherheit der 
+Nahrungsmittelkette und Umwelt kann technische Anweisungen über die Art und Weise, wie die in § 
+1 erwähnten Daten gesammelt und übermittelt werden müssen, veröffentlichen.Art. 2 - § 
+1 - Jedes allgemeine Krankenhaus übermittelt täglich vor 11.00 Uhr folgende Daten über das mit "Epistat" 
+verbundene Webportal an Sciensano:1. Gesamtzahl der im Krankenhaus aufgenommenen Patienten 
+im Krankenhaus,2. Anzahl der seit der vorherigen Datenerhebung neu in das Krankenhaus aufgenommenen 
+Patienten; dieser Datensatz muss in Patienten, die direkt in das Krankenhaus aufgenommen wurden, und 
+Patienten, die aus einem anderen Krankenhaus überwiesen wurden, aufgegliedert werden,3. Anzahl 
+der Patienten, die sich in einer Intensivpflegeeinheit des Krankenhauses befinden,4. Anzahl 
+der Patienten, die im Krankenhaus an ein Beatmungsgerät angeschlossen sind,5. Anzahl der Patienten, 
+die im Krankenhaus an ein Gerät zur extrakorporalen Membranoxygenierung (ECMO) angeschlossen sind. 
+§ 2 - Die in § 1 erwähnten Daten müssen nur für COVID-19-Patienten übermittelt werden. 
+Jeder in § 1 erwähnte Datensatz muss in bestätigte COVID-19-Patienten und mögliche COVID-19-Patienten 
+aufgegliedert werden. § 3 - Die in § 1 erwähnten Daten müssen sich auf die Situation 
+beziehen, wie sie am Tag der Übermittlung der betreffenden Daten im Krankenhaus besteht.Der 
+Generaldirektor des Krankenhauses ist für die Richtigkeit und die rechtzeitige Übermittlung der Daten 
+verantwortlich. § 4 - Sciensano kann technische Anweisungen über die Art und Weise, 
+wie die in § 1 erwähnten Daten gesammelt und übermittelt werden müssen, veröffentlichen.Art. 
+3 - Der Föderale Öffentliche Dienst Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt kann 
+die Krankenhäuser außerdem um Übermittlung von Auskünften über ihre gesamten Behandlungskapazitäten 
+ersuchen.Die Krankenhäuser müssen dem Auskunftsersuchen innerhalb zweier Werktage nach dessen 
+Versendung Folge leisten.Die in Absatz 1 erwähnten Auskünfte müssen sich auf die Situation 
+beziehen, wie sie am Tag der Übermittlung der betreffenden Auskünfte im Krankenhaus besteht.Art. 
+4 - § 1 - Der Föderale Öffentliche Dienst Volksgesundheit, Sicherheit der Nahrungsmittelkette 
+und Umwelt kann jedes Krankenhaus darum ersuchen, Auskünfte über seine Bestände an persönlicher Schutzausrüstung 
+(Personal Protective Equipment oder PPE) und eine Schätzung seines Tagesverbrauchs an solchem Material 
+mitzuteilen.Die Krankenhäuser müssen dem Auskunftsersuchen innerhalb zweier Werktage nach dessen 
+Versendung Folge leisten. § 2 - Der Föderale Öffentliche Dienst Volksgesundheit, Sicherheit 
+der Nahrungsmittelkette und Umwelt gibt bei jedem Auskunftsersuchen die Art der persönlichen Schutzausrüstung 
+an, über deren Bestand und/oder Tagesverbrauch er Auskunft erhalten möchte. § 3 - Der 
+Bestand an persönlicher Schutzausrüstung muss nach Stückzahl mitgeteilt werden, es sei denn, dies ist 
+im Ersuchen des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und 
+Umwelt anders bestimmt.Der geschätzte Tagesverbrauch an persönlicher Schutzausrüstung ist der 
+durchschnittliche Tagesverbrauch, der auf der Grundlage der sieben Tage vor dem Ersuchen berechnet wurde, 
+es sei denn, dies ist im Ersuchen des Föderalen Öffentlichen Dienstes Volksgesundheit, Sicherheit der 
+Nahrungsmittelkette und Umwelt anders bestimmt.Art. 5 - Vorliegender Erlass tritt am Tag seiner 
+Veröffentlichung im Belgischen Staatsblatt in Kraft.Art. 6 - Der für die Volksgesundheit zuständige 
+Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Brüssel, den 30. April 
+2020 PHILIPPEVon Königs wegen:Die Ministerin der Volksgesundheit M. 
+DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-20Numac : 2021032850
+

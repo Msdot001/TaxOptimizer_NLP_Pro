@@ -1,0 +1,95 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021042581/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021042581
+VLAAMSE OVERHEID 
+ 25 JUNI 2021. - Decreet tot bekrachtiging van de besluiten van de Vlaamse Regering inzake de noodfondsen cultuur, jeugd, sport en media naar aanleiding van de COVID-19-pandemie (1) 
+Het VLAAMS PARLEMENT 
+heeft aangenomen en Wij, REGERING, bekrachtigen hetgeen volgt:Decreet tot bekrachtiging van 
+de besluiten van de Vlaamse Regeringinzake de noodfondsen cultuur, jeugd, sport en media naar 
+aanleiding van de COVID-19-pandemieArtikel 1. Dit decreet regelt een gemeenschapsaangelegenheid.Art. 
+2. De volgende besluiten worden bekrachtigd:1°  het besluit van de Vlaamse Regering van 3 juli 
+2020 tot toekenning van steun aan culturele organisaties en kwetsbare kernspelers in het kader van het 
+noodfonds;2°  het besluit van de Vlaamse Regering van 10 juli 2020 tot toekenning van steun 
+aan jeugdorganisaties in het kader van het noodfonds;3°  het besluit van de Vlaamse Regering 
+van 10 juli 2020 tot toekenning van steun aan hostels met exploitatiebeperkingen die voortvloeien uit 
+de dringende maatregelen van de Nationale Veiligheidsraad om de verspreiding van het coronavirus COVID-19 
+te beperken;4°  het besluit van de Vlaamse Regering van 10 juli 2020 betreffende de toekenning 
+van steun aan regionale televisieomroeporganisaties;5°  het besluit van de Vlaamse Regering 
+van 10 juli 2020 betreffende de toekenning van steun aan de lokale radio-omroeporganisaties en de netwerkradio- 
+omroeporganisaties;6°  het besluit van de Vlaamse Regering van 11 september 2020 tot toekenning 
+van steun aan de sportsector in het kader van het noodfonds sport naar aanleiding van de COVID-19-pandemie;7° 
+ het besluit van de Vlaamse Regering van 9 oktober 2020 tot regeling van een culturele activiteitenpremie 
+in het kader van het noodfonds;8°  het besluit van de Vlaamse Regering van 11 december 2020 
+tot wijziging van het Besluit van de Vlaamse Regering van 10 juli 2020 tot toekenning van steun aan hostels 
+met exploitatiebeperkingen die voortvloeien uit de dringende maatregelen van de Nationale Veiligheidsraad 
+om de verspreiding van het coronavirus COVID-19 te beperken;9°  het besluit van de Vlaamse 
+Regering van 18 december 2020 tot toekenning van steun uit het noodfonds sport naar aanleiding van de 
+COVID-19-pandemie aan de Vlaamse Sportfederatie vzw voor de ondersteuning van sportclubs;10° 
+ het besluit van de Vlaamse Regering van 18 december 2020 over de toekenning van een subsidie aan Sportwerk 
+Vlaanderen vzw en aan Sportamundi vzw voor de verdere uitrol van het project SportKompas, een wetenschappelijk 
+onderbouwde sportoriëntatie voor kinderen tussen 8 en 10 jaar.Art. 3. Met betrekking tot de 
+identificatie van de persoon die de webtoepassing gebruikt als vertegenwoordiger van de aanvrager, vermeld 
+in artikel 5, derde lid, 2°,  van het besluit van de Vlaamse Regering van 10 juli 2020 tot toekenning 
+van steun aan jeugdorganisaties in het kader van het noodfonds, kunnen, om de gegevens in de aanvraag 
+te controleren of aan te vullen, het beheer en de controle van de aanvragen betrekking hebben op de verwerking 
+van het rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens 
+van deze persoon.De administratie vraagt in eerste instantie de persoonsgegevens en andere 
+gegevens op bij de authentieke gegevensbronnen, vermeld in artikel 5 van het besluit van de Vlaamse Regering 
+van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het Bestuursdecreet van 
+7 december 2018. Bij gebrek daaraan kan ze die gegevens verkrijgen bij de aanvrager.Kondigen 
+dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.Brussel, 
+25 juni 2021.De minister-president van de Vlaamse Regering, de Vlaamse minister van Buitenlandse 
+Zaken,Cultuur, Digitalisering en Facilitair Management,J. JAMBONDe Vlaamse 
+minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand,B. WEYTSDe Vlaamse minister 
+van Brussel, Jeugd en Media,B. DALLE_______Nota(1) Zitting 2020-2021 
+Stukken:- Ontwerp van decreet : 779 - Nr. 1 - Amendement : 779 - Nr. 2 - Verslag 
+: 779 - Nr. 3 - Tekst aangenomen door de plenaire vergadering : 779 - Nr. 4 Handelingen 
+- Bespreking en aanneming: Vergadering van 23 juni 2021.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021042581
+

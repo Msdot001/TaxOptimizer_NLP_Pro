@@ -1,0 +1,116 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/05/2020041112/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-07Numac : 2020041112
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 5 MEI 2020. - Koninklijk besluit tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven met betrekking tot mondmaskers en hydroalcoholische gels 
+VERSLAG 
+AAN DE KONINGSire,De maatregel strekt ertoe om tijdelijk de toepassing van een verlaagd 
+tarief van 6 pct. toe te laten op de levering, intracommunautaire verwerving en invoer van bepaalde beschermingsmiddelen 
+voor gebruik door om het even wie.Die beschermingsmiddelen kunnen maar aan het verlaagde btw-tarief 
+van 6 pct. worden onderworpen op voorwaarde dat ze noodzakelijk zijn ter preventie van de verspreiding 
+van COVID-19.Worden bedoeld:- de mondmaskers waarvan de invoer tot en met 31 juli 
+2020 is vrijgesteld van de btw door toepassing van Besluit (EU) 2020/491 van de Commissie van 3 april 
+2020 waarbij vrijstelling van rechten bij invoer en van btw op invoer wordt verleend voor goederen die 
+nodig zijn om de gevolgen van de COVID-19-uitbraak in 2020 te bestrijden;- de hydroalcoholische 
+gels.Er moet worden opgemerkt dat in principe enkel de leveringen, intracommunautaire verwervingen 
+en invoeren van de hiervoor bedoelde goederen in het kader van de strijd tegen COVID-19 voor de toepassing 
+van het verlaagd tarief van 6 pct. in aanmerking komen. In de mate dat, in het best case scenario, die 
+goederen uiteindelijk niet allemaal gebruikt zouden worden in het kader van deze gezondheidscrisis, moet 
+er a posteriori evenwel geen enkele regularisatie van het tariefvoordeel (desgevallend pro rata temporis) 
+worden toegepast voor die goederen die uiteindelijk niet daadwerkelijk zouden worden ingezet in het kader 
+van de strijd tegen deze pandemieVoor de invoer van de beoogde goederen primeert tot en met 
+31 juli 2020 de vrijstelling van de btw ingevoerd door Besluit (EU) 2020/491. Van zodra de vrijstelling 
+niet langer van toepassing is, kunnen de goederen worden ingevoerd met toepassing van het verlaagde btw-tarief.Deze 
+maatregel vloeit voort uit de noodzaak om de financiële middelen van de ziekenhuizen optimaal te laten 
+renderen in de strijd tegen COVID-19 maar heeft ook tot doel om de producenten van dergelijke uitrusting 
+aan te moedigen hun productie te verhogen om de verspreiding van COVID-19 zo snel mogelijk een halt toe 
+te roepen. Meer in het algemeen moet deze maatregel aan eenieder toelaten om op een minder kostelijke 
+manier het noodzakelijke beschermingsmateriaal aan te kopen ter preventie van de verspreiding van COVID-19.Deze 
+maatregel is van toepassing ongeacht de hoedanigheid van de verkoper (bv. groothandelaar, apotheken, 
+detailhandel, online handel) en ongeacht de hoedanigheid van de koper (eerstelijns verzorgend personeel, 
+verzorgingsinstellingen, particulieren en elke andere natuurlijk of rechtspersoon).Deze uitzonderlijke 
+maatregel schrijft zich in in het strikte kader van de strijd tegen die pandemie en heeft dienovereenkomstig 
+een beperkte gelding in de tijd: hij zal van toepassing zijn van 4 mei 2020 tot en met 31 december 2020.Ik 
+heb de eer te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe 
+dienaar,De Vice-Eerste Minister en Minister van Financiën,A. DE CROO5 
+MEI 2020. - Koninklijk besluit tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling 
+van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten 
+bij die tarieven met betrekking tot mondmaskers en hydroalcoholische gelsFILIP, Koning der 
+Belgen,Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op het Wetboek 
+van de belasting over de toegevoegde waarde, artikel 37, § 1, vervangen bij de wet van 28 december 
+1992;Gelet op het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven 
+van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 30 april 2020;Gelet op de akkoordbevinding 
+van de Minister van Begroting, d.d. 2 mei 2020;Gelet op de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid;Overwegende 
+:- dat de exitstrategie vooropgesteld door de nationale veiligheidsraad voor alles berust op 
+het respecteren van de maatregelen voor een goede hygiëne, ook aangeduid als "barrière-handelingen" zoals 
+het dragen van een mondmasker en het regelmatig wassen van de handen;- dat de eerste fase (aangeduid 
+als fase 1- a) van die exit in werking treedt op maandag 4 mei 2020;- dat die eerste fase in 
+het bijzonder betrekking heeft op de herstart van de industrie en de dienstensector in een B2B-context 
+evenals op een uitbreiding van het aanbod van het openbaar vervoer;- dat in die twee domeinen 
+de voormelde "barrière-handelingen" een voorafgaandelijke verplichting vormen voor de herstart van die 
+sectoren;- dat het derhalve aangewezen is om onmiddellijk de bevoorrading te begunstigen van 
+iedereen met de goederen die noodzakelijke zijn om die "barrière-handelingen" te kunnen toepassen;Op 
+de voordracht van de Vice-Eerste Minister en Minister van Financiën en op het advies van de in Raad vergaderde 
+Ministers,Hebben Wij besloten en besluiten Wij :Artikel 1. Artikel 1ter van het koninklijk 
+besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde 
+waarde en tot indeling van de goederen en de diensten bij die tarieven, ingevoegd bij het koninklijk 
+besluit van 1 december 1995, hersteld bij het koninklijk besluit van 18 januari 2000 en opgeheven bij 
+de programmawet van 4 juli 2011, wordt hersteld als volgt:" Art. 1ter. In afwijking van artikel 
+1, eerste lid, worden vanaf 4 mei 2020 tot en met 31 december 2020 onderworpen aan het verlaagd tarief 
+van 6 pct., de leveringen, intracommunautaire verwervingen en invoeren van de hiernavolgende beschermingsmiddelen, 
+noodzakelijk ter preventie van de verspreiding van COVID-19:1°  de mondmaskers die bedoeld 
+zijn onder GN-codes 4818 90 10 00, 4818 90 90 00, 6307 90 98 10, 6307 90 98 91, 6307 90 98 99 en 9020 
+00 00 80;2°  de hydroalcoholische gels.".Art. 2. Dit besluit heeft uitwerking met 
+ingang van 4 mei 2020.Art. 3. De minister bevoegd van Financiën is beslast met de uitvoeringvan 
+dit besluit.Gegeven te Brussel, 5 mei 2020.FILIPVan Koningswege :De 
+Vice-Eerste Minister en Minister van Financiën,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-07Numac : 2020041112
+

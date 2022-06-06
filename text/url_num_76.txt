@@ -1,0 +1,203 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/30/2020041098/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-05Numac : 2020041098
+VLAAMSE OVERHEID
+ 30 APRIL 2020. - Besluit van de Vlaamse Regering tot regeling van bepaalde tijdelijke maatregelen in het beleidsveld energie omwille van de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge COVID-19 
+RechtsgrondenDit besluit is gebaseerd op:- het Energiedecreet 
+van 8 mei 2009, artikel 8.2.1, 8.3.1 en 8.4.1;- het decreet van 20 maart 2020 over maatregelen 
+in geval van een civiele noodsituatie met betrekking tot de volksgezondheid, artikel 5.VormvereistenDe 
+volgende vormvereisten zijn vervuld:- De Vlaamse minister, bevoegd voor de begroting, heeft 
+zijn akkoord gegeven op 15 april 2020;- Er is een verzoek om spoedbehandeling ingediend, gemotiveerd 
+door de omstandigheid dat de economische gevolgen veroorzaakt door de coronacrisis en de federale coronavirusmaatregelen 
+zo snel mogelijk moeten worden aangepakt.De Raad van State heeft advies 67.274/3 gegeven op 
+24 april 2020 met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van 
+State, gecoördineerd op 12 januari 1973.Dit besluit is gebaseerd op de volgende motieven:- 
+Eind 2019 ontstond er in en rond de Chinese stad Wuhan een uitbraak van een nieuw coronavirus (SARS-CoV-2) 
+dat leidt tot de ziekte COVID-19. Ondertussen heeft het virus zich op grote schaal ook verspreid in andere 
+landen en continenten, waaronder ook in België, en werd het door de WHO als pandemie bestempeld.- 
+Het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie met betrekking tot 
+de volksgezondheid verleent in artikel 5 de Vlaamse Regering de bevoegdheid om in geval van een civiele 
+noodsituatie met betrekking tot de volksgezondheid nadere regels uit te werken voor de opschorting, het 
+stuiten of de verlenging van proceduretermijnen of de tijdelijke aanpassing van procedurele of administratieve 
+verplichtingen in diverse decreten en de uitvoeringsbesluiten erbij om een maximale rechtszekerheid te 
+verzekeren;- Dit besluit is dan ook hoogdringend omwille van de lopende COVID-19 gezondheidscrisis:• 
+In artikel 7.8.1, § 4 van het Energiebesluit van 19 november 2010 is bepaald dat voor zero-emissievoertuigen 
+die nog uiterlijk op 31 december 2019 werden besteld de ZEV-premie tegen uiterlijk 31 oktober 2020 moet 
+worden aangevraagd. De levering van dergelijke zero-emissievoertuigen wordt nu echter vertraagd omwille 
+van de COVID-19 pandemie. De opgelegde beperkingen zijn een hinderpaal voor de constructieperiode en 
+de leveringstermijn van onderdelen, zowel in de landen die onderdelen produceren en assembleren als in 
+België. Wat betreft het respecteren van de levertermijnen van modellen van een aantal autoconstructeurs, 
+dreigen de reeds in 2019 bestelde voertuigen niet tijdig te kunnen worden geleverd en bij de dienst DIV 
+worden ingeschreven, waardoor de ZEV-premie mogelijks niet tijdig tegen de in artikel 7.8.1, § 
+4 van het Energiebesluit van 19 november 2010 vervatte deadline van 31 oktober 2020 kan worden aangevraagd 
+en waardoor rechtmatig gewekte verwachtingen in het gedrang dreigen te komen. Daarom wordt voorgesteld 
+om - rekening houdende met de zware socio-economische gevolgen van deze gezondheidscrisis - uitzonderlijk 
+de aanvraagtermijn te verlengen tot 1 maart 2021.• In titel VII, hoofdstukken IV, V 
+en VI van het Energiebesluit van 19 november 2010 is bepaald dat voor de ondersteuning van nuttige groene 
+warmte, restwarmte en de productie en injectie van biomethaan de in aanmerking komende projecten na het 
+toekennen van de principebeslissing hun recht op steun verliezen als ze niet aan de voorwaarden uit respectievelijk 
+artikel 7.4.3, § 4, artikel 7.5.3, § 4 en artikel 7.6.3, § 4 van het Energiebesluit 
+van 19 november 2010 voldoen. Het betreffen voorwaarden m.b.t. het feit dat ze: 1°  uiterlijk binnen 
+een jaar na de datum van de principebeslissing een bewijs van de start van de procedure tot het bekomen 
+van een milieueffectrapport, als vermeld in titel IV van het DABM, of een aanvraag tot het bekomen van 
+een milieuvergunning, een stedenbouwkundige vergunning of een omgevingsvergunning kunnen voorleggen; 
+2°  uiterlijk binnen twee jaar na de datum van de principebeslissingen gedurende 10 jaar na de datum 
+van ingebruikname beschikken over de vereiste milieuvergunningen, stedenbouwkundige vergunningen of omgevingsvergunningen; 
+en 3°  uiterlijk binnen de vier jaar na de datum van de principebeslissing in gebruik genomen zijn.De 
+voortgang van deze projecten kan nu echter worden vertraagd omwille van de COVID-19 pandemie. De opgelegde 
+beperkingen kunnen een hinderpaal zijn voor overleg, bouwwerken, constructieperiode en leveringstermijn 
+van onderdelen. Daarom wordt voorgesteld om - rekening houdende met de zware socio-economische gevolgen 
+van deze gezondheidscrisis - uitzonderlijk die termijnen te verlengen voor de projecten die in gebruik 
+genomen gingen worden in 2020 en 2021. Voor projecten die in gebruik genomen worden vanaf 2022 wordt 
+in een ad hoc overmachtregeling voorzien.• In titel VII, hoofdstuk XI van het Energiebesluit 
+van 19 november 2010 is bepaald dat voor de ondersteuning van kleine en middelgrote windturbines in aanmerking 
+komende projecten die na het toekennen van de beslissing hun recht op steun verliezen als ze niet aan 
+de voorwaarden uit artikel 7.11.3, § 5 van het Energiebesluit van 19 november 2010 voldoen. Het 
+betreffen voorwaarden m.b.t. het feit dat ze: 1°  uiterlijk achttien maanden na de datum van de beslissing 
+beschikken over de vereiste omgevingsvergunning; 2°  uiterlijk één jaar na de datum van de vereiste omgevingsvergunning 
+in gebruik genomen zijn, in het geval dat de aanvrager nog niet over de vereiste omgevingsvergunning 
+beschikt op het moment van de steunaanvraag; en 3°  uiterlijk één jaar na datum van de beslissing in 
+gebruik genomen zijn, in het geval dat de aanvrager wel al over de vereiste omgevingsvergunning beschikt 
+op het moment van de steunaanvraag.De voortgang van deze projecten kan nu worden vertraagd 
+omwille van de COVID-19 pandemie. De opgelegde beperkingen kunnen een hinderpaal zijn voor overleg, bouwwerken, 
+constructieperiode en leveringstermijn van onderdelen. Daarom wordt voorgesteld om - rekening houdende 
+met de zware socio-economische gevolgen van deze gezondheidscrisis - uitzonderlijk die termijnen te verlengen 
+voor de projecten die in gebruik genomen gingen worden in 2020 en 2021. Voor projecten die in gebruik 
+genomen worden vanaf 2022 wordt in een ad hoc overmachtregeling voorzien.• Tot slot 
+is in artikel 13.4.4 en 13.4.8 van het Energiedecreet van 8 mei 2009 bepaald dat het georganiseerd administratief 
+beroep tegen door het Vlaams Energieagentschap opgelegde administratieve geldboetes moet worden ingediend 
+bij wege van een aangetekend schrijven. Omwille van veiligheids- en gezondheidsredenen, alsook omwille 
+van administratief-organisatorische redenen is het dan ook noodzakelijk om van dit decretale principe 
+af te wijken en om tijdelijk het instellen van administratief beroep via een gekwalificeerde dienst voor 
+elektronisch aangetekende zendingen toe te laten.Juridisch kaderDit besluit sluit 
+aan bij de volgende regelgeving:- het Energiedecreet van 8 mei 2009, artikel 13.4.1 tot en 
+met 13.4.11;- het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie 
+met betrekking tot de volksgezondheid;- het Energiebesluit van 19 november 2010, titel VI, 
+hoofdstuk I, II en II/1, artikel 7.4.3, § 4, artikel 7.5.3, § 4, artikel 7.6.3, § 
+4, artikel 7.8.1, § 4, en artikel 7.11.3;- het besluit van de Vlaamse Regering van 20 
+maart 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, 
+zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie 
+met betrekking tot de volksgezondheid.InitiatiefnemersDit besluit wordt voorgesteld 
+door de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme.Na beraadslaging,DE 
+VLAAMSE REGERING BESLUIT:Artikel 1. Aan artikel 7.8.1, § 4 van het Energiebesluit van 
+19 november 2010, laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 december 2019, worden 
+de volgende wijzigingen aangebracht:1°  in het eerste lid wordt de datum "31 oktober 2020" 
+vervangen door de datum "1 maart 2021";2°  er wordt een derde lid toegevoegd, dat luidt als 
+volgt:"De minister kan de uiterste indieningsdatum van 1 maart 2021, vermeld in het eerste 
+lid, echter driemaal met een maand verlengen.".Art. 2. Aan titel XII, hoofdstuk III van hetzelfde 
+besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 december 2019, wordt een 
+artikel 12.3.19 toegevoegd, dat luidt als volgt:"Art. 12.3.19. § 1. Voor projecten met 
+betrekking tot de ondersteuning van nuttige groene warmte waarvoor op 20 maart 2020 de termijnen, vermeld 
+in artikel 7.4.3, § 4, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 7.4.3, 
+§ 4, eerste lid, 3°  in het jaar 2020 of 2021 moet plaatsvinden, worden die termijnen geschorst 
+voor de periode van 20 maart 2020 tot en met 17 juli 2020. De minister kan die schorsing echter driemaal 
+met een maand verlengen.In afwijking van het eerste lid kan de minister, op aanvraag van de 
+subsidiegerechtigde, voor projecten waarvoor op 20 maart 2020 de termijnen, vermeld in artikel 7.4.3, 
+§ 4, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 7.4.3, § 4, eerste 
+lid, 3°  na het jaar 2021 moet plaatsvinden, die termijnen schorsen voor de periode van 20 maart 2020 
+tot en met 17 juli 2020, mits de subsidiegerechtigde kan aantonen dat omwille van een door COVID-19 veroorzaakte 
+overmachtsituatie de termijnen, vermeld in artikel 7.4.3, § 4, niet kunnen worden gehaald.Indien 
+de minister beslist om de termijnen bijkomend te schorsen, als vermeld in het eerste lid, in fine, dan 
+worden de schorsingen, vermeld in het tweede lid, eveneens bijkomend met dezelfde termijn verlengd.§ 
+2. Voor projecten met betrekking tot de ondersteuning van restwarmte waarvoor op 20 maart 2020 de termijnen, 
+vermeld in artikel 7.5.3, § 4, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 
+7.5.3, § 4, eerste lid, 3°  in het jaar 2020 of 2021 moet plaatsvinden, worden die termijnen geschorst 
+voor de periode van 20 maart 2020 tot en met 17 juli 2020. De minister kan die schorsing echter driemaal 
+met een maand verlengen.In afwijking van het eerste lid kan de minister, op aanvraag van de 
+subsidiegerechtigde, voor projecten waarvoor op 20 maart 2020 de termijnen, vermeld in artikel 7.5.3, 
+§ 4, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 7.5.3, § 4, eerste 
+lid, 3°  na het jaar 2021 moet plaatsvinden, die termijnen schorsen voor de periode van 20 maart 2020 
+tot en met 17 juli 2020, mits de subsidiegerechtigde kan aantonen dat omwille van een door COVID-19 veroorzaakte 
+overmachtsituatie de termijnen, vermeld in artikel 7.5.3, § 4, niet kunnen worden gehaald.Indien 
+de minister beslist om de termijnen bijkomend te schorsen, als vermeld in het eerste lid, in fine, dan 
+worden de schorsingen, vermeld in het tweede lid, eveneens bijkomend met dezelfde termijn verlengd.§ 
+3. Voor projecten met betrekking tot de ondersteuning van de productie en injectie van biomethaan waarvoor 
+op 20 maart 2020 de termijnen, vermeld in artikel 7.6.3, § 4, nog niet verstreken zijn en waarvan 
+de ingebruikname conform artikel 7.6.3, § 4, eerste lid, 3°  in het jaar 2020 of 2021 moet plaatsvinden, 
+worden die termijnen geschorst voor de periode van 20 maart 2020 tot en met 17 juli 2020. De minister 
+kan die schorsing echter driemaal met een maand verlengen.In afwijking van het eerste lid kan 
+de minister, op aanvraag van de subsidiegerechtigde, voor projecten waarvoor op 20 maart 2020 de termijnen, 
+vermeld in artikel 7.6.3, § 4, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 
+7.6.3, § 4, eerste lid, 3°  na het jaar 2021 moet plaatsvinden, die termijnen schorsen voor de 
+periode van 20 maart 2020 tot en met 17 juli 2020, mits de subsidiegerechtigde kan aantonen dat omwille 
+van een door COVID-19 veroorzaakte overmachtsituatie de termijnen, vermeld in artikel 7.6.3, § 
+4, niet kunnen worden gehaald.Indien de minister beslist om de termijnen bijkomend te schorsen, 
+als vermeld in het eerste lid, in fine, dan worden de schorsingen, vermeld in het tweede lid, eveneens 
+bijkomend met dezelfde termijn verlengd.§ 4. Voor projecten met betrekking tot de ondersteuning 
+van kleine en middelgrote windturbines waarvoor op 20 maart 2020 de termijnen, vermeld in artikel 7.11.3, 
+§ 5, nog niet verstreken zijn en waarvan de ingebruikname conform artikel 7.11.3, § 5, 
+eerste lid, 2°  of 3°  in het jaar 2020 of 2021 moet plaatsvinden, worden die termijnen geschorst voor 
+de periode van 20 maart 2020 tot en met 17 juli 2020. De minister kan die schorsing echter driemaal met 
+een maand verlengen.In afwijking van het eerste lid kan de minister, op aanvraag van de subsidiegerechtigde, 
+voor projecten waarvoor op 20 maart 2020 de termijnen, vermeld in artikel 7.11.3, § 5, nog niet 
+verstreken zijn en waarvan de ingebruikname conform artikel 7.11.3, § 5, eerste lid, 2°  of 3° 
+ na het jaar 2021 moet plaatsvinden, die termijnen schorsen voor de periode van 20 maart 2020 tot en 
+met 17 juli 2020, mits de subsidiegerechtigde kan aantonen dat omwille van een door COVID-19 veroorzaakte 
+overmachtsituatie de termijnen, vermeld in artikel 7.11.3, § 5, niet kunnen worden gehaald.Indien 
+de minister beslist om de termijnen bijkomend te schorsen, als vermeld in het eerste lid, in fine, dan 
+worden de schorsingen, vermeld in het tweede lid, eveneens bijkomend met dezelfde termijn verlengd.§ 
+5. De minister schorst, op aanvraag van de subsidiegerechtigde, voor projecten in het beleidsveld energie 
+waarvoor door de Vlaamse Regering een facultatieve subsidie werd toegekend, voor de periode van 20 maart 
+2020 tot en met 17 juli 2020 de in het besluit van de Vlaamse Regering dat de subsidie toekent opgenomen 
+uitvoeringstermijnen. De minister kan die schorsing echter driemaal met een maand verlengen.".Art. 
+3. Aan titel XII, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse 
+Regering van 20 december 2019, wordt een artikel 12.3.20 toegevoegd, dat luidt als volgt:"Art. 
+12.3.20. In afwijking van artikel 13.4.4 en artikel 13.4.8 van het Energiedecreet van 8 mei 2009 kan 
+tot en met 17 juli 2020, het georganiseerd administratief beroep tegen een beslissing van het Vlaams 
+Energieagentschap met betrekking tot het opleggen van een administratieve geldboete, vermeld in titel 
+XIII, hoofdstuk IV van het Energiedecreet van 8 mei 2009, worden ingediend via een e-mail in plaats van 
+via aangetekende brief. De minister kan die periode echter driemaal met een maand verlengen.De 
+e-mail, vermeld in het eerste lid, wordt gericht aan energie@vlaanderen.be. De indiener van het administratief 
+beroep ontvangt in dat geval per e-mail een ontvangstbewijs met dossiernummer.".Art. 4. Dit 
+besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+5. De Vlaamse minister, bevoegd voor de energie, is belast met de uitvoering van dit besluit.Brussel, 
+30 april 2020.De minister-president van de Vlaamse Regering,J. JAMBONDe 
+Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme,Z. DEMIR  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-05Numac : 2020041098
+

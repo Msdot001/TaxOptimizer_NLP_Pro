@@ -1,0 +1,69 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/27/2020041584/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020041584
+WAALSE OVERHEIDSDIENST
+ 27 MEI 2020. - Ministerieel besluit tot verlenging met een maand van de maatregelen met betrekking tot de crisis COVID-19 betreffende het tijdelijk verbod tot het opleggen van restricties in de toegang tot de publieke waterdistributie 
+De Minister van Leefmilieu, Natuur, Bossen, Landelijke Aangelegenheden 
+en Dierenwelzijn,Gelet op Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, Decretale 
+gedeelte, de artikelen D.202 et D.232 ;Gelet op Boek II van het Milieuwetboek, dat het Waterwetboek 
+inhoudt, reglementair Deel, artikel R.270bis-13;Gelet op het besluit van de Waalse Regering 
+van 22 april 2020 betreffende het tijdelijk verbod tot het opleggen van restricties in de toegang tot 
+de publieke waterdistributie wegens de spoedeisende maatregelen genomen om de verspreiding van het coronavirus 
+COVID-19 te beperken.Gelet op de duur van de gevolgen van de gezondheidscrisis in verband met 
+COVID-19 en de handhaving van verschillende maatregelen om de verspreiding van het virus onder de bevolking 
+te beperken, die een permanente en voldoende toegang tot water vereisen; Gelet op het federale 
+afbouwplan COVID-19, in het bijzonder Fase 3 van het afbouwplan die niet eerder dan 8 juni 2020 zal plaatsvinden,Besluit 
+: Artikel 1. De gevolgen van de maatregelen genomen door het besluit van de Waalse Regering 
+van 22 april 2020 betreffende het tijdelijk verbod tot het opleggen van restricties in de toegang tot 
+de publieke waterdistributie wegens de spoedeisende maatregelen genomen om de verspreiding van het coronavirus 
+COVID-19 te beperken, worden verlengd tot 30 juni 2020.Art. 2. Van dit besluit wordt aan elke 
+verdeler van water in Wallonië kennis gegeven.Art. 3. Dit besluit treedt in werking de dag 
+waarop het ondertekend wordt.Namen, 27 mei 2020.C. TELLIER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020041584
+

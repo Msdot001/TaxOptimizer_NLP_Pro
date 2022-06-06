@@ -1,0 +1,99 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/10/07/2021022227/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-14Numac : 2021022227
+WAALSE OVERHEIDSDIENST 
+ 7 OKTOBER 2021. - Besluit van de Waalse Regering tot verlenging tot 31 december 2021 van de bepalingen van het besluit van de Waalse Regering van 30 juni 2020 houdende diverse bepalingen inzake ambtenarenzaken in de context van de coronaviruspandemie en de stapsgewijze heropbouw van de activiteiten 
+De 
+Waalse Regering, Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, 
+inzonderheid op artikel 87, § 3, vervangen bij de bijzondere wet van 8 augustus 1988 en gewijzigd 
+bij de bijzondere wet van 6 januari 2014;Gelet op het besluit van de Waalse Regering van 18 
+december 2003 houdende de Waalse Ambtenarencode, inzonderheid op de artikelen 361 en volgende, zoals 
+gewijzigd; Gelet op het besluit van de Waalse Regering van 7 april 2011 betreffende telewerk, 
+gewijzigd bij het besluit van de Waalse Regering van 31 januari 2013, voor de nog toepasselijke bepalingen 
+ervan; Gelet op het besluit van de Waalse Regering van 5 december 2019 betreffende telewerk;Gelet 
+op het besluit van de Waalse Regering van 13 september 2019 tot vaststelling van de verdeling van de 
+ministeriële bevoegdheden en tot regeling van de ondertekening van haar akten, zoals gewijzigd;Gelet 
+op het besluit van de Waalse Regering van 26 september 2019 tot regeling van de werking van de Regering, 
+artikel 9;Gelet op het besluit van de Waalse Regering van 13 maart 2020 houdende diverse bepalingen 
+inzake ambtenarenzaken in de context van de coronaviruspandemie en op het besluit van de Waalse Regering 
+van 30 april 2020 houdende diverse bepalingen inzake ambtenarenzaken in de context van de coronaviruspandemie 
+en de stapsgewijze heropbouw van de activiteiten; Gelet op het besluit van de Waalse Regering 
+van 30 juni 2020 houdende diverse bepalingen inzake ambtenarenzaken in de context van de coronaviruspandemie 
+en de stapsgewijze heropbouw van de activiteiten;Gelet op de besluiten van de Waalse Regering 
+van 24 september 2020, 16 december 2020, 29 april 2021 en 1 juli 2021 tot verlenging tot respectievelijk 
+31 december 2020, 31 maart 2021, 30 juni 2021 en 30 september 2021 van de bepalingen van het besluit 
+van de Waalse Regering van 30 juni 2020 houdende diverse bepalingen inzake ambtenarenzaken in de context 
+van de coronaviruspandemie en de stapsgewijze heropbouw van de activiteiten;Gelet op het advies 
+van de Inspectie van Financiën, gegeven op 17 september 2021;Gelet op de instemming van de 
+Minister van Begroting, gegeven op 23 september 2021;Gelet op de instemming van de Minister 
+van Ambtenarenzaken, gegeven op 23 september 2021;Gelet op het onderhandelingsprotocol nr. 
+806 van Sectorcomité nr. XVI, gesloten op 28 september 2021;Gelet op de Generieke gids om de 
+verspreiding van COVID-19 op het werk tegen te gaan, die het resultaat is van de samenwerking tussen 
+de Hoge Raad voor Preventie en Bescherming op het Werk, de FOD Werkgelegenheid en de Economic Risk Management 
+Group en die beschikbaar is op de website van de FOD Werkgelegenheid;Gelet op de verschillende 
+beslissingen van het Overlegcomité en de daaropvolgende ministeriële besluiten waarbij telewerk tot 30 
+juni 2021 verplicht wordt gesteld en vanaf 1 juli 2021 wordt aanbevolen;Overwegende dat sinds 
+de inwerkingtreding van het ministerieel besluit van 25 augustus 2021 houdende wijziging van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, er geen verplichting of aanbeveling meer is om te telewerken;Gelet op de social 
+distancing die moet worden behouden;Overwegende dat de toestemming om telewerk te verrichten 
+normaliter verleend wordt tot maximaal 2 dagen per week of 1 dag per week voor personeelsleden van rang 
+A5, B1, C1 en D1;Gelet op de noodzakelijkheid om de continuïteit van de openbare dienstverleningsopdrachten, 
+de inachtneming van de gezondheidseisen en de dwingende crisisgerelateerde familiale noden met elkaar 
+te verzoenen;Op de voordracht van de Minister van Ambtenarenzaken;Na beraadslaging,Besluit 
+: Artikel 1. De bepalingen van het besluit van de Waalse Regering van 30 juni 2020 houdende 
+diverse bepalingen inzake ambtenarenzaken in de context van de coronaviruspandemie en de stapsgewijze 
+heropbouw van de activiteiten worden overeenkomstig artikel 7 van dit besluit tot 31 december 2021 verlengd.Art. 
+2.  De forfaitaire maandelijkse vergoeding voor telewerk blijft 35 euro per maand ter dekking van de 
+internetverbinding en andere kosten in verband met telewerk.Art. 3. Dit besluit heeft uitwerking 
+op 1 oktober 2021. Namen, 7 oktober 2021.Voor de Regering :De Minister-President,E. 
+DI RUPODe Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging,belast 
+met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-14Numac : 2021022227
+

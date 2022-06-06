@@ -1,0 +1,189 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/03/27/2021031326/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-17Numac : 2021031326
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 27 MAART 2020. - Koninklijk besluit tot de actualisering van het KB/WIB 92 inzake de roerende voorheffing. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het koninklijk besluit 
+van 27 maart 2020 tot de actualisering van het KB/WIB 92 inzake de roerende voorheffing (Belgisch Staatsblad 
+van 3 april 2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN27. MÄRZ 2020 - 
+Königlicher Erlass zur Aktualisierung des KE/EStGB 92 hinsichtlich des MobiliensteuervorabzugsBERICHT 
+AN DEN KÖNIGSire,die Bestimmungen von Artikel 105 Absatz 1 Nr. 1 des KE/EStGB 92, 
+auf die im vorliegenden Entwurf Bezug genommen wird, lauten derzeit wie folgt:"1. "Finanzinstituten 
+oder damit gleichgesetzten Unternehmen, mit Ausnahme derjenigen, die vor dem 1. Januar 1990 in Liquidation 
+gesetzt worden sind":a) in Belgien ansässige, im Gesetz vom 22. März 1993 über den Status und 
+die Kontrolle der Kreditinstitute erwähnte Kreditinstitute und die Belgische Nationalbank,[...]e) 
+Kapitalisierungsgesellschaften, die unter die Anwendung des Königlichen Erlasses Nr. 43 vom 15. Dezember 
+1934 über die Kontrolle der Kapitalisierungsgesellschaften fallen,f) in Belgien ansässige Unternehmen 
+für Hypothekendarlehen, die unter die Anwendung des Königlichen Erlasses Nr. 225 vom 7. Januar 1936 zur 
+Regelung der Hypothekendarlehen und zur Einführung der Kontrolle der Unternehmen für Hypothekendarlehen 
+fallen oder dem Gesetz vom 4. August 1992 über den Hypothekarkredit unterliegen,g) Gesellschaften, 
+deren ausschließlicher oder hauptsächlicher Zweck die Finanzierung von Teilzahlungsverkäufen ist 
+und die unter die Anwendung des Gesetzes vom 12. Juni 1991 über den Verbraucherkredit fallen,h) 
+lokale Handelsgesellschaften und regionale Verbände oder Berufsverbände dieser Gesellschaften, die aufgrund 
+der Satzung der Nationalen Kasse für Berufskredite Kredite für handwerkliche Ausrüstung gewähren dürfen,i) 
+belgische Versicherungsunternehmen, die inländische Gesellschaften sind, und belgische Niederlassungen 
+von ausländischen Versicherungsunternehmen,j) die Nationale Investitionsgesellschaft und die 
+regionalen Investitionsgesellschaften, die dem Gesetz vom 2. April 1962 zur Errichtung einer nationalen 
+Investitionsgesellschaft und regionaler Investitionsgesellschaften unterliegen,k) folgende 
+Wohnungsbaugesellschaften: "Vlaamse Huisvestingsmaatschappij", Wallonische regionale Wohnungsbaugesellschaft, 
+"Société régionale bruxelloise du logement"/"Brusselse Gewestelijke Huisvestingsmaatschappij", "Vlaamse 
+Landmaatschappij" und von ihnen zugelassene Gesellschaften, die Genossenschaften "Vlaams Woningfonds 
+van de grote gezinnen", Wohnungsfonds des Verbands der kinderreichen Familien Belgiens, Wohnungsfonds 
+der kinderreichen Familien der Wallonie und "Fonds du logement des familles de la Région bruxelloise"/"Woningfonds 
+van de gezinnen van het Brusselse Gewest" und von der Flämischen Region, der Region Brüssel Hauptstadt 
+oder der Wallonischen Region zugelassene Gesellschaften, deren ausschließlicher Zweck darin besteht, 
+Darlehen zu gewähren für Bau, Kauf oder Einrichten von Sozialwohnungen, kleinen Landeigentumen oder damit 
+gleichgesetzten Wohnungen oder für deren Ausstattung mit geeignetem Mobiliar,".Diese Bestimmungen 
+enthalten jeweils Verweise auf aufgehobene Bestimmungen. Diese Situation erfordert eine Aktualisierung 
+dieser Bestimmungen.Art. 105 Absatz 1 Nr. 1 Buchstabe a) des KE/EStGB 92In Artikel 
+105 Absatz 1 Nr. 1 Buchstabe a) des KE/EStGB 92 wird derzeit auf das Gesetz vom 22. März 1993 über den 
+Status und die Kontrolle der Kreditinstitute verwiesen. Dieser Verweis ist jedoch überholt, da dieses 
+Gesetz inzwischen aufgehoben worden ist und derzeit durch das Gesetz vom 25. April 2014 über den Status 
+und die Kontrolle der Kreditinstitute und der Börsengesellschaften ersetzt wird. Aus diesem Grund wird 
+mit vorliegendem Entwurf bezweckt, den bisherigen Verweis auf das vorerwähnte Gesetz vom 22. März 1993 
+durch einen Verweis auf das vorerwähnte Gesetz vom 25. April 2014 zu ersetzen.Art. 105 Absatz 
+1 Nr. 1 Buchstabe e) des KE/EStGB 92Durch den Königlichen Erlass vom 20. März 2007 zur Ausführung 
+von Artikel 27bis des Königlichen Erlasses Nr. 43 vom 15. Dezember 1934 über die Kontrolle der Kapitalisierungsgesellschaften 
+ist der vorerwähnte Königliche Erlass Nr. 43 mit Wirkung ab dem 31. Dezember 2007 aufgehoben worden.Die 
+Rechtsform der Kapitalisierungsgesellschaft ist also vor mehr als zehn Jahren aufgehoben worden und die 
+zum Zeitpunkt der Aufhebung vorgesehenen Übergangsbestimmungen sind inzwischen abgelaufen. Es ist daher 
+wünschenswert, den Verweis auf diese Rechtsform aufzuheben.Art. 105 Absatz 1 Nr. 1 Buchstabe 
+f) und g) des KE/EStGB 92Der Königliche Erlass Nr. 225 vom 7. Januar 1936 zur Regelung der 
+Hypothekendarlehen und zur Einführung der Kontrolle der Unternehmen für Hypothekendarlehen und das Gesetz 
+vom 4. August 1992 über den Hypothekarkredit sind durch Artikel 53 des Gesetzes vom 19. April 2014 zur 
+Einfügung von Buch VII "Zahlungs- und Kreditdienste" in das Wirtschaftsgesetzbuch, zur Einfügung der 
+Buch VII eigenen Begriffsbestimmungen und der Strafen in Bezug auf Verstöße gegen Buch VII in die 
+Bücher I und XV des Wirtschaftsgesetzbuches und zur Festlegung verschiedener anderer Bestimmungen aufgehoben 
+worden.Das Statut der Hypothekarkreditgeber ist in das Wirtschaftsgesetzbuch aufgenommen worden. 
+Dementsprechend wird diese Bestimmung angepasst, damit auf die entsprechenden Artikel in diesem Gesetzbuch 
+verwiesen wird.Das Gesetz vom 12. Juni 1991 über den Verbraucherkredit ist ebenfalls durch 
+Artikel 53 des vorerwähnten Gesetzes vom 19. April 2014 aufgehoben worden.Das Statut des Verbraucherkreditgebers 
+ist zusammen mit dem Statut des Hypothekarkreditgebers in das Wirtschaftsgesetzbuch aufgenommen worden. 
+Aus diesem Grund ist entschieden worden, diese im KE/EStGB 92 ebenfalls gemeinsam zu behandeln.Art. 
+105 Absatz 1 Nr. 1 Buchstabe h) des KE/EStGB 92Aufgrund von Artikel 16 des Königlichen Erlasses 
+vom 23. Dezember 1996 zur Abänderung des Gesetzes vom 17. Juni 1991 zur Organisation des öffentlichen 
+Kreditsektors und des Besitzes der Beteiligungen des öffentlichen Sektors an bestimmten privatrechtlichen 
+Finanzgesellschaften und verschiedener anderer Bestimmungen hinsichtlich der Nationalen Kasse für Berufskredite 
+unterliegen Kreditvereinigungen, die dem Verband des Berufskredits beigetreten sind, nicht mehr der aufsichtsrechtlichen 
+Kontrollbefugnis der Berufskredit AG. Diese Befugnis wird seitdem ausschließlich von der Autorität 
+Finanzielle Dienste und Märkte (FSMA) ausgeübt. Diese Vereinigungen fallen also in den Anwendungsbereich 
+des Gesetzes vom 25. April 2014 über den Status und die Kontrolle der Kreditinstitute und der Börsengesellschaften. 
+Diese Bestimmung ist folglich überflüssig geworden und kann daher aufgehoben werden.Art. 105 
+Absatz 1 Nr. 1 Buchstabe j) des KE/EStGB 92Es wird vorgeschlagen, den Verweis auf die Nationale 
+Investitionsgesellschaft und die regionalen Investitionsgesellschaften zu aktualisieren, wobei einerseits 
+die abgeänderte Überschrift des Gesetzes vom 2. April 1962 über die Föderale Beteiligungs- und Investitionsgesellschaft 
+und die regionalen Investitionsgesellschaften und andererseits die Zuständigkeit des flämischen Dekrets 
+vom 7. Mai 2004, das die Investitionsgesellschaften betrifft, berücksichtigt werden.Art. 105 
+Absatz 1 Nr. 1 Buchstabe k) des KE/EStGB 92Die Landschaft des sozialen Wohnungsbaus hat sich 
+seit der letzten Anpassung von Artikel 105 des KE/EStGB 92 tiefgreifend verändert. Aus diesem Grund ist 
+eine Aktualisierung dieser Bestimmung notwendig.Erstens haben einige der in dieser Bestimmung 
+erwähnten Gesellschaften oder Institute ihre Bezeichnung geändert. So ist die "Vlaamse Huisvestingsmaatschappij" 
+in die "Vlaamse Maatschappij voor Sociaal Wonen" umgewandelt worden und die Bezeichnungen "Vlaams Woningfonds 
+van de grote gezinnen" und "Wallonische regionale Wohnungsbaugesellschaft" sind einfach zu "Vlaams Woningfonds" 
+beziehungsweise "Wallonische Wohnungsbaugesellschaft" abgekürzt worden.Zweitens war in dieser 
+Bestimmung noch der Wohnungsfonds des Verbands der kinderreichen Familien Belgiens erwähnt, der infolge 
+der Regionalisierung der Zuständigkeit in Sachen Wohnungswesen inzwischen in seinen regionalen Rechtsnachfolgern 
+aufgegangen ist. Aus diesem Grund ist es nicht mehr notwendig, diesen noch ausdrücklich zu erwähnen.Darüber 
+hinaus hat die Wallonische Region ebenfalls eine neue öffentlich-rechtliche Gesellschaft gegründet, Wallonische 
+Gesellschaft für Sozialkredit genannt, deren Zweck es ist, soziale Hypothekarkredite und andere Sozialkredite 
+zu gewähren. Daher ist es ebenfalls notwendig, diese neu gegründete Gesellschaft ausdrücklich zu erwähnen.Außerdem 
+sind in dieser Bestimmung auch verschiedene grundlegende Änderungen zu berücksichtigen. So ist das Flämische 
+Wohngesetzbuch dahingehend abgeändert worden, dass neue lokale Wohnungsbaugesellschaften seit dieser 
+Abänderung von der Flämischen Regierung und folglich nicht mehr von der "Vlaamse Maatschappij voor Sociaal 
+Wonen" zugelassen werden. Des Weiteren ist in der Flämischen Region auch die Befugnis, Energiedarlehen 
+zugunsten bestimmter sozialer Gruppen zu gewähren, den Energiezentren übertragen worden. Auch in der 
+Wallonischen Region arbeitet die neue Wallonische Gesellschaft für Sozialkredit eng mit lokalen Partnern 
+zusammen, die auf eigene Initiative Kredite gewähren können. Da auch diese Partner in den Anwendungsbereich 
+dieser Bestimmung fallen müssen, ist es notwendig, die Begriffsbestimmung dahingehend anzupassen.Um 
+die Lesbarkeit dieser Bestimmung zu verbessern, wird unterschieden zwischen einerseits Gesellschaften 
+oder Einrichtungen, die die Schaffung von sozialem Wohnungsbau zum Ziel haben, und andererseits Gesellschaften 
+oder Einrichtungen, die das Anbieten von Sozialdarlehen zum Ziel haben.Art. 116 des KE/EStGB 
+92Infolge des Gutachtens Nr. 66.916/3 des Staatsrates ist die im Entwurf vorgeschlagene Abänderung 
+von Artikel 116 Nr. 2 des KE/EStGB 92 gestrichen worden, um den haushaltsneutralen Charakter des vorliegenden 
+Königlichen Erlasses zu wahren. Anschließend sind infolge dieses Gutachtens nacheinander die Stellungnahme 
+des Finanzinspektors und das Einverständnis des Ministers des Haushalts beantragt und erhalten worden.Soweit, 
+Sire, die Tragweite des Erlassentwurfs, der Ihnen vorgelegt wird.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO27. MÄRZ 2020 - Königlicher Erlass 
+zur Aktualisierung des KE/EStGB 92 hinsichtlich des MobiliensteuervorabzugsPHILIPPE, Konig 
+der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 
+1992, des Artikels 266;Aufgrund des KE/EStGB 92;Aufgrund der Stellungnahme des Finanzinspektors 
+vom 28. Februar 2020;Aufgrund des Einverständnisses des Ministers des Haushalts vom 20. März 
+2020;Aufgrund des Gutachtens Nr. 66.916/3 des Staatsrates vom 13. Februar 2020, abgegeben in 
+Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über 
+den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschlossen und erlassen Wir:Artikel 1 - Artikel 105 Absatz 1 Nr. 1 des KE/EStGB 92 wird 
+wie folgt abgeändert:1. In Buchstabe a) werden die Wörter "im Gesetz vom 22. März 1993 über 
+den Status und die Kontrolle der Kreditinstitute" durch die Wörter "im Gesetz vom 25. April 2014 über 
+den Status und die Kontrolle der Kreditinstitute und der Börsengesellschaften" ersetzt.2. Buchstabe 
+e) wird aufgehoben.3. Buchstabe f) wird wie folgt ersetzt:"f) in Belgien ansässige 
+Hypothekarkreditgeber und Verbraucherkreditgeber, die in Anwendung von Buch VII Titel 4 Kapitel 4 Abschnitt 
+2 und 3 des Wirtschaftsgesetzbuches ermächtigt sind, die Tätigkeit eines Hypothekarkreditgebers oder 
+Verbraucherkreditgebers auf belgischem Staatsgebiet auszuüben,".4. Buchstabe g) wird aufgehoben.5. 
+Buchstabe h) wird aufgehoben.6. Buchstabe j) wird wie folgt ersetzt:"j) die Föderale 
+Beteiligungs- und Investitionsgesellschaft und die regionalen Investitionsgesellschaften, die unter das 
+Gesetz vom 2. April 1962 über die Föderale Beteiligungs- und Investitionsgesellschaft und die regionalen 
+Investitionsgesellschaften fallen, und die Investitionsgesellschaften, die unter das flämische Dekret 
+vom 7. Mai 2004 fallen, das die Investitionsgesellschaften der flämischen Behörde betrifft,".7. 
+Buchstabe k) wird wie folgt ersetzt:"k) folgende Wohnungsbaugesellschaften beziehungsweise 
+Gesellschaften für Wohnkredite:- "Vlaamse Maatschappij voor Sociaal Wonen", Wallonische Wohnungsbaugesellschaft, 
+"Société du Logement de la Région de Bruxelles-Capitale"/"Brusselse Gewestelijke Huisvestingsmaatschappij", 
+"Vlaamse Landmaatschappij" und von ihnen oder von der zuständigen Regierung zugelassene lokale Gesellschaften 
+für sozialen Wohnungsbau,- "Vlaams Woningfonds", Wallonische Gesellschaft für Sozialkredit, 
+Wohnungsfonds der kinderreichen Familien der Wallonie und "Fonds du Logement de la Région de Bruxelles-Capitale"/"Woningfonds 
+van het Brussels Hoofdstedelijk Gewest" und von der Flämischen Region, der Region Brüssel-Hauptstadt 
+oder der Wallonischen Region zugelassene Gesellschaften und Einrichtungen, deren Zweck darin besteht, 
+Darlehen zu gewähren für den Kauf von Grundstücken, für Kauf, Bau, Umbau, Renovierung oder Einrichten 
+von Familienwohnungen und deren Ausstattung mit geeignetem Mobiliar oder für die Durchführung von Energiesparmaßnahmen,".Art. 
+2 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 27. März 2020PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-17Numac : 2021031326
+

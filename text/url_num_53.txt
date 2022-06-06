@@ -1,0 +1,479 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/19/2020030729/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030729
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 19 APRIL 2020. - Bijzondere-machtenbesluit nr. 7 houdende bijkomende steunmaatregelen inzake vennootschapsbelasting, rechtspersonenbelasting, belasting niet-inwoners, personenbelasting, belasting over de toegevoegde waarde, bedrijfsvoorheffing, registratierechten en retributies 
+VERSLAG AAN DE KONINGSire,De 
+gezondheidscrisis te wijten aan het nieuwe coronavirus waarmee de ganse wereld wordt geconfronteerd en 
+de maatregelen die door de overheid van het land ter indamming van het virus werden getroffen veroorzaken 
+nu reeds een economische crisis die zowel de bedrijven als de ganse bevolking treffen. De economische 
+crisis zal zeker nog enige tijd verergeren en de leefbaarheid van een aantal ondernemingen in het gedrang 
+brengen.Teneinde de gezondheidscrisis en de ermee gepaard gaande economische crisis te bestrijden 
+werd de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd 
+tegen de verspreiding van het coronavirus COVID-19 (II) door het Parlement aangenomen.De bijzondere 
+machten die de Koning heeft gekregen (zie in het bijzonder art. 2 en 5, § 1, 3°,  4°  en 6° ), 
+zijn, in fiscale materies, beperkt. Aldus, "De verplichtingen met betrekking tot de betaling en terugbetaling 
+van de belastingen, taksen en rechten, kunnen worden verschoven in de tijd, doch niet gewijzigd, vervangen 
+of opgeheven. In geen geval kunnen de tarieven, de grondslag of de belastbare verrichtingen aangepast 
+worden. De maatregelen die de Koning krachtens deze wet kan nemen beperken zich aldus tot de inning en 
+de invordering." (Kamer, Doc 55 1104/001, p. 5, Artikelsgewijze toelichting, onder artikel 4).Ze 
+zijn erop gericht de impact van de pandemie te wijten aan het coronavirus voor alle economische spelers 
+zoveel mogelijk op te vangen.Om extra financiële ademruimte te creëren voor de bedrijven en 
+ondernemers maar ook voor gezinnen, worden in dit besluit bijkomende steunmaatregelen genomen inzake 
+vennootschapsbelasting, rechtspersonen-belasting, belasting niet-inwoners, personenbelasting, btw en 
+bedrijfsvoorheffing.Dit besluit heeft tot voornamelijk doel:1°  het uitstel tot en 
+met 30 april 2020 voor de indieningstermijn van de aangiften inzake vennootschapsbelasting, rechtspersonenbelasting, 
+belasting niet-inwoners- vennootschappen, met een uiterste indieningsdatum tussen 16 maart 2020 en 30 
+april 2020, alsook een automatisch uitstel van twee maanden voor de betalingstermijnen inzake personenbelasting, 
+vennootschapsbelasting rechtspersonenbelasting, belasting niet-inwoners, en bedrijfsvoorheffing, zonder 
+boetes of interesten te moeten betalen;2°  het uitstel van de data van indiening van de periodieke 
+btw-aangifte, van de bijzondere btw-aangifte, van de jaarlijkse klantenlisting, van de opgave van de 
+intracommunautaire handelingen, een automatisch uitstel van betaling van twee maanden voor de betaling 
+van de btw, alsook een versnelde terugbetaling.De artikelen van dit besluit maken deel uit 
+van de uitvoering van artikel 5, § 1, 3°  en 6°  van de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 
+(II).Het betreft meer in het bijzonder een wettelijke bekrachtiging van de dringende steunmaatregelen 
+die eerder door de regering werden aangekondigd en op de website van de Federale Overheidsdienst Financiën 
+werden gepubliceerd onder de titel "Coronavirus - bijkomende steunmaatregelen : vennootschapsbelasting, 
+rechtspersonenbelasting, belasting niet-inwoners, personenbelasting, btw en bedrijfsvoorheffing" waardoor 
+de rechtszekerheid voor belastingplichtigen die gebruik maken van uitstel van betaling wordt gewaarborgd. 
+Het dringend karakter van de fiscale steunmaatregelen rechtvaardigt hun opname in dit besluit.Bovendien 
+wordt in dit besluit de termijn voor de griffiers tot overlegging van vonnissen en arresten op de kantoren 
+Rechtszekerheid van de Algemene Administratie van de Patrimoniumdocumentatie tijdelijk verlengd.Artikel 
+1 van dit ontwerp heeft als enig doel de verplichtingen met betrekking tot de indiening van de aangifteformulieren 
+inzake de vennootschapsbelasting, de rechtspersonenbelasting en de belasting van niet-inwoners-vennootschappen 
+met een uiterste indieningsdatum tussen 16 maart 2020 en 30 april 2020, in de tijd te verschuiven.Artikel 
+2 van het ontwerp bepaalt dat, wanneer rechtspersonen hun algemene vergadering uitstellen, in toepassing 
+van de bepalingen van het koninklijk besluit nr. 4 van 9 april 2020 houdende diverse bepalingen inzake 
+mede-eigendom en het vennootschaps- en verenigingsrecht in het kader van de strijd tegen de Covid-19 
+pandemie, de in artikel 310 WIB92 bedoelde termijn van één maand niet van toepassing is wanneer deze 
+algemene vergadering plaatsvindt op een datum op minder dan een maand van de uiterste indieningsdatum 
+van de aangifte in de vennootschapsbelasting.Deze bepaling wordt genomen vanuit de bekommernis 
+de uiterste indieningsdatum van de aangifte in de vennootschapsbelasting niet te verdagen teneinde de 
+administratieve en procedurele termijnen niet nog meer te verkorten waardoor de goede werking van de 
+diensten zou worden verstoord.Artikel 3 laat toe om de betalingstermijn voor de bedrijfsvoorheffing 
+verbonden aan de maanden februari, maart en april 2020, of aan het eerste kwartaal 2020 voor de kwartaalaangevers 
+met twee maanden te verlengen.De artikelen 4 en 5 voorzien een automatische verlenging van 
+de betalingstermijn voor de inkomstenbelastingen voor aanslagjaar 2019 (de personenbelasting, de vennootschapsbelasting, 
+de rechtspersonenbelasting en de belasting niet-inwoners) opgenomen in een kohier dat uitvoerbaar werd 
+verklaard tussen 12 maart 2020 en 31 oktober 2020.Deze termijn werd zo bepaald om ook de inkohieringen 
+met betrekking tot boekjaren te paard te vatten.Wanneer belastingschuldigen gebruik maken van 
+deze bijkomende betalingstermijnen worden er noch nalatigheidsinteresten (art. 6), noch administratieve 
+boetes (art. 8) toegepast tijdens de verlengingstermijn.Zo zal ook de indiening van de betrokken 
+aangifteformulieren na de op het formulier vermelde datum geen aanleiding geven tot een belastingverhoging 
+(artikel 7) of een administratieve boete (artikel 8), beide wegens laattijdige indiening, op voorwaarde 
+dat ze uiterlijk 30 april 2020 zijn ingediend.Gelet op het eenmalig karakter ervan werden de 
+verlengingen van de neerleggingstermijnen of de betalingstermijnen niet opgenomen in het Wetboek van 
+de inkomstenbelastingen 1992 noch in de andere Wetboeken of in de normaal van toepassing zijnde wetgeving.Het 
+spreekt voor zich dat de bepalingen met betrekking tot de nalatigheidsinteresten en de administratieve 
+sancties niet van toepassing zijn als de neerlegging of de betaling plaats heeft binnen de aldus verlengde 
+termijnen.Als de bedrijfsvoorheffing en de inkomstenbelastingen voldaan worden na het verstrijken 
+van de verlengde termijn, zijn de artikelen 414 en 445 van het Wetboek van de inkomstenbelastingen 1992 
+van toepassing.Artikel 9, § 1, voorziet een verlengde betalingstermijn voor de periodieke 
+btw-maandaangiften met betrekking tot de maanden februari, maart en april 2020 alsook voor de btw-kwartaalaangifte 
+met betrekking tot het eerste kwartaal van 2020. Artikel 9, § 2, voorziet daarnaast ook een verlengde 
+betalingstermijn voor de bijzondere btw-aangifte met betrekking tot het eerste kwartaal van 2020.Wanneer 
+belastingplichtigen gebruik maken van deze verlengde betalingstermijn, worden er geen nalatigheidsinteresten 
+noch administratieve geldboeten toegepast tijdens de verlengingstermijn.Artikel 9, § 
+3, voorziet een verlengde indieningstermijn voor de btw-maandaangiften met betrekking tot de maanden 
+februari, maart en april 2020 alsook voor de btw-kwartaalaangifte met betrekking tot het eerste kwartaal 
+van 2020. Artikel 9, § 4, voorziet daarnaast ook een verlengde indieningstermijn voor de bijzondere 
+btw-aangifte met betrekking tot het eerste kwartaal van 2020.Wanneer belastingplichtigen gebruik 
+maken van deze verlengde indieningstermijn, worden er geen administratieve geldboeten toegepast tijdens 
+de verlengingstermijn.Artikel 10 voorziet ten voordele van belastingplichtigen die btw-maandaangiften 
+indienen een versnelde teruggave van het bedrag verschuldigd door de Staat na het indienen van de btw-aangifte 
+met betrekking tot de maand februari 2020. Dat geldt zowel voor die belastingplichtigen die al recht 
+hebben op een maandelijkse teruggaaf (de belastingplichtigen bedoeld in artikel 81, §  2, eerste 
+lid, 3°  en 4°,  van het koninklijk besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven 
+inzake belasting over de toegevoegde waarde) als voor diegenen die geen recht hebben op een dergelijke 
+maandelijkse teruggaaf.De teruggaaf zal ten laatste op 30 april 2020 worden uitgevoerd, wat 
+met name voor de tweede categorie van indieners van periodieke btw-maandaangiften de teruggaaf tot twee 
+maanden kan vervroegen.De versnelde teruggaaf zal maar worden uitgevoerd op uitdrukkelijk verzoek 
+van de belastingplichtige als het terug te geven btw-bedrag minimaal 245 euro bedraagt en de aangiften 
+met betrekking tot de maanden januari en februari 2020 uiterlijk op 3 april 2020 langs elektronische 
+weg worden ingediend. De indieningstermijn voor de aangifte met betrekking tot de maand februari 2020 
+moet alleen worden gerespecteerd om versnelde teruggaaf te kunnen genieten: de belastingplichtige die 
+deze termijn overschrijdt, kan nog altijd de verlengde indieningstermijn bedoeld in artikel 9, § 
+3, genieten zonder dat er tijdens die verlengde indieningstermijn administratieve geldboeten worden opgelegd.Artikel 
+11 preciseert dat de belastingplichtigen die maandaangiften indienen en die al recht hebben op maandelijkse 
+teruggaaf, hun aangifte met betrekking tot de maand maart 2020 uiterlijk op 24 april 2020 moeten indienen.Artikel 
+12 voorziet verlengde indieningstermijnen voor de jaarlijkse lijst van de belastingplichtige afnemers 
+betreffende het jaar 2019.Wanneer belastingplichtigen gebruik maken van deze verlengde indieningstermijnen, 
+worden er geen administratieve geldboeten toegepast tijdens de verlengingstermijn.Artikel 13 
+voorziet verlengde indieningstermijnen voor deel 1 en deel 2 van de btw-opgave van de intracommunautaire 
+handelingen met betrekking tot de maand maart 2020 en tot de maand april 2020.Wanneer belastingplichtigen 
+gebruik maken van deze verlengde indieningstermijnen, worden er geen administratieve geldboeten toegepast 
+tijdens de verlengingstermijn.Om de betrokken belastingplichtigen in deze moeilijke tijden 
+een zo groot mogelijke rechtszekerheid en geruststelling te bieden, moeten de voorgestelde maatregelen 
+zo spoedig mogelijk in werking treden.Artikel 14 voorziet in een tijdelijke verlenging van 
+de termijn voor de overlegging van de vonnissen en arresten op het kantoor Rechtszekerheid.Artikel 
+1 van het koninklijk besluit van 28 januari 2019 betreffende de uitvoering van het wetboek der registratie-, 
+hypotheek- en griffierechten en het houden van de registers in de griffies van de hoven en rechtbanken, 
+verplicht, op straffe van een administratieve boete, de griffiers tot overlegging binnen een termijn 
+van tien dagen van hun vonnissen en arresten op het bevoegde kantoor Rechtszekerheid van de Algemene 
+Administratie van de Patrimoniumdocumentatie.Voornoemd artikel 1 laat de kantoren Rechtszekerheid 
+toe om over te gaan tot de inning van het veroordelingsrecht of van het titelrecht, wanneer de verschuldigdheid 
+ervan blijkt uit het vonnis of arrest.De noodmaatregelen in verband met het tegengaan van de 
+verspreiding van het COVID-19 virus hebben de normale werking van zowel de griffies van de hoven en rechtbanken 
+als van de kantoren Rechtszekerheid van de Algemene Administratie van de Patrimoniumdocumentatie danig 
+verstoord, zodat zowel de griffiers als de ambtenaren van de kantoren Rechtszekerheid zich veelal moeten 
+beperken tot de meest dringende taken.De inning van het veroordelingsrecht en van het titelrecht 
+kan zonder veel repercussies voor de budgettaire opbrengst van die rechten nu een aantal weken worden 
+opgeschoven. De termijn voor de overlegging van de vonnissen en arresten op het kantoor rechtszekerheid 
+kan bijgevolg ook worden verlengd.Artikel 1 van het koninklijk besluit van 28 januari 2019 
+staat daaraan echter in de weg vermits dat artikel op straffe van een administratieve boete een strikte 
+termijn van tien dagen bepaalt waarbinnen de overlegging van de vonnissen en arresten op het bevoegde 
+kantoor Rechtszekerheid moet gebeuren.Het is aldus van belang dat zowel de griffiers van de 
+hoven en rechtbanken (wat betreft de termijn waarbinnen zij hun akten moeten overleggen), als de ambtenaren 
+van de kantoren Rechtszekerheid (wat betreft de toepassing van de boete bij laattijdige overlegging), 
+zo snel als mogelijk kunnen terugvallen op een formele rechtsregel die hen tijdelijk toelaat af te wijken 
+van de toepassing van artikel 1 van het koninklijk besluit van 28 januari 2019. Om efficiënt te zijn 
+(vermijden van teruggaven van reeds geheven boetes) moet de voorgestelde maatregel zo spoedig als mogelijk 
+kunnen toegepast worden.Bovendien is het zo dat de maatregelen die de regering heeft genomen 
+in het kader van de bestrijding van de COVID-19 pandemie een nadelige invloed kunnen hebben op het vermogen 
+van particulieren en bedrijven om schulden tijdig af te betalen en dat hierdoor de bankinstellingen en 
+andere schuldeisers zich kunnen genoodzaakt zien om hun hypothecaire mandaten om te zetten in effectieve 
+hypothecaire inschrijvingen, waarbij de daaraan verbonden kosten ten laste komen van de schuldenaars 
+waardoor hun schuldpositie verder verzwakt. Daarom voert art. 15 in dat er tijdelijk geen retributie 
+verschuldigd is op deze hypothecaire inschrijvingen.Gelet op deze dringendheid werd het advies 
+van de Raad van State, gevraagd met toepassing artikel 4, derde lid van de wet van 27 maart 2020 die 
+machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het 
+coronavirus COVID-19 (I), binnen maximum 5 dagen.Ik heb de eer te zijn,Sire,Van 
+Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De Vice-eersteminister 
+en Minister van Financiën,A. DE CROOADVIES 67.206/3 VAN 14 APRIL 
+2020 OVER EEN ONTWERP VAN KONINKLIJK BESLUIT NR. 7 `HOUDENDE BIJKOMENDE STEUNMAATREGELEN INZAKE VENNOOTSCHAPSBELASTING, 
+RECHTSPERSONENBELASTING, BELASTING NIET-INWONERS, PERSONENBELASTING, BELASTING OVER DE TOEGEVOEGDE WAARDE, 
+BEDRIJFSVOORHEFFING, REGISTRATIERECHTEN EN RETRIBUTIES'Op 6 april 2020 is de Raad van State, 
+afdeling Wetgeving, door de Minister van Financiën verzocht binnen een termijn van vijf werkdagen een 
+advies te verstrekken over een ontwerp van koninklijk besluit nr. 7 `houdende bijkomende steunmaatregelen 
+inzake vennootschapsbelasting, rechtspersonenbelasting, belasting niet-inwoners, personenbelasting, belasting 
+over de toegevoegde waarde, bedrijfsvoorheffing, registratierechten en retributies'.Het ontwerp 
+is door de derde kamer onderzocht op 9 april 2020. De kamer was samengesteld uit Jo Baert, kamervoorzitter, 
+Jeroen Van Nieuwenhove en Koen Muylle, staatsraden, Jan Velaers en Bruno Peeters, assessoren, en Annemie 
+Goossens, griffier.Het verslag is uitgebracht door Kristine Bams, eerste auditeur-afdelingshoofd, 
+en Frédéric Vanneste, eerste auditeur.De overeenstemming tussen de Franse en de Nederlandse 
+tekst van het advies is nagezien onder toezicht van Koen Muylle, staatsraad.Het advies, waarvan 
+de tekst hierna volgt, is gegeven op 14 april 2020.1. Overeenkomstig artikel 4, eerste lid, 
+van de wet van 27 maart 2020 `die machtiging verleent aan de Koning om maatregelen te nemen in de strijd 
+tegen de verspreiding van het coronavirus COVID-19 (I)' (hierna: de wet van 27 maart 2020 (I)), waarin 
+wordt verwezen naar artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973, heeft de afdeling Wetgeving zich moeten beperken tot het onderzoek van de bevoegdheid 
+van de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten 
+is voldaan.Strekking van het ontwerp2. Het voor advies voorgelegde ontwerp van koninklijk 
+besluit strekt ertoe in bijkomende steunmaatregelen te voorzien inzake de vennootschapsbelasting, de 
+rechtspersonenbelasting, de belasting niet-inwoners, de personenbelasting, de belasting over de toegevoegde 
+waarde, de bedrijfsvoorheffing, de registratierechten en retributies, teneinde de impact van de COVID-19 
+pandemie veroorzaakt door het coronavirus te verzachten.Zo worden de termijnen uitgesteld voor 
+de indiening van aangiften inzake de vennootschapsbelasting, de rechtspersonenbelasting en de belasting 
+niet--inwoners--vennootschappen, en wordt in uitstel van betaling voorzien inzake de inkomstenbelastingen 
+en de bedrijfsvoorheffing (artikelen 1 tot 8 van het ontwerp).Ook wordt het tijdstip van indiening 
+van de periodieke btw-aangifte, van de bijzondere btw-aangifte, van de jaarlijkse klantenlisting, van 
+de opgave van de intracommunautaire handelingen, en van de betaling van de btw uitgesteld (artikelen 
+9 tot 13).Voorts wordt de termijn verlengd waarbinnen de griffiers van de hoven en rechtbanken 
+vonnissen en arresten kunnen meedelen aan de ontvanger van het bevoegde kantoor Rechtszekerheid van de 
+Algemene Administratie van de Patrimoniumdocumentatie (artikel 14).Ten slotte wordt bepaald 
+dat de retributie verschuldigd voor de uitvoering van hypothecaire formaliteiten niet moet worden betaald 
+ingeval in de periode van 16 maart 2020 tot 30 juni 2020 de inschrijving van een hypotheek wordt gevraagd 
+op overlegging van een hypothecair mandaat dat dagtekent van voor 16 maart 2020 (artikel 15).Het 
+te nemen besluit heeft uitwerking met ingang van 1 maart 2020 (artikel 16).Rechtsgrond3.1. 
+Het ontworpen besluit vindt in beginsel rechtsgrond in artikel 5, § 1, 3°  en 6°,  van de wet 
+van 27 maart 2020 `die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de 
+verspreiding van het coronavirus COVID-19 (II)' (hierna: de wet van 27 maart 2020 (II). In die bepaling 
+wordt de Koning gemachtigd om maatregelen te nemen om:"3°  directe of indirecte steun te bieden 
+aan of beschermende maatregelen te nemen voor de getroffen financiële sectoren, de economische sectoren, 
+de profit- en non-profitsector, de bedrijven en de huishoudens om de gevolgen van de pandemie te beperken;(...)6° 
+ de bij of krachtens de wet bepaalde termijnen te schorsen of te verlengen volgens de door Hem bepaalde 
+termijnen".3.2. Voor artikel 15 van het ontworpen besluit zou rechtsgrond kunnen worden gevonden 
+in artikel 146, tweede lid, van titel XVIII, van boek III, van het Burgerlijk Wetboek, waarnaar wordt 
+verwezen in het tiende lid van de aanhef. In die bepaling wordt de Koning gemachtigd om het tarief en 
+de nadere regels inzake de toepassing te bepalen van de retributies die verschuldigd zijn voor de uitvoering 
+van de hypothecaire formaliteiten en voor het uitreiken van de afschriften en getuigschriften.De 
+gemachtigde liet evenwel weten dat voor die bepaling, naast het hiervoor vermelde artikel 5, § 
+1, 3°,  van de wet van 27 maart 2020 (II), veeleer rechtsgrond wordt gezocht in punt 4°  van hetzelfde 
+artikel, naar luid waarvan de Koning wordt gemachtigd om maatregelen te nemen om de continuïteit van 
+de economie, de financiële stabiliteit van het land en de marktwerking te garanderen, alsook de consument 
+te beschermen.Die bepaling kan inderdaad rechtsgrond bieden voor artikel 15 van het ontworpen 
+besluit. Artikel 4 van de wet van 27 maart 2020 (II) bepaalt weliswaar dat de koninklijke besluiten genomen 
+krachtens deze wet de bijdragen aan de sociale zekerheid, de belastingen, de taksen en rechten, niet 
+mogen aanpassen, opheffen, wijzigen of vervangen, inzonderheid de grondslag, het tarief en de belastbare 
+verrichtingen. Artikel 15 heeft echter betrekking op een retributie, zodat de in artikel 4 van de wet 
+van 27 maart 2020 (II) vervatte beperking er niet op van toepassing is.Door de keuze om voor 
+artikel 15 van het ontworpen besluit rechtsgrond te zoeken in de wet van 27 maart 2020 (II), en niet 
+in artikel 146, tweede lid, van titel XVIII, van boek III van het Burgerlijk Wetboek, zal die bepaling, 
+net zoals de overige bepalingen van het te nemen besluit, overeenkomstig artikel 7 van die wet binnen 
+een termijn van een jaar vanaf de inwerkingtreding ervan moeten worden bekrachtigd, zo niet wordt ze 
+geacht nooit uitwerking te hebben gehad.Onderzoek van de tekstAanhef4.1. 
+Gelet op wat over de rechtsgrond voor het ontworpen besluit is opgemerkt (opmerking 3.2), moet het tiende 
+lid van de aanhef worden weggelaten.4.2. In het vijftiende lid van de aanhef, dat het veertiende 
+lid wordt, dient enkel te worden verwezen naar artikel 4, derde lid, van de wet van 27 maart 2020 (I), 
+aangezien die vermelding, voor de koninklijke besluiten die binnen het toepassingsgebied van die bepaling 
+vallen, daar dienst doet als de overname van de motivering van het spoedeisend karakter. Het is niet 
+nodig om bijkomend te verwijzen naar artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad 
+van State.Artikel 25. In artikel 2 van het ontwerp wordt bepaald dat de termijn van 
+een maand bedoeld in artikel 310 van het Wetboek van de Inkomstenbelastingen 1992 (hierna: WIB 92) niet 
+van toepassing is op de in de ontworpen regeling vermelde gevallen.De gemachtigde preciseerde 
+dat de verwijzing naar "de termijn van een maand" zowel slaat op de termijn vermeld in artikel 310, eerste 
+lid, van het WIB 92, als op die vermeld in het tweede en derde lid van die bepaling:"De verwijzing 
+naar het eerste lid werd opgeheven, de bepaling slaat op het volledige artikel 310 en niet enkel op het 
+eerste lid. De in het tweede en derde lid bedoelde ontbonden vennootschappen kunnen namelijk ook onder 
+de bepalingen vallen van hoofdstuk 2, afdeling 4 van het koninklijk besluit nr. [X] 2020 houdende diverse 
+bepalingen inzake mede-eigendom en het vennootschaps- en verenigingsrecht in het kader van de strijd 
+tegen de Covid-19 pandemie."Artikelen 9 en 136. In de artikelen 9, §§ 
+3 en 4, en 13, § 1, van het ontwerp wordt de Minister van Financiën (lees: de minister bevoegd 
+voor financiën) gemachtigd om de dienst aan te wijzen waarbij de in die bepalingen vermelde aangiften 
+moeten worden ingediend.Om uitleg gevraagd over die machtigingen aan de minister verklaarde 
+de gemachtigde:"Les dispositions contenues dans les articles 9 et 13 du projet ont uniquement 
+pour but, en dérogeant à l'article 18, §  1er, de l'arrêté royal n°  1 du 29 
+décembre 1992 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée et aux 
+articles 1er et 9 de l'arrêté royal n°  50 du 11 décembre 2019 relatif au relevé à la 
+T.V.A. des opérations intracommunautaires, de prolonger la date de dépôt, respectivement de la déclaration 
+périodique à la T.V.A. et de la déclaration spéciale à la T.V.A., ainsi que du relevé à la T.V.A. des 
+opérations intracommunautaires.Ainsi, les déclarations en question doivent être déposées auprès 
+du même service et selon les mêmes modalités que celles prévues à l'article 18 de l'arrêté royal n°  
+1 précité et aux articles 6 et 12 de l'arrêté royal n°  50 précité (en règle par voie électronique via 
+[internet]).Aucune nouvelle délégation au Ministre n'est en l'occurrence introduite dans les 
+articles 9 et 13 du projet en question.Compte tenu de ce qui précède, les mots `au service 
+indiqué par le Ministre des Finances' seront donc supprimés des articles 9, §§ 3 et 4, 
+et 13, § 1er, alinéa 1er du projet."Hiermee kan worden 
+ingestemd.Artikel 167. Luidens artikel 16, eerste lid, van het ontwerp heeft het 
+te nemen besluit uitwerking met ingang van 1 maart 2020.Artikel 2, tweede lid, van de wet van 
+27 maart 2020 (II) bepaalt dat zo nodig de in artikel 5, § 1, 1°  tot 8°,  van dezelfde wet bedoelde 
+maatregelen zo nodig een terugwerkende kracht kunnen hebben, die echter niet verder kan teruggaan dan 
+1 maart 2020. Bijgevolg bestaat voor de terugwerkende kracht een wettelijke grondslag. Er lijkt ook te 
+kunnen worden aangenomen dat ze onontbeerlijk is voor de verwezenlijking van een doelstelling van algemeen 
+belang.Omtrent de keuze voor de datum van 1 maart 2020 verklaarde de gemachtigde het volgende:"Gelet 
+op de hoogdringendheid, werd één enkele datum weerhouden, namelijk die van de eerste dag van de maand 
+waarop de maatregelen in het kader van Corona werden genomen."8. In artikel 16, tweede lid, 
+van het ontwerp wordt bepaald dat indien de dringende noodzaak die het te nemen besluit motiveert, niet 
+verdwenen is op de vervaldag van de in de artikelen 4 en 5 bedoelde termijnverlengingen, de Koning deze 
+vervaldag kan uitstellen.Met een dergelijke bepaling in het te nemen bijzonderemachtenbesluit 
+zou de Koning zichzelf machtigen om ook na afloop van de door de wetgever toegekende bijzondere machten 
+in een bijkomende termijnverlenging te voorzien die afwijkt van de artikelen 413, eerste lid, en 413/1, 
+§ 2, eerste lid, van het WIB 92. Een dergelijk besluit zou rechtsgrond vinden in artikel 16, tweede 
+lid, van het te nemen (en te bekrachtigen) besluit en niet in de wet van 27 maart 2020 (II).De 
+Koning kan aan zichzelf evenwel geen bijzondere machten toekennen. Die bevoegdheid komt enkel aan de 
+wetgever zelf toe.Bovendien is de ontworpen regeling niet nodig, aangezien de Koning binnen 
+de looptijd van de bij de wet van 27 maart 2020 (II) toegekende bijzondere machten de in de artikelen 
+4 en 5 bepaalde termijnverlenging kan aanpassen op grond van die wet. Artikel 6, tweede lid, van het 
+ontwerp moet bijgevolg worden weggelaten.De griffier,A. GoossensDe voorzitter,J. 
+Baert19 APRIL 2020. - Bijzondere-machtenbesluit nr. 7 houdende bijkomende steunmaatregelen 
+inzake vennootschapsbelasting, rechtspersonenbelasting, belasting niet-inwoners, personenbelasting, belasting 
+over de toegevoegde waarde, bedrijfsvoorheffing, registratierechten en retributiesFILIP, Koning 
+der Belgen,Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet 
+van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de 
+verspreiding van het coronavirus COVID-19 (II), artikelen 2 en 5, § 1, 3°,  4°  en 6° ;Gelet 
+op het Wetboek van de inkomstenbelastingen 1992, artikelen 308, § 1, 412, tweede lid, 412, derde 
+lid, 413, eerste lid, 413, tweede lid, 413/1, § 2, eerste lid, 414, 444 en 445;Gelet 
+op het Wetboek van belasting over de toegevoegde waarde, artikelen 53, § 1, eerste lid, 3°,  en 
+53ter, 2° ;Gelet op koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling 
+voor de voldoening van de belasting over de toegevoegde waarde, artikel 18, § 1;Gelet 
+op het koninklijk besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting 
+over de toegevoegde waarde, artikel 81, § 2, eerste en tweede lid;Gelet op het koninklijk 
+besluit nr. 23 van 9 december 2009 met betrekking tot de jaarlijkse lijst van de btw-belastingplichtige 
+afnemers, artikel 1, § 1 en 3;Gelet op het koninklijk besluit nr. 50 van 11 december 
+2019 met betrekking tot de btw-opgave van de intracommunautaire handelingen, de artikelen 1, 5, § 
+1 en 2, 9 en 11, § 1 en 2;Gelet op het Wetboek der registratie-, hypotheek- en griffierechten, 
+artikelen 32, enig lid, 3°,  142 tot 147 en 1812;Gelet op het koninklijk besluit van 28 januari 
+2019 betreffende de uitvoering van het wetboek der registratie-, hypotheek- en griffierechten en het 
+houden van de registers in de griffies van de hoven en rechtbanken, artikel 1;Gelet op het 
+Koninklijk besluit van 14 september 2016 tot vaststelling van de retributies voor de uitvoering van de 
+hypothecaire formaliteiten en voor de aflevering van de afschriften en getuigschriften;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 30 maart 2020;Gelet op het akkoord 
+van de Minister van Begroting, gegeven op 1 april 2020;Gelet op het advies van de in Raad vergaderde 
+Ministers, gegeven op 4 april 2020;Gelet op het advies nr. 67.206/3 van de Raad van State, 
+gegeven op 14 april 2020, met toepassing van artikel 4, derde lid van de wet van 27 maart 2020 dat machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (I);Gelet op de impactanalyse van de regelgeving, uitgevoerd op 30 maart 2020 overeenkomstig 
+de artikelen 6 en 7 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve 
+vereenvoudiging;Overwegende dat de bijzondere machten die de regering heeft gekregen erop gericht 
+zijn de impact van de COVID-19 pandemie voor alle economische spelers zoveel als mogelijk op te vangen;Overwegende 
+dat het nodig is om bijkomende maatregelen te nemen om extra financiële ademruimte te creëren voor de 
+bedrijven en ondernemers maar ook voor gezinnen;Overwegende dat om de betrokken belastingplichtigen 
+in deze moeilijke tijden een zo groot mogelijke rechtszekerheid en geruststelling te bieden, de voorgestelde 
+maatregelen zo vlug mogelijk dienen in werking te treden;Overwegende dat de normale werking 
+van zowel de griffies van de hoven en rechtbanken als van de kantoren Rechtszekerheid van de Algemene 
+Administratie van de Patrimoniumdocumentatie verstoord is zodat het in de huidige situatie aangewezen 
+is die termijn voor de griffiers tot overlegging van vonnissen en arresten op te schorten zolang de toestand 
+niet genormaliseerd is;Overwegende dat de maatregelen die de regering heeft genomen in het 
+kader van de bestrijding van de COVID-19 pandemie een nadelige invloed kunnen hebben op het vermogen 
+van particulieren en bedrijven om schulden tijdig af te betalen en dat hierdoor de bankinstellingen en 
+andere schuldeisers zich kunnen genoodzaakt zien om hun hypothecaire mandaten om te zetten in effectieve 
+hypothecaire inschrijvingen, waarbij de daaraan verbonden kosten ten laste komen van de schuldenaars 
+waardoor hun schuldpositie verder verzwakt;Op de voordracht van de Vice-Eerste Minister en 
+Minister van Financiën en op het advies van de in Raad vergaderde Ministers,Hebben Wij besloten 
+en besluiten Wij :HOOFDSTUK 1. - Uitstel van de indiening van aangiften inzake vennootschapsbelasting, 
+rechtspersonenbelasting, belasting niet-inwoners vennootschappen en uitstel van de betaling inzake de 
+inkomstenbelastingen en de bedrijfsvoorheffingArtikel 1. In afwijking van artikel 308, § 
+1, van het Wetboek van de inkomstenbelastingen 1992, laatstelijk gewijzigd bij de wet van 17 juni 2013, 
+kunnen de aangifteformulieren inzake de vennootschapsbelasting, de rechtspersonen-belasting en de belasting 
+van niet-inwoners-vennootschappen met een uiterste indieningsdatum tussen 16 maart 2020 en 30 april 2020, 
+rechtsgeldig worden ingediend tot en met 30 april 2020.Art. 2. Voor de rechtspersonen die gebruik 
+maken van de bepalingen opgenomen in hoofdstuk 2, afdeling 4 van het koninklijk besluit nr. 4 van 9 april 
+2020 houdende diverse bepalingen inzake mede-eigendom en het vennootschaps- en verenigingsrecht in het 
+kader van de strijd tegen de Covid-19 pandemie en waarvan de goedkeuring van hetzij de jaarrekening hetzij 
+de rekening der ontvangsten en uitgaven op een datum plaatsvindt, op minder dan een maand van de uiterste 
+indieningsdatum van de aangifte in de vennootschapsbelasting waarop de voormelde jaarrekening of de rekening 
+der ontvangsten en uitgaven betrekking heeft, zal de termijn van een maand bedoeld in artikel 310 van 
+het Wetboek van de inkomstenbelastingen 1992 niet van toepassing zijn.Art. 3. In afwijking 
+van artikel 412, tweede lid, van hetzelfde Wetboek, gewijzigd bij de wet van 24 maart 2015, wordt de 
+betalingstermijn van de bedrijfsvoorheffing verbonden aan de maanden februari, maart en april 2020 verlengd 
+tot respectievelijk 13 mei, 15 juni en 15 juli 2020.In afwijking van artikel 412, derde lid, 
+van hetzelfde Wetboek, ingevoegd bij de wet van 28 juli 1992, gewijzigd bij de koninklijke besluiten 
+van 20 juli 2000 en 13 juli 2001 en gewijzigd bij de wet van 19 december 2014, wordt de betalingstermijn 
+van de bedrijfsvoorheffing verbonden aan het eerste trimester van 2020 verlengd tot 15 juni 2020.Art. 
+4. In afwijking van artikel 413, eerste lid, vervangen bij de wet van 15 maart 1999 en tweede lid, ingevoegd 
+bij de wet van 17 juni 2013 van hetzelfde Wetboek, wordt, met uitzondering van de onroerende voorheffing, 
+de betalingstermijn verlengd met twee maanden voor het aanslagjaar 2019 voor de inkomstenbelastingen 
+opgenomen in een kohier uitvoerbaar verklaard tussen 12 maart 2020 en 31 oktober 2020.Het eerste 
+lid raakt niet aan de toepassing van artikel 413, derde en vierde lid, van hetzelfde Wetboek.Art. 
+5. In afwijking van artikel 413/1, § 2, eerste lid, van hetzelfde Wetboek, ingevoegd bij de wet 
+van 1 december 2016, wordt de betalingstermijn verlengd met twee maanden voor het aanslagjaar 2019 voor 
+het resterend verschuldigd gedeelte van de inkomstenbelastingen gevestigd op basis van de inkomsten bedoeld 
+in artikel 413/1, § 1 van hetzelfde Wetboek opgenomen in een kohier uitvoerbaar verklaard tussen 
+12 maart 2020 en 31 oktober 2020.Art. 6. In afwijking van artikel 414, van hetzelfde Wetboek, 
+laatstelijk gewijzigd bij de wet van 13 april 2019, geeft de verlenging van de termijnen voorzien in 
+de artikelen 3 tot 5 geen aanleiding tot de aanrekening van interest in hoofde van de belastingschuldige.Art. 
+7. In afwijking van artikel 444, van hetzelfde Wetboek, laatstelijk gewijzigd bij de wet van 30 juni 
+2017, geeft de verlenging van de termijnen voorzien in het artikel 1 geen aanleiding tot de toepassing 
+van belastingverhogingen.Art. 8. In afwijking van artikel 445 van hetzelfde Wetboek, laatstelijk 
+gewijzigd bij de wet van 20 december 2019, geeft de verlenging van de termijnen voorzien in de artikelen 
+1 tot 4 geen aanleiding tot de toepassing van administratieve boetes.HOOFDSTUK 2. - Uitstel 
+betreffende het tijdstip van indiening van de periodieke btw-aangifte, van de bijzondere btw-aangifte, 
+van de jaarlijkse klantenlisting, van de opgave van de intracommunautaire handelingen en de betaling 
+van de btw - Versnelde teruggaafArt. 9.  § 1. In afwijking van artikel 53, § 
+1, eerste lid, 3°,  van het Wetboek van de belasting over de toegevoegde waarde, vervangen bij de wet 
+van 28 januari 2004, voldoet de belastingplichtige, met uitzondering van degene die geen enkel recht 
+op aftrek heeft, de belasting waarvan de opeisbaarheid voortvloeit uit de aangifte voorzien in artikel 
+53, § 1, eerste lid, 2°,  van hetzelfde Wetboek, met betrekking tot de maanden februari, maart 
+en april 2020 en het eerste kwartaal van 2020 uiterlijk op de twintigste dag van de derde maand volgend 
+op het tijdvak waarop zij betrekking heeft, onverminderd de toepassing van de artikelen 70, § 
+1 en 91 van hetzelfde Wetboek bij het verstrijken van de voormelde betalingstermijnen.§ 
+2. In afwijking van artikel 53ter, 2°,  van hetzelfde Wetboek, voldoen de in artikel 51, § 1, 
+2°  en § 2, van hetzelfde Wetboek bedoelde schuldenaars van de belasting die niet gehouden zijn 
+tot de verplichtingen bedoeld in artikel 53, § 1, eerste lid, 2°  en 3°,  van hetzelfde Wetboek, 
+de belasting waarvan de opeisbaarheid voortvloeit uit de aangifte voorzien in artikel 53ter, 2°,  van 
+hetzelfde Wetboek, met betrekking tot het eerste kwartaal 2020, uiterlijk op de twintigste dag van de 
+derde maand volgend op het tijdvak waarop zij betrekking heeft, onverminderd de toepassing van de artikelen 
+70, § 1 en 91 van hetzelfde Wetboek bij het verstrijken van de voormelde betalingstermijnen.§ 
+3. In afwijking van artikel 18, § 1, van het koninklijk besluit nr. 1 van 29 december 1992 met 
+betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde, laatstelijk 
+gewijzigd bij het koninklijk besluit van 16 februari 2004, dient de persoon die gehouden is tot het indienen 
+van de in artikel 53, § 1, eerste lid, 2°,  van hetzelfde Wetboek bedoelde aangifte, met betrekking 
+tot de maand februari 2020, deze in uiterlijk op 6 april 2020. De aangiftes met betrekking tot de maand 
+maart 2020 en het eerste kwartaal van 2020 worden uiterlijk op 7 mei 2020 ingediend. De aangifte met 
+betrekking tot de maand april 2020 wordt uiterlijk op 5 juni 2020 ingediend.De in eerste lid 
+bedoelde indieningstermijnen zijn van toepassing onverminderd de toepassing van artikel 70, § 
+4 van hetzelfde Wetboek bij het verstrijken van die indieningstermijnen.§ 4. In afwijking 
+van artikel 18, § 1, van hetzelfde besluit, laatstelijk gewijzigd bij het koninklijk besluit van 
+16 februari 2004, dient de persoon die gehouden is tot het indienen van de in artikel 53ter, 1°,  van 
+hetzelfde Wetboek bedoelde aangifte, met betrekking tot het eerste kwartaal 2020, deze in uiterlijk op 
+7 mei 2020, onverminderd de toepassing van artikel 70, § 4 van hetzelfde Wetboek bij het verstrijken 
+van de voormelde indieningstermijn.Art. 10. Onverminderd de toepassing van artikel 9, § 
+3, en in afwijking van artikel 81, § 2, eerste lid, van het koninklijk besluit nr. 4 van 29 december 
+1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde, vervangen bij het 
+koninklijk besluit van 14 april 1993 en laatstelijk gewijzigd bij het koninklijk besluit van 28 juni 
+2019, wordt, het door de Staat verschuldigde bedrag na het indienen van de maandaangifte bedoeld in artikel 
+53, § 1, eerste lid, 2°,  van hetzelfde Wetboek met betrekking tot de maand februari 2020 op uitdrukkelijk 
+verzoek van de belastingplichtige aan hem teruggegeven, als de volgende voorwaarden vervuld zijn:1° 
+ het door de Staat verschuldigde bedrag bereikt 245 euro;2°  de aangiften met betrekking tot 
+de maanden januari en februari 2020 worden uiterlijk op 3 april 2020 ingediend, overeenkomstig de modaliteiten 
+bepaald in artikel 18, § 4, van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking 
+tot de regeling voor voldoening van de belasting over de toegevoegde waarde.De ordonnancering 
+of de verrichting gelijkgesteld met een betaling van het door de Staat verschuldigde bedrag bedoeld in 
+het eerste lid gebeurt uiterlijk op 30 april 2020.Art. 11. Onverminderd de toepassing van artikel 
+9, § 3, en in afwijking van artikel 81, § 2, tweede lid, van hetzelfde besluit, wordt voor 
+de teruggave voorzien in artikel 81, §  2, eerste lid, 3°  tot 4°,  van hetzelfde besluit de aangifte 
+betreffende de maand maart 2020 uiterlijk op 24 april 2020 ingediend.Art. 12.  § 1. 
+In afwijking van artikel 1, § 1, van het koninklijk besluit nr. 23 van 9 december 2009 met betrekking 
+tot de jaarlijkse lijst van de btw-belastingplichtige afnemers, laatstelijk gewijzigd bij koninklijk 
+besluit van 24 januari 2015, dienen de personen bedoeld in artikel 53quinquies van hetzelfde wetboek, 
+de jaarlijkse lijst van de belastingplichtige afnemers betreffende het jaar 2019 in, uiterlijk op 30 
+april 2020 bij de administratie belast met de belasting over de toegevoegde waarde, onverminderd de toepassing 
+van artikel 70, § 4 van hetzelfde Wetboek bij het verstrijken van de voormelde indieningstermijn.§ 
+2. In afwijking van artikel 1, § 3, van hetzelfde besluit, wanneer een in § 1 bedoelde 
+belastingplichtige enkel nog handelingen verricht die zijn vrijgesteld door artikel 44 van hetzelfde 
+Wetboek die geen recht op aftrek verlenen of wanneer hij deze hoedanigheid verliest in de loop van de 
+maanden december 2019 en januari 2020, wordt de lijst van deze belastingplichtige uiterlijk aan het einde 
+van de vierde maand na de stopzetting van de aan btw onderworpen werkzaamheden ingediend, onverminderd 
+de toepassing van artikel 70, § 4 van hetzelfde Wetboek bij het verstrijken van de voormelde indieningstermijn.Art. 
+13.  § 1. In afwijking van de artikelen 1 en 9 van het koninklijk besluit nr. 50 van 11 december 
+2019 met betrekking tot de btw-opgave van de intracommunautaire handelingen, dienen de belastingplichtigen 
+en de leden van een btw-eenheid in de zin van artikel 4, § 2, van hetzelfde Wetboek, bedoeld in 
+artikel 53sexies, § 1, van hetzelfde Wetboek, bij de administratie belast met de belasting over 
+de toegevoegde waarde de delen 1 en 2 van de btw-opgave van de intracommunautaire handelingen met betrekking 
+tot de maand februari 2020 in uiterlijk op 6 april 2020. De delen 1 en 2 van de btw-opgave van de intracommunautaire 
+handelingen met betrekking tot de maand maart 2020 en tot de maand april 2020 worden uiterlijk respectievelijk 
+op 7 mei 2020 en 5 juni 2020 ingediend.In afwijking van de artikelen 5, § 1, en 11, 
+§ 1, van hetzelfde besluit worden de delen 1 en 2 van de btw-opgave van de intracommunautaire 
+handelingen met betrekking tot het eerste kwartaal van 2020 uiterlijk op 7 mei 2020 ingediend.De 
+in eerste en tweede lid bedoelde indieningstermijnen zijn van toepassing onverminderd de toepassing van 
+artikel 70, § 4 van hetzelfde Wetboek bij het verstrijken van die indieningstermijnen.§ 
+2. In afwijking van de artikelen 5, § 2, en 11, § 2, van hetzelfde besluit, dienen de landbouwondernemers 
+die niet gehouden zijn tot de indiening van de in artikel 53, §  1, eerste lid, 2°,  van hetzelfde 
+Wetboek bedoelde aangifte, de delen 1 en 2 van de btw-opgave voor intracommunautaire handelingen met 
+betrekking tot het jaar 2019 in uiterlijk op 30 april 2020, onverminderd de toepassing van artikel 70, 
+§ 4 van hetzelfde Wetboek bij het verstrijken van de voormelde indieningstermijn.HOOFDSTUK 
+3. - Tijdelijke verlenging vande mededelingstermijn van vonnissen en arresten door de griffiersArt. 
+14. In afwijking van artikel 1 van het koninklijk besluit van 28 januari 2019 betreffende de uitvoering 
+van het wetboek der registratie-, hypotheek- en griffierechten en het houden van de registers in de griffies 
+van de hoven en rechtbanken, kunnen de griffiers de vonnissen en arresten die dagtekenen van de periode 
+van 1 maart 2020 tot 30 juni 2020 nog meedelen aan de ontvanger van het bevoegde kantoor Rechtszekerheid 
+van de Algemene Administratie van de Patrimoniumdocumentatie binnen de tien dagen volgend op het verstrijken 
+van de vermelde periode. Wanneer de mededeling niet tijdig is gedaan, verbeurt de griffier een boete 
+van 12,50 euro.HOOFDSTUK 4. - Retributie voor de uitvoering van hypothecaire formaliteitenArt. 
+15. De in artikel 1, 2°  van het Koninklijk besluit van 14 september 2016 tot vaststelling van de retributies 
+voor de uitvoering van de hypothecaire formaliteiten en voor de aflevering van de afschriften en getuigschriften 
+bepaalde retributie is niet verschuldigd in geval in de periode van 16 maart 2020 tot 30 juni 2020 de 
+inschrijving van een hypotheek wordt gevraagd op overlegging van een hypothecair mandaat dat dagtekent 
+van voor 16 maart 2020.HOOFDSTUK 5. - Inwerkingtreding en uitvoeringArt. 16. Dit 
+besluit heeft uitwerking met ingang van 1 maart 2020.Art. 17. De minister die bevoegd is voor 
+Financiën is belast met de uitvoering van dit besluit.Gegeven te Brussel, 19 april 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-24Numac : 2020030729
+

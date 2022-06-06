@@ -1,0 +1,183 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/27/2021031337/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-05Numac : 2021031337
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 27 APRIL 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+27 april 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 28 april 
+2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES27. APRIL 2021 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund des Gesetzes vom 31. Dezember 
+1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes vom 5. August 1992 über das 
+Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit, 
+der Artikel 181, 182 und 187;Aufgrund des Ministeriellen Erlasses vom 28. Oktober 2020 zur 
+Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 27. April 2021;Aufgrund des Einverständnisses des 
+Staatssekretärs für Haushalt vom 27. April 2021;Aufgrund der am 27. April 2021 abgegebenen 
+Stellungnahme der Minister, die im Rat darüber beraten haben;Aufgrund der Dringlichkeit, die 
+es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 27. April 2021 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen anzupassen und 
+zu ergreifen;In Erwägung der Stellungnahmen der RAG und der Gutachten des GEMS;In 
+Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Artikels 
+191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen 
+der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen 
+Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, 
+dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen 
+ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 2016/679 
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der 
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In 
+Erwägung der Verfassung, des Artikels 23;In Erwägung des Zusammenarbeitsabkommens vom 25. August 
+2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen 
+Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame Verarbeitung von 
+Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von den zuständigen Agenturen 
+bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams im Rahmen einer Kontaktermittlung 
+bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen auf der Grundlage einer Datenbank 
+bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens 
+vom 25. August 2020;In Erwägung des Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem 
+Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen Gemeinschaft 
+und der Gemeinsamen Gemeinschaftskommission über die Übermittlung notwendiger Daten an die föderierten 
+Teilgebiete, die lokalen Behörden oder die Polizeidienste zur Durchsetzung der verpflichteten Quarantäne 
+oder Tests von Reisenden aus dem Ausland, die bei ihrer Ankunft in Belgien einer verpflichteten Quarantäne 
+oder Untersuchung unterliegen;In Erwägung des Gesetzes vom 8. April 2021 zur Billigung des 
+vorerwähnten Zusammenarbeitsabkommens vom 24. März 2021;In Erwägung des Königlichen Erlasses 
+vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler und 
+provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen 
+und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern;In 
+Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich 
+der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus COVID-19;In Erwägung 
+der Protokolle, die von den zuständigen Ministern in Konzertierung mit den betreffenden Sektoren bestimmt 
+werden;In Erwägung der Empfehlung (EU) 2020/1475 des Rates vom 13. Oktober 2020 für eine koordinierte 
+Vorgehensweise bei der Beschränkung der Freizügigkeit aufgrund der COVID-19-Pandemie;In Erwägung 
+der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt 
+notwendiger Reisen in die EU und die mögliche Aufhebung dieser Beschränkung;In Erwägung der 
+Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich 
+der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 von der WHO 
+vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die 
+WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das 
+die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung der einleitenden 
+Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, dass das Virus 
+hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen der Epidemie führt, die durch 
+die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In Erwägung der Erklärung 
+des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er darauf hingewiesen hat, dass die 
+Situation in Europa sehr besorgniserregend ist und dass die Übertragung und die Übertragungsquellen in 
+den Häusern, an geschlossenen öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen 
+nicht korrekt befolgen, stattfinden beziehungsweise zu finden sind;In Erwägung der Erklärung 
+des Generaldirektors der WHO vom 26. Oktober 2020, in der er deutlich gemacht hat, dass alle Anstrengungen 
+unternommen werden müssen, um die Mitarbeiter des Gesundheitspflegesektors zu schützen; dass Schulen 
+und Unternehmen offen bleiben können, dafür aber Kompromisse eingegangen werden müssen; dass der Generaldirektor 
+bestätigt, dass das Virus durch schnelles und gezieltes Handeln unterdrückt werden kann;In 
+Erwägung der Erklärung des Regionaldirektors der WHO für Europa, Doktor Hans Henri P. Kluge, vom 18. 
+März 2021, in der er angegeben hat, dass wöchentlich mehr als 20 000 Menschen in der Region durch das 
+Virus versterben; dass die Zahl der Menschen in Europa, die an COVID-19 sterben, jetzt höher ist als 
+um dieselbe Zeit im vergangenen Jahr; dass die ansteckendere Variante B.1.1.7 zur vorherrschenden Variante 
+in der europäischen Region wird; dass Wirkung und Nutzen der Impfstoffe für die Gesundheit noch nicht 
+unmittelbar sichtbar sind; dass es zum jetzigen Zeitpunkt notwendig ist, bei der Anwendung der gesamten 
+Palette von Maßnahmen als Reaktion auf die Ausbreitung des Virus standhaft zu bleiben;In 
+der Erwägung, dass für unser Land seit dem 13. Oktober 2020 auf nationaler Ebene Alarmstufe 4 (sehr hohe 
+Alarmstufe) gilt;In der Erwägung, dass der Tagesdurchschnitt der festgestellten Neuansteckungen 
+mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen leicht gestiegen ist auf 3 540 bestätigte 
+positive Fälle am 27. April 2021;In der Erwägung, dass am 27. April 2021 insgesamt 2 952 COVID-19-Patienten 
+in belgischen Krankenhäusern behandelt wurden; dass am selben Tag insgesamt 892 Patienten auf Intensivstationen 
+lagen;In der Erwägung, dass die Inzidenz am 27. April 2021 im 14-Tage-Mittel 427,7 pro 100 
+000 Einwohner beträgt; dass die Reproduktionsrate, basierend auf der Zahl der neuen Krankenhausaufnahmen 
+0,93 beträgt;In der Erwägung, dass der Grad der Auslastung der Krankenhäuser, insbesondere 
+der Intensivstationen, nach wie vor hoch ist; dass der Druck auf die Krankenhäuser und die Kontinuität 
+der Versorgung, die nicht mit COVID-19 zusammenhängt, nach wie vor deutlich vorhanden ist und dies erhebliche 
+negative Auswirkungen auf die Gesundheit der Bevölkerung hat; dass die Krankenhäuser Phase 2A des Krankenhausnoteinsatzplans 
+aktiviert haben;In der Erwägung, dass die Situation nach wie vor besonders prekär ist und dass 
+ein neuer Anstieg der Zahl der Infektionen und Ansteckungen verhindert werden muss;In Erwägung 
+der Erklärungen des Generaldirektors der WHO vom 23. und 26. April 2021, in denen der besorgniserregende 
+Anstieg der Zahl der Todesfälle und die Schwere der Lage in Indien hervorgehoben worden sind;In 
+Erwägung der verschiedenen "variants of concern", nämlich die Varianten B.1.351, P.1 und B.1.617, die 
+derzeit in begrenztem Maße auf dem belgischen Staatsgebiet zu finden sind;In der Erwägung, 
+dass die Variante B.1.617 bereits in verschiedenen Ländern der Welt nachgewiesen worden ist, darunter 
+auch in Belgien, hauptsächlich aber in Indien; dass die Anzahl der in Belgien festgestellten Fälle dieser 
+Variante begrenzt ist; dass eine weitere Ausbreitung dieser Variante auf belgischem Staatsgebiet vermieden 
+werden muss;In der Erwägung, dass viele neue Varianten in Ländern mit begrenzten Diagnose- 
+und Forschungskapazitäten auftreten; dass es aus diesem Grund schwierig ist, das Risiko bestimmter neuer 
+Varianten für die Gesundheit der belgischen Bevölkerung einzuschätzen; dass Maßnahmen daher erforderlich 
+sind, um die weitere Ausbreitung dieser Varianten auf belgischem Staatsgebiet zu verhindern, bis weitere 
+Ergebnisse wissenschaftlicher Studien über die Auswirkungen dieser Varianten auf die Impfkampagne und 
+den Belegungsgrad belgischer Krankenhäuser vorliegen;In der Erwägung, dass das Auftreten beziehungsweise 
+die Ausbreitung neuer Varianten und Mutationen, die die Wirksamkeit der Impfstoffe beeinträchtigen könnten, 
+verhindert werden muss; dass daher immer noch strenge Regeln erforderlich sind, um einer Ausbreitung 
+des Virus vorzubeugen;In der Erwägung, dass Personen, die die belgische Staatsangehörigkeit 
+besitzen oder ihren Hauptwohnort in Belgien haben, nach wie vor dringend davon abgeraten wird, nach Brasilien, 
+Südafrika oder Indien zu reisen;In Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr 
+für die Bevölkerung und der daraus entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus 
+COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und die Atemwege befällt;In 
+der Erwägung, dass das Coronavirus COVID-19 von Mensch zu Mensch über den Luftweg übertragen wird; dass 
+die Übertragung der Krankheit scheinbar auf alle möglichen Verbreitungsarten durch Mund und Nase erfolgt;In 
+der Erwägung, dass die Gesundheitslage regelmäßig bewertet wird; dass dies bedeutet, dass strengere 
+Maßnahmen nie ausgeschlossen werden können,Erlässt:Artikel 1 - In Artikel 21 
+des Ministeriellen Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur 
+Eindämmung der Ausbreitung des Coronavirus COVID-19 wird ein §  2 mit folgendem Wortlaut eingefügt:" 
+§ 2 - Unbeschadet des Paragraphen 1 ist es Personen, die sich zu irgendeinem Zeitpunkt während 
+der letzten 14 Tage auf dem Staatsgebiet Brasiliens, Südafrikas oder Indiens aufgehalten haben, verboten, 
+sich direkt oder indirekt auf das belgische Staatsgebiet zu begeben, sofern sie nicht die belgische Staatsangehörigkeit 
+besitzen oder ihren Hauptwohnort nicht in Belgien haben, mit Ausnahme der folgenden erlaubten unbedingt 
+notwendigen Reisen:1. berufsbedingte Reisen des Transportpersonals, des Frachtpersonals und 
+der Seeleute, sofern sie im Besitz einer Bescheinigung ihres Arbeitgebers sind,2. Reisen von 
+Diplomaten, Reisen des Personals internationaler Organisationen und Reisen der durch internationale Organisationen 
+eingeladenen Personen, deren physische Präsenz für ein ordnungsgemäßes Funktionieren dieser Organisationen 
+erforderlich ist, in der Ausübung ihrer Funktion, sofern sie über eine von der belgischen diplomatischen 
+oder konsularischen Vertretung ausgestellte Bescheinigung über die unbedingt notwendige Reise verfügen.In 
+Ermangelung einer solchen Bescheinigung oder bei falschen, irreführenden oder unvollständigen Informationen 
+in dieser Bescheinigung, kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener Grenzkodex 
+oder Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, 
+die Niederlassung und das Entfernen von Ausländern verweigert werden."Art. 2 - Vorliegender 
+Erlass tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft.Brüssel, den 
+27. April 2021A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-05Numac : 2021031337
+

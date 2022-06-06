@@ -1,0 +1,114 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/21/2020042975/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-25Numac : 2020042975
+FEDERALE OVERHEIDSDIENST VOLKSGEZONDHEID, VEILIGHEID VAN DE VOEDSELKETEN EN LEEFMILIEU  
+ 21 SEPTEMBER 2020. - Koninklijk besluit waarbij aan personen die wettig niet bevoegd zijn de geneeskunde te beoefenen, in het kader van de coronavirus COVID-19 epidemie, toelating wordt verleend om bepaalde laboratoriumonderzoeken te verrichten 
+FILIP, Koning der Belgen, Aan allen die nu 
+zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 19 januari 1961 waarbij aan personen 
+die wettig niet bevoegd zijn de geneeskunde te beoefenen, in uitzonderlijke omstandigheden toelating 
+wordt verleend om bepaalde geneeskundige handelingen te verrichten, artikel 1;Gelet op het 
+advies van de inspecteur van Financiën, gegeven op 14 september 2020;Gelet op de wetten op 
+de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op dringende 
+noodzakelijkheid;Overwegende het advies van de Hoge Gezondheidsraad, gegeven op 17 maart 2020;Overwegende 
+het koninklijk besluit van 19 april 2020 houdende de afkondiging van de toestand van de coronavirus COVID-19 
+epidemie op het Belgisch grondgebied;Overwegende het belang om in het kader van de COVID-19 
+gezondheidscrisis over voldoende testcapaciteit te beschikken om de exitstrategie na de quarantainemaatregelen 
+te ondersteunen en verdere heropflakkeringen van besmettingen met het SARS-CoV-2 virus in te dijken en 
+oversterfte te vermijden;Overwegende de vaststelling dat er momenteel onvoldoende testcapaciteit 
+is in de erkende laboratoria om 50.000 à 60.000 extra moleculaire, antigen- en serologische testen uit 
+te voeren;Overwegende de vaststelling dat het uitvoeren van bovengenoemde testen een aan de 
+medisch laboratorium technoloog voorbehouden handeling betreft;Overwegende het feit dat de 
+COVID-19 teststrategie een tijdelijke, maar sterke verhoging van de personeelskaders in de laboratoria 
+zal vergen;Overwegende de noodzaak om binnen de kortst mogelijke termijn een tijdelijke uitzondering 
+te bepalen opdat ook ander gekwalificeerd personeel dan medische laboratorium technologen kan aangeworven 
+worden om dergelijke testen te kunnen uitvoeren onder strikte voorwaarden teneinde de kwaliteit van de 
+zorgverstrekking te garanderen;Op de voordracht van de Minister van Volksgezondheid,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. De toestand van de coronavirus COVID-19 epidemie 
+houdt een ramptoestand in die gepaard gaat met een tekort aan personeel dat wettig bevoegd is om geneeskundige 
+handelingen te stellen met het oog op de laboratoriumdiagnostiek van bedoelde aandoeningArt. 
+2. Volgende laboratoriumonderzoeken zijnde het voorbereiden, het uitvoeren en het op punt stellen van 
+onderzoeken in vitro op stalen van menselijke oorsprong, mogen worden verricht door personen die daartoe 
+door of krachtens de wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen niet 
+wettelijk bevoegd zijn :1°  immunologisch onderzoek;2°  moleculair biologisch onderzoek;De 
+in het eerste lid bedoelde laboratoriumonderzoeken mogen enkel worden verricht met betrekking tot de 
+stalen die worden afgenomen in het kader van mogelijke COVID-19 besmettingen.Art. 3. De in 
+artikel 2 bedoelde laboratoriumonderzoeken kunnen enkel worden verricht indien ze cumulatief voldoen 
+aan volgende voorwaarden:1°  ze worden verricht onder de coördinatie en verantwoordelijkheid 
+van een erkend laboratorium voor klinische biologie zoals bedoeld in het koninklijk besluit van 3 december 
+1999 betreffende de erkenning van de laboratoria voor klinische biologie door de Minister tot wiens bevoegdheid 
+de Volksgezondheid behoort;2°  ze worden toevertrouwd door en onder toezicht van een arts- 
+of apotheker-klinisch bioloog verbonden aan een in punt 1°  bedoeld erkend laboratorium;3° 
+ ze worden verricht door personen die in het bezit zijn van een diploma zoals bedoeld in bijlage 1;4° 
+ ze worden verricht door personen die een speciale opleiding voor het verrichten van bedoelde laboratoriumonderzoeken 
+hebben gevolgd in het laboratorium onder wiens coördinatie ze bedoelde laboratorium-onderzoeken zullen 
+verrichten. Deze opleiding bevat minstens de in bijlage 2 bedoelde aspecten. De personen die bedoelde 
+laboratoriumonderzoeken verrichten, moeten op elk moment kunnen documenteren dat ze deze speciale opleiding 
+hebben genoten.Art. 4. Dit besluit treedt in werking op de dag waarop het in het Belgisch Staatsblad 
+wordt bekendgemaakt en treedt buiten werking op 1 oktober 2021.Art. 5. De minister bevoegd 
+voor Volksgezondheid is belast met de uitvoering van dit besluit.Gegeven te Brussel, 21 september 
+2020.FILIPVan Koningswege :De Minister van Volksgezondheid,M. 
+DE BLOCKBijlage 1Lijst van diploma'sVolgende gediplomeerden 
+komen in aanmerking om de in artikel 2 bedoelde laboratoriumonderzoeken uit te voeren:- master 
+in de biomedische wetenschappen;- master in de biochemie;- master in de biologie;- 
+master in de biotechnologie;- master in de bio-ingenieurswetenschappen;- master in 
+de neurowetenschappen;- master in de forensische wetenschappen;- bachelor in de chemie;- 
+bachelor in de biochemie;- bachelor in de agro- en biotechnologie;- bachelor in de 
+biomedische laboratoriumtechnologie;- bachelor in de farmaceutische laboratoriumtechnologie;- 
+bachelor in de biologische laboratoriumtechnologie;- bachelor in de bio-ingenieurswetenschappen.Gezien 
+om te worden gevoegd bij Ons besluit van 21 september 2020.FILIPVan Koningswege :De 
+Minister van Volksgezondheid,M. DE BLOCKBijlage 2Aspecten 
+van de speciale opleidingDe speciale opleiding bedoeld in artikel 3, 4°,  moet minstens volgende 
+aspecten behandelen:- de algemene principes van hygiëne en bioveiligheid en het operationaliseren 
+van deze theoretische concepten in de praktijk;- theoretische noties van de moleculaire en 
+immunologische opsporingstechnologie en diagnostiek;- de praktische vaardigheden die nodig 
+zijn voor het correct uitvoeren van de testen.Gezien om te worden gevoegd bij Ons besluit van 
+21 september 2020.FILIPVan Koningswege :De Minister van Volksgezondheid,M. 
+DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-25Numac : 2020042975
+

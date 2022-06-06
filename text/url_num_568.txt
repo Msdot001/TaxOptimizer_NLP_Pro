@@ -1,0 +1,435 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/27/2021041970/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021041970
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 27 MEI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering betreffende steun aan de ondernemingen van de sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, de cultuur, het toerisme, de sport en het personenvervoer in het kader van de gezondheidscrisis COVID-19 
+De 
+Brusselse Hoofdstedelijke Regering,Gelet op de ordonnantie van 3 mei 2018 betreffende de steun 
+voor de economische ontwikkeling van ondernemingen, de artikelen 28 en 30;Gelet op artikel 
+2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 10 mei 2021;Gelet op het akkoord 
+van de Minister van Begroting, gegeven op 21 mei 2021;Gelet op het advies van de Economische 
+en Sociale Raad voor het Brussels Hoofdstedelijk Gewest, gegeven op 21 mei 2021;Gelet op de 
+spoedeisendheid, gemotiveerd door het feit dat de COVID-19-gezondheidscrisis aanzienlijke economische 
+gevolgen heeft voor veel ondernemingen;Dat deze context de omzet van de ondernemingen van de 
+sectoren van de toeristische logies, de discotheken, de restaurants en cafés en sommige van hun leveranciers, 
+de evenementen, de cultuur, het toerisme, de sport en het personenvervoer sterk vermindert; dat deze 
+vaste kosten moeten blijven dragen en vaak hebben moeten investeren om aan de gezondheidsvoorschriften 
+te voldoen; dat als gevolg daarvan een aanzienlijk deel van deze ondernemingen momenteel in een zeer 
+slechte financiële positie verkeert en, voor sommige, zelfs op de rand van het faillissement; dat deze 
+ondernemingen veel personeel in dienst hebben; dat de ineenstorting van deze economische sector negatieve 
+gevolgen zou hebben voor andere verwante sectoren;Dat het om deze verschillende redenen gepast 
+is om deze ondernemingen onverwijld opnieuw financieel te steunen en hun zo snel mogelijk steun uit te 
+keren; dat de spoedeisendheid gerechtvaardigd is;Gelet op advies 69.406/1 van de Raad van State, 
+gegeven op 20 mei 2021, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op 
+de Raad van State, gecoördineerd op 12 januari 1973;Overwegende het besluit van de Brusselse 
+Hoofdstedelijke Regering van 15 april 2021 betreffende steun aan de ondernemingen van de sectoren van 
+de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, de cultuur, 
+het toerisme en de sport in het kader van de gezondheidscrisis COVID-19;Op voorstel van de 
+Minister van Economie,Na beraadslaging,Besluit :HOOFDSTUK 1. - Algemene 
+bepalingenArtikel 1. Voor de toepassing van dit besluit wordt verstaan onder:1°  
+minister: de minister van de Brusselse Hoofdstedelijke Regering bevoegd voor Economie;2°  de-minimisverordening: 
+de verordening (EU) nr. 1407/2013 van de commissie van 18 december 2013 betreffende de toepassing van 
+de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, 
+bekend gemaakt in het Publicatieblad van de Europese Unie L352 van 24 december 2013;3°  KBO 
+: de Kruispuntbank van Ondernemingen;4°  BEW: Brussel Economie en Werkgelegenheid van de Gewestelijke 
+Overheidsdienst Brussel.Art. 2. De minister verleent steun aan de ondernemingen van de sectoren 
+van de discotheken, de restaurants en cafés en hun voornaamste leveranciers, de evenementen, de cultuur, 
+het toerisme, de sport en het personenvervoer onder de voorwaarden bepaald in dit besluit, voor hun inkomensverlies 
+in het kader van de gezondheidscrisis COVID-19.De gezondheidscrisis COVID-19 wordt erkend als 
+een buitengewone gebeurtenis, als bedoeld in artikel 28 van de ordonnantie van 3 mei 2018 betreffende 
+de steun voor de economische ontwikkeling van ondernemingen.De steun wordt verleend onder de 
+voorwaarden bedoeld in de de-minimisverordening. De steun bedraagt maximaal 200.000 euro, rekening houdend 
+met de andere onder de de-minimisverordening of andere de-minimisverordeningen vallende steun die de 
+onderneming gedurende de twee voorafgaande belastingjaren en het lopende belastingjaar heeft ontvangen.De 
+in dit besluit vastgestelde steunvoorwaarden zijn van toepassing onverminderd de in de ordonnantie van 
+3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen vastgestelde voorwaarden.HOOFDSTUK 
+2. - Algemene steunvoorwaardenArt. 3. De begunstigde:1°  is ingeschreven in de KBO 
+op 31 december 2020;2°  heeft, op 31 december 2020, een vestigingseenheid ingeschreven in de 
+KBO op het grondgebied van het Gewest, oefent er een economische activiteit uit en beschikt er over personele 
+middelen en eigen goederen die specifiek voor hem bestemd zijn;3°  geniet de btw-vrijstellingsregeling 
+voor kleine ondernemingen bedoeld in artikel 56bis van het Btw-Wetboek niet;4°  leeft zijn 
+verplichtingen inzake de neerlegging en bekendmaking van zijn jaarrekeningen en zijn sociale balans bij 
+de Nationale Bank van België na en leeft zijn verplichtingen inzake btw na;5°  heeft een of 
+meer van de premies bedoeld in de volgende besluiten niet genoten:a) het besluit van de Brusselse 
+Hoofdstedelijke Regering nr. 2020/42 van 18 juni 2020 betreffende de toekenning van een premie voor de 
+creatieve en culturele instellingen zonder winstoogmerk getroffen door COVID-19-crisis;b) het 
+besluit van de Brusselse Hoofdstedelijke Regering van 12 oktober 2020 treffende de steun tot vergoeding 
+van de creatieve en culturele instellingen zonder winstoogmerk getroffen door de dringende maatregelen 
+om de verspreiding van het COVID-19-virus te beperken.Art. 4. De begunstigde heeft in 2019 
+een omzet verwezenlijkt die hoger is dan de bedragen opgenomen in de volgende tabel, berekend in functie 
+van het aantal actieve vestigingseenheden in het Gewest waarvan de begindatum in de KBO 1 januari 2020 
+voorafgaat:  Nombre d'unités d'établissement 
+Chiffre d'affaires 2019 Aantal vestigingseenheden Omzet 2019 1 25.000 
+euros 1 25.000 euro 2 35.000 euros 2 35.000 euro 3 
+45.000 euros 3 45.000 euro 4 55.000 euros 4 55.000 euro 5 
+et plus 65.000 euros 5 en meer 65.000 euro  Het eerste lid 
+is niet van toepassing op de begunstigden ingeschreven in de KBO vanaf 1 januari 2019.Art. 
+5. De omzet bedoeld in de artikelen 4, 11, 13 en 15 wordt bepaald op basis van de gegevens opgenomen 
+in de ontvangstbewijzen van de btw-aangiftes van uiterlijk 19 april 2021.In afwijking van het 
+eerste lid wordt de omzet bedoeld in de artikelen 4, 11, 13 en 15 bepaald op basis van de gegevens opgenomen 
+in de ontvangstbewijzen van de btw-aangiftes van de btw-eenheid van uiterlijk 19 april 2021 en een getuigschrift 
+van een gecertificeerd accountant, een gecertificeerd belastingadviseur of een bedrijfsrevisor, dat de 
+lijst van alle leden van de btw-eenheid en de maandelijkse of trimestriële omzet voor 2019 en 2020 van 
+alle leden van btw-eenheid bevat, voor wat betreft de btw-eenheden in de zin van artikel 4, § 
+2, van het Wetboek van de belasting over de toegevoegde waarde.Het percentage van het omzetverlies 
+bedoeld in de artikelen 11 en 15 wordt berekend als volgt:(omzet verwezenlijkt tussen 1 oktober 
+2019 en 31 december 2019 - omzet verwezenlijkt tussen 1 oktober 2020 en 31 december 2020) / omzet verwezenlijkt 
+tussen 1 oktober 2019 en 31 december 2019.Het percentage van het omzetverlies bedoeld in artikel 
+13 wordt berekend als volgt:(omzet verwezenlijkt tussen 1 april 2019 en 31 december 2019 - 
+omzet verwezenlijkt tussen 1 april 2020 en 31 december 2020) / omzet verwezenlijkt tussen 1 april 2019 
+en 31 december 2019.Art. 6. Het aantal voltijdsequivalenten bedoeld in de artikelen 11, 13 
+en 15 wordt bepaald op basis van het gemiddeld aantal werknemers totaal in voltijdse equivalenten opgenomen 
+in de sociale balans van de begunstigde afgesloten op 31 december 2019 of een eerdere datum in 2019, 
+neergelegd en bekendgemaakt bij de Nationale Bank van België, overeenkomstig de wettelijke verplichtingen, 
+ten laatste op de dag van de dag van de inwerkingtreding van dit besluit.Voor de begunstigden 
+die niet verplicht zijn hun sociale balans neer te leggen en bekend te maken of waarvan de neerleggings- 
+en bekendmakingstermijn nog niet verstreken is, wordt het aantal voltijdsequivalenten bepaald op basis 
+van een getuigschrift afgeleverd door een sociaal secretariaat dat het gemiddeld aantal werknemers in 
+voltijdse equivalenten voor het jaar 2019 herneemt.Art. 7. Enkel de gegevens ingeschreven in 
+de KBO op de datum van de steunaanvraag gelden.Art. 8. De begunstigde die wordt gesanctioneerd 
+op basis van artikel 26 van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken of elke bepaling die het vervangt, is uitgesloten 
+van de steun of, desgevallend, gehouden ze terug te betalen.De begunstigde voldoet gedurende 
+een periode van drie jaar vanaf de datum van toekenning van de steun aan de voorwaarde bepaald in het 
+eerste lid.Art. 9. Indien de begunstigde al een premie heeft ontvangen op grond van het besluit 
+van de Brusselse Hoofdstedelijke Regering van 15 april 2021 betreffende steun aan de ondernemingen van 
+de sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, 
+de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis COVID-19, wordt het bedrag 
+van die premie afgetrokken van het bedrag van de premie toegekend in het kader van dit besluit.HOOFDSTUK 
+3. - Steun voor de discothekenArt. 10. Komt in aanmerking voor de steun voor de discotheken, 
+de begunstigde die:1°  de activiteit "56.302 - Discotheken, dancings en dergelijke" uitoefent, 
+ingeschreven onder de btw-activiteiten in de KBO op 31 december 2020;2°  beschikt, voor de 
+vestigingseenheden waarvoor de steun wordt aangevraagd, over een milieuvergunningen of een milieuverklaring, 
+ten laatste afgeleverd op de dag van de inwerkingtreding van dit besluit en houdende ten minste een van 
+de volgende rubrieken:a) de rubriek 134a, 134b of 135, overeenkomstig de bijlage bij het besluit 
+van de Brusselse Hoofdstedelijke Regering van 4 maart 1999 tot vaststelling van de ingedeelde inrichtingen 
+van klasse IB, IC, ID, II en III met toepassing van artikel 4 van de ordonnantie van 5 juni 1997 betreffende 
+de milieuvergunningen, zoals dit besluit van kracht was tot 21 februari 2018;b) oftewel de 
+rubriek 135a, 135b of 135c, overeenkomstig de bijlage bij het voormelde besluit van de Brusselse Hoofdstedelijke 
+Regering van 4 maart 1999, zoals dit besluit van kracht is op de dag van de inwerkingtreding van dit 
+besluit.Art. 11.  § 1. Voor de begunstigde ingeschreven in de KBO voor 1 januari 2020 
+die een omzetverlies van minstens 40% heeft geleden, bestaat de steun uit een premie per actieve vestigingseenheid 
+in het Gewest die actief is in de discotheeksector en waarvan de begindatum in de KBO 1 januari 2021 
+voorafgaat, waarvan het bedrag wordt bepaald overeenkomstig de volgende tabel:
+ Nombre d'équivalents temps-plein Perte de chiffre d'affaires de 
+40 % ou plus et de moins de 60 % Perte de chiffre d'affaires de 60 % ou plus Aantal voltijdsequivalenten 
+Omzetverlies van 40 % of meer en minder dan 60 % Omzetverlies van60 % of meer Moins 
+de 5 75.000 euros 81.250 euros Minder dan 5 75.000 euro 81.250 euro De 
+5 à moins de 10 87.500 euros 100.000 euros Van 5 tot minder dan 10 87.500 euro 100.000 
+euro 10 et plus 112.500 euros 125.000 euros 10 of meer 112.500 euro 
+125.000 euro  Het bedrag van de premie bedoeld in deze paragraaf kan 
+niet hoger zijn dan het omzetverlies geleden door de begunstigde, berekend als volgt:(omzet 
+verwezenlijkt tussen 1 oktober 2019 en 31 december 2019 - omzet verwezenlijkt tussen 1 oktober 2020 en 
+31 december 2020). § 2. De steun bestaat uit een forfaitaire premie van 10.000 euro 
+per actieve vestigingseenheid in het Gewest die actief is in de discotheeksector, waarvan de begindatum 
+in de KBO 1 januari 2021 voorafgaat, voor:1°  de begunstigde ingeschreven in de KBO voor 1 
+januari 2019 die een omzetverlies van 25 % of meer en minder dan 40 % heeft geleden;2°  de 
+begunstigde ingeschreven in de KBO tussen 1 januari 2019 en 31 december 2019 die geen omzetverlies van 
+minstens 40 % aantoont;3°  de begunstigde ingeschreven in de KBO tussen 1 januari 2020 en 31 
+december 2020. § 3. De premie bedoeld in dit artikel wordt toegekend voor een maximum 
+van vijf vestigingseenheden per begunstigde.HOOFDSTUK 4. - Steun voor de evenementen-, cultuur-, 
+toeristische, sport- en personenvervoersectorArt. 12. De begunstigde die een activiteit opgenomen 
+in bijlage 1 uitoefent, ingeschreven onder de btw-activiteiten in de KBO op 31 december 2020, komt in 
+aanmerking voor de steun voor de evenementen-, cultuur-, toeristische, sport- en personenvervoersector.Art. 
+13.  § 1. Voor de begunstigde ingeschreven in de KBO voor 1 januari 2020 die een omzetverlies 
+van minstens 40% heeft geleden, bestaat de steun uit een premie per actieve vestigingseenheid in het 
+Gewest die actief is in de evenementen-, cultuur-, toeristische, sport- en personenvervoersector en waarvan 
+de begindatum in de KBO 1 januari 2021 voorafgaat, waarvan het bedrag wordt bepaald overeenkomstig de 
+volgende tabel:  Nombre d'équivalents temps-plein 
+Perte de chiffre d'affaires de 40 % ou plus et de moins de 60 % Perte de chiffre d'affaires de 
+60 % ou plus Aantal voltijdsequivalenten Omzetverlies van 40 % of meer en minder dan 60 % Omzetverlies 
+van 60 % of meer Moins de 5 6.250 euros 8.750 euros Minder dan 5 6.250 
+euro 8.750 euro De 5 à moins de 10 11.250 euros 13.750 euros Van 5 
+tot minder dan 10 11.250euro 13.750 euro 10 et plus 25.000 euros 45.000 
+euros 10 of meer 25.000 euro 45.000 euro  Het bedrag van de 
+premie bedoeld in deze paragraaf kan niet hoger zijn dan het omzetverlies geleden door de begunstigde, 
+berekend als volgt:(omzet verwezenlijkt tussen 1 april 2019 en 31 december 2019 - omzet verwezenlijkt 
+tussen 1 april 2020 en 31 december 2020). § 2. De steun bestaat uit een forfaitaire 
+premie van 5.000 euro per actieve vestigingseenheid in het Gewest die actief is in de evenementen-, cultuur-, 
+toeristische, sport- en personenvervoersector, waarvan de begindatum in de KBO 1 januari 2021 voorafgaat, 
+voor:1°  de begunstigde ingeschreven in de KBO voor 1 januari 2019 die een omzetverlies van 
+25% of meer en minder dan 40% heeft geleden;2°  de begunstigde ingeschreven in de KBO tussen 
+1 januari 2019 en 31 december 2019 die geen omzetverlies van minstens 40% aantoont;3°  de begunstigde 
+ingeschreven in de KBO tussen 1 januari 2020 en 31 december 2020. § 3. De premie bedoeld 
+in dit artikel wordt toegekend voor een maximum van vijf vestigingseenheden per begunstigde.HOOFDSTUK 
+5. - Steun voor de restaurants en cafés en sommige van hun leveranciersArt. 14. Komt in aanmerking 
+voor de steun voor de restaurants en cafés en sommige van hun leveranciers, de begunstigde die:1° 
+ een activiteit opgenomen in bijlage 2 uitoefent, ingeschreven onder de btw-activiteiten in de KBO op 
+31 december 2020;2°  beschikt, indien van toepassing, over een geregistreerd kassasysteem overeenkomstig 
+artikel 21bis van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor 
+de voldoening van de belasting over de toegevoegde waarde.Art. 15.  § 1. Voor de begunstigde 
+ingeschreven in de KBO voor 1 januari 2020 die een omzetverlies van minstens 40% heeft geleden, bestaat 
+de steun uit een premie per actieve vestigingseenheid in het Gewest die actief is de sectoren van de 
+restaurants en cafés en sommige van hun leveranciers en waarvan de begindatum in de KBO 1 januari 2021 
+voorafgaat, waarvan het bedrag wordt bepaald overeenkomstig de volgende tabel:
+ Nombre d'équivalents temps-plein Perte de chiffre d'affaires de 
+40 % ou plus et de moins de 60 % Perte de chiffre d'affaires de 60 % ou plus Aantal voltijdsequivalenten 
+Omzetverlies van 40 % of meer en minder dan 60 % Omzetverlies van 60 % of meer Moins 
+de 5 7.500 euros 10.500 euros Minder dan 5 7.500 euro 10.500 euro De 
+5 à moins de 10 13.500 euros 16.500 euros Van 5 tot minder dan 10 13.500 euro 16.500 
+euro 10 et plus 30.000 euros 54.000 euros 10 of meer 30.000 euro 54.000 
+euro  Het bedrag van de premie bedoeld in deze paragraaf kan niet hoger 
+zijn dan het omzetverlies geleden door de begunstigde, berekend als volgt:(omzet verwezenlijkt 
+tussen 1 oktober 2019 en 31 december 2019 - omzet verwezenlijkt tussen 1 oktober 2020 en 31 december 
+2020). § 2. De steun bestaat uit een forfaitaire premie van 6.000 euro per actieve vestigingseenheid 
+in het Gewest die actief is de sectoren van de restaurants en cafés en sommige van hun leveranciers, 
+waarvan de begindatum in de KBO 1 januari 2021 voorafgaat, voor:1°  de begunstigde ingeschreven 
+in de KBO voor 1 januari 2019 die een omzetverlies van 25 % of meer en minder dan 40 % heeft geleden;2° 
+ de begunstigde ingeschreven in de KBO tussen 1 januari 2019 en 31 december 2019 die geen omzetverlies 
+van minstens 40 % aantoont;3°  de begunstigde ingeschreven in de KBO tussen 1 januari 2020 
+en 31 december 2020. § 3. De premie bedoeld in dit artikel wordt toegekend voor een 
+maximum van vijf vestigingseenheden per begunstigde.HOOFDSTUK 6. - Procedure voor de behandeling 
+van de steunaanvraagdossiers en de vereffening van de steunArt. 16. De begunstigde dient de 
+steunaanvraag in bij BEW door middel van een formulier dat BEW op zijn website ter beschikking stelt 
+aan de ondernemingen die voldoen aan de voorwaarden bepaald in de artikelen 3, 1°  en 2°,  10, 1°,  12 
+en 14, 1°,  van dit besluit en die zich niet in een van de situaties bedoeld in artikel 41, eerste lid, 
+3°,  van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen 
+bevinden. Het formulier vermeldt de bewijsstukken die de begunstigde bij zijn aanvraag voegt.De 
+begunstigde kan slechts één enkele steunaanvraag indienen. De begunstigde kan de verschillende 
+premies bedoeld in de hoofdstukken 3, 4 en 5 niet combineren. In zijn steunaanvraag kiest de begunstigde 
+onherroepelijk welke van de drie premies hij aanvraagt.De begunstigde die een premie heeft 
+genoten in het kader van het besluit van de Brusselse Hoofdstedelijke Regering van 15 april 2021 betreffende 
+steun aan de ondernemingen van de sectoren van de discotheken, de restaurants en cafés en sommige van 
+hun leveranciers, de evenementen, de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis 
+COVID-19, kan slechts een aanvraag indienen in het kader van dit besluit voor de activiteit waarvoor 
+de premie werd toegekend in het kader van het voormelde besluit van de Brusselse Hoofdstedelijke Regering 
+van 15 april 2021.BEW ontvangt de steunaanvraag ten laatste op 30 juni 2021.De begunstigde 
+vermeldt in zijn aanvraag de andere onder de de-minimisverordening of andere de-minimisverordeningen 
+vallende steun die de onderneming gedurende de twee voorafgaande belastingjaren en het lopende belastingjaar 
+heeft ontvangen.BEW kan per e-mail alle documenten of informatie opvragen die het voor het 
+onderzoek van de aanvraag noodzakelijk acht. De begunstigde verstrekt de aanvullende documenten en informatie 
+binnen tien dagen. Indien binnen deze termijn geen antwoord wordt ontvangen, wordt de steun geweigerd.Art. 
+17. De toekenningsbeslissing wordt binnen de twee maanden van de datum van de ontvangst van de aanvraag 
+aan de begunstigde betekend.BEW deelt de begunstigde mee dat de steun overeenkomstig de de-minimisverordening 
+wordt verleend.Art. 18. De steun wordt in één enkele schijf vereffend op een Belgische zichtrekening 
+op naam van de begunstigde.Art. 19.  § 1. Het onderzoek, het beheer en de controle van 
+de aanvragen en het beheer van de toegang tot het aanvraagformulier kunnen de verwerking van de volgende 
+categorieën van persoonsgegevens betreffen:1°  de identificatie- en contactgegevens van de 
+personen die namens de begunstigden de aanvraag indienen;2°  de identificatie-, adres- en contactgegevens 
+van de zelfstandige ondernemingen natuurlijk persoon die de premie aanvragen;3°  de gegevens 
+betreffende sancties en inbreuken van de begunstigden bedoeld in artikel 8;4°  de gegevens 
+die noodzakelijk zijn om de naleving van de voorwaarden bedoeld in de artikelen 3, 4, 9, 10, 12 en 14 
+na te gaan;5°  de gegevens die noodzakelijk zijn voor het beheer van de toegang tot het steunaanvraagformulier; 
+6°  de gegevens die noodzakelijk zijn voor de bepaling van het premiebedrag. § 
+2. BEW is de verantwoordelijke voor de verwerkingen van persoonsgegevens bedoeld in § 1.BEW 
+kan de persoonsgegevens, en andere gegevens, bekomen van de aanvrager of van een andere overheidsinstantie, 
+waaronder de FOD Economie, de Nationale Bank van België, de FOD Financiën en Brussel Leefmilieu. 
+§ 3. De maximale bewaringstermijn voor persoonsgegevens die op grond van dit artikel worden verwerkt, 
+bedraagt tien jaar vanaf de dag van de vereffening van de steun, behalve voor persoonsgegevens die eventueel 
+nodig zouden zijn voor de behandeling van geschillen met de steunaanvrager, gedurende de tijd die nodig 
+is om dergelijke geschillen te behandelen, met inbegrip van de uitvoering van eventuele gerechtelijke 
+beslissingen.HOOFDSTUK 7. - SlotbepalingenArt. 20. Dit besluit treedt in werking 
+op de dag van zijn bekendmaking in het Belgisch Staatsblad.Art. 21. De minister is belast met 
+de uitvoering van dit besluit.Brussel, 27 mei 2021.Voor de Brusselse Hoofdstedelijke 
+Regering:De Minister-President van de Brusselse Hoofdstedelijke Regering,R. VERVOORTDe 
+Minister van de Brusselse Hoofdstedelijke Regeringbevoegd voor Economie,A. MARON  Annexe 1 - Activités 
+TVA éligibles à l'aide visée au chapitre 4 Bijlage 1 - btw-activiteiten 
+die in aanmerking komen voor de steun bedoeld in hoofdstuk 4 49.310 Transports 
+urbains et suburbains de voyageurs 49.310 Personenvervoer te land binnen steden of voorsteden 
+49.320 Transports de voyageurs par taxis 49.320 Exploitatie van taxi's 
+49.390 Autres transports terrestres de voyageurs 49.390 Overig personenvervoer 
+te land, n.e.g. 56.210 Services traiteurs 56.210 Catering 59.130 
+Distribution de films cinématographiques, de vidéo et de programmes de télévision 59.130 Distributie 
+van films en video- en televisieprogramma's 59.140 Projection de films cinématographiques 
+59.140 Vertoning van films 74.109 Autres activités spécialisées de design 
+(conception de stands d'exposition) 74.109 Overige activiteiten van gespecialiseerde designers 
+74.201 Activités photographiques 74.201 Activiteiten van fotografen, met 
+uitzondering van persfotografen 74.209 Autres activités photographiques 74.209 
+Overige fotografische activiteiten 77.292 Location et location-bail de téléviseurs 
+et d'autres appareils audiovisuels 77.292 Verhuur en lease van televisietoestellen en andere 
+audio- en videoapparatuur 77.293 Location de vaisselle, couverts, verrerie, de 
+fleurs et de plantes, d'articles pour la cuisine, d'appareils électriques et électroménagers 77.293 
+Verhuur en lease van vaat- en glaswerk, keuken- en tafelgerei, elektrische huishoudapparaten en andere 
+huishoudelijke benodigdheden 77.294 Location de costumes, de textiles, de bijoux 
+77.294 Verhuur en lease van textiel, kleding, sieraden en schoeisel 77.296 
+Location et location-bail de fleurs et de plantes 77.296 Verhuur en lease van bloemen en 
+planten 77.392 Locations de tentes 77.392 Verhuur en lease van tenten 79.110 
+Activités des agences de voyage 79.110 Reisbureaus 79.120 Activités 
+des voyagistes 79.120 Reisorganisatoren 79.901 Services d'information touristique 
+79.901 Toeristische informatiediensten 79.909 Autres services de réservation 
+79.909 Overige reserveringsactiviteiten 81.210 Nettoyage courant des bâtiments 
+81.210 Algemene reiniging van gebouwen 81.220 Autres activités de nettoyage 
+des bâtiments; nettoyage industriel 81.220 Overige reiniging van gebouwen; industriële reiniging 
+82.300 Organisation de salons professionnels et de congrès 82.300 Organisatie 
+van congressen en beurzen 90.011 Réalisation de spectacles par des artistes indépendants 
+90.011 Beoefening van uitvoerende kunsten door zelfstandig werkende artiesten 90.012 
+réalisation de spectacles par des ensembles artistiques 90.012 Beoefening van uitvoerende 
+kunsten door artistieke ensembles 90.021 Promotion et organisation de spectacles 
+vivants 90.021 Promotie en organisatie van uitvoerende kunstevenementen 90.022 
+Conception et réalisation de décors 90.022 Ontwerp en bouw van podia 90.023 
+Services spécialisés du son, de l'image et de l'éclairage 90.023 Gespecialiseerde beeld-, 
+verlichtings- en geluidstechnieken 90.041 Gestion de salles de théâtre, de concerts 
+et similaires 90.041 Exploitatie van schouwburgen, concertzalen en dergelijke 91.020 
+Gestion des musées 91.020 Musea 91.030 Gestion des sites et monuments 
+historiques et des attractions touristiques similaires 91.030 Exploitatie van monumenten en dergelijke 
+toeristenattracties 91.041 Gestion des jardins botaniques et zoologiques 91.041 
+Botanische tuinen en dierentuinen 92.000 Organisation de jeux de hasard et 
+d'argent 92.000 Loterijen en kansspelen 93.110 Gestion d'installations 
+sportives 93.110 Exploitatie van sportaccommodaties 93.121 Activités de 
+clubs de football 93.121 Activiteiten van voetbalclubs 93.122 Activités 
+de clubs de tennis 93.122 Activiteiten van tennisclubs 93.123 Activités 
+de clubs d'autres sports de ballon 93.123 Activiteiten van overige balsportclubs 93.124 
+Activités de clubs cyclistes 93.124 Activiteiten van wielerclubs 93.125 
+Activités de clubs de sports de combat 93.125 Activiteiten van vechtsportclubs 93.126 
+Activités de clubs de sports nautiques 93.126 Activiteiten van watersportclubs 93.127 
+Activités de clubs équestres 93.127 Activiteiten van paardensportclubs 93.128 
+Activités de clubs d'athlétisme 93.128 Activiteiten van atletiekclubs 93.129 
+Activités de clubs d'autres sports 93.129 Activiteiten van overige sportclubs 93.130 
+Activités des centres de culture physique 93.130 Fitnesscentra 93.199. 
+Autres activités sportives n.c.a. 93.199. Overige sportactiviteiten, n.e.g. 93.211 
+Activités foraines 93.211 Exploitatie van kermisattracties 93.212 Activités 
+des parcs d'attractions et des parcs à thèmes 93.212 Exploitatie van pret- en themaparken 93.291 
+Exploitation de salles de billard et de snooker 93.291 Exploitatie van snooker- en biljartenzalen 
+93.292 Exploitation de domaines récréatifs 93.292 Exploitatie van recreatiedomeinen 
+93.299 Autres activités récréatives et de loisirs 93.299 Overige recreatie- 
+en ontspanningsactiviteiten, n.e.g. 96.011 Activités des blanchisseries industrielles 
+96.011 Activiteiten van industriële wasserijen  Gezien om gevoegd 
+te worden bij het besluit van de Brusselse Hoofdstedelijke Regering van 27 mei 2021 betreffende steun 
+aan de ondernemingen van de sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, 
+de evenementen, de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis COVID-19;Brussel, 
+27 mei 2021.Voor de Brusselse Hoofdstedelijke Regering:De Minister-President van 
+de Brusselse Hoofdstedelijke Regering,R. VERVOORTDe Minister van de Brusselse Hoofdstedelijke 
+Regeringbevoegd voor Economie,A. MARON
+ Annexe 2- Activités TVA éligibles 
+à l'aide visée au chapitre 5 Bijlage 2 - btw-activiteiten die 
+in aanmerking komen voor de steun bedoeld in hoofdstuk 5 10.110 Transformation 
+et conservation de la viande de boucherie, à l'exclusion de la viande de volaille 10.110 Verwerking 
+en conservering van vlees, exclusief vlees van gevogelte 10.120 Transformation 
+et conservation de la viande de volaille 10.120 Verwerking en conservering van gevogelte 10.130 
+Préparation de produits à base de viande ou de viande de volaille 10.130 Vervaardiging van 
+producten van vlees of van vlees van gevogelte 10.200 Transformation et conservation 
+de poisson, de crustacés et de mollusques 10.200 Verwerking en conservering van vis en van schaal- 
+en weekdieren 10.311 Transformation et conservation de pommes de terre, sauf fabrication 
+de préparations surgelées à base de pommes de terre 10.311 Verwerking en conservering van aardappelen, 
+exclusief productie van diepgevroren aardappelbereidingen 10.312 Fabrication de 
+préparations surgelées à base de pommes de terre 10.312 Productie van diepgevroren aardappelbereidingen 
+10.320 Préparation de jus de fruits et de légumes 10.320 Vervaardiging 
+van groente- en fruitsappen 10.391 Transformation et conservation de légumes, sauf 
+fabrication de légumes surgelés 10.391 Verwerking en conservering van groenten, exclusief productie 
+van diepgevroren groenten 10.392 Transformation et conservation de fruits, sauf 
+fabrication de fruits surgelés 10.392 Verwerking en conservering van fruit, exclusief productie 
+van diepgevroren fruit 10.393 Fabrication de légumes et de fruits surgelés 10.393 
+Productie van diepgevroren groenten en fruit 10.410 Fabrication d'huiles et 
+de graisses 10.410 Vervaardiging van oliën en vetten 10.420 Fabrication 
+de margarine et de graisses comestibles similaires 10.420 Vervaardiging van margarine en andere 
+spijsvetten 10.510 Exploitation de laiteries et fabrication de fromage 10.510 
+Zuivelfabrieken en kaasmakerijen 10.520 Fabrication de glaces de consommation 
+10.520 Vervaardiging van consumptie-ijs 10.610 Travail des grains 10.610 
+Vervaardiging van maalderijproducten 10.620 Fabrication de produits amylacés 
+10.620 Vervaardiging van zetmeel en zetmeelproducten 10.711 Fabrication 
+industrielle de pain et de pâtisserie fraîche 10.711 Industriële vervaardiging van brood en van 
+vers banketbakkerswerk 10.712 Fabrication artisanale de pain et de pâtisserie fraîche 
+10.712 Ambachtelijke vervaardiging van brood en van vers banketbakkerswerk 10.720 
+Fabrication de biscuits, de biscottes et de pâtisseries de conservation 10.720 Vervaardiging 
+van beschuit en biscuit en van ander houdbaar banketbakkerswerk 10.730 Fabrication 
+de pâtes alimentaires 10.730 Vervaardiging van macaroni, noedels, koeskoes en dergelijke deegwaren 
+10.810 Fabrication de sucre 10.810 Vervaardiging van suiker 10.820 
+Fabrication de cacao, de chocolat et de produits de confiserie 10.820 Vervaardiging van cacao, 
+chocolade en suikerwerk 10.830 Transformation du thé et du café 10.830 Verwerking 
+van thee en koffie 10.840 Fabrication de condiments et d'assaisonnements 10.840 
+Vervaardiging van specerijen, sauzen en kruiderijen 10.850 Fabrication de plats 
+préparés 10.850 Vervaardiging van bereide maaltijden en schotels 10.860 Fabrication 
+d'aliments homogénéisés et diététiques 10.860 Vervaardiging van gehomogeniseerde voedingspreparaten 
+en dieetvoeding 10.890 Fabrication d'autres produits alimentaires n.c.a. 10.890 
+Vervaardiging van andere voedingsmiddelen, n.e.g. 11.010 Production de boissons 
+alcooliques distillées 11.010 Vervaardiging van gedistilleerde dranken door distilleren, rectificeren 
+en mengen 11.020 Production de vin (de raisin) 11.020 Vervaardiging van 
+wijn uit druiven 11.030 Fabrication de cidre et de vins d'autres fruits 11.030 
+Vervaardiging van cider en van andere vruchtenwijnen 11.040 Production d'autres 
+boissons fermentées non distillées 11.040 Vervaardiging van andere niet-gedistilleerde gegiste 
+dranken 11.050 Fabrication de bière 11.050 Vervaardiging van bier 11.060 
+Fabrication de malt 11.060 Vervaardiging van mout 11.070 Industrie 
+des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes 11.070 Vervaardiging 
+van frisdranken; productie van mineraalwater en ander gebotteld water 46.170 Intermédiaires 
+du commerce en denrées, boissons et tabac 46.170 Handelsbemiddeling in voedings- en genotmiddelen 
+46.211 Commerce de gros de céréales et de semences 46.211 Groothandel in 
+granen en zaden 46.214 Commerce de gros d'autres produits agricoles 46.214 
+Groothandel in andere akkerbouwproducten 46.231 Commerce de gros de bétail 
+46.231 Groothandel in levend vee 46.232 Commerce de gros d'animaux vivants, 
+sauf bétail 46.232 Groothandel in levende dieren, m.u.v. levend vee 46.311 
+Commerce de gros de pommes de terre de consommation 46.311 Groothandel in consumptieaardappelen 
+46.319 Commerce de gros de fruits et de légumes, sauf pommes de terre de consommation 
+46.319 Groothandel in groenten en fruit, m.u.v. consumptieaardappelen 46.321 
+Commerce de gros de viandes et de produits à base de viande, sauf viande de volaille et de gibier 
+46.321 Groothandel in vlees en vleesproducten, uitgezonderd vlees van wild en van gevogelte 46.322 
+Commerce de gros de viande de volaille et de gibier 46.322 Groothandel in vlees van wild 
+en van gevogelte 46.331 Commerce de gros de produits laitiers et d'oeufs 46.331 
+Groothandel in zuivelproducten en eieren 46.332 Commerce de gros d'huiles et 
+de matières grasses comestibles 46.332 Groothandel in spijsoliën en -vetten 46.341 
+Commerce de gros de vin et de spiritueux 46.341 Groothandel in wijnen en geestrijke dranken 
+46.349 Commerce de gros de boissons, assortiment général 46.349 Groothandel 
+in dranken, algemeen assortiment 46.360 Commerce de gros de sucre, de chocolat 
+et de confiserie 46.360 Groothandel in suiker, chocolade en suikerwerk 46.370 
+Commerce de gros de café, de thé, de cacao et d'épices 46.370 Groothandel in koffie, thee, 
+cacao en specerijen 46.381 Commerce de gros de poissons, crustacés et mollusques 
+46.381 Groothandel in vis en schaal- en weekdieren 46.382 Commerce de gros 
+de produits à base de pommes de terre 46.382 Groothandel in aardappelproducten 46.389 
+Commerce de gros d'autres produits alimentaires n.c.a. 46.389 Groothandel in andere voedingsmiddelen, 
+n.e.g. 46.391 Commerce de gros non spécialisé de denrées surgelées 46.391 Niet-gespecialiseerde 
+groothandel in diepgevroren voedingsmiddelen 46.392 Commerce de gros non spécialisé 
+de denrées non-surgelées, boissons et tabac 46.392 Niet-gespecialiseerde groothandel in niet-diepgevroren 
+voedingsmiddelen, dranken en genotmiddelen 56.101 Restauration à service complet 
+56.101 Eetgelegenheden met volledige bediening 56.102 Restauration à service 
+restreint 56.102 Eetgelegenheden met beperkte bediening 
+ 
+ 
+ 
+ 56.290 
+Autres services de restauration 56.290 Overige eetgelegenheden 56.301 Cafés 
+et bars 56.301 Cafés en bars 56.309 Autres débits de boisson 56.309 
+Andere drinkgelegenheden  Gezien om gevoegd te worden bij het besluit 
+van de Brusselse Hoofdstedelijke Regering van 27 mei 2021 betreffende steun aan de ondernemingen van 
+de sectoren van de discotheken, de restaurants en cafés en sommige van hun leveranciers, de evenementen, 
+de cultuur, het toerisme en de sport in het kader van de gezondheidscrisis COVID-19.Brussel, 
+27 mei 2021.Voor de Brusselse Hoofdstedelijke Regering:De Minister-President van 
+de Brusselse Hoofdstedelijke Regering,R. VERVOORTDe Minister van de Brusselse Hoofdstedelijke 
+Regeringbevoegd voor Economie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-02Numac : 2021041970
+

@@ -1,0 +1,202 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/24/2020204089/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-09Numac : 2020204089
+WAALSE OVERHEIDSDIENST 
+ 24 SEPTEMBER 2020. - Besluit van de Waalse Regering tot vaststelling van een categorie conjunctureel beschermde afnemers van elektriciteit en gas op korte termijn in het kader van de COVID-19-crisis 
+De 
+Waalse Regering,Gelet op het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke 
+elektriciteitsmarkt, artikel 33, § 2, gewijzigd bij het decreet van 11 april 2014;Gelet 
+op het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt, artikel 
+31bis, 2, laatst gewijzigd bij het decreet van 21 mei 2015;Gelet op het besluit van de Waalse 
+Regering van 4 december 2003 betreffende het preventieve actieplan voor energie;Gelet artikel 
+19 van het decreet van 19 december 2019 houdende de algemene uitgavenbegroting van het Waalse Gewest 
+voor het begrotingsjaar 2020;Gelet op het rapport van 8 juni 2020 opgemaakt overeenkomstig 
+artikel 3, 2°, van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 2 juni 2020,Gelet op de instemming van de Minister van Begroting, gegeven op 9 juli 
+2020;Gelet op de dringende noodzakelijkheid gemotiveerd door de noodzaak om te voorzien in 
+de uitbreiding van het statuut van beschermde afnemer tot de betrokken categorieën, door deze nieuwe 
+categorie "conjunctureel beschermde afnemer" te benoemen teneinde de huishoudens die een inkomensverlies 
+lijden dat verband houdt met COVID-19, of die een beperkt inkomen hebben en die in moeilijkheden verkeren 
+om hun energierekening te betalen, te beschermen; Gelet op advies nr. 67.764/4 van de Raad 
+van State, gegeven op 15 juli 2020, overeenkomstig artikel 84, § 1, eerste lid, 3°, van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op advies 72/2020 van de Gegevensbeschermingsautoriteit 
+gegeven op 24 augustus 2020;Gelet op het advies van de "CWaPE", gegeven op 23 juli 2020;Gelet 
+op het advies van de beleidsgroep "Energie", gegeven op 17 juli 2020;Op de voordracht van de 
+Minister van Energie;Na beraadslaging, Besluit : Artikel 1. Voor de toepassing 
+van dit besluit wordt verstaan onder: 1° besluit betreffende de elektriciteitsmarkt: het besluit 
+van de Waalse Regering van 30 maart 2006 betreffende de openbare dienstverplichtingen op de elektriciteitsmarkt;2° 
+besluit betreffende de gasmarkt: het besluit van de Waalse Regering van 30 maart 2006 betreffende de 
+openbare dienstverplichtingen op de gasmarkt;3° decreet betreffende de elektriciteitsmarkt: 
+het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt;4° 
+decreet betreffende de gasmarkt: het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke 
+gasmarkt. Art. 2. Er wordt een categorie beschermde afnemers opgericht, die "conjunctureel 
+beschermde afnemers" wordt genoemd en die toegekend wordt aan: 1° de residentiële afnemers, 
+of elke persoon die onder hetzelfde dak woont, die genieten van een attest van het OCMW of van een sociale 
+dienst dat erkent dat het moeilijk is om aan zijn energiefactuur te voldoen overeenkomstig bijlage 1;2° 
+de residentiële afnemers, met uitzondering van de afnemers bedoeld in artikel 33, § 1, van het 
+decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt, in gebreke 
+van betaling in de volgende gevallen: a) een afnemer, of een persoon die onder hetzelfde dak 
+woont, wiens beroepsinkomen wordt beïnvloed door de COVID-19-crisis in de zin van het tweede lid;b) 
+een afnemer, of een persoon die onder hetzelfde dak woont, die als volledig vergoede werkloze een uitkering 
+heeft;c) een afnemer, of een persoon die onder hetzelfde dak woont, die geniet van een verhoogde 
+tegemoetkoming van zijn ziekenfonds krachtens artikel 37 van de gecoördineerde wet van 14 juli 1994 betreffende 
+de verplichte verzekering voor geneeskundige verzorging en uitkeringen.In de zin van deze tekst 
+wordt verstaan onder: "afnemer wiens beroepsinkomen door de COVID-19-crisis beïnvloed wordt": 1° 
+een persoon die een tijdelijke werkloosheidsuitkering heeft ontvangen wegens overmacht als gevolg van 
+COVID-19 of om economische redenen overeenkomstig het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering en het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures 
+in het kader van tijdelijke werkloosheid omwille van het Covid-19-virus en tot wijziging van artikel 
+10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 
+63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging 
+van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit, wanneer deze uitkering ten minste 14 
+dagen tijdelijke werkloosheid dekt;2° een zelfstandige, een helper of een meewerkende echtgeno(o)t(e) 
+in de zin van de artikelen 3, 5quater, 6 en 7bis van het koninklijk besluit nr. 38 van 27 juli 1967 houdende 
+inrichting van het sociaal statuut der zelfstandigen, die in 2020 een financiële uitkering heeft ontvangen 
+na een gedwongen onderbreking, geheel of gedeeltelijk, van zijn of haar zelfstandige activiteit als gevolg 
+van COVID-19 krachtens de wet van 23 maart 2020 tot wijziging van de wet van 22 december 2016 houdende 
+invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen 
+in het kader van COVID-19 ten gunste van zelfstandigen. Art. 3. De brief van de energieleverancier 
+waarin de situatie van wanbetaling wordt gemeld en de brief van de netbeheerder die de afnemer in kennis 
+stelt van de datum en het tijdstip van de installatie van de budgetmeter, informeren de afnemer over 
+de voorwaarden om een conjuncturele beschermde afnemer te zijn. Deze informatie wordt opgenomen in deze 
+brieven die 10 dagen na de bekendmaking van dit besluit en tot 31 maart 2021 worden verzonden. Bij 
+de ontvangst van een schrijven waarin hij als wanbetaler verklaard wordt voor een energiefactuur van 
+zijn leverancier, stuurt de afnemer die het statuut van conjuncturele beschermde afnemer wenst te verkrijgen, 
+eventueel via het OCMW of een sociale dienst, een schriftelijke aanvraag aan de beheerder van het distributienet 
+waarop hij is aangesloten.De schriftelijke aanvraag omvat: 1° de naam, de voornaam 
+en het post- of e-mailadres van de aanvrager;2° de brief m.b.t. de wanbetaling die tussen 18 
+maart 2020 en 31 maart 2021 aan de afnemer is meegedeeld;3° anderzijds, a) hetzij 
+een attest van de Hulpkas voor werkloosheidsuitkeringen of van elke andere instelling die belast is met 
+de betaling van werkloosheidsuitkeringen in verband met tijdelijke werkloosheid wegens overmacht als 
+gevolg van de coronaviruscrisis;b) hetzij een attest van een sociale verzekeringskas met betrekking 
+tot de financiële uitkeringen die in het kader van het "overbruggingsrecht" in verband met de coronaviruscrisis 
+zijn toegekend;c) hetzij een attest van de Hulpkas voor werkloosheidsuitkeringen of van elke 
+andere instelling die belast is met de betaling van werkloosheidsuitkeringen in verband met volledig 
+vergoede werkloosheid;d) hetzij een attest van het ziekenfonds als begunstigde van de verhoogde 
+bijstand;e) hetzij een met bijlage 1 overeenkomstig attest van het OCMW of van een sociale 
+dienst;4° als de begunstigde van het statuut van conjunctureel beschermde afnemer niet de houder 
+is van het energieleveringscontract: een attest van gezinssamenstelling dat is afgegeven door het gemeentebestuur 
+van de woonplaats van de residentiële afnemer op wiens naam het formulier is opgesteld.De distributienetbeheerder 
+is als enige verantwoordelijk voor de verwerking van de persoonlijke gegevens die in het kader van dit 
+besluit worden overgedragen. Deze gegevens worden door de netbeheerder gewist binnen 3 maanden na afloop 
+van de termijn voor het verlenen van het statuut van conjunctureel beschermde afnemer.Na ontvangst 
+van de aanvraag vergezeld van de vereiste documenten is de netbeheerder verplicht aan de afnemer te leveren 
+tegen het sociale tarief, onverminderd de technische bepalingen voor het beheer van het distributienet 
+betreffende informatie-uitwisseling. De distributienetbeheerder stelt de leverancier en de 
+afnemer in kennis van de toekenning van het statuut van conjunctureel beschermde afnemer. De distributienetbeheerder 
+stelt de leverancier in kennis van de naam en de achternaam van het betrokken huishouden. Indien de begunstigde 
+van het statuut van conjunctureel beschermde afnemer niet de houder van het energieleveringscontract 
+is, deelt de distributienetbeheerder de naam en de achternaam van de houder van het contract mee. De 
+distributienetbeheerder stelt de afnemer tevens in kennis van de voorwaarden die voortvloeien uit de 
+toekenning van het statuut van beschermde afnemer en van het feit dat hij met zijn leverancier een redelijk 
+betalingsplan kan aangaan om zijn schuld terug te betalen. Het contract tussen de leverancier en de afnemer 
+wordt opgeschort. Art. 4. In afwijking van artikel 3 kan de in artikel 2, eerste lid, 2° bedoelde 
+afnemer, eventueel via het OCMS of een sociale dienst, een schriftelijke aanvraag indienen om het statuut 
+van conjunctureel beschermde afnemer te verkrijgen bij de distributienetbeheerder waarop de klant is 
+aangesloten vóór de ontvangst van een brief van zijn leverancier over de wanbetaling.In afwijking 
+van artikel 3, derde lid, 1°, bevat de schriftelijke aanvraag aan de distributienetbeheerder in dit geval 
+geen wanbetalingsbrief. Art. 5. De modaliteiten voor de terugbetaling van de onbetaalde factuur(en) 
+aan de oorspronkelijke leverancier worden vastgelegd in een redelijk betalingsplan, zoals omschreven 
+in artikel 30bis van het besluit betreffende de elektriciteitsmarkt en artikel 33bis van het besluit 
+betreffende de gasmarkt, dat tussen de leverancier en de afnemer wordt gesloten, in voorkomend geval 
+met ondersteuning van een sociale dienst. In geval van toekenning van het statuut van conjunctureel 
+beschermde afnemer wordt de wanbetalingsprocedure bedoeld in het besluit betreffende de elektriciteitsmarkt 
+en het besluit betreffende de gasmarkt onderbroken voor de facturen die worden uitgeschreven voordat 
+de afnemer wordt overgedragen aan de netbeheerder. Art. 6. Binnen de perken van de begrotingskredieten 
+is het recht om het statuut van conjunctureel beschermde afnemer aan te vragen open tot 31 maart 2021. 
+Het statuut van beschermde afnemer dat in het kader van dit besluit wordt toegekend, eindigt 
+automatisch aan het einde van 12 maanden vanaf de datum van toekenning, tenzij het op verzoek van de 
+begunstigde eerder is beëindigd. Na deze periode van 12 maanden eindigt de opschorting van 
+het contract en hervat het contract tussen de leverancier en de afnemer alle gevolgen ervan.Uiterlijk 
+drie maanden voor het einde van de in lid 2 bedoelde periode van twaalf maanden stelt de distributienetbeheerder 
+de betrokken conjunctureel beschermde afnemer per brief in kennis van de datum waarop zijn statuut afloopt. 
+Deze brief wordt naar de beschermde afnemer per gewone brief of per e-mail verzonden op het adres dat 
+bij de aanvraag voor de toekenning van het statuut van conjunctureel beschermde afnemer werd meegedeeld.Wanneer 
+een begunstigde van het statuut van conjunctureel beschermde afnemer een contract met een commerciële 
+leverancier ondertekent en zijn statuut vroegtijdig beëindigt, informeert de netbeheerder de afnemer 
+over het verlies van zijn statuut van beschermde afnemer en vraagt hij bevestiging van de afnemer vóór 
+de overdracht naar de commerciële leverancier. Art. 7. Het Waalse Gewest draagt de kosten voor 
+de toekenning van het statuut van conjunctureel beschermde afnemer op basis van een forfaitair bedrag. 
+Het bedrag van de tegemoetkoming wordt om de zes maanden door de CWaPE berekend en geactualiseerd en 
+aan de distributienetbeheerders en de administratie meegedeeld. Deze bedragen worden beschouwd als inkomsten 
+uit de facturering van de elektriciteits- of gasleveringen aan de eigen afnemers van de distributienetbeheerder 
+in de zin van de tariefmethodologie.De distributienetbeheerder stelt de Administratie maandelijks 
+in kennis van het aantal conjunctureel beschermde afnemers, enerzijds voor gas en anderzijds voor elektriciteit.De 
+bedragen die nodig zijn om de kosten van de regeling te dekken, worden voorgeschoten aan de distributienetbeheerders. 
+Jaarlijks wordt een afrekening gemaakt op basis van het aantal huishoudens dat het statuut heeft genoten 
+en het bedrag van de forfaitaire tegemoetkoming dat door de CWaPE voor de betrokken periodes is berekend. 
+In geval van onderbenutting van de kredieten wordt het teveel betaalde bedrag door de distributienetbeheerder 
+aan het Gewest terugbetaald. Art. 8. In afwijking van artikel 4, § 1, tweede lid, van 
+het besluit van de Waalse Regering van 4 december 2003 betreffende het preventieve actieplan voor energie 
+worden de preventieve actieplannen voor energie die voor de periode tussen 1 januari 2019 tot 31 december 
+2020 in aanmerking komen voor een subsidie, tot 31 maart 2021 verlengd. Art. 9. Dit besluit 
+treedt in werking op de dag volgend op de bekendmaking ervan in het Belgisch Staatsblad. Art. 
+10. De Minister bevoegd voor Energie is belast met de uitvoering van dit besluit. Namen, 24 
+september 2020.Voor de Regering: De Minister-President,E. DI RUPODe 
+Minister van Klimaat, Energie en Mobiliteit,Ph. HENRYBIJLAGE IDocument 
+ter bevestiging van de hoedanigheid van conjunctureel beschermde afnemer in de zin van artikel 2 van 
+het besluit van de Waalse Regering tot instelling van een categorie van conjunctureel beschermde afnemers 
+van elektriciteit en gas op korte termijn in het kader van de COVID-19-crisisGegevens van het 
+openbaar centrum voor maatschappelijk welzijn of van de centrale dienst: Adres:  
+. . . . . Tel.: . . . . . Stempel: Handtekening van de Voorzitter/SecretarisOvereenkomstig 
+de beslissing genomen door het openbaar centrum voor maatschappelijk welzijn of de sociale dienst, bevestigt 
+dit document dat: De heer/Mevr. (naam en voornaam) :  . . . . . Adres: 
+ . . . . . Daadwerkelijk het statuut van conjunctureel beschermde afnemer geniet 
+in toepassing van artikel 2, § 1, van het decreet van de Waalse regering van 24 september 2020 
+tot instelling van een categorie van conjunctureel beschermde afnemers van elektriciteit en gas op korte 
+termijn in het kader van de COVID-19-crisis Datum: . . . . . Dit attest is geldig 
+tot 31 maart 2021.Gezien om te worden gevoegd bij het besluit van de Waalse Regering van 24 
+september 2020 tot instelling van een categorie van conjunctureel beschermde afnemers van elektriciteit 
+en gas op korte termijn in het kader van de COVID-19-crisis.Namen, 24 september 2020.Voor 
+de Regering: De Minister-President,E. DI RUPODe Minister van Klimaat, Energie 
+en Mobiliteit,Ph. HENRY   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-09Numac : 2020204089
+

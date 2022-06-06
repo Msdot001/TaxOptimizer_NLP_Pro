@@ -1,0 +1,150 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2021040251/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-22Numac : 2021040251
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 2 MEI 2019. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde en tot wijziging van de belastingvermindering voor giften. - Duitse vertaling van uittreksels 
+De hierna volgende 
+tekst is de Duitse vertaling van de artikelen 1 tot 16 van de wet van 2 mei 2019 houdende diverse bepalingen 
+inzake belasting over de toegevoegde waarde en tot wijziging van de belastingvermindering voor giften 
+(Belgisch Staatsblad van 15 mei 2019).Deze vertaling is opgemaakt door de Centrale dienst voor 
+Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN2. 
+MAI 2019 - Gesetz zur Festlegung verschiedener Bestimmungen im Bereich der Mehrwertsteuer und zur Abänderung 
+der Steuerermäßigung für unentgeltliche ZuwendungenPHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen 
+und Wir sanktionieren es:KAPITEL 1 - Allgemeine BestimmungArtikel 1 - Vorliegendes 
+Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.KAPITEL 2 - Sonderregelung 
+für ReisebürosArt. 2 - Artikel 1 § 7 des Mehrwertsteuergesetzbuches, eingefügt durch 
+den Königlichen Erlass vom 28. Dezember 1999 und bestätigt durch das Gesetz vom 5. August 2003, wird 
+wie folgt abgeändert:a) In Absatz 1 Nr. 1 werden die Wörter "oder damit zusammenhängen" aufgehoben.b) 
+In Absatz 1 wird Nr. 2 wie folgt ersetzt:"2. "Reisebüro": Steuerpflichtige, die in eigenem 
+Namen in Nr. 1 erwähnte Reisen verkaufen, für die sie Lieferungen von Gütern und Dienstleistungen anderer 
+Steuerpflichtiger in Anspruch nehmen." c) In Absatz 2 wird Nr. 1 wie folgt ersetzt:"1. 
+wer in eigenem Namen in Absatz 1 Nr. 1 erwähnte Reisen verkauft und unmittelbar mit eigenen Mitteln die 
+Durchführung der Reisen gewährleistet,".Art. 3 - In Artikel 18 § 2 Absatz 2 desselben 
+Gesetzbuches, abgeändert durch den Königlichen Erlass vom 28. Dezember 1999 und bestätigt durch das Gesetz 
+vom 5. August 2003, wird das Wort "Reisenden" durch das Wort "Dienstleistungsempfänger" ersetzt.Art. 
+4 - In Artikel 29 § 2 desselben Gesetzbuches, eingefügt durch das Gesetz vom 29. November 1977, 
+ersetzt durch den Königlichen Erlass vom 28. Dezember 1999 und bestätigt durch das Gesetz vom 5. August 
+2003, werden die Wörter "eines Reisenden" durch die Wörter "eines Dienstleistungsempfängers", die Wörter 
+"vom Reisenden" durch die Wörter "vom Dienstleistungsempfänger" und die Wörter "dem Reisenden" durch 
+die Wörter "dem Dienstleistungsempfänger" ersetzt.Art. 5 - In Artikel 35 Absatz 2 desselben 
+Gesetzbuches, ersetzt durch das Gesetz vom 27. Dezember 1977, abgeändert durch das Gesetz vom 28. Dezember 
+1992 und den Königlichen Erlass vom 28. Dezember 1999 und bestätigt durch das Gesetz vom 5. August 2003, 
+wird das Wort "Reisenden" durch das Wort "Dienstleistungsempfänger" ersetzt.Art. 6 - In Artikel 
+45 § 4 desselben Gesetzbuches, ersetzt durch den Königlichen Erlass vom 28. Dezember 1999 und 
+bestätigt durch das Gesetz vom 5. August 2003, wird das Wort "Reisenden" durch das Wort "Dienstleistungsempfängern" 
+ersetzt.KAPITEL 3 - Technische Anpassungen in Bezug auf die europäischen RechtsvorschriftenArt. 
+7 - Artikel 55 desselben Gesetzbuches, ersetzt durch das Gesetz vom 7. März 2002 und zuletzt abgeändert 
+durch das Gesetz vom 19. Dezember 2014, wird wie folgt abgeändert:1. Paragraph 1 Absatz 1 wird 
+wie folgt ersetzt:"Bevor ein nicht in der Gemeinschaft ansässiger Steuerpflichtiger vom Sitz 
+seiner wirtschaftlichen Tätigkeit oder von einer festen Niederlassung aus, der oder die nicht in einem 
+Land gelegen ist, mit dem eine Rechtsvereinbarung über Amtshilfe besteht, deren Anwendungsbereich mit 
+dem der Richtlinie 2010/24/EU des Rates vom 16. März 2010 über die Amtshilfe bei der Beitreibung von 
+Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen und dem der Verordnung 
+(EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die 
+Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer vergleichbar ist, in Belgien steuerpflichtige Umsätze 
+bewirkt, die keine Umsätze sind, für die die Steuer aufgrund von Artikel 51 § 2 Absatz 1 Nr. 1, 
+2, 5 und 6 vom Vertragspartner geschuldet wird, und die auch keine Umsätze sind, die der in Artikel 58ter 
+erwähnten Sonderregelung unterliegen, muss er die Zulassung eines in Belgien ansässigen Fiskalvertreters 
+seitens des Ministers der Finanzen oder dessen Beauftragten veranlassen." 2. Paragraph 2 wird 
+durch einen Absatz mit folgendem Wortlaut ergänzt:"Absatz 1 ist auf Steuerpflichtige anwendbar, 
+die nicht in der Gemeinschaft ansässig sind und ausschließlich Umsätze vom Sitz ihrer wirtschaftlichen 
+Tätigkeit oder von einer festen Niederlassung aus bewirken, der oder die in einem Land gelegen ist, mit 
+dem eine in § 1 Absatz 1 erwähnte Rechtsvereinbarung über Amtshilfe besteht."KAPITEL 
+4 - Technische Anpassung in Bezug auf die nationalen RechtsvorschriftenArt. 8 - In Artikel 
+8 desselben Gesetzbuches, ersetzt durch das Programmgesetz vom 23. Dezember 2009, werden die Wörter "Artikel 
+1 § 9 Nr. 1" jeweils durch die Wörter "Artikel 1 § 9 Absatz 1 Nr. 1" ersetzt.Art. 
+9 - In Artikel 12 § 2 desselben Gesetzbuches, ersetzt durch das Programmgesetz vom 23. Dezember 
+2009, werden die Wörter "Artikel 1 § 9 Nr. 1" jeweils durch die Wörter "Artikel 1 § 9 Absatz 
+1 Nr. 1" ersetzt.Art. 10 - In Artikel 16 § 2 Absatz 3 desselben Gesetzbuches, ersetzt 
+durch das Gesetz vom 17. Dezember 2012, werden die Wörter "Artikel 1 § 9" durch die Wörter "Artikel 
+1 § 9 Absatz 1" ersetzt.Art. 11 - In Artikel 36 § 1 Buchstabe a) desselben Gesetzbuches, 
+ersetzt durch das Programmgesetz vom 23. Dezember 2009, werden die Wörter "Artikel 1 § 9" durch 
+die Wörter "Artikel 1 § 9 Absatz 1" ersetzt.Art. 12 - In Artikel 44 § 3 Nr. 1 
+desselben Gesetzbuches, ersetzt durch das Programmgesetz vom 23. Dezember 2009, werden die Wörter "Artikel 
+1 § 9" jeweils durch die Wörter "Artikel 1 § 9 Absatz 1" und die Wörter "Artikel 1 § 
+9 Nr. 1" jeweils durch die Wörter "Artikel 1 § 9 Absatz 1 Nr. 1" ersetzt.Art. 13 - In 
+Artikel 53quater § 1 Absatz 3 desselben Gesetzbuches, eingefügt durch das Gesetz vom 28. Dezember 
+1992, ersetzt durch das Gesetz vom 26. November 2009 und zuletzt abgeändert durch das Gesetz vom 15. 
+Mai 2014, wird das Wort "oder" durch das Wort "und" ersetzt.KAPITEL 5 - Notifizierung der Rechtfertigung 
+der SteuerschuldArt. 14 - Artikel 85 des Mehrwertsteuergesetzbuches, ersetzt durch das Gesetz 
+vom 26. November 2018, wird wie folgt abgeändert:1. In § 1 werden zwischen Absatz 3 
+und Absatz 4 drei Absätze mit folgendem Wortlaut eingefügt:"In Abweichung von Absatz 3 wird 
+für die Steuer, die in einer vom Steuerpflichtigen eingereichten Erklärung angegeben ist, und die damit 
+verbundenen Verzugszinsen, Nebenforderungen und gestaffelten steuerrechtlichen Geldbußen davon 
+ausgegangen, dass die Notifizierung der Rechtfertigung zum Zeitpunkt und allein aufgrund der Einreichung 
+dieser Erklärung erfolgt ist.Für die Steuer, die Gegenstand eines Schuldanerkenntnisses ist, 
+und die damit verbundenen Verzugszinsen, Nebenforderungen und gestaffelten steuerrechtlichen Geldbußen 
+wird davon ausgegangen, dass die Notifizierung der Rechtfertigung zum Zeitpunkt und allein aufgrund der 
+Unterzeichnung des Schuldanerkenntnisses erfolgt ist.Außer in den in Absatz 4 und 5 erwähnten 
+Fällen ist das Datum der Notifizierung der dritte Werktag nach dem Datum der Aufgabe der Rechtfertigung 
+der Steuerschuld beim Universalpostdiensteanbieter." 2. In § 1 wird der frühere Absatz 
+5, der Absatz 8 wird, wie folgt ersetzt:"Der König bestimmt die Modalitäten für die Anwendung 
+des in Absatz 7 erwähnten Verfahrens." 3. In § 1 Absatz 9 werden die Wörter "Absätze 
+3 bis 5" durch die Wörter "Absätze 3 bis 8" ersetzt.4. Paragraph 2 wird durch einen Absatz 
+mit folgendem Wortlaut ergänzt:"Der König legt die Art und Weise fest, wie die Einnahme- und 
+Beitreibungsregister erstellt werden."Art. 15 - Artikel 14 wird wirksam mit 1. April 2019.KAPITEL 
+6 - Abänderung des Königlichen Erlasses Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze 
+und zur Einteilung der Güter und Dienstleistungen nach diesen SätzenArt. 16 - In Rubrik XXII 
+Abschnitt 1 § 5 der Tabelle A der Anlage zum Königlichen Erlass Nr. 20 vom 20. Juli 1970 zur Festlegung 
+der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen nach diesen Sätzen, ersetzt 
+durch den Königlichen Erlass vom 29. Dezember 1992, wird Absatz 4 wie folgt ersetzt:"Die zu 
+zahlende Steuer wird innerhalb eines Monats ab dem Datum der Zahlungsaufforderung, die der vom Minister 
+der Finanzen oder von seinem Beauftragten bestimmte Dienst dem Invaliden oder Behinderten zusendet, entrichtet. 
+Die Zahlung erfolgt gemäß den Bestimmungen von Kapitel 1 des Königlichen Erlasses vom 17. Februar 
+2019 zur Ausführung verschiedener Gesetze und zur Anpassung verschiedener Königlicher Erlasse unter anderem 
+im Hinblick auf die Harmonisierung der Zahlungsmodalitäten innerhalb der mit der Einnahme und Beitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen beauftragten Verwaltung des Föderalen Öffentlichen 
+Dienstes Finanzen."(...)Wir fertigen das vorliegende Gesetz aus und ordnen an, dass 
+es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben 
+zu Brüssel, den 2. Mai 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der Minister 
+der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-22Numac : 2021040251
+

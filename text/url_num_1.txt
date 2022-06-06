@@ -1,0 +1,81 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/01/08/2020010053/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-01-14Numac : 2020010053
+BRUSSELS HOOFDSTEDELIJK GEWEST
+ 8 JANUARI 2020. - Ministerieel besluit tot vaststelling van de modellen van formulier bedoeld in artikel 8, § 1 van het besluit van de Brusselse Hoofdstedelijke Regering van 19 januari 2017 tot vaststelling van de modaliteiten van het gunstregime toepasselijk op de successierechten bij overdracht van familiale ondernemingen en familiale vennootschappen 
+De Minister van de Brusselse Hoofdstedelijke Regering, 
+belast met Financiën en Begroting,Gelet op het Wetboek der Successierechten, artikel 60bis/2, 
+§ 1, ingevoegd door de ordonnantie van 12 december 2016 houdende het tweede deel van de fiscale 
+hervorming;Gelet op het besluit van de Brusselse Hoofdstedelijke Regering van 19 januari 2017 
+tot vaststelling van de modaliteiten van het gunstregime toepasselijk op de successierechten bij overdracht 
+van familiale ondernemingen en familiale vennootschappen, artikel 8;Gelet op de gelijkekansentest 
+uitgevoerd in toepassing van artikel 2 van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Overwegende 
+dat artikel 8 van bovengenoemd besluit stelt dat de Minister van de Brusselse Hoofdstedelijke Regering, 
+belast met Financiën en Begroting, bevoegd is om het formulier dat bedoeld is om na te gaan of de voorwaarden 
+voor het behoud van de het fiscale gunstregime, dat werd bekomen in het kader van de overdracht van een 
+familiale onderneming of een familiale vennootschap, vervuld zijn gebleven tot het einde van de driejarige 
+periode die aanving bij het overlijden van de decujus, zoals bedoeld in artikel 60bis/2, § 1, 
+van het Wetboek der Successierechten;Overwegende dat dit ministerieel besluit geen reglementaire 
+voorschriften bevat in de zin van artikel 3, § 1, eerste lid, van de gecoördineerde wetten van 
+de Raad van State van 12 januari 1973, is het niet onderworpen aan het advies van de Raad van State, 
+afdeling Wetgeving,Besluit :Artikel 1. Het formulier dat bedoeld is om na te gaan 
+of de voorwaarden voor het behoud van de het fiscale gunstregime, dat werd bekomen in het kader van de 
+overdracht van een familiale onderneming, vervuld zijn gebleven tot het einde van de driejarige periode 
+die aanving bij het overlijden van de decujus, zoals bedoeld in artikel 60bis/2, § 1 van het Wetboek 
+der Successierechten, is hernomen in bijlage 1 van dit besluit.Art. 2. Het formulier dat bedoeld 
+is om na te gaan of de voorwaarden voor het behoud van het fiscale gunstregime, dat werd bekomen in het 
+kader van het overdracht van een familiale vennootschap, vervuld zijn gebleven tot het einde van de driejarige 
+periode die aanving bij het overlijden van de decujus, zoals bedoeld in artikel 60bis/2, § 1 van 
+het Wetboek der Successierechten, is hernomen in bijlage 2 bij dit besluit.Art. 3. Dit besluit 
+heeft uitwerking met ingang van 1 januari 2020.Brussel, 8 januari 2020.De Minister 
+van de Brusselse Hoofdstedelijke Regering, belast met Financiën, Begroting, Openbaar ambt en de Promotie 
+van Meertaligheid,S. GATZ Voor de raadpleging van 
+de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-01-14Numac : 2020010053
+

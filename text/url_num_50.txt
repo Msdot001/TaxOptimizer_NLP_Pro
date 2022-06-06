@@ -1,0 +1,178 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/04/03/2020030604/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-23Numac : 2020030604
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 3 APRIL 2019. - Koninklijk besluit tot wijziging van het KB/WIB 92 met betrekking tot de nadere regels en modaliteiten voor het indienen van de in artikel 2755, § 4, zevende lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde verklaring. - Duitse vertaling 
+De hierna 
+volgende tekst is de Duitse vertaling van het koninklijk besluit van 3 april 2019 tot wijziging van het 
+KB/WIB 92 met betrekking tot de nadere regels en modaliteiten voor het indienen van de in artikel 2755, 
+§ 4, zevende lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde verklaring (Belgisch 
+Staatsblad van 16 april 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN3. APRIL 
+2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Regeln und Modalitäten für 
+die Einreichung der in Artikel 2755 § 4 Absatz 7 des Einkommensteuergesetzbuches 
+1992 erwähnten BescheinigungBERICHT AN DEN KÖNIGSire,durch das Gesetz vom 
+23. März 2019 zur Abänderung des Einkommensteuergesetzbuches 1992 in Bezug auf die steuerrechtlichen 
+Bestimmungen über den Jobdeal ist eine Befreiung von der Zahlung eines Teils des Berufssteuervorabzugs 
+für die Systemschifffahrt (Artikel 2755 § 4 des Einkommensteuergesetzbuches 1992 
+(EStGB 92)) eingeführt worden. Arbeitnehmer in der Binnenschifffahrt, die gemäß der Systemschifffahrtsregelung 
+arbeiten, gelten für die Anwendung von Artikel 2755 des EStGB 92 als Arbeitnehmer, die 
+Schichtarbeit verrichten.Die spezifische Befreiung von der Zahlung des Berufssteuervorabzugs 
+für die Systemschifffahrt muss als staatliche Beihilfe betrachtet werden, die in den Grenzen der allgemeinen 
+De-minimis-Verordnung gewährt wird (Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 
+über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union 
+auf De-minimis-Beihilfen, nachstehend "Verordnung" genannt). Eine solche Beihilfe kann nur gewährt werden, 
+wenn das Unternehmen, dem die Beihilfe gewährt wird, seinem Antrag auf Beihilfe eine Bescheinigung beifügt, 
+in der es angibt, dass ihm im laufenden Steuerjahr (Besteuerungszeitraum) und in den beiden vorhergehenden 
+Steuerjahren (Besteuerungszeiträumen) zusammengenommen nicht mehr als 200.000 EUR an Beihilfen im Rahmen 
+der De-minimis-Verordnung gewährt worden sind (Artikel 6 Absatz 1 in fine der Verordnung und Artikel 
+2755 § 4 Absatz 7 des EStGB 92).Inhalt und Muster der BescheinigungDurch 
+diesen Erlass wird zunächst die Befugnis, das Muster der Bescheinigung festzulegen, auf den Minister 
+der Finanzen oder seinen Beauftragten übertragen.In der Bescheinigung müssen unter anderem 
+neben den Angaben, die erforderlich sind, um das betreffende Unternehmen zu identifizieren, und den Angaben 
+in Bezug auf den Erklärungszeitraum, für den eine Zahlungsbefreiung beantragt wird, alle Beihilfen vermerkt 
+werden, die dem betreffenden Unternehmen im laufenden Steuerjahr (Besteuerungszeitraum) und in den beiden 
+vorhergehenden Steuerjahren (Besteuerungszeiträumen) gewährt worden sind und in den Anwendungsbereich 
+der De-minimis-Verordnung fallen. Andere Beihilfemaßnahmen, die in den Anwendungsbereich der allgemeinen 
+De-minimis-Verordnung fallen, sind unter anderem die Beihilfe, die der Binnenschifffahrt von "Vlaamse 
+Waterweg" im Rahmen der Maßnahmen "Palletvervoer" und "Nabehandelingstechnieken" gewährt wird, 
+die Beihilfe, die von der Flämischen Region (Vlaio) im Rahmen des KMB-Portfolios (Beihilfe für Ausbildung 
+und Beratung) gewährt wird, die Beihilfe, die von der Wallonischen Region im Rahmen der Sesam-Regelung 
+(Einstellung von Personal) und der Starteo- und Optimeo-Darlehen gewährt wird, und die Beihilfe für externe 
+Ausbildung, die von der Region Brüssel-Hauptstadt gewährt wird. Nicht nur die De-minimis-Beihilfen, die 
+dem Schuldner des Berufssteuervorabzugs gewährt werden, müssen in die Bescheinigung aufgenommen werden, 
+sondern gegebenenfalls auch die De-minimis-Beihilfen, die den Unternehmen gewährt werden, die Teil derselben 
+Gruppe wie der Schuldner des Berufssteuervorabzugs sind (siehe Artikel 2 Absatz 2 der Verordnung und 
+Artikel 2755 § 4 Absatz 4 in fine des EStGB 92).Gemäß Artikel 
+3 Absatz 4 der Verordnung gilt als Bewilligungszeitpunkt einer De-minimis-Beihilfe der Zeitpunkt, zu 
+dem das Unternehmen nach den diesbezüglichen Vorschriften einen Rechtsanspruch auf die Beihilfe erwirbt, 
+und zwar unabhängig davon, wann die De-minimis-Beihilfe tatsächlich an das Unternehmen ausgezahlt wird. 
+Beihilfen müssen immer als Barzuschuss in Form von Bruttobeträgen ausgedrückt werden; bei Beihilfen, 
+die nicht in Form von Zuschüssen gewährt werden, entspricht der Beihilfebetrag ihrem Bruttosubventionsäquivalent 
+(Artikel 3 Absatz 6 und Artikel 4 der Verordnung).Die Befreiung von der Zahlung des Berufssteuervorabzugs 
+kann für einen bestimmten Erklärungszeitraum nicht gewährt werden, wenn der De-minimis-Höchstbetrag dadurch 
+überschritten werden würde (Artikel 3 Absatz 7 der Verordnung). Außer bei Berichtigungen gilt als 
+Bewilligungszeitpunkt einer Beihilfe in Form einer Befreiung von der Zahlung des Berufssteuervorabzugs 
+für die Anwendung der Verordnung der Zeitpunkt, zu dem die zweite Erklärung zum Berufssteuervorabzug 
+(negative Erklärung zum Berufssteuervorabzug) und die De-minimis-Bescheinigung bei der Verwaltung eingereicht 
+werden. Der Betrag der Befreiung von der Zahlung des Berufssteuervorabzugs, die in der zweiten Erklärung 
+für einen bestimmten Erklärungszeitraum beantragt wird, muss ebenfalls in der Bescheinigung in Bezug 
+auf diesen Zeitraum vermerkt sein. Auf diese Weise ist der betreffende Schuldner des Berufssteuervorabzugs 
+verpflichtet zu prüfen, ob der De-minimis-Höchstbetrag durch die beantragte Befreiung von der Zahlung 
+des Berufssteuervorabzugs nicht überschritten wird.Einreichung der Bescheinigung In 
+Artikel 2755 § 4 Absatz 7 des EStGB 92 ist bestimmt, dass die Bescheinigung zusammen 
+mit der Erklärung zum Berufssteuervorabzug eingereicht werden muss.Derzeit ist es im FINPROF-System 
+allerdings nicht möglich, der Erklärung zum Berufssteuervorabzug Anlagen beizufügen. In Anbetracht der 
+begrenzten Anzahl Schuldner des Berufssteuervorabzugs, die für die Maßnahme in Betracht kommen, 
+erschien es nicht angebracht, eine solche Anwendung zu entwickeln. Aus diesem Grund wird vorgeschlagen, 
+dem FÖD Finanzen eine gescannte Version der ausgefüllten, datierten und unterzeichneten Bescheinigung 
+per E-Mail zuzusenden, und zwar genauer an die auf dem Muster angegebene E-Mail-Adresse. Um die Bearbeitung 
+dieser E-Mails zu erleichtern, muss im Betreff der E-Mail "Bescheinigung Systemschifffahrt" angegeben 
+werden, gefolgt von der Unternehmensnummer des Schuldners des Berufssteuervorabzugs.Im Hinblick 
+auf die Einhaltung der Bedingung, wonach die Bescheinigung zusammen mit der Erklärung zum Berufssteuervorabzug 
+eingereicht werden muss, muss die Bescheinigung der Verwaltung innerhalb eines begrenzten Zeitraums nach 
+Einreichung der Erklärung zum Berufssteuervorabzug übermittelt werden. Diese Frist wird auf höchstens 
+zwei Werktage nach Einreichung der zweiten Erklärung zum Berufssteuervorabzug, in der die Anwendung der 
+Befreiung von der Zahlung des Berufssteuervorabzugs beantragt wird, festgelegt. Für eine am Freitag, 
+dem 12. Juli 2019, eingereichte Erklärung zum Berufssteuervorabzug muss die Bescheinigung der Verwaltung 
+also am Dienstag, dem 16. Juli 2019, per E-Mail zukommen.Wird die Bescheinigung der Verwaltung 
+nicht rechtzeitig übermittelt, kann die in der zweiten Erklärung zum Berufssteuervorabzug beantragte 
+Befreiung von der Zahlung des Berufssteuervorabzugs für die Systemschifffahrt nicht gewährt werden.InkrafttretenDie 
+Befreiung von der Zahlung des Berufssteuervorabzugs für die Systemschifffahrt ist im Prinzip auf die 
+ab dem 1. Januar 2019 gezahlten oder zuerkannten Entlohnungen anwendbar. Da die Regeln in Bezug auf die 
+Bescheinigung im Prinzip nicht rückwirkend eingeführt werden können, tritt dieser Erlass am Tag seiner 
+Veröffentlichung im Belgischen Staatsblatt in Kraft. Dies hindert Schuldner des Berufssteuervorabzugs 
+nicht daran, mittels berichtigender Erklärungen dennoch eine Befreiung von der Zahlung des Berufssteuervorabzugs 
+für die Systemschifffahrt für die Entlohnungen beantragen zu können, die sie vor Inkrafttreten dieses 
+Erlasses 2019 gezahlt oder zuerkannt haben und für die sie der Staatskasse den Berufssteuervorabzug bereits 
+zugeführt haben. Die Bescheinigung muss der Verwaltung spätestens am zweiten Werktag nach Einreichung 
+der berichtigenden Erklärungen per E-Mail übermittelt werden.Dieser Erlass hat keine budgetären 
+Auswirkungen über die des Gesetzes hinaus. Er hat keinerlei direkten oder indirekten Einfluss auf die 
+Einnahmen und da für die Einreichung der Bescheinigung keine neue Anwendung entwickelt werden muss, entstehen 
+auch keine neuen Ausgaben.Soweit, Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich 
+habe die Ehre,Sire,der ehrerbietigeund treue DienerEurer Majestät 
+zu sein.Der Vizepremierminister und Minister der FinanzenA. DE CROO3. 
+APRIL 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Regeln und Modalitäten 
+für die Einreichung der in Artikel 2755 § 4 Absatz 7 des Einkommensteuergesetzbuches 
+1992 erwähnten BescheinigungPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 2755 
+§ 6, eingefügt durch das Gesetz vom 23. März 2019;Aufgrund des KE/EStGB 92;In 
+Erwägung der Stellungnahme des Finanzinspektors vom 18. März 2019, in der festgestellt wird, dass vorliegender 
+Erlass keine budgetären Auswirkungen hat;Aufgrund der am 12. Januar 1973 koordinierten Gesetze 
+über den Staatsrat, des Artikels 3 § 1;Aufgrund der Dringlichkeit;In der Erwägung, 
+dass:- durch das Gesetz vom 23. März 2019 zur Abänderung des Einkommensteuergesetzbuches 1992 
+in Bezug auf die steuerrechtlichen Bestimmungen über den Jobdeal eine Befreiung von der Zahlung eines 
+Teils des Berufssteuervorabzugs für die Systemschifffahrt eingeführt worden ist,- diese Befreiung 
+von der Zahlung des Berufssteuervorabzugs auf die ab dem 1. Januar 2019 gezahlten oder zuerkannten Entlohnungen 
+anwendbar ist,- diese Befreiung von der Zahlung des Berufssteuervorabzugs nur angewandt werden 
+kann, wenn der Schuldner des Berufssteuervorabzugs gleichzeitig mit seinem Antrag auf Befreiung von der 
+Zahlung des Berufssteuervorabzugs eine Bescheinigung in Bezug auf die Einhaltung der Höchstbeträge für 
+Beihilfen wie erwähnt in der allgemeinen De-minimis-Verordnung (Verordnung (EU) Nr. 1407/2013 der Kommission 
+vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der 
+Europäischen Union auf De-minimis-Beihilfen) einreicht,- die Regeln und Modalitäten in Bezug 
+auf diese Bescheinigung daher dringend festgelegt werden müssen, damit die betreffenden Unternehmen schnellstmöglich 
+von der Maßnahme profitieren können,- vorliegender Erlass folglich schnellstmöglich ergehen 
+muss;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben Wir beschloßen 
+und erlassen Wir:Artikel 1 - In Kapitel 2 Abschnitt 2bis des KE/EStGB 92 wird ein Artikel 954/1 
+mit folgendem Wortlaut eingefügt:"Art. 954/1 - § 1 - Das Muster der 
+in Artikel 2755 § 4 Absatz 7 des Einkommensteuergesetzbuches 1992 erwähnten Bescheinigung 
+wird vom Minister der Finanzen oder von seinem Beauftragten festgelegt. § 2 - Der Schuldner 
+des Berufssteuervorabzugs, der die Anwendung der in Artikel 2755 § 4 des Einkommensteuergesetzbuches 
+1992 erwähnten Befreiung von der Zahlung des Berufssteuervorabzugs beantragt, sendet spätestens am zweiten 
+Werktag nach dem Tag, an dem die zweite Erklärung wie in Artikel 952 § 3 erwähnt 
+eingereicht worden ist, eine gescannte Version der in § 1 erwähnten ordnungsgemäß ausgefüllten, 
+datierten und unterzeichneten Bescheinigung per E-Mail an die auf dem in § 1 erwähnten Muster 
+angegebene E-Mail-Adresse. Der Betreff seiner E-Mail lautet "Bescheinigung Systemschifffahrt", gefolgt 
+von seiner Unternehmensnummer.Die Verwaltung bestätigt dem Schuldner den Empfang der Bescheinigung 
+mittels Empfangsbestätigung."Art. 2 - Vorliegender Erlass tritt am Tag seiner Veröffentlichung 
+im Belgischen Staatsblatt in Kraft.Art. 3 -  Der für Finanzen zuständige Minister ist mit der 
+Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 3. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-23Numac : 2020030604
+

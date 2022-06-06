@@ -1,0 +1,55 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-12Numac : 2021021357
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 27 JUNI 2021. - Wet houdende diverse fiscale bepalingen en tot wijziging van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten. - Erratum 
+In het Belgisch Staatsblad van 30 juin 2021, dient men 
+op bladzijde 66752 bij art. 201 " 2012/1 " te lezen in plaats van " 20112/1 ".   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-12Numac : 2021021357
+

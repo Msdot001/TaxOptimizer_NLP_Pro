@@ -1,0 +1,202 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/01/15/2020043062/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043062
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 15 JANUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de hulp aan de slachtoffers van terrorisme betreft. - Duitse vertaling 
+De hierna volgende 
+tekst is de Duitse vertaling van de wet van 15 januari 2019 tot wijziging van de wet van 1 augustus 1985 
+houdende fiscale en andere bepalingen wat de hulp aan de slachtoffers van terrorisme betreft (Belgisch 
+Staatsblad van 8 februari 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST JUSTIZ15. JANUAR 
+2019 - Gesetz zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer 
+Bestimmungen hinsichtlich der Hilfe für TerroropferPHILIPPE, Konig der Belgier, Allen Gegenwartigen 
+und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir 
+sanktionieren es:KAPITEL 1 - Allgemeine BestimmungArtikel 1 - Vorliegendes Gesetz 
+regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.KAPITEL 2 - Abänderungen des 
+Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer BestimmungenArtikel 
+1. In Artikel 40bis Absatz 1 des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer 
+Bestimmungen, eingefügt durch das Gesetz vom 13. Januar 2006, werden zwischen den Wörtern "einer dringenden 
+Hilfe" und den Wörtern "oder einer ergänzenden Hilfe" die Wörter ", eines Vorschusses" eingefügt.Art. 
+2. In Kapitel 3 Abschnitt 4 desselben Gesetzes wird ein neuer Unterabschnitt 1, der den Artikel 42bis 
+umfasst, mit der Überschrift "Allgemeine Bestimmung" eingefügt.Art. 3. Artikel 42bis desselben 
+Gesetzes, eingefügt durch das Gesetz vom 1. April 2007 und abgeändert durch das Gesetz vom 31. Mai 2016, 
+wird wie folgt abgeändert:1. Das Wort "Handlung" wird jedes Mal durch das Wort "Tat" ersetzt 
+und Absatz 1 wird durch folgenden Satz ergänzt:"Er kann ebenfalls außerhalb des belgischen 
+Staatsgebiets begangene Taten als Terrorakte anerkennen."2. Zwischen Absatz 1 und Absatz 2 
+wird ein Absatz mit folgendem Wortlaut eingefügt:"Der König legt die Bedingungen fest, gemäß 
+denen die Anerkennung erfolgen kann."Art. 4. In Unterabschnitt 2, eingefügt durch das Gesetz 
+vom 3. Februar 2019 zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und 
+anderer Bestimmungen hinsichtlich der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern 
+vorsätzlicher Gewalttaten und von Gelegenheitsrettern in Bezug auf Terroropfer, wird ein Artikel 42quinquies 
+mit folgendem Wortlaut eingefügt:"Art. 42quinquies - § 1 - Die in Artikel 31 Nr. 1 bis 
+4 erwähnte finanzielle Hilfe wird Terroropfern unter folgende Bedingungen gewährt:1. Der Terrorakt 
+ist in Belgien verübt worden. Ist der Terrorakt im Ausland verübt worden, muss das Opfer zum Tatzeitpunkt 
+die belgische Staatsangehörigkeit besitzen oder seinen gewöhnlichen Wohnort in Belgien haben im Sinne 
+von Artikel 4 des Gesetzes vom 16. Juli 2004 zur Einführung des Gesetzbuches über das internationale 
+Privatrecht. Der Terrorakt muss durch einen Königlichen Erlass, wie in Artikel 42bis Absatz 1 erwähnt, 
+anerkannt worden sein.2. Der Antrag auf Gewährung einer finanziellen Hilfe muss binnen einer 
+Frist von drei Jahren ab Veröffentlichung des in Artikel 42bis Absatz 1 erwähnten Königlichen Erlasses, 
+durch den das betreffende Ereignis als Terrorakt anerkannt wurde, eingereicht werden.3. Die 
+Wiedergutmachung des Schadens kann nicht wirksam und ausreichend von dem Täter oder der zivilrechtlich 
+haftenden Partei, einer Sozialversicherungsregelung oder einer Privatversicherung oder auf irgendeine 
+andere Weise gewährleistet werden. § 2 - Die in Artikel 31 Nr. 5 erwähnte finanzielle 
+Hilfe wird gewährt, wenn die Gelegenheitsretter folgende Bedingungen erfüllen:1. auf belgischen 
+Staatsgebiet eingeschritten sein infolge eines Terrorakts oder bei einem im Ausland verübten Terrorakt 
+zum Tatzeitpunkt die belgische Staatsangehörigkeit besitzen oder ihren gewöhnlichen Wohnort in Belgien 
+haben im Sinne von Artikel 4 des Gesetzes vom 16. Juli 2004 zur Einführung des Gesetzbuches über das 
+internationale Privatrecht und diese Tat muss durch einen Königlichen Erlass als Terrorakt anerkannt 
+sein,2. der Antrag auf Gewährung einer finanziellen Hilfe muss binnen einer Frist von drei 
+Jahren ab Veröffentlichung des in Artikel 42bis Absatz 1 erwähnten Königlichen Erlasses durch den das 
+betreffende Ereignis als Terrorakt anerkannt wurde, eingereicht werden,3. keine wirksame und 
+ausreichende Wiedergutmachung des Schadens von der zivilrechtlich haftenden Person, einer Sozialversicherungsregelung, 
+einer Privatversicherung oder auf irgendeine andere Weise erhalten können."Art. 5. In Unterabschnitt 
+2, eingefügt durch das Gesetz vom 3. Februar 2019 zur Abänderung des Gesetzes vom 1. August 1985 zur 
+Festlegung steuerrechtlicher und anderer Bestimmungen hinsichtlich der Befugnisse der Kommission für 
+finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten und von Gelegenheitsrettern in Bezug 
+auf Terroropfer, wird ein Artikel 42septies mit folgendem Wortlaut eingefügt:"Art. 42septies 
+- Im Fall eines Terrorakts können Opfer oder Gelegenheitsretter Anspruch erheben auf die Erstattung der 
+erforderlichen Reise- und Aufenthaltskosten bis zu einem Höchstbetrag von 6.000 EUR, entweder wenn die 
+Taten sich im Ausland ereignet haben oder wenn die Taten sich in Belgien ereignet haben und der Antragsteller 
+dort nicht wohnte.Dieser Betrag kann durch einen im Ministerrat beratenen Königlichen Erlass 
+erhöht werden."Art. 6. In Unterabschnitt 2, eingefügt durch das Gesetz vom 3. Februar 2019 
+zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen 
+hinsichtlich der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten 
+und von Gelegenheitsrettern in Bezug auf Terroropfer, wird ein Artikel 42quaterdecies mit folgendem Wortlaut 
+eingefügt:"Art. 42quaterdecies - Im Fall eines Terrorakts kann die Kommission eine ergänzende 
+Hilfe gewähren, wenn sich der Schaden nach Gewährung der finanziellen Hilfe offensichtlich verschlimmert 
+hat, unbeschadet der Anwendung der Artikel 31, 32, 33 § 1 und 42quinquies.Die ergänzende 
+Hilfe wird pro vorsätzliche Gewalttat und pro Antragsteller für einen Schaden über 500 EUR gewährt und 
+ist auf den am Tag der Hinterlegung des Antrags auf Gewährung einer Hilfe geltenden Betrag, der um die 
+bereits gewährte Hilfe, die eventuelle dringende Hilfe und den eventuellen Vorschuss verringert wird, 
+begrenzt.Das Ersuchen um Gewährung einer ergänzenden Hilfe wird, bei Strafe des Ausschlusses, 
+binnen einer Frist von zehn Jahren ab dem Tag der Entscheidung über die Gewährung einer finanziellen 
+Hilfe eingereicht."Art. 7. In Unterabschnitt 2, eingefügt durch das Gesetz vom 3. Februar 2019 
+zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen 
+hinsichtlich der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten 
+und von Gelegenheitsrettern in Bezug auf Terroropfer, wird ein Artikel 42quindecies mit folgendem Wortlaut 
+eingefügt:"Art. 42quindecies - Der in Artikel 42terdecies erwähnte Höchstbetrag kann durch 
+einen im Ministerrat beratenen Königlichen Erlass erhöht werden."Art. 8. In Unterabschnitt 
+2, eingefügt durch das Gesetz vom 3. Februar 2019 zur Abänderung des Gesetzes vom 1. August 1985 zur 
+Festlegung steuerrechtlicher und anderer Bestimmungen hinsichtlich der Befugnisse der Kommission für 
+finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten und von Gelegenheitsrettern in Bezug 
+auf Terroropfer, wird ein Artikel 42sedecies mit folgendem Wortlaut eingefügt:"Art. 42sedecies 
+- § 1 - Im Fall eines Terrorakts tritt der Staat von Rechts wegen in Höhe des Betrags der gewährten 
+Hilfe in die Rechte des Opfers gegen den Täter oder die zivilrechtlich haftende Partei ein. 
+§ 2 - Der Staat kann die vollständige oder teilweise Rückzahlung der gewährten Hilfe verlangen, 
+wenn das Opfer nach erfolgter Zahlung in irgendeiner Eigenschaft Schadenersatz für seinen Schaden bekommt.Vor 
+dem Einreichen einer Klage auf Rückzahlung gibt die Kommission dem Minister der Finanzen eine mit Gründen 
+versehene Stellungnahme ab. § 3 - Der Staat kann die vollständige oder teilweise Rückzahlung 
+der Hilfe verlangen, wenn diese ganz oder teilweise aufgrund falscher oder unvollständiger Erklärungen 
+des Antragstellers gewährt worden ist.Der Königliche Erlass vom 31. Mai 1933 über die in Sachen 
+Zuschüsse, Entschädigungen und Beihilfen jeglicher Art, die ganz oder teilweise zu Lasten des Staates 
+fallen, abzugebenden Erklärungen ist anwendbar. § 4 - Unbeschadet des in Artikel 31bis 
+§ 1 Nr. 5 und § 2 Nr. 4 und in Artikel 42quinquies § 1 Nr. 3 und § 2 Nr. 
+3 erwähnten Subsidiaritätsprinzip der finanziellen Hilfe tritt der Staat ebenfalls von Rechts wegen in 
+Höhe des Betrags der gewährten Hilfe in die Rechte des Antragstellers gegenüber dem Versicherer ein, 
+der infolge des Terrorakts oder der in Artikel 42quinquies § 2 erwähnten Tat zugunsten des Antragstellers 
+eingreifen könnte.Der Antragsteller muss dem Sekretariat der Kommission alle zweckdienlichen 
+Informationen über die Versicherungen zukommen lassen, die infolge des in Artikel 42bis Absatz 1 erwähnten 
+Terrorakts oder der in Artikel 42quinquies § 2 erwähnten Tat zu seinen Gunsten eingreifen könnten 
+gemäß dem Königlichen Erlass vom 31. Mai 1933 über die in Sachen Zuschüsse, Entschädigungen und 
+Beihilfen abzugebenden Erklärungen.Wenn die Surrogation aufgrund der Vorgehensweise des Antragstellers 
+nicht mehr zugunsten des Staates wirksam werden kann, kann dieser die gewährte Hilfe im Verhältnis zum 
+entstandenen Nachteil beim Antragsteller zurückfordern."Art. 9. In Kapitel 3 Abschnitt 4 desselben 
+Gesetzes wird ein Unterabschnitt 3 mit der Überschrift "Sonderbestimmung in Bezug auf die Finanzierung 
+der in Artikel 3 Absatz 3 des Gesetzes vom 18. Juli 2017 zur Schaffung des Status der nationalen Solidarität, 
+zur Gewährung einer Wiedergutmachungspension und zur Erstattung der medizinischen Versorgung infolge 
+von Terrorakten erwähnten Opfer" eingefügt.Art. 10. In Unterabschnitt 3, eingefügt durch Artikel 
+10, wird ein Artikel 42septiesdecies mit folgendem Wortlaut eingefügt:"Art. 42septiesdecies 
+- Die Kosten für die Gewährung der finanziellen Vorteile, die auf die Zuerkennung des Status der nationalen 
+Sicherheit an die in Artikel 3 Absatz 3 des Gesetzes vom 18. Juli 2017 zur Schaffung des Status der nationalen 
+Solidarität, zur Gewährung einer Wiedergutmachungspension und zur Erstattung der medizinischen Versorgung 
+infolge von Terrorakten erwähnten Opfer zurückzuführen sind, werden auf den in den Artikeln 28 und 42bis 
+Absatz 5 erwähnten Fonds angerechnet."KAPITEL 3 - Abänderungen des Gesetzes vom 18. Juli 2017 
+zur Schaffung des Status der nationalen Solidarität, zur Gewährung einer Wiedergutmachungspension und 
+zur Erstattung der medizinischen Versorgung infolge von TerroraktenArt. 11. Artikel 3 des Gesetzes 
+vom 18. Juli 2017 zur Schaffung des Status der nationalen Solidarität, zur Gewährung einer Wiedergutmachungspension 
+und zur Erstattung der medizinischen Versorgung infolge von Terrorakten wird wie folgt abgeändert:1. 
+In Absatz 2 werden die Wörter "In Abweichung von Absatz 1 ist vorliegendes Gesetz" durch die Wörter "Vorliegendes 
+Gesetz ist" ersetzt.2. Absatz 3 wird durch die folgenden drei Absätze ersetzt:"Vorliegendes 
+Gesetz ist anwendbar auf Opfer und ihre Anspruchsberechtigten, die gemäß Absatz 2 die belgische 
+Staatsangehörigkeit nicht besitzen und nicht ihren gewöhnlichen Wohnort in Belgien hatten. Der König 
+bestimmt die praktischen Modalitäten, gemäß denen die Bestimmungen des vorliegenden Gesetzes Anwendung 
+finden. Die Kosten für die Gewährung der finanziellen Vorteile, die auf die Zuerkennung des Status der 
+nationalen Sicherheit an die im vorliegenden Absatz erwähnten Opfer zurückzuführen sind, werden auf den 
+in den Artikel 28 und 42bis Absatz 5 des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher 
+und anderer Bestimmungen erwähnten Fonds angerechnet.Das in Absatz 3 erwähnte Opfer kann vorrangig 
+den im vorliegenden Gesetz erwähnten Status und die damit verbundenen Vorteile beantragen.Unbeschadet 
+des Absatzes 4 können die im vorliegenden Gesetz vorgesehenen Vorteile nicht zusammen mit einem gleichwertigen 
+Solidaritätsmechanismus des Staates bezogen werden, dessen Staatsangehöriger das Opfer ist oder in dem 
+es seinen gewöhnlichen Wohnort hat, wenn das Opfer es vorzieht, darauf zurückzugreifen."Art. 
+12. In Artikel 10 § 3 Absatz 3 desselben Gesetzes werden die Wörter "kann die Kommission eine 
+Erstattung gewähren, die sie im Hinblick auf die Genesung des Opfers angemessen festlegt" durch die Wörter 
+"kann der für die sozialen Angelegenheiten zuständige Minister auf Stellungnahme der Kommission eine 
+Erstattung gewähren, die im Hinblick auf die Genesung des Opfers angemessen festgelegt wird. Der Minister 
+kann unter seiner Verantwortung und Kontrolle die ihm durch vorliegenden Absatz zugeteilten Befugnisse 
+an den Generalverwalter der Hilfskasse für Kranken- und Invalidenversicherung übertragen."KAPITEL 
+4 - ÜbergangsbestimmungArt. 13. Artikel 6 des vorliegenden Gesetzes findet Anwendung, auch 
+wenn eine Akte bereits vor Inkrafttreten des vorliegenden Gesetzes eingereicht und von der Kommission 
+abgeschlossen worden ist. Antragsteller, deren Akten bereits vor Inkrafttreten des vorliegenden Gesetzes 
+abgeschlossen wurde, müssen binnen einem Jahr nach Inkrafttreten des vorliegenden Gesetzes einen Antrag 
+einreichen.KAPITEL 5 - SchlussbestimmungArt. 14. Der König ist mit der Koordinierung 
+der Abschnitte 2 und 4 von Kapitel 3 des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher 
+und anderer Bestimmungen in der Form "Koordinierter Gesetze über die finanzielle Hilfe zugunsten von 
+Opfern vorsätzlicher Gewalttaten und von Gelegenheitsrettern" beauftragt. Zu diesem Zweck kann er die 
+Artikel der Abschnitte teilen und neu nummerieren und neue Unterteilungen im Text vornehmen.KAPITEL 
+6 - InkrafttretenArt. 15. Mit Ausnahme der Artikel 10 bis 13, die seit dem 22. März 2016 wirksam 
+sind, tritt vorliegendes Gesetz am Tag des Inkrafttretens des Gesetzes vom 3. Februar 2019 zur Abänderung 
+des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher und anderer Bestimmungen hinsichtlich 
+der Befugnisse der Kommission für finanzielle Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten und 
+von Gelegenheitsrettern in Bezug auf Terroropfer in Kraft.Wir fertigen das vorliegende Gesetz 
+aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 15. Januar 2019PHILIPPEVon Königs wegen:Der 
+Minister der JustizK. GEENSMit dem Staatssiegel versehen:Der Minister der 
+Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020043062
+

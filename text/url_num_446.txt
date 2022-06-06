@@ -1,0 +1,115 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/15/2021030384/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-10Numac : 2021030384
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 15 FEBRUARI 2021. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 62 betreffende de subsidiëring van de aankoop van materiaal voor online-onderwijs in het onderwijs voor sociale promotie in het kader van de COVID-19-gezondheidscrisis 
+De regering van de Franse Gemeenschap,Gelet 
+op het decreet van 14 november 2020 tot toekenning aan de regering van bijzondere machten om het hoofd 
+te bieden aan de tweede golf van de COVID-19-gezondheidscrisis, artikel 1, § 1, b), f) en h);Gelet 
+op het advies van de Raad van State nr. 68.818/2, uitgebracht op 10 februari 2021, met toepassing van 
+artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973 en van artikel 2, tweede lid, van het decreet van 14 november 2020 tot toekenning aan de regering 
+van bijzondere machten om het hoofd te bieden aan de tweede golf van de COVID-19-gezondheidscrisis;Overwegende 
+het advies van de inspecteur van Financiën, uitgebracht op 29 januari 2021;Overwegende de akkoordbevinding 
+van de minister van Begroting van 4 februari 2021;Overwegende de pandemie in verband met de 
+verspreiding van COVID-19 en de daaruit voortvloeiende grootschalige gezondheidscrisis, inzonderheid 
+in België;Overwegende dat het gezondheidsprotocol dat na de pandemie is aangenomen, afstandsonderwijs 
+vereist;Overwegende de moeilijkheden die afstandsonderwijs met zich meebrengt voor instellingen 
+en studenten, omdat zij niet allemaal toegang hebben tot adequate uitrusting om on-line-onderwijs te 
+organiseren of te volgen;Overwegende deze crisis, en inzonderheid de organisatie van activiteiten 
+op het gebied van afstandsonderwijs, ook tot gevolg heeft gehad dat de pedagogische en morele problemen 
+zijn toegenomen, evenals het risico dat studenten afhaken;Overwegende dat het dus absoluut 
+noodzakelijk is te voorzien in adequate uitrusting om online-onderwijs mogelijk te maken;Overwegende 
+de dringende noodzakelijkheid die is ontstaan doordat er snel maatregelen moesten worden getroffen om 
+te voorzien in de nieuwe materiële behoeften die het gevolg zijn van de huidige pandemie;Overwegende 
+dat het dan ook dringend noodzakelijk is dat onderwijsinstellingen voor sociale promotie een subsidie 
+krijgen waarmee zij de nodige investeringen in online-onderwijs kunnen doen; Op de voordracht 
+van de minister van het Onderwijs voor sociale promotie;Na beraadslaging,Besluit 
+: Artikel 1. Een eenmalige en uitzonderlijke subsidie van 2.145.780 euro wordt in 2021 toegekend 
+aan de inrichtende machten van het onderwijs voor sociale promotie, om de materiële kosten te dekken 
+die verband houden met online-onderwijs en die worden opgelegd door de crisis van COVID-19. Deze subsidie 
+komt ten laste van het begrotingsonderdeel "2.5.04 Sociale promotie" van de "Cel voor Noodhulp en Herschikking" 
+van SACA, zoals ingesteld bij het programmadecreet van 9 december 2020 betreffende diverse maatregelen 
+om de gevolgen van de coronaviruscrisis op te vangen, Schoolgebouwen, Begrotingsfondsen, Fonds Ecureuil, 
+WBE, Gezondheid, Media, Permanente Opvoeding, Studiebeurzen, Wetenschappelijk onderzoek en Leerplichtonderwijs 
+- Titel I.Art. 2. Het in artikel 1 bedoelde bedrag wordt verdeeld over de inrichtende machten 
+van het onderwijs voor sociale promotie in verhouding tot het aantal regelmatig ingeschreven leerlingen 
+in 2018-2019.Art. 3. De in artikel 1 bedoelde subsidie is bedoeld om de begunstigden in staat 
+te stellen bij wijze van ontvankelijke uitgaven de kosten te dekken in verband met de aanschaf van materiaal 
+dat noodzakelijk is voor het online-onderwijs. Dit materiaal wordt ter beschikking gesteld van de lerenden 
+(computers, tablets, enz.) of van de leraren ter ondersteuning en ontwikkeling van online-onderwijs (camera, 
+interactief whiteboard, groene achtergrond, enz.). Zowel voor de leerlingen als voor de leerkrachten 
+gebeurt deze voorziening in de vorm van een kosteloze lening. Deze gratis verstrekking wordt geregeld 
+in een tussen de instelling voor sociale promotie en de begunstigde van de verstrekking (of diens wettelijke 
+vertegenwoordiger indien de begunstigde minderjarig is) te sluiten verstrekkingsovereenkomst.Wat 
+het uitlenen van apparatuur aan leerlingen betreft, staat het de directie van onderwijsinstellingen voor 
+sociale promotie en hun onderwijsteams vrij om de computerapparatuur toe te wijzen overeenkomstig de 
+bekende en vastgestelde behoeften van de in hun instelling ingeschreven leerlingen. Deze uitrusting moet 
+echter bij voorrang worden verstrekt aan lerenden (of hun wettelijke vertegenwoordiger indien zij minderjarig 
+zijn) die niet over de financiële draagkracht beschikken om de uitrusting zelf aan te schaffen. Naast 
+deze prioritaire leerlingen zal het materiaal ter beschikking worden gesteld volgens de volgende prioriteiten: 
+- aan leerlingen die zijn ingeschreven voor een diplomajaar;- aan de leerlingen die 
+zijn ingeschreven in de onderwijseenheden die het meest te maken hebben met de organisatie van het afstandsonderwijs.Art. 
+4. De subsidie wordt uitbetaald na overlegging van de volgende documenten aan de administratieve diensten: 
+- een verklaring op erewoord die de bestemming van het gekochte materiaal rechtvaardigt;- 
+bestelformulieren;- facturen betreffende de aankoop van de uitrusting;- rekeningafschriften 
+met betrekking tot de betaling van de genoemde facturen.Een aanvraag om betaling van de subsidie 
+die niet vergezeld gaat van alle in het eerste lid bedoelde documenten, wordt niet in aanmerking genomen.De 
+documenten waaruit blijkt dat de wetgeving inzake overheidsopdrachten is nageleefd, moeten worden bewaard 
+bij de inrichtende machten en op verzoek ter beschikking worden gesteld van de diensten van de administratie.De 
+aanvragen om betaling van de subsidie moeten, samen met alle bewijsstukken, uiterlijk op 31 oktober 2021 
+in het bezit zijn van de administratieve diensten. Art. 5. Om voor vergoeding in aanmerking 
+te komen, moet de apparatuur tussen 1 maart 2020 en 30 juni 2021 bij de leverancier zijn besteld. Art. 
+6. Dit besluit treedt in werking de dag waarop het wordt ondertekend.Art. 7. De minister die 
+het onderwijs voor sociale promotie in zijn bevoegdheid heeft, is belast met de uitvoering van dit besluit. 
+Brussel, 15 februari 2021.De minister-president,P.-Y. JEHOLETDe 
+minister van Hoger Onderwijs, Onderwijs voor Sociale Promotie, Universitaire Ziekenhuizen, Hulpverlening 
+aan de Jeugd, Justitiehuizen, Jeugd, Sport en de Promotie van Brussel,V. GLATIGNY   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-10Numac : 2021030384
+

@@ -1,0 +1,380 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/28/2020042562/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-08-03Numac : 2020042562
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 28 JULI 2020. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+28 juli 2020 houdende wijziging van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 28 juli 2020).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES28. JULI 2020 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Der Minister der Sicherheit und des InnernAufgrund des Gesetzes 
+vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes vom 5. August 
+1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über 
+die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen Erlasses vom 
+30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. Dezember 2013 zur 
+Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender Erlass 
+von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 28. Juli 2020;Aufgrund der am 28. Juli 2020 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Nationalen Sicherheitsrates vom 27. Juli 2020 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu erneuern 
+und andere anzupassen;In Erwägung der Konzertierungen zwischen den Regierungen der Gliedstaaten 
+und den zuständigen föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. und 27. März 
+2020, am 15. und 24. April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 2020 und am 
+10., 15., 23. und 27. Juli 2020 zusammengetreten ist;In Erwägung des Artikels 191 des Vertrags 
+über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen der Bewältigung 
+einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen Krisenfall verankert 
+ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, dass ein ernstes 
+Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen ergreifen 
+müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) der Verordnung (UE) 2016/679 des Europäischen 
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener 
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In Erwägung der Erklärung 
+der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich der hohen 
+Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 von der WHO vorgenommenen 
+Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die WHO am 16. März 
+2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das die Weltwirtschaft 
+destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung der Erklärung des Regionaldirektors 
+der WHO für Europa vom 3. Juni 2020, wonach der Übergang zu einer "neuen Normalität" auf den Grundsätzen 
+der Volksgesundheit und auf wirtschaftlichen und gesellschaftlichen Überlegungen fußen muss und 
+dass die Entscheidungsträger auf allen Ebenen dem Leitgrundsatz eines schrittweisen und behutsamen Übergangs 
+folgen müssen;In Erwägung der Verbreitung des Coronavirus COVID-19 auf dem europäischen Gebiet 
+und in Belgien; dass die Gesamtzahl der Ansteckungen weiter ansteigt;In Erwägung der vom Coronavirus 
+COVID-19 ausgehenden Gesundheitsgefahr für die belgische Bevölkerung und der daraus entstehenden Dringlichkeit;In 
+der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und 
+die Atemwege befällt;In der Erwägung, dass das Coronavirus COVID-19 offenbar von Mensch zu 
+Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar auf alle möglichen 
+Verbreitungsarten durch Mund und Nase erfolgt;In Erwägung der Anzahl erkannter Infektionsfälle 
+und der Anzahl Todesfälle in Belgien seit dem 13. März 2020;In Erwägung der Stellungnahme des 
+Hohen Rates für Selbständige und KMB vom 22. April 2020;In der Erwägung, dass das gesamte nationale 
+Hoheitsgebiet von der Gefahr betroffen ist; dass es im allgemeinen Interesse liegt, dass die ergriffenen 
+Maßnahmen zur Aufrechterhaltung der öffentlichen Ordnung kohärent sind, wodurch ihre Effizienz 
+maximiert wird;In der Erwägung, dass angesichts des Vorhergehenden bestimmte Zusammenkünfte 
+in geschlossenen und überdachten Orten, aber auch unter freiem Himmel noch stets ein besonderes Risiko 
+für die Gesundheit der Bevölkerung darstellen;In der Erwägung, dass eine polizeiliche Maßnahme 
+zur Beschränkung und Überwachung von Zusammenkünften von mehr als 10 Personen folglich unerlässlich und 
+verhältnismäßig ist;In der Erwägung, dass die vorerwähnte Maßnahme dazu führt, 
+dass einerseits die Anzahl akuter Ansteckungen verringert wird und folglich den Intensivstationen ermöglicht 
+wird, die am schwersten getroffenen Patienten unter bestmöglichen Bedingungen aufzunehmen, und dass andererseits 
+den Forschern mehr Zeit gegeben wird, um effiziente Behandlungsmethoden und Impfstoffe zu entwickeln; 
+dass diese Maßnahme auch eine Kontaktrückverfolgung erleichtert;In Erwägung des Berichts 
+der Expertengruppe für die Exit Strategy (GEES) vom 22. April 2020, der ein stufenweises Konzept für 
+die schrittweise Rücknahme der Maßnahmen enthält und sich hauptsächlich auf drei wesentliche Aspekte 
+stützt, und zwar das Tragen einer Schutzmaske, Testing und Tracing; dass der Bericht ein Gleichgewicht 
+zwischen der Erhaltung der körperlichen und geistigen Gesundheit, der Erfüllung pädagogischer Aufträge 
+im Bereich des Unterrichtswesens und der Wiederaufnahme der Wirtschaft anstrebt; dass die GEES aus Experten 
+aus verschiedenen Bereichen zusammengesetzt ist, insbesondere aus Ärzten, Virologen und Wirtschaftsexperten;In 
+Erwägung der Gutachten der GEES und der Stellungnahmen des CELEVAL;In Erwägung der Stellungnahme 
+des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Phönix-Plans für einen Neustart 
+des Handels von Comeos;In Erwägung des "Leitfadens für die Öffnung der Geschäfte zur Eindämmung 
+der Ausbreitung von COVID-19", der auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur 
+Verfügung gestellt wird;In Erwägung des "Allgemeinen Leitfadens zur Eindämmung der Ausbreitung 
+von COVID-19 am Arbeitsplatz", der auf der Website des Föderalen Öffentlichen Dienstes Beschäftigung, 
+Arbeit und Soziale Konzertierung zur Verfügung gestellt wird;In Erwägung des "Leitfadens für 
+eine sichere Wiederaufnahme des Gaststättengewerbes zur Eindämmung der Ausbreitung von COVID-19", der 
+auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt wird;In 
+Erwägung der Protokolle, die von den zuständigen Ministern in Konzertierung mit den betreffenden Sektoren 
+bestimmt werden;In der Erwägung, dass ein Bürgermeister, wenn er feststellt, dass Tätigkeiten 
+unter Verstoß gegen den vorliegenden Ministeriellen Erlass oder die anwendbaren Protokolle ausgeübt 
+werden, im Interesse der Volksgesundheit die verwaltungsrechtliche Schließung der betreffenden 
+Niederlassung anordnen kann;In Erwägung des Königlichen Erlasses vom 22. Mai 2019 über die 
+Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler und provinzialer Ebene und über 
+die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, 
+die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des 
+Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung 
+und des Krisenmanagements in Bezug auf das Coronavirus COVID-19;In Erwägung des Gesetzes vom 
+4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit und seiner Ausführungserlasse;In 
+Erwägung der Konzertierung im Konzertierungsausschuss;In der Erwägung, dass die durchschnittliche 
+Zahl der neuen Fälle von Ansteckung mit dem Coronavirus COVID-19 in Belgien am 26. Juli 2020 auf 255 
+bestätigte positive Fälle pro Tag gestiegen ist; dass es sich dabei um eine Verdreifachung im Vergleich 
+zu der Situation von vor drei Wochen handelt;In der Erwägung, dass die Reproduktionsrate R 
+für Belgien derzeit auf 1,3 geschätzt wird, mit einem nationalen Durchschnitt von 24,6 positiv getesteten 
+Einwohnern pro 100.000 Einwohner laut den Zahlen des Europäischen Zentrums für die Prävention und die 
+Kontrolle von Krankheiten;In der Erwägung, dass im Bericht des CELEVAL vom 26. Juli 2020 festgestellt 
+worden ist, dass in Belgien eine zweite Welle von COVID-19-Coronavirus-Infektionen begonnen hat, und 
+dass die Folgen davon auch in der zunehmenden Zahl der Krankenhausaufnahmen sichtbar sind;In 
+der Erwägung, dass aufgrund dieser epidemiologischen Situation wieder eine drastische Reduzierung der 
+sozialen Kontakte erforderlich ist; dass die Kontaktblase folglich auf 5 Personen, bei denen es sich 
+immer um dieselben Personen handeln muss, herabgesetzt wird und dass private Zusammenkünfte auf 10 Personen 
+beschränkt werden;In der Erwägung, dass es aufgrund dieser ungünstigen Entwicklung auch erforderlich 
+ist, die Höchstanzahl der Personen, die an bestimmten Zusammenkünften teilnehmen dürfen, zu verringern; 
+dass die Experten mehrfach darauf hingewiesen haben, dass das Tanzen in diesem Zusammenhang ein sehr 
+hohes Risiko der Übertragung des Virus birgt; dass das Tanzen daher in Betrieben des Hotel- und Gaststättengewerbes 
+und bei bestimmten Arten von genehmigten Veranstaltungen weiterhin verboten ist;In der Erwägung, 
+dass der Nationale Sicherheitsrat vom 23. Juli 2020 beschlossen hatte, die Registrierung personenbezogener 
+Daten im Hotel- und Gaststättengewerbe zur Pflicht zu machen; dass diese Daten für die Optimierung der 
+Rückverfolgung von Kontakten und Infektionsquellen entscheidend sein können; dass es in der gegenwärtigen 
+epidemiologischen Situation, die sich verschlechtert hat, umso notwendiger ist, alle Anstrengungen zu 
+unternehmen, um die Infektionsherde, in denen sich das Virus ausbreitet, zu ermitteln und die Ausbreitung 
+des Virus so schnell wie möglich zu begrenzen; dass es demzufolge auch notwendig ist, die Registrierungspflicht 
+auf andere Orte zu erweitern, an denen Gruppen von Personen eine längere Zeit aktiv zusammen verbringen, 
+wie z.B. Wellnesszentren, Schwimmbäder, Kasinos und Automatenspielhallen;In der Erwägung, dass 
+bald die Ausverkaufssaison beginnt und dass dies zu einem großen Zustrom von Kunden in den Geschäften 
+führen kann; dass CELEVAL wieder empfiehlt, seine Einkäufe allein oder eventuell in Begleitung eines 
+Minderjährigen oder einer hilfsbedürftigen Person während eines Zeitraums von 30 Minuten (außer 
+bei Terminvereinbarung) zu tätigen;In der Erwägung, dass im Hinblick auf die Einhaltung aller 
+Gesundheitsempfehlungen und des Social Distancing noch immer an das Verantwortungsbewusstsein und die 
+Solidarität jedes Bürgers appelliert wird;In der Erwägung, dass das Tragen einer Schutzmaske 
+oder einer anderen Alternative aus Stoff eine wichtige Rolle bei der Strategie der schrittweisen Rücknahme 
+der Maßnahmen spielt; dass das Tragen einer Schutzmaske der Bevölkerung daher in allen Situationen, 
+in denen die Regeln des Social Distancing nicht eingehalten werden können, empfohlen wird, damit eine 
+Weiterverbreitung des Virus vermieden wird; dass das Tragen einer Schutzmaske in bestimmten Einrichtungen 
+und spezifischen Situationen Pflicht ist; dass die Maske nur für die unbedingt notwendige Zeit abgenommen 
+werden darf, z.B. zum Verzehr von Getränken und Speisen, zum Naseputzen oder zum Lippenlesen für Gehörlose 
+und Schwerhörige; dass das Tragen einer Schutzmaske jedoch nicht ausreicht und immer mit den anderen 
+Präventionsmaßnahmen einhergehen muss; dass Social Distancing die wichtigste und prioritäre Maßnahme 
+bleibt;In der Erwägung, dass es angesichts der jüngsten epidemiologischen Ergebnisse notwendig 
+geworden ist, die Verpflichtung, eine Schutzmaske zu tragen, auf andere Orte zu erweitern, um das Risiko 
+einer zweiten Ansteckungswelle so weit wie möglich einzudämmen;In der Erwägung, dass die Bürger 
+deutlich informiert werden müssen, wo und wann eine Maske getragen werden muss; dass daher die Uhrzeiten 
+ausgehängt werden müssen, zu denen diese Maßnahme in Kraft ist; dass der angegebene Zeitraum tatsächlich 
+mit den Uhrzeiten übereinstimmen muss, zu denen größere Menschenströme zu erwarten sind oder ein 
+erhöhtes Übertragungsrisiko besteht;In der Erwägung, dass die grundlegenden Hygienemaßnahmen 
+unerlässlich bleiben;In der Erwägung, dass Tätigkeiten im Freien nach Möglichkeit bevorzugt 
+werden sollten; dass, sofern dies nicht möglich ist, die Räume ausreichend durchgelüftet werden müssen;In 
+der Erwägung, dass es notwendig ist, in Bezug auf Personen, die zu einer Risikogruppe gehören, zusätzliche 
+Vorsichtsmaßnahmen zu treffen;In der Erwägung, dass, obschon die meisten Tätigkeiten 
+wieder erlaubt sind, es dennoch notwendig ist, Tätigkeiten, bei denen ein hohes Risiko der Weiterverbreitung 
+des Virus besteht, besondere Aufmerksamkeit zu widmen und Tätigkeiten, die zu einem zu engen Kontakt 
+zwischen den Beteiligten führen und/oder zu viele Menschen zusammenführen, weiterhin zu verbieten;In 
+der Erwägung, dass die Gesundheitslage regelmäßig bewertet wird; dass dies bedeutet, dass eine 
+Rückkehr zu strengeren Maßnahmen nie ausgeschlossen werden kann;Aufgrund der Dringlichkeit,Erlässt:Artikel 
+1 - Artikel 1 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird durch eine Nr. 6 mit folgendem Wortlaut 
+ergänzt:"6. "Haushalt": Personen, die unter demselben Dach wohnen."Art. 2 - Artikel 
+2 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur 
+Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Art. 2 - § 
+1 - Homeoffice wird dringend empfohlen für alle Unternehmen, Vereinigungen und Dienste gleich welcher 
+Größe, und zwar für alle Personalmitglieder, deren Funktion sich dazu eignet.Wird kein 
+Homeoffice angewandt, ergreifen nicht wesentliche Unternehmen und Vereinigungen die in § 2 erwähnten 
+Maßnahmen, um die Anwendung der Regeln des Social Distancing, insbesondere die Einhaltung eines 
+Abstands von 1,5 m zwischen den Personen, maximal zu gewährleisten.Wird kein Homeoffice angewandt, 
+ergreifen Unternehmen, die zu den in der Anlage zum vorliegenden Erlass aufgeführten Schlüsselsektoren 
+und wesentlichen Diensten gehören, einschließlich der Produzenten, Lieferanten, Unternehmer und 
+Subunternehmer von Gütern, Arbeiten und Dienstleistungen, die für die Tätigkeit dieser Unternehmen und 
+dieser Dienste wesentlich sind, die in § 2 erwähnten Maßnahmen, um die Regeln des Social 
+Distancing so gut wie möglich umzusetzen. § 2 - Unternehmen, Vereinigungen und Dienste 
+ergreifen rechtzeitig geeignete Präventionsmaßnahmen, um die Anwendung der in § 1 vorgesehenen 
+Regeln zu gewährleisten oder, falls dies nicht möglich ist, ein mindestens gleichwertiges Schutzniveau 
+zu gewährleisten.Bei diesen geeigneten Präventionsmaßnahmen handelt es sich um Sicherheits- 
+und Gesundheitsvorschriften materieller, technischer und/oder organisatorischer Art, wie sie im "Allgemeinen 
+Leitfaden zur Eindämmung der Ausbreitung von COVID-19 am Arbeitsplatz" definiert sind, der auf der Website 
+des Föderalen Öffentlichen Dienstes Beschäftigung, Arbeit und Soziale Konzertierung zur Verfügung gestellt 
+wird, ergänzt durch Leitlinien auf sektorieller Ebene und/oder auf Ebene des Unternehmens, und/oder andere 
+geeignete Maßnahmen, die ein mindestens gleichwertiges Schutzniveau bieten. Kollektive Maßnahmen 
+haben immer Vorrang vor individuellen Maßnahmen.Diese geeigneten Präventionsmaßnahmen 
+werden auf Ebene des Unternehmens, der Vereinigung oder des Dienstes ausgearbeitet und unter Einhaltung 
+der geltenden Regeln der sozialen Konzertierung oder, wenn dies nicht möglich ist, in Absprache mit den 
+betreffenden Arbeitnehmern und in Absprache mit den Diensten für Gefahrenverhütung und Schutz am Arbeitsplatz 
+beschlossen.Die Unternehmen, Vereinigungen und Dienste informieren die Arbeitnehmer rechtzeitig 
+über die geltenden Präventionsmaßnahmen und erteilen ihnen eine passende Schulung. Sie informieren 
+auch Dritte rechtzeitig über die geltenden Präventionsmaßnahmen.Arbeitgeber, Arbeitnehmer 
+und Dritte sind verpflichtet, die im Unternehmen, in der Vereinigung beziehungsweise im Dienst geltenden 
+Präventionsmaßnahmen anzuwenden. § 3 - Die Sozialinspektoren der Generaldirektion 
+Kontrolle des Wohlbefindens bei der Arbeit des Föderalen Öffentlichen Dienstes Beschäftigung, Arbeit 
+und Soziale Konzertierung sind beauftragt, Arbeitgeber und Arbeitnehmer der nicht wesentlichen Unternehmen 
+und Vereinigungen zu informieren und zu begleiten und gemäß dem Sozialstrafgesetzbuch für die Einhaltung 
+der in diesen Unternehmen und Vereinigungen geltenden Verpflichtungen gemäß den Paragraphen 1 und 
+2 zu sorgen."Art. 3 - Artikel 5 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt 
+ersetzt:"Art. 5 - In Betrieben des Hotel- und Gaststättengewerbes gelten für den Empfang von 
+Kunden mindestens folgende spezifische Modalitäten:1. Tische werden so angeordnet, dass ein 
+Abstand von mindestens 1,5 m zwischen ihnen gewährleistet ist, es sei denn, sie sind durch eine Plexiglasscheibe 
+oder eine gleichwertige Alternative mit einer Mindesthöhe von 1,8 m voneinander getrennt.2. 
+Höchstens 10 Personen pro Tisch sind erlaubt.3. Nur Sitzplätze an den Tischen sind erlaubt.4. 
+Jeder Kunde muss an seinem Tisch sitzen bleiben.5. Servicepersonal muss eine Schutzmaske oder, 
+wenn dies aus medizinischen Gründen nicht möglich ist, einen Gesichtsschutzschirm tragen.6. 
+Küchenpersonal muss eine Schutzmaske oder, wenn dies aus medizinischen Gründen nicht möglich ist, einen 
+Gesichtsschutzschirm tragen.7. Bedienung an der Theke ist nicht erlaubt, außer in Einpersonenbetrieben 
+unter Einhaltung eines Abstands von 1,5 m.8. Terrassen und öffentliche Plätze werden gemäß 
+den von den Gemeindebehörden erlassenen Vorschriften und unter Einhaltung derselben Regeln wie für Innenräume 
+organisiert.9. Schankstätten und Restaurants dürfen ab den üblichen Öffnungszeiten bis 1 Uhr 
+morgens offen sein, es sei denn, die Gemeindebehörde erlegt eine frühere Schließung auf, und müssen 
+ab 1 Uhr morgens während eines ununterbrochenen Zeitraums von mindestens fünf aufeinanderfolgenden Stunden 
+geschlossen bleiben.10. Bei Ankunft müssen zur Erleichterung einer eventuellen späteren Kontaktuntersuchung 
+Kontaktinformationen - die auf eine Telefonnummer oder eine E-Mail-Adresse beschränkt sein können - eines 
+Kunden pro Tisch registriert und während 14 Kalendertagen aufbewahrt werden. Diese Kontaktinformationen 
+dürfen zu keinen anderen Zwecken als zur Bekämpfung von COVID-19 verwendet werden, sie müssen nach 14 
+Kalendertagen vernichtet werden und die Kunden müssen ausdrücklich ihre Zustimmung geben. Kunden, die 
+sich weigern, ihre Kontaktinformationen zu hinterlassen, wird bei ihrer Ankunft der Zugang zur Einrichtung 
+verweigert."Art. 4 - Der Ministerielle Erlass vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird durch einen Artikel 6bis mit folgendem Wortlaut 
+ergänzt:"Art. 6bis - § 1 - Kontaktinformationen eines Besuchers oder Teilnehmers pro 
+Haushalt - die auf eine Telefonnummer oder eine E-Mail-Adresse beschränkt sein können - müssen bei Ankunft 
+an folgenden Orten registriert werden:- Wellnesszentren,- kollektiven Sportkursen,- 
+Schwimmbädern,- Kasinos und Automatenspielhallen,- Empfangs- und Festsälen. 
+§ 2 - In § 1 erwähnte Daten müssen zur Erleichterung einer eventuellen späteren Kontaktuntersuchung 
+während 14 Kalendertagen aufbewahrt werden und dürfen zu keinen anderen Zwecken als zur Bekämpfung von 
+COVID-19 verwendet werden.Sie müssen nach 14 Kalendertagen vernichtet werden und die Besucher 
+oder Teilnehmer müssen ausdrücklich ihre Zustimmung geben. Besuchern oder Teilnehmern, die sich weigern, 
+ihre Kontaktinformationen zu hinterlassen, wird bei ihrer Ankunft der Zugang zur Einrichtung verweigert."Art. 
+5 - Artikel 7 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Art. 7 - In 
+Einkaufszentren gelten für den Empfang von Kunden mindestens folgende spezifische Modalitäten:1. 
+Ein Kunde pro 10 m2 ist erlaubt für eine Dauer, die nicht über die notwendige und übliche 
+Dauer hinausgeht.2. Das Einkaufszentrum stellt Mitarbeitern und Kunden erforderliche Produkte 
+für die Handhygiene an Ein- und Ausgängen zur Verfügung.3. Das Einkaufszentrum erleichtert 
+die Wahrung eines Abstands von 1,5 m durch Bodenmarkierung und/oder Beschilderung.4. Es wird 
+alleine eingekauft während einer Dauer, die nicht über die notwendige und übliche Dauer hinausgeht.5. 
+In Abweichung von Nr. 4 darf ein Erwachsener Minderjährige, die unter demselben Dach wohnen, oder eine 
+hilfebedürftige Person begleiten."Art. 6 - Artikel 8 des Ministeriellen Erlasses vom 30. Juni 
+2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 wird wie folgt ersetzt:"Art. 8 - § 1 - Geschäfte dürfen an den gewohnten Tagen 
+und zu den üblichen Uhrzeiten geöffnet bleiben.Nightshops dürfen ab der normalen Öffnungszeit 
+bis 22 Uhr geöffnet bleiben. § 2 - Es wird alleine eingekauft und außer bei Terminvereinbarung 
+während eines Zeitraums von höchstens 30 Minuten. § 3 - In Abweichung von § 2 
+darf ein Erwachsener Minderjährige, die unter demselben Dach wohnen, oder eine hilfebedürftige Person 
+begleiten."Art. 7 - Artikel 10 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt 
+ersetzt:"Art. 10 - Die zuständigen Gemeindebehörden können Märkte einschließlich Trödel- 
+und Flohmärkten und Kirmessen unter folgenden Bedingungen erlauben:1. Die maximale Anzahl der 
+auf einem Markt zugelassenen Besucher beträgt ein Besucher pro 1,5 laufenden Meter Marktstand; dies gilt 
+nicht für Jahrmärkte.2. Die maximale Anzahl der auf einer Kirmes oder einem Jahrmarkt zugelassenen 
+Besucher beträgt 200 Besucher.3. Händler, Schausteller und ihr Personal sind für die Dauer 
+des Betriebs eines Stands verpflichtet, sich Mund und Nase zu bedecken, ob mit einer Schutzmaske oder 
+einer anderen Alternative aus Stoff oder, wenn dies aus medizinischen Gründen nicht möglich ist, mit 
+einem Gesichtsschutzschirm.4. Die zuständigen Gemeindebehörden stellen erforderliche Produkte 
+für die Handhygiene an den Ein- und Ausgängen der Märkte oder Kirmessen zur Verfügung.5. Händler 
+und Schausteller stellen ihren Mitarbeitern und ihren Kunden erforderliche Produkte für die Handhygiene 
+zur Verfügung.6. Händler und Schausteller dürfen unter Einhaltung der in Artikel 5 vorgesehenen 
+Modalitäten Speisen oder Getränke zum Verzehr vor Ort anbieten.7. Eine Organisation oder ein 
+System wird eingerichtet, um zu kontrollieren, wie viele Kunden auf dem Markt oder auf der Kirmes anwesend 
+sind.8. Ein Einbahnverkehrsplan mit getrennten Ein- und Ausgängen des Marktes oder der Kirmes 
+wird erstellt, sofern die zuständigen Gemeindebehörden wegen außergewöhnlicher Umstände nicht eine 
+mit Gründen versehene Ausnahmeerlaubnis gewähren und eine Alternativlösung festlegen.9. Auf 
+einem Markt wird alleine eingekauft während einer Dauer, die nicht über die notwendige und übliche Dauer 
+hinausgeht.10. In Abweichung von Nr. 9 darf ein Erwachsener Minderjährige, die unter demselben 
+Dach wohnen, oder eine hilfebedürftige Person begleiten.Unbeschadet des Artikels 4 und unbeschadet 
+der Aufträge der Rettungs- und Einsatzdienste wird der Zugang zu Märkten und Kirmessen von den zuständigen 
+Gemeindebehörden so organisiert, dass die Regeln des Social Distancing eingehalten werden, insbesondere 
+die Wahrung eines Abstands von 1,5 m zwischen den Personen, wie auch andere angemessene Schutzmaßnahmen, 
+die ein mindestens gleichwertiges Schutzniveau wie diejenigen im "Leitfaden für die Öffnung der Geschäfte 
+zur Eindämmung der Ausbreitung von COVID-19" bieten."Art. 8 - Artikel 11 des Ministeriellen 
+Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 wird wie folgt ersetzt:"Art. 11 - § 1 - Sofern in vorliegendem 
+Erlass nicht anders vorgesehen, sind Zusammenkünfte von mehr als 10 Personen, Kinder unter 12 Jahren 
+nicht einbegriffen, nur unter den durch vorliegenden Artikel vorgesehenen Bedingungen und für die durch 
+vorliegenden Artikel zugelassenen Aktivitäten erlaubt. Unter "Zusammenkünften" sind ebenfalls Empfänge 
+und Bankette mit privatem Charakter zu verstehen. § 2 - Höchstens 50 Personen dürfen 
+an folgenden Aktivitäten teilnehmen:1. Aktivitäten in einem organisierten Rahmen, insbesondere 
+durch einen Club oder eine Vereinigung, immer in Anwesenheit eines erwachsenen Trainers oder einer erwachsenen 
+Begleit- oder Aufsichtsperson,2. Lagern und Sommeranimationen unter Einhaltung der in Artikel 
+15 vorgesehenen Regeln. § 3 - Höchstens 100 Personen dürfen an folgenden Aktivitäten 
+teilnehmen:1. zivilen Eheschließungen,2. Beerdigungen und Einäscherungen, die 
+nicht unter Nr. 3 vorgesehen sind, ohne Möglichkeit einer Aufbahrung des Leichnams,3. kollektiven 
+Ausübungen des Kults und kollektiven Ausübungen nichtkonfessionellen moralischen Beistands und Aktivitäten 
+innerhalb einer philosophischen nichtkonfessionellen Vereinigung unter Einhaltung der in Artikel 14 vorgesehenen 
+Regeln. § 4 - Ein Publikum von höchstens 100 Personen darf Ereignissen, Vorführungen, 
+öffentlich zugänglichen Sitzempfängen und -banketten und Wettkämpfen beiwohnen, die drinnen veranstaltet 
+werden, unter Einhaltung der in Artikel 4 Absatz 2 oder im anwendbaren Protokoll vorgesehenen Modalitäten 
+und unbeschadet des Artikels 5.Ein Publikum von höchstens 200 Personen darf Ereignissen, Vorführungen, 
+öffentlich zugänglichen Sitzempfängen und -banketten und Wettkämpfen beiwohnen, sofern sie draußen 
+veranstaltet werden, unter Einhaltung der in Artikel 4 Absatz 2 oder im anwendbaren Protokoll vorgesehenen 
+Modalitäten und unbeschadet des Artikels 5.Werden Ereignisse, Vorführungen, öffentlich zugängliche 
+Sitzempfänge oder -bankette oder Wettkämpfe auf öffentlicher Straße veranstaltet, ist gemäß 
+Artikel 13 die vorherige Genehmigung der zuständigen Gemeindebehörden erforderlich. § 
+5 - Höchstens 200 Teilnehmer dürfen statischen Kundgebungen beiwohnen, die auf öffentlicher Straße 
+stattfinden, wo das Social Distancing eingehalten werden kann und die gemäß Artikel 13 vorher von 
+den zuständigen Gemeindebehörden genehmigt wurden. § 6 - Unbeschadet eines eventuellen 
+Protokolls und unbeschadet der von der zuständigen Gemeindebehörde bestimmten Richtlinien und/oder Einschränkungen 
+darf jeder an Sportwettkämpfen teilnehmen.Wird ein Sportwettkampf für mehr als 200 Teilnehmer 
+oder auf öffentlicher Straße veranstaltet, ist gemäß Artikel 13 die vorherige Genehmigung 
+der zuständigen Gemeindebehörden erforderlich."Art. 9 - Artikel 13 des Ministeriellen Erlasses 
+vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des 
+Coronavirus COVID-19 wird wie folgt ersetzt:"Art. 13 - Die zuständigen Gemeindebehörden benutzen 
+die ihnen zur Verfügung gestellte Matrix, die der Nationale Sicherheitsrat in seiner Sitzung vom 24. 
+Juni 2020 vorgesehen hat, wenn sie einen Genehmigungsbeschluss fassen in Bezug auf die Veranstaltung 
+von:1. in Artikel 11 § 4 Absatz 3 erwähnten Ereignissen, Vorführungen oder Wettkämpfen,2. 
+in Artikel 11 § 5 erwähnten Kundgebungen,3. in Artikel 11 § 6 Absatz 2 erwähnten 
+Sportwettkämpfen.In Artikel 11 § 4 erwähnte Kirmessen und Sitzempfänge und -bankette, 
+in Artikel 11 § 4 erwähnte Ereignisse, Vorführungen und Wettkämpfe, in Artikel 11 § 5 erwähnte 
+Kundgebungen und in Artikel 11 § 6 erwähnte Sportwettkämpfe dürfen nicht zwischen 1 Uhr morgens 
+und 6 Uhr morgens stattfinden."Art. 10 - Artikel 14 des Ministeriellen Erlasses vom 30. Juni 
+2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 wird wie folgt ersetzt:"Art. 14 - Die kollektive Ausübung des Kults, die kollektive 
+Ausübung nichtkonfessionellen moralischen Beistands und Aktivitäten innerhalb einer philosophischen nichtkonfessionellen 
+Vereinigung und individuelle Besuche in Gebäuden zur Ausübung eines Kults und Gebäuden zur öffentlichen 
+Ausübung nichtkonfessionellen moralischen Beistands sind erlaubt.Die repräsentativen Organe 
+der Kulte und der Organisationen, die moralischen Beistand gemäß einer nichtkonfessionellen Weltanschauung 
+leisten, ergreifen die erforderlichen Maßnahmen und sehen Leitlinien vor, und zwar unter Einhaltung 
+der folgenden Bedingungen:1. Einhaltung der Regeln des Social Distancing, insbesondere Wahrung 
+eines Abstands von 1,5 m zwischen den Personen, außer für Personen, die unter demselben Dach wohnen,2. 
+Einhaltung der zuvor festgelegten Höchstanzahl von Personen pro Gebäude, mit höchstens 100 Personen pro 
+Gebäude,3. Verbot von Körperkontakt zwischen Personen und Anfassen von Gegenständen durch mehrere 
+Personen,4. Zurverfügungstellung der erforderlichen Produkte für die Handhygiene an Ein- und 
+Ausgängen."Art. 11 - Artikel 20 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt 
+ersetzt:"Art. 20 - Unbeschadet des Artikels 11 darf jeder Haushalt höchstens 5 Personen, immer 
+dieselben, im Rahmen von privaten Zusammenkünften treffen, einschließlich Treffen an Orten, die 
+für die Öffentlichkeit zugänglich sind. Kinder unter 12 Jahren werden in diesen 5 Personen nicht mitgerechnet."Art. 
+12 - Artikel 21bis des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Art. 21bis 
+- Ab dem Alter von 12 Jahren ist jeder verpflichtet, an folgenden Orten Mund und Nase mit einer Maske 
+oder einer anderen Alternative aus Stoff zu bedecken:1. in Geschäften und Einkaufszentren,2. 
+in Kinos,3. in Veranstaltungs-, Konzert- oder Konferenzsälen,4. in Hörsälen,5. 
+in Kultstätten,6. in Museen,7. in Bibliotheken,8. in Kasinos und Automatenspielhallen,9. 
+in Geschäftsstraßen und an belebten privaten oder öffentlichen Orten, die die zuständigen Gemeindebehörden 
+bestimmen und die durch entsprechenden Anschlag mit Angabe der Uhrzeiten, zu denen diese Verpflichtung 
+gilt, gekennzeichnet sind,10. in öffentlichen Gebäuden (in den für die Öffentlichkeit zugänglichen 
+Gebäudeteilen),11. auf Märkten, einschließlich Trödel- und Flohmärkten, Kirmessen und 
+Handelsmessen, einschließlich Handelsausstellungen,12. in Betrieben des Hotel- und Gaststättengewerbes, 
+außer wenn Kunden an ihrem eigenen Tisch sitzen,13. bei den in Artikel 11 § 3 
+erwähnten Aktivitäten,14. bei den in Artikel 11 § 4 erwähnten Ereignissen,15. 
+bei den in Artikel 11 § 5 erwähnten Kundgebungen.Ist das Tragen einer Schutzmaske oder 
+einer Alternative aus Stoff aus medizinischen Gründen nicht möglich, kann ein Gesichtsschutzschirm benutzt 
+werden."Art. 13 - Vorliegender Erlass tritt am 29. Juli 2020 in Kraft.Brüssel, den 
+28. Juli 2020P. DE CREM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-08-03Numac : 2020042562
+

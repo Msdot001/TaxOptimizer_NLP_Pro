@@ -1,0 +1,85 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/04/03/2020020860/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-27Numac : 2020020860
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 3 APRIL 2019. - Koninklijk besluit tot wijziging van het KB/WIB 92, op het stuk van de revalorisatiecoëfficiënt voor kadastrale inkomens. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling 
+van het koninklijk besluit van 3 april 2019 tot wijziging van het KB/WIB 92, op het stuk van de revalorisatiecoëfficiënt 
+voor kadastrale inkomens (Belgisch Staatsblad van 19 april 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN3. APRIL 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92hinsichtlich 
+des Neubewertungskoeffizienten für KatastereinkommenPHILIPPE, Konig der Belgier, Allen Gegenwartigen 
+und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 
+13;Aufgrund des KE/EStGB 92;Aufgrund der Stellungnahme des Finanzinspektors vom 18. 
+März 2019;Aufgrund des einzigen Artikels des Ministeriellen Erlasses vom 20. März 2000 zur 
+Gewährung einer Befugnisübertragung an die Finanzinspektion, in dem gemäß Artikel 9 des Königlichen 
+Erlasses vom 16. November 1994 über die Verwaltungs- und Haushaltskontrolle festgelegt wird, dass eine 
+günstige Stellungnahme des Finanzinspektors, der beim Ministerium der Finanzen akkreditiert worden ist, 
+unter anderem die Entwürfe von Königlichen Erlassen zur Festlegung des Neubewertungskoeffizienten für 
+Katastereinkommen (Artikel 1 des KE/EStGB 92) vom vorherigen Einverständnis des für den Haushalt zuständigen 
+Ministers befreit;Aufgrund der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat, 
+des Artikels 3 § 1;Aufgrund der Dringlichkeit;In der Erwägung, dass:- 
+in vorliegendem Erlass der Neubewertungskoeffizient festgelegt wird, der für das Steuerjahr 2020 für 
+die Bestimmung einiger Einkünfte aus unbeweglichen Gütern und für Berufseinkünfte von Unternehmensleitern 
+berücksichtigt werden muss,- der Berufssteuervorabzug 2019 auf die Berufseinkünfte von Unternehmensleitern 
+einbehalten werden muss, die der Steuer der natürlichen Personen in Bezug auf das Steuerjahr 2020 unterliegen,- 
+dieser Erlass daher in aller Dringlichkeit ergehen muss;Auf Vorschlag des Vizepremierministers 
+und Ministers der FinanzenHaben Wir beschloßen und erlassen Wir:Artikel 1 - 
+In der Tabelle des Artikels 1 des KE/EStGB 92, abgeändert durch die Königlichen Erlasse vom 22. Oktober 
+1993, 18. Februar 1994, 20. März 1995, 6. März 1996, 26. Februar 1997, 17. Dezember 1998, 29. Oktober 
+1999, 23. November 2000, 4. Februar 2002, 23. Januar 2003, 30. Juli 2003, 16. Juni 2004, 13. Juni 2005, 
+19. Mai 2006, 12. Februar 2007, 11. März 2008, 5. Februar 2009, 11. Februar 2010, 9. Februar 2011, 12. 
+März 2012, 18. Juli 2013, 19. Mai 2014, 29. Oktober 2015, 17. November 2016, 18. Juli 2017 und 24. Juni 
+2018, werden die Spalten des Steuerjahres und des Neubewertungskoeffizienten durch "2020" beziehungsweise 
+"4,57" ergänzt.Art. 2 - Vorliegender Erlass ist auf das Steuerjahr 2020 anwendbar.Art. 
+3 -  Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 3. April 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-27Numac : 2020020860
+

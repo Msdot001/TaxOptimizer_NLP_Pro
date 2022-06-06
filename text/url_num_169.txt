@@ -1,0 +1,300 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/11/2020041785/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-22Numac : 2020041785
+WAALSE OVERHEIDSDIENST 
+ 11 JUNI 2020. - Besluit van de Waalse Regering van bijzondere machten nr. 46 tot afwijking en aanvulling van het Wetboek van de plaatselijke democratie en de decentralisatie om de lokale financiën met zware schuldenlast als gevolg van de crisis COVID-19 te steunen en begrotingstekorten toe te laten 
+VERSLAG 
+AAN DE REGERINGDe buitengewone gezondheidscrisis in verband met COVID-19 die heden België treft 
+en de huidige en komende regels, genomen om de verspreiding van het virus onder de bevolking te beperken, 
+zijn van dien aard dat ze iedere vorm van activiteit op het grondgebied van het Waalse Gewest vertragen 
+en sommige diensten zelfs lamleggen. De economische lockdown en de aanbevelingen die ze gekregen 
+hebben, zijn nu en zullen later nog van grote invloed zijn op de gemeentelijke financiën, zowel wat de 
+ontvangsten als wat de uitgaven betreft, zowel rechtstreeks als onrechtstreeks, en dit voor alle entiteiten, 
+en met name de OCMW's.Daarom is het van belang de gemeenten te ondersteunen in hun mogelijkheid 
+tot handelen, ongeacht of het om inspanningen gaat in hun deelname aan en ondersteuning van de bestrijding 
+van de epidemie en haar gevolgen op economisch en sociaal vlak, dan wel om het waarborgen van hun financiële 
+draagkracht in het kader van de heropstart van hun activiteiten in de komende jaren.Budgetaire 
+versoepeling:De lokale besturen zijn de eerste investeerders van het land. Dus is het van belang 
+dat ook hun budgettaire regels worden versoepeld, zodat ze verder hun rol kunnen blijven spelen van motor 
+in de economie.Om deze regels te versoepelen en in te spelen op de verschillende lokale situaties, 
+wordt een percentage van tekort op het eigenlijk werkingsjaar toegestaan voor de jaren 2020 tot 2021, 
+tegen respectievelijk 3% en 5%. Voor de gemeenten die gewone reserves en/of een overschot aan voorzieningen 
+geboekt hebben, wordt het mogelijk ze, ter hoogte van het toegestane tekort, terug te boeken naar het 
+eigenlijk werkingsjaar.Dat tekort zal onder de aan de sanitaire crisis verbonden minderontvangsten 
+of de meer- of minderuitgaven dienen te vallen. In dat opzicht moet de gemeente een bijlage bijvoegen 
+waarin de verschillende bovenvermelde posten te lezen staan.In het kader van de budgettaire 
+versoepeling wordt het bedrag van de gevormde voorzieningen in het bijzonder nagekeken. De gemeenten 
+zullen de bedragen, de hoogte van het bedrag en de instandhouding ervan moeten verantwoorden. Rekening 
+houdend met de situatie zal het vastgesteld overschot in de resultaten opgenomen moeten worden als dit 
+vereist is door het evenwicht of opgenomen moeten worden in het fonds van de gewone reserves of in een 
+specifiek in het kader van de crisis opgerichte voorziening.Bijstandsleningen van het CRAC 
+(gewestelijk hulpcentrum gemeenten):Het basisprincipe is dus het globaal evenwicht van de gewone 
+begroting.Voor de gemeenten die geen globaal evenwicht meer bereiken wegens de gevolgen van 
+de sanitaire crisis kan een specifieke bijstandslening COVID-19 worden toegekend ter hoogte van de kosten 
+(in ontvangsten/uitgaven) die in de bijlage worden vermeld en nagekeken, beperkt tot de gestelde maximumpercentages. 
+De leningsaanvraag zal tegen uiterlijk 30 september van het betrokken jaar samen met de verantwoordende 
+bijlage naar het hulpcentrum en de Waalse Overheidsdienst Binnenlandse aangelegenheden en Sociale Actie 
+overgemaakt dienen te worden.De leningen worden jaarlijks toegekend, in functie van de reële 
+toestand die de gemeenten meemaken, en na verificatie van de verschillende aangetaste posten, waarbij 
+dit door de gemeenten in een specifieke bijlage wordt overgemaakt. De leningen zullen dus op het einde 
+van het jaar worden toegekend. De terugbetalingstermijn wordt vastgesteld op maximum tien jaar, met een 
+algehele gewestelijke interventie betreffende de rente.Lening voor gewone uitgaven eigen aan 
+COVID-19:De lokale besturen staan in die hoedanigheid in de eerste lijn ten opzichte van de 
+burgers en van de plaatselijke economie. Het is dus onontbeerlijk dat ze over de middelen beschikken 
+om de verschillende financiële gevolgen van de crisis op hun eigen budgetten op te vangen, maar ook om 
+te interveniëren op plaatselijk economisch vlak, en daarvoor is hun nabijheid hun beste troef. De werkelijke 
+plaatselijke toestand kan immers verschillen van de gewestelijke en plaatselijke toestand in termen van 
+economische relance.Investeringen zijn ontegensprekelijk een onontbeerlijke voorwaarde voor 
+de economische relance. En de lokale besturen zijn de eerste investeerders van het land. Er 
+dient niettemin op te worden gewezen dat deze buitengewone reserves enerzijds zijn aangelegd toen van 
+de crisis nog geen sprake was en anderzijds, uitgaande van het gewone dienstjaar. Investeringen 
+zijn niet de enige hefboom voor de economische relance. Het is eveneens onontbeerlijk dat zij middelen 
+krijgen om op zeer korte termijn op te treden en in te kunnen spelen op de vastgestelde terreingebonden 
+behoeften, zonder langere periodes te moeten afwachten die gepaard gaan met investeringen.Om 
+op die zeer korte termijn in te spelen wordt van de regel van de lening afgeweken, zoals die vandaag 
+uitsluitend vaststaat voor investeringen, om de gemeenten de mogelijkheid te bieden leningen te kunnen 
+aangaan voor gewone uitgaven die specifiek bestemd zijn voor de economische relance.Er wordt 
+eveneens voorzien in de mogelijkheid tot het terugboeken van de buitengewone reserves.In de 
+gemeenten is de toestand immers zeer uiteenlopend, wat betreft het vormen van gewone reserves, provisies 
+en buitengewone reserves.Het combineren van leningen en buitengewone reserves mag, over de 
+gehele periode 2020-2021, de bovengrens van 100 euro per inwoner niet overschrijden.Wat de 
+lening dan betreft, mag de terugbetaling niet langer duren dan een maximum van 20 jaar, en wordt in zijn 
+geheel rechtstreeks door de gemeente gedragen zonder enige gewestelijke hulp.Evaluatie:Tegen 
+uiterlijk 31 maart 2021 wordt een evaluatie uitgevoerd. Deze evaluatie kijkt dan niet enkel naar de werkelijke 
+cijfers van de verschillende gevolgen van de crisis voor 2020, maar ook naar de ramingen voor 2021 aangaande 
+deze zelfde gevolgen. Daarbij wordt eveneens een stand van zaken opgemaakt van de wijze waarop de gemeenten 
+een beroep doen op de verschillende afwijkingsregelingen, en op de verschillende genomen relancemaatregelen.Het 
+is onmogelijk, zowel evaluatie als verslag uit te willen voeren als de inzameling van de verschillende 
+nuttige gegevens pas op het einde van het jaar uitgevoerd en vastgesteld kunnen worden voor wat betreft 
+het jaar 2020 maar eveneens voor wat betreft de verfijnde ramingen voor 2021. Deze evaluatie zal eveneens 
+passend zijn om eventuele latere maatregelen te bepalen.Advies van de afdeling wetgeving van 
+de Raad van State nr. 67.466 van 2 juni:De gezamenlijke vormelijke en technische aanpassingen 
+voorgesteld door de Raad van State werden opgevolgd.Wat betreft de keuze om bepaalde wijzigingen 
+op te nemen in het Wetboek van de Plaatselijke Democratie en de Decentralisatie, en niet in het algemeen 
+reglement op de gemeentelijke comptabiliteit, heeft de Raad van State zich achter onze motivering geschaard 
+voortvloeiende uit de dringende noodzakelijkheid, het belang van de maatregelen, de samenhang van de 
+voorgestelde aanpak, de leesbaarheid ervan en het uitzonderlijk karakter.De bepalingen:Artikel 
+1 laat een tekort toe op het eigenlijk boekjaar van de gewone dienst, met 3% in 2020 en 5% in 2021, uitdrukkelijk 
+voortvloeiend uit de impact van de sanitaire crisis COVID-19 op de gemeentelijke begrotingen.Deze 
+percentages worden berekend op het totaal van de gewone uitgaven van het eigenlijk werkingsjaar.Artikel 
+2 voorziet in de mogelijkheid, voor de gemeenten die geen globaal evenwicht kunnen voorleggen voor de 
+gewone dienst, om een tegemoetkoming aan te vragen bij het gewestelijk hulpcentrum voor de gemeenten, 
+met een totale overname van de rente door het Gewest. Daarin wordt eveneens bepaald dat de 
+betrokken gemeenten in dat geval, wanneer het gebrek aan evenwicht uitdrukkelijk uit de impact van de 
+sanitaire crisis voortvloeit, geen convergentieplan moeten voorleggen.Artikel 3 bepaalt dat 
+de gewone reservefondsen teruggeboekt kunnen worden naar het eigenlijk werkingsjaar van de gewone dienst 
+als waren het voorzieningen.Artikel 4 biedt de gemeenten de mogelijkheid om in te gaan op leningen 
+en/of op het terugboeken van buitengewone reserves voor het financieren van de specifieke uitgaven voor 
+relancemaatregelen in direct verband met de sanitaire crisis.De mogelijkheid om met het oog 
+op hetzelfde doel de buitengewone reserves aan te spreken is het antwoord op de bemerkingen van de Unie 
+van steden en gemeenten van Wallonië.Het toegelaten maximumbedrag voor beide financieringsmogelijkheden 
+voor de periode 2020-2021 bedraagt 100 euro per inwoner.De periode om de lening terug te betalen 
+wordt vastgesteld op maximum 20 jaar. Artikel 5 bepaalt dat het besluit in werking treedt de 
+dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Advies van de 
+Raad van State nr. 67.466/4 van 2 juni 2020Afdeling wetgevingOp 25 mei 2020 werd 
+de Raad van State, afdeling wetgeving, door de Minister van Huisvesting, Lokale Besturen en Stedenbeleid 
+van het Waals Gewest verzocht, een advies mede te delen binnen een termijn van vijf werkdagen met betrekking 
+tot een ontwerp-besluit `tot afwijking en aanvulling van het Wetboek van de plaatselijke democratie en 
+de decentralisatie om de lokale financiën met zware schuldenlast als gevolg van de crisis COVID-19 te 
+steunen en begrotingstekorten toe te laten'. Het ontwerp werd op 2 juni 2020 onderzocht door 
+de vierde kamer. De kamer was samengesteld uit Martine Baguet, voorzitster van de kamer, Luc Cambier 
+en Bernard Blero, Staatsraden, en Anne-Catherine Van Geersdaele, griffier.Het verslag werd 
+voorgelegd door Marc Oswald, eerste auditeur.Het advies, waarvan de tekst volgt, werd uitgebracht 
+op 2 juni 2020. Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten `op de Raad 
+van State', gecoördineerd op 12 januari 1973, moeten in de adviesaanvraag specifiek de motieven worden 
+opgegeven die er het dringend karakter van verantwoorden.Het schrijven luidt als volgt:"Overwegende 
+dat de buitengewone gezondheidscrisis in verband met COVID-19 die heden België treft en dat de huidige 
+en komende regels, genomen om de verspreiding van het virus onder de bevolking te beperken, van dien 
+aard zijn dat ze iedere vorm van activiteit op het grondgebied van het Waalse Gewest vertragen en sommige 
+diensten zelfs lamleggen;Overwegende dat dit van dien aard is dat de goede werking van de verschillende 
+openbare diensten, inzonderheid de plaatselijke besturen, belemmert;Overwegende dat de Regering, 
+krachtens artikel 1 van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Waalse 
+Regering in het kader van de gezondheidscrisis COVID-19, bevoegd is om alle nuttige maatregelen te nemen 
+om iedere situatie te voorkomen en te behandelen die problemen stelt in het strikte kader van de pandemie 
+COVID-19 en haar gevolgen en die dringend behandeld moeten worden op straffe van ernstig gevaar; Overwegende 
+dat de gemeenten met name bevoegd zijn om zaken van gemeentelijk belang te regelen en om verstoringen 
+van de openbare orde te voorkomen, waaronder vrede, gezondheid en openbare veiligheid;Overwegende 
+dat de crisis COVID-19 negatieve gevolgen zal hebben op de financiën van de lokale, gemeentelijke besturen 
+zowel aan ontvangstenzijde als aan uitgavenzijde;Overwegende dat de huidige begrotingsregels 
+waaraan de lokale besturen worden onderworpen geheel en al onverenigbaar zijn met de gevolgen voortvloeiend 
+uit de sanitaire crisis op hun actie- en werkingsmiddelen;Overwegende dat de buitengewone afwijkingsregels 
+dringend genomen dienen te worden wegens de budgettaire aanpassingen die de lokale besturen zullen moeten 
+aannemen; Overwegende dat het eveneens van belang is dat de inspanningen van talrijke lokale, 
+gemeentelijke besturen in hun deelname aan en ondersteuning van de bestrijding van de epidemie steun 
+krijgen".Aangezien de adviesaanvraag is ingediend op grond van artikel 84, § 1, lid 
+1, 3°,  van de wetten `op de Raad van State", gecoördineerd op 12 januari 1973, beperkt de afdeling wetgeving 
+haar onderzoek tot de rechtsgrond van het ontwerp, tot de bevoegdheid van de steller van de akte, evenals 
+tot het voltooien van de voorafgaandelijke vormvereisten, overeenkomstig artikel 84, § 3, van 
+voornoemde gecoördineerde wetten.Op deze drie punten worden volgende bemerkingen.Onderzoek 
+van het ontwerpAanhef1. Artikel 6 van de bijzondere wet van 8 augustus 1880 "houdende 
+hervorming der instellingen" moet niet beoogd worden daar dit geen rechtsgrond biedt voor het voorliggend 
+ontwerp.2. Daarentegen dient uitdrukkelijk paragraaf 1 van artikel 1 van het decreet van 17 
+maart 2020 beoogd te worden, "tot toekenning van bijzondere machten aan de Waalse Regering in het kader 
+van de gezondheidscrisis COVID-19", dat de Waalse Regering, gelet overigens op het vernoemen ervan in 
+de derde considerans, gemachtigd wordt "om alle nuttige maatregelen te nemen om iedere situatie te voorkomen 
+en te behandelen die problemen stelt in het strikte kader van de pandemie COVID-19 en haar gevolgen en 
+die dringend behandeld moeten worden op straffe van ernstig gevaar". 3. Er dient een visum 
+betreffende het advies van de Raad van State voor de consideransen te worden ingevoegd, luidend als volgt: 
+"Gelet op advies nr. 64.466/4 van de Raad van State, gegeven op 2 juni 2020, overeenkomstig artikel 84, 
+§ 1, eerste lid, 2°,  van de wetten op de Raad van State gecoördineerd op 12 januari 1973;" (1).Beschikkend 
+gedeelteArtikel 1.1. In de inleidende zin dient, in de Franse versie, het woord "avec" 
+vervangen te worden door het woord "par".Paragraaf 3 in het ontwerp dient voorafgegaan door 
+het teken " § 3".Deze bemerkingen gelden voor het vervolg van het ontwerp.2. 
+Artikel L1314-2, § 3, van het Wetboek van de Plaatselijke Democratie en Decentralisatie (hierna: 
+het Wetboek), in ontwerp, dient, in de Franse versie, te luiden als volgt:«  § 3. Par 
+dérogation au paragraphe 2, l'exercice propre du service ordinaire (la suite comme au projet) ».In 
+het vervolg van deze bepaling wordt, in de Franse versie, de uitdrukking "l'exercice propre" bij voorkeur 
+gebruikt boven "l'exercice proprement dit". In dat opzicht bevestigt de afgevaardigde van Minister dat 
+beide begrippen gelijkwaardig zijn.Dezelfde bemerking geldt ook voor artikel L1314-1, § 
+5, lid 1, in ontwerp (artikel 3 van het ontwerp).Artikel 2.1. In het eerste lid van 
+artikel L1314-1, § 4, in ontwerp, wordt, in de Franse versie, gebruik gemaakt van het begrip "équilibre 
+global au service ordinaire", dat niet omschreven is in het Wetboek.Volgens de afgevaardigde 
+van de Minister is het "globaal" evenwicht waarvan sprake het evenwicht zoals in de zin van artikel L1314-1, 
+§ 1, van het Wetboek. De steller van het ontwerp wordt bijgevolg verzocht te verwijzen naar deze 
+bepaling.2. Het tweede lid van artikel L1314-1, § 4, in ontwerp, voorziet in de mogelijkheid 
+tot een financiële hulp van de Regering.Volgens de nota aan de Regering zou deze hulp toegekend 
+worden in de vorm van een lening van het Gewestelijk Hulpcentrum voor de Gemeenten (CRAC), waarbij het 
+Gewest de rentelast overneemt.Het ontwerp zou gebaat zijn bij een invoeging van een dergelijke 
+verduidelijking.3. In het derde lid van artikel L1314-1, § 4, in ontwerp, dienen, in 
+de Franse versie, de woorden "le cas échéant" weggelaten.Artikel 3Artikel L1314-1, 
+§ 5, in ontwerp, voorziet in de mogelijkheid om voor de dienstjaren 2020 en 2021 de fondsen van 
+de gewone reserves, al dan niet voorzien van een bijzondere bestemming, terug te boeken naar het "eigenlijke" 
+werkingsjaar van de gewone dienst als waren het voorzieningen.Deze mogelijkheid wijkt van geen 
+enkele bepaling van het Wetboek af, maar wel van artikel 3, § 1, van het besluit van de Waalse 
+Regering van 5 juli 2007 houdende het algemeen reglement op de gemeentelijke comptabiliteit ter uitvoering 
+van artikel L1315-1 van het Wetboek van de Plaatselijke Democratie en de Decentralisatie'.Het 
+besluit in ontwerp strekt er evenwel toe, te steunen op het decreet van 17 maart 2020 en niet op dat 
+artikel L1315-1 waarmee de Regering belast wordt "de begrotings-, financiële en boekhoudkundige regels 
+van de gemeenten en de regels in verband met de nadere uitvoeringswijzen van de ambten van hun rekenplichtigen" 
+vast te stellen.Desgevraagd verantwoordt de afgevaardigde van de Minister deze keuze op volgende 
+wijze : "Gelet op de dringende noodzakelijkheid en op het belang van de besloten beslissingen, 
+maar ook om de samenhang van de gezamenlijke bepalingen (artikelen 1 tot 5), hun leesbaarheid en het 
+buitengewoon karakter ervan te garanderen, hebben we het onontbeerlijk geacht ze in het Wetboek van de 
+Plaatselijke Democratie en de Decentralisatie in te voegen".Ten opzichte van deze uitleg en 
+daar de ter onderzoek voorliggende bepaling in het kader van de machtiging, bij het ontwerp uitgevoerd, 
+past, vormt ze geen enkele moeilijkheid.De aandacht van de steller van het ontwerp wordt niettemin 
+gevestigd op het feit dat de tekst het voorwerp zal moeten uitmaken van een latere decretale bevestiging 
+overeenkomstig artikel 4 van het decreet van 17 maart 2020, wat als gevolg zal hebben dat de bepaling 
+ter afwijking van het besluit van de Regering van 5 juli 2007 kracht van decreet zal hebben.Artikel 
+5In tegenstelling tot de wetgevende teksten, worden de besluiten niet afgekondigd. De bepaling 
+dient ofwel weggelaten, in welk geval het besluit in werking zal treden de tiende dag na de dag van bekendmaking 
+ervan, overeenkomstig artikel 84, lid 1, 2°,  van de bijzondere wet van 8 augustus 1980, ofwel herzien 
+om de inwerkingtreding van het besluit vast te stellen op een vroegere vaste datum dan die voortvloeiend 
+uit de toepassing van het gemeen recht.De Griffier,   Anne-Catherine Van GeersdaeleDe 
+Voorzitster,Martine Baguet_______Nota(1) Beginselen van de wetgevingstechniek 
+- Handleiding voor het opstellen van wetgevende en reglementaire teksten, tab Wetgevingstechniek, aanbeveling 
+nr. 36.1 en formule F 3-5-211 JUNI 2020. - Besluit van de Waalse Regering van 
+bijzondere machten nr. 46 tot afwijking en aanvulling van het Wetboek van de plaatselijke democratie 
+en de decentralisatie om de lokale financiën met zware schuldenlast als gevolg van de crisis covid-19 
+te steunen en begrotingstekorten toe te latenDe Waalse Regering,Gelet op artikel 
+39 van de Grondwet;Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, 
+zoals gewijzigd;Gelet op het decreet van 17 maart 2020 tot toekenning van bijzondere machten 
+aan de Waalse Regering in het kader van de gezondheidscrisis Covid-19, met name artikel 1, § 1;Gelet 
+op advies nr. 67.466/4 van de Raad van State gegeven op 2 juni 2020, overeenkomstig artikel 84, § 
+l, lid 1, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat de buitengewone gezondheidscrisis in verband met COVID-19 die heden België treft en dat de huidige 
+en komende regels, genomen om de verspreiding van het virus onder de bevolking te beperken, van dien 
+aard zijn dat ze iedere vorm van activiteit op het grondgebied van het Waalse Gewest vertragen en sommige 
+diensten zelfs lamleggen;Overwegende dat dit van dien aard is dat de goede werking van de verschillende 
+openbare diensten, inzonderheid de plaatselijke besturen, belemmert;Overwegende dat de Regering, 
+krachtens artikel 1 van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Waalse 
+Regering in het kader van de gezondheidscrisis COVID-19, bevoegd is om alle nuttige maatregelen te nemen 
+om iedere situatie te voorkomen en te behandelen die problemen stelt in het strikte kader van de pandemie 
+COVID-19 en haar gevolgen en die dringend behandeld moeten worden op straffe van ernstig gevaar; Overwegende 
+dat de gemeenten met name bevoegd zijn om zaken van gemeentelijk belang te regelen en om verstoringen 
+van de openbare orde te voorkomen, waaronder vrede, gezondheid en openbare veiligheid;Overwegende 
+dat de crisis COVID-19 negatieve gevolgen zal hebben voor de financiën van de lokale overheden, zowel 
+wat betreft de inkomsten als de uitgaven; Overwegende dat de huidige begrotingsregels waaraan 
+de lokale overheden onderworpen zijn, volstrekt onverenigbaar zijn met de gevolgen van de gezondheidscrisis 
+voor hun actie- en werkingsmiddelen;Overwegende dat buitengewone afwijkende regels dringend 
+moeten worden genomen als gevolg van de begrotingsaanpassingen die de lokale overheden zullen moeten 
+doorvoeren; Overwegende dat het ook van belang is om de inspanningen van talrijke gemeentelijke 
+overheden te ondersteunen in hun deelname en steun in de strijd tegen de epidemie;Op de voordracht 
+van de Minister van Plaatselijke Besturen en Stedenbeleid;Na beraadslaging,Besluit 
+: Artikel 1. Artikel L1314-1 van het Wetboek van de plaatselijke democratie en de decentralisatie 
+wordt aangevuld met paragraaf 3, luidend als volgt:" § 3. In afwijking van paragraaf 
+2 mag het eigenlijk werkingsjaar van de gewone dienst van de gemeentelijke begrotingen in de boekjaren 
+2020 en 2021 een tekort vertonen dat specifiek voortvloeit uit de gevolgen van de crisis COVID-19.Het 
+tekort in 2020 zal maximaal 3% van de totale gewone uitgaven van het eigenlijk werkingsjaar bedragen. 
+Het zal bij elke begrotingswijziging 2020 worden berekend.Het tekort in 2021 zal maximaal 5% 
+van de totale gewone uitgaven van het eigen dienstjaar bedragen. Het zal bij de oorspronkelijke begroting 
+2021 en bij elke begrotingswijziging 2021 worden berekend.Art. 2. Artikel L1314-1 van het Wetboek 
+van de plaatselijke democratie en de decentralisatie wordt aangevuld met paragraaf 4, luidend als volgt:" 
+§ 4. In de loop van de boekjaren 2020 en 2021 kunnen alle gemeenten, met inbegrip van de gemeenten 
+die reeds onder beheersplan staan, bij gebrek aan een globaal evenwicht in de gewone dienst, zoals bepaald 
+in artikel L1314-1, § 1, dat uitdrukkelijk het gevolg is van de crisis COVID-19, financiële steun 
+aan de Regering vragen. Deze steun is afhankelijk van het indienen van een specifiek beheersplan 
+COVID-19, waarin eerst wordt voorzien in het herstel van het globale evenwicht van de gewone dienst in 
+het jaar waarin bovengenoemde financiële steun is verkregen, en vervolgens uiterlijk in de oorspronkelijke 
+begroting voor het boekjaar 2022 in het herstel van het evenwicht van het eigenlijk werkingsjaar van 
+de gewone dienst.Deze steun bestaat uit een lening via het "Centre régional d'aide aux communes" 
+(Gewestelijk hulpcentrum voor gemeenten), waarvoor het Gewest het geheel aan rentelasten dekt.In 
+dergelijk geval wordt er van artikel L1314-1, § 2, afgeweken en hoeven de betrokken gemeenten 
+geen convergentieplan in te dienen.".Art. 3. Artikel L1314-1 van het Wetboek van de plaatselijke 
+democratie en de decentralisatie wordt aangevuld met paragraaf 5, luidend als volgt:" § 
+5. In de loop van de boekjaren 2020 en 2021 kunnen de gewone reservefondsen, die bestemd zijn of die 
+geen bijzondere bestemming hebben, teruggeboekt worden naar het eigenlijk werkingsjaar van de gewone 
+dienst alsof het om voorzieningen ging.Bedoelde fondsen worden naar de ad hoc functie teruggeboekt 
+indien ze een reeds omschreven gebruik hebben of eenvoudig naar de de functie "000 Algemene ontvangsten" 
+indien ze ertoe strekken het eigenlijke werkingsjaar van de gewone dienst naar een evenwicht te brengen.".Art. 
+4.  Artikel L1314-1 van het Wetboek van de plaatselijke democratie en de decentralisatie wordt aangevuld 
+met paragraaf 6, luidend als volgt:" § 6. In de loop van de begrotingsjaren 2020 en 
+201 wordt toegelaten dat de specifieke uitgaven voor de relance die rechtstreeks verband houden met de 
+sanitaire crisis, geboekt op de gewone dienst, via een lening en via de terugboeking van buitengewone 
+reservefondsen naar het eigenlijk werkingsjaar van de gewone dienst gefinancierd worden als waren het 
+provisies.Het maximum toegelaten bedrag van het samengevoegd totaal van lening en terugboeking 
+van buitengewone reservefondsen voor de gezamenlijke jaren 2020 en 2021 bedraagt 100 euro per inwoner.De 
+aflossingsduur van de lening wordt vastgesteld op maximum 20 jaar.In een dergelijk geval wordt 
+de lening eerst naar behoren op de gewone dienst geboekt en vervolgens overgedragen naar de ad hoc functie 
+van de gewone dienst als was het een voorziening.".Art. 5. Dit besluit treedt in werking de 
+dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Namen, 11 juni 2020.Voor 
+de Regering :De Minister-President,E. DI RUPODe Minister van Huisvesting, 
+de Plaatselijke Besturen en het Stedenbeleid,P.-Y. DERMAGNE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-22Numac : 2020041785
+

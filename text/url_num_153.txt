@@ -1,0 +1,378 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/08/2020010401/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-11Numac : 2020010401
+FEDERALE OVERHEIDSDIENST FINANCIEN EN FEDERALE OVERHEIDSDIENST ECONOMIE, K.M.O., MIDDENSTAND EN ENERGIE 
+ 8 JUNI 2020. - Koninklijk besluit houdende bijzondere maatregelen tot verlenging van bepaalde reglementaire termijnen in verband met de voor de complianceofficers en de tussenpersonen uit de financiële en de verzekeringssector geldende vereisten inzake beroepskennis, met het oog op de bestrijding van de gevolgen van de COVID-19-Epidemie 
+VERSLAG 
+AAN DE KONINGSire,De COVID-19-epidemie veroorzaakt een gezondheidscrisis die ook 
+een zware impact heeft op de economie en de financiële markten.Dit besluit strekt ertoe bepaalde 
+termijnen die door of krachtens financiële wetgevingen zijn vastgesteld, en die door ondernemingen en 
+personen met activiteiten in de financiële sector moeten worden nageleefd, te verlengen. Aangezien het 
+om dwingende termijnen gaat waaraan sancties zijn gekoppeld, kan het behoud ervan nadelig zijn voor die 
+ondernemingen of personen. De door de COVID-19-epidemie gemotiveerde hoogdringendheid rechtvaardigt dus 
+de verlenging van die termijnen. Hieronder lichten wij de maatregelen toe die in dit verband 
+worden voorgesteld in dit ontwerpbesluit.Artikel 1. Artikel 13 van het koninklijk besluit van 
+18 juni 2019 tot uitvoering van de artikelen 5, 19° /1, 264, 266, 268 en 273 van de wet van 4 april 2014 
+betreffende de verzekeringen, eist dat personen die bepaalde gereglementeerde functies uitoefenen bij 
+een verzekerings-, een nevenverzekerings- of een herverzekeringstussenpersoon of bij een verzekerings- 
+of herverzekeringsonderneming, voldoende theoretische kennis bezitten van een aantal materies inzake 
+verzekeringsdistributie,en dit zodra zij worden aangesteld. Om te bewijzen dat zij die theoretische 
+kennis hebben verworven, moeten de betrokken personen die geen houder zijn van bepaalde diploma's, slagen 
+voor een door de FSMA erkend examen.In afwijking van die verplichting mag een persoon in contact 
+met het publiek die, op het moment van zijn aanstelling, nog niet over de vereiste theoretische kennis 
+beschikt, zijn functie al beginnen uitoefenen, maar dan wel onder het toezicht en de volledige begeleiding 
+van de tussenpersoon waarbij hij is aangesteld, of van een van zijn verantwoordelijken voor de distributie, 
+of, onder bepaalde voorwaarden, van een andere persoon in contact met het publiek. Die persoon in contact 
+met het publiek wordt dan geacht "in opleiding" te zijn. Artikel 13 van voornoemd koninklijk besluit 
+eist echter dat de persoon in contact met het publiek "in opleiding" binnen het jaar na zijn aanstelling 
+de vereiste theoretische kennis bezit, en dat hij dat aan de FSMA aantoont. Gebeurt dat niet, dan kan 
+de betrokken persoon, zonder dat de FSMA ter zake ook maar enige beoordelingsbevoegdheid bezit, niet 
+langer als persoon in contact met het publiek worden beschouwd.Om rekening te houden met het 
+feit dat het weinig waarschijnlijk is dat examens worden georganiseerd tijdens de afzonderingsperiode 
+naar aanleiding van de COVID-19-epidemie, noch binnen een bepaalde termijn nadat die maatregel wordt 
+afgeblazen, lijkt het, met het oog op de bescherming van de betrokken personen en om te vermijden dat 
+beslissingen worden genomen die nadelig voor hen zouden zijn, aangewezen om een extra termijn van vier 
+maanden toe te kennen aan elke persoon in contact met het publiek in opleiding voor wie de afzonderingsperiode 
+(volledig of gedeeltelijk) binnen de termijn van één jaar valt. Het gaat daarbij dus om (i) de personen 
+in contact met het publiek in opleiding die, op datum van 18 maart 2020, sinds minder dan een jaar in 
+die hoedanigheid zijn aangesteld, en (ii) de personen in contact met het publiek die tussen 18 maart 
+2020 en 30 juni 2020 in die hoedanigheid worden aangesteld.Die extra termijn van vier maanden 
+zal ook mee in aanmerking worden genomen als periode waarin relevante praktische ervaring wordt opgedaan 
+conform artikel 17, § 1, vierde lid, van voornoemd koninklijk besluit van 18 juni 2019.Art. 
+2. Verschillende personen, voor wie verplichtingen inzake beroepskennis gelden, moeten, onder het toezicht 
+van de FSMA, hun beroepskennis via permanente opleidingen (ook "bijscholingen" genaamd) actualiseren. 
+Deze verplichting tot bijscholing geldt niet enkel voor financiële tussenpersonen, voor bepaalde van 
+hun leiders, voor hun verantwoordelijken voor de distributie of voor de personen in contact met het publiek, 
+maar ook voor de complianceofficers die bij financiële instellingen of verzekeringsondernemingen zijn 
+aangesteld en door de FSMA zijn erkend conform haar reglement van 27 oktober 2011 betreffende de erkenning 
+van complianceofficers, goedgekeurd bij koninklijk besluit van 12 maart 2012. De bijscholingsperiodes 
+hebben, naargelang het geval, een duur van één tot drie jaar.Zoals gesuggereerd door de Raad 
+van State, wordt verduidelijkt welke categorieën van personen dit artikel viseert :-de complianceofficers 
+die door de FSMA zijn erkend conform haar reglement van 27 oktober 2011 betreffende de erkenning van 
+complianceofficers, goedgekeurd bij koninklijk besluit van 12 maart 2012. De voor deze complianceofficers 
+geldende bijscholingsverplichting zit vervat in artikel 3, § 3, van voornoemd FSMA-reglement en 
+die bepaling vindt haar wettelijke grondslag in artikel 87bis van de wet van 2 augustus 2002 betreffende 
+het toezicht op de financiële sector en de financiële diensten. Het artikel is ook van toepassing op 
+de medewerkers van de "compliancedepartementen" van de gereglementeerde ondernemingen, voor wie ook een 
+bijscholingsverplichting geldt (zie artikel 5, tweede lid, van het reglement van 27 oktober 2011);- 
+wat de verzekerings- en herverzekeringsbemiddeling betreft : de verzekerings- en herverzekeringstussenpersonen, 
+de nevenverzekeringstussenpersonen, hun effectieve leiders die de facto de verantwoordelijkheid hebben 
+over de activiteit van de verzekerings- of herverzekeringsdistributie, hun verantwoordelijken voor de 
+distributie en de personen in contact met het publiek, alsook de verantwoordelijken voor de distributie 
+en de personen in contact met het publiek die bij de verzekerings- en herverzekeringsondernemingen zijn 
+aangesteld. Voor die personen zit de bijscholingsverplichting vervat in artikel 18 van het koninklijk 
+besluit van 18 juni 2019;- wat de kredietbemiddeling betreft : de bemiddelaars in hypothecair 
+krediet en in consumentenkrediet, hun verantwoordelijken voor de distributie en de personen in contact 
+met het publiek, alsook de personen belast met de effectieve leiding die de facto de verantwoordelijkheid 
+hebben over de kredietbemiddelingsactiviteit of er controle op uitoefenen, alsook de bij de kredietgevers 
+aangestelde verantwoordelijken voor de distributie en personen in contact met het publiek. Voor die personen 
+zit de bijscholingsverplichting vervat in de artikelen 12, § 4, en 15, § 8, van het koninklijk 
+besluit van 29 oktober 2015 tot uitvoering van Titel 4, Hoofdstuk 4 van Boek VII van het Wetboek van 
+economisch recht;- wat de bemiddeling in bank- en beleggingsdiensten betreft : de tussenpersonen 
+in bank- en beleggingsdiensten, de personen belast met de effectieve leiding die de facto de verantwoordelijkheid 
+hebben over de bemiddelingsactiviteit en hun personen in contact met het publiek. Voor die personen wordt 
+verwezen naar de bijscholingsverplichting in artikel 7, § 2, vijfde lid, van het koninklijk besluit 
+van 1 juli 2006 tot uitvoering van de wet van 22 maart 2006 betreffende de bemiddeling in bank- en beleggingsdiensten 
+en de distributie van financiële instrumenten.Er staan sancties op de niet-naleving van de 
+bijscholingsverplichtingen. Zo kan een inbreuk op de bijscholingsverplichtingen aanleiding geven tot 
+de beslissing om de inschrijving van de betrokken tussenpersoon en de vergunning van de erkende complianceofficers 
+te schrappen.Om rekening te houden met de mogelijke problemen die deze personen zouden kunnen 
+ondervinden om permanente opleidingen te volgen tijdens de afzonderingsperiode naar aanleiding van de 
+COVID-19-epidemie en binnen een bepaalde termijn nadat die maatregelen zijn afgeblazen, lijkt het, met 
+het oog op de bescherming van de betrokken personen, aangewezen om een extra termijn van vier maanden 
+toe te kennen aan de personen van wie de bijscholingsperiode eind 2020 verstrijkt. Die verlenging van 
+de normale bijscholingsperiode stelt hen dus in staat om hun bijscholingsverplichtingen uitzonderlijk 
+in de tijd te spreiden voor de periode die eind 2020 verstrijkt. De verlenging van die specifieke periode 
+zal echter geen impact hebben op hun bijscholingsverplichtingen tijdens de onmiddellijk daaropvolgende 
+bijscholingsperiode. Voor die volgende bijscholingsperiode zullen de gebruikelijke regels gelden.Gevolggevend 
+aan een opmerking van de Raad van State wordt een correctie aangebracht in het toepassingsgebied van 
+artikel 2 : voor de in dat artikel vermelde verlengingsmaatregel komen uitsluitend de personen in aanmerking 
+voor wie de bijscholingsperiode op 31 december 2020 verstrijkt.De Raad van State vermeldt een 
+eventueel verschil in behandeling tussen, enerzijds, de personen voor wie de bijscholingsperiode voor 
+18 maart 2020 een aanvang heeft genomen, maar die voor 31 december 2020 verstrijkt en, anderzijds, de 
+personen voor wie de bijscholingsperiode eveneens voor 18 maart 2020 een aanvang heeft genomen, maar 
+die na 31 december 2020 verstrijkt. Volgens de Raad van State zal het voordeel van de termijnverlenging 
+niet voor deze laatste categorie van personen gelden, hoewel zij in de periode van de afzonderingsmaatregelen 
+in het kader van de COVID-19-pandemie dezelfde problemen zouden kunnen ondervinden inzake het volgen 
+van de permanente opleiding.In antwoord op deze opmerking van de Raad van State moet, enerzijds, 
+het criterium voor de bepaling van de bijscholingsperiodes waarop de verlengingsmaatregel van toepassing 
+is, en, anderzijds, de berekeningswijze van die bijscholingsperiodes worden verduidelijkt.De 
+bijscholingsperiodes die mogelijk voor de verlengingsmaatregel in aanmerking komen, zijn bepaald in functie 
+van het moment waarop de afzonderingsperiode tijdens die bijscholingsperiodes ingaat, wat een impact 
+heeft op de tijd en de mogelijkheid waarover de betrokkenen aan het einde van de afzonderingsperiode 
+beschikken om aan het vereiste aantal uren permanente opleiding te komen. Zo is ervoor geopteerd om enkel 
+de personen te viseren voor wie de afzonderingsperiode aan het einde van de bijscholingsperiode valt. 
+In de andere gevallen is er, rekening houdend met de regels voor de berekening van de bijscholingsperiodes 
+(zie hieronder), van uitgegaan dat de periode waarover de betrokkenen nog beschikken, redelijkerwijze 
+voldoende is om aan het vereiste aantal uren permanente opleiding te komen. Voor die personen is de nadelige 
+impact van de afzonderingsperiode op de voor hen geldende verplichting tot permanente opleiding immers 
+niet dezelfde.De bijscholingsperiodes van de tussenpersonen worden, ongeacht de duur ervan, 
+per kalenderjaar berekend. Zij vangen steeds aan op 1 januari en verstrijken op 31 december.In 
+het door de Raad van State vermelde geval van een tussenpersoon van wie de bijscholingsperiode na 31 
+december 2020 zou verstrijken, zou deze over een bijkomende periode van minstens een jaar beschikken 
+om aan het vereiste aantal uren permanente opleiding te komen en zou hij dus niet dezelfde nadelige impact 
+van de afzonderingsperiode op de voor hem geldende verplichting tot permanente opleiding ondervinden 
+als een tussenperson van wie de bijscholingsperiode op 31 december 2020 zou verstrijken. Het 
+door de Raad van State vermelde verschil in behandeling is dus op een objectief criterium gebaseerd en 
+is bijgevolg redelijk verantwoord.Diezelfde redenering geldt ook voor de erkende complianceofficers 
+en de medewerkers van de compliancedepartementen van gereglementeerde ondernemingen. De regels voor de 
+berekening van hun bijscholingsperiodes zijn vergelijkbaar met de regels die gelden voor de tussenpersonen, 
+voor het zover het gaat om complianceofficers die voor 1 juni 2018 op de lijst van de erkende complianceofficers 
+zijn ingeschreven of in een compliancedepartement in functie zijn getreden.De cycli van de 
+permanente opleiding van die complianceofficers worden, zoals voor tussenpersonen, per kalenderjaar berekend, 
+met aanvang op 1 januari van het jaar dat volgt op hun erkenning of indiensttreding.De bijscholingsperiodes 
+van de andere complianceofficers, i.e. deze die vanaf 1 juni 2018 zijn erkend of in dienst getreden, 
+worden niet meer per kalenderjaar berekend, maar in functie van de datum van hun erkenning of indiensttreding. 
+Zo zou de eerste bijscholingsperiode van een op 1 juni 2018 erkend complianceofficer op 1 juni 2018 aanvangen 
+en op 1 juni 2021 verstrijken.In de door de Raad van State vermelde hypothese van een complianceofficer 
+van wie de bijscholingsperiode na 31 december 2020 zou verstrijken, zou deze bijgevolg over een bijkomende 
+termijn van minstens 6 maanden beschiken (tot ten vroegste 1 juni 2021) om aan het vereiste aantal uren 
+permanente opleiding te komen. Hij zou dus niet dezelfde nadelige impact van de afzonderingsperiode ondervinden 
+op de voor hem geldende verplichting tot permanente opleiding als een complianceofficer van wie de bijscholingsperiode 
+op 31 december 2020 zou verstrijken. Ook voor de complianceofficers is het door de Raad van State vermelde 
+verschil in behandeling dus op een objectief criterium gebaseerd en is bijgevolg redelijk verantwoord.Uit 
+wat voorafgaat vloeit ook voort dat niet langer rekening moet worden gehouden met de bijscholingspeiodes 
+die tussen 18 maart 2020 en 31 december 2020 verstrijken, aangezien geen enkele bijscholingsperiode, 
+gelet op voornoemde berekeningsregels, tussen die datums verstrijkt.Art. 3. Artikel 3 van het 
+ontwerp bepaalt dat artikel 1 van dit besluit retroactief in werking treedt op 18 maart 2020. Artikel 
+1 zou immers van toepassing moeten zijn op de personen in contact met het publiek die op 18 maart 2020 
+geslaagd hadden moeten zijn voor een examen om aan te tonen dat zij over de vereiste beroepskennis beschikken. 
+Die bepaling moet dan ook op die datum in werking zijn getreden. Zo niet, zouden bepaalde personen niet 
+in aanmerking kunnen komen voor de genomen maatregelen, waardoor zij benadeeld zouden zijn.RAAD 
+VAN STATE,afdeling WetgevingAdvies 67.380/1 van 14 mei 2020 over een ontwerp van 
+koninklijk besluit `houdende bijzondere maatregelen tot opschorting of verlenging van bepaalde reglementaire 
+termijnen in verband met de voor de complianceofficers en de tussenpersonen uit de financiële en de verzekeringssector 
+geldende vereisten inzake beroepskennis, met het oog op de bestrijding van de gevolgen van de COVID-19-epidemie' 
+Op 7 mei 2020 is de Raad van State, afdeling Wetgeving, door de Minister van Werk, Economie en Consumenten 
+verzocht binnen een termijn van vijf werkdagen een advies te verstrekken over een ontwerp van koninklijk 
+besluit `houdende bijzondere maatregelen tot opschorting of verlenging van bepaalde reglementaire termijnen 
+in verband met de voor de complianceofficers en de tussenpersonen uit de financiële en de verzekeringssector 
+geldende vereisten inzake beroepskennis, met het oog op de bestrijding van de gevolgen van de COVID-19-epidemie'. 
+Het ontwerp is door de eerste kamer onderzocht op 12 mei 2020. De kamer was samengesteld uit Marnix VAN 
+DAMME, kamervoorzitter, Chantal BAMPS en Wouter PAS, staatsraden, en Wim GEURTS, griffier. 
+Het verslag is uitgebracht door Katrien DIDDEN, adjunct-auditeur. De overeenstemming tussen 
+de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van Marnix VAN DAMME, kamervoorzitter. 
+Het advies, waarvan de tekst hierna volgt, is gegeven op 14 mei 2020.1. Volgens artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, moeten 
+in de adviesaanvraag de redenen worden opgegeven tot staving van het spoedeisende karakter ervan.De 
+spoedeisendheid wordt in de adviesaanvraag als volgt gemotiveerd : "Gelet op de coronacrisis 
+en de hieraan gekoppelde afzonderingsperiode zal het niet mogelijk zijn om bepaalde termijnen na te leven 
+die door of krachtens financiële wetgevingen zijn vastgesteld, en die door ondernemingen en personen 
+met activiteiten in de financiële sector moeten worden nageleefd. Aangezien het om dwingende termijnen 
+gaat waaraan sancties zijn verbonden, kan het behoud ervan nadelig zijn voor die ondernemingen of personen. 
+De door de COVID-19-epidemie en de afzonderingsmaatregelen gemotiveerde hoogdringendheid rechtvaardigt 
+dus de opschorting of verlenging van die termijnen. Het is bovendien weinig waarschijnlijk 
+dat examens worden georganiseerd tijdens de afzonderingsperiode naar aanleiding van de COVlD-19-epidemie 
+en wellicht ook binnen een bepaalde termijn na het afblazen van die maatregel. Met oog op de bescherming 
+van de betrokken personen en om te vermijden dat beslissingen worden genomen die nadelig voor hen zouden 
+zijn, [lijkt het daarom aangewezen] om snel een extra termijn toe te kennen aan de personen die binnen 
+een bepaalde termijn voor een examen moeten slagen om aan te tonen dat zij over de vereiste beroepskennis 
+beschikken. Deze maatregelen dienen zo snel mogelijk, en in bepaalde gevallen retroactief tot 
+op het ogenblik van de start van de afzonderingsperiode, te worden genomen gelet op het feit dat er sancties 
+verbonden zijn aan het niet naleven van de scholingsverplichtingen en dit ook de uitoefening van de functie 
+kan verhinderen".2. Overeenkomstig artikel 84, § 3, eerste lid, van de gecoördineerde 
+wetten op de Raad van State, heeft de afdeling Wetgeving het onderzoek moeten beperken tot de bevoegdheid 
+van de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de voorgeschreven vormvereisten 
+is voldaan.STREKKING EN RECHTSGROND VAN HET ONTWERP3. Het om advies voorgelegde ontwerp 
+van koninklijk besluit strekt ertoe de reglementaire termijnen die door complianceofficers en tussenpersonen 
+in de financiële en de verzekeringssector moeten worden in acht genomen met betrekking tot de na te leven 
+vereisten inzake beroepskennis en bijscholing met vier maanden te verlengen ingevolge de door de regering 
+genomen afzonderingsmaatregelen in het kader van de COVID-19-pandemie (artikelen 1 en 2). Aan de ontworpen 
+bepalingen wordt terugwerkende kracht verleend met ingang van 18 maart 2020 (artikel 3).4. 
+De ontworpen regeling kan worden geacht rechtsgrond te vinden in de wetsbepalingen waaraan wordt gerefereerd 
+in de eerste vier leden van de aanhef van het ontwerp met dien verstande dat tevens de hierna vermelde 
+bepalingen het ontwerp tot rechtsgrond strekken.In artikel 64, derde lid, van de wet van 2 
+augustus 2002 `betreffende het toezicht op de financiële sector en de financiële diensten' wordt bepaald 
+dat de reglementen van de FSMA slechts uitwerking hebben na goedkeuring door de Koning en bekendmaking 
+ervan in het Belgisch Staatsblad en dat de Koning deze reglementen kan wijzigen of in de plaats van de 
+FSMA kan optreden indien deze in gebreke blijft die reglementen vast te stellen. Voor zover het ontwerp 
+ten aanzien van de complianceofficers een wijziging inhoudt van artikel 3, § 3, van het reglement 
+van de Autoriteit voor Financiële Diensten en Markten van 27 oktober 2011 `betreffende de erkenning van 
+complianceofficers', strekt ook artikel 64, derde lid, van de wet van 2 augustus 2002 de ontworpen regeling 
+tot rechtsgrond.Artikel 266, eerste lid, 1°,  van de wet van 4 april 2014 `betreffende de verzekeringen', 
+dat rechtsgrond biedt wat betreft de verzekerings-, nevenverzekerings- en herverzekeringstussenpersonen, 
+moet worden gelezen in samenhang met artikel 267, eerste lid, 2°,  van dezelfde wet, waarin wordt bepaald 
+dat de verzekerings-, nevenverzekerings- en herverzekeringstussenpersonen met de hoedanigheid van rechtspersoon 
+bovendien slechts ingeschreven worden en hun inschrijving slechts wordt gehandhaafd op voorwaarde dat 
+"de personen belast met de effectieve leiding die de facto de verantwoordelijkheid hebben over de werkzaamheid 
+van verzekerings- of herverzekeringsdistributie, bovendien de beroepskennis en vakbekwaamheid bezitten 
+als bedoeld in artikel 266, eerste lid, 1° ". Ook de laatstgenoemde wetsbepaling kan worden geacht mede 
+rechtsgrond te bieden voor de ontworpen regeling.ONDERZOEK VAN DE TEKSTOpschrift5. 
+In de artikelen 1 en 2 van het ontwerp wordt in een verlenging van termijnen voorzien en niet in een 
+eigenlijke "opschorting" ervan. Vraag is derhalve of in het opschrift van het ontwerp niet het best melding 
+wordt gemaakt van "bijzondere maatregelen tot verlenging van bepaalde reglementaire termijnen" in plaats 
+van "bijzondere maatregelen tot opschorting of verlenging van bepaalde reglementaire termijnen".Aanhef6. 
+In de eerste vier leden van de aanhef wordt verwezen naar de rechtsgrond biedende bepalingen. Rekening 
+houdend met wat sub 4 is opgemerkt, dient in het eerste lid tevens melding te worden gemaakt van artikel 
+64, derde lid, van de wet van 2 augustus 2002, en moet het derde lid van de aanhef worden aangevuld met 
+een verwijzing naar artikel 267, eerste lid, 2°,  van de wet van 4 april 2014, zoals vervangen bij de 
+wet van 6 december 2018. Ook met betrekking tot de rechtsgrond biedende bepalingen die nu al worden vermeld 
+in de aanhef van het ontwerp zal telkens moeten worden nagegaan of geen melding moet worden gemaakt van 
+vroegere wijzigende teksten die nog van kracht zijn. (1)7. In het vijfde tot het zevende lid 
+van de aanhef wordt verwezen naar bepalingen waarvan met het ontworpen koninklijk besluit impliciet zal 
+worden afgeweken. De betrokken bepalingen worden evenwel niet formeel gewijzigd door het ontworpen koninklijk 
+besluit. In die zin is een verwijzing ernaar tegelijk misleidend en niet in overeenstemming met wat legistiek 
+gebruikelijk is. Het zou, ter wille van de duidelijkheid, aanbeveling verdienen om het vijfde tot het 
+zevende lid uit de aanhef weg te laten en in de plaats ervan het verslag aan de Koning aan te vullen 
+met een verduidelijking van de samenhang die bestaat tussen de ontworpen regeling en de bepalingen waarnaar 
+wordt verwezen in de betrokken leden van de aanhef. (4)8. De FSMA heeft op 28 april 2020 over 
+de ontworpen regeling geadviseerd. In de aanhef van het ontwerp moet een lid worden ingevoegd waarin 
+naar dat advies wordt verwezen.9. Aan het einde van het lid van de aanhef waarin wordt verwezen 
+naar het advies van de Raad van State schrijve men "..., met toepassing van artikel 84, § 1, eerste 
+lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;".Artikel 210. 
+De in artikel 2 van het ontwerp bedoelde termijnverlenging is van toepassing op "de personen die verplicht 
+zijn om aan de FSMA aan te tonen dat zij de verplichting tot bijscholing van hun beroepskennis naleven".Naar 
+het zeggen van de gemachtigde heeft deze omschrijving een algemene draagwijdte : "Cette disposition 
+concerne les obligations de formation permanente. Toujours dans une optique d'égalité de traitement, 
+elle concerne donc toutes les personnes qui ont dû prouver auprès de la FSMA qu'elles possédaient des 
+connaissances professionnelles les autorisant à exercer certaines activités réglementées, et qui ont 
+l'obligation de maintenir ces connaissances à jour par des formations permanentes ou des recyclages. 
+Cette obligation implique de suivre un certain nombre d'heures de formation ou d'acquérir un certain 
+nombre de points de formation durant une période donnée, dite `période de recyclage'."De gemachtigde 
+heeft in haar antwoord een oplijsting gemaakt van de verschillende categorieën personen die onder de 
+algemene omschrijving in artikel 2 van het ontwerp vallen. Het zou de duidelijkheid van de regelgeving 
+en de rechtszekerheid ten goede komen indien de door de gemachtigde gedane oplijsting in het verslag 
+aan de Koning zou worden geïntegreerd.Voorts heeft de gemachtigde nog de volgende suggestie 
+tot aanpassing van de redactie van artikel 2 van het ontwerp gedaan : "Par ailleurs, une légère 
+modification pourrait être apportée à la disposition en projet afin de bien s'assurer que toutes les 
+personnes soumises à une obligation de formation permanente sont concernées par la disposition. Certaines 
+d'entre elles ne doivent en effet pas systématiquement le `démontrer' à la FSMA, mais uniquement à la 
+demande de cette dernière. Il conviendrait, à cet effet, de modifier les termes `les personnes qui ont 
+l'obligation de démontrer à la FSMA le respect d'une obligation de recyclage de leurs connaissances professionnelles' 
+par les termes `les personnes qui sont soumises, sous le contrôle de la FSMA, à une obligation de recyclage 
+de leurs connaissances professionnelles'."Met het door de gemachtigde geformuleerde tekstvoorstel 
+kan worden ingestemd.11. De in artikel 2 van het ontwerp vermelde termijnverlenging zal enkel 
+gelden voor de betrokken personen "van wie de bijscholingsperiode tussen 18 maart 2020 en 31 december 
+2020 verstrijkt".De ontworpen regeling doet op dit punt bijgevolg een verschil in behandeling 
+ontstaan tussen, enerzijds, de personen voor wie de bijscholingsperiode (3) een aanvang heeft genomen 
+voor 18 maart 2020, maar dewelke verstrijkt tussen 18 maart 2020 en 31 december 2020 en, anderzijds, 
+de personen voor wie de bijscholingsperiode eveneens een aanvang heeft genomen voor 18 maart 2020, maar 
+dewelke verstrijkt na 31 december 2020. Voor deze laatste categorie van personen zal het voordeel van 
+de termijnverlenging niet gelden, hoewel zij in de periode van "de door de regering genomen afzonderingsmaatregelen 
+in het kader van de COVID-19-pandemie" dezelfde problemen kunnen ondervinden inzake het volgen van de 
+nodige bijscholing. Volgens de rechtspraak van het Grondwettelijk Hof is een verschil in behandeling 
+slechts verenigbaar met de grondwettelijke beginselen van gelijkheid en niet-discriminatie wanneer dat 
+verschil op een objectief criterium berust en het redelijk verantwoord is. Het bestaan van een dergelijke 
+verantwoording moet worden beoordeeld, rekening houdend met het doel en de gevolgen van de betrokken 
+maatregel en met de aard van de ter zake geldende beginselen; het beginsel van gelijkheid en niet-discriminatie 
+is geschonden wanneer er geen redelijk verband van evenredigheid bestaat tussen de aangewende middelen 
+en het beoogde doel.(4)Indien er een dergelijke verantwoording bestaat, wordt deze het best 
+in het verslag aan de Koning weergegeven teneinde mogelijke twijfels tegen te gaan omtrent de overeenstemming 
+van artikel 2 van het ontwerp met de grondwettelijk gewaarborgde beginselen van gelijkheid en niet-discriminatie.Slotopmerking12. 
+Het ontwerp moet worden vervolledigd met een uitvoeringsbepaling. De voorzitter,   De griffier,Wim 
+GEURTS   Marnix VAN DAMME_______Nota's(1) Zo is bijvoorbeeld artikel 87bis 
+van de wet van 2 augustus 2002 ingevoegd bij het koninklijk besluit van 3 maart 2011 en gewijzigd bij 
+de wetten van 30 juli 2013 en 19 april 2014. Van deze normatieve teksten zal ook melding moeten worden 
+gemaakt in het eerste lid van de aanhef.(2) Het ontwerp houdt tevens een impliciete afwijking 
+in van bepalingen van het koninklijk besluit van 1 juli 2006 `tot uitvoering van de wet van 22 maart 
+2006 betreffende de bemiddeling in bank- en beleggingsdiensten en de distributie van financiële instrumenten', 
+ook al wordt aan dat koninklijk besluit niet gerefereerd in de aanhef. Ook dat koninklijk besluit zal 
+derhalve moeten worden betrokken bij de gesuggereerde verduidelijking in het verslag aan de Koning.(3) 
+De betrokken bijscholingsperiodes hebben blijkens het verslag aan de Koning "naargelang het geval, een 
+duur van één tot drie jaar".(4) Vaste rechtspraak van het Grondwettelijk Hof. Zie bijvoorbeeld 
+GwH 17 juli 2014, nr. 107/2014, B.12; GwH 25 september 2014, nr. 141/2014, B.4.1; GwH 30 april 2015, 
+nr. 50/2015, B.16; GwH 18 juni 2015, nr. 91/2015, B.5.1; GwH 16 juli 2015, nr. 104/2015, B.6; GwH 16 
+juni 2016, nr. 94/2016, B.3; GwH 18 mei 2017, nr. 60/2017, B.11; GwH 15 juni 2017, nr. 79/2017, B.3.1; 
+GwH 19 juli 2017, nr. 99/2017, B.11; GwH 28 september 2017, nr. 104/2017, B.8.8 
+JUNI 2020. - Koninklijk besluit houdende bijzondere maatregelen tot verlenging van bepaalde reglementaire 
+termijnen in verband met de voor de complianceofficers en de tussenpersonen uit de financiële en de verzekeringssector 
+geldende vereisten inzake beroepskennis, met het oog op de bestrijding van de gevolgen van de COVID-19-EpidemieFILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, 
+de artikelen 64, derde lid, en 87bis, ingevoegd bij het koninklijk besluit van 3 maart 2011 en gewijzigd 
+bij de wetten van 30 juli 2013 en 19 april 2014;Gelet op de wet van 22 maart 2006 betreffende 
+de bemiddeling in bank- en beleggingsdiensten en de distributie van financiële instrumenten, de artikelen 
+8, eerste lid, 1°,  en tweede lid, en 9, 3°,  ingevoegd bij de wet van 2 mei 2019;Gelet op 
+de wet van 4 april 2014 betreffende de verzekeringen, de artikelen 266, eerste lid, 1°,  en 267, eerste 
+lid, 2° ;Gelet op het Wetboek van economisch recht, de artikelen VII. 180, § 2, 2°  
+en 3°,  VII. 181, § 1, 1°,  en § 2, 1°,  gewijzigd bij de wetten van 26 oktober 2015 en 
+18 april 2017, VII. 184, § 1, tweede lid, 2°  en 3°,  VII. 186, § 1, eerste lid, 1°,  en 
+§ 2, 1°,  gewijzigd bij de wet van 26 oktober 2015, en VII. 187, § 1, 1° ;Gelet 
+op de hoogdringendheid, gemotiveerd door de COVID-19-epidemie en de door de Regering genomen afzonderingsmaatregelen, 
+op grond waarvan het niet mogelijk zal zijn om bepaalde termijnen na te leven die door of krachtens financiële 
+wetgevingen zijn vastgesteld, en die door ondernemingen en personen met activiteiten in de financiële 
+sector moeten worden nageleefd. Aangezien het om dwingende termijnen gaat waaraan sancties zijn verbonden, 
+kan het behoud ervan nadelig zijn voor die ondernemingen of personen. De door de COVID-19-epidemie en 
+de afzonderingsmaatregelen gemotiveerde hoogdringendheid rechtvaardigt dus de opschorting of verlenging 
+van die termijnen;Overwegende onder andere dat het weinig waarschijnlijk is dat examens worden 
+georganiseerd tijdens de afzonderingsperiode naar aanleiding van de COVID-19-epidemie en wellicht ook 
+binnen een bepaalde termijn na het afblazen van die maatregel; Dat het, met het oog op de bescherming 
+van de betrokken personen en om te vermijden dat beslissingen worden genomen die nadelig voor hen zouden 
+zijn, daarom aangewezen lijkt om snel een extra termijn toe te kennen aan de personen die binnen een 
+bepaalde termijn voor een examen moeten slagen om aan te tonen dat zij over de vereiste beroepskennis 
+beschikken;Eveneens overwegende dat rekening moet worden gehouden met de problemen die bepaalde 
+personen zouden kunnen ondervinden om permanente opleidingen te volgen tijdens de afzonderingsperiode 
+naar aanleiding van de COVID-19-epidemie en binnen een bepaalde termijn na het afblazen van die maatregel;Overwegende 
+dat die maatregelen onverwijld moeten worden genomen omdat zij, in bepaalde omstandigheden, retroactief 
+zouden moeten worden toegepast, namelijk per 18 maart 2010, i.e. de inwerkingtredingsdatum van de afzonderingsmaatregelen. 
+Zo zou artikel 1 van toepassing moeten zijn op de personen in contact met het publiek die op die datum 
+geslaagd hadden moeten zijn voor een examen om aan te tonen dat zij over de vereiste beroepskennis beschikken;Gelet 
+op het advies van de Autoriteit voor Financiële Diensten en Markten, gegeven op 28 april 2020;Gelet 
+op het advies 67.380/1 van de Raad van de State, gegeven op 14 mei 2020, met toepassing van artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op 
+de voordracht van de Vice-eersteminister en Minister van Financiën, van de Minister van Werk, Economie 
+en Consumenten, en van de Minister van Middenstand, Zelfstandigen, KMO's, Landbouw en Maatschappelijke 
+Integratie,Hebben Wij besloten en besluiten Wij :Artikel 1. De termijn van een jaar 
+als bedoeld in artikel 13, § 2, tweede lid, van het koninklijk besluit van 18 juni 2019 tot uitvoering 
+van de artikelen 5, 19° /1, 264, 266, 268 en 273 van de wet van 4 april 2014 betreffende de verzekeringen, 
+wordt met vier maanden verlengd voor de volgende personen in contact met het publiek in opleiding :- 
+de personen die tussen 18 maart 2020 en 30 juni 2020 in die hoedanigheid zijn aangewezen; - 
+de personen die, op datum van 18 maart 2020, sinds minder dan een jaar in die hoedanigheid zijn aangewezen.Art. 
+2. Onverminderd hun bijscholingsverplichtingen voor de bijscholingsperiode die onmiddellijk volgt op 
+de in dit artikel bedoelde bijscholingsperiode, beschikken de personen die, onder het toezicht van de 
+FSMA, aan de verplichting tot bijscholing van hun beroepskennis zijn onderworpen, en van wie de bijscholingsperiode 
+op 31 december 2020 verstrijkt, over een bijkomende termijn van vier maanden om het vereiste aantal punten 
+of uren te behalen.Art. 3. Artikel 1 van dit besluit treedt in werking op 18 maart 2020. Art. 
+4. De minister bevoegd voor Economie en Consumenten, de minister bevoegd voor Financiën en de minister 
+bevoegd voor Middenstand zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit. Brussel, 
+8 juni 2020.FILIPVan Koningswege :De Minister van Werk, Economie en Consumenten,N. 
+MUYLLEDe Minister van Financiën,A. DE CROODe Minister van Middenstand, 
+Zelfstandigen, KMO's, Landbouw en Maatschappelijke IntegratieD. DUCARME   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-11Numac : 2020010401
+

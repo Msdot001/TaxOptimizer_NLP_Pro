@@ -1,0 +1,163 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/20/2020041454/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-28Numac : 2020041454
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 20 MEI 2020. - Bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/021 om de betaaltermijn van de verkeersbelasting op de autovoertuigen en de belasting op de inverkeerstelling te verlengen omwille van de door de COVID-19 veroorzaakte gezondheidscrisis 
+VERSLAG AAN DE BRUSSELSE 
+HOOFDSTEDELIJKE REGERINGTer attentie van de leden van de Regering,Het verlengen van 
+de termijn waarbinnen de jaarlijkse verkeersbelasting en de belasting op de inverkeerstelling moeten 
+worden betaald tot 124 dagen, is bedoeld om de liquiditeitspositie van belastingplichtigen wier inkomsten 
+zijn opgedroogd of sterk zijn verminderd te verbeteren. Deze maatregel is dan ook van toepassing op alle 
+aanslagbiljetten die zouden moeten worden betaald in de periode waarin belastingplichtigen worden geconfronteerd 
+met verminderde of onbestaande inkomsten als gevolg van de maatregelen ter bestrijding van de corona-crisis 
+alsook voor de aanslagbiljetten die worden verstuurd ten tijde van deze crisis.Er werd voor 
+geopteerd om het toepassingsgebied van de verlengde betalingstermijn te beperken tot de aanslagbiljetten 
+die worden verzonden vóór 1 oktober 2020. Deze datum werd bepaald op grond van de op 24 april 2020 door 
+de federale regering vastgelegde exitstrategie voor wat betreft de maatregelen ter bestrijding van het 
+Coronavirus. Deze exitstrategie stelt dat de laatste fase van de heropstarting zal plaatsvinden in de 
+loop van de maand juni 2020. Ervan uitgaande dat deze opstarting pas eind juni zal plaatsvinden, zullen 
+de laatste economische activiteiten pas opnieuw worden geactiveerd begin juli. De betrokken personen 
+zullen dus pas in juli hun activiteiten kunnen hernemen.Dit betekent evenwel niet dat de inkomstenstroom 
+van bedrijven reeds medio juli opnieuw op gang zal komen. Het is immers gebruikelijk dat voor facturen 
+een betalingstermijn van 30 dagen wordt toegekend. Deze betalingstermijn kan in sommige omstandigheden 
+of voor bepaalde sectoren zelfs oplopen tot 60 dagen. De laatste heropstartende bedrijven zullen dus 
+pas medio september opnieuw op een herneming van hun inkomstenstroom kunnen rekenen. Om reden van fiscale 
+transparantie, wordt er in deze context bijgevolg voor geopteerd om de verlenging van de betalingstermijn 
+toe te kennen tot eind september 2020. Vanaf oktober 2020 zou de inkomstenstroom van de bedrijven immers 
+opnieuw op gang moeten zijn gekomen zijn zodat de verlenging van de betalingstermijn niet langer meer 
+nodig is.Er werd dan ook, mede in het licht van de beveiliging van de liquiditeitspositie van 
+het Brussels Hoofdstedelijk Gewest, voor geopteerd om deze maatregel te beperken tot de aanslagbiljetten 
+die vóór 1 oktober 2020 werden verstuurd. Deze beperking zorgt er immers voor dat de meeste verkeersbelastingen 
+in beginsel alsnog in 2020 zullen worden betaaldTer informatie van de Brusselse Hoofdstedelijke 
+Regering, De Minister van Financiën en Begroting,S. GATZRAAD 
+VAN STATE, afdeling Wetgeving advies 67.338/4 van 7 mei 2020 over een ontwerp van besluit van de Brusselse 
+Hoofdstedelijke Regering nr. 2020/021 `om de betaaltermijn van de verkeersbelasting op de autovoertuigen 
+en de belasting op de inverkeerstelling te verlengen omwille van de door de COVID-19 veroorzaakte gezondheidscrisis'Op 
+30 april 2020 is de Raad van State, afdeling Wetgeving, door de Minister van de Brusselse Hoofdstedelijke 
+Regering, belast met Financiën, Begroting, Openbaar Ambt, de Promotie van Meertaligheid en van het Imago 
+van Brussel verzocht binnen een termijn van vijf werkdagen een advies te verstrekken over een ontwerp 
+van besluit van de Brusselse Hoofdstedelijke Regering nr. 2020/021 `om de betaaltermijn van de verkeersbelasting 
+op de autovoertuigen en de belasting op de inverkeerstelling te verlengen omwille van de door de COVID-19 
+veroorzaakte gezondheidscrisis'.Het ontwerp is door de vierde kamer onderzocht op 7 mei 2020. 
+De kamer was samengesteld uit Martine BAGUET, kamervoorzitter, Luc CAMBIER en Bernard BLERO, staatsraden, 
+en Anne Catherine VAN GEERSDAELE, griffier.Het verslag is uitgebracht door Marc OSWALD, eerste 
+auditeur.De overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien 
+onder toezicht van Martine BAGUET.Het advies, waarvan de tekst hierna volgt, is gegeven op 
+7 mei 2020.Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten `op de Raad van State', 
+gecoördineerd op 12 januari 1973, moet in de adviesaanvraag in het bijzonder de redenen worden opgegeven 
+tot staving van het spoedeisende karakter ervan.De motivering in de brief luidt als volgt:"Deze 
+hoogdringendheid wordt gemotiveerd door de omstandigheid dat de gezondheidscrisis veroorzaakt door COVID-19 
+zorgt voor ernstige liquiditeitsproblemen bij de Brusselse burgers en rechtspersonen waardoor het nodig 
+is om onmiddellijk maatregelen te nemen tot bescherming van deze liquiditeiten".Aangezien de 
+adviesaanvraag ingediend is op basis van artikel 84, § 1, eerste lid, 3°,  van de wetten `op de 
+Raad van State', gecoördineerd op 12 januari 1973, beperkt de afdeling Wetgeving overeenkomstig artikel 
+84, § 3, van de voornoemde gecoördineerde wetten haar onderzoek tot de rechtsgrond van het ontwerp, 
+de bevoegdheid van de steller van de handeling en de te vervullen voorafgaande vormvereisten.Wat 
+die drie punten betreft, geeft het ontwerp aanleiding tot de volgende opmerkingen.ONDERZOEK 
+VAN HET ONTWERP1. Hoewel artikel 3bis, § 1, van de gecoördineerde wetten `op de Raad 
+van State' dat niet expliciet voorschrijft, wordt voorgesteld om gelijktijdig met dit besluit ook een 
+verslag aan de Regering bekend te maken waarin de strekking en de concrete implicaties van dat besluit 
+worden uiteengezet.2. De steller van het ontwerp moet in het licht van de beginselen van gelijkheid 
+en non-discriminatie, vastgelegd in de artikelen 10, 11 en 172 van de Grondwet, de keuze van de datum 
+van 1 oktober 2020 objectief en redelijk kunnen rechtvaardigen, en hij moet die rechtvaardiging overnemen 
+in het verslag aan de regering dat hij, zoals hierboven wordt aanbevolen, het best zou opstellen.DE 
+GRIFFIER   DE VOORZITTERAnne Catherine VAN GEERSDAELE   Martine BAGUET20 
+MEI 2020. - Bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/021 om de betaaltermijn 
+van de verkeersbelasting op de autovoertuigen en de belasting op de inverkeerstelling te verlengen omwille 
+van de door de COVID-19 veroorzaakte gezondheidscrisis De Brusselse Hoofdstedelijke Regering,Gelet 
+op de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke 
+Regering in het kader van de gezondheidscrisis Covid-19, artikel 2;Gelet op de Ordonnantie 
+van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure, de artikelen 3 en 32;Gelet 
+op het verzoek om spoedbehandeling, gemotiveerd door de omstandigheid dat de gezondheidscrisis veroorzaakt 
+door COVID-19 zorgt voor ernstige liquiditeitsproblemen bij de burgers en de rechtspersonen van het Brussels 
+Hoofdstedelijk Gewest, is het nodig om onmiddellijk maatregelen te nemen tot bescherming van deze liquiditeiten;Gelet 
+op advies 67.338/4 van de Raad van State, gegeven op 7 mei 2020, met toepassing van artikel 84, § 
+1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat, bij toepassing van artikel 2, § 3, 5°  van ordonnantie van 4 oktober 2018 tot invoering van 
+de gelijkekansentest, de gelijkekansentest niet moet worden opgesteld voor een reglementaire tekst waarvoor 
+het advies van de Raad van State wordt gevraagd bij hoogdringendheid;Overwegende dat, bij toepassing 
+van artikel 2, § 4 van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan 
+de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis Covid-19, het advies van 
+de Gegevensbeschermings-autoriteit en van de Economische en Sociale Raad van het Brussels Hoofdstedelijk 
+Gewest niet vereist zijn;Overwegende dat de wereldwijde en gewestelijke economische activiteit 
+is vertraagd als gevolg van gezondheidsmaatregelen om de Covid-19 epidemie te vertragen;Overwegende 
+dat de maatregelen om de bewegingsvrijheid van de burgers tot hun woning te beperken, evenals de tijdelijke 
+stopzetting van een groot aantal economische en commerciële activiteiten, tot gevolg hebben dat huishoudens 
+en bedrijven worden geconfronteerd met liquiditeitsproblemen;Overwegende dat een verlenging 
+van de betaaltermijn van de verkeersbelasting op de autovoertuigen en de belasting op de inverkeerstelling 
+van die aard is dat ze zal bijdragen om deze gezinnen en bedrijven enige ademruimte te geven, zonder 
+de financiële situatie van het Brussels Hoofdstedelijk Gewest op het spel te zetten;Overwegende 
+dat de liquiditeitsproblemen van gezinnen en ondernemingen grotendeels voortvloeien uit de ophokplicht, 
+is het niet opportuun om de maatregel te behouden tot na het einde van de periode van de ophokplicht. 
+Aangezien het niet mogelijk is om met zekerheid te beoordelen wanneer deze plicht ten einde zal komen 
+en aangezien de economie slechts geleidelijk zal worden heropgestart, werd er beslist om het einde van 
+de maatregel vast te leggen op 30 september 2020.Overwegende dat de Regering dus, gelet op 
+de economische urgentie, gebruik wenst te maken van de volmachten die haar werden toevertrouwd door het 
+parlement om de burgers en de bedrijven van het Gewest te ondersteunen in deze moeilijke periode;Op 
+voorstel van de Minister belast met Financiën,Na beraadslaging,Besluit :Artikel 
+1. In afwijking van artikel 32, eerste lid, eerste zin, van de ordonnantie van 6 maart 2019 betreffende 
+de Brusselse Codex Fiscale Procedure, wordt de betaaltermijn van de voor het aanslagjaar 2020 verschuldigde 
+verkeersbelasting op de autovoertuigen verlengd tot 124 dagen.Het eerste lid van dit artikel 
+is slechts van toepassing voor de aanslagbiljetten die worden verstuurd vóór 1 oktober 2020.Art. 
+2. In afwijking van artikel 32, eerste lid, eerste zin, van de ordonnantie van 6 maart 2019 betreffende 
+de Brusselse Codex Fiscale Procedure, wordt de betaaltermijn van de voor het aanslagjaar 2020 verschuldigde 
+de belasting op de inverkeerstelling verlengd tot 124 dagen.Het eerste lid van dit artikel 
+is slechts van toepassing voor aanslagbiljetten die worden verstuurd vóór 1 oktober 2020.Art. 
+3. Dit besluit heeft uitwerking met ingang van 1 januari 2020.Art. 4. De minister bevoegd voor 
+Financiën en Begroting is belast met de uitvoering van dit besluit.Brussel, 20 mei 2020.Voor 
+de Brusselse Hoofdstedelijke Regering,Minister-president van de Brusselse Hoofdstedelijke Regering,R. 
+VERVOORTMinister van de Brusselse Hoofdstedelijke Regering, belast met Mobiliteit, Openbare 
+Werken en Verkeersveiligheid,E. VAN DEN BRANDTMinister van de Brusselse Hoofdstedelijke 
+Regering, belast met Klimaattransitie, Leefmilieu, Energie en Participatieve Democratie,A. 
+MARONMinister van de Brusselse Hoofdstedelijke Regering, belast met Financiën, Begroting, Openbaar 
+Ambt, de Promotie van Meertaligheid,S. GATZMinister van de Brusselse Hoofdstedelijke 
+Regering, belast met Werk en Beroepsopleiding, Digitalisering, de Plaatselijke Besturen en Dierenwelzijn,B. 
+CLERFAYT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-28Numac : 2020041454
+

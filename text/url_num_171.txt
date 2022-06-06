@@ -1,0 +1,144 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/12/2020041828/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020041828
+VLAAMSE OVERHEID 
+ 12 JUNI 2020. - Besluit van de Vlaamse Regering tot uitvoering van het decreet van 29 mei 2020 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19 
+RechtsgrondDit 
+besluit is gebaseerd op :-het decreet van 29 mei 2020 tot organisatie van de meldingsplicht 
+en het contactonderzoek in het kader van COVID-19, artikel 3, eerste, tweede en vijfde lid, artikel 4, 
+artikel 5, § 5, artikel 6, tweede lid.VormvereistenDe volgende vormvereisten 
+zijn vervuld :- Het advies van de Raad van State werd, met toepassing van artikel 3, § 
+1, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, niet ingewonnen. De dringende 
+noodzakelijkheid wordt gemotiveerd vanuit de vaststelling dat het decreet, waaraan voorliggend besluit 
+uitvoering geeft, via een spoedprocedure door het Vlaams Parlement werd goedgekeurd op 20 mei 2020 en 
+wordt ook gemotiveerd vanuit de noodzaak om snel de personen te kunnen opsporen die een risicodragend 
+contact hebben gehad met een COVID-19 besmette of vermoedelijk besmette persoon om verdere verspreiding 
+van COVID-19 en een mogelijke nieuwe piek van COVID-19 patiënten te voorkomen;- De Vlaamse 
+Toezichtcommissie voor de verwerking van persoonsgegevens heeft advies nr. 2020/17, gegeven op 8 juni 
+2020.InitiatiefnemerDit besluit wordt voorgesteld door de Vlaamse minister van Welzijn, 
+Volksgezondheid, Gezin en Armoedebestrijding,Na beraadslaging,DE VLAAMSE REGERING 
+BESLUIT :Artikel 1. In dit besluit wordt verstaan onder :1°  agentschap : het intern 
+verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 
+7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";2° 
+ contactcentrum : het contactcentrum, vermeld in artikel 3, eerste lid, van het decreet van 29 mei 2020;3° 
+ databank : de databank, vermeld in artikel 1 van het koninklijk besluit nr. 18 van 4 mei 2020 tot oprichting 
+van een databank bij Sciensano in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19; 
+4°  decreet van 29 mei 2020 : het decreet van 29 mei 2020 tot organisatie van de meldingsplicht 
+en het contactonderzoek in het kader van COVID-19; 5°  samenwerkingsverband : het samenwerkingsverband 
+van externe partners, vermeld in artikel 3, eerste lid, van het decreet van 29 mei 2020. Art. 
+2.  Het contactcentrum wordt belast met opdrachten van opsporing en begeleiding van personen als vermeld 
+in artikel 3, eerste lid, 1°  tot 4°,  van het decreet van 29 mei 2020.Het samenwerkingsverband 
+wordt aangeduid, met toepassing van de wet van 17 juni 2016 inzake de overheidsopdrachten en met toepassing 
+van de uitvoeringsbesluiten van die wet.Het contactcentrum is samengesteld uit :1° 
+ call center medewerkers;2°  call center supervisoren;3°  field agents;4° 
+ field agent supervisoren.Het agentschap legt de functiebeschrijvingen vast van de categorieën 
+van personeelsleden van het contactcentrum, vermeld in punt 1°  tot en met 4°.  Art. 3. Het 
+agentschap is de verwerkingsverantwoordelijke voor de persoonsgegevens, in de zin van artikel 4, 7), 
+van de algemene verordening gegevensbescherming. Het agentschap sluit een verwerkingsovereenkomst met 
+het samenwerkingsverband conform artikel 28, lid 3, van de algemene verordening gegevensbescherming.Art. 
+4.  § 1. Het inhoudelijk verslag, vermeld in artikel 3, vijfde lid, van het decreet van 29 mei 
+2020 bevat een samenvatting van maximaal dertig pagina's en bevat naast de gegevens, vermeld in het tweede 
+lid, de nodige gegevens om het agentschap in staat te stellen de activiteiten van het samenwerkingsverband 
+en het contactcentrum te evalueren. Het inhoudelijk verslag omvat :1°  een overzicht 
+van de call agents en field agents die per dag door het contactcentrum ingeschakeld worden, uitgedrukt 
+in vte;2°  een overzicht van het aantal personen die per dag door de call agents gecontacteerd 
+werden, opgesplitst in het aantal nieuw gecontacteerde personen en het aantal personen die opnieuw worden 
+gecontacteerd; 3°  een overzicht van het aantal bezoeken die per dag door de field agents werden 
+gedaan, opgesplitst in nieuw bezochte personen en personen die opnieuw worden bezocht;4°  een 
+overzicht van het aantal personen die per dag effectief door de call agents werden gecontacteerd ten 
+opzichte van het aantal voorziene te contacteren personen; 5°  een overzicht van het aantal 
+personen die per dag effectief door de field agents bezocht werden ten opzichte van het voorziene aantal 
+te bezoeken personen;6°  een overzicht van het aantal personen die door de call agents werden 
+gecontacteerd die meer dan één contact hebben gehad, opgesplitst per aantal contacten;7°  een 
+overzicht van het aantal personen die door de fields agents werden bezocht die meer dan één contact hebben 
+gehad, opgesplitst per aantal contacten;8°  een overzicht van de knelpunten waarmee het contactcentrum 
+werd geconfronteerd bij het uitvoeren van de opdracht en de mogelijke acties die werden ondernomen om 
+die knelpunten op te lossen, en ook een overzicht van de goede praktijkenvoorbeelden bij het uitvoeren 
+van de opdracht. § 2. Het financiële verslag omvat :1°  de staat van ontvangsten 
+en uitgaven op maandbasis, gegroepeerd per kosten- en inkomstensoort en opgesplitst per organisatie en 
+activiteit;2°  per organisatie een lijst van het aantal medewerkers van het contactcentrum, 
+onderverdeeld naar functie, gemiddelde tewerkstellingstijd en bruto jaarloon;3°  een genummerde 
+lijst van de kosten en opbrengsten, met een verwijzing naar de begunstigde, het bedrag, een omschrijving 
+en gerangschikt per kosten- of opbrengstensoort. § 3. Het inhoudelijk verslag, vermeld 
+in paragraaf 1, en het financiële verslag, vermeld in paragraaf 2, worden driemaandelijks door het samenwerkingsverband 
+aan het agentschap bezorgd. In afwijking van het eerste lid, worden bij het aflopen van de 
+opdracht, het inhoudelijk verslag, vermeld in paragraaf 1, en het financiële verslag, vermeld in paragraaf 
+2, uiterlijk drie maanden na het aflopen van de opdracht van het samenwerkingsverband aan het agentschap 
+bezorgd.Het agentschap bezorgt het inhoudelijk verslag, vermeld in paragraaf 1, en het financiële 
+verslag, vermeld in paragraaf 2, aan de Vlaamse Regering. Art. 5. Het samenwerkingsverband 
+neemt volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van persoonsgegevens 
+door het contactcentrum dat zij oprichten :1°  de medewerkers van het contactcentrum hebben 
+een geheimhoudingsverklaring ondertekend, waarin hen wordt gewezen op het feit dat zij gehouden zijn 
+aan het beroepsgeheim. Die geheimhoudingsverklaring vermeldt de verplichtingen waaraan de medewerkers 
+moeten voldoen, en ook de mogelijke sancties die zij kunnen oplopen bij niet-naleving van het beroepsgeheim; 
+2°  bij gegevensuitwisseling, het vaststellen van de technische en organisatorische maatregelen 
+ter bescherming van de persoonsgegevens die genomen moeten worden, bij de definiëring en uitvoering van 
+nieuwe verwerkingen van persoonsgegevens of bij aanpassingen aan de bestaande verwerkingen raadpleegt 
+het samenwerkingsverband, een veiligheidsteam, dat minstens is samengesteld uit de functionarissen voor 
+gegevensbescherming van alle externe partners van het samenwerkingsverband en de functionaris voor gegevensbescherming 
+van het agentschap;3°  de technische en organisatorische maatregelen die worden genomen ter 
+bescherming van de persoonsgegevens worden geaudit door een intern of extern auditteam;4°  
+het contactcentrum geeft aan iedere persoon die ze contacteren of bezoeken, voor zover die nog niet over 
+de informatie beschikt, de informatie die in de algemene verordening gegevensbescherming voorzien is 
+over de verwerking van hun persoonsgegevens en informeert hen over waar ze die informatie kunnen terugvinden. 
+Art. 6. De melding als vermeld in artikel 44, § 3, van het decreet van 21 november 2003, 
+van COVID-19 moet gebeuren binnen vierentwintig uur na het eerste realistische klinische, epidemiologische 
+of laboratoriumtechnische vermoeden. De melding aan de databank gebeurt op een beveiligde elektronische 
+wijze met inachtneming van de vereisten voor de uitwisseling van gegevens over gezondheid. De 
+beveiligde elektronische wijze betekent dat de melding gebeurt via een geëncrypteerd bericht of via een 
+beveiligde webapplicatie, die door de bevoegde overheid ter beschikking wordt gesteld aan de personen 
+die aan de meldingsplicht onderworpen zijn.De persoonsgegevens, vermeld in artikel 5, § 
+2, § 3, eerste lid, en § 4, eerste lid, van het decreet van 29 mei 2020, kunnen ook worden 
+verwerkt voor statistische of beleidsondersteunende doeleinden voor zover die persoonsgegevens geanonimiseerd 
+zijn.Art. 7.  Dit besluit heeft uitwerking met ingang van 11 mei 2020. Art. 8.  De 
+Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, is belast met de uitvoering van dit besluit.Brussel, 
+12 juni 2020.De minister-president van de Vlaamse Regering,J. JAMBONDe 
+Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding,W. BEKE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020041828
+

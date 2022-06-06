@@ -1,0 +1,68 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/09/12/2021033111/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-22Numac : 2021033111
+FEDERALE OVERHEIDSDIENST ECONOMIE, K.M.O., MIDDENSTAND EN ENERGIE  
+ 12 SEPTEMBER 2021. - Koninklijk besluit tot aanstelling van de ambtenaren die met de opsporing en de vaststelling van de inbreuken bedoeld in artikel 117, eerste lid, van de wet van 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur belast zijn 
+FILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 17 maart 2019 
+betreffende de beroepen van accountant en belastingadviseur, artikel 118;Gelet op de adviesaanvraag 
+binnen 30 dagen, die op 11 juni 2021 bij de Raad van State is ingediend, met toepassing van artikel 84, 
+§ 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat het advies niet is meegedeeld binnen die termijn;Gelet op artikel 84, § 4, tweede 
+lid, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht 
+van de Minister van Economie en de Minister van Middenstand,Hebben Wij besloten en besluiten 
+Wij :Artikel 1. De ambtenaren van de Algemene Directie Economische Inspectie van de Federale 
+Overheidsdienst Economie, K.M.O., Middenstand en Energie, zijn bevoegd tot het opsporen en het vaststellen 
+van de inbreuken bepaald in artikel 117, eerste lid, van de wet van 17 maart 2019 betreffende de beroepen 
+van accountant en belastingadviseur.Art. 2. De minister bevoegd voor Economie en de minister 
+bevoegd voor Middenstand zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 12 september 2021.FILIPVan Koningswege :De Minister van Economie,P.-Y. 
+DERMAGNEDe Minister van Middenstand,D. CLARINVAL   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-22Numac : 2021033111
+

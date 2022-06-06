@@ -1,0 +1,388 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/11/2020041741/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-19Numac : 2020041741
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 11 JUNI 2020. - Besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 24 betreffende de bekrachtiging van studies in het gewoon secundair onderwijs in het kader van de COVID-19-gezondheidscrisis 
+De 
+Regering van de Franse Gemeenschap,Gelet op de wet van 19 juli 1971 betreffende de algemene 
+structuur en de organisatie van het secundair onderwijs; Gelet op het decreet van 3 juli 1991 
+tot regeling van het alternerend secundair onderwijs ;Gelet op het decreet van 24 juli 1997 
+dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren 
+organiseert die het mogelijk maken ze uit te voeren;Gelet op het decreet van 30 juni 2006 betreffende 
+de pedagogische organisatie van de eerste graad van het secundair onderwijs;Gelet op het decreet 
+van 21 november 2013 tot organisatie van verschillende schoolstelsels ter bevordering van het welzijn 
+van jongeren op school, schoolherinschakeling, preventie van geweld op school en begeleiding van studieoriëntatie;Gelet 
+op het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van 
+de gezondheidscrisis in verband met het COVID-19 coronavirus, artikel 1, § 1, f) et g) ;Gelet 
+op het koninklijk besluit van 29 juni 1984 betreffende de organisatie van het secundair onderwijs;Gelet 
+op het besluit van de Regering van de Franse Gemeenschap van 6 september 2001 tot bepaling van de voorwaarden 
+voor de geldigheid en de spreiding van de stages voor de gegroepeerde basisopties "kinderverzorging" 
+en "aspirant(e) nursing" van de derde kwalificatiegraad van het secundair onderwijs alsook voor het 7e 
+jaar dat leidt tot het behalen van een kwalificatiegetuigschrift van "kinderverzorger/kinderverzorgster" 
+» ; Gelet op het besluit van de Regering van de Franse Gemeenschap van 15 mei 2014 tot 
+bepaling van nadere regels voor de organisatie van stages in het gewoon secundair onderwijs en het gespecialiseerd 
+secundair onderwijs van vorm 4;Gelet op het besluit van de Regering van de Franse Gemeenschap 
+van 11 mei 2016 betreffende de attesten, verslagen, getuigschriften en brevetten uitgereikt tijdens de 
+secundaire studies met volledig leerplan;Gelet op het besluit van de Regering van de Franse 
+Gemeenschap van 29 augustus 2018 tot experimentele organisatie, in het kwalificatiestelsel uitgedrukt 
+in eenheden van leerresultaten (CPU), van gegroepeerde basisopties in het vierde, vijfde en zesde leerjaar 
+van het kwalificerend secundair onderwijs; Gelet op de « gendertest » van 12 mei 2020 uitgevoerd 
+met toepassing van artikel 4, tweede lid, 1°,  van het decreet van 7 januari 2016 houdende integratie 
+van de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap;Gelet op 
+de dringende noodzakelijkheid gemotiveerd door de noodzaak om de Franse Gemeenschap vóór het einde van 
+het schooljaar te laten reageren op de pandemie van COVID-19 en op de maatregelen die zijn genomen in 
+het kader van de bestrijding van dit virus, met toepassing van artikel 1, f) en g) van het decreet van 
+17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis 
+in verband met het COVID-19 coronavirus :- enerzijds, door de eisen voor de evaluatie en de 
+bekrachtiging van studies aan te passen na de opschorting van lessen en leeractiviteiten;- 
+anderzijds, door een ernstig gevaar voor leerlingen die in het gewoon secundair onderwijs ingeschreven 
+zijn, te vermijden door hen de bekrachtiging van studies te laten aanvragen ondanks de opschorting van 
+lessen en activiteiten die sinds 16 maart 2020 van toepassing is;- door het einde van het schooljaar 
+onder deze uitzonderlijke omstandigheden te organiseren;- tot slot, door alle leerlingen, en 
+dit zonder discriminatie, en hun ouders, zo snel mogelijk kennis te laten maken met de nadere regels 
+voor de bekrachtiging van studies voor het schooljaar 2019-2020 met als doel de angst af te nemen die 
+door de huidige gezondheidscrisis wordt veroorzaakt en door hen in staat te stellen het einde van het 
+schooljaar in een serene omgeving te begrijpen;Overwegende het ministerieel besluit van 23 
+maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, 
+zoals gewijzigd op 8 mei 2020, en inzonderheid op artikel 6 dat de lessen en activiteiten in het kleuter-, 
+lager en secundair onderwijs tot en met 8 juni 2020 schorst, met uitzondering van deze bepaald door de 
+onderwijsinrichtingen voor de proefdag van 15 mei 2020;Overwegende dat, in principe, stages 
+die worden opgelegd door de Regering, in de gegroepeerde basisopties waarvan het kwalificatieprofiel 
+vastgesteld wordt door de Regering (CPU) en in bepaalde gegroepeerde basisopties waarvoor geen enkel 
+kwalificatieprofiel wordt vastgesteld (deze gegroepeerde basisopties worden bepaald door de Regering 
+in bijlage 7 van het besluit van de Regering van de Franse Gemeenschap van 15 mei 2014 tot bepaling van 
+nadere regels voor de organisatie van stages in het gewoon secundair onderwijs en het gespecialiseerd 
+secundair onderwijs van vorm 4) verplicht zijn;Overwegende dat, gezien de huidige gezondheidscrisis 
+die verband houdt met het ontstaan van COVID-19, beslist werd dit schooljaar niet te hervatten;Overwegende 
+dat het daarom passend is om voor het schooljaar 2019-2020 af te wijken van deze verplichting en te bepalen 
+dat het aan de Klassenraad is, in overleg met de Kwalificatie-examencommissie, om in het dossier van 
+de leerling op te nemen dat deze vrijgesteld is van de hele (een deel van) de stages, gelet op overmacht;Overwegende 
+dat in dit verband de beslissing om het kwalificatiegetuigschrift uit te reiken aan een leerling die 
+de verplichte stages niet geheel of gedeeltelijk heeft voltooid, onder de bevoegdheid van de kwalificatie-examencommissie 
+valt;Overwegende dat de stages die georganiseerd worden voor de gegroepeerde basisopties « 
+Kinderverzorging », « Kinderverzorging » en « Aspirant nursing » verplicht worden door een specifieke 
+wettelijke basis voor het behalen van het Kwalificatiegetuigschrift ;Overwegende dat de leerlingen 
+die ingeschreven zijn in deze gegroepeerde basisopties, in principe, geen stages mogen volgen tijdens 
+de winter-, lente- en zomervakantie; Overwegende dat er, gezien de huidige uitzonderlijke context, 
+reden is om af te wijken van dit beginsel en van de verplichting om voor het schooljaar 2019-2020 een 
+aanvraag om afwijking in te dienen bij de Algemene Directie van het leerplichtonderwijs, voor de leerlingen 
+voor wie het kwalificatiegetuigschrift niet kan worden uitgereikt door de Kwalificatie-examencommissie 
+wegens een gebrek aan voldoende beheersing van de minimale competenties;Overwegende dat het 
+daarom aan de Klassenraad is, in overleg met de Kwalificatie-examencommissie, om het uitstel van de stage 
+in het dossier van de leerling te vermelden;Overwegende dat voorzien moet worden dat voor de 
+andere leerlingen, de Klassenraad, in overleg met de Kwalificatie-examencommissie, uitzonderlijk kan 
+beslissen om hen vrij te stellen van alle of een deel van de stages, op voorwaarde dat hij van mening 
+is dat de vrijstelling geen afbreuk doet aan de voldoende beheersing van essentieel leren door de leerling;Overwegende 
+dat de leerlingen die ingeschreven zijn in de gegroepeerde basisoptie « Kinderverzorger/kinderverzorgster 
+» en die een stage-vrijstelling genieten, kunnen in principe geen kwalificatiegetuigschrift krijgen dat 
+overeenstemt met hun studierichting;Overwegende dat, gezien de huidige context en op een uitzonderlijke 
+manier, de leerlingen van deze gegroepeerde basisoptie die vrijgesteld zijn van alle of een deel van 
+de uren stage voor het schooljaar 2019-2020, het kwalificatiegetuigschrift door de Kwalificatie-examencommissie 
+zullen kunnen ontvangen;Overwegende dat het daarom noodzakelijk is de inhoud van de bijlagen 
+36 en 37 te wijzigen zoals voorzien in artikel 19, § 6, van het besluit van de Regering van de 
+Franse Gemeenschap van 11 mei 2016 betreffende de attesten, verslagen, getuigschriften en brevetten uitgereikt 
+tijdens de secundaire studies met volledig leerplan en de vermelding met betrekking tot de stages te 
+schrappen op de kwalificatiegetuigschriften die uitgereikt worden in de gegroepeerde basisoptie "kinderverzorger/kinderverzorgster" 
+aan het einde van het schooljaar 2019-2020;Overwegende dat het alternerend onderwijs bedoeld 
+in de artikelen 45 en 49 van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs 
+en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren, 
+moet worden verstrekt naar rata van 600 lestijden 50 minuten opleiding in een schoolinrichting en naar 
+rata van 600 uren voor de opleidingsactiviteiten per jaar via het werk in een onderneming;Overwegende 
+dat het niet mogelijk is om 600 uren opleiding in een onderneming aan leerlingen te verstrekken, moeten 
+er binnen CEFA extra lestijden van beroepsopleiding worden georganiseerd. Het aantal uren opleidingsactiviteiten 
+in een onderneming mag echter niet lager zijn dan 300 per jaar opleiding in de tweede graad en 450 per 
+jaar opleiding in de derde graadOverwegende dat gezien de COVID-19-pandemie en de maatregelen 
+die genomen zijn om de verspreiding van het virus onder de bevolking te beperken, het werk in bedrijven 
+sinds 17 maart 2020 voor alle leerlingen is opgeschort;Overwegende dat sinds 27 april 2020 
+afwijkingen van deze schorsing kunnen worden toegestaan in de sectoren die als cruciaal en essentieel 
+zijn aangemerkt, in overeenstemming met bepaalde welomschreven beperkingen en sinds 4 mei 2020, in overeenstemming 
+met dezelfde beperkingen, ook in bedrijven die open zijn gebleven en in de sectoren die toegelaten waren 
+om hun activiteiten te hervatten, overeenkomstig de beslissingen van de Nationale Veiligheidsraad die 
+zullen worden omgezet in een federaal ministerieel besluit;Overwegende dat, in het geval van 
+overmacht, in het alternerend onderwijs, als de leerling niet in staat is om het aantal vereiste uren 
+werk in het bedrijf uit te voeren tegen het einde van het jaar, is het is raadzaam om de bevoegdheid 
+aan de klassenraad toe te vertrouwen, in overleg met de kwalificatie-examencommissie, om in het dossier 
+van de leerling op te nemen dat deze vrijgesteld is van een deel van de uren opleiding in het bedrijf;Overwegende 
+dat de beslissing om het kwalificatiegetuigschrift uit te reiken aan een leerling die niet al zijn opleiding 
+in een bedrijf heeft voltooid, in dit geval, bij de kwalificatie-examencommissie zal liggen;Overwegende 
+dat ook moet worden bepaald dat, wanneer de Regering beslist lessen op te schorten wegens ernstige overmacht 
+en daardoor de opleiding in de inrichtingen wordt opgeschort, het tot de klassenraad behoort, om in het 
+dossier van de leerling op te nemen dat de leerling wegens overmacht vrijgesteld is van deze uren opleiding 
+in een inrichting;Overwegende dat het in deze hypothese aan de Klassenraad behoort om, rekening 
+houdend met overmacht, getuigschriften en attesten uit te reiken aan een leerling die niet het geheel 
+van zijn opleiding in een inrichting heeft voltooid;Overwegende dat de Franse Gemeenschap, 
+voor het onderwijs dat zij organiseert, en elke inrichtende macht, voor het gesubsidieerd onderwijs, 
+voor elk onderwijsniveau, het algemeen studiereglement vaststelt;Overwegende dat, het inrichtingshoofd, 
+alvorens de inschrijving van een leerling op te nemen, het algemeen studiereglement aan de leerling moet 
+meedelen, evenals aan de wettelijke verantwoordelijken als hij minderjarig is en dat die inschrijving 
+in een schoolinrichting onderworpen is aan de aanvaarding van dit algemeen studiereglement door de leerling 
+of zijn wettelijke verantwoordelijken als hij minderjarig is;Overwegende dat het, gezien de 
+uitzonderlijke omstandigheden, noodzakelijk is om de toepassing van het algemeen studiereglement van 
+elke inrichting op te schorten met betrekking tot de procedure voor de evaluatie van leerlingen tijdens 
+het einde van dit schooljaar, evenals de procedure voor beraadslaging van de klassenraden en de mededeling 
+van hun beslissingen;Overwegende dat het, gezien de schorsing van het algemeen studiereglement 
+met betrekking tot de bovengenoemde aspecten, noodzakelijk is dat de inrichtende machten de wettelijke 
+verantwoordelijken van minderjarige leerlingen en meerderjarige leerlingen officieel en uitdrukkelijk 
+de nadere regels voor de evaluatie, de bekrachtiging en de beraadslaging meedelen die dit jaar uiterlijk 
+op 31 mei 2020 van toepassing zullen zijn;Overwegende dat, gezien de uitzonderlijke omstandigheden, 
+de leerlingen van het 6e leerjaar van het technisch kwalificatie- en beroepsonderwijs en van het 7e leerjaar 
+van het technisch kwalificatie- en beroepsonderwijs, die gegroepeerde basisopties volgen georganiseerd 
+buiten het CPU-stelsel om bij wijze van uitzondering aan het einde van het schooljaar 2019-2020 gericht 
+kunnen worden op het aanvullend jaar in de derde graad van de kwalificatie-afdeling (C3D), met het oog 
+op het behalen van het kwalificatiegetuigschrift (CQ), het studiegetuigschrift voor het 6e leerjaar van 
+het beroepsonderwijs (CE6P) en het getuigschrift van het hoger secundair onderwijs (CESS), terwijl ze 
+ondanks alle acties die binnen de school worden ondernomen, nog steeds aanwezig zijn moeilijkheden waardoor 
+het onmogelijk is om aan te nemen dat ze de essentiële leerresultaten voldoende beheersen;Overwegende 
+dat dit de enige oplossing is waarmee zij CQ, CE6P of CESS kunnen behalen zonder hun studiejaar te hoeven 
+herhalen;Overwegende dat de beslissing om zich te richten tot het aanvullend jaar op de derde 
+graad van de kwalificatie-afdeling (C3D) absoluut noodzakelijk samen moet gaan met de implementatie van 
+een opvolging en een specifiek onderwijs, aangepast en gericht op de moeilijkheden van de leerling, alleen 
+voor niet verworven modules (remediëring);Overwegende dat moet worden bepaald dat CQ, CE6P 
+of CESS op elk moment tijdens het schooljaar 2020-2021 kunnen worden uitgereikt, zodra aan de kwalificatievoorwaarden 
+is voldaan, maar uiterlijk op 1 december 2020 ;Overwegende dat het noodzakelijk is om de kwalificatie-examencommissie 
+de toelating te geven om een CQ uit te reiken aan een leerling die naar zijn mening de leerresultaten 
+beheerst die zijn vastgelegd in een kwalificatieprofiel of in het referentiesysteem voor competenties 
+dat is vastgelegd in het opleidingsprofiel in het geval dat het kwalificatieprofiel nog niet is vastgesteld 
+door de Regering, op basis van elementen die het al bij de leerling had, toen de Regering besliste de 
+lessen op te schorten wegens een ernstig geval van overmacht en dat deze beslissing het onmogelijk maakt 
+om alle kwalificatieproeven te halen;Overwegende dat een uitgesloten leerling in principe geen 
+recht kan hebben op de bekrachtiging van zijn studiejaar overeenkomstig artikel 2, 10 °,  van het koninklijk 
+besluit van 29 juni 1984 betreffende de organisatie van het secundair onderwijs;Overwegende 
+dat de klassenraad van de inrichting, die een leerling na 15 januari heeft uitgesloten, op de 1ste 
+graad van het secundair onderwijs, hem een oriëntatiegetuigschrift moet uitreiken, maar mag het onderwijsgetuigschrift 
+van de eerste graad ( CE1D) of het getuigschrift basisstudie (CEB) niet uitreiken;Overwegende 
+dat, gezien de uitzonderlijke omstandigheden, uitgesloten leerlingen die vóór het begin van de gezondheidscrisis 
+geen schoolinrichting konden vinden, in aanmerking moeten kunnen komen voor de bekrachtiging van hun 
+studiejaar;Overwegende dat de bevoegdheid moet worden toevertrouwd aan de klassenraad van de 
+inrichting die de leerling na 15 januari heeft uitgesloten, om te beslissen over de bekrachtiging van 
+zijn studiejaar, wanneer deze laatste geen schoolinrichting vóór het begin van de gezondheidscrisis teruggevonden 
+heeft;Overwegende dat moet worden bepaald dat, wanneer de Regering beslist de lessen op te 
+schorten wegens een ernstig geval van overmacht, de schoolinrichting, die een leerling na 15 januari 
+heeft uitgesloten, deze leerling moet toestaan [00e2][0080][008b][00e2][0080][008b]om de kwalificatieproef 
+(proeven) af te leggen die erin worden georganiseerd vóór het einde van het jaar in kwestie, wanneer 
+deze leerling geen schoolinrichting heeft gevonden voordat de lessen zijn opgeschort. De uitreiking van 
+CQ valt onder de bevoegdheid van de kwalificatie-examencommissie;Overwegende dat in principe 
+vanaf de 2e graad van het gewoon en gespecialiseerd secundair onderwijs van vorm 4, de leerling die meer 
+dan 20 halve dagen ongerechtvaardigde afwezigheid in hetzelfde schooljaar telt, zijn hoedanigheid van 
+regelmatig ingeschreven leerling verliest;Overwegende ook dat de Klassenraad tussen 15 en 31 
+mei moet beslissen om de leerling, die meer dan 20 halve dagen ongerechtvaardigde afwezigheid telt, al 
+dan niet de toelating te geven om de eindejaarexamens af te leggen en zo zijn hoedanigheid als regelmatig 
+ingeschreven leerling te herstellen;Overwegende dat de leerling die meer dan 20 halve dagen 
+ongerechtvaardigde afwezigheid na 31 mei telt, de bekrachtiging van studies kan opeisen, zonder voorafgaande 
+beslissing van de klassenraad;Overwegende dat, gezien de huidige context, en uitzonderlijk 
+voor het schooljaar 2019-2020, moet worden bepaald dat de leerling die vanaf 1 maart 2020 meer dan 20 
+halve dagen ongerechtvaardigde afwezigheid telt, aanspraak kan maken op de bekrachtiging van studies;Overwegende 
+dat de directeur momenteel verplicht is om de lijst van de leerlingen die tijdens het betrokken schooljaar 
+meer dan 20 halve dagen ongerechtvaardigde afwezigheid tellen, voor de 30 juni, aan de Regering te bezorgen 
+door tussen deze leerlingen verschillende door regelgeving vastgestelde situaties te onderscheiden;Overwegende 
+dat, gezien de huidige context en om de directeurs aan het einde van het schooljaar te helpen, kan worden 
+afgeweken van de verplichting om deze lijst voor het jaar 2019-2020 te bezorgen;Overwegende 
+dat het reoriëntatie-attest in het CPU-stelsel aan het einde van het 4e leerjaar momenteel alleen kan 
+worden uitgereikt als de inrichting specifieke ondersteuning voor de leerling heeft uitgevoerd om hem 
+te helpen bij het kiezen van een nieuwe studierichting, tenminste gedurende de laatste vier maanden van 
+het lopende schooljaar;Overwegende dat deze steun in principe derhalve uiterlijk op 1 maart 
+2020 had moeten worden verleend, kon deze steun wegens de gezondheidscrisis en de schorsing van de lessen 
+sinds 16 maart 2020 niet verder verleend worden en, in sommige gevallen, zelfs niet gestart;Overwegende 
+dat het in deze context uitzonderlijk mogelijk is om af te wijken van de termijn van 4 maanden voor het 
+schooljaar 2019-2020;Overwegende dat het genummerde decreet van kracht wordt op de dag waarop 
+het wordt aangenomen wegens de dringende noodzakelijkheid van de goedkeuring van deze maatregelen vóór 
+het einde van het schooljaar en de noodzaak om de aangenomen bepalingen zo snel mogelijk aan het betrokken 
+publiek bekend te maken zodat het het einde van het schooljaar met vertrouwen kan voorbereiden en begrijpen. 
+In dit opzicht leeft dit besluit de voorwaarden na die vereist zijn door de rechtspraak van de Raad van 
+State en het Grondwettelijk Hof over de terugwerkende kracht van regelgevende bepalingen met het oog 
+op de uitzonderlijke omstandigheden die hebben geleid tot de aanneming ervan en het bereiken van een 
+doelstelling van algemeen belang, zoals het recht op onderwijs, het recht voor elk kind om in aanmerking 
+te komen voor de maatregelen en diensten die bijdragen aan zijn ontwikkeling, evenals het fundamenteel 
+belang van het kind;Overwegende dat overeenkomstig artikel 3 van het decreet van 17 maart 2020 
+tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis 
+in verband met het COVID-19 coronavirus, de besluiten bedoeld in artikel 1 niet kunnen aangenomen worden 
+zonder dat de adviezen, het overleg en de onderhandelingen die wettelijk of reglementair vereist zijn, 
+vooraf verzameld of georganiseerd worden, worden ze toch aangenomen na advies van de afdeling van de 
+Wetgeving van de Raad van State, tenzij deze laat weten dat zij daartoe niet in staat is om binnen vijf 
+dagen advies uit te brengen;Gelet op het advies nr. 67416/2 van de Raad van State, gegeven 
+op 20 mei 2020, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973 ;Op de voordracht van de Minister van Onderwijs 
+;Na beraadslaging, Besluit : Artikel 1. In afwijking van artikel 7bis, 
+§ 8, derde lid, van de wet van 19 juli 1971 betreffende de algemene structuur en de organisatie 
+van het secundair onderwijs, wordt afgeweken van de stageverplichting, bedoeld in dezelfde bepaling, 
+voor het schooljaar 2019-2020.Art. 2. In afwijking van artikel 7bis, § 8, vijfde lid, 
+van dezelfde wet, kunnen de leerlingen ingeschreven in de gegroepeerde basisoptie « Kinderverzorger/Kinderverzorgster 
+» die voor het schooljaar 2019-2020 vrijgesteld zijn van het geheel of een deel van de stages, het Kwalificatiegetuigschrift 
+van de Kwalificatie-examencommissie krijgen, overeenkomstig het model opgenomen in de bijlagen I en II 
+van dit besluit.Art. 3.  § 1. In afwijking van paragraaf 1 van artikel 2ter van het 
+decreet van 3 juli 1991 tot regeling van het alternerend secundair onderwijs, voor het schooljaar 2019-2020,is 
+het aan :- de klassenraad, om in het dossier van de leerling op te nemen dat deze leerling 
+vrijgesteld is van uren opleiding in een inrichting, gelet op de opschorting van lessen ten gevolge van 
+de COVID-19-pandemie, waardoor het onmogelijk was om een opleiding in de inrichting te volgen;- 
+aan de klassenraad, om, in overleg met de Kwalificatie-examencommissie, in het dossier van de leerling 
+op te nemen dat deze leerling vrijgesteld is van uren opleiding in een onderneming, gelet op de maatregelen 
+genomen om de verspreiding van het COVID-19 onder de bevolking te bestrijden. § 2. De 
+beslissing om het getuigschrift voor secundair onderwijs van de tweede graad, het studiegetuigschrift 
+van het zesde jaar van het beroepssecundair onderwijs, het getuigschrift van hoger secundair onderwijs, 
+getuigschriften en attesten toe te kennen aan een leerling die niet het geheel van zijn opleiding in 
+een inrichting voltooid heeft, valt onder de bevoegdheid van de klassenraad. § 3. De 
+beslissing om het kwalificatiegetuigschrift toe te kennen aan een leerling die niet het geheel van zijn 
+opleiding in een onderneming heeft voltooid, valt onder de bevoegdheid van de kwalificatie-examencommissie.Art. 
+4.  § 1. In afwijking van paragraaf 2 van artikel 2ter van hetzelfde decreet is het aan :- 
+de klassenraad om in het dossier van de leerling op te nemen dat deze leerling vrijgesteld is van uren 
+opleiding in de inrichting, gelet op de opschorting van lessen ten gevolge van de COVID-19-pandemie, 
+waardoor het onmogelijk was om een opleiding in de inrichting te volgen;- de klassenraad om, 
+in overleg met de kwalificatie-examencommissie, in het dossier van de leerling op te nemen dat deze vrijgesteld 
+is van de uren opleiding in een onderneming, gelet op de maatregelen genomen om de verspreiding van het 
+COVID-19 onder de bevolking te bestrijden.  § 2. De beslissing om getuigschriften en 
+attesten toe te kennen aan een leerling die niet al zijn opleiding in een inrichting heeft voltooid, 
+valt onder de bevoegdheid van de Klassenraad.  § 3. De beslissing om het kwalificatiegetuigschrift 
+toe te kennen aan een leerling die niet al zijn opleiding in een onderneming heeft voltooid, valt onder 
+de bevoegdheid van de kwalificatie-examencommissie.Art. 5. Het studiereglement bedoeld in artikel 
+78, § 1, van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs 
+en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren en 
+ter kennis gebracht de leerling of van zijn ouders of de persoon belast met het ouderlijk gezag indien 
+hij minderjarig is, wordt geschorst voor het schooljaar 2019-2020, met betrekking tot de evaluatie- en 
+beraadslagingsprocedures van de klassenraden en de mededeling van hun beslissingen. De nadere regels 
+met betrekking tot deze aspecten moeten uiterlijk op 31 mei 2020 worden meegedeeld door de inrichtende 
+macht, aan de meerderjarige leerling of, voor de minderjarige leerling, aan de ouders of de persoon die 
+belast is met het ouderlijk gezag.Art. 6.  § 1. In afwijking van artikel 6quater van 
+het decreet van 30 juni 2006 betreffende de pedagogische organisatie van de eerste graad van het secundair 
+onderwijs, is de klassenraad van de inrichting die een leerling heeft uitgesloten na 15 januari 2020, 
+toen hij geen schoolinrichting kon vinden vóór de schorsing van de lessen, bevoegd om het onderwijsgetuigschrift 
+van de eerste graad of het getuigschrift basisstudies voor het schooljaar 2019-2020 uit te reiken. 
+§ 2. Wanneer een leerling die na 15 januari 2020 uitgesloten is, een schoolinrichting heeft kunnen 
+vinden vóór de schorsing van de lessen, stuurt de schoolinrichting waarvan de leerling is uitgesloten 
+naar de nieuwe inrichting een verslag over de verworven kennis van de leerling, waardoor de Klassenraad 
+over informatie kan beschikken op basis waarvan zij een beslissing zal nemen over het slagen van de leerling 
+en hem het onderwijsgetuigschrift van de eerste graad of, in voorkomend geval, het getuigschrift basisstudies, 
+zal bezorgen.Art. 7. In afwijking van artikel 26, zevende lid, van het decreet van 21 november 
+2013 tot organisatie van verschillende schoolstelsels ter bevordering van het welzijn van jongeren op 
+school, schoolherinschakeling, preventie van geweld op school en begeleiding van studieoriëntatie, voor 
+het schooljaar 2019-2020, kan de leerling die vanaf 1 maart 2020 meer dan 20 halve dagen ongerechtvaardigde 
+afwezigheid telt, aanspraak maken op de bekrachtiging van de studies.Art. 8. In afwijking van 
+artikel 26, achtste lid, van hetzelfde decreet, wordt de verplichting om de lijst bedoeld in dit lid 
+voor het schooljaar 2019-2020 geschorst.Art. 9.  In afwijking van artikel 3 van het besluit 
+van de Regering van de Franse Gemeenschap van 6 september 2001 tot bepaling van de voorwaarden voor de 
+geldigheid en de spreiding van de stages voor de gegroepeerde basisopties "kinderverzorging" en "aspirant(e) 
+nursing" van de derde kwalificatiegraad van het secundair onderwijs alsook voor het 7e jaar dat leidt 
+tot het behalen van een kwalificatiegetuigschrift van "kinderverzorger/kinderverzorgster, mag afgeweken 
+worden van de verplichting om een aanvraag om uitstel van de stage in te dienen voor het schooljaar 2019-2020 
+voor de leerlingen aan wie het kwalificatiegetuigschrift niet zou kunnen uitgereikt worden door de kwalificatie-examencommissie, 
+bij gebrek aan voldoende beheersing van de minimale competenties. Het behoort tot de klassenraad, in 
+overleg met de kwalificatie-examencommissie, om het uitstel van de stages in het dossier van de leerling 
+te vermelden.Art. 10. In afwijking van artikel 4, § 1, 7°,  eerste lid, van het koninklijk 
+besluit van 29 juni 1984 betreffende de organisatie van het secundair onderwijs, kan het aanvullend jaar 
+in de derde graad van de kwalificatie-afdeling (C3D) tot 1 december 2020 georganiseerd worden, buiten 
+het CPU-stelsel, in het onderwijs met volledig leerplan of in het alternerend onderwijs, voor de regelmatig 
+ingeschreven leerlingen die geen kwalificatiegetuigschrift, geen studiegetuigschrift van het 6de 
+leerjaar van het beroepsonderwijs, geen getuigschrift van hoger secundair onderwijs of geen getuigschrift 
+betreffende de kennis van basisbeheer na het schooljaar 2019-2020 hebben behaald. In het CPU-stelsel, 
+kan C3D tot 1 december 2020 georganiseerd worden in het onderwijs met volledig leerplan of in het alternerend 
+onderwijs voor de regelmatig ingeschreven leerlingen die geen getuigschrift betreffende de kennis van 
+de basisbeheer na het schooljaar 2019-2020 hebben behaald.Art. 11.  § 1. Voor het schooljaar 
+2019-2020 moet de Klassenraad van de schoolinrichting van een uitgesloten leerling na 15 januari 2020, 
+wanneer hij geen schoolinrichting heeft kunnen vinden vóór de schorsing van de lessen, beslissen over 
+de bekrachtiging van het studiejaar van die leerling en hem, indien nodig, een oriëntatie-attest of een 
+getuigschrift geven. § 2. Wanneer een leerling die na 15 januari 2020 uitgesloten is, 
+een schoolinrichting heeft kunnen vinden vóór de schorsing van de lessen, stuurt de schoolinrichting 
+waarvan de leerling is uitgesloten, naar de nieuwe school een verslag over de verworven kennis van de 
+leerling, waardoor de Klassenraad over informatie kan beschikken op basis waarvan hij over de bekrachtiging 
+van het studiejaar van deze leerling zal beslissen en, indien nodig, hem een oriëntatie-attest of een 
+getuigschrift zal geven.Art. 12. Voor het schooljaar 2019-2020 moeten de resultaten van proeven 
+georganiseerd door de leerkrachten, bedoeld in artikel 21bis, § 3, 2 °,  van het koninklijk besluit 
+van 29 juni 1984 betreffende de organisatie van het onderwijs secundair, waarop de klassenraad zijn beoordelingen 
+baseert, alleen betrekking hebben op de resultaten van de proeven die in de klas worden georganiseerd 
+over de stof die wordt gezien buiten de periode van de schorsing van de lessen. Aan de andere kant kan 
+de positieve implicatie bij de realisatie van werken die uitgevoerd zijn tijdens de schorsingsperiode 
+van de lessen het voorwerp zijn van een algemene beoordeling die ten voordele van de leerling in de beslissing 
+komt.Art. 13. In afwijking van artikel 26, § 5, tweede lid, van hetzelfde besluit, voor 
+het schooljaar 2019-2020, behoort de beslissing om het kwalificatiegetuigschrift uit te reiken aan een 
+leerling die niet het geheel van zijn verplichte stages voltooid heeft, tot de kwalificatie-examencommissie. 
+Art. 14. Voor het schooljaar 2019-2020 moet de schoolinrichting, na uitsluiting van een leerling 
+na 15 januari, deze leerling de mogelijkheid geven om de kwalificatieproef (ven) die erin georganiseerd 
+zijn, voor het einde van dit jaar af te leggen, wanneer laatstgenoemde geen schoolinrichting kon vinden 
+voordat de lessen zijn opgeschort. De uitreiking van het kwalificatiegetuigschrift valt onder de bevoegdheid 
+van de kwalificatie-examencommissie.Art. 15. In afwijking van artikel 26, § 1, van hetzelfde 
+besluit mag voor het schooljaar 2019-2020 het kwalificatiegetuigschrift worden uitgereikt aan regelmatige 
+leerlingen voor wie de kwalificatie-examencommissie, op grond van de elementen waarover ze beschikt, 
+inzonderheid het resultaat van vorige proeven, voltooide stages, andere elementen in het leerdossier 
+van de leerling en andere voldoende elementen, van mening is dat ze de minimale competenties beheersen 
+die essentieel zijn voor de leerresultaten van één van de kwalificatieprofielen bedoeld in artikel 5, 
+14 °,  van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van 
+het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren, bepaald 
+door de kwalificatie-examencommissieArt. 16. In afwijking van artikel 10 van het besluit van 
+de Regering van de Franse Gemeenschap van 15 mei 2014 tot bepaling van de nadere regels voor de organisatie 
+van stages in het gewoon secundair onderwijs en het gespecialiseerd secundair onderwijs van vorm 4, voor 
+het schooljaar 2019-2020, is het aan de Klassenraad, in overleg met de kwalificatie-examencommissie, 
+om in het dossier van de leerling op te nemen dat deze leerling vrijgesteld is van het geheel of een 
+deel van de stages, wegens overmacht.Art. 17. In afwijking van artikel 19, § 6, van 
+het besluit van de Regering van de Franse Gemeenschap van 11 mei 2016 betreffende de attesten, verslagen, 
+getuigschriften en brevetten uitgereikt tijdens de secundaire studies met volledig leerplan, voor het 
+schooljaar 2019 -2020, wordt het kwalificatiegetuigschrift, uitgereikt met toepassing van het besluit 
+van de Regering van de Franse Gemeenschap van 6 september 2001 houdende bijzondere regeling voor de gegroepeerde 
+basisopties "kinderverzorging" en "aspirant(e) nursing" van de derde kwalificatiegraad van het secundair 
+onderwijs alsook voor het 7e jaar secundair beroepsonderwijs dat leidt tot het behalen van een kwalificatiegetuigschrift 
+van kinderverzorger/kinderverzorgster, gesteld volgens het model opgenomen in bijlage I of in bijlage 
+II bij dit besluit.Art. 18. In afwijking van punt 1 van punt 4 van bijlage 54 met betrekking 
+tot de instructies voor het opstellen van de attesten, verslagen, getuigschriften en brevetten die tijdens 
+de studies worden uitgereikt, zoals bepaald in artikel 26 van het besluit van de Regering van de Franse 
+Gemeenschap van 11 mei 2016 betreffende de attesten, verslagen, getuigschriften en brevetten uitgereikt 
+tijdens de secundaire studies met volledig leerplan, gaat het om een kwalificatiegetuigschrift, een studiegetuigschrift 
+van het 6de leerjaar van het beroepsonderwijs, of van een getuigschrift van hoger secundair 
+onderwijs of een getuigschrift betreffende de kennis van het basisbeheer uitgereikt tijdens het aanvullend 
+jaar in de derde graad van de kwalificatie-afdeling (C3D), voor de gegroepeerde basisopties buiten het 
+CPU-stelsel, na het schooljaar 2019-2020, zal het bekwaamheidsbewijs uitgereikt kunnen worden ongeacht 
+het ogenblik van het schooljaar tot 1 december 2020.Art. 19. In afwijking van artikel 4, § 
+1, 3°,  van het besluit van de Regering van de Franse Gemeenschap van 29 augustus 2018 tot experimentele 
+organisatie, in het kwalificatiestelsel uitgedrukt in eenheden van leerresultaten (CPU), van gegroepeerde 
+basisopties in het vierde, vijfde en zesde leerjaar van het kwalificerend secundair onderwijs, voor het 
+schooljaar 2019-2020, mag de termijn van 4 maanden niet worden toegepast, voor de uitvoering van de specifieke 
+begeleiding van de leerling.Art. 20. Dit besluit treedt in werking de dag waarop het in het 
+Belgisch Staatsblad wordt bekendgemaakt, met uitzondering van artikel 5 dat in werking treedt de dag 
+waarop het aangenomen wordt. Art. 21. De Minister van Onderwijs is belast met de uitvoering 
+van dit besluit.Brussel, 11 juni 2020.De Minister-President,P.-Y. JEHOLETDe 
+Minister van Onderwijs,C. DESIR   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-19Numac : 2020041741
+

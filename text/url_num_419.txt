@@ -1,0 +1,97 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/07/15/2021040240/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-22Numac : 2021040240
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 15 JULI 2020. - Wet tot wijziging van de wet van 4 mei 2020 tot regeling van de opschorting van de procedure sociale verkiezingen van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie om de termijn tot het afsluiten van een akkoord om elektronisch te stemmen bij de sociale verkiezingen 2020 te verlengen. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 15 juli 2020 
+tot wijziging van de wet van 4 mei 2020 tot regeling van de opschorting van de procedure sociale verkiezingen 
+van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie om de termijn tot het afsluiten van een 
+akkoord om elektronisch te stemmen bij de sociale verkiezingen 2020 te verlengen (Belgisch Staatsblad 
+van 27 juli 2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST BESCHÄFTIGUNG, ARBEIT UND SOZIALE 
+KONZERTIERUNG15. JULI 2020 - Gesetz zur Abänderung des Gesetzes vom 4. Mai 2020 zur Regelung 
+der Aussetzung des Verfahrens der Sozialwahlen des Jahres 2020 infolge der Pandemie des Coronavirus COVID-19 
+zur Verlängerung der Frist für das Schließen einer Vereinbarung über die elektronische Stimmabgabe 
+bei den Sozialwahlen 2020PHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 
+1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 
+2 - In Kapitel 3 des Gesetzes vom 4. Mai 2020 zur Regelung der Aussetzung des Verfahrens der Sozialwahlen 
+des Jahres 2020 infolge der Pandemie des Coronavirus COVID-19 wird ein Artikel 15/1 mit folgendem Wortlaut 
+eingefügt:"Art. 15/1 - § 1 - In Abweichung von den Artikeln 71 und 74 des Gesetzes vom 
+4. Dezember 2007 kann der Beschluss, eine elektronische Wahl vorzunehmen, ob vom gewöhnlichen Arbeitsplatz 
+aus oder nicht, nach der Wiederaufnahme des in Artikel 6 erwähnten Verfahrens unter den nachfolgend festgelegten 
+Bedingungen noch gefasst werden. Unter Vorbehalt der in vorliegendem Artikel vorgesehenen Bestimmungen 
+und Abweichungen gelten die Bestimmungen von Kapitel III Abschnitt V des Gesetzes vom 4. Dezember 2007 
+über die elektronische Wahl weiterhin uneingeschränkt. § 2 - In Abweichung von den Artikeln 
+14 Absatz 1 Nr. 9, 71 und 74 Absatz 4 des Gesetzes vom 4. Dezember 2007 kann der Beschluss, eine elektronische 
+Wahl vorzunehmen, ob vom gewöhnlichen Arbeitsplatz aus oder nicht, noch bis zu vierunddreißig Tage 
+vor dem gemäß Artikel 6 festgelegten Datum der verschobenen Wahlen gefasst werden. § 
+3 - In Abweichung von den Artikeln 71 und 74 Absatz 1 und 3 des Gesetzes vom 4. Dezember 2007 wird der 
+in § 2 erwähnte Beschluss im Einvernehmen zwischen dem Arbeitgeber und allen Vertretern der repräsentativen 
+Arbeitnehmerorganisationen und der repräsentativen Führungskräfteorganisationen, die Kandidaten für die 
+betreffende Arbeitnehmerkategorie vorgeschlagen haben, gefasst.Dieser Beschluss wird den Betreffenden 
+unverzüglich zur Kenntnis gebracht durch Aushang einer Bekanntmachung zur Berichtigung der in Artikel 
+14 Absatz 1 Nr. 9 des Gesetzes vom 4. Dezember 2007 erwähnten Information in der Bekanntmachung, in der 
+das Datum der Wahlen angekündigt wird, an denselben Stellen, an denen diese letzte Bekanntmachung ausgehängt 
+wurde. Dieser Aushang kann durch die Zurverfügungstellung einer elektronischen Unterlage ersetzt werden, 
+sofern alle Arbeitnehmer während ihrer normalen Arbeitszeit Zugang dazu haben. Diese Berechtigungsbekanntmachung 
+wird gleichzeitig den in Artikel 4 Nr. 6 des Gesetzes vom 4. Dezember 2007 erwähnten Organisationen und, 
+falls das Verfahren die Einsetzung eines Rates betrifft, der in Artikel 4 Nr. 5 desselben Gesetzes erwähnten 
+Organisation notifiziert, entweder auf elektronischem Wege über die eigens dafür vorgesehene Webanwendung 
+auf der Website des FÖD Beschäftigung, Arbeit und Soziale Konzertierung oder per Post an den Sitz der 
+vorerwähnten Organisationen."Art. 3 - In Artikel 8 des Gesetzes vom 4. Mai 2020 zur Regelung 
+der Aussetzung des Verfahrens der Sozialwahlen des Jahres 2020 infolge der Pandemie des Coronavirus COVID-19 
+werden die Wörter "von Artikel 10" durch die Wörter "der Artikel 10 und 15/1" ersetzt.Art. 
+4 - Vorliegendes Gesetz tritt am 23. September 2020 in Kraft.Wir fertigen das vorliegende Gesetz 
+aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht 
+wird.Gegeben zu Brüssel, den 15. Juli 2020PHILIPPEVon Königs wegen:Die 
+Ministerin der BeschäftigungN. MUYLLEMit dem Staatssiegel versehen:Der 
+Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-22Numac : 2021040240
+

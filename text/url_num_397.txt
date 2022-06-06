@@ -1,0 +1,288 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/08/29/2021020179/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-01-27Numac : 2021020179
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 29 AUGUSTUS 2019. - Koninklijk besluit tot aanpassing van sommige federale fiscale bepalingen aan het Wetboek van vennootschappen en verenigingen en aan het koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen en houdende diverse bepalingen. - Duitse vertaling van uittreksels 
+De hierna volgende tekst is de Duitse vertaling van de artikelen 1 tot 25, 
+27 en 38 tot 40 van het koninklijk besluit van 29 augustus 2019 tot aanpassing van sommige federale fiscale 
+bepalingen aan het Wetboek van vennootschappen en verenigingen en aan het koninklijk besluit van 29 april 
+2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen en houdende diverse bepalingen 
+(Belgisch Staatsblad van 13 september 2019).Deze vertaling is opgemaakt door de Centrale dienst 
+voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN29. 
+AUGUST 2019 - Königlicher Erlass zur Anpassung bestimmter föderaler steuerrechtlicher Bestimmungen an 
+das Gesetzbuch der Gesellschaften und Vereinigungen und den Königlichen Erlass vom 29. April 2019 zur 
+Ausführung des Gesetzbuches der Gesellschaften und Vereinigungen und zur Festlegung verschiedener BestimmungenBERICHT 
+AN DEN KÖNIGSire,durch vorliegenden Erlassentwurf werden infolge der Verabschiedung 
+des neuen Gesetzbuches der Gesellschaften und Vereinigungen und des Königlichen Erlasses vom 29. April 
+2019 zur Ausführung des Gesetzbuches der Gesellschaften und Vereinigungen die notwendigen Anpassungen 
+an den föderalen steuerrechtlichen Bestimmungen angebracht, die in verschiedenen Königlichen Erlassen 
+enthalten sind.Wie dies bereits beim Gesetz vom 17. März 2019 zur Anpassung bestimmter föderaler 
+steuerrechtlicher Bestimmungen an das neue Gesetzbuch der Gesellschaften und Vereinigungen der Fall war, 
+wird mit vorliegendem Erlassentwurf im Prinzip darauf abgezielt, die Neutralität dieses neuen Gesetzbuches 
+in steuerlicher Hinsicht zu gewährleisten, nicht aber wesentliche Abänderungen an diesen steuerrechtlichen 
+Bestimmungen anzubringen.Im Gesetz vom 23. März 2019 zur Einführung des Gesetzbuches der Gesellschaften 
+und Vereinigungen und zur Festlegung verschiedener Bestimmungen wird Gesellschaften, die am 1. Januar 
+2019 bestehen, dennoch besondere Aufmerksamkeit gewidmet; für sie sind ausführliche Übergangsbestimmungen 
+vorgesehen. Für diese bestehenden Gesellschaften bleibt das alte Gesellschaftsgesetzbuch einige Zeit 
+anwendbar. Das Inkrafttreten des vorliegenden Entwurfs und seine Anwendung tragen dem Rechnung, indem 
+sichergestellt wird, dass für Gesellschaften, die weiterhin dem Gesellschaftsgesetzbuch unterliegen, 
+die in den Ausführungserlassen enthaltenen Verweise auf die Bestimmungen des Gesellschaftsgesetzbuches 
+beibehalten werden und für Gesellschaften, die vorübergehend eine aufgehobene Rechtsform beibehalten 
+können (z.B. landwirtschaftliche Gesellschaften oder wirtschaftliche Interessenvereinigungen), die Verweise 
+auf diese aufgehobenen Gesellschaftsformen in den Ausführungserlassen ebenfalls zeitweilig beibehalten 
+werden.Für weitere Bemerkungen zu diesem Inkrafttreten wird auf die Begründung zu vorerwähntem 
+Gesetz vom 17. März 2019 verwiesen (Parlamentarische Arbeiten 54-3367-001).KAPITEL 1 - Abänderungen 
+in Bezug auf die EinkommensteuernAbschnitt 1 - Abänderungen des Königlichen Erlasses zur Ausführung 
+des Einkommensteuergesetzbuches 1992 (KE/EStGB 92)Art. 1 bis 22 - Durch die Artikel 1 bis 22 
+wird der KE/EStGB 92 an die Bestimmungen des Gesetzbuches der Gesellschaften und Vereinigungen angepasst.Art. 
+23 und 24 - Durch die Artikel 23 und 24 werden Anlage 3 beziehungsweise Anlage 3ter desselben Erlasses 
+an die Bestimmungen des Gesetzbuches der Gesellschaften und Vereinigungen angepasst.Abschnitt 
+2 - Abänderungen verschiedener autonomer Verordnungsbestimmungen in Bezug auf die EinkommensteuernArt. 
+25 und 26 - Durch Artikel 25 wird Artikel 1 Nr. 5 Buchstabe c) des Königlichen Erlasses vom 17. Juli 
+2013 über die Funktionsweise der in Artikel 322 § 3 des Einkommensteuergesetzbuches 1992 erwähnten 
+zentralen Kontaktstelle an die Bestimmungen des Königlichen Erlasses vom 29. April 2019 zur Ausführung 
+des Gesetzbuches der Gesellschaften und Vereinigungen angepasst.Durch Artikel 26 wird Artikel 
+1 Absatz 5 erster Gedankenstrich des Königlichen Erlasses vom 18. Dezember 2015 zur Ausführung von Artikel 
+2 § 1 Nr. 13 Buchstabe b) Absatz 2 des Einkommensteuergesetzbuches 1992, abgeändert durch Artikel 
+1 des Königlichen Erlasses vom 21. November 2018, an die Bestimmungen des Gesetzbuches der Gesellschaften 
+und Vereinigungen angepasst.KAPITEL 2 - Abänderung in Bezug auf die MehrwertsteuerArt. 
+27 - Die Abänderung, die durch Artikel 27 des vorliegenden Entwurfs am Königlichen Erlass Nr. 20 vom 
+20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen 
+nach diesen Sätzen (nachstehend: Königlicher Erlass Nr. 20) angebracht wird, ist eine unmittelbare Folge 
+des Inkrafttretens des neuen Gesetzbuches der Gesellschaften und Vereinigungen.In Tabelle A 
+Rubrik XXXII § 1 Nr. 1 Buchstabe c) und Nr. 3 der Anlage zu vorerwähntem Königlichen Erlass Nr. 
+20 wurde bisher auf "Gesellschaften mit sozialer Zielsetzung" verwiesen. Dieser Begriff verschwindet 
+im neuen Gesetzbuch der Gesellschaften und Vereinigungen. Fortan gibt es eine Anerkennung in der Rechtsform 
+der Genossenschaft, bei der eine öffentliche Behörde überprüft, ob eine bestimmte Gesellschaft die Bezeichnung 
+"Sozialunternehmen" verdient.Genossenschaften, die die Bedingungen erfüllen, um als Sozialunternehmen 
+(abgekürzt "SU") tätig zu sein, und als solches anerkannt sind, werden daher "als Sozialunternehmen anerkannte 
+Genossenschaften" oder abgekürzt "als SU anerkannte Gen." genannt.Folglich wird durch Artikel 
+27 des vorliegenden Entwurfs Tabelle A Rubrik XXXII § 1 Nr. 1 Buchstabe c) und Nr. 3 der Anlage 
+zum Königlichen Erlass Nr. 20 angepasst, indem der Begriff "Gesellschaft mit sozialer Zielsetzung" durch 
+den Begriff "gemäß Artikel 8:5 des Gesetzbuches der Gesellschaften und Vereinigungen als Sozialunternehmen 
+anerkannte Genossenschaft" ersetzt wird.KAPITEL 3 BIS 5 - Verschiedene Gebühren und Steuern 
+- Registrierungs-, Hypotheken- und KanzleigebührenDurch die Kapitel 3 bis 5 werden folgende 
+Erlasse angepasst:1. der Ausführungserlass vom 3. März 1927 zum Gesetzbuch der verschiedenen 
+Gebühren und Steuern,2. der Königliche Erlass vom 11. Januar 1940 über die Ausführung des Registrierungs-, 
+Hypotheken- und Kanzleigebührengesetzbuches,3. der Königliche Erlass vom 7. Dezember 2016 zur 
+Regelung der entmaterialisierten Vorlage von privatschriftlichen Mietverträgen für die Registrierungsformalität,4. 
+der Königliche Erlass vom 17. Februar 2019 zur Ausführung verschiedener Gesetze und zur Anpassung verschiedener 
+Königlicher Erlasse unter anderem im Hinblick auf die Harmonisierung der Zahlungsmodalitäten innerhalb 
+der mit der Einnahme und Beitreibung von Steuerforderungen und nichtsteuerlichen Forderungen beauftragten 
+Verwaltung des Föderalen Öffentlichen Dienstes Finanzen.Durch Artikel 31 wird eine Bestimmung 
+aufgehoben, die sich auf eine Steuer bezieht, die selbst durch das Gesetz vom 25. April 2014 aufgehoben 
+worden ist (die außergewöhnliche Steuer auf Zahlungen für langfristiges Sparen).KAPITEL 
+6 - Übergangsbestimmung, Inkrafttreten und AusführungsbestimmungIn den Artikeln 38 und 39 werden 
+die Übergangsbestimmung und das Inkrafttreten der Bestimmungen des vorliegenden Entwurfs festgelegt.Den 
+Bemerkungen des Staatsrates in seinem Gutachten Nr. 66.408/1/V vom 31. Juli 2019 ist Rechnung getragen 
+worden.Ich habe die Ehre,Sire,der ehrerbietigeund treue DienerEurer 
+Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. DE CROO29. 
+AUGUST 2019 - Königlicher Erlass zur Anpassung bestimmter föderaler steuerrechtlicher Bestimmungen an 
+das Gesetzbuch der Gesellschaften und Vereinigungen und den Königlichen Erlass vom 29. April 2019 zur 
+Ausführung des Gesetzbuches der Gesellschaften und Vereinigungen und zur Festlegung verschiedener BestimmungenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund der Verfassung, 
+des Artikels 108;Aufgrund des Gesetzbuches der Gesellschaften und Vereinigungen;Aufgrund 
+des Gesetzes vom 25. April 2014 zur Anpassung der Bezeichnungen der Verwaltungen des Föderalen Öffentlichen 
+Dienstes Finanzen in den steuerrechtlichen Vorschriften und zur Festlegung verschiedener anderer Gesetzesabänderungen, 
+des Artikels 86;Aufgrund des Gesetzes vom 17. März 2019 zur Anpassung bestimmter föderaler 
+steuerrechtlicher Bestimmungen an das neue Gesetzbuch der Gesellschaften und Vereinigungen, des Artikels 
+119 § 2;Aufgrund des Gesetzes vom 23. März 2019 zur Einführung des Gesetzbuches der 
+Gesellschaften und Vereinigungen und zur Festlegung verschiedener Bestimmungen, des Artikels 32;Aufgrund 
+des Gesetzbuches der verschiedenen Gebühren und Steuern, des Artikels 199 Absatz 3;Aufgrund 
+des KE/EStGB 92;Aufgrund des Königlichen Erlasses vom 17. Juli 2013 über die Funktionsweise 
+der in Artikel 322 § 3 des Einkommensteuergesetzbuches 1992 erwähnten zentralen Kontaktstelle;Aufgrund 
+des Königlichen Erlasses vom 18. Dezember 2015 zur Ausführung von Artikel 2 § 1 Nr. 13 Buchstabe 
+b) Absatz 2 des Einkommensteuergesetzbuches 1992;Aufgrund des Königlichen Erlasses Nr. 20 vom 
+20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen 
+nach diesen Sätzen;Aufgrund des Ausführungserlasses vom 3. März 1927 zum Gesetzbuch der verschiedenen 
+Gebühren und Steuern;Aufgrund des Königlichen Erlasses vom 11. Januar 1940 über die Ausführung 
+des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches;Aufgrund des Königlichen Erlasses 
+vom 7. Dezember 2016 zur Regelung der entmaterialisierten Vorlage von privatschriftlichen Mietverträgen 
+für die Registrierungsformalität;Aufgrund des Königlichen Erlasses vom 17. Februar 2019 zur 
+Ausführung verschiedener Gesetze und zur Anpassung verschiedener Königlicher Erlasse unter anderem im 
+Hinblick auf die Harmonisierung der Zahlungsmodalitäten innerhalb der mit der Einnahme und Beitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen beauftragten Verwaltung des Föderalen Öffentlichen 
+Dienstes Finanzen;Aufgrund des Gutachtens Nr. 66.408/1/V des Staatsrates vom 31. Juli 2019, 
+abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:KAPITEL 1 - Abänderungen in Bezug auf die EinkommensteuernAbschnitt 
+1 - Abänderungen des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992 (KE/EStGB 
+92)Artikel 1 - In Artikel 3 Nr. 1 des KE/EStGB 92, abgeändert durch das Gesetz vom 16. Juli 
+2008, wird das Wort "Gesellschaftssitz," aufgehoben.Art. 2 -  In der Überschrift von Kapitel 
+1 Abschnitt 5 desselben Erlasses werden die Wörter "landwirtschaftliche Gesellschaften" durch die Wörter 
+"Gesellschaften, die zugelassen sind als Landwirtschaftsunternehmen wie in Artikel 8:2 des Gesetzbuches 
+der Gesellschaften und Vereinigungen erwähnt und die die Rechtsform einer offenen Handelsgesellschaft 
+oder einer Kommanditgesellschaft haben" ersetzt.Art. 3 -  Artikel 12 desselben Erlasses, abgeändert 
+durch den Königlichen Erlass vom 13. Juli 2001, wird wie folgt abgeändert:1. Die Wörter "Landwirtschaftliche 
+Gesellschaften" werden durch die Wörter "Gesellschaften, die zugelassen sind als Landwirtschaftsunternehmen 
+wie in Artikel 8:2 des Gesetzbuches der Gesellschaften und Vereinigungen erwähnt und die die Rechtsform 
+einer offenen Handelsgesellschaft oder einer Kommanditgesellschaft haben," ersetzt.2. Das Wort 
+"Gesellschaftskapital" wird durch das Wort "Kapital" ersetzt.Art. 4 -  In Artikel 15 Nr. 2 
+desselben Erlasses wird das Wort "Gesellschaftskapitals" durch das Wort "Kapitals" ersetzt.Art. 
+5 -  Artikel 16 desselben Erlasses wird wie folgt ersetzt:"Wenn eine Gesellschaft nicht mehr 
+zugelassen ist als Landwirtschaftsunternehmen wie in Artikel 8:2 des Gesetzbuches der Gesellschaften 
+und Vereinigungen erwähnt oder die Rechtsform einer Gesellschaft mit beschränkter Haftung oder einer 
+Genossenschaft angenommen hat, wird dem Optionssystem mit Beginn des Besteuerungszeitraums, in dem die 
+Zulassung endet oder die neue Rechtsform angenommen wird, von Amts wegen ein Ende gesetzt. Die Gesellschaft 
+unterliegt weiterhin der Gesellschaftssteuer."Art. 6 - In Artikel 35 § 1 Nr. 1 desselben 
+Erlasses, ersetzt durch den Königlichen Erlass vom 7. Dezember 2008, wird das Wort "Sitz," aufgehoben 
+und werden die Wörter "Sitz oder" ebenfalls aufgehoben.Art. 7 - In Artikel 53/1 § 1 
+Nr. 2 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 12. Januar 2017, werden die Wörter 
+"ihren Gesellschaftssitz," aufgehoben.Art. 8 -  In Artikel 636 § 1 
+Nr. 3 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 1. September 1995, wird das Wort 
+"Gesellschaftskapital" durch das Wort "Kapital" ersetzt.Art. 9 -  Artikel 734/2 
+desselben Erlasses, eingefügt durch den Königlichen Erlass vom 19. Dezember 2014 und abgeändert durch 
+den Königlichen Erlass vom 27. Januar 2017, wird wie folgt abgeändert:1. Paragraph 1 wird wie 
+folgt abgeändert:a) Im einleitenden Satz wird das Wort "Gesellschaftszweck" durch das Wort 
+"Gegenstand" ersetzt.b) Im zweiten Gedankenstrich werden die Wörter "Artikel 11 und 12 des 
+Gesellschaftsgesetzbuches" durch die Wörter "Artikel 1:20 und 1:21 des Gesetzbuches der Gesellschaften 
+und Vereinigungen" ersetzt.2. Paragraph 2 wird wie folgt abgeändert:a) Im einleitenden 
+Satz wird das Wort "Gesellschaftszweck" durch das Wort "Gegenstand" ersetzt.b) Im ersten Gedankenstrich 
+werden die Wörter "Artikel 11 und 12 des Gesellschaftsgesetzbuches" durch die Wörter "Artikel 1:20 und 
+1:21 des Gesetzbuches der Gesellschaften und Vereinigungen" ersetzt.Art. 10 - In Artikel 734septies 
+Absatz 2 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 17. September 2005, werden die 
+Wörter "Artikel 92 § 2 des Gesellschaftsgesetzbuches" durch die Wörter "Artikel 3:1 § 2 
+des Gesetzbuches der Gesellschaften und Vereinigungen" ersetzt.Art. 11 -  In Artikel 737 
+desselben Erlasses, eingefügt durch den Königlichen Erlass vom 29. November 2000 und abgeändert durch 
+die Königlichen Erlasse vom 30. Juli 2010 und 5. Dezember 2011, werden die Wörter "über einen Gesellschaftssitz 
+noch" aufgehoben.Art. 12 -  In Artikel 74 Absatz 2 Nr. 1 vierter Gedankenstrich desselben Erlasses 
+werden die Wörter "einer gemäß den Bestimmungen der koordinierten Gesetze über die Handelsgesellschaften 
+ordnungsgemäß getroffenen Entscheidung zur Herabsetzung des Gesellschaftskapitals" durch die Wörter 
+"einer ordnungsgemäß getroffenen Entscheidung der Gesellschaft gemäß dem Gesetzbuch der Gesellschaften 
+und Vereinigungen oder, wenn die Gesellschaft diesem Gesetzbuch nicht unterliegt, gemäß den Bestimmungen 
+des Rechts, dem sie unterliegt," ersetzt.Art. 13 -  Artikel 87 desselben Erlasses, zuletzt 
+abgeändert durch den Königlichen Erlass vom 22. Mai 2017, wird wie folgt abgeändert:1. In Nr. 
+5 Buchstabe b) werden die Wörter "ihres Gesellschafts- beziehungsweise Vereinigungszwecks, ihres satzungsmäßigen 
+oder ihres vertraglichen Zwecks" durch die Wörter "ihres Gegenstands" ersetzt.2. In Nr. 7 werden 
+die Wörter "Mitgliedern zivilrechtlicher Gesellschaften oder von Vereinigungen ohne Rechtspersönlichkeit" 
+durch die Wörter "Mitgliedern von Gesellschaften oder Vereinigungen ohne Rechtspersönlichkeit" ersetzt.Art. 
+14 -  Artikel 952 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 22. 
+August 2006 und zuletzt abgeändert durch den Königlichen Erlass vom 19. Juli 2018, wird wie folgt abgeändert:1. 
+In § 1 Absatz 3 Nr. 3 Buchstabe g) werden die Wörter "Artikel 15 §§ 1 bis 6 des 
+Gesellschaftsgesetzbuches" durch die Wörter "Artikel 1:24 §§ 1 bis 6 des Gesetzbuches der 
+Gesellschaften und Vereinigungen" ersetzt.2. In § 3 Buchstabe c) Nr. 5 werden die Wörter 
+"Artikel 15 §§ 1 bis 6 des Gesellschaftsgesetzbuches" durch die Wörter "Artikel 1:24 §§ 
+1 bis 6 des Gesetzbuches der Gesellschaften und Vereinigungen" ersetzt.Art. 15 - In Artikel 
+101bis desselben Erlasses, eingefügt durch den Königlichen Erlass vom 4. April 2003, wird das Wort "Gesellschaftssitz" 
+durch die Wörter "satzungsmäßige Sitz" ersetzt.Art. 16 - Artikel 105 Absatz 1 desselben 
+Erlasses, zuletzt abgeändert durch den Königlichen Erlass vom 3. März 2011, wird wie folgt abgeändert:1. 
+In Nr. 1 Buchstabe c) zweiter Gedankenstrich werden die Wörter "Artikel 11 beziehungsweise 12 des Gesellschaftsgesetzbuches" 
+durch die Wörter "Artikel 1:20 beziehungsweise 1:21 des Gesetzbuches der Gesellschaften und Vereinigungen" 
+ersetzt.2. In Nr. 1 Buchstabe h) wird das Wort "Handelsgesellschaften" durch das Wort "Gesellschaften" 
+ersetzt.3. In Nr. 6 wird Buchstabe a) durch die Wörter ", wobei in Bezug auf Gesellschaften 
+nach belgischem Recht die Verweise auf "société privée à responsabilité limitée"/"besloten vennootschap 
+met beperkte aansprakelijkheid", das heißt auf die "Privatgesellschaft mit beschränkter Haftung", 
+als Verweis auf "société à responsabilité limitée"/"besloten vennootschap", das heißt auf die "Gesellschaft 
+mit beschränkter Haftung", zu verstehen sind" ergänzt.Art. 17 - Artikel 106 desselben Erlasses, 
+zuletzt abgeändert durch den Königlichen Erlass vom 8. Mai 2018, wird wie folgt abgeändert:1. 
+In § 2 wird das Wort "Gesellschaftssitz," aufgehoben und das Wort "Gesellschaftszweck" durch das 
+Wort "Gegenstand" ersetzt.2. In § 5 Absatz 3 wird Buchstabe a) durch die Wörter ", wobei 
+in Bezug auf Gesellschaften nach belgischem Recht die Verweise auf "société privée à responsabilité limitée"/"besloten 
+vennootschap met beperkte aansprakelijkheid", auf "société coopérative à responsabilité limitée"/"coöperatieve 
+vennootschap met beperkte aansprakelijkheid" und "société coopérative à responsabilité illimitée"/"coöperatieve 
+vennootschap met onbeperkte aansprakelijkheid" und auf "société en commandite simple"/"gewone commanditaire 
+vennootschap", das heißt auf die "Privatgesellschaft mit beschränkter Haftung", auf die "Genossenschaft 
+mit beschränkter Haftung" und die "Genossenschaft mit unbeschränkter Haftung" und auf die "einfache Kommanditgesellschaft", 
+als Verweis auf "société à responsabilité limitée"/"besloten vennootschap", "société coopérative"/"coöperatieve 
+vennootschap" und "société en commandite"/"commanditaire vennootschap", das heißt auf die "Gesellschaft 
+mit beschränkter Haftung", die "Genossenschaft" beziehungsweise die "Kommanditgesellschaft", zu verstehen 
+sind" ergänzt.Art. 18 -  Artikel 107 § 2 desselben Erlasses, zuletzt abgeändert durch 
+den Königlichen Erlass vom 31. Juli 2009, wird wie folgt abgeändert:1. In Nr. 1 zweiter Gedankenstrich 
+werden die Wörter "privatrechtlichen belgischen Gesellschaften, Vereinigungen, Organismen oder Einrichtungen" 
+durch die Wörter "inländischen Gesellschaften, privatrechtlichen belgischen Vereinigungen, Organismen 
+oder Einrichtungen" ersetzt.2. In Nr. 6 werden die Wörter "privatrechtlichen belgischen Gesellschaften, 
+Vereinigungen, Einrichtungen oder Niederlassungen" durch die Wörter "inländischen Gesellschaften, privatrechtlichen 
+belgischen Vereinigungen, Einrichtungen oder Niederlassungen" ersetzt.Art. 19 -  In Artikel 
+111bis § 2 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 20. Januar 2005 und 
+abgeändert durch den Königlichen Erlass vom 22. Mai 2017, wird das Wort "Gesellschaftssitz," aufgehoben.Art. 
+20 - In Artikel 117 § 2 Buchstabe b) desselben Erlasses, zuletzt abgeändert durch den Königlichen 
+Erlass vom 22. Mai 2017, wird das Wort "Gesellschaftszweck" durch das Wort "Gegenstand" ersetzt.Art. 
+21 - In Artikel 180 § 1 desselben Erlasses, zuletzt abgeändert durch den Königlichen Erlass vom 
+1. April 2007, werden die Wörter "mit Gesellschaftssitz" durch die Wörter "mit satzungsmäßigem 
+Sitz" ersetzt.Art. 22 - Artikel 220 desselben Erlasses wird wie folgt abgeändert:1. 
+In Nr. 1 werden die Wörter ", ihren Gesellschaftssitz" aufgehoben.2. In Nr. 2 werden die Wörter 
+", ihren Gesellschaftssitz" aufgehoben.Art. 23 - In Anlage 3 Kapitel 5 desselben Erlasses wird 
+die Überschrift von Abschnitt 7 wie folgt ersetzt:"Abschnitt 7 - Gewinne und Profite gebietsfremder 
+Gesellschafter oder Mitglieder von Gesellschaften oder Vereinigungen ohne Rechtspersönlichkeit im Sinne 
+von Artikel 29 des Einkommensteuergesetzbuches 1992 wie in Artikel 229 § 3 desselben Gesetzbuches 
+erwähnt".Art. 24 -  In Anlage 3ter Punkt III Buchstabe a/1) desselben Erlasses, eingefügt durch 
+den Königlichen Erlass vom 19. Juli 2018, werden die Wörter "Artikel 15 §§ 1 bis 6 des 
+Gesellschaftsgesetzbuches" durch die Wörter "Artikel 1:24 §§ 1 bis 6 des Gesetzbuches der 
+Gesellschaften und Vereinigungen" ersetzt.Abschnitt 2 - Abänderungen verschiedener autonomer 
+Verordnungsbestimmungen in Bezug auf die EinkommensteuernArt. 25 - In Artikel 1 Nr. 5 Buchstabe 
+c) des Königlichen Erlasses vom 17. Juli 2013 über die Funktionsweise der in Artikel 322 § 3 des 
+Einkommensteuergesetzbuches 1992 erwähnten zentralen Kontaktstelle werden die Wörter "Artikel 95 § 
+1 des Königlichen Erlasses vom 30. Januar 2001 zur Ausführung des Gesellschaftsgesetzbuches" durch die 
+Wörter "Artikel 3:89 § 1 des Königlichen Erlasses vom 29. April 2019 zur Ausführung des Gesetzbuches 
+der Gesellschaften und Vereinigungen" ersetzt.KAPITEL 2 - Abänderung in Bezug auf die MehrwertsteuerArt. 
+27 - In Tabelle A Rubrik XXXII § 1 Nr. 1 Buchstabe c) und Nr. 3 der Anlage zum Königlichen Erlass 
+Nr. 20 vom 20. Juli 1970 zur Festlegung der Mehrwertsteuersätze und zur Einteilung der Güter und Dienstleistungen 
+nach diesen Sätzen werden die Wörter "Gesellschaft mit sozialer Zielsetzung" jeweils durch die Wörter 
+"gemäß Artikel 8:5 des Gesetzbuches der Gesellschaften und Vereinigungen als Sozialunternehmen 
+anerkannten Genossenschaft" ersetzt.(...)KAPITEL 6 - Übergangsbestimmung, Inkrafttreten 
+und AusführungsbestimmungArt. 38 - Solange das Gesetzbuch der Gesellschaften und Vereinigungen 
+gemäß Kapitel 4 Abschnitt 2 des Gesetzes vom 23. März 2019 zur Einführung des Gesetzbuches der 
+Gesellschaften und Vereinigungen und zur Festlegung verschiedener Bestimmungen nicht auf eine Gesellschaft, 
+Vereinigung oder Stiftung anwendbar ist, ist jeder Verweis auf eine Bestimmung des Gesetzbuches der Gesellschaften 
+und Vereinigungen oder des Königlichen Erlasses vom 29. April 2019 zur Ausführung des Gesetzbuches der 
+Gesellschaften und Vereinigungen, die vorkommt in einem der Erlasse zur Ausführung des Einkommensteuergesetzbuches 
+1992, des Mehrwertsteuergesetzbuches, des Gesetzbuches der verschiedenen Gebühren und Steuern, des Erbschaftssteuergesetzbuches, 
+des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches und der besonderen Rechtsvorschriften, 
+die auf diese Steuern anwendbar sind, was diese Gesellschaft, Vereinigung oder Stiftung betrifft, als 
+Verweis auf die Bestimmung des Gesellschaftsgesetzbuches, seines Ausführungserlasses oder anderer besonderer 
+Rechtsvorschriften, die vor Inkrafttreten des vorliegenden Erlasses in diesen steuerrechtlichen Bestimmungen 
+vorkam, zu lesen.Art. 39 - Die Artikel 1, 3 Nr. 2, 4, 6 bis 26, 28 Nr. 2, 29, 30, 32 Nr. 1 
+und 2, 33, 34 Nr. 2 und 36 werden wirksam mit 1. Mai 2019.Die Artikel 2, 3 Nr. 1, 5 und 27 
+werden wirksam mit 1. Mai 2019 und werden auf die darin erwähnten Gesellschaften anwendbar ab dem Tag, 
+an dem die Bestimmungen des Gesetzbuches der Gesellschaften und Vereinigungen, die sich auf diese Gesellschaften 
+beziehen, auf sie anwendbar werden.Art. 40 - Der für Finanzen zuständige Minister ist mit der 
+Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 29. August 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-01-27Numac : 2021020179
+

@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2021/03/18/2021030953/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-13Numac : 2021030953
+WAALSE OVERHEIDSDIENST 
+ 18 MAART 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 25 februari 2021 tot wijziging van et kaderakkoord tot samenwerking van 27 februari 2014 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het inter-Franstalig overleg inzake gezondheid en bijstand aan personen en betreffende de gemeenschappelijke principes die op deze laatsten van toepassing zijn, om het hoofd te bieden aan de noodsituaties COVID-19 (1) 
+Het Waalse Parlement heeft aangenomen 
+en Wij, Waalse Regering, bekrachtigen hetgeen volgt :Artikel 1. Dit decreet regelt overeenkomstig 
+artikel 138 van de Grondwet aangelegenheden bedoeld in de artikelen 127 en 128 van de Grondwet.Art. 
+2. Instemming wordt verleend met het samenwerkingsakkoord van 25 februari 2021 tot wijziging van et kaderakkoord 
+tot samenwerking van 27 februari 2014 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie 
+betreffende het inter-Franstalig overleg inzake gezondheid en bijstand aan personen en betreffende de 
+gemeenschappelijke principes die op deze laatsten van toepassing zijn, om het hoofd te bieden aan de 
+noodsituaties COVID-19.Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad 
+zal worden bekendgemaakt.Namen, 18 maart 2021.De Minister-President,E. 
+DI RUPODe Vice-Minister-President en Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUSDe Vice-Minister-President en Minister van Klimaat, Energie en Mobiliteit,Ph. 
+HENRYDe Vice-Minister-President en Minister van Werk, Vorming, Gezondheid, Sociale Actie, Gelijke 
+Kansen en Vrouwenrechten,Ch. MORREALEDe Minister van Begroting en Financiën, Luchthavens 
+en Sportinfrastructuren,J.-L. CRUCKEDe Minister van Huisvesting, de Plaatselijke 
+Besturen en het Stedenbeleid,Ch. COLLIGNONDe Minister van Ambtenarenzaken, Informatica, 
+Administratieve Vereenvoudiging, belast met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. 
+DE BUEDe Minister van Leefmilieu, Natuur, Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. 
+TELLIER_______Nota(1) Zitting 2020-2021.Stukken van het Waals 
+Parlement, 478 (2020-2021) Nrs. 1 tot 3.Volledig verslag, plenaire vergadering van 17 maart 
+2021.Bespreking.Stemming.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-13Numac : 2021030953
+

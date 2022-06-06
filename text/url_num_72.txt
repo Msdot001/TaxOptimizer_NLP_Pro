@@ -1,0 +1,208 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/24/2020040954/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-30Numac : 2020040954
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 24 APRIL 2020. - Koninklijk besluit tot wijziging van het KB/WIB 92 met betrekking tot de nadere regels en modaliteiten voor het indienen door de ondernemingen die erkend zijn voor uitzendarbeid van de in artikel 2755, § 4, zevende lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde verklaring 
+VERSLAG AAN DE KONINGSire,Met het koninklijk besluit 
+van 3 april 2019 tot wijziging van het KB/WIB 92 met betrekking tot de nadere regels en modaliteiten 
+voor het indienen van de in artikel 2755, § 4, zevende lid, van het Wetboek van 
+de inkomstenbelastingen 1992 bedoelde verklaring, werden de regels en de modaliteiten vastgesteld voor 
+het indienen van de zogenaamde de-minimisverklaring, die noodzakelijk is om de in artikel 2755, 
+§ 4, WIB 92, uitgewerkte regeling die van toepassing is op de sector van de systeemvaart in overeenstemming 
+te brengen met de de-minimisverordening (Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 
+2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van 
+de Europese Unie op de-minimissteun).Artikel 2755, § 4, zesde lid, 
+WIB 92, voorziet evenwel dat de ondernemingen die erkend zijn voor uitzendarbeid worden gelijkgesteld 
+met de in artikel 2755, § 4, eerste lid, WIB 92, bedoelde ondernemingen (hierna: 
+de in de systeemvaart actieve ondernemingen) in het geval deze voor uitzendarbeid erkende ondernemingen 
+aan de in de systeemvaart actieve ondernemingen uitzendkrachten ter beschikking stellen. De wetgever 
+beoogde hiermee, naar analogie met soortgelijke maatregelen bedoeld in de artikelen 2751, 
+2755, §§ 1-3, 2758 en 2759, WIB 92, 
+om te voorzien in een vorm van transparantie waarbij een vrijstelling waarvoor een bepaalde werkgever 
+in aanmerking komt ook van toepassing te laten zijn op een onderneming die erkend is voor uitzendarbeid 
+indien deze één of meerdere uitzendkrachten ter beschikking stelt aan de initieel beoogde onderneming. 
+Hiermee wordt dus beoogd om een gelijke behandeling te garanderen tussen de bezoldigingen die rechtstreeks 
+door de werkgever worden betaald en de bezoldigingen die op onrechtstreekse wijze door bemiddeling van 
+een uitzendkantoor worden betaald.In het voormelde koninklijk besluit van 3 april 2019 werd 
+echter niet verduidelijkt welke steun op de verklaring moet worden vermeld in het geval de vrijstelling 
+wordt gevraagd door een onderneming die erkend is voor uitzendarbeid bij het ter beschikking stellen 
+van één of meerdere uitzendkrachten aan een in de systeemvaart actieve onderneming. Deze rechtsonzekerheid 
+verhindert tot op heden dat de ondernemingen die erkend zijn voor uitzendarbeid gebruik maken van deze 
+regeling. Dit ontwerp beoogt dan ook om deze rechtsonzekerheid weg te nemen door de regels en modaliteiten 
+voor de ondernemingen die erkend zijn voor uitzendarbeid te verduidelijken, zodat voor deze ondernemingen 
+de drempels worden weggenomen die vandaag verhinderen dat daadwerkelijk gebruik wordt gemaakt van deze 
+maatregel.In analogie met de hierboven vermelde doelstelling om een ongelijke behandeling te 
+vermijden tussen enerzijds de bezoldigingen die rechtstreeks door een in de systeemvaart actieve onderneming 
+worden betaald en anderzijds de bezoldigingen die door een onderneming die erkend is voor uitzendarbeid 
+worden betaald, beoogt dit ontwerp te verduidelijken dat in het geval de vrijstelling wordt gevraagd 
+door een onderneming die erkend is voor uitzendarbeid, de in artikel 2755, § 
+4, zevende lid, WIB 92, bedoelde verklaring de steun moet bevatten van de in de systeemvaart actieve 
+onderneming aan wie de uitzendkrachten ter beschikking worden gesteld, alsof deze in de systeemvaart 
+actieve onderneming zelf de toepassing heeft gevraagd van de in artikel 2755, § 
+4, WIB 92, bedoelde vrijstelling.Dit heeft dan ook tot gevolg dat indien de onderneming die 
+erkend is voor uitzendarbeid aan meerdere in de systeemvaart actieve ondernemingen uitzendkrachten ter 
+beschikking stelt, deze eerstgenoemde onderneming meerdere verklaringen zal moeten overmaken, met name 
+één voor elke in de systeemvaart actieve onderneming aan wie de voor uitzendarbeid erkende onderneming 
+uitzendkrachten ter beschikking stelt.Hoewel de vrijstellling in eerste instantie ten goede 
+komt van de onderneming die erkend is voor uitzendarbeid, kan worden verwacht dat ten gevolge van de 
+marktwerking het economisch voordeel van de vrijstelling zal worden omgezet in een verlaagde kostprijs 
+ten gunste van de in de systeemvaart actieve onderneming aan wie de uitzendkrachten ter beschikking worden 
+gesteld.Aangezien de ondernemingen die erkend zijn voor uitzendarbeid ten gevolge van de toepassing 
+van deze maatregel aan grotere administratieve lasten worden onderworpen, en het mogelijk moet zijn om 
+de kosten die hiermee gepaard gaan, al dan niet ten dele door te rekenen aan de ondernemingen aan wie 
+de uitzendkrachten ter beschikking worden gesteld, beoogt dit ontwerp de economische en contractuele 
+relatie tussen deze twee ondernemingen niet te reguleren.Dit neemt niet weg dat het wordt aangeraden 
+om bij het afsluiten van het uitzendcontract, gesloten tussen de in de systeemvaart actieve onderneming 
+en de onderneming die erkend is vooruitzendarbeid, om bijzondere aandacht te voorzien aan de potentiële 
+mogelijkheid dat mijn administratie in gevolge het door haar gevoerde onderzoek heeft vastgesteld dat 
+de in de systeemvaart actieve onderneming aan wie de uitzendkrachten ter beschikking worden gesteld niet 
+aan alle toepassingsvoorwaarden voldoet. In dat geval zal immers de onterecht vrijgestelde bedrijfsvoorheffing 
+worden teruggevorderd bij de schuldenaar ervan, in dit geval dus de onderneming die de uitzendkrachten 
+ter beschikking heeft gesteld en die de bezoldigingen van deze werknemers betaald.Daarnaast 
+wordt eveneens aangeraden om in dit contract bepalingen op te nemen die de uitwisseling van inlichtingen 
+moeten voorzien teneinde te garanderen dat de beide contractsluitende partijen beschikken over alle relevante 
+informatie die nodig is om de in artikel 2755, § 4, zevende lid, WIB 92, bedoelde 
+verklaring en elke mogelijke soortgelijke toekomstige de-minimisverklaring correct in te vullen. Zo zal 
+enerzijds de in de systeemvaart actieve onderneming aan wie de uitzendkrachten ter beschikking worden 
+gesteld op de hoogte moeten worden gebracht van elke verklaring die de onderneming die erkend is voor 
+uitzendarbeid ten gevolge van het ter beschikking stellen van uitzendkrachten heeft ingediend. Anderzijds 
+zal de onderneming die erkend is voor uitzendarbeid op de hoogte moeten worden gebracht van elke de-minimissteun 
+die de in de systeemvaart actieve onderneming of een vennootschap die deel uitmaakt van de groep van 
+vennootschappen waartoe deze behoort in het lopende belastbare tijdperk en de twee voorgaande belastbare 
+tijdperk heeft verkregen.Het spreekt voor zich dat het ontbreken van deze informatieuitwisseling 
+nooit aan mijn administratie kan tegengeworpen als verantwoording voor een foutief ingevulde verklaring.Vervolgens 
+wordt nog gewezen op het bijzondere geval waarbij in dezelfde aangifteperiode zowel de onderneming die 
+erkend is voor uitzendarbeid die uitzendkrachten ter beschikking stelt aan een onderneming actief in 
+de systeemvaart, als deze onderneming actief in de systeemvaart zelf, beroep doet op de in artikel 2755, 
+§ 4, WIB 92, bedoelde vrijstelling. In dat geval wordt de vrijstelling verleend aan twee verschillende 
+werkgevers die elk op zich de in artikel 2755, § 4, zevende lid, WIB 92, bedoelde 
+verklaring zullen moeten indienen. De vraag stelt zich dan in welke verklaring welke steun moet worden 
+opgenomen.In het verslag aan de Koning bij het koninklijk besluit van 3 april 2019 tot wijziging 
+van het KB/WIB 92 met betrekking tot de nadere regels en modaliteiten voor het indienen van de in artikel 
+2755, § 4, zevende lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde 
+verklaring, werd al verduidelijkt dat het bedrag van de vrijstelling van doorstorting van bedrijfsvoorheffing 
+die voor een welbepaalde aangifteperiode wordt aangevraagd in de tweede aangifte, ook op de verklaring 
+met betrekking tot die periode zal moeten worden vermeld. Op die manier wordt de betrokken schuldenaar 
+van de bedrijfsvoorheffing verplicht om na te gaan of door de aangevraagde vrijstelling van doorstorting 
+van bedrijfsvoorheffing het de-minimisplafond niet wordt overschreden.Overeenkomstig artikel 
+3, lid 4, van de de-minimisverordening wordt de-minimissteun geacht te zijn verleend op het moment waarop 
+de onderneming krachtens de Belgische regelgeving een wettelijke aanspraak op de steun verwerft, ongeacht 
+de datum waarop de de-minimissteun aan de onderneming wordt betaald. De steun onder de vorm van een vrijstelling 
+van doorstorten van bedrijfsvoorheffing wordt, bijgevolg behoudens rechtzettingen, voor de toepassing 
+van deze verordening geacht te zijn verleend op het moment dat de tweede aangifte in de bedrijfsvoorheffing 
+en de de-minimisverklaring bij de administratie zijn ingediend.Strikt genomen is dus de volgorde 
+waarin de tweede aangiftes worden ingediend van belang om te bepalen wie welke steun in de verklaring 
+opneemt. Beide ondernemingen kunnen er echter ook voor opteren in het geval zij voor dezelfde aangifteperiode 
+in functie van het verkrijgen van de vrijstelling een tweede aangifte en een verklaring indienen, om 
+elkaars vrijstellingsbedrag in de verklaring op te nemen. In dat geval maakt de volgorde waarin deze 
+aangiftes en verklaringen worden ingediend niet uit en is men dus niet afhankelijk van het handelen van 
+een derde partij.De volgorde waarin de verklaringen worden ingediend zijn in dit laatste geval 
+eveneens van belang in het geval mijn administratie moet verifiëren of aan de in artikel 2755, 
+§ 4, vierde lid, WIB 92, bedoelde voorwaarde is voldaan. Stel bijvoorbeeld dat mijn administratie 
+ontdekt dat in de systeemvaart actieve onderneming per vergissing bepaalde in het verleden verkregen 
+de-minimissteun onterecht niet in de verklaring heeft opgenomen en eveneens niet heeft meegedeeld aan 
+de onderneming die de uitzendkrachten ter beschikking heeft gesteld, waardoor het steunplafond toch overschreden 
+wordt. In dat geval is het voor de toepassing van de fiscale regelgeving niet relevant door welke partij 
+de vergissing werd begaan en moet zowel in hoofde van de in de systeemvaart actieve onderneming als in 
+hoofde van de onerneming die de uitzendkrachten ter beschikking stelt worden nagegaan of aan de voorwaarde 
+van artikel 2755, § 4, vierde lid, WIB 92, is voldaan. In dat geval zal dus de 
+volgorde waarin de tweede aangifte en de verklaring werd ingediend bepalend zijn om vast te stellen ten 
+aanzien van in wiens hoofde de vrijstelling onterecht werd toegestaan en zal moeten worden teruggevorderd.Tot 
+slot wordt nog verduidelijkt dat in dit ontwerp geen specifieke inwerkingtredingsbepaling is voorzien, 
+omdat tot op heden geen enkele onderneming voor uitzendarbeid gebruik maakt van deze maatregel. Hierdoor 
+is de gemeenrechtelijke inwerkingtredingsbepaling van toepassing waardoor dit ontwerp in werking zal 
+treden vanaf de tiende dag na de bekendmaking ervan.Dit is, Sire, de draagwijdte van het besluit 
+dat U wordt voorgelegd.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Vice-Eerste Minister en Minister van Financiën,A. 
+DE CROO24 APRIL 2020. - Koninklijk besluit tot wijziging van het KB/WIB 92 
+met betrekking tot de nadere regels en modaliteiten voor het indienen door de ondernemingen die erkend 
+zijn voor uitzendarbeid van de in artikel 2755, § 4, zevende lid, van het Wetboek 
+van de inkomstenbelastingen 1992 bedoelde verklaringFILIP, Koning der Belgen,Aan 
+allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op het Wetboek van de inkomstenbelastingen 
+1992, artikel 2755, § 6, ingevoegd bij de wet van 23 maart 2019;Gelet 
+op het KB/WIB 92;Gelet op het koninklijk besluit van 16 november 1994 betreffende de administratieve 
+en begrotingscontrole, artikelen 5 en 14;Overwegende dat de bepalingen van dit besluit geen 
+rechtstreekse of onrechtstreekse financiële weerslag kunnen hebben;Gelet op de wetten van de 
+Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende 
+noodzakelijkheid,Overwegende dat:- de wet van 23 maart 2019 tot wijziging van het 
+Wetboek van de inkomstenbelastingen 1992 voor wat betreft de fiscale bepalingen van de jobsdeal een vrijstelling 
+van doorstorting van een gedeelte van de bedrijfsvoorheffing invoert voor de systeemvaart;- 
+deze vrijstelling van doorstorten van bedrijfsvoorheffing van toepassing is op de bezoldigingen die vanaf 
+1 januari 2019 worden betaald of toegekend;- deze vrijstelling van doorstorting van bedrijfsvoorheffing 
+enkel kan worden toegepast wanneer de schuldenaar van de bedrijfsvoorheffing samen met zijn aanvraag 
+voor de vrijstelling van doorstorten van bedrijfsvoorheffing een verklaring indient met betrekking tot 
+het respecteren van de steunplafonds van de algemene de minimis-verordening (Verordening (EU) nr. 1407/2013 
+van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag 
+betreffende de werking van de Europese Unie op de-minimissteun);- er nood is aan verduidelijking 
+in geval deze schuldenaar een onderneming is die erkend is voor uitzendarbeid die uitzendkrachten ter 
+beschikking stellen van ondernemingen die voldoen aan de in artikel 2755, § 4, 
+eerste lid, van het Wetboek van de inkomstenbelastingen 1992 bedoelde voorwaarden;- de regels 
+en modaliteiten met betrekking tot die verklaring dus dringend moeten worden aangevuld teneinde de regels 
+te verduidelijken voor zowel de ondernemingen die erkend zijn voor uitzendarbeid als de ondernemingen 
+die voldoen aan de in artikel 2755, § 4, eerste lid, van het Wetboek van de inkomstenbelastingen 
+1992 bedoelde voorwaarden en die uitzendkrachten ter beschikking krijgen van deze ondernemingen die erkend 
+zijn voor uitzendarbeid;- dit besluit dus zo snel mogelijk moet worden genomen;Op 
+de voordracht van de Vice-Eerste Minister en Minister van Financiën,Hebben Wij besloten en 
+besluiten Wij :Artikel 1. Artikel 954/1, § 2, KB/WIB 92, wordt aangevuld met twee leden, 
+luidende:"In het geval de in het eerste lid bedoelde schuldenaar een onderneming is die erkend 
+is voor uitzendarbeid en die één of meerdere uitzendkrachten ter beschikking stelt aan een onderneming 
+die voldoet aan de in artikel 2755, § 4, eerste lid, van hetzelfde Wetboek, bedoelde 
+voorwaarden, dan bevat deze verklaring de in artikel 2755, § 4, zevende lid, 
+van hetzelfde Wetboek, bedoelde steun van deze onderneming aan wie deze uitzendkrachten ter beschikking 
+worden gesteld alsof deze zelf de toepassing vraagt van de in artikel 2755, § 
+4, van hetzelfde Wetboek, bedoelde vrijstelling van doorstorten van bedrijfsvoorheffing.De 
+steun vermeld in de in dit artikel bedoelde verklaring omvat in alle gevallen eveneens de steun die aan 
+een onderneming die erkend is voor uitzendarbeid werd toegekend ten gevolge van het ter beschikking stelling 
+van uitzendkrachten aan de onderneming die voldoet aan de in artikel 2755, § 
+4, eerste lid, van hetzelfde Wetboek, bedoelde voorwaarden, alsof deze onderneming aan wie deze uitzendkrachten 
+ter beschikking worden gesteld zelf de steun heeft verkregen.".Art. 2. De minister bevoegd 
+voor Financiën is belast met de uitvoering van dit besluit.Gegeven te Brussel, 24 april 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-30Numac : 2020040954
+

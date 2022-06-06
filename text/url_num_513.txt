@@ -1,0 +1,83 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/22/2021020770/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020770
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 22 APRIL 2019. - Wet tot wijziging van het Wetboek van de inkomstenbe-lastingen 1992 wat de belastingvrijstelling voor de overdracht van erfpacht betreft. - Duitse vertaling 
+De hierna volgende tekst is de 
+Duitse vertaling van de wet van 22 april 2019 tot wijziging van het Wetboek van de inkomstenbelastingen 
+1992 wat de belastingvrijstelling voor de overdracht van erfpacht betreft (Belgisch Staatsblad van 29 
+april 2019, err. van 9 mei 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN22. APRIL 
+2019 - Gesetz zur Abänderung des Einkommensteuergesetzbuches 1992 hinsichtlich der Steuerbe-freiung für 
+die Abtretung der ErbpachtPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:Artikel 
+1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 
+2 - Artikel 12 des Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 8. Mai 2014, 
+wird durch einen Paragraphen 4 mit folgendem Wortlaut ergänzt:" § 4 - In Abweichung 
+von Artikel 7 § 1 Nr. 3 ist die entgeltliche Abtretung eines Erbpachtrechts oder Erbbaurechts 
+oder gleichartiger Rechte an unbeweglichen Gütern in Bezug auf ein Grundstück, auf dem ein Gebäude errichtet 
+ist, ein bebautes unbewegliches Gut oder ein Gebäude steuerfrei:1. entweder wenn das Recht 
+frühestens fünf Jahre nach dem Datum der authentischen Urkunde über die Begründung oder den Erwerb des 
+Rechts abgetreten worden ist2. oder wenn die Wohnung für einen ununterbrochenen Zeitraum von 
+mindestens zwölf Monaten vor dem Monat der Veräußerung die eigene Wohnung des Steuerpflichtigen 
+war. Zwischen dem Zeitraum von mindestens zwölf Monaten und dem Monat der Veräußerung kann jedoch 
+ein Zeitraum von höchstens sechs Monaten liegen, in dem die Wohnung ungenutzt war,3. oder wenn 
+das Recht:a) für mündig oder nicht für mündig erklärten Minderjährigen zusteht, wenn eine Gerichtsinstanz 
+diese Abtretung erlaubt hat,b) Personen zusteht, denen gemäß den Bestimmungen von Teil 
+IV Buch IV Kapitel X des Gerichtsgesetzbuches aufgrund einer Sondergenehmigung des Friedensrichters ein 
+Betreuer zugewiesen wurde,4. oder im Falle von Enteignungen oder gütlichen Abtretungen von 
+unbeweglichen Gütern zum Nutzen der Allgemeinheit, wenn diese Abtretungen gemäß Artikel 161 des 
+Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches kostenlos der Registrierungsformalität unterworfen 
+sind."Art. 3 - Vorliegendes Gesetz ist ab dem Steuerjahr 2020 anwendbar.Wir fertigen 
+das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische 
+Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 22. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020770
+

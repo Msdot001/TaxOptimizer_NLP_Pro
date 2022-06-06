@@ -1,0 +1,101 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-14Numac : 2020020930
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie voor Beleidsexpertise -en Ondersteuning. - Dienst Reglementering. - Akkoord in 
+onderling overleg tussen de bevoegde autoriteiten van Duitsland en België met betrekking tot de situatie 
+van de grensarbeiders die van thuis uit werken in de context van de COVID-19-pandemie1. InleidingOvereenkomstig 
+artikel 25, paragraaf 3 van de op 11 april 1967 ondertekende Overeenkomst tussen de Bondsrepubliek Duitsland 
+en het Koninkrijk België tot voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden 
+inzake belastingen van inkomen en van vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, 
+zoals gewijzigd door het Protocol ondertekend op 5 november 2002, (de "Overeenkomst"), trachten de bevoegde 
+autoriteiten van Duitsland en België moeilijkheden of twijfelpunten die mochten rijzen met betrekking 
+tot de toepassing van de Overeenkomst in onderlinge overeenstemming op te lossen. Aangezien de coronavirus 
+("COVID-19")-pandemie een geval van overmacht is en aangezien de maatregelen die genomen zijn als antwoord 
+op de pandemie aanleiding kunnen geven tot grote onzekerheid inzake de fiscale situatie van grensarbeiders, 
+delen de bevoegde autoriteiten het standpunt dat een akkoord in onderling overleg zoals bedoeld in artikel 
+25, paragraaf 3 van de Overeenkomst gewettigd is.In deze context hebben de bevoegde autoriteiten 
+van Duitsland en België overeenstemming bereikt over de toepassing van artikel 15 van de Overeenkomst 
+voor situaties waarin een grensarbeider wegens maatregelen betreffende COVID-19 of daarmee verband houdende 
+maatregelen van thuis uit werkt.2. ThuiswerkdagenVoor de toepassing van artikel 15, 
+paragraaf 1 van de Overeenkomst (Afhankelijke beroepen) mogen werkdagen waarvoor bezoldigingen zijn ontvangen 
+en waarop de dienstbetrekking thuis werd uitgeoefend ("thuiswerkdagen") uitsluitend wegens de maatregelen 
+die door de Duitse of Belgische regering, of door de lokale besturen, werden getroffen om de COVID-19-pandemie 
+te bestrijden, geacht worden te zijn doorgebracht in de overeenkomstsluitende Staat waar de grensarbeider 
+de dienstbetrekking zou hebben uitgeoefend zonder de maatregelen ter bestrijding van de COVID-19-pandemie. 
+Deze fictie kan niet worden toegepast op werkdagen die de grensarbeider, los van deze maatregelen, thuiswerkend 
+of in een derde Staat zou hebben doorgebracht. Ze kan in het bijzonder niet worden toegepast door grensarbeiders 
+die, overeenkomstig hun arbeidsovereenkomst, over het algemeen hun dienstbetrekking thuis uitoefenen. 
+Grensarbeiders die gebruikmaken van de fictie zijn verplicht deze fictie op consistente wijze in beide 
+overeenkomstsluitende Staten toe te passen en de nodige gegevens bij te houden (i.e. een schriftelijke 
+bevestiging van de werkgever welk deel van de thuiswerkdagen uitsluitend wegens de maatregelen in verband 
+met de COVID-19-pandemie thuiswerkend werd doorgebracht). Deze fictie kan slechts worden toegepast voor 
+zover de bezoldigingen voor de dagen die thuiswerkend werden doorgebracht, daadwerkelijk worden belast 
+door de overeenkomstsluitende Staat waar de grensarbeider de dienstbetrekking zou hebben uitgeoefend 
+zonder de maatregelen die genomen zijn ter bestrijding van de COVID-19-pandemie. De grensarbeider gaat 
+dienovereenkomstig ermee akkoord dat deze inkomensbestanddelen daadwerkelijk belast worden in de overeenkomstsluitende 
+Staat waar hij de dienstbetrekking zou hebben uitgeoefend zonder de maatregelen die genomen zijn om de 
+COVID-19-pandemie te bestrijden. Deze inkomensbestanddelen worden beschouwd als zijnde "daadwerkelijk 
+belast" wanneer ze opgenomen zijn in de belastinggrondslag die is gebruikt om de belasting te berekenen.3. 
+DuurDit akkoord is van toepassing gedurende het tijdvak van 11 maart 2020 tot 31 mei 2020. 
+Vanaf 31 mei wordt de toepassing van dit akkoord verlengd tot het einde van de volgende kalendermaand 
+indien beide bevoegde autoriteiten zulks schriftelijk overeenkomen ten minste één week voor de aanvang 
+van de betreffende volgende kalendermaand.Dit akkoord treedt in werking op de dag volgend op 
+de dag waarop het is ondertekend door beide bevoegde autoriteiten. Het kan unilateraal door een van de 
+bevoegde autoriteiten van de overeenkomstsluitende Staten worden beëindigd door daarvan kennis te geven 
+aan de bevoegde autoriteit van de andere overeenkomstsluitende Staat. Dit akkoord tussen de bevoegde 
+autoriteiten alsmede de verlengingen ervan zullen worden gepubliceerd in het Duitse "Bundessteuerblatt" 
+en in het Belgisch Staatsblad.Overeengekomen door de ondergetekende bevoegde autoriteiten:Voor 
+de bevoegde autoriteit van België, te Mechelen op 6 mei 2020:P. De VosAdviseur-generaal 
+Federale Overheidsdienst Financiën van BelgiëVoor de bevoegde autoriteit van Duitsland, te 
+Berlijn op 6 mei 2020:S. BrunsAfdelingshoofd Federaal Ministerie van Financiën van 
+Duitsland   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-14Numac : 2020020930
+

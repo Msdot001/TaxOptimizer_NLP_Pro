@@ -1,0 +1,101 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/25/2020202829/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-02Numac : 2020202829
+WAALSE OVERHEIDSDIENST
+ 25 JUNI 2020. - Besluit van de Waalse Regering houdende afwijking, voor het jaar 2020, van het besluit van de Waalse Regering van 2 april 1998 tot organisatie van het jachtexamen in het Waalse Gewest om rekening te houden met de opgelegde maatregelen inzake lockdown en bescherming tegen COVID-19 
+De Waalse 
+Regering,Gelet op de beschikking M(2007)3 van het Comité van Ministers van de Economische Unie 
+der Beneluxlanden van 8 maart 2007 tot opheffing en vervanging van de beschikkingen M (83) 3 van 25 april 
+1983 en M (99) 10 van 25 oktober 1999 strekkende tot onderlinge erkenning van de jachtexamens;Gelet 
+op de wet van 28 februari 1882 op de jacht, inzonderheid op artikel 14, § 2, derde lid, zoals 
+gewijzigd bij het decreet van 14 juli 1994;Gelet op het besluit van de Waalse Regering van 
+2 april 1998 tot organisatie van het jachtexamen in het Waalse Gewest, gewijzigd bij de besluiten van 
+de Waalse Regering van 23 december 1998, 11 maart 2004, 10 maart 2005 en 9 november 2017;Gelet 
+op het rapport van 4 juni 2019 opgesteld overeenkomstig artikel 3, 2°, van het decreet van 11 april 2014 
+houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 
+1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke 
+beleidslijnen;Gelet op het advies van de beleidsgroep "Landelijke Aangelegenheden", afdeling 
+"Jacht", gegeven op 9 juni 2020;Gelet op de wetten op de Raad van State, gecoördineerd op 12 
+januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wet van 9 augustus 1980;Overwegende 
+dat de versterkte fase 2 in werking is getreden en de Nationale Veiligheidsraad, bijeengekomen op 12 
+maart 2020, aanbevelingen heeft gedaan;Overwegende dat de tweede zitting van de theoretische 
+proef van het jachtexamen 2020, aanvankelijk voorzien op 14 maart 2020, in allerlaatste instantie afgelast 
+diende te worden rekening houdend met het feit dat een groot aantal personen op éénzelfde plaats bijeen 
+zouden zijn gekomen; overwegende dat de organisatie van dat evenement een aanzienlijk risico voor de 
+deelnemers inhield inzake COVID-19-besmetting;Overwegende dat de eerste zitting van de theoretische 
+proef op 22 februari 2020 door is gegaan; overwegende dat de tweede zitting van de theoretische proef 
+dus niet uiterlijk binnen de drie weken volgende op de eerste zitting is kunnen doorgaan zoals nochtans 
+bepaald bij het besluit van de Waalse Regering van 2 april 1998 tot organisatie van het jachtexamen in 
+het Waalse Gewest;Overwegende dat de praktische proeven van het jachtexamen die van 4 tot 29 
+mei 2020 in het militair kamp van Marche-en-Famenne door moesten gaan eveneens werden afgelast, met name 
+wegens de beslissing van Landsverdediging om iedere organisatie de toegang tot de kampen te ontzeggen; 
+Overwegende dat de verdaging van deze praktische proeven niet meer de mogelijkheid zal bieden 
+om de proeven van het jachtexamen in hun geheel te organiseren tijdens het eerste kalenderhalfjaar zoals 
+nochtans voorzien bij het besluit van de Waalse Regering van 2 april 1998 tot organisatie van het jachtexamen 
+in het Waals Gewest;Overwegende dat de exitmaatregelen beslist door de Nationale Veiligheidsraad, 
+met name tijdens diens vergadering van 3 juni 2020, nu de mogelijkheid bieden om het houden van de tweede 
+theoretische zitting en de praktische proeven te overwegen met inachtneming van sociale afstandsregels 
+en de toepassing van beschermingsmaatregelen tegen COVID-19; Overwegende dat de omkadering 
+van de praktische proef door het personeel van het Departement Natuur en Bossen enkel in september 2020 
+behoorlijk gewaarborgd zal kunnen worden, gelet op de talrijke bosbeheerstaken waar laatstgenoemde in 
+de herfst mee te maken krijgt; Gelet op de dringende noodzakelijkheid om de tweede theoretische 
+proef te organiseren voor het praktisch examen en dit bij voorkeur buiten de zomerperiode;Op 
+de voordracht van de Minister bevoegd voor de jacht;Na beraadslaging,Besluit : Artikel 
+1. In afwijking van artikel 4, lid 2, van het besluit van de Waalse Regering van 2 april 1998 tot organisatie 
+van het jachtexamen in het Waalse Gewest kan het jachtexamen van het jaar 2020 in de loop van het tweede 
+halfjaar worden georganiseerd.Art. 2. In afwijking van artikel 12, § 4, laatste lid, 
+wordt de tweede zitting van het theoretisch jachtexamen van het jaar 2020 uiterlijk binnen de zes maanden 
+volgend op de eerste zitting georganiseerd. Art. 3. Dit besluit treedt in werking de dag van 
+ondertekening ervan en houdt op van kracht te zijn op 31 december 2020. Art. 4. De Minister 
+bevoegd voor de Jacht is belast met de uitvoering van dit besluit.Namen, 25 juni 2020Voor 
+de Regering : De Minister-President,E. DI RUPODe Minister van Economie, 
+Buitenlandse Handel, Onderzoek, Innovatie,Digitale Technologieën, Ruimtelijke Ordening, Landbouw, 
+het "IFAPME", en de Vaardigheidscentra,W. BORSUS  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-02Numac : 2020202829
+

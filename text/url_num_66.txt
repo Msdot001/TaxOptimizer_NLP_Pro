@@ -1,0 +1,131 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/24/2020040970/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040970
+VLAAMSE OVERHEID
+ 24 APRIL 2020. - Besluit van de Vlaamse Regering tot regeling van bepaalde tijdelijke maatregelen door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, wat betreft de tweede beoordelingsronde van 2020 voor projectsubsidies en beurzen binnen het Kunstendecreet 
+RechtsgrondDit 
+besluit is gebaseerd op:- het decreet van 20 maart 2020 over maatregelen in geval van een civiele 
+noodsituatie met betrekking tot de volksgezondheid, artikel 5.VormvereistenDe volgende 
+vormvereisten zijn vervuld:- De Vlaamse minister, bevoegd voor de begroting, heeft zijn akkoord 
+gegeven op 23 april 2020.- Er is geen advies gevraagd aan de Raad van State, met toepassing 
+van artikel 3, § 1, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973. De dringende 
+noodzakelijkheid laat niet toe om te wachten op het advies van de Raad van State binnen een verkorte 
+termijn van 5 dagen, omwille van de coronacrisis en de zeer snelle evolutie van de situatie. Het is voor 
+het kunstenveld van cruciaal belang dat er onmiddellijk duidelijkheid komt over de tweede subsidieronde 
+2020 binnen het Kunstendecreet, met uiterste indiendatum 15 mei 2020. Maximale rechtszekerheid binnen 
+de kortst mogelijke termijn is noodzakelijk.MotiveringDit besluit is gebaseerd op 
+de volgende motieven:- Het decreet van 20 maart 2020 over maatregelen in geval van een civiele 
+noodsituatie met betrekking tot de volksgezondheid verleent in artikel 5 de Vlaamse Regering de bevoegdheid 
+om in geval van een civiele noodsituatie met betrekking tot de volksgezondheid nadere regels uit te werken 
+voor de opschorting, het stuiten of de verlenging van proceduretermijnen of de tijdelijke aanpassing 
+van procedurele of administratieve verplichtingen in diverse decreten en de uitvoeringsbesluiten erbij 
+om een maximale rechtszekerheid te verzekeren;- Rekening houdend met de coronacrisis en de 
+gevolgen daarvan voor de kunstensector, werd tijdens de recente begrotingsbesprekingen alsnog een substantieel 
+budget vrijgemaakt voor de organisatie van een tweede beoordelingsronde in 2020 van aanvragen voor subsidiëring 
+van projecten en beurzen binnen het Kunstendecreet. Om die reden wordt de uiterste indiendatum voor deze 
+ronde eenmalig gewijzigd van 15 maart 2020 in 15 mei 2020.- Kunstenaars en kunstenorganisaties 
+zijn zwaar getroffen door de coronacrisis. Om kunstenaars en kunstenorganisaties alle kansen te geven 
+in deze moeilijke omstandigheden hun praktijk/werking verder te zetten, zal de beoordelingsronde voor 
+subsidies met uiterste indiendatum 15 mei 2020 eenmalig uitsluitend focussen op kortlopende beurzen, 
+projecten van individuele kunstenaars en projecten van organisaties met een maximale looptijd van één 
+jaar. Door in te zetten op een korte looptijd blijven de engagementen in deze onzekere tijden beperkt 
+tot maximaal één jaar en kunnen meer spelers uit de kunstensector gesubsidieerd worden.- Met 
+toepassing van artikel 44 van het Kunstendecreet en artikel 16, eerste lid, van het besluit van de Vlaamse 
+Regering van 9 november 2018 betreffende de uitvoering van het decreet van 13 december 2013 houdende 
+de ondersteuning van de professionele kunsten, worden aanvragen voor projectsubsidies binnen het Kunstendecreet 
+geadviseerd door een beoordelingscommissie samengesteld uit minimaal 3 en maximaal 13 leden, voorgezeten 
+door een voorzitter. Op dit moment is het, gelet op de geldende coronamaatregelen, onzeker of zulke beoordelingscommissies 
+zullen kunnen plaatsvinden voor wat betreft de subsidieronde met uiterste indiendatum 15 mei 2020. Om 
+die reden zullen, eenmalig, enkel binnen de beoordelingsronde van 15 mei 2020 aanvragen voor projectsubsidies 
+van individuele kunstenaars en organisaties beoordeeld worden op dezelfde wijze als aanvragen voor beurzen: 
+met een ad hoc commissie bestaande uit 3 leden van de pool van beoordelaars en een secretaris. Daardoor 
+wordt het risico beperkt op onrechtmatig samengestelde beoordelingscommissies als gevolg van uitval van 
+commissieleden wegens ziekte of andere noodzakelijke werkzaamheden als gevolg van corona. Kleine commissies 
+kunnen ook eenvoudiger digitaal vergaderen en adviseren.- De strategische visienota kunsten 
+van 1 april 2020 stelde een aantal aandachtspunten voorop waarmee krachtens artikel 23, § 2, 4° 
+ van het Kunstendecreet bij de beoordeling van aanvragen voor projectsubsidies rekening moet worden gehouden. 
+Op dit moment zijn deze aandachtspunten nog niet geïntegreerd in de digitale tool Kiosk die wordt gebruikt 
+voor het indienen en beoordelen van subsidieaanvragen. Dringende werkzaamheden als gevolg van de coronacrisis 
+kregen voorrang. Bovendien waren al een groot aantal dossiers in aanmaak voor de oorspronkelijke indiendatum 
+van 15 maart die zich gealigneerd hebben op de aandachtspunten uit de strategische visienota dd. 1 april 
+2015. Bijgevolg zullen de subsidieaanvragen die worden ingediend uiterlijk op 15 mei 2020, eenmalig nog 
+worden beoordeeld met toepassing van de aandachtspunten uit de strategische visienota dd. 1 april 2015. 
+Mocht de uiterste indiendatum in 2020 behouden zijn op 15 maart en niet uitgesteld tot 15 mei, dan zouden 
+dezelfde aandachtspunten gehanteerd zijn.Juridisch kaderDit besluit sluit aan bij 
+de volgende regelgeving:- het Kunstendecreet van 13 december 2013;- het besluit van 
+de Vlaamse Regering van 9 november 2018 betreffende de uitvoering van het decreet van 13 december 2013 
+houdende de ondersteuning van de professionele kunsten;- het besluit van de Vlaamse Regering 
+van 20 maart 2020 houdende vaststelling van een civiele noodsituatie met betrekking tot de volksgezondheid, 
+zoals vermeld in het decreet van 20 maart 2020 over maatregelen in geval van een civiele noodsituatie 
+met betrekking tot de volksgezondheid.InitiatiefnemerDit besluit wordt voorgesteld 
+door de Vlaamse minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management.Na beraadslaging,DE 
+VLAAMSE REGERING BESLUIT:Artikel 1. In afwijking van artikel 3, tweede lid, 2°,  van het besluit 
+van de Vlaamse Regering van 9 november 2018 betreffende de uitvoering van het decreet van 13 december 
+2013 houdende de ondersteuning van de professionele kunsten, worden in het jaar 2020 aanvragen tot subsidiëring 
+eenmalig uiterlijk op 15 mei ingediend. Deze aanvragen hebben betrekking op projecten die van start gaan 
+in de periode van 1 september tot en met 31 december 2020.Art. 2. In afwijking van artikel 
+3 van het besluit van de Vlaamse Regering van 9 november 2018 betreffende de uitvoering van het decreet 
+van 13 december 2013 houdende de ondersteuning van de professionele kunsten, worden op 15 mei 2020 eenmalig 
+enkel aanvragen tot subsidiëring ingediend als vermeld in artikel 15, 21 en 30 van het Kunstendecreet.Voor 
+de toepassing van het eerste lid worden in afwijking van artikel 21 en artikel 30 van het Kunstendecreet 
+respectievelijk projectsubsidies voor kunstenaars en projectsubsidies voor organisaties eenmalig toegekend 
+voor een looptijd van maximaal één jaar.Art. 3. In afwijking van artikel 16, eerste lid, van 
+het besluit van de Vlaamse Regering van 9 november 2018 betreffende de uitvoering van het decreet van 
+13 december 2013 houdende de ondersteuning van de professionele kunsten worden voor de advisering over 
+de subsidies vermeld in artikel 21 en in artikel 30 van het Kunstendecreet eenmalig voor de ronde van 
+15 mei 2020 ad hoc commissies samengesteld die bestaan uit drie leden van de pool van beoordelaars en 
+een secretaris, die in dienst is bij de administratie.Art. 4. In uitvoering van artikel 23, 
+§ 2, 4°,  van het Kunstendecreet houdt de ad hoc commissie als vermeld in artikel 3 eenmalig nog 
+rekening met de strategische visienota van 1 april 2015.Art. 5. Dit besluit heeft uitwerking 
+met ingang van 15 maart 2020.Art. 6. De Vlaamse minister, bevoegd voor de cultuur, is belast 
+met de uitvoering van dit besluit.Brussel, 24 april 2020.De minister-president van 
+de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management,J. 
+JAMBON  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-29Numac : 2020040970
+

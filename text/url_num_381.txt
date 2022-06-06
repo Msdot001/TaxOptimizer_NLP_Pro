@@ -1,0 +1,580 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/12/17/2020044715/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-01-05Numac : 2020044715
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 17 DECEMBER 2020. - Bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/047 betreffende het verlenen van een handelshuurlening aan huurders in het kader van de COVID-19 gezondheidscrisis 
+Verslag 
+aan de regeringOnderhavig besluit legt een gewestelijke steunmaatregel ten uitvoer ten gunste 
+van zowel de handelaars- en ambachtslieden-huurders - en in het bijzonder zij die door de toepassing 
+van de federale gezondheidsregels gedwongen werden hun vestigingen te sluiten - als van de eigenaars 
+van commerciële onroerende goederen die ermee instemmen om tijdens één of meer maanden de betaling van 
+de huurgelden op deze goederen kwijt te schelden.De maatregel bestaat uit een lening aan de 
+huurder voor een bedrag dat overeenkomt met één tot vier maanden huur, inclusief lasten. De toekenning 
+van deze lening, die rechtstreeks aan de eigenaar wordt betaald, is afhankelijk van de voorwaarde dat 
+de eigenaar zelf de betaling van de huur, inclusief lasten, voor een periode van één tot vier maanden 
+kwijtscheldt.De maatregel is bedoeld om de liquiditeitsproblemen van de Brusselse handelaars- 
+en ambachtslieden-huurders op te vangen en tegelijkertijd de eigenaars (verhuurders) van deze panden 
+meer zekerheid te bieden voor wat betreft de betaling van de huur op een moment dat de huurder met betalingsmoeilijkheden 
+kan kampen.Artikelsgewijze commentaarDe eerste twee artikelen van het ontwerpbesluit 
+leggen enkele definities en algemene principes van de maatregel vast. Het verlenen van de leningen wordt 
+gedelegeerd aan de minister van Economie, die deze bevoegdheid verder kan delegeren.Het verlenen 
+van de leningen is beperkt tot het beschikbare budget, met name 27 miljoen euro. De kredieten kunnen 
+niet opnieuw gebruikt worden voor de toekenning van opeenvolgende leningen.Artikel 3 bepaalt 
+de voorwaarden waaraan de huurder moet voldoen. Zo is de huurder een onderneming in de zin van het Wetboek 
+van Economische Recht:"(...) onderneming : elk van volgende organisaties :(a) iedere 
+natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent;(b) iedere rechtspersoon;(c) 
+iedere andere organisatie zonder rechtspersoonlijkheid.Niettegenstaande het voorgaande zijn 
+geen ondernemingen, behoudens voor zover anders bepaald in de hierna volgende boeken of andere wettelijke 
+bepalingen die in dergelijke toepassing voorzien :(a) iedere organisatie zonder rechtspersoonlijkheid 
+die geen uitkeringsoogmerk heeft en die ook in feite geen uitkeringen verricht aan haar leden of aan 
+personen die een beslissende invloed uitoefenen op het beleid van de organisatie;(b) iedere 
+publiekrechtelijke rechtspersoon die geen goederen of diensten aanbiedt op een markt;(c) de 
+Federale Staat, de gewesten, de gemeenschappen, de provincies, de hulpverleningszones, de prezones, de 
+Brusselse Agglomeratie, de gemeenten, de meergemeentezones, de binnengemeentelijke territoriale organen, 
+de Franse Gemeenschapscommissie, de Vlaamse Gemeenschapscommissie, de Gemeenschappelijke Gemeenschapscommissie 
+en de openbare centra voor maatschappelijk welzijn(...)".Daarnaast moet de huurder een pand 
+huren in het Gewest sinds minstens 18 maart 2020 (de datum van de eerste lockdown), het in hoofdzaak 
+bestemd hebben tot het drijven van zijn handels- of ambachtelijke activiteit, er een actieve vestigingseenheid 
+in hebben en op diezelfde datum geen achterstand hebben in de huurbetalingen.Er is geen voorwaarde 
+opgenomen met betrekking tot de verplichte sluiting van het handelspand. Sinds maart 2020, werden er 
+veel verschillende gezondheidsmaatregelen genomen zodat ondernemingen die geen omzetverlies lijden ingevolge 
+de gezondheidscrisis in de minderheid zijn, zelfs onder de ondernemingen die nooit op straffe van een 
+sanctie moesten sluiten. Hiermee kan de handelshuurlening ook ten goede komen aan handelaars en ambachtslieden 
+die weliswaar niet verplicht moesten sluiten, maar die wel lijden onder de economische gevolgen van de 
+gezondheidsmaatregelen.De Handelshuurlening kan niet aangewend worden voor huurovereenkomsten 
+die worden gesloten met gewestelijke publieke verhuurders waarvoor de Regering heeft beslist om de huurgelden 
+te schorsen (artikel 4). Deze uitsluiting betreft onder meer Citydev, de Haven van Brussel, de publieke 
+bedrijvencentra en de gewestelijke incubatoren.De huurder dient te beschikken over een geregistreerd 
+handelshuurcontract (of een gelijkaardige juridische structuur waarbij, tegen een vergoeding, een handelspand 
+wordt ter beschikking gesteld zoals erfpacht, vruchtgebruik, opstal, brouwerijcontract incl. terbeschikkingstelling 
+van een pand) voor het pand waarvoor de lening wordt aangevraagd. Ter herinnering, dient dit pand gelegen 
+te zijn in het Brusselse Hoofdstedelijke Gewest.Tussen de onderneming (als huurder) en de verhuurder 
+wordt een vrijwillige overeenkomst afgesloten. De verhuurder scheldt de betaling van een tot vier maanden 
+van de huur, inclusief lasten, kwijt, in ruil voor de betaling van het bedrag van een aan de huurder 
+verstrekte lening dat overeenkomt met één tot vier maanden huur, inclusief lasten. Als een verhuurder 
+een maand huur kwijtscheldt, kan de lening maximaal twee maanden huur dekken. Als een verhuurder ten 
+minste twee maanden huur kwijtscheldt, kan de lening tot vier maanden huur dekken.Het krediet 
+van max. 35.000 euro wordt toegekend voor een periode van twee jaar en dient te worden terugbetaald over 
+een periode van 18 maanden. De terugbetalingen van zowel kapitaal als intrest moeten immers pas starten 
+na 6 maanden. De rente bedraagt 2% per jaar.Eenzelfde huurder kan meerdere handelshuurleningen 
+ontvangen, op basis van overeenkomsten met één of meer verhuurders, maar het gecumuleerd bedrag van alle 
+leningen aan eenzelfde huurder mag niet hoger liggen dan 35.000 euro.De aanvraag voor deze 
+regeling - die volledig digitaal zal verlopen - zal vastgesteld worden op basis van een modelovereenkomst 
+tussen huurder en verhuurder en een verklaring op eer. De uiterste indieningsdatum van de aanvragen is 
+vastgelegd op 30 juni 2021, met een uiterste uitbetaling op 31 december 2021. De maatregel zal dus ten 
+laatste op 31 december 2023 uitdoven (behoudens eventuele lopende geschillen), gelet op de afbetalingstermijn 
+van 2 jaar.De handelshuurleningen worden toegekend in het kader van de Europese de-minimisverordening.Artikel 
+15 van het ontwerpbesluit bepaalt de categorieën persoonsgegevens die kunnen verwerkt worden, de doeleinden 
+van de verwerking, de verwerkingsverantwoordelijken en de bewaartermijn.Artikel 16 van het 
+ontwerpbesluit bevat enkele algemene uitsluitingsgevallen, die grotendeels overeenkomen met de gevallen 
+die bepaald zijn in de premies in het kader van Covid-19.Ten einde rekening te houden met de 
+tijdelijke aard van de bijzondere machten en dat het noodzakelijk zou kunnen zijn om deze maatregel in 
+de toekomst bij te sturen, voorziet artikel 18 in een machtiging voor de Regering om, bij gewoon besluit, 
+een exhaustief aantal elementen van de maatregel aan te passen.Inoverwegingneming van het advies 
+van de Raad van StateDit advies werd gevraagd binnen een termijn van vijf werkdagen. De Raad 
+van State heeft zijn advies 68.423 verleend op 11 december 2020. Het wordt hieronder weergegeven.In 
+dit advies heeft de Raad verschillende opmerkingen geformuleerd. De Raad haalt ten eerste (punt 4.5) 
+aan dat het Gewest kan rekenen op zijn bevoegdheid inzake economisch beleid om deze maatregel aan te 
+nemen. Deze interpretatie valt samen met die van de Regering.De Raad is vervolgens van oordeel 
+(punt 5.1 tot 5.3) dat de voorwaarde dat de hurende onderneming over een actieve vestigingseenheid beschikt 
+op het grondgebied van het Brussels Hoofdstedelijk Gewest en de voorwaarde dat die onderneming minstens 
+een handelspand huurt op hetzelfde grondgebied betrekking moeten hebben op eenzelfde gebouw, om geen 
+ongeoorloofde beperking in van het vrije verkeer van diensten en kapitalen die niet bestaanbaar is met 
+artikel 6, § 1, VI, derde lid, van de bijzondere wet van 8 augustus 1980 in te houden. Het ontwerp 
+werd in die zin aangepast. Dit was trouwens al de initiële doelstelling van de auteur.Daarnaast 
+merkt de Raad van State op (punt 5.3) dat de vereiste dat de huurder in die vestigingseenheid over menselijke 
+middelen en goederen beschikt die specifiek voor hem bestemd zijn, niet bestaanbaar is met het vrije 
+verkeer van goederen en personen. Deze vereiste werd dus geschrapt uit artikel 3.De Raad van 
+State is van mening (punt 7) dat de definitie van de handelshuurlening voorzien in artikel 1 meer verwarring 
+zaait dan omgekeerd. Gelet op de inhoud van artikel 2 kan die definitie geschrapt worden.Artikel 
+12 bepaalt dat de lening wordt uitgekeerd op een Belgische zichtrekening op naam van de Verhuurder. De 
+Raad van State acht zich niet in staat om na te gaan op de beperking tot een Belgische bankrekening niet 
+op gespannen voet komt te staan met Europeesrechtelijke beginselen zoals die inzake het vrije verkeer. 
+De auteurs van het ontwerp verwijzen wat dat betreft naar hun verantwoording aangehaald in punt 9 van 
+het advies.Advies van de Economische en Sociale Raad (Brupartners) en de GegevensbeschermingsautoriteitEr 
+werd aan Brupartners gevraagd om een spoedadvies uit te brengen. Dit advies werd op 11 december 2020 
+uitgebracht, onder voorbehoud van een goedkeuring op haar volgende plenaire vergadering. Met betrekking 
+tot dit advies dient het volgende te worden opgemerkt.De lening was initieel beperkt tot een 
+bedrag van 25.000 euro. Brupartners vraagt zich af of dit bedrag wel voldoende zal zijn, gelet op de 
+hoge huurprijzen in Brussel. Brupartners herinnert eraan dat in het Vlaams Gewest het plafond werd verhoogd 
+tot 60.000 euro met een lening van maximaal 4 maanden huur.Het plafond was gebaseerd op het 
+voorstel van de Nationale Bank en UCM/UNIZO. Volgens onze schatting komt een maandelijkse huurprijs van 
+EUR 12.500 inclusief kosten overeen met het topsegment van het huurassortiment. Met het oog op de nieuwe 
+verplichte sluitingsperiode voor een meerderheid van de winkels is besloten om ook over te stappen op 
+een lening voor maximaal 4 maanden huur en het leningplafond per huurder te verhogen tot 35.000 euro. 
+Dit nieuwe plafond is vastgesteld met bijzondere aandacht voor het financiële risico voor het Gewest.Gezien 
+het feit dat het besluit als rechtsgrond dient voor de verwerking van persoonsgegevens, werd ook het 
+verplichte advies van de Gegevensbeschermingsautoriteit (GBA) aangevraagd, met verzoek tot het uitbrengen 
+van een spoedadvies binnen een termijn van 15 dagen.De GBA heeft op 15 december 2020 advies 
+137/2020 uitgebracht. Alle opmerkingen van de GBA over de tekst van het besluit hebben aanleiding gegeven 
+tot aanpassingen, met uitzonderling van haar aanbeveling (in de punten 39 en 40 van het advies) om de 
+referentie van de geregistreerde huurovereenkomsten te vervangen door de identificatiegegevens van de 
+partijen bij de huurovereenkomsten. Er kan geen gevolg worden gegeven aan deze aanbeveling, aangezien 
+het zeker nuttig is om voor geregistreerde huurovereenkomsten hun officiële referentie te vermelden in 
+de in artikel 6 voorziene overeenkomst die een aanhangsel bij de huurovereenkomst zal vormen. Artikel 
+6 wordt echter aangevuld in het licht van het voorstel van de GBA.De Staatssecretaris voor 
+de Economische Transitie,Barabara TrachteRaad van StateAfdeling 
+WetgevingAdvies 68.423/3 van 11 december 2020 over een ontwerp van bijzondere machtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/NNN `betreffende het verlenen van een handelshuurlening 
+aan huurders in het kader van de COVID-19-gezondheidscrisis'Op 4 december 2020 is de Raad van 
+State, afdeling Wetgeving, door de Minister van de Brusselse Hoofdstedelijke Regering, belast met klimaattransitie, 
+leefmilieu, energie en participatieve democratie verzocht binnen een termijn van vijf werkdagen een advies 
+te verstrekken over een ontwerp van bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering 
+nr. 2020/NNN `betreffende het verlenen van een handelshuurlening aan huurders in het kader van de COVID-19-gezondheidscrisis'.Het 
+ontwerp is door de derde kamer onderzocht op 10 december 2020. De kamer was samengesteld uit Jo BAERT, 
+kamervoorzitter, Jeroen VAN NIEUWENHOVE en Koen MUYLLE, staatsraden, en Annemie GOOSSENS, griffier.Het 
+verslag is uitgebracht door Githa SCHEPPERS, eerste auditeur.De overeenstemming tussen de Franse 
+en de Nederlandse tekst van het advies is nagezien onder toezicht van Koen MUYLLE, staatsraad.Het 
+advies, waarvan de tekst hierna volgt, is gegeven op 11 december 2020.*1. Volgens artikel 84, 
+§ 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, moeten 
+in de adviesaanvraag de redenen worden opgegeven tot staving van het spoedeisende karakter ervan.In 
+het onderhavige geval wordt het verzoek om spoedbehandeling gemotiveerd als volgt:"La crise 
+sanitaire du COVID-19 a des conséquences économiques considérables pour beaucoup d'entreprises (...) 
+à la fois directement et indirectement, par les mesures de sécurité imposées. Il existe un risque aigu 
+de problèmes de liquidité ou de solvabilité des locataires et des bailleurs qui ont conclu un bail commercial, 
+au sens large, à la suite de la crise sanitaire du COVID-19. Les locataires d'un bien situé dans la Région 
+de Bruxelles-Capitale qui subissent une perte de chiffre d'affaires en raison de la crise sanitaire du 
+COVID-19 doivent donc être soutenus financièrement, tout en ayant égard aux intérêts des bailleurs. En 
+échange d'une renonciation partielle du montant du lover dû, ce dispositif offre au bailleur une garantie 
+de paiement pour un maximum de deux mois de loyer du bail commercial relatif à un bien situé dans la 
+Région de Bruxelles-Capitale. Quant à la liquidité du locataire, elle est soutenue par un régime d'avances 
+sous la forme d'un crédit afin de pouvoir payer deux mois de loyer au maximum, avec un maximum de 25.000 
+euros. II convient que les prêts puissent être octroyés cette année 2020 encore."Volgens artikel 
+84, § 1, tweede lid, van de wetten op de Raad van State moet de motivering voor de spoedeisendheid 
+die in de adviesaanvraag voorkomt, woordelijk worden overgenomen in de aanhef. In dit geval stemt de 
+motivering die in het voorlaatste lid van de aanhef van het ontwerp wordt weergegeven, niet overeen met 
+de motivering in de adviesaanvraag, wat zal moeten worden verholpen.2. Overeenkomstig artikel 
+84, § 3, eerste lid, van de wetten op de Raad van State, heeft de afdeling Wetgeving zich moeten 
+beperken tot het onderzoek van de bevoegdheid van de steller van de handeling, van de rechtsgrond, alsmede 
+van de vraag of aan de te vervullen vormvereisten is voldaan.STREKKING VAN HET ONTWERP3. 
+Het voor advies voorgelegde ontwerp van bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering 
+strekt ertoe te voorzien in een systeem van handelshuurleningen, die twee maand huur bedragen per handelspand, 
+inclusief lasten (artikel 7 van het ontwerp). Voor de toekenning van de lening is onder meer vereist 
+dat de verhuurder van het handelspand in kwestie een of twee maanden huur kwijtscheldt, inclusief lasten 
+(artikel 6, derde lid, 2° ).De minister bevoegd voor economie wordt gemachtigd om de handelshuurleningen 
+toe te kennen (artikel 2) en de voorwaarden voor de toekenning van de handelshuurlening worden bepaald 
+(artikelen 3 tot 6).Het bedrag en de terugbetaling van de handelshuurlening worden geregeld 
+(artikelen 7 en 8), evenals de procedure voor de aanvraag en de toekenning van de lening (artikelen 9 
+tot 15). Voorts worden de gevallen bepaald waarin een huurder niet in aanmerking komt voor de lening 
+of waarin hij ze vervroegd moet terugbetalen (artikelen 16 en 17).Ten slotte wordt de Brusselse 
+Hoofdstedelijke Regering (hierna: de regering) gemachtigd om, zelfs na het einde van de bijzondere machten, 
+de ontworpen regeling op een aantal punten te wijzigen (artikel 18) en wordt de inwerkingtreding van 
+het te nemen besluit geregeld (artikel 19).BEVOEGDHEID4.1. Op grond van artikel 6, 
+§ 1, VI, eerste lid, 7°,  van de bijzondere wet van 8 augustus 1980 `tot hervorming der instellingen' 
+zijn de gewesten bevoegd voor "de specifieke regels betreffende de handelshuur". Er kan worden aangenomen 
+dat die aangelegenheid ook de bevoegdheid omvat om te voorzien in een systeem van handelshuurleningen 
+zoals dat bepaald in de ontworpen regeling.4.2. Om een beroep te kunnen doen op die bevoegdheid, 
+moet er echter sprake zijn van een handelshuur in de zin van het voormelde artikel 6, § 1, VI, 
+eerste lid, 7°,  van de bijzondere wet van 8 augustus 1980. In advies 53.932/AV van 27 augustus 2013 
+heeft de Raad van State, afdeling Wetgeving, dienaangaande het volgende opgemerkt:"Het is de 
+bedoeling van de bijzondere wetgever om met deze wetswijziging `de totaliteit van de specifieke regelen 
+betreffende de handelshuur' over te dragen aan de gewesten. Die specifieke regels betreffende de handelshuur 
+vormen op dit ogenblik afdeling IIbis van boek III, titel VIII, hoofdstuk II van het Burgerlijk Wetboek, 
+met het opschrift `Regels betreffende de handelshuur in het bijzonder', welke afdeling ingevoegd is bij 
+de wet van 30 april 1951 `op de handelshuurovereenkomsten met het oog op de bescherming van het handelsfonds'.Aangezien 
+het de bedoeling is van de indieners van het voorstel om de hele bevoegdheid inzake handelshuurovereenkomsten 
+over te dragen aan de gewesten, is het van belang om de exacte draagwijdte te kennen van dat begrip. 
+Het begrip handelshuurovereenkomsten wordt thans in artikel 1 van de voornoemde wet van 30 april 1951 
+gedefinieerd als volgt :`de huur van onroerende goederen of gedeelten van onroerende goederen 
+die, hetzij uitdrukkelijk of stilzwijgend vanaf de ingenottreding van de huurder, hetzij krachtens een 
+uitdrukkelijke overeenkomst van partijen in de loop van de huur, door de huurder of door een onderhuurder 
+in hoofdzaak gebruikt worden voor het uitoefenen van een kleinhandel of voor het bedrijf van een ambachtsman 
+die rechtstreeks in contact staat met het publiek'.Daar deze bepaling het toepassingsgebied 
+definieert van het begrip `handelshuur', bakent ze de bevoegdheidsoverdracht af die artikel 17 van het 
+voorstel van bijzondere wet beoogt tot stand te brengen.De aandacht van de bijzondere wetgever 
+wordt in dat verband gevestigd op het feit dat het toepassingsgebied van het begrip handelshuur, zoals 
+dat voortvloeit uit het voornoemde artikel 1 van de voormelde wet van 30 april 1951, door het Hof van 
+Cassatie aldus wordt geïnterpreteerd dat, opdat van een handelshuur gesproken kan worden, het vereist 
+is dat de huurder `in hoofdzaak zijn prestaties in het klein verstrekt aan het publiek' . Deze definitie 
+van het begrip handelshuur omvat weliswaar ook de bioscoop en schouwburgondernemingen, de garagehouders, 
+de horlogemakers, de kappers, de hotelhouders, alsook de verhuurders van auto's, fietsen, spelen en vermakelijkheden 
+maar bijvoorbeeld niet de opslagruimten voor voorraad, de kantoorgebouwen van ondernemingen of voorts 
+de plaatsen waar de huurder enkel contacten onderhoudt met een beperkt en gesloten clienteel (en niet 
+met het publiek). De beoefenaars van een zelfstandig beroep die geen handelsactiviteiten uitoefenen, 
+zoals advocaten, vallen thans overigens buiten het toepassingsgebied van de wet op de handelshuur. Aldus 
+vallen notarissen of advocaten die een gebouw huren waarin hun kantoor gehuisvest is, niet onder de toepassing 
+van de wet op de handelshuur, maar ressorteren zij onder het gemeen huurrecht, dat geregeld wordt in 
+de artikelen 1714 en volgende van het Burgerlijk Wetboek, en dat een federale bevoegdheid blijft. Hetzelfde 
+geldt voor het merendeel van de medische beroepen en de verenigingen zonder winstoogmerk.De 
+vraag rijst evenwel of de voorgestelde scheidslijn tussen enerzijds de handelshuurovereenkomsten, welke 
+bevoegdheid aan de gewesten zal worden overgedragen, en anderzijds de gemeenrechtelijke huurovereenkomsten, 
+die een federale bevoegdheid zullen blijven, in de lijn ligt van de doelstelling van de bijzondere wetgever, 
+die erin bestaat aan de gewesten de bevoegdheid inzake huurovereenkomsten over te dragen, teneinde hun 
+greep op economisch vlak te vergemakkelijken.De toelichting bij het voorstel van bijzondere 
+wet stelt weliswaar in het algemeen voorop dat, bij de overdracht van aangelegenheden door de bijzondere 
+wet, `[d]e actuele inhoud van wetgevende en reglementaire teksten kan worden opgeheven, aangevuld, gewijzigd 
+of vervangen'. Vanuit dit oogpunt zal het de gewesten mogelijk zijn om bijzondere regelen uit te vaardigen 
+voor huurovereenkomsten die thans buiten het toepassingsgebied van de federale wetgeving betreffende 
+handelshuur vallen, voor zover ze beantwoorden aan de generieke begripsinhoud van de overgedragen aangelegenheid 
+`handelshuur'. Daarentegen valt te betwijfelen of de huur buiten de traditionele sfeer van de (klein)handel 
+en de ambachtsondernemingen, die eveneens verbonden is aan een economische bedrijvigheid (bijvoorbeeld 
+: vrije beroepen, medische sector, ondernemingen uit de non-profitsector) geacht kan worden binnen de 
+naar de gewesten overgedragen bevoegdheid inzake `handelshuur' te vallen."4.3. In artikel 5, 
+3°,  van het ontwerp wordt bepaald dat, om in aanmerking te komen voor de handelshuurlening, de huurovereenkomst 
+één van de volgende vormen moet aannemen:"a) een geregistreerde handelshuurovereenkomst zoals 
+bedoeld in Boek III, Titel VIII, Hoofdstuk II, afdeling IIbis, van het Burgerlijk Wetboek;b) 
+een handelshuur van korte duur zoals bedoeld in het [lees: de] ordonnantie van 25 april 2019 betreffende 
+de handelshuur van korte duur;c) een andere juridische structuur waarbij tegen vergoeding een 
+Handelspand of meerdere Handelspanden ter beschikking wordt gesteld, zoals erfpacht, opstal, vruchtgebruik, 
+of brouwerijcontract, inclusief terbeschikkingstelling van een of meerdere Handelspanden."Ten 
+aanzien van de in artikel 5, 3°,  a) en b), van het ontwerp bepaalde gevallen kan worden aangenomen dat 
+het gaat om gevallen van handelshuur in de zin van het voormelde artikel 6, § 1, VI, eerste lid, 
+7°,  van de bijzondere wet van 8 augustus 1980. Dat is minder vanzelfsprekend voor de in artikel 5, 3°, 
+ c), van het ontwerp bedoelde gevallen. Uit die bepaling blijkt juist dat het gaat om een andere juridische 
+structuur dan de handelshuur.4.4. Zoals de Raad van State in het aangehaalde advies 53.932/AV 
+heeft opgemerkt zouden de gewesten "bijzondere regelen [kunnen uitvaardigen] voor huurovereenkomsten 
+die thans buiten het toepassingsgebied van de federale wetgeving betreffende handelshuur vallen, voor 
+zover ze beantwoorden aan de generieke begripsinhoud van de overgedragen aangelegenheid `handelshuur'". 
+Tijdens de bespreking van wat de bijzondere wet van 6 januari 2014 `met betrekking tot de Zesde Staatshervorming' 
+is geworden, verklaarde de bevoegde staatssecretaris dat "de overheveling iets verder [gaat] dan de handelshuurwet 
+van 1951".Op grond hiervan kan worden aangenomen dat brouwerijcontracten, voor het deel ervan 
+dat betrekking heeft op de huur van het onroerend goed bestemd voor horeca-activiteiten, kunnen worden 
+beschouwd als een vorm van handelshuur in de zin van artikel 6, § 1, VI, eerste lid, 7°,  van 
+de bijzondere wet van 8 augustus 1980. Het voorgaande gaat echter niet op voor de eveneens 
+in artikel 5, 3°,  c), van het ontwerp vermelde rechten van erfpacht, opstal en vruchtgebruik. Dat zijn 
+immers zakelijke rechten, in tegenstelling tot de handelshuur, dat een persoonlijk recht vormt. De regeling 
+van het recht van erfpacht, opstal en vruchtgebruik behoort derhalve niet tot de bevoegdheid van de gewesten 
+inzake de specifieke regels betreffende de handelshuur.4.5. In zoverre de ontworpen regeling 
+betrekking heeft op "een andere juridische structuur" die niet als een vorm van handelshuur kan worden 
+beschouwd in de zin van artikel 6, § 1, VI, eerste lid, 7°,  van de bijzondere wet van 8 augustus 
+1980, kan evenwel een beroep worden gedaan op de bevoegdheid van de gewesten inzake het economisch beleid 
+(artikel 6, § 1, VI, eerste lid, 1°,  van de bijzondere wet van 8 augustus 1980). In die gevallen 
+kan de handelshuurlening immers worden beschouwd als een vorm van steun aan ondernemingen die een economische 
+bedrijvigheid uitoefenen, waarvoor de gewesten in beginsel bevoegd zijn.5.1. In artikel 6, 
+§ 1, VI, derde lid, van de bijzondere wet van 8 augustus 1980 wordt bepaald dat de gewesten in 
+economische aangelegenheden hun bevoegdheden uitoefenen met inachtneming van de beginselen van het vrije 
+verkeer van personen, goederen, diensten en kapitalen en van de vrijheid van handel en nijverheid, alsook 
+met inachtneming van het algemeen normatief kader van de economische unie en de monetaire eenheid, zoals 
+vastgesteld door of krachtens de wet, en door of krachtens de internationale verdragen. Die bevoegdheidsbeperking 
+geldt op algemene wijze, dus niet enkel voor de in opmerking 4.5 aangehaalde gewestelijke bevoegdheid 
+inzake het economische beleid, maar ook voor de in opmerking 4.1 aangehaalde gewestelijke bevoegdheid 
+inzake de specifieke regels betreffende de handelshuur.In het licht hiervan rijzen vragen bij 
+het vereiste dat de huurder over een actieve vestigingseenheid beschikt op het grondgebied van het Brusselse 
+Hoofdstedelijke Gewest die, op het moment van de leningaanvraag, in de Kruispuntbank van Ondernemingen 
+is ingeschreven, in het gewest een economische activiteit uitoefent en er beschikt over menselijke middelen 
+en goederen die specifiek voor hem bestemd zijn. 5.2. Volgens de gemachtigde wordt met een 
+actieve vestigingseenheid een vestiging bedoeld "waar effectief een activiteit wordt uitgeoefend. Leegstaande 
+vestigingen of postbusadressen zouden dus niet in aanmerking komen. Het is niet de bedoeling om vestigingen 
+die (verplicht) gesloten zijn omwille van de coronamaatregelen uit te sluiten."De voorwaarde 
+dat de huurder over een actieve vestigingseenheid beschikt op het grondgebied van het Brusselse Hoofdstedelijke 
+Gewest wordt in het ontwerp evenwel onderscheiden van het vereiste dat een huurder een of meer handelspanden 
+huurt die in het Brusselse Hoofdstedelijke Gewest zijn gelegen. Bijgevolg kan een huurder de handelshuurlening 
+genieten voor een in het Brusselse Hoofdstedelijke Gewest gelegen handelspand waarin geen activiteit 
+wordt uitgeoefend, op voorwaarde dat hij daarnaast op het grondgebied van het Brusselse Hoofdstedelijke 
+Gewest over een actieve vestigingseenheid beschikt. Wanneer daarentegen een huurder een handelspand huurt 
+in het Brusselse Hoofdstedelijke Gewest zonder er activiteiten in uit te oefenen, en hij niet over een 
+actieve vestigingseenheid beschikt in dat gewest, zou hij niet van de handelshuurlening kunnen genieten. 
+In zoverre een huurder van een in het Brusselse Hoofdstedelijke Gewest gelegen handelspand waarin geen 
+activiteit wordt uitgeoefend, op die manier verplicht zou worden om daarnaast een actieve vestigingseenheid 
+op te zetten op het grondgebied van het Brusselse Hoofdstedelijke Gewest, houdt de ontworpen regeling 
+een beperking in van het vrije verkeer van diensten en kapitaal die niet bestaanbaar is met artikel 6, 
+§ 1, VI, derde lid, van de bijzondere wet van 8 augustus 1980.5.3. Uit het antwoord 
+van de gemachtigde kan evenwel worden afgeleid dat het veeleer de bedoeling is dat in het gehuurde pand 
+een economische activiteit wordt gevoerd. In dat geval rijst het voormelde probleem niet omdat ook een 
+buiten het Brusselse Hoofdstedelijke Gewest gevestigde onderneming die een handelspand huurt in dat gewest, 
+de handelshuurlening kan genieten, voor zover er maar een economische activiteit in wordt gevoerd. Het 
+ontwerp moet dan ook worden aangepast in die zin.Daarbij moet ook het vereiste dat de huurder 
+in die vestigingseenheid over menselijke middelen en goederen beschikt die specifiek voor hem bestemd 
+zijn, worden weggelaten, omdat ze niet bestaanbaar is met het vrije verkeer van goederen en personen. 
+Er valt immers niet uit te sluiten dat de huur betrekking heeft op een handelspand waar geen personeel 
+aanwezig is, of minstens niet permanent, zoals bijvoorbeeld het geval is in tankstations of wassalons. 
+Het vereiste dat er een economische activiteit is, volstaat ook om tegemoet te komen aan de door de gemachtigde 
+geschetste doelstelling.RECHTSGROND6.1. Het ontworpen besluit vindt rechtsgrond in 
+artikel 2 van de ordonnantie van 23 november 2020 `tot toekenning van bijzondere machten aan de Brusselse 
+Hoofdstedelijke Regering naar aanleiding van de gezondheidscrisis ten gevolge van COVID-19'. In die bepaling 
+wordt de regering onder meer gemachtigd om, "onder bedreiging van ernstig gevaar, elke situatie die binnen 
+het strikte kader van de COVID-19-pandemie en de gevolgen ervan een probleem vormt te voorkomen en met 
+spoed aan te pakken, onder meer op de volgende gebieden:"(...)- de aanpassing van 
+wetteksten met betrekking tot domeinen waarop de crisis een impact heeft en die onder de gewestelijke 
+bevoegdheden vallen;- het aanpakken van de sociaaleconomische gevolgen van de pandemie".6.2. 
+De voormelde machtiging geldt twee maanden vanaf de dag waarop zij in werking treedt, zijnde tot 25 januari 
+2021.In artikel 18 van het ontworpen besluit wordt de regering gemachtigd om, zelfs na het 
+einde van de bijzondere machten, de ontworpen regeling op een aantal punten te wijzigen. Na 25 januari 
+2021 biedt artikel 2 van de ordonnantie van 23 november 2020 evenwel geen rechtsgrond meer voor de besluiten 
+die de regering zou nemen ter uitvoering van die bepaling. Artikel 18 van het ontworpen besluit kan wel 
+rechtsgrond bieden voor die besluiten, maar enkel nadat de ordonnantiegever het te nemen besluit overeenkomstig 
+artikel 3, § 1, van de ordonnantie van 23 november 2020 heeft bekrachtigd.Indien de 
+regering gebruikt wenst te maken van de in artikel 18 van het ontworpen besluit vervatte machtiging, 
+zal er dus op moeten worden toegezien dat het te nemen besluit zo snel mogelijk na 25 januari 2021 wordt 
+bekrachtigd en dat de regering, zolang dat dit niet is gebeurd, na die datum geen besluiten neemt ter 
+uitvoering van artikel 18 ervan.ONDERZOEK VAN DE TEKSTArtikel 17. Naar 
+luid van artikel 1, 5°,  van het ontwerp wordt in het te nemen besluit verstaan onder handelshuurlening 
+"de lening die wordt toegekend aan de Huurder met het oog op de betaling, door de Huurder, van huurgelden 
+aan de Verhuurder".Die zeer algemene omschrijving spoort niet met de vereisten die verderop 
+in het ontwerp worden gesteld om de handelshuurlening te genieten. Hieromtrent om uitleg gevraagd, verklaarde 
+de gemachtigde:"De constitutieve elementen van de handelshuurlening worden voornamelijk beschreven 
+in de artikelen 7 en 8. De definitie bepaald in artikel 1, 5°,  heeft voornamelijk als doel om de leesbaarheid 
+van het besluit te bevorderen."De voormelde definitie is evenwel zodanig lacunair dat veeleer 
+verwarring ontstaat over de draagwijdte van de ontworpen regeling. Ze moet dan ook worden aangevuld of 
+worden weggelaten.Artikel 88. In artikel 8, derde lid, van het ontwerp wordt bepaald 
+dat de handelshuurlening voor de huurder een "quasi-eigenvermogensschuld" vormt.Hieromtrent 
+om uitleg gevraagd verklaarde de gemachtigde:"Cette précision fait du prêt au loyer commercial 
+une dette subordonnée pour l'emprunteur, c'est-à-dire une dette au rang le plus bas. Grâce à cette propriété, 
+il est plus facile pour le commerçant ou l'artisan en difficulté, s'il en éprouve le besoin, de contracter 
+un autre emprunt auprès d'un organisme financier classique : cet organisme est rassuré par la certitude 
+de passer avec la Région dans le partage de l'actif en cas de cessation d'activité, par exemple. Cette 
+disposition renforce donc le soutien à l'entreprise (ou à l'indépendant) emprunteuse."Artikel 
+129. In artikel 12 van het ontwerp wordt bepaald dat het bedrag van de lening betaald wordt 
+op een Belgische zichtrekening van de verhuurder.De Raad van State, afdeling Wetgeving, heeft 
+omtrent een gelijkaardige vereiste recent het volgende opgemerkt:"11. In artikel 8 van het 
+ontwerp wordt bepaald dat de steun in één enkele schijf wordt vereffend `op een Belgische zichtrekening 
+op naam van de begunstigde'. Aan de gemachtigde werd gevraagd waarom wordt geopteerd voor de beperking 
+tot een Belgisch bankrekeningnummer en daardoor het gebruik wordt uitgesloten van bijvoorbeeld een `International 
+Bank Account Number' (IBAN). De gemachtigde beantwoordde deze vraag als volgt:`De keuze voor 
+Belgische bankrekeningen vindt haar oorsprong in een bezorgdheid om zo veel als mogelijk de behandeling 
+en de uitbetaling van de dossiers te automatiseren. Een Belgisch bankrekeningnummer heeft telkens hetzelfde 
+aantal getallen en er bestaat bovendien een controlemechanisme dat toelaat om na te gaan dat het rekeningnummer 
+effectief bestaat. Voor bankrekeningnummers van andere landen is dat niet altijd het geval.Het 
+is in dit opzicht belangrijk om te onthouden dat deze steunmaatregel deel uitmaakt van een groter pakket 
+aan maatregelen, waardoor de administratie al sinds maart 2020 met zeer korte termijnen tienduizenden 
+steunaanvragen behandelt.Een tweede reden voor deze eis is om het risico van frauduleuze aanvragen 
+te verminderen.Een gelijkaardige bepaling werd opgenomen in het bijzondere machtenbesluit van 
+de Brusselse Hoofdstedelijke Regering nr. 2020/015 van 7 april 2020 betreffende de steun in het kader 
+van de gezondheidscrisis Covid-19 tot vergoeding van de ondernemingen actief in de primaire productie 
+van landbouwproducten en de aquacultuur op het gebied van voeding, artikel 9. Laatstgenoemd besluit is 
+bij de Europese Commissie aangemeld in het kader van de Tijdelijke kaderregeling Covid-19 en de Commissie 
+heeft op dit punt geen opmerkingen gemaakt. Ook de uitvoering van deze regelingen heeft geen problemen 
+opgeleverd in verband met deze eis voor een Belgische bankrekening'.Er zal op moeten worden 
+toegezien dat de keuze voor de beperking tot een Belgisch bankrekeningnummer, in artikel 8 van het ontwerp, 
+niet op gespannen voet komt te staan met Europeesrechtelijke beginselen zoals die inzake het vrije verkeer. 
+De Raad van State, afdeling Wetgeving, beschikt wat dat betreft niet over de nodige feitelijke en technische 
+gegevens om zich, binnen het korte tijdsbestek van deze adviesaanvraag, daarover een voldoende gefundeerd 
+oordeel te vormen."Hetzelfde geldt voor artikel 12 van het ontwerp.De griffier,  
+ De voorzitter,Annemie Goossens   Jo Baert_______Nota's1 Voetnoot 
+63 van het aangehaalde advies: Zie inzonderheid Cass., 22 februari 1980, Arr. Cass. 1979-1980, I, 753-756.2 
+Voetnoot 64 van het aangehaalde advies: Zie voor al de aangehaalde voorbeelden Parl. St. Kamer, 1950-1951, 
+nr. 124, 4 (verslag namens de Commissie voor de economische zaken van de Kamer over het wetsontwerp dat 
+aanleiding gegeven heeft tot de voornoemde wet van 30 april 1951).3 Voetnoot 65 van het aangehaalde 
+advies: Zie in dat verband de toelichting bij het voorliggende voorstel van bijzondere wet (Parl. St. 
+Senaat 2012-2013, 5-2232/1, 95). Naar analogie wordt in het voorstel van bijzondere wet voorzien in de 
+overdracht naar de gewesten van de bijzondere regelen inzake pacht en veepacht, met het oog op een "doelmatig 
+landbouwbeleid" (toelichting, loc. cit., p. 87). Adv.RvS 53.932/AV van 27 augustus 2013 over 
+een voorstel dat heeft geleid tot de bijzondere wet van 6 januari 2014 `met betrekking tot de Zesde Staatshervorming', 
+opmerking 2 bij artikel 17, Parl.St. Senaat 2012-13, nr. 5-2232/3 29-30. 5. Verslag namens 
+de Commissie voor Institutionele Aangelegenheden, Parl.St. Senaat 2012-13, nr. 5-2232/5, 311. 
+6. Omtrent die vereiste: zie adv.RvS 67.554/1 van 12 juni 2020 over een ontwerp dat heeft geleid tot 
+het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/042 van 18 juni 2020 
+`betreffende de steun tot vergoeding van de creatieve en culturele instellingen zonder winstoogmerk getroffen 
+door de dringende maatregelen om de verspreiding van het COVID-19-virus te beperken', opmerking 4.1. 
+7. Artikel 3, 2°,  van het ontwerp. 8. Artikelen 3, 3°,  en 5, 1°,  van het ontwerp. 
+9. Artikel 4 van de ordonnantie van 23 november 2020.10. De ordonnantie van 23 november 2020 
+is, overeenkomstig artikel 5 ervan, in werking getreden op de dag van de bekendmaking ervan in het Belgisch 
+Staatsblad van 25 november 2020. 11. De precisering dat dit moet gebeuren bij besluit goedgekeurd 
+na overleg in de ministerraad is overbodig, vermits uit artikel 69 van de bijzondere wet van 8 augustus 
+1980 reeds voortvloeit dat de regering collegiaal beraadslaagt 12. Adv.RvS 68.214/1 van 9 november 
+2020 over een ontwerp dat heeft geleid tot het besluit van de Brusselse Hoofdstedelijke Regering van 
+12 november 2020 `betreffende steun aan de eet- en drankgelegenhedenondernemingen in het kader van de 
+gezondheidscrisis COVID-19'; zie ook adv.RvS 67.277/3 van 27 april 2020 over een ontwerp dat heeft geleid 
+tot het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/015 van 7 mei 2020 
+`betreffende de steun in het kader van de gezondheidscrisis COVID-19 tot vergoeding van de ondernemingen 
+actief in de primaire productie van landbouwproducten en de aquacultuur op het gebied van voeding', opmerking 
+18; adv.RvS 67.457/3 van 28 mei 2020 over een ontwerp dat heeft geleid tot het bijzondere machtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/028 van 29 mei 2020 `ter invoering van een premie 
+ter ondersteuning van de huurders met beperkte inkomsten die een inkomensverlies ondergaan door de COVID-19 
+gezondheidscrisis', opmerking 8.3.17 DECEMBER 2020. - Bijzondere machtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/047 betreffende het verlenen van een handelshuurlening 
+aan huurders in het kader van de COVID-19 gezondheidscrisisDe Brusselse Hoofdstedelijke Regering,Gelet 
+op de ordonnantie van 23 november 2020 tot toekenning van bijzondere machten aan de Brusselse Hoofdstedelijke 
+Regering naar aanleiding van de gezondheidscrisis ten gevolge van COVID-19, artikel 2, § 1;Gelet 
+op artikel 2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het advies van de inspecteur van Financiën, gegeven op 27 november 2020;Gelet op het akkoord 
+van de Minister van Begroting, gegeven op 2 december 2020;Gelet op het advies van de Economische 
+en Sociale Raad voor het Brussels Hoofdstedelijk Gewest, gegeven op 11 december 2020;Gelet 
+op het verzoek om spoedbehandeling, gemotiveerd door de voortdurende gezondheidscrisis, die zowel rechtstreeks 
+als onrechtstreeks via de opgelegde veiligheidsmaatregelen een gevoelige impact heeft op de economische 
+bedrijvigheid van veel ondernemingen;Dat het acuut risico op liquiditeits- of solvabiliteitsproblemen 
+van huurders en verhuurders die een handelshuurovereenkomst, in brede zin afsloten, ten gevolge van de 
+COVID-19 gezondheidscrisis;Dat huurders van een pand gelegen in het Brusselse Hoofdstedelijke 
+Gewest, die een omzetverlies ondergaan door de COVID-19 gezondheidscrisis, financieel ondersteund moeten 
+worden, waarbij ook de belangen van de verhuurders worden gewaarborgd;Dat in ruil voor een 
+gedeeltelijke kwijtschelding van de verschuldigde huur, de verhuurder zekerheid krijgt over de betaling 
+van maximum vier maanden huur van de handelshuur met betrekking tot een in het Brusselse Hoofdstedelijk 
+Gewest gelegen pand;Dat de huurder in zijn liquiditeit wordt gesteund via een voorschottenregeling 
+in de vorm van een krediet om maximum vier maanden huurgelden met een maximum van 35.000 euro te kunnen 
+betalen;Dat bovendien de moeilijkheden en de traagheid die inherent zijn aan de hervatting 
+van elke economische activiteit na een crisissituatie, dewelke een spreiding van de terugbetalingstermijnen 
+vereisen;Dat het noodzakelijk is dat de leningen nog in het jaar 2020 toegekend kunnen worden;Gelet 
+op het advies 68.423/1 van de Raad van State, gegeven op 11 december 2020, met toepassing van artikel 
+84, § 1, eerste lid, 3 °,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op het advies van de Gegevensbeschermingsautoriteit, gegeven op 15 december 2020, met toepassing van 
+de artikel 23 en 26 van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit;Op 
+voorstel van de Minister bevoegd voor Economie,Na beraadslaging,Besluit :HOOFDSTUK 
+1. -  Algemene bepalingenArtikel 1. In dit besluit wordt verstaan onder:1°  minister: 
+de minister van de Brusselse Hoofdstedelijke Regering bevoegd voor Economie;2°  Gewest: het 
+Brussels Hoofdstedelijk Gewest;3°  BEW: Brussel Economie en Werkgelegenheid van de Gewestelijke 
+Overheidsdienst Brussel;4°  Handelspand: gebouw of deel van een gebouw dat door de Huurder 
+hoofdzakelijk wordt toegewezen aan de uitoefening van een handelszaak of aan de activiteit van een ambachtsman 
+die rechtstreeks in contact staat met het publiek.Art. 2. De minister kent Handelshuurleningen 
+toe aan de Huurders onder de voorwaarden bepaald in dit besluit.De lening worden toegekend 
+binnen de grenzen van de basisallocaties van de begroting 12.022.33.01.8300 en 12.022.40.01.8112, in 
+chronologische volgorde van de ontvangst van de ondertekende leningovereenkomst. De kredieten kunnen 
+niet opnieuw gebruikt worden voor de toekenning van opeenvolgende leningen.De artikelen 10, 
+§ , en 32 van het besluit van de Brusselse Hoofdstedelijke Regering van 13 juli 2006 betreffende 
+de administratieve en begrotingscontrole evenals de begrotingsopmaak zijn niet van toepassing op de beslissingen 
+om leningen te verstrekken.De Gewestelijke Overheidsdienst Brussel en de Gewestelijke Overheidsdienst 
+Brussel Fiscaliteit zijn verantwoordelijk voor het beheer van de aanvragen voor de handelshuurleningen, 
+evenals het beheer van de verstrekte leningen, inclusief de betaling van het geleende bedrag, het toezicht 
+op terugbetaling en het beheer van de gerelateerde geschillen.HOOFDSTUK 2. -  Voorwaarden van 
+de handelshuurleningArt. 3. De Huurder:1°  is een onderneming in de zin van artikel 
+I.1, eerste lid, 1°,  van het Wetboek Economisch Recht;2°  huurt een of meer handelspanden 
+van de Verhuurder sinds minstens 18 maart 2020;3°  beschikt, in de handelspanden bedoeld in 
+2°,  over een actieve vestigingseenheid in het Gewest die, op het moment van de leningaanvraag, in de 
+Kruispuntbank van Ondernemingen is ingeschreven en oefent er een economische activiteit uit;4° 
+ onderverhuurt niet meer dan de helft van de oppervlakte van de Handelspanden die het voorwerp vormen 
+van de Handelshuurlening gedurende de maanden bedoeld in artikel 6, derde lid, 4° ;5°  had 
+geen achterstand in de betaling van de huurgelden op 18 maart 2020 voor de betrokken Handelspanden.Art. 
+4. De Verhuurder heeft de maatregel tot schorsing van de huurgelden gedurende een periode van drie maanden 
+ten voordele van bepaalde gewestelijke publieke verhuurders en die deel uitmaakt van het Herstel- en 
+Herontwikkelingsplan van de Regering van 7 juli 2020 niet genoten.Art. 5. De huurovereenkomst 
+tussen de Huurder en de Verhuurder:1°  heeft betrekking op een of meer Handelspanden gelegen 
+in het Gewest;2°  is nog steeds lopende op het moment van de aanvraag van de Handelshuurlening;3° 
+ neemt één van de volgende vormen aan:a) een geregistreerde handelshuurovereenkomst zoals bedoeld 
+in Boek III, Titel VIII, Hoofdstuk II, afdeling IIbis, van het Burgerlijk Wetboek;b) een handelshuur 
+van korte duur zoals bedoeld in de ordonnantie van 25 april 2019 betreffende de handelshuur van korte 
+duur;c) een andere juridische structuur waarbij tegen vergoeding een Handelspand of meerdere 
+Handelspanden ter beschikking wordt gesteld, zoals erfpacht, opstal, vruchtgebruik, of brouwerijcontract, 
+inclusief terbeschikkingstelling van een of meerdere Handelspanden.Art. 6. De Huurder en de 
+Verhuurder van de huurovereenkomst, of hun respectieve rechtsopvolgers ten algemene of ten bijzondere 
+titel, ondertekenen een modelovereenkomst, opgesteld door BEW.De modelovereenkomst geldt als 
+een addendum bij de huurovereenkomsten en maakt er in die zin integraal deel van uit.De modelovereenkomst 
+bevat, naast de reeds bekende identificatiegegevens van de Huurder, de Verhuurder en het handelspand, 
+minstens :1°  de identificatiegegevens van de geregistreerde Huurovereenkomsten;2° 
+ de kwijtschelding door de Verhuurder, per Handelspand, van één tot vier maanden huur, inclusief lasten, 
+die de partijen aanduiden;3°  het akkoord van de partijen dat maximum vier andere maanden huur, 
+inclusief lasten, die de partijen aanduiden, worden gedekt door de Handelshuurlening;4°  het 
+vervallen van de verplichting voor de Huurder tot betaling van de huur voor elk Handelspand afzonderlijk, 
+voor de maanden bedoeld in 2°  en 3°,  die elkaar niet noodzakelijk opvolgen, met ingang van ten vroegste 
+de huur die in de maand april 2020 opeisbaar werd en eindigend ten laatste op 30 juni 2021;5° 
+ een verklaring op eer van de partijen dat er geen achterstand was in de betaling van de huurgelden op 
+18 maart 2020 en dat de handelshuur nog lopende is, of werd vernieuwd of verlengd.Indien de 
+huur niet maandelijks betaald wordt, voorziet de modelovereenkomst in een verrekening pro rata temporis.HOOFDSTUK 
+3. -  Vorm en bedrag van de handelshuurleningArt. 7. De Handelshuurlening bedraagt maximaal 
+vier maanden huur per Handelspand in het Gewest, inclusief lasten.Voor elk Handelspand mag 
+de Handelshuurlening niet meer dan twee maanden huur, inclusief lasten, dekken, tenzij de Verhuurder 
+meer dan een maand huur, inclusief lasten, kwijtscheldt.Een Huurder kan meerdere aanvragen 
+voor een Handelshuurlening indienen. Eenzelfde Handelspand kan slechts het onderwerp zijn van één enkele 
+Handelshuurlening.De Handelshuurleningen bedragen maximaal 35.000 euro voor alle Handelspanden 
+van de Huurder.Art. 8. De Handelshuurlening wordt terugbetaald en de rente wordt betaald in 
+18 maandelijkse termijnen van een gelijk bedrag, waarvan de eerste 6 maanden na de toekenning van de 
+Handelshuurlening verschuldigd is.De rente bedraagt 2 procent per jaar.De Handelshuurlening 
+vormt voor de Huurder een quasi-eigenvermogensschuld.HOOFDSTUK 4. -  Aanvraag- en toekenningsprocedureArt. 
+9. De Huurder dient een aanvraag in via het platform ter beschikking gesteld door BEW en voegt daarbij 
+de gevraagde bewijsstukken.De aanvraag heeft betrekking op één enkel Handelspand waarvoor de 
+Huurder een Handelshuurlening aanvraagt. Een Huurder kan een aanvraag indienen voor elk van zijn gehuurde 
+Handelspanden.BEW ontvangt de aanvragen ten laatste op 30 juni 2021.BEW kan per e-mail 
+alle documenten of informatie opvragen die het voor het onderzoek van de aanvraag noodzakelijk acht. 
+De Huurder verstrekt de aanvullende documenten en informatie binnen de vijftien dagen. Indien binnen 
+deze termijn geen antwoord wordt ontvangen, wordt de aanvraag geweigerd.De informatie die rechtstreeks 
+van de betrokken personen wordt verzameld, is de informatie die strikt noodzakelijk is om aan te tonen 
+dat aan de wettelijke voorwaarden van dit besluit is voldaan.Art. 10. BEW informeert de aanvragers 
+over de ontvankelijkheid van hun aanvraag.Art. 11. BEW legt aan die Huurders wiens aanvraag 
+ontvankelijk is, een leningovereenkomst voor. De Huurders ondertekenen die leningovereenkomst en bezorgen 
+deze terug aan BEW binnen de maand van de verzending ervan.De lening wordt ten laatste op 31 
+december 2021 toegekend.Art. 12. BEW betaalt het bedrag van de lening op een Belgische zichtrekening 
+op naam van de Verhuurder. Deze betaling geldt als een betaling van de huur van de Huurder.Art. 
+13. De leningen worden verstrekt onder de voorwaarden bedoeld in de verordening (EU) nr. 1407/2013 van 
+de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het verdrag 
+betreffende de werking van de Europese Unie op de-minimissteun.De begunstigde van de lening 
+geeft alle andere steun die onder bovengenoemde verordening of andere de-minimisverordeningen valt aan 
+en die de onderneming in de twee voorafgaande belastingjaren en het lopende belastingjaar heeft ontvangen.BEW 
+deelt de begunstigde mee dat de lening op grond van bovengenoemde verordening wordt toegekend.Art. 
+14. BEW kan de behandeling van de aanvragen, leningen en geschillen geheel of gedeeltelijk uitbesteden.Art. 
+15. De categorieën persoonsgegevens die met het oog op de uitvoering van deze maatregel kunnen worden 
+verwerkt, zijn de identificatie- en contactgegevens van de Huurders, de echtgenoten of wettelijk samenwonenden 
+van de Huurders in het geval het huwelijksstelsel of het contractuele regime van wettelijk samenwonen 
+dat van de gemeenschap is, en Verhuurders of hun vertegenwoordigers, natuurlijke personen, gegevens uit 
+de huurovereenkomsten in ruime zin bedoeld in artikel 5, het bedrag van het verleende krediet en andere 
+categorieën persoonsgegevens die essentieel zijn voor de uitvoering van de regeling, met inbegrip van 
+het toezicht op de naleving van de voorwaarden en het beheer van de terugbetalingen en de geschillen.In 
+het kader van deze maatregel zijn de verantwoordelijken voor de verwerking gemachtigd om nationale registratienummers 
+aan te vragen en te gebruiken, overeenkomstig artikel 8, § 1, lid 3, van de wet van 8 augustus 
+1983 tot regeling van een Rijksregister van de natuurlijke personen, ten einde de aanvragen en de leningen 
+te beheren, inclusief de terugbetalingen en geschillen en meer specifiek om Huurders en Verhuurders te 
+identificeren die natuurlijke personen zijn of hun vertegenwoordigers die natuurlijke personen zijn.De 
+verantwoordelijken voor de verwerking van deze gegevens zijn BEW en Brussel Financiën en Begroting van 
+de Gewestelijke Overheidsdienst Brussel en de Gewestelijke Overheidsdienst Brussel Fiscaliteit.De 
+bewaartermijn voor persoonsgegevens die in het kader van deze maatregel worden verwerkt, bedraagt drie 
+jaar vanaf het einde van een lening. Indien een leningsaanvraag is geweigerd, worden de desbetreffende 
+gegevens gedurende één jaar na de mededeling van de weigeringsbeslissing bewaard. De persoonsgegevens 
+die nodig zijn voor de verwerking van een geschil in het kader van deze maatregel worden echter voor 
+de duur van de verwerking van het geschil bewaard.HOOFDSTUK 5. - UitsluitingsgrondenArt. 
+16. Wordt uitgesloten van de lening, of is desgevallend gehouden tot vervroegde terugbetaling, de Huurder 
+die:1°  niet alle toepasselijke verplichtingen op het gebied van het milieu-, sociaal en arbeidsrecht 
+naleeft;2°  zich in staat van faillissement of van vereffening bevindt, zijn werkzaamheden 
+heeft gestaakt, een aangifte van faillissement heeft gedaan, voor hem een vereffeningsprocedure aanhangig 
+is of in een vergelijkbare toestand verkeert ingevolge een soortgelijke procedure die bestaat in andere 
+nationale reglementeringen;3°  opzettelijk onjuiste inlichtingen verstrekt; 3°  qui fournit 
+intentionnellement des informations erronées ;4°  zich in een van de gevallen bevindt als bedoeld 
+in artikel 3, § 1, eerste lid, van de ordonnantie van 8 oktober 2015 houdende algemene regels 
+betreffende de inhouding, de terugvordering en de niet-vereffening van subsidies op het vlak van werkgelegenheid 
+en economie, zolang hij de subsidies als bedoeld in voornoemde ordonnantie niet terugbetaalt overeenkomstig 
+de regels bedoeld in haar artikel 4. De Huurder leeft de voorwaarden bedoeld in het eerste 
+lid na tot de Handelshuurlening volledig afgelost is. Le Locataire respecte les conditions visées à l'alinéa 
+1er jusqu'à ce que le Prêt sur le loyer commercial soit intégralement remboursé.Art. 
+17. De bepalingen van de ordonnantie van 8 oktober 2015 houdende algemene regels betreffende de inhouding, 
+de terugvordering en de niet-vereffening van subsidies op het vlak van werkgelegenheid en economie en 
+de uitvoeringsmaatregelen ervan zijn van toepassing op de leningen vastgelegd in dit besluit, met uitzondering 
+van artikel 3, § 1, eerste lid, 2°,  van voornoemde ordonnantie, betreffende de inhouding van 
+de subsidie met het oog op de inning van de onbetaald gebleven gewestelijke administratieve geldboeten. 
+HOOFDSTUK 6. - SlotbepalingenArt. 18. De Regering kan, bij besluit, zelfs na het 
+einde van de bijzondere machten, de volgende bepalingen aanpassen:1°  de voorwaarden waaraan 
+de Huurder, Verhuurder en de huurovereenkomst tussen hen voldoen;2°  de bepalingen die de modelovereenkomst 
+bedoeld in artikel 6 bevat;3°  het maximumbedrag van de Handelshuurlening per Huurder, tot 
+maximaal 75.000 euro;4°  de terugbetalingstermijnen van de Handelshuurlening;5°  
+de jaarlijkse rentevoet van de Handelshuurlening, tot maximaal 2%;6°  de aanvraag- en toekenningsprocedure;7° 
+ de uiterste aanvraag- en toekenningsdatum, tot ten laatste 30 juni 2022 en 31 december 2022 respectievelijk;8° 
+ de toepasselijke Europese staatssteunregelgeving;9°  de categorieën persoonsgegevens die kunnen 
+verwerkt worden, in functie van de wijzigingen aangebracht op basis van dit artikel;10°  de 
+uitsluitingsgronden.Art. 19. Dit besluit treedt in werking op 15 januari 2021.Art. 
+20. De minister wordt belast met de uitvoering van dit besluit.Brussel, 17 december 2020.Voor 
+de Brusselse Hoofdstedelijke Regering,De Minister-President,R. VERVOORTDe 
+Minister van Economie,A. MARONDe Minister van Financiën en Begroting,S. 
+GATZ   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-01-05Numac : 2020044715
+

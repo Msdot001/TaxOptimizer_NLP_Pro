@@ -1,0 +1,55 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-29Numac : 2021041006
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 16 MAART 2021. - Wet houdende bepalingen inzake gezinsfiscaliteit en de stopzetting van het permanent systeem inzake fiscale en sociale regularisatie. - Erratum 
+Op bladzijde 23752, van het Belgisch 
+Staatsblad van 23 maart 2021, wordt de naam "K. GEENS" vervangen door "V. VAN QUICKENBORNE".   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-29Numac : 2021041006
+

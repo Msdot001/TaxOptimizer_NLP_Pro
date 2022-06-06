@@ -1,0 +1,79 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/01/20/2020040138/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-01-28Numac : 2020040138
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 20 JANUARI 2020. - Koninklijk besluit tot remediering van het dubbelgebruik van artikel 734quater/1 in het KB/WIB 92 
+FILIP, Koning der Belgen,Aan allen die nu zijn en hierna wezen zullen, 
+Onze Groet.Gelet op artikel 205/5, § 5, van het Wetboek van de inkomstenbelastingen 
+1992 ingevoegd bij de wet van 25 december 2017;Gelet op het KB/WIB 92;Gelet op het 
+koninklijk besluit van 16 november 1994 betreffende de administratieve en begrotingscontrole, artikelen 
+5 en 14;Overwegende dat de bepalingen van dit besluit geen rechtstreekse of onrechtstreekse 
+financiële weerslag kunnen hebben;Gelet op de wetten op de Raad van State, gecoördineerd op 
+12 januari 1973, artikel 3, § 1;Overwegende dat de bepalingen van dit besluit niet reglementair 
+van aard zijn;Overwegende dat artikel 3 van het koninklijk besluit van 20 december 2019 tot 
+aanpassing van het KB/WIB 92 ingevolge de invoering van de aftrek van de groepsbijdrage en van de beperking 
+op de aftrek van interesten, in het KB/WIB 92 een artikel 734quater/1 invoegt;Overwegende 
+dat artikel 2 van het koninklijk besluit van 2 oktober 2019 tot uitvoering van artikel 205/4, § 
+2, van het Wetboek van de inkomstenbelastingen 1992 eveneens in het KB/WIB 92 een artikel 734quater/1 
+heeft ingevoegd;Overwegende dat het dubbel gebruik van dit artikel 734quater/1 
+in het KB/WIB 92 de nodige rechtsonzekerheid met zich meebrengt;Op de voordracht van de Vice-Eerste 
+Minister en de Minister van Financiën,Hebben Wij besloten en besluiten Wij :Artikel 
+1. In hoofdstuk I van het KB/WIB 92 wordt een afdeling XXVIIquater1/1 ingevoegd die 
+het artikel 734quater/3 bevat, luidende:"Afdeling XXVIIquater1/1. 
+- Aftrek van de groepsbijdrageArt. 734quater/3. Het model 
+van de in artikel 205/5, § 5, van het Wetboek van de inkomstenbelastingen 1992, bedoelde groepsbijdrage-overeenkomst 
+wordt door de minister die bevoegd is voor Financiën of zijn gedelegeerde vastgesteld.".Art. 
+2.  Artikel 3 van het koninklijk besluit van 20 december 2019 tot aanpassing van het KB/WIB 92 ingevolge 
+de invoering van de aftrek van de groepsbijdrage en van de beperking op de aftrek van interesten wordt 
+ingetrokken.Art. 3.  Dit besluit is van toepassing vanaf aanslagjaar 2020 voor de belastbare 
+tijdperken die ten vroegste aanvangen op 1 januari 2019.Art. 4.  De minister bevoegd voor Financiën 
+is belast met de uitvoering van dit besluit.Gegeven te Brussel, 20 januari 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-01-28Numac : 2020040138
+

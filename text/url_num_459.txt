@@ -1,0 +1,60 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-23Numac : 2021201336
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+  
+Vergelijkende selectie van Nederlandstalige Fiscaal controleurs (m/v/x) (niveau B) voor de FOD Financiën. 
+- Selectienummer: ANG21030 Solliciteren kan tot en met 06/04/2021 via www.selor.be De 
+gedetailleerde functiebeschrijving (jobinhoud, deelnemingsvoorwaarden, selectieprocedure,...) kan u verkrijgen 
+bij FOD BOSA via www.selor.beGeef het selectienummer in via de zoekmotor om de selectie terug 
+te vinden.Een lijst van maximaal 200 laureaten, geldig voor 1 jaar, zal na de selectie worden 
+opgesteld. Naast deze lijst van laureaten wordt een bijzondere lijst opgesteld (die 4 jaar 
+geldig blijft) van de personen met een handicap die geslaagd zijn.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-23Numac : 2021201336
+

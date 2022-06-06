@@ -1,0 +1,103 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/07/2020020780/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-14Numac : 2020020780
+BRUSSELS HOOFDSTEDELIJK GEWEST
+ 7 APRIL 2020. - Besluit van de Minister-President van het Brussels Hoofdstedelijk Gewest houdende verlenging van het verbod op bezoeken aan rusthuizen en rust- en verzorgingstehuizen naar aanleiding van de maatregelen om de verspreiding van het coronavirus Covid-19 te beperken 
+De Minister-President van het Brussels 
+Hoofdstedelijk Gewest,Gelet op artikel 166, § 2, van de Grondwet;Gelet op 
+de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;Gelet op artikel 48 van 
+de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, zoals gewijzigd bij 
+de wet van 6 januari 2014;Gelet op artikel 11 van de wet van 5 augustus 1992 op het politieambt, 
+zoals vervangen door de wet van 7 december 1998;Gelet op artikel 128 van de provinciewet;Gelet 
+op het besluit van de Minister-President van 10 maart 2020 houdende het verbod van bijeenkomsten van 
+meer dan 1000 personen, bezoeken aan rusthuizen en rust- en verzorgingstehuizen en schoolreizen naar 
+het buitenland;Gelet op het ministerieel besluit van 13 maart 2020 houdende de afkondiging 
+van de federale fase betreffende de coördinatie en het beheer van de crisis coronavirus Covid-19;Gelet 
+op het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het 
+coronavirus Covid-19 te beperken, zoals gewijzigd door het ministerieel besluit van 3 april 2020;Gelet 
+op de omzetbrief van 27 maart 2020 opgesteld door Iriscare houdende instructies voor door de GGC erkende 
+en gesubsidieerde rusthuizen en rust- en verzorgingstehuizen;Gelet op het voorzorgsbeginsel 
+naar aanleiding van een internationale sanitaire crisis;Gelet op de dringendheid en het gezondheidsrisico 
+ingevolge de verspreiding van het CORONAVIRUS - Covid-19 voor de bevolking op het grondgebied van het 
+Brussels Hoofdstedelijk Gewest;Overwegende dat het CORONAVIRUS - Covid-19 in december 2019 
+in de regio Wuhan in China is verschenen;Overwegende de verspreiding van het coronavirus - 
+Covid-19 op Europese bodem en het feit dat de Wereldgezondheidsorganisatie de toestand benoemd heeft 
+als pandemie, alsook de verhoging van het dreigingsniveau tot het maximaal niveau in verband met Covid-19;Overwegende 
+dat dit virus zeer besmettelijk is en van persoon tot persoon wordt overgedragen;Overwegende 
+dat het virus zich verspreid heeft in Europese landen, waaronder België, en dat in België ondertussen 
+15.348 personen besmet blijken te zijn met Covid-19;Overwegende dat de Belgische overheid waakzaam 
+is en alles in het werk stelt om de volksgezondheid te vrijwaren, en dan vooral van de meer kwetsbare 
+personen;Overwegende dat op regelmatige basis overleg wordt gevoerd tussen de deelstaatregeringen 
+en de bevoegde federale overheden in de Nationale Veiligheidsraad, zoals die plaatsvond op 10, 12, 17 
+en 27 maart 2020 en beslist heeft tot maatregelen om de impact van het virus zoveel als mogelijk te beperken;Overwegende 
+de dringendheid ingevolge de snelle uitbreiding van de epidemie en de noodzaak om deze in te dijken en 
+af te zwakken op het Brussels grondgebied om de gezondheid van de burgers en de opvangcapaciteit van 
+de ziekenhuizen te vrijwaren;Overwegende het voorzorgsbeginsel dat inhoudt dat wanneer een 
+ernstig en potentieel risico met een zekere mate van waarschijnlijkheid is vastgesteld, het de taak is 
+van de overheid om dringende en voorlopige beschermingsmaatregelen te treffen op het meest aangewezen 
+niveau;Overwegende dat het gevaar zich inmiddels over het hele nationale en a fortiori gewestelijke 
+grondgebied heeft verspreid; dat het tot het algemeen belang behoort dat er samenhang bestaat tussen 
+de maatregelen die worden genomen om de orde te handhaven met het oog op een maximale efficiëntie;Overwegende 
+dat de bevolking die in een rusthuis of een rust- en verzorgingstehuis verblijft bijzonder kwetsbaar 
+is voor het virus en dat er speciale beschermingsmaatregelen goedgekeurd dienen te worden, met vrijwaring 
+van specifieke situaties (noodsituatie, palliatieve zorgen, overlijden...),Besluit :Artikel 
+1. Behoudens specifieke situaties (noodsituatie, palliatieve zorgen, overlijden...) is het in het Brussels 
+Hoofdstedelijk Gewest verboden om personen te bezoeken in rusthuizen en in rust- en verzorgingstehuizen 
+gelegen op het grondgebied van het Brussels Hoofdstedelijk Gewest.Art. 2. De bevoegde administratieve 
+overheid op het grondgebied van de Brusselse agglomeratie wordt belast met de uitvoering van dit besluit. 
+De politie wordt belast met het toezicht op de naleving van dit besluit, indien nodig onder dwang of 
+met geweld.Art. 3. Dit besluit is onmiddellijk van toepassing en wordt inzonderheid door de 
+burgemeesters bekendgemaakt door middel van affiches op de gebruikelijke plaatsen voor officiële bekendmakingen 
+en middels elk ander publicatiemiddel om een zo breed mogelijke verspreiding van de informatie te waarborgen.Art. 
+4. Het verbod opgelegd door dit besluit geldt tot en met 19 april. Het kan na evaluatie worden verlengd.Art. 
+5. De Minister-President van het Brussels Hoofdstedelijk Gewest wordt belast met de uitvoering van dit 
+besluit.Brussel, 7 april 2020.Minister-President van het Brussels Hoofdstedelijk 
+Gewest,R. VERVOORT  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-14Numac : 2020020780
+

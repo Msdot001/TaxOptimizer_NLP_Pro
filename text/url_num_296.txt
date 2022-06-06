@@ -1,0 +1,174 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/05/28/2020015591/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015591
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 28 MEI 2019. - Koninklijk besluit nr. 58 met betrekking tot de mededeling van de inlichtingen inzake de pas opgerichte gebouwen voor de toepassing van de belasting over de toegevoegde waarde. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit nr. 58 van 28 mei 2019 met betrekking 
+tot de mededeling van de inlichtingen inzake de pas opgerichte gebouwen voor de toepassing van de belasting 
+over de toegevoegde waarde (Belgisch Staatsblad van 20 juni 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN28. MAI 2019 - Königlicher Erlass Nr. 58 über die Mitteilung von Auskünften 
+in Bezug auf neu errichtete Gebäude für die Anwendung der MehrwertsteuerBERICHT AN DEN KÖNIGSire,vorliegender 
+Entwurf eines neuen Königlichen Erlasses Nr. 58 im Bereich der Mehrwertsteuer bezieht sich auf die Mitteilung 
+von Auskünften in Bezug auf neu errichtete Gebäude für die Anwendung der Mehrwertsteuer. Dieser Königliche 
+Erlass ergeht in Ausführung von Artikel 64 § 4 Absatz 3 und 4 des Mehrwertsteuergesetzbuches (nachstehend 
+"Gesetzbuch" genannt). In vorerwähntem Absatz 3 ist für den Eigentümer eines neu errichteten Gebäudes 
+die Verpflichtung vorgesehen, binnen drei Monaten ab dem Datum der Zustellung des Katastereinkommens 
+spezifische Auskünfte in Bezug auf dieses Gebäude mitzuteilen, damit eine korrekte Erhebung der Steuer 
+auf die Umsätze, die zu seiner Errichtung beigetragen haben, gewährleistet ist. Aufgrund von Artikel 
+64 § 4 Absatz 1 des Gesetzbuches gilt nämlich bis zum Beweis des Gegenteils für jedes neu errichtete 
+Gebäude, dass es von einem Steuerpflichtigen in Ausführung einer oder mehrerer Dienstleistungen, die 
+Immobilienarbeiten zum Gegenstand haben, geliefert worden ist. In Artikel 64 § 4 Absatz 4 des 
+Gesetzbuches wird der König damit beauftragt, die Anwendungsmodalitäten für diese Mitteilung zu bestimmen.Im 
+Text des vorliegenden Entwurfs eines Königlichen Erlasses Nr. 58 (nachstehend "Entwurf" genannt) ist 
+allen Punkten des Gutachtens Nr. 65.795/3 des Staatsrates vom 13. Mai 2019 Rechnung getragen worden. 
+Auf der Grundlage von Punkt 5 dieses Gutachtens ist in der Präambel des Königlichen Erlasses ausdrücklich 
+auf die Stellungnahme des Dienstes Administrative Vereinfachung verwiesen worden, die bereits vor der 
+Festlegung des in Artikel 2 Absatz 4 des vorliegenden Entwurfs erwähnten Formulars auf freiwilliger Basis 
+eingeholt worden war.Artikel 1 - In Artikel 1 des vorliegenden Entwurfs wird an die in Artikel 
+64 § 4 des Gesetzbuches vorgesehene Verpflichtung erinnert, dass der Eigentümer eines neu errichteten 
+Gebäudes spezifische Auskünfte in Bezug auf dieses Gebäude mitteilen muss.Gemäß Artikel 
+64 § 4 Absatz 3 des Gesetzbuches wird in Artikel 1 des Entwurfs zunächst präzisiert, dass diese 
+Mitteilung binnen drei Monaten ab der Zustellung des Katastereinkommens an den Eigentümer erfolgt. In 
+diesem Fall wird diese Zustellung von der Verwaltung Aufmaße und Bewertungen vorgenommen. Konkret 
+wird die mit der Mehrwertsteuer beauftragte Verwaltung auf der Grundlage der Daten, über die sie insbesondere 
+infolge der bei der Gemeindebehörde hinterlegten Städtebaugenehmigung verfügt, ein Schreiben an den Eigentümer 
+eines neu errichteten Gebäudes richten, in dem sie ihn um die Mitteilung dieser Auskünfte bittet. Diese 
+Verpflichtung, die potentiell für alle Eigentümer eines neu errichteten Gebäudes gilt, wird aber nur 
+für diejenigen realisiert, die tatsächlich anhand des vorerwähnten Schreibens von der Verwaltung ersucht 
+werden, diese Auskünfte zu erteilen. Dies wird gemäß Punkt 7 des vorerwähnten Gutachtens Nr. 65.795/3 
+des Staatsrates in Artikel 1 des Entwurfs präzisiert.In Artikel 1 des Entwurfs werden ferner 
+die Auskünfte präzisiert, die der Eigentümer mitteilen muss. Neben Verwaltungsdaten in Bezug auf das 
+betreffende Gebäude, das heißt Adresse des Gutes, Art des Gebäudes (Reihenendhaus, alleinstehendes 
+Haus oder Reihenhaus) und Bezugszeichen der von der zuständigen Behörde erteilten Städtebaugenehmigung, 
+umfassen diese Auskünfte auch eine Reihe von Daten in direktem Zusammenhang mit den Arbeiten zur Errichtung 
+des Gebäudes.Diese Auskünfte in Bezug auf die Bauarbeiten betreffen:- Art der hinsichtlich 
+des Gebäudes durchgeführten Arbeiten (Neubau oder Wiederaufbau nach Abbruch) und Mehrwertsteuersatz, 
+den der oder die Unternehmer auf diese Umsätze angewandt haben,- relevante architektonische 
+Merkmale des Gebäudes (wie zum Beispiel Grundfläche der verschiedenen Etagen des Gebäudes, Anzahl Etagen, 
+Form des Gebäudes, Art des Dachs oder Vorhandensein von Kellern oder Anbauten),- relevante 
+Bautechniken, die angewandt wurden (wie zum Beispiel die Installation von Solarzellen, Wärmepumpen, Klimaanlagen, 
+Fußbodenheizung, Technologien im Bereich der Hausautomatisierung usw.),- Kosten der Bauarbeiten 
+ohne Mehrwertsteuer,- Übersicht der vom Eigentümer des Gebäudes selbst durchgeführten Arbeiten,- 
+Informationen zur eventuellen Zweckbestimmung des Gebäudes (zum Beispiel Vermietung oder sofortiger Weiterverkauf),- 
+fehlende Angaben zur Kontaktperson und Unterschrift des Eigentümers (sofern diese noch nicht in dem an 
+den Eigentümer gesandten Dokument enthalten sind).Artikel 1. In Artikel 2 Absatz 1 des Entwurfs 
+wird bestimmt, dass diese Auskünfte grundsätzlich elektronisch mitgeteilt werden müssen. Zu diesem Zweck 
+wird die Verwaltung Eigentümern eine spezifische Anwendung zur Verfügung stellen, die auf der Website 
+des FÖD Finanzen zugänglich ist.In Artikel 2 Absatz 2 Buchstabe a) des Entwurfs ist eine erste 
+Ausnahme von diesem Grundsatz für Personen vorgesehen, die nachweisen können, dass sie selbst oder die 
+Person, die in ihrem Namen zur Erteilung der betreffenden Auskünfte ermächtigt ist, nicht über die notwendigen 
+computergestützten Mittel verfügen, um dieser Verpflichtung nachzukommen. Es handelt sich um dieselbe 
+Ausnahme wie diejenige, die für andere von den Steuerpflichtigen einzureichende Mehrwertsteuerdokumente 
+(periodische Steuererklärung, Liste der innergemeinschaftlichen Umsätze, Erklärungen über Tätigkeitsaufnahme, 
+-wechsel und -beendigung) vorgesehen ist.In Artikel 2 Absatz 2 Buchstabe b) des Entwurfs ist 
+eine zweite Ausnahme von diesem Grundsatz in Form einer Übergangsregelung vorgesehen. Bis zur Inbetriebnahme 
+dieser Online-Anwendung werden die Auskünfte aufgrund von Artikel 2 Absatz 3 des Entwurfs anhand eines 
+Papierformulars mitgeteilt werden können. Diese besondere Ausnahme ergibt sich aus der Tatsache, dass 
+die Online-Anwendung, die für die Mitteilung der in Artikel 1 des Entwurfs erwähnten Auskünfte vorgesehen 
+ist, am Datum des Inkrafttretens des Königlichen Erlasses den Eigentümern neu errichteter Gebäude noch 
+nicht faktisch zur Verfügung gestellt werden kann. Mit der Eingliederung dieser Präzisierung in den Text 
+des Königlichen Erlasses wird dem Ersuchen des Staatsrates in Punkt 9 seines vorerwähnten Gutachtens 
+Nr. 65.795/3 Folge geleistet, eine Anwendungsmodalität vorzusehen, bis diese Auskünfte elektronisch erteilt 
+werden müssen. Wenn die Online-Anwendung verfügbar ist, wird der zuständige Dienst der mit der Mehrwertsteuer 
+beauftragten Verwaltung in dem Schreiben, in dem um Mitteilung der betreffenden Auskünfte ersucht wird, 
+angeben, dass diese Mitteilung anhand dieser Online-Anwendung erfolgen muss.In den in Artikel 
+2 Absatz 2 des Entwurfs erwähnten Fällen wird der Eigentümer dieses ausgefüllte und unterzeichnete Formular 
+per Post oder per E-Mail schicken können, an die das vorher ausgefüllte, unterzeichnete und anschließend 
+gescannte oder in ein elektronisches Format umgewandelte Formular (PDF, JPEG oder Sonstiges) angehängt 
+wird. In diesem Fall wird das Dokument an die Adresse (oder die E-Mail-Adresse) des Zentrums KMB oder 
+des Polyvalenten Zentrums, in dessen Amtsbereich das Gebäude gelegen ist, geschickt.In Artikel 
+2 Absatz 4 des Entwurfs wird präzisiert, dass der Minister der Finanzen oder sein Beauftragter mit der 
+Festlegung der Anwendungsmodalitäten für die Mitteilung der in Absatz 1 erwähnten Auskünfte beauftragt 
+ist. Er legt insbesondere das Muster des Formulars, anhand dessen die betreffenden Auskünfte mitgeteilt 
+werden müssen, und die genauen Angaben fest, die diese Auskünfte umfassen (siehe Kommentar zu Artikel 
+1 weiter oben), wie architektonische Merkmale des Gebäudes und besondere Bautechniken, die bei der Errichtung 
+des Gebäudes angewandt wurden. Da es sich dabei um besonders technische Daten handelt, ist die in Artikel 
+2 Absatz 4 des Entwurfs vorgesehene Weiterübertragung an den Beauftragten des Ministers der Finanzen 
+unter Berücksichtigung der vom Staatsrat festgelegten und in Punkt 8 seines vorerwähnten Gutachtens Nr. 
+65.795/3 beschriebenen Kriterien gerechtfertigt.Ich habe die Ehre,Sire,der 
+ehrerbietige und getreue DienerEurer Majestät zu sein.Der Vizepremierminister und 
+Minister der FinanzenA. DE CROO28. MAI 2019 - Königlicher Erlass 
+Nr. 58 über die Mitteilung von Auskünftenin Bezug auf neu errichtete Gebäude für die Anwendung 
+der MehrwertsteuerPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund 
+des Mehrwertsteuergesetzbuches, des Artikels 64 § 4 Absatz 3, ersetzt durch das Gesetz vom 30. 
+Juli 2018, und Artikel 64 § 4 Absatz 4, eingefügt durch das Gesetz vom 30. Juli 2018;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 11. Januar 2019;Aufgrund des Einverständnisses der 
+Ministerin des Haushalts vom 22. Februar 2019;Aufgrund der Stellungnahme Nr. 66/2019 der Datenschutzbehörde 
+vom 27. Februar 2019;Aufgrund des Gutachtens Nr. 65.795/3 des Staatsrates vom 13. Mai 2019, 
+abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Aufgrund der Stellungnahme des Dienstes Administrative Vereinfachung 
+vom 15. Oktober 2018;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschlossen und erlassen Wir:Artikel 1 - Gemäß Artikel 64 § 4 des Gesetzbuches 
+teilt der Eigentümer eines neu errichteten Gebäudes, der ein Auskunftsersuchen erhalten hat, binnen drei 
+Monaten ab dem Datum der Zustellung des Katastereinkommens folgende spezifische Auskünfte in Bezug auf 
+dieses Gebäude mit:1. Adresse und Art des Gebäudes und Bezugszeichen und Datum der von der 
+zuständigen Behörde erteilten Städtebaugenehmigung,2. Art der hinsichtlich des Gebäudes durchgeführten 
+Arbeiten und auf diese Umsätze angewandter Mehrwertsteuersatz,3. relevante architektonische 
+Merkmale des Gebäudes,4. relevante Bautechniken, die angewandt wurden,5. Kosten der 
+Bauarbeiten ohne Mehrwertsteuer,6. vom Eigentümer des Gebäudes selbst durchgeführte Arbeiten,7. 
+Informationen zur eventuellen Zweckbestimmung des Gebäudes,8. fehlende Angaben zur Kontaktperson 
+und Unterschrift des Eigentümers.Art. 2 - Die in Artikel 1 erwähnten Auskünfte werden elektronisch 
+mitgeteilt.Der Eigentümer ist von der Verpflichtung zur elektronischen Mitteilung dieser Auskünfte 
+befreit:a) solange er selbst oder gegebenenfalls die Person, die zur Mitteilung dieser Auskünfte 
+in seinem Namen ermächtigt ist, nicht über die notwendigen computergestützten Mittel verfügt, um dieser 
+Verpflichtung nachzukommen,b) solange die spezifische Online-Anwendung für die Mitteilung der 
+Auskünfte von der mit der Mehrwertsteuer beauftragten Verwaltung noch nicht zur Verfügung gestellt worden 
+ist.In den in Absatz 2 erwähnten Fällen teilt der Eigentümer die in Absatz 1 erwähnten Auskünfte 
+dem Dienst der mit der Mehrwertsteuer beauftragten Verwaltung, der für die Gemeinde zuständig ist, in 
+der das Gebäude gelegen ist, anhand eines von der Verwaltung zur Verfügung gestellten Formulars mit.Der 
+Minister der Finanzen oder sein Beauftragter regelt die Modalitäten für die Anwendung der Absätze 1 bis 
+3 in Bezug auf die Mitteilung der relevanten architektonischen Merkmale des Gebäudes und der relevanten 
+Bautechniken, die in dem Gebäude angewandt wurden, und das Formular, anhand dessen die spezifischen Auskünfte 
+mitgeteilt werden müssen.Art. 3 - Der für Finanzen zuständige Minister ist mit der Ausführung 
+des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 28. Mai 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015591
+

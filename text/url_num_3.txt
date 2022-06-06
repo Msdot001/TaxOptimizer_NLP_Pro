@@ -1,0 +1,145 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2018/12/07/2020040052/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-01-16Numac : 2020040052
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 7 DECEMBER 2018. - Koninklijk besluit tot wijziging van het KB/WIB 92, op het stuk van de voordelen van alle aard voor de kosteloze beschikking over onroerende goederen of gedeelten van onroerende goederen. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het koninklijk besluit 
+van 7 december 2018 tot wijziging van het KB/WIB 92, op het stuk van de voordelen van alle aard voor 
+de kosteloze beschikking over onroerende goederen of gedeelten van onroerende goederen (Belgisch Staatsblad 
+van 27 december 2018).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN7. DEZEMBER 2018 
+- Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Vorteile jeglicher Art für die kostenlose 
+Verfügung über unbewegliche Güter oder Teile von unbeweglichen GüternBERICHT AN DEN KÖNIGSire,mit 
+dem Erlass, den ich die Ehre habe, Eurer Majestät zur Unterschrift vorzulegen, wird bezweckt, Artikel 
+18 § 3 Nr. 2 des KE/EStGB 92 abzuändern.Mit dieser Abänderung wird bezweckt, die Rechtsvorschriften 
+mit den Entscheiden des Appellationshofes von Gent vom 24. Mai 2016 und 20. Februar 2018 in Übereinstimmung 
+zu bringen. Gemäß den heutigen Rechtsvorschriften ist der Vorteil jeglicher Art für die kostenlose 
+Zurverfügungstellung einer Wohnung höher, wenn die Wohnung von einer juristischen Person zur Verfügung 
+gestellt wird, als wenn sie von einer natürlichen Person zur Verfügung gestellt wird. Der Appellationshof 
+von Gent hat diesen Unterschied für ungerechtfertigt und aufgrund der Verletzung des Gleichheitsgrundsatzes 
+außerdem für verfassungswidrig erachtet.Die Verwaltung hat vorerwähnte Entscheide einer 
+gründlichen juristischen Analyse unterzogen, um zu überprüfen, ob einerseits technische Argumente vorliegen, 
+die die unterschiedliche Behandlung eines von einer natürlichen Person gewährten Vorteils und eines von 
+einer juristischen Person gewährten Vorteils rechtfertigen, und ob andererseits auf dieser Grundlage 
+gegebenenfalls eine Kassationsbeschwerde eingelegt werden kann.In beiden Fällen ist das Ergebnis 
+jedoch negativ ausgefallen. Laut der Verwaltung kann der vom Appellationshof von Gent für verfassungswidrig 
+erachtete Unterschied nicht mehr mit anderen Argumenten als den bereits von ihr vor dem Hof geltend gemachten 
+Argumenten gerechtfertigt werden.Laut der Verwaltung ist eine Beschwerde beim Kassationshof 
+in vorliegendem Fall auch nicht möglich, da laut dem Appellationshof kein Verstoß gegen einen Gesetzesartikel, 
+sondern eine Verletzung des Gleichheitsgrundsatzes vorliegt, da der Unterschied in Bezug auf den steuerpflichtigen 
+Vorteil je nach Zurverfügungstellung durch eine natürliche oder durch eine juristische Person nicht gerechtfertigt 
+werden kann.In den heutigen Rechtsvorschriften wird der Vorteil gemäß Artikel 18 § 
+3 Nr. 2 des KE/EStGB 92 pauschal auf 100/60 beziehungsweise 100/90 des Katastereinkommens des unbeweglichen 
+Gutes beziehungsweise des betreffenden Teils des unbeweglichen Gutes festgelegt, je nachdem, ob es sich 
+um ein bebautes oder ein unbebautes unbewegliches Gut handelt.Werden diese bebauten unbeweglichen 
+Güter beziehungsweise Teile dieser Güter von juristischen Personen zur Verfügung gestellt, wird der Vorteil 
+auf einen höheren Betrag festgelegt:a) wenn das Katastereinkommen des unbeweglichen Gutes beziehungsweise 
+des betreffenden Teils des unbeweglichen Gutes höchstens 745 EUR beträgt: auf 100/60 des Katastereinkommens 
+des unbeweglichen Gutes beziehungsweise des betreffenden Teils des unbeweglichen Gutes, multipliziert 
+mit 1,25,b) wenn das Katastereinkommen des unbeweglichen Gutes beziehungsweise des betreffenden 
+Teils des unbeweglichen Gutes mehr als 745 EUR beträgt: auf 100/60 des Katastereinkommens des unbeweglichen 
+Gutes beziehungsweise des betreffenden Teils des unbeweglichen Gutes, multipliziert mit 3,8.Am 
+24. Mai 2016 hat der Appellationshof von Gent diese Vorschriften für verfassungswidrig erachtet.Gemäß 
+dem vorerwähnten Entscheid wird in vorliegendem Königlichem Erlass der Artikel 18 § 3 Nr. 2 des 
+KE/EStGB 92 dahingehend angepasst, dass die Ungleichheit zwischen der Zurverfügungstellung eines bebauten 
+unbeweglichen Gutes durch eine juristische Person und der Zurverfügungstellung durch eine natürliche 
+Person beseitigt wird. Der Vorteil beläuft sich fortan auf 100/60 des Katastereinkommens des bebauten 
+unbeweglichen Gutes beziehungsweise des betreffenden Teils des bebauten unbeweglichen Gutes, multipliziert 
+mit 2.Der Faktor 2 basiert auf Zahlen aus der Praxis, aus der hervorgeht, dass die Berechnung 
+mit einem Faktor 2 am besten einer monatlichen Miete entspricht, die eine Person, die keine kostenlose 
+Wohnung erhält, für eine ähnliche Wohnung zahlen müsste.Für unbebaute unbewegliche Güter beläuft 
+sich der Vorteil weiterhin auf 100/90 des Katastereinkommens des unbebauten unbeweglichen Gutes beziehungsweise 
+des betreffenden Teils des unbebauten unbeweglichen Gutes.Außerdem wird bei der Festlegung 
+des Vorteils die Unterscheidung, ob das Katastereinkommen des unbeweglichen Gutes beziehungsweise des 
+betreffenden Teils des unbeweglichen Gutes mehr als 745 EUR beträgt oder nicht, aufgehoben.Der 
+Staatsrat hat in seinem Gutachten angemerkt, dass in Bezug auf den steuerpflichtigen Vorteil der im Ausland 
+gelegenen unbeweglichen Güter Fragen aufkommen. Da das Katastereinkommen nur für belgische unbewegliche 
+Güter gilt, ist dieses Einkommen nicht auf die im Ausland gelegenen unbeweglichen Güter anwendbar.Für 
+diese Güter gilt die allgemeine Regel von Artikel 36 §  1 Absatz 1 des EStGB 92, nämlich dass 
+der steuerpflichtige Vorteil entsprechend dem Realwert festgelegt werden muss, den er beim Empfänger 
+hat.Belgien wurde kürzlich wegen unterschiedlicher Behandlung belgischer und europäischer unbeweglicher 
+Güter vom Gerichtshof verurteilt und hat sich verpflichtet, einen Gesetzentwurf zur Behebung dieses Verstoßes 
+auszuarbeiten. In Erwartung dieses Gesetzes hat die Generalverwaltung Steuerwesen ein administratives 
+Rundschreiben über die Bestimmung des Mietwerts veröffentlicht.In diesem Zusammenhang wird 
+betont, dass im Rahmen des vorgelegten Entwurfs eines Königlichen Erlasses über die kostenlose Zurverfügungstellung 
+eines unbeweglichen Gutes die Problematik ausländischer unbeweglicher Güter nur sehr selten auftreten 
+wird. Dies betrifft nämlich nur den Fall einer kostenlosen Zurverfügungstellung eines ausländischen unbeweglichen 
+Gutes durch einen belgischen Arbeitgeber zugunsten eines in Belgien ansässigen Arbeitnehmers. Mit anderen 
+Worten nutzt der Empfänger des betreffenden Vorteils das ausländische unbewegliche Gut nicht als Wohnsitz, 
+sonst würde er im Prinzip als nicht ansässig gelten und der Vorteil würde in diesem Fall in dem Land 
+besteuert werden, in dem das unbewegliche Gut sich befindet. Der Fall eines belgischen Arbeitgebers, 
+der einem belgischen Arbeitnehmer den Vorteil einer Zweitwohnung gewährt, ist daher so selten, dass die 
+Anpassung der Bewertungsregeln für alle nicht im Verhältnis zum Nachteil für die betreffende Person stehen 
+würde.Die Problematik der unterschiedlichen Behandlung belgischer und europäischer unbeweglicher 
+Güter wird in einem getrennten Gesetz gelöst. Aufgrund der diesbezüglichen neuen Vorschriften kann also 
+ein neuer Königlicher Erlass in Sachen Vorteile für die kostenlose Zurverfügungstellung eines unbeweglichen 
+Gutes ergehen.Dem Gutachten des Staatsrates ist diesbezüglich also nicht Rechnung getragen 
+worden.Soweit, Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Minister der FinanzenJ. 
+VAN OVERTVELDT7. DEZEMBER 2018 - Königlicher Erlass zur Abänderung des KE/EStGB 
+92 hinsichtlich der Vorteile jeglicher Art für die kostenlose Verfügung über unbewegliche Güter oder 
+Teile von unbeweglichen GüternPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 36 § 1 
+Absatz 2;Aufgrund des KE/EStGB 92;Aufgrund der Stellungnahme des Finanzinspektors 
+vom 13. September 2018;Aufgrund des Einverständnisses des Ministers des Haushalts vom 23. Oktober 
+2018;Aufgrund des Gutachtens Nr. 64.538/3 des Staatsrates vom 27. November 2018, abgegeben 
+in Anwendung von Artikel 84 §  1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über 
+den Staatsrat;Auf Vorschlag des Ministers der FinanzenHaben Wir beschloßen 
+und erlassen Wir:Artikel 1 - In Artikel 18 § 3 Nr. 2 des KE/EStGB 92, ersetzt durch 
+den Königlichen Erlass vom 18. Februar 1994 und abgeändert durch die Königlichen Erlasse vom 5. April 
+1995, 13. Juli 2001 und 23. Februar 2012, werden die Absätze 1 und 2 wie folgt ersetzt:"Der 
+Vorteil wird pauschal auf 100/90 des Katastereinkommens von unbebauten unbeweglichen Gütern oder Teilen 
+dieser Güter festgelegt.Für bebaute unbewegliche Güter oder Teile dieser Güter wird der Vorteil 
+pauschal auf 100/60 des Katastereinkommens festgelegt, multipliziert mit 2."Art. 2 - Vorliegender 
+Erlass ist auf die ab dem 1. Januar 2019 gezahlten oder zuerkannten Vorteile anwendbar.Art. 
+3 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 7. Dezember 2018PHILIPPEVon Königs wegen:Der Minister der 
+FinanzenJ. VAN OVERTVELDT  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-01-16Numac : 2020040052
+

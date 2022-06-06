@@ -1,0 +1,226 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/07/03/2020031373/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-05Numac : 2020031373
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 3 JULI 2019. - Koninklijk besluit tot wijziging van het KB/WIB 92 op het stuk van de inkomsten uit de deeleconomie. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het 
+koninklijk besluit van 3 juli 2019 tot wijziging van het KB/WIB 92 op het stuk van de inkomsten uit de 
+deeleconomie (Belgisch Staatsblad van 12 juli 2019).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN3. 
+JULI 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlichder Einkünfte aus 
+der Sharing EconomyBERICHT AN DEN KÖNIGSire,durch das Gesetz vom 18. Juli 
+2018 zur Belebung der Wirtschaft und zur Stärkung des sozialen Zusammenhalts (nachstehend: Gesetz vom 
+18. Juli 2018) wurde ein neues Besteuerungssystem für Einkünfte aus der Vereinsarbeit und aus gelegentlichen 
+Dienstleistungen unter Bürgern eingeführt und wurde ebenfalls das Besteuerungssystem der Einkünfte aus 
+der Sharing Economy grundlegend abgeändert.Ab dem 1. Januar 2018 erzielte oder bezogene Einkünfte 
+aus der Sharing Economy sind nicht mehr zum Steuersatz von 20 Prozent steuerpflichtig (Artikel 171 Nr. 
+3bis Buchstabe a) des Einkommensteuergesetzbuches 1992 (EStGB 92), so wie er vor seiner Aufhebung durch 
+Artikel 50 Nr. 3 des Gesetzes vom 18. Juli 2018 bestand), sondern sind steuerfrei, sofern sie zusammen 
+mit den Einkünften aus der Vereinsarbeit und aus gelegentlichen Dienstleistungen unter Bürgern 6.130 
+EUR nicht übersteigen (indexierter Betrag für das Einkommensjahr 2018 - Steuerjahr 2019) (Artikel 90/1 
+des EStGB 92, eingefügt durch Artikel 47 des Gesetzes vom 18. Juli 2018).Die Pflicht zur Einbehaltung 
+des Berufssteuervorabzugs wird ab dem 1. Januar 2019 aufgehoben (Artikel 4, 5 und 7 Absatz 2 dieses Erlasses). 
+Folglich wird der Vorschlag des Staatsrates, die Pflicht aufzuheben, den Berufssteuervorabzug auf die 
+ab dem 26. Juli 2018 (Datum der Veröffentlichung des Gesetzes vom 18. Juli 2018 im Belgischen Staatsblatt) 
+gezahlten oder zuerkannten Einkünfte einzubehalten, nicht berücksichtigt. Die Pflicht, den Berufssteuervorabzug 
+einzubehalten, bleibt grundsätzlich für das Einkommensjahr 2018 bestehen, da das Gesetz, durch das die 
+Steuerbefreiung der Einkünfte aus der Sharing Economy eingeführt worden ist, erst spät im Jahr 2018 veröffentlicht 
+wurde und die zugelassenen Plattformen daher auf einen großen Teil der Vergütungen, die 2018 für 
+Leistungen im Rahmen der Sharing Economy gezahlt wurden, einen Berufssteuervorabzug einbehalten haben. 
+Auf bestimmte ab dem 26. Juli 2018 gezahlte oder zuerkannte Einkünfte wurde ebenfalls noch ein Berufssteuervorabzug 
+einbehalten. Dadurch, dass die Pflicht, den Berufssteuervorabzug einzubehalten, grundsätzlich für das 
+gesamte Einkommensjahr 2018 bestehen bleibt und nicht eher rückwirkend aufgehoben wird, kann der auf 
+Einkünfte aus der Sharing Economy einbehaltene Berufssteuervorabzug als gemäß Artikel 272 des EStGB 
+92 einbehaltener Berufssteuervorabzug gelten und ist er daher gemäß Artikel 296 des EStGB 92 auf 
+die Steuer der natürlichen Personen anrechenbar. Außerdem bleiben somit für den ab dem 26. Juli 
+2018 einbehaltenen Berufssteuervorabzug die normalen Regeln in Bezug auf die Erklärung und Zahlung des 
+Berufssteuervorabzugs weiterhin anwendbar. Selbstverständlich wird gegen Plattformen, die seit Veröffentlichung 
+des Gesetzes vom 18. Juli 2018 keinen Berufssteuervorabzug mehr auf Vergütungen im Rahmen der Sharing 
+Economy einbehalten haben, nichts unternommen.Zugelassene Plattformen müssen jährlich eine 
+Karte erstellen (Artikel 90 Absatz 2 des EStGB 92). Die Ausführungsbestimmungen in Bezug auf diese jährliche 
+Karte sind derzeit in Artikel 92/1 des KE/EStGB 92 aufgenommen. Da fortan keine Verbindung mehr besteht 
+zwischen der Einbehaltung des Berufssteuervorabzugs und der Verpflichtung, eine Karte zu erstellen, müssen 
+die Ausführungsbestimmungen in Bezug auf die jährliche Karte an einer anderen Stelle im KE/EStGB 92 aufgenommen 
+werden. Durch Artikel 6 dieses Erlasses wird Artikel 92/1 des KE/EStGB 92 aufgehoben. Durch Artikel 3 
+werden die Bestimmungen in Bezug auf die Kartenpflicht in einen neuen Artikel 53/3 in Kapitel 1 Abschnitt 
+18/1 des KE/EStGB 92 eingefügt. In diesem Rahmen wird ebenfalls die Überschrift dieses Abschnitts angepasst 
+(Artikel 1 dieses Erlasses). Im neuen Artikel 53/3 des KE/EStGB 92 wird auch die Kartenpflicht für das 
+Einkommensjahr 2018 festgelegt (Artikel 7 Absatz 1 dieses Erlasses).Im Entwurf von Artikel 
+53/3 des KE/EStGB 92 ist vorgesehen, dass Gebietsfremde, die keine Nationalregisternummer haben, fortan 
+auch anhand ihrer Bis-Erkennungsnummer identifiziert werden können, die ihnen von der Zentralen Datenbank 
+der sozialen Sicherheit zugeteilt worden ist.Die Übergangsbestimmung, die auf die ab dem 1. 
+Januar 2018 gezahlten oder zuerkannten Einkünfte anwendbar ist (Artikel 90 Absatz 3 des EStGB 92, so 
+wie er durch Artikel 46 Nr. 6 des Gesetzes vom 18. Juli 2018 ersetzt worden ist), hat zur Folge, dass 
+Einkünfte aus unbeweglichen Gütern, aus beweglichen Gütern und aus der Untervermietung von unbeweglichen 
+Gütern als Einkünfte aus der Sharing Economy gelten, in dem Maße, wie der Empfänger der Einkünfte 
+diese Güter für den Erwerb von Einkünften aus der Sharing Economy verwendet. Daher ist es nicht mehr 
+erforderlich, diese Einkünfte auf der Karte in Bezug auf die Einkünfte aus der Sharing Economy separat 
+zu vermerken, sodass die Bestimmung von Artikel 92/1 § 1 Absatz 1 Nr. 5 des KE/EStGB 92 nicht 
+in Artikel 53/3 § 1 des KE/EStGB 92 übernommen werden muss.Die Verpflichtung, den Betrag 
+des Berufssteuervorabzugs anzugeben, fällt im Prinzip ebenfalls weg (heutiger Artikel 92/1 § 1 
+Absatz 1 Nr. 6 des KE/EStGB 92). Der Berufssteuervorabzug, der seit dem 1. Januar 2018 von zugelassenen 
+Plattformen einbehalten worden ist, muss jedoch noch auf der Karte 281.29 für das Einkommensjahr 2018 
+angegeben werden. Für Steuerpflichtige, die der Steuer der natürlichen Personen unterliegen, wird dieser 
+Berufssteuervorabzug auf die geschuldete Steuer angerechnet und ihnen gegebenenfalls erstattet. Gebietsfremde, 
+die für das Einkommensjahr 2018 eine (obligatorische oder fakultative) Erklärung zur Steuer der Gebietsfremden 
+einreichen, können in ihrer Erklärung zu dieser Steuer die Anrechnung und gegebenenfalls die Erstattung 
+dieses Berufssteuervorabzugs beantragen. Gebietsfremde, die keine Erklärung zur Steuer der Gebietsfremden 
+einreichen, müssen die Erstattung des einbehaltenen Berufssteuervorabzugs anhand eines Widerspruchs oder 
+eines Antrags auf Nachlass von Amts wegen beantragen.Plattformen, deren Zulassung im Laufe 
+des Einkommensjahres - gegebenenfalls auf eigenen Antrag hin - entzogen wurde, bleiben ebenfalls verpflichtet, 
+Karten für die Einkünfte zu erstellen, die sie bis zum Zeitpunkt des Entzugs der Zulassung gezahlt oder 
+zuerkannt haben. Dies wird im Entwurf von Artikel 53/3 § 1 des KE/EStGB 92 verdeutlicht.Im 
+Gegensatz zum Wortlaut des Artikels 92/1 des KE/EStGB 92 ist im neuen eingefügten Artikel 53/3 § 
+2 des KE/EStGB 92 vorgesehen, dass die Karten in Bezug auf Einkünfte aus der Sharing Economy vor dem 
+1. März des Jahres nach dem Einkommensjahr eingereicht werden müssen. Die Einreichungsfrist wird somit 
+auf dieselbe Weise wie die Einreichungsfrist für die anderen Karten 281 festgelegt, auch im Fall eines 
+Schaltjahres. Steuerpflichtige müssen auch keine zusammenfassende Aufstellung mehr einreichen. Für elektronisch 
+eingereichte Karten wird diese Aufstellung nämlich automatisch über die Anwendung erstellt. Zugelassene 
+Plattformen, die im Zeitraum vom 1. Januar 2018 bis zum 31. Dezember 2018 Einkünfte aus der Sharing Economy 
+gezahlt oder zuerkannt haben, können die Karten 281 in Bezug auf diese Einkünfte ausnahmsweise bis zum 
+14. August 2019 einreichen. Somit wird der Bemerkung des Staatsrates Folge geleistet.Steuerpflichtige, 
+die für das Einkommensjahr 2018 eine Karte 281.29 für Einkünfte aus der Sharing Economy erhalten, nachdem 
+sie ihre Erklärung zur Steuer der natürlichen Personen oder zur Steuer der Gebietsfremden eingereicht 
+haben, können gegebenenfalls beim zuständigen Amt eine Berichtigung ihrer Erklärung beantragen. Aufgrund 
+der Steuerbefreiung für Einkünfte aus der Sharing Economy wird eine solche Berichtigung nur in sehr außergewöhnlichen 
+Fällen erforderlich sein.Juristische Personen, innerhalb deren die Plattformen eingerichtet 
+sind, verpflichten sich im Rahmen ihres Zulassungsverfahrens, der Kartenpflicht nachzukommen. Durch Artikel 
+2 Nr. 1 dieses Erlasses wird in Artikel 53/2 § 1 Absatz 3 Nr. 1 des KE/EStGB 92 der Verweis auf 
+den aufgehobenen Artikel 92/1 des KE/EStGB 92 durch einen Verweis auf den neuen Artikel 53/3 des KE/EStGB 
+92 ersetzt.Die Zulassung einer Plattform wird auf der Grundlage der bestehenden Bestimmungen 
+entzogen, wenn der Erklärungspflicht oder der Verpflichtung zur Zahlung des Berufssteuervorabzugs zweimal 
+innerhalb eines Zeitraums von drei Jahren ab dem Jahr, in dem der erste Verstoß begangen worden 
+ist, absichtlich nicht nachgekommen worden ist. Die Einkünfte aus der Sharing Economy unterliegen jedoch 
+nicht mehr dem Berufssteuervorabzug. Durch Artikel 2 Nr. 2 dieses Erlasses wird in Artikel 53/2 § 
+1 Absatz 3 Nr. 1 des KE/EStGB 92 der Verweis auf Artikel 90 des KE/EStGB 92, in dem die Verpflichtungen 
+in Bezug auf den Berufssteuervorabzug festgelegt sind, durch einen Verweis auf den neuen Artikel 53/3 
+des KE/EStGB 92, in dem die Kartenpflicht festgelegt ist, ersetzt. Daher kann die Zulassung einer Plattform 
+fortan entzogen werden, wenn der Kartenpflicht zweimal innerhalb eines Zeitraums von drei Jahren nicht 
+ordnungsgemäß nachgekommen wird. Während eines Übergangszeitraums kann die Zulassung ebenfalls 
+entzogen werden, wenn eine zugelassene Plattform ihrer Kartenpflicht nicht innerhalb eines Zeitraums 
+von drei Jahren nachkommt, nachdem sie ihren Verpflichtungen in Bezug auf den Berufssteuervorabzug für 
+das Einkommensjahr 2017 nicht spontan nachgekommen ist (Artikel 2 Nr. 3 dieses Erlasses).Außerdem 
+wird Artikel 53/2 § 2 des KE/EStGB 92 durch einen Absatz ergänzt, in dem bestimmt ist, dass die 
+Zulassung ebenfalls auf Antrag der Plattform hin entzogen werden kann (Artikel 2 Nr. 4 dieses Erlasses). 
+Dieser Entzug wird - genau wie die Zulassung - Gegenstand eines Königlichen Erlasses sein, in dem das 
+Datum, ab dem die Zulassung entzogen wird, ausdrücklich vermerkt ist.In Artikel 7 wird das 
+Inkrafttreten dieses Erlasses festgelegt.Soweit, Sire, die Tragweite des Ihnen vorgelegten 
+Erlasses.Ich habe die Ehre,Sire,der ehrerbietigeund treue DienerEurer 
+Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. DE CROO3. 
+JULI 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlichder Einkünfte aus 
+der Sharing EconomyPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser 
+Gruß!Aufgrund der Verfassung, des Artikels 108;Aufgrund des Einkommensteuergesetzbuches 
+1992:- des Artikels 90 Absatz 2, eingefügt durch das Programmgesetz vom 1. Juli 2016 und abgeändert 
+durch das Gesetz vom 18. Dezember 2016,- des Artikels 271, abgeändert durch das Gesetz vom 
+6. Juli 1994, den Königlichen Erlass vom 20. Dezember 1996 und die Gesetze vom 24. Dezember 2002, 22. 
+Dezember 2008 und 26. Dezember 2015;Aufgrund des KE/EStGB 92;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 1. Februar 2019;Aufgrund des Einverständnisses der Ministerin des 
+Haushalts vom 5. Juni 2019;Aufgrund des Gutachtens Nr. 66.101/3 des Staatsrates vom 4. Juni 
+2019 in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze 
+über den Staatsrat;In Erwägung des Gesetzes vom 18. Juli 2018 zur Belebung der Wirtschaft und 
+zur Stärkung des sozialen Zusammenhalts;Auf Vorschlag des Vizepremierministers und Ministers 
+der FinanzenHaben Wir beschlossen und erlassen Wir:Artikel 1 - Die Überschrift von 
+Kapitel 1 Abschnitt 18/1 des KE/EStGB 92, eingefügt durch den Königlichen Erlass vom 12. Januar 2017, 
+wird wie folgt ersetzt:"Abschnitt 18/1 - Sharing Economy - Bedingungen für die Erteilung und 
+Aufrechterhaltung der Zulassung von elektronischen Plattformen - Von zugelassenen elektronischen Plattformen 
+jährlich zu erstellender Beleg (Einkommensteuergesetzbuch 1992, Artikel 90 Absatz 2)".Art. 
+2 - Artikel 53/2 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 12. Januar 2017, wird 
+wie folgt abgeändert:1. In § 1 Absatz 3 Nr. 1 Buchstabe e) werden die Wörter "den in 
+Artikel 92/1 erwähnten Beleg" durch die Wörter "den in Artikel 53/3 erwähnten Beleg" ersetzt.2. 
+In § 2 Absatz 1 werden die Wörter "seinen in Artikel 90 § 1 Absatz 1 erwähnten Verpflichtungen" 
+durch die Wörter "seiner in Artikel 53/3 erwähnten Verpflichtung" ersetzt.3. In § 2 
+Absatz 1 werden zwischen den Wörtern "begangen worden ist," und den Wörtern "absichtlich nicht nachgekommen 
+ist" die Wörter "oder innerhalb eines Zeitraums von drei Jahren ab dem Jahr, in dem er seinen in Artikel 
+90 § 1 Absatz 1 erwähnten Verpflichtungen in Bezug auf das Einkommensjahr 2017 absichtlich nicht 
+nachkam," eingefügt.4. Paragraph 2 wird durch einen Absatz mit folgendem Wortlaut ergänzt:"Die 
+Zulassung kann ebenfalls auf Antrag des Begünstigten der Zulassung hin entzogen werden."Art. 
+3 - In Kapitel 1 Abschnitt 18/1 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 12. Januar 
+2017, wird ein Artikel 53/3 mit folgendem Wortlaut eingefügt:"Art. 53/3 - § 1 - Am Ende 
+jeden Jahres erstellen Gesellschaften oder VoGs, innerhalb deren eine gemäß den Artikeln 53/1 und 
+53/2 § 1 zugelassene Plattform eingerichtet ist, einschließlich Gesellschaften und VoGs, 
+innerhalb deren eine Plattform eingerichtet war, deren Zulassung gemäß Artikel 53/2 § 2 
+während des besagten Jahres entzogen worden ist, für jeden Empfänger der in Artikel 90 Absatz 1 Nr. 1bis 
+des Einkommensteuergesetzbuches 1992 erwähnten Einkünfte eine Karte, deren Muster vom Minister der Finanzen 
+oder von seinem Beauftragten festgelegt wird und die folgende Angaben enthält:1. Identität 
+des Empfängers der Einkünfte und seine Steuernummer,2. Datum des Beginns oder der Einstellung 
+seiner Tätigkeit,3. Beschreibung der vom Empfänger erbrachten Dienste,4. Bruttobetrag 
+der in Artikel 90 Absatz 1 Nr. 1bis des vorerwähnten Gesetzbuches erwähnten Entschädigungen, gegebenenfalls 
+aufgegliedert nach der Art der erbrachten Dienste,5. gegebenenfalls Betrag und Art eventueller 
+einbehaltener Summen, gegebenenfalls aufgegliedert nach der Art der erbrachten Dienste.Der 
+Empfänger der Einkünfte wird wie folgt identifiziert:a) anhand seiner Steuernummer, die der 
+Nationalregisternummer des Empfängers oder, für Gebietsfremde, die keine Nationalregisternummer haben, 
+der von der Zentralen Datenbank der sozialen Sicherheit zugeteilten Bis-Erkennungsnummer entspricht,b) 
+wenn der Empfänger keine Steuernummer hat: anhand seines Geburtsdatums, seines Vornamens und Namens und 
+seiner vollständigen Adresse.Für die in Absatz 1 Nr. 3 erwähnte Beschreibung der erbrachten 
+Dienste werden eine oder mehrere Beschreibungen verwendet, die in einer vom Minister der Finanzen oder 
+von seinem Beauftragten festgelegten Liste zu finden sind. § 2 - Die in § 1 erwähnten 
+Karten werden vor dem 1. März des Jahres nach dem Einkommensjahr elektronisch bei der mit der Festlegung 
+der Einkommensteuer beauftragten Verwaltung eingereicht und elektronisch oder auf Papier dem Empfänger 
+der Einkünfte übermittelt. § 3 - Für das Einkommensjahr 2018 enthalten die in § 
+1 erwähnten Karten außerdem den Betrag des Berufssteuervorabzugs, der gemäß den Artikeln 
+86 Absatz 2 und 87 Nr. 2bis, so wie sie vor ihrer Aufhebung durch den Königlichen Erlass vom [Datum des 
+vorliegenden Erlasses] bestanden, und Kapitel 7 Abschnitt 1/1 der Anlage 3 zu vorliegendem Erlass, so 
+wie er vor seiner Ersetzung durch den Königlichen Erlass vom 7. Dezember 2018 bestand, auf die in § 
+1 Absatz 1 Nr. 4 erwähnten für dieses Einkommensjahr zuerkannten oder gezahlten Entschädigungen einbehalten 
+wurde.In Abweichung von § 2 können die in Absatz 1 erwähnten Karten in Bezug auf die 
+in Artikel 90 Absatz 1 Nr. 1bis des vorerwähnten Gesetzbuches erwähnten Einkünfte bis zum 14. August 
+2019 elektronisch bei der mit der Festlegung der Einkommensteuer beauftragten Verwaltung eingereicht 
+und elektronisch oder auf Papier dem Empfänger der Einkünfte übermittelt werden."Art. 4 - In 
+Artikel 86 desselben Erlasses, abgeändert durch den Königlichen Erlass vom 12. Januar 2017, wird Absatz 
+2 aufgehoben.Art. 5 - In Artikel 87 desselben Erlasses, abgeändert durch die Königlichen Erlasse 
+vom 27. August 1993, 22. Oktober 1993, 10. Januar 1997, 20. Mai 1997, 5. Dezember 1997, 24. Juni 1999, 
+14. April 2009, 4. März 2013, 12. Januar 2017 und 22. Mai 2017, wird Nummer 2bis aufgehoben.Art. 
+6 - Artikel 92/1 desselben Erlasses, eingefügt durch den Königlichen Erlass vom 12. Januar 2017, wird 
+aufgehoben.Art. 7 - Die Artikel 3 und 6 sind auf die ab dem 1. Januar 2018 gezahlten oder zuerkannten 
+Einkünfte anwendbar.Die Artikel 4 und 5 sind auf die ab dem 1. Januar 2019 gezahlten oder zuerkannten 
+Einkünfte anwendbar.Art. 8 - Der für Finanzen zuständige Minister ist mit der Ausführung des 
+vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 3. Juli 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-05Numac : 2020031373
+

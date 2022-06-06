@@ -1,0 +1,124 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/16/2021031716/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-29Numac : 2021031716
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 16 JUNI 2021. - Koninklijk besluit houdende vijfde verdeling van het provisioneel krediet ingeschreven in het programma 06-90-1 van de wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2021 en bestemd tot het dekken van de uitgaven betreffende de versterking van de genomen maatregelen alsook de nieuwe initiatieven inzake de strijd tegen het COVID-19 
+FILIP, Koning 
+der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de 
+wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2021, gewijzigd 
+door de wet van 2 april 2021 en de wet van 28 april 2021, artikel 2.06.2; Gelet op het advies 
+van de Inspecteur van Financiën, gegeven op 10 juni 2021;Overwegende dat op het programma 06-90-1 
+van de wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2021 een 
+provisioneel vastleggingskrediet en een provisioneel vereffeningskrediet van 906.850.000 euro is ingeschreven, 
+bestemd tot het dekken van de uitgaven betreffende de versterking van de genomen maatregelen alsook de 
+nieuwe initiatieven inzake de strijd tegen het covid 19 virus;Overwegende dat op de secties 
+02 - Kanselarij van de Eerste Minister; 06 - FOD Beleid en Ondersteuning; 12 - FOD Justitie; 13 - FOD 
+Binnenlandse Zaken; 24 - FOD Sociale Zekerheid en 25 - FOD Volksgezondheid, Veiligheid van de Voedselketen 
+en Leefmilieu van de wet van 22 december 2020 houdende de algemene uitgavenbegroting voor het begrotingsjaar 
+2021 geen enkel krediet is uitgetrokken om de uitgaven te dekken in verband met de strijd tegen het Coronavirus 
+COVID-19;Op de voordracht van de Staatssecretaris voor Begroting,Hebben Wij besloten 
+en besluiten Wij :Artikel 1. Een vastleggingskrediet van 13.188.187 euro en een vereffeningskrediet 
+van 12.753.747 euro worden afgenomen van het provisioneel krediet, ingeschreven op het programma 06-90-1 
+(basisallocatie 90.10.01.00.05) van de wet van 22 december 2020 houdende de algemene uitgavenbegroting 
+voor het begrotingsjaar 2021, en wordt verdeeld overeenkomstig de bijgevoegde tabel.De in deze 
+tabel vermelde bedragen worden gevoegd bij de kredieten die onder de betrokken programma's en basisallocaties 
+zijn uitgetrokken voor het begrotingsjaar 2021.Art. 2. Dit besluit treedt in werking de dag 
+waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Art. 3. De Staatssecretaris bevoegd 
+voor Begroting is belast met de uitvoering van dit besluit.Gegeven te Brussel, 16 juni 2021.FILIPVan 
+Koningswege :De Staatssecretaris voor Begroting,E. DE BLEEKER BIJLAGE  Wettelijke artikels 
+-Articles légaux Activiteiten -Activités BasisallocatiesAllocations 
+de base Vastleggings- kredieten (in euro)Crédits d'engagement (en euros) Vereffenings- 
+kredieten(in euro)- Crédits de liquidation (en euros) Departementen 
+-Départements Afdelingen -Divisions Programma's -Programmes 
+ 
+ 
+ 
+ Section 02: Chancellerie du Premier Ministre - Sectie 02: Kanselarij van 
+de Eerste Minister - 02 31 1 1 12.11.27 4.000.000 4.000.000 
+
+ 
+ 
+ 
+ Total - Totaal 4.000.000 4.000.000 Section 06: Stratégie et Appui - Sectie 06: FOD Beleid en Ondersteuning - 06 
+40 2 0 11.00.03 32.667 32.667 06 40 2 2 12.11.31 
+900.118 465.678 06 41 2 1 12.11.99 6.551.200 6.551.200 
+
+ 
+ 
+ 
+ Total - Totaal 7.483.985 7.049.545 Section 12: SPF Justice - Sectie 12: FOD Justitie - 12 56 0 
+2 12.11.01 69.650 69.650 12 56 8 1 12.11.01 49.752 
+49.752 
+ 
+ 
+ 
+ Total - Totaal 119.402 119.402 Section 13: SPF Intérieur - Sectie 13: FOD Binnenlandse Zaken - 13 
+40 7 0 12.11.01 136.000 136.000 
+ 
+ 
+ 
+ Total - Totaal 
+136.000 136.000 Section 24 : SPF Sécurité Sociale 
+- Sectie 24: FOD Sociale Zekerheid - 24 58 4 3 42.90.01 1.360.800 
+1.360.800 
+ 
+ 
+ 
+ Total - Totaal 1.360.800 1.360.800 Section 25 : SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement 
+- Sectie 25: FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu - 25 
+56 5 1 41.40.01 88.000 88.000 
+ 
+ 
+ 
+ Total - Totaal 
+88.000 88.000    TOTAL - TOTAAL 13.188.187 12.753.747
+ Gezien om te worden gevoegd bij Ons besluit van 16 juni 2021.FILIPVan 
+Koningswege :De Staatssecretaris voor Begroting, E. DE BLEEKER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-29Numac : 2021031716
+

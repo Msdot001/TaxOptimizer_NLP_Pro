@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-04Numac : 2021202700
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+  
+Resultaat van de vergelijkende selectie van Franstalige Fiscale specialisten (m/v/x) (niveau B) voor 
+het Ministerie van Defensie. - Selectienummer: AFG21040 Deze selectie werd afgesloten op 26/05/2021. 
+Er zijn 6 laureaten. De lijst is 1 jaar geldig.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-04Numac : 2021202700
+

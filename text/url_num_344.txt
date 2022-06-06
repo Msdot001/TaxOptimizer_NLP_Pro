@@ -1,0 +1,71 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2020/11/19/2020043704/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-23Numac : 2020043704
+WAALSE OVERHEIDSDIENST 
+ 19 NOVEMBER 2020. - Decreet tot wijziging van artikel 4 van het decreet van 29 oktober 2020 tot toekenning van bijzondere machten aan de Waalse Regering om te reageren op de tweede golf van de gezondheidscrisis door COVID-19 (1) 
+Het Waals Parlement heeft aangenomen en Wij, Waalse Regering, bekrachtigen 
+hetgeen volgt:Artikel 1. In artikel 4 van het decreet van 29 oktober 2020 tot toekenning van 
+bijzondere machten aan de Waalse Regering om te reageren op de tweede golf van de gezondheidscrisis door 
+COVID-19 wordt het woord "drie" vervangen door het woord "twee".Art. 2. Dit decreet treedt 
+in werking daags na de dag van bekrachtiging ervan door de Waalse Regering.Kondigen dit decreet 
+af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.Namen, 19 november 
+2020.De Minister-President,E. DI RUPODe Vice-Minister-President en Minister 
+van Economie, Buitenlandse Handel, Onderzoek, Innovatie,Digitale Technologieën, Ruimtelijke 
+Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. BORSUSDe Vice-Minister-President 
+en Minister van Klimaat, Energie en Mobiliteit,Ph. HENRYDe Vice-Minister-President 
+en Minister van Werk, Vorming, Gezondheid, Sociale Actie,Gelijke Kansen en Vrouwenrechten,Ch. 
+MORREALEDe Minister van Financiën, Begroting, Luchthavens en Sportinfrastructuren,J.-L. 
+CRUCKE De Minister van Huisvesting, Plaatselijke Besturen, en Stedenbeleid,Ch. COLLIGNONDe 
+Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging,belast met Kinderbijslag, 
+Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUEDe Minister van Leefmilieu, Natuur, 
+Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. TELLIER_______Nota(1) 
+Zitting 2020-2021.Stukken van het Waals Parlement 340 (2020-2021) Nrs. 1 tot 3.Volledig 
+verslag, plenaire vergadering van 18 november 2020.Bespreking.Stemming.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-23Numac : 2020043704
+

@@ -1,0 +1,160 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/07/2020202245/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020202245
+MINISTERIE VAN DE DUITSTALIGE GEMEENSCHAP 
+ 7 MEI 2020. - Besluit van de Regering tot oprichting van een contactcentrum dat belast is met het contactonderzoek in het kader van de strijd tegen de gezondheidscrisis die door het coronavirus (COVID-19) is ontstaan 
+De 
+Regering van de Duitstalige Gemeenschap,Gelet op de bijzondere wet van 8 augustus 1980 tot 
+hervorming der instellingen, artikel 87, gewijzigd bij de bijzondere wetten van 8 augustus 1988, 16 juli 
+1993 en 6 januari 2014;Gelet op de wet van 31 december 1983 tot hervorming der instellingen 
+voor de Duitstalige Gemeenschap, artikel 54, vervangen bij de wet van 18 juli 1990;Gelet op 
+het decreet van 1 juni 2004 betreffende de gezondheidspromotie en inzake medische preventie, artikel 
+1.1, ingevoegd bij het decreet van 25 februari 2013, artikel 10.4, § 2, ingevoegd bij het decreet 
+van 20 februari 2017, en artikel 10.5, ingevoegd bij het decreet van 20 februari 2017;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet 
+op de dringende noodzakelijkheid;Overwegende dat de dringende noodzakelijkheid gewettigd wordt 
+door het feit dat de federale regering, met het oog op de geleidelijke versoepeling van de maatregelen 
+die werden genomen om het hoofd te bieden aan de gezondheidscrisis die door het coronavirus (COVID-19) 
+is ontstaan, op 4 mei 2020 een koninklijk besluit heeft uitgevaardigd om bij Sciensano een databank op 
+te richten in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19; dat dit koninklijk 
+besluit de basis vormt voor het contactonderzoek dat in die context wordt verricht; dat de COVID-19 epidemie 
+door de versoepeling van de inperkingsmaatregelen opnieuw zou kunnen opflakkeren; dat dit contactonderzoek 
+tot doel heeft die opflakkering te voorkomen;Overwegende dat de databank die noodzakelijk is 
+om de infectieketens op te sporen, bij dit koninklijk besluit wordt opgericht; dat bij dit koninklijk 
+besluit ook wordt vastgelegd welke persoonsgegevens in de databank worden opgenomen, welke personen of 
+instellingen verantwoordelijk zijn voor de terbeschikkingstelling van de databank, voor welke doeleinden 
+de gegevens worden verwerkt, welke personen toegang tot de databank hebben en wanneer de gegevens gewist 
+worden; dat dit koninklijk besluit tot slot bepaalt dat het contactonderzoek door contactcentra wordt 
+verricht;Overwegende dat de deelstaten bevoegd zijn om, binnen hun bevoegdheden inzake preventieve 
+gezondheidszorg, de organisatie en werkwijze van hun contactcentra te regelen; dat het voormelde koninklijk 
+besluit niet meteen in de praktijk kan worden toegepast, als de oprichting van zo'n contactcentrum en 
+de regeling van de werkwijze ervan op het niveau van de Duitstalige Gemeenschap zou uitblijven; dat, 
+met het inwerkingtreden van de versoepelingsmaatregelen van de federale regering, het risico echter hoog 
+is dat de epidemie weer opflakkert als risico-indijkende maatregelen, zoals contactonderzoek, niet meteen 
+kunnen worden toegepast;Overwegende dat dit besluit bijgevolg zo snel mogelijk moet worden 
+aangenomen;Overwegende het koninklijk besluit nr. 18 tot oprichting van een databank bij Sciensano 
+in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19;Op de voordracht 
+van de Minister van Gezondheid;Na beraadslaging,Besluit : Artikel 1. oor 
+de toepassing van dit besluit wordt verstaan onder: 1° decreet: het decreet van 1 juni 2004 
+betreffende de gezondheidspromotie en inzake medische preventie;2° koninklijk besluit nr. 18: 
+het koninklijk besluit nr. 18 van 4 mei 2020 tot oprichting van een databank bij Sciensano in het kader 
+van de strijd tegen de verspreiding van het coronavirus COVID-19;3° Algemene Verordening Gegevensbescherming: 
+de Verordening (EU) 2016/679 van 27 april 2016 van het Europees Parlement en de Raad betreffende de bescherming 
+van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer 
+van die gegevens en tot intrekking van Richtlijn 95/46/EG;4° databank: de databank bij Sciensano 
+die wordt opgericht bij het koninklijk besluit nr. 18.Art. 2.  § 1 - Bij het departement 
+van het Ministerie van de Duitstalige Gemeenschap dat bevoegd is voor Gezondheid wordt een contactcentrum 
+opgericht.Overeenkomstig artikel 3, § 2, van het koninklijk besluit nr. 18 worden personen 
+die met het coronavirus (COVID-19) besmet zijn of vermoedelijk besmet zijn, alsook personen die met hen 
+in aanraking gekomen zijn, door het contactcentrum opgespoord en gecontacteerd onder de voorwaarden die 
+in dit besluit zijn vastgelegd. § 2 - Het contactcentrum vervult zijn taak vermeld in 
+§ 1 met betrekking tot de in artikel 10.4, § 2, van het decreet vermelde uitwisseling van 
+persoons- en gezondheidsgegevens met de binnenlandse gezondheidsautoriteiten om de verspreiding van het 
+coronavirus (COVID-19) tegen te gaan.Het voert zijn taak uit onder verantwoordelijkheid van 
+de arts-gezondheidsinspecteur vermeld in artikel 10.2, § 3, van het decreet.Art. 3. 
+ § 1 - Het contactcentrum verwerkt persoonsgegevens om volgende personen op te sporen en te contacteren: 
+1° personen bij wie een arts een besmetting met het coronavirus (COVID-19) vermoedt;2° 
+personen die een medische test hebben ondergaan waaruit blijkt dat zij besmet zijn met het coronavirus 
+(COVID-19).Het contactcentrum verzamelt de gegevens vermeld in het eerste lid door de databank 
+te consulteren. § 2 - Het contactcentrum verwerkt persoonsgegevens over de personen 
+vermeld in § 1 om: 1° de personen op te sporen met wie zij zowel in de 14 dagen vóór 
+het consult of de test vermeld in § 1, als in de dagen daarna in aanraking zijn gekomen, en die 
+personen elk afzonderlijk te contacteren en hen vervolgens, op basis van de informatie die zij verschaffen, 
+op een elektronische wijze de gepaste aanbevelingen te bezorgen;2° de collectiviteiten met 
+een kwetsbare of tot een risicogroep behorende populatie die in aanraking zijn gekomen met de personen 
+vermeld in § 1, op te sporen en te contacteren, zodat ze passende preventiemaatregelen of vroegtijdige 
+detectiemaatregelen kunnen nemen.Het contactcentrum verzamelt de gegevens vermeld in het eerste 
+lid: 1° door de databank te consulteren of: 2° bij de in § 1 vermelde personen 
+zelf of;3° rechtstreeks bij de personen en de collectiviteiten die met de personen vermeld 
+in § 1 in aanraking zijn gekomen.Art. 4.  § 1 - In het kader van de uitvoering 
+van de taak vermeld in artikel 3, § 1, verzamelt en verwerkt het contactcentrum de volgende persoonsgegevens 
+over de personen vermeld in die § 1: 1° het rijksregisternummer of, naargelang van het 
+geval, het identificatienummer van de sociale zekerheid;2° de voor- en achternamen;3° 
+het geslacht;4° de geboortedatum en, in voorkomend geval, de overlijdensdatum;5° 
+het adres;6° het type, de datum, het staalnummer en het resultaat van de test of - bij afwezigheid 
+van test - de vermoedelijke diagnose;7° het RIZIV-nummer van de arts die de test heeft voorgeschreven;8° 
+de contactgegevens van de betrokkene en van de in geval van nood te contacteren persoon;9° 
+de collectiviteit waar de persoon deel van uitmaakt;10° het al dan niet uitoefenen van een 
+gezondheidszorgberoep. § 2 - In het kader van de uitvoering van de taak vermeld in artikel 
+3, § 2, verzamelt en verwerkt het contactcentrum volgende persoonsgegevens over de personen die 
+in aanraking zijn gekomen met een besmette of vermoedelijk besmette persoon: 1° het rijksregisternummer 
+of, naargelang van het geval, het identificatienummer van de sociale zekerheid;2° de voor- 
+en achternamen;3° het geslacht;4° in voorkomend geval de overlijdensdatum;5° 
+het adres;6° het telefoonnummer;7° hoog risico/laag risico;8° de link tussen 
+de besmette of vermoedelijk besmette persoon en de personen waarmee hij in contact is geweest.Art. 
+5. Het contacteren bedoeld in artikel 3 geschiedt individueel, telefonisch of elektronisch of - als betrokkene 
+telefonisch of elektronisch niet bereikt werd - thuis. Als een besmette of vermoedelijk besmette 
+persoon in aanraking is gekomen met personen in een collectiviteit, richt het contactcentrum zich tot 
+de referentiearts van die collectiviteit of, bij gebrek aan een referentiearts, tot de administratief 
+verantwoordelijke van die collectiviteit.Art. 6.  § 1 - Het contactcentrum neemt de 
+persoonsgegevens vermeld in artikel 4, § 2, op in de databank.Er mogen geen andere gegevens 
+aan derden worden doorgegeven.De gegevens verwerkt overeenkomstig artikel 4 mogen alleen worden 
+gebruikt voor de doeleinden beschreven in de artikelen 2 en 3. § 2 - Onverminderd andersluidende 
+wettelijke of decretale bepalingen zijn de leden van het contactcentrum die bij de uitvoering van dit 
+besluit betrokken zijn, ertoe verplicht de gegevens die hun in de uitoefening van hun opdracht worden 
+toevertrouwd, vertrouwelijk te behandelen. Art. 7. Het Ministerie van de Duitstalige Gemeenschap 
+is de verwerkingsverantwoordelijke in de zin van artikel 4, punt 7, van de Algemene Verordening Gegevensbescherming 
+voor de verwerkingen van persoonsgegevens die in het kader van dit besluit door het contactcentrum worden 
+uitgevoerd.Als het contactcentrum een beroep doet op één of meer externe dienstverrichters, 
+wordt met elk van hen overeenkomstig artikel 28 van de Algemene Verordening Gegevensbescherming een overeenkomst 
+voor het verrichten van verwerkingsactiviteiten gesloten.Art. 8. Onder voorbehoud van andersluidende 
+bepalingen worden de persoonsgegevens die overeenkomstig dit besluit verzameld en verwerkt worden, na 
+één maand gewist, te rekenen vanaf de datum waarop ze werden verzameld, zonder dat die termijn de datum 
+bepaald in artikel 5 van het koninklijk besluit nr. 18 mag overschrijden.Onverminderd het eerste 
+lid wordt de informatie vermeld in artikel 4, § 2, eerste lid, 8°, uiterlijk 21 dagen na opname 
+in de databank gewist.In afwijking van het eerste lid worden de gegevens die overeenkomstig 
+artikel 4, § 1, verzameld en verwerkt worden, onmiddellijk gewist als het resultaat van de test 
+vermeld in artikel 4, § 1, 6°, negatief is.Art. 9. Dit besluit treedt in werking de 
+dag waarop het wordt aangenomen. Art. 10. De minister bevoegd voor Gezondheid is belast met 
+de uitvoering van dit besluit. Eupen, 7 mei 2020.Voor de Regering van de Duitstalige 
+Gemeenschap,De Minister-President, Minister van Lokale Besturen en Financiën,O. 
+PAASCHDe Viceminister-President, Minister van Gezondheiden Sociale Aangelegenheden, 
+Ruimtelijke Ordening en Huisvesting,A. ANTONIADIS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020202245
+

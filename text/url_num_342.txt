@@ -1,0 +1,176 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/30/2020043248/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-23Numac : 2020043248
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 30 SEPTEMBER 2020. - Koninklijk besluit houdende uitvoering van artikel 15, § 10, van de wet van 15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie (CORONA III) en betreffende de belastingvermindering voor de verwerving van nieuwe aandelen van ondernemingen die hun omzet ingevolge de COVID-19-pandemie sterk hebben zien dalen 
+VERSLAG AAN DE KONINGSire,Het 
+besluit dat ter ondertekening aan Uwe Majesteit wordt voorgelegd, beoogt de uitvoering van artikel 15, 
+van de wet van 15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 
+pandemie (CORONA III).Dit artikel heeft een nieuwe belastingvermindering ingevoerd voor de 
+verwerving van nieuwe aandelen van ondernemingen die hun omzet ingevolge de COVID-19-pandemie sterk hebben 
+zien dalen.Artikel 15, § 10, van de voormelde wet, delegeert aan de Koning de bevoegdheid 
+om te bepalen hoe het bewijs moet geleverd worden dat vereist is met het oog op het verkrijgen van de 
+belastingvermindering.Artikel 1 volgt het reeds door artikelen 6312/1 en 6312/3, 
+KB/WIB 92 uitgewerkte schema, wat de belastingvermindering voor de verwerving van nieuwe aandelen van 
+startende ondernemingen (in uitvoering van artikel 14526, § 6, WIB 92) en van 
+groeibedrijven (in uitvoering van artikel 14527, § 5, WIB 92) betreft.Zodoende 
+moeten vennootschappen die sommen hebben ontvangen die recht geven op belastingvermindering, ten laatste 
+op 31 maart van het jaar volgend op de verwerving van aandelen, en in voorkomend geval voor 31 maart 
+van de volgende jaren een document bij de administratie en bij de belastingplichtige indienen.Er 
+moeten in voorkomend geval drie types van documenten worden opgesteld:1°  Voor het jaar van 
+verwerving, moet het document de volgende elementen bevatten:- het bedrag van de sommen die 
+recht geven op de vermindering;- het bewijs dat de voorwaarden bedoeld in artikel 15, § 
+2, van de wet van 15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 
+pandemie (CORONA III), zijn voldaan; - het jaarlijks omzetcijfer van de vennootschap voor de 
+periode 14 maart 2020 tot 30 april 2020 en de omzet voor de periode 14 maart 2019 tot 30 april 2019 vermeldt, 
+ofwel zowel de gerealiseerde omzet voor de periode van 14 maart 2020 tot 30 april 2020 vermeldt als de 
+in het financieel plan vooropgestelde omzet voor dezelfde periode (ingeval de vennootschap werd opgericht 
+na 14 maart 2019, anders dan in het kader van een fusie of splitsing van vennootschappen).- 
+het feit dat de belastingplichtige nog steeds in het bezit is van de bedoelde aandelen op 31 december 
+van het jaar van de verwerving.2°  Voor elk van de vijf volgende jaren volgend op de verwerving, 
+moet het document bevestigen dat de belastingplichtige nog steeds in het bezit is van de bedoelde aandelen, 
+en dat nog steeds is voldaan aan de voorwaarden opgenomen in artikel 15, § 2, derde lid, van dezelfde 
+wet.3°  In voorkomend geval moet het document voor het jaar van de vervreemding van de aandelen 
+of voor het jaar waarin niet langer wordt voldaan aan de voorwaarden opgenomen in artikel 15, § 
+2, derde lid van dezelfde wet, het aantal nog niet verstreken maanden vermelden dat in aanmerking te 
+nemen is voor de berekening van de terugname van de vermindering.Aan het advies nr. 67.951/1/V 
+van de Raad van State van 22 september 2020 wordt tegemoetgekomen.Er wordt voorgesteld om dit 
+besluit van toepassing te maken vanaf aanslagjaar 2021.Dit is, Sire, de draagwijdte van het 
+besluit dat U wordt voorgelegd.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Vice-Eerste Minister en Minister van Financiën,A. 
+DE CROOADVIES 67.951/1/V VAN 22 SEPTEMBER 2020 OVER EEN ONTWERP VAN KONINKLIJK 
+BESLUIT "HOUDENDE UITVOERING VAN ARTIKEL 15, §  10, VAN DE WET VAN 15 JULI 2020 HOUDENDE DIVERSE 
+DRINGENDE FISCALE BEPALINGEN TEN GEVOLGE VAN DE COVID-19-PANDEMIE (CORONA III) EN BETREFFENDE DE BELASTINGVERMINDERING 
+VOOR DE VERWERVING VAN NIEUWE AANDELEN VAN ONDERNEMINGEN DIE HUN OMZET INGEVOLGE DE COVID-19-PANDEMIE 
+STERK HEBBEN ZIEN DALEN"Op 21 augustus 2020 is de Raad van State, afdeling Wetgeving, door 
+de Minister van Financiën verzocht binnen een termijn van dertig dagen een advies te verstrekken over 
+een ontwerp van koninklijk besluit "houdende uitvoering van artikel 15, §  10, van de wet van 
+15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19-pandemie (CORONA 
+III) en betreffende de belastingvermindering voor de verwerving van nieuwe aandelen van ondernemingen 
+die hun omzet ingevolge de COVID-19-pandemie sterk hebben zien dalen".Het ontwerp is door de 
+eerste vakantiekamer onderzocht op 10 september 2020 . De kamer was samengesteld uit Wilfried Van Vaerenbergh, 
+staatsraad, voorzitter, Wouter Pas en Koen Muylle, staatsraden, Bruno Peeters, assessor, en Greet Verberckmoes, 
+griffier.Het verslag is uitgebracht door Kristine Bams, eerste auditeur-afdelingshoofd.De 
+overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van 
+Wilfried Van Vaerenbergh staatsraad .Het advies, waarvan de tekst hierna volgt, is gegeven 
+op 22 september 20201. Met toepassing van artikel 84, § 3, eerste lid, van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973, heeft de afdeling Wetgeving zich toegespitst 
+op het onderzoek van de bevoegdheid van de steller van de handeling, van de rechtsgrond, alsmede van 
+de vraag of aan de te vervullen vormvereisten is voldaan.Strekking en rechtsgrond van het ontwerp2. 
+Artikel 15 van de wet van 15 juli 2020 `houdende diverse dringende fiscale bepalingen ten gevolge van 
+de COVID-19 pandemie (CORONA III)' voert voor rijksinwoners een belastingvermindering in voor de verwerving 
+van nieuwe aandelen van ondernemingen die hun omzet ingevolge de COVID-19-pandemie sterk hebben zien 
+dalen. De paragrafen 4 en 5, eerste lid, van dat artikel bepalen dat de vennootschap aan de belastingplichtige, 
+tot staving van zijn aangifte in de personenbelasting, een aantal bewijzen moet verstrekken.Het 
+om advies voorgelegde ontwerp van koninklijk besluit legt de inhoud vast van het document dat de voornoemde 
+bewijzen bevat (artikel 1, § 1, van het ontwerp) en bepaalt binnen welke termijn dit document 
+aan de belastingplichtige moet worden bezorgd (artikel 1, § 2). Een afschrift van de in paragraaf 
+1 bedoelde documenten moet langs elektronische weg binnen dezelfde termijn worden bezorgd aan de administratie 
+(artikel 1, § 3).Het te nemen besluit is van toepassing vanaf aanslagjaar 2021 (artikel 
+2).3.1. Rechtsgrond voor het ontwerp wordt geboden door artikel 15, § 10, van de wet 
+van 15 juli 2020, dat de Koning machtigt om de wijze te bepalen waarop het in paragraaf 4 en paragraaf 
+5, eerste lid, van dat artikel bedoelde bewijs wordt geleverd.3.2. In de voornoemde paragrafen 
+4 en 5, eerste lid, is telkens sprake van het verstrekken van het bewijs "(aan) de belastingplichtige". 
+Er kan worden aanvaard dat het om redenen van efficiëntie nodig wordt geacht te verplichten om daarvan 
+ook kennis te geven aan de belastingadministratie (artikel 1, § 3, van het ontwerp). Voor het 
+aannemen van een dergelijke bepaling dient dan wel een beroep te worden gedaan op de algemene uitvoeringsbevoegdheid 
+die de Koning ontleent aan artikel 108 van de Grondwet, gelezen in samenhang met het voormelde artikel 
+15, § 10.Onderzoek van de tekst Aanhef4. Overeenkomstig hetgeen 
+hiervoor is opgemerkt over de rechtsgrond, dient vooraan in de aanhef een verwijzing te worden opgenomen 
+naar artikel 108 van de Grondwet.Artikel 15. Artikel 15, § 4, eerste streepje, 
+van de wet van 15 juli 2020 bepaalt dat de vennootschap het bewijs moet verstrekken dat aan de voorwaarden 
+bepaald in de paragrafen 1 en 2 is voldaan. Artikel 1, § 1, 1°,  b), van het ontwerp, dat thans 
+enkel melding maakt van paragraaf 2, dient bijgevolg te worden aangevuld met een verwijzing naar paragraaf 
+1.6. Artikel 15, § 4, tweede streepje, van de wet van 15 juli 2020 bepaalt dat het bewijs 
+wordt verstrekt dat de belastingplichtige de aandelen in het belastbare tijdperk heeft aangeschaft en 
+deze aandelen op het einde van dat belastbare tijdperk nog in zijn bezit heeft. Artikel 1, § 1, 
+1°,  van het ontwerp moet bijgevolg worden aangevuld met een bepaling die ertoe strekt dat de betrokken 
+vennootschap ook het bewijs moet bezorgen dat de belastingplichtige, op het einde van het belastbare 
+tijdperk waarin hij de aandelen heeft aangeschaft, de aandelen nog steeds in zijn bezit heeft.De 
+griffier,   G. VerberckmoesDe voorzitter,W. Van Vaerenbergh30 
+SEPTEMBER 2020. - Koninklijk besluit houdende uitvoering van artikel 15, § 10, van de wet van 
+15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie (CORONA 
+III) en betreffende de belastingvermindering voor de verwerving van nieuwe aandelen van ondernemingen 
+die hun omzet ingevolge de COVID-19-pandemie sterk hebben zien dalenFILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op het Grondwet, artikel 108;Gelet 
+op de wet van 15 juli 2020 houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19-pandemie 
+(CORONA III), artikel 15, § 10;Gelet op het koninklijk besluit van 16 november 1994 
+betreffende de administratieve en begrotingscontrole, artikelen 5 en 14;Overwegende dat dit 
+besluit slechts een model van een aan de belastingplichtige uit te reiken attest vastlegt en het dus 
+op zich geen enkele impact heeft op de begroting;Gelet op het advies nr. 67.951/1/V van de 
+Raad van State, gegeven op 22 september 2020, met toepassing van artikel 84, § 1, eerste lid, 
+2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht 
+van de Vice-Eerste Minister en Minister van Financiën,Hebben Wij besloten en besluiten Wij 
+:Artikel 1.  § 1. De in artikel 15 van de wet 15 juli 2020 houdende diverse dringende 
+fiscale bepalingen ten gevolge van de COVID-19-pandemie (CORONA III) bedoelde vennootschappen moeten 
+jaarlijks vóór 31 maart van het jaar dat volgt op het jaar van de verwerving van de volledig volstorte 
+aandelen en van de vijf daaropvolgende jaren een document opstellen dat:1°  voor het jaar van 
+verwerving:a) het bedrag vermeldt dat recht geeft op de vermindering;b) bevestigt 
+of de vennootschap waarin wordt geïnvesteerd, voldoet aan de voorwaarden opgenomen in artikel 15, §§ 
+1 en 2, van dezelfde wet;c) ofwel de omzet van de vennootschap voor de periode 14 maart 2020 
+tot 30 april 2020 en de omzet voor de periode 14 maart 2019 tot 30 april 2019 vermeldt, ofwel, ingeval 
+de vennootschap werd opgericht na 14 maart 2019, anders dan in het kader van een fusie of splitsing van 
+vennootschappen, zowel de gerealiseerde omzet voor de periode van 14 maart 2020 tot 30 april 2020 vermeldt 
+als de in het financieel plan vooropgestelde omzet voor dezelfde periode;d) bevestigt dat deze 
+aandelen nog steeds in het bezit zijn van de inschrijver op 31 december van het jaar van de verwerving.2° 
+ voor elk van de vijf volgende jaren bevestigt dat deze aandelen nog steeds in het bezit zijn van de 
+inschrijver op 31 december van het belastbaar tijdperk, en dat is voldaan aan de voorwaarden opgenomen 
+in artikel 15, § 2, derde lid, van dezelfde wet;3°  voor het jaar van vervreemding van 
+de aandelen of voor het jaar waarin niet langer wordt voldaan aan de voorwaarden opgenomen in artikel 
+15, § 2, derde lid van dezelfde wet: het aantal nog niet verlopen maanden vermeldt dat in aanmerking 
+komt voor de berekening van de terugname van de vermindering. § 2. Het in § 1 
+bedoelde document moet binnen de in § 1 bedoelde termijn worden bezorgd aan de inschrijver.De 
+inschrijver moet zijn exemplaar van de bedoelde documenten ter beschikking houden van de administratie. 
+§ 3. Een afschrift van het in § 1 bedoelde document moet langs elektronische weg binnen 
+de in § 1 bedoelde termijn aan de administratie worden bezorgd.Art. 2. Dit besluit is 
+van toepassing vanaf aanslagjaar 2021. Art. 3. De minister bevoegd voor Financiën is belast 
+met de uitvoering van dit besluit.Gegeven te Brussel, 30 september 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-23Numac : 2020043248
+

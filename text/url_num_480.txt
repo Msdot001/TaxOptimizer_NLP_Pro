@@ -1,0 +1,170 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021020705
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie van de Fiscaliteit Bericht in verband met de investeringsaftrekI.INVESTERINGEN 
+GEDAAN IN HET BELASTBAAR TIJDPERK VERBONDEN AAN AANSLAGJAAR 2021De artikelen 4 en 5 van de 
+programmawet van 20.12.2020 (Belgisch Staatsblad van 30.12.2020, ed. 1) hebben wijzigingen aangebracht 
+op het vlak van de investeringsaftrek.Als gevolg van die wijzigingen moet het Bericht in verband 
+met investeringsaftrek, gepubliceerd in het Belgisch Staatsblad van 22.05.2020 (blz. 37184-37186) en 
+gewijzigd door het Bericht in verband met de investeringsaftrek, gepubliceerd in het Belgisch Staatsblad 
+van 08.09.2020 (ed. 1, blz. 65389-65390), als volgt worden aangepast:1°  onder de titel 'Eenmalige 
+aftrek' moet rubriek A worden vervangen door:'A. Natuurlijke personen- digitale investeringen 
+(*), octrooien, milieuvriendelijke investeringen voor onderzoek en ontwikkeling, energiebesparende investeringen 
+en rookafzuig- of verluchtingssystemen in horeca-inrichtingen:* verkregen of tot stand gebracht 
+van 01.01.2019 tot 31.12.2019 (**): . . . . . 20 % * verkregen of tot stand gebracht van 01.01.2020 
+tot 11.03.2020:  . . . . . 13,5 %* verkregen of tot stand gebracht vanaf 12.03.2020 (**): . 
+. . . . 25 %- investeringen in beveiliging:* verkregen of tot stand gebracht van 
+01.01.2019 tot 11.03.2020:  . . . . . 20,5 %* verkregen of tot stand gebracht vanaf 12.03.2020 
+(**): . . . . . 25 %- andere investeringen:* verkregen of tot stand gebracht van 
+01.01.2019 tot 31.12.2019: . . . . . 20 %* verkregen of tot stand gebracht van 01.01.2020 tot 
+11.03.2020: . . . . . 8 %* verkregen of tot stand gebracht vanaf 12.03.2020: . . . . . 25 %'2° 
+ onder de titel 'Eenmalige aftrek' moet rubriek B worden vervangen door:'B. Vennootschappen1. 
+Alle vennootschappen- octrooien (***), milieuvriendelijke investeringen voor onderzoek en ontwikkeling 
+(***), energiebesparende investeringen en rookafzuig- of verluchtingssystemen in horeca inrichtingen: 
+. . . . . 13,5 %- investeringen tot aanmoediging van het hergebruik van verpakkingen van dranken 
+en nijverheidsproducten: . . . . . 3 %2. Vennootschappen bedoeld in artikel 1:24, §§ 
+1 tot 6, van het Wetboek van vennootschappen en verenigingen- digitale investeringen: . . . 
+. . 13,5 %- investeringen in beveiliging: . . . . . 20,5 %- andere dan de in B, 1 
+en B, 2, eerste en tweede streepje, en B, 3 vermelde investeringen (****):* verkregen of tot 
+stand gebracht tussen 01.01.2019 en 31.12.2019:  . . . . . 20 %* verkregen of tot stand gebracht 
+tussen 01.01.2020 en 11.03.2020: . . . . . 8 %* verkregen of tot stand gebracht tussen 12.03.2020 
+en 31.12.2022:  . . . . . 25 %- in B, 1, eerste streepje en B, 2, eerste streepje bedoelde 
+investeringen (**) (*****):* verkregen of tot stand gebracht tussen 01.01.2019 en 31.12.2019: 
+ . . . . . 20 %* verkregen of tot stand gebracht tussen 12.03.2020 en 31.12.2022:  . . . . 
+. 25 %- in B, 2, tweede streepje bedoelde investeringen (**) (*****):* verkregen 
+of tot stand gebracht tussen 12.03.2020 en 31.12.2022:  . . . . . 25 %3. Vennootschappen die 
+uitsluitend winst uit zeescheepvaart verkrijgen- investeringen in zeeschepen: . . . . . 30 
+%'3°  de voetnoot (*****) moet worden vervangen door:'(*****) De toepassing van het 
+tarief van 20 % of 25 % brengt de beperkingen bedoeld in artikel 201, § 1, derde lid (verzaking 
+aan de aftrek voor risicokapitaal) en vijfde lid (overdracht beperkt tot het volgend belastbaar tijdperk, 
+of met betrekking tot de van 01.01.2019 tot 31.12.2021 verkregen of tot stand gebrachte vaste activa, 
+overdracht beperkt tot de twee belastbare tijdperken volgend op dat waarin de betrokken vaste activa 
+werden verkregen of tot stand gebracht), WIB 92 mee, alsook de verplichting voor alle vennootschappen 
+om, in dit geval de algemene opgave zoals bedoeld in artikel 47, 2°,  KB/WIB 92, ter beschikking van 
+de administratie te houden.'II.INVESTERINGEN GEDAAN IN HET BELASTBAAR TIJDPERK VERBONDEN AAN 
+AANSLAGJAAR 2022AlgemeenInvesteringen die aan de wettelijke voorwaarden voldoen geven 
+recht op een investeringsaftrek die gelijk is aan een bepaald percentage van de aanschaffings- of beleggingswaarde 
+van die investeringen.Eenmalige aftrekVoor investeringen gedaan tijdens het belastbaar 
+tijdperk dat aan aanslagjaar 2022 verbonden is, gelden de volgende percentages.A. Natuurlijke 
+personen- digitale investeringen (*), octrooien, milieuvriendelijke investeringen voor onderzoek 
+en ontwikkeling, energiebesparende investeringen en rookafzuig- of verluchtingssystemen in horeca-inrichtingen:* 
+verkregen of tot stand gebracht van 01.01.2020 tot 11.03.2020: . . . . . 13,5 %* verkregen 
+of tot stand gebracht vanaf 12.03.2020 (**): . . . . . 25 %- investeringen in beveiliging:* 
+verkregen of tot stand gebracht van 01.01.2020 tot 11.03.2020: . . . . . 20,5 %* verkregen 
+of tot stand gebracht vanaf 12.03.2020 (**): . . . . . 25 %- andere investeringen:* 
+verkregen of tot stand gebracht van 01.01.2020 tot 11.03.2020: . . . . . 8 %* verkregen of 
+tot stand gebracht vanaf 12.03.2020: . . . . . 25 %B. Vennootschappen1. Alle vennootschappen- 
+octrooien (***), milieuvriendelijke investeringen voor onderzoek en ontwikkeling (***), energiebesparende 
+investeringen en rookafzuig- of verluchtingssystemen in horecainrichtingen: . . . . . 13,5 %- 
+investeringen tot aanmoediging van het hergebruik van verpakkingen van dranken en nijverheidsproducten: 
+. . . . . 3 %2. Vennootschappen bedoeld in artikel 1:24, §§ 1 tot 6, van het 
+Wetboek van vennootschappen en verenigingen- digitale investeringen: . . . . . 13,5 %- 
+investeringen in beveiliging: . . . . . 20,5 %- andere dan de in B, 1 en B, 2, eerste en tweede 
+streepje, en B, 3 vermelde investeringen (****):* verkregen of tot stand gebracht tussen 01.01.2020 
+en 11.03.2020: . . . . . 8 %* verkregen of tot stand gebracht tussen 12.03.2020 en 31.12.2022: 
+. . . . . 25 %- in B, 1, eerste streepje en B, 2, eerste streepje bedoelde investeringen (**) 
+(*****):* verkregen of tot stand gebracht tussen 12.03.2020 en 31.12.2022: . . . . . 25 %- 
+in B, 2, tweede streepje bedoelde investeringen (**) (*****):* verkregen of tot stand gebracht 
+tussen 12.03.2020 en 31.12.2022: . . . . . 25 %3. Vennootschappen die uitsluitend winst uit 
+zeescheepvaart verkrijgen- investeringen in zeeschepen: . . . . . 30 %Gespreide aftrekNatuurlijke 
+personen die op de eerste dag van het belastbaar tijdperk verbonden aan aanslagjaar 2022 minder dan 20 
+werknemers tewerkstellen, kunnen, als zij dat willen, de investeringsaftrek voor de in dat belastbaar 
+tijdperk verkregen of tot stand gebrachte activa, spreiden over de afschrijvingsperiode van die activa. 
+In dat geval wordt de aftrek voor die activa eenvormig bepaald op 10,5 % van de afschrijvingen die voor 
+elk belastbaar tijdperk van die periode worden aangenomen.In afwijking van het vorige lid en 
+ongeacht het aantal tewerkgestelde werknemers, bedraagt de gespreide aftrek 20,5 % van de afschrijvingen 
+op milieuvriendelijke investeringen voor onderzoek en ontwikkeling die tijdens het belastbaar tijdperk 
+bedoeld in het vorige lid, zowel door natuurlijke personen als door vennootschappen (***) zijn verkregen 
+of tot stand gebracht.Aanvraag attestenI.Milieuvriendelijke investeringen voor onderzoek 
+en ontwikkelingDe attesten die voor milieuvriendelijke investeringen voor onderzoek en ontwikkeling 
+ter beschikking van de administratie moeten worden gehouden, moeten, naargelang van de plaats van de 
+investering, bij de volgende diensten worden aangevraagd.A. Vlaams GewestVlaamse 
+OverheidDepartement OmgevingAfdeling Partnerschappen met besturen en maatschappijGraaf 
+de Ferraris-gebouwKoning Albert II-laan 20, bus 81000 BRUSSELTel. 0492 
+22 58 11E-mail: attestOenO.omgeving@vlaanderen.beWebsite: omgeving.vlaanderen.beB. 
+Waals GewestService public de WallonieDirection générale opérationnelle Agriculture, 
+Ressources naturelles et EnvironnementChaussée de Louvain 145000 NAMURTel. 
+081 64 94 70 of 081 64 96 97E-mail: jonas.nunesdecarvalho@spw.wallonie.beWebsite: 
+environnement.wallonie.beC. Brussels Hoofdstedelijk GewestLeefmilieu BrusselThurn 
+& Taxis-siteHavenlaan 86 C/30001000 BRUSSELTel. 02 775 75 75Website: 
+leefmilieu.brusselsII. Energiebesparende investeringenDe attesten die voor energiebesparende 
+investeringen ter beschikking van de administratie moeten worden gehouden, moeten, naargelang van de 
+plaats van de investering, bij de volgende diensten worden aangevraagd.A. Vlaams GewestVlaamse 
+OverheidVlaams Energie- en KlimaatagentschapGraaf de Ferraris-gebouwKoning 
+Albert II-laan 20, bus 171000 BRUSSELTel. 02 553 46 00E-mail: investeringsaftrek.veka@vlaanderen.beWebsite: 
+www.energiesparen.beB. Waals GewestService public de WallonieDirection 
+générale opérationnelle Aménagement du territoire, Logement, Patrimoine et EnergieDépartement 
+de l'Energie et du Bâtiment durableRue des Brigades d'Irlande 15100 JAMBESTel. 
+081 33 25 44 of 081 48 63 11Fax: 081 33 24 04E-mail: energie@spw.wallonie.beWebsite: 
+energie.wallonie.beC. Brussels Hoofdstedelijk GewestLeefmilieu BrusselThurn 
+& Taxis-siteHavenlaan 86 C/30001000 BRUSSELTel. 02 775 75 75Website: 
+leefmilieu.brussels(*) Alleen van toepassing voor natuurlijke personen die voor aanslagjaar 
+2022 op overeenkomstige wijze beantwoorden aan de criteria van artikel 1:24, §§ 1 tot 6, 
+van het Wetboek van vennootschappen en verenigingen.(**) Het in artikel 69, § 1, eerste 
+lid, 2°,  WIB 92 bedoelde verhoogde percentage is niet van toepassing als het in artikel 69, § 
+1, eerste lid, 1°,  of in artikel 201, § 1, eerste lid, 1°,  WIB 92 vermelde basispercentage gunstiger 
+is (Kamer, Doc. 54/2864-001, blz. 36). Naar analogie daarvan kan dezelfde redenering worden gevolgd voor 
+het in artikel 69, §  1, eerste lid, 3°,  WIB 92 bedoelde verhoogde percentage.(***) 
+De vennootschappen die onherroepelijk hebben geopteerd voor het in artikel 289quater, WIB 92 vermelde 
+belastingkrediet voor onderzoek en ontwikkeling kunnen, vanaf het aanslagjaar waarin zij die keuze hebben 
+gemaakt, niet meer genieten van de investeringsaftrek voor octrooien en milieuvriendelijke investeringen 
+voor onderzoek en ontwikkeling.(****) Alleen van toepassing als de vennootschap onherroepelijk 
+heeft verzaakt aan de in de artikelen 205bis tot 205novies, WIB 92 bedoelde aftrek voor risicokapitaal.(*****) 
+De toepassing van het tarief van 20 % of 25 % brengt de beperkingen bedoeld in artikel 201, § 
+1, derde lid (verzaking aan de aftrek voor risicokapitaal) en vijfde lid (overdracht beperkt tot het 
+volgend belastbaar tijdperk, of met betrekking tot de van 01.01.2019 tot 31.12.2021 verkregen of tot 
+stand gebrachte vaste activa, overdracht beperkt tot de twee belastbare tijdperken volgend op dat waarin 
+de betrokken vaste activa werden verkregen of tot stand gebracht), WIB 92 mee, alsook de verplichting 
+voor alle vennootschappen om, in dit geval de algemene opgave zoals bedoeld in artikel 47, 2°,  KB/WIB 
+92, ter beschikking van de administratie te houden.'(De pers wordt verzocht dit bericht over 
+te nemen.)   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021020705
+

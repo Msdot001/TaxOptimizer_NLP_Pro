@@ -1,0 +1,70 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-24Numac : 2021030346
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie voor Beleidsexpertise -en Ondersteuning. - Dienst Reglementering. - Bericht in 
+verband met de automatische indexering inzake inkomstenbelastingen. - Aanslagjaar 2022. - AddendumIngevolge 
+de artikelen 75, 2°,  en 86, C, tiende lid, van de Wet van 25 december 2017 tot hervorming van de vennootschapsbelasting 
+(gepubliceerd in het Belgisch Staatsblad van 29 december 2017) wordt het bericht in verband met de automatische 
+indexering inzake inkomstenbelastingen - aanslagjaar 2022 - (gepubliceerd op 8 februari 2021), wat art. 
+342, § 4, eerste lid, van het WIB 92 betreft, als volgt aangepast:J. In afwijking van 
+A tot I hierboven wordt het in artikel 342, § 4, eerste lid, van het Wetboek van de inkomstenbelastingen 
+1992 vermelde bedrag voor het aanslagjaar 2022 geïndexeerd overeenkomstig artikel 342, § 4, derde 
+lid van hetzelfde Wetboek, volgens de regels van artikel 178, § 2, met dien verstande dat het 
+bedrag eerst wordt gedeeld door de indexeringscoëfficiënt die van toepassing is voor aanslagjaar 2020 
+(1,8512).De tabel onder XI hierna bevat het basisbedrag uit het genoemde Wetboek en het geïndexeerde 
+bedrag voor het aanslagjaar 2022  (afgekort tot Aj. 2022).XI. Titel VII van het Wetboek van 
+de inkomstenbelastingen 1992Bijzondere regel art. 342, § 4, derde lid, WIB 92  Article CIR 92Artikel WIB 92 DescriptionOmschrijving 
+Montant de baseBasisbedrag Montant indexé Ex. d'imp. 2022Geïndexeerd bedrag 
+Aj. 2022 Art. 342, § 4, al. 1erArt. 342, § 
+4, eerste lid Minimum des bénéfices imposablesMinimum van de belastbare winst 40 000 
+40 900    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-24Numac : 2021030346
+

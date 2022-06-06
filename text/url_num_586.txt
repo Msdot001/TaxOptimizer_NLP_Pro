@@ -1,0 +1,72 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State  
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-17Numac : 2021042130
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 8 JUNI 2021. - Omzendbrief nr. 695. - Aanpassing van het bedrag van de kilometer-vergoeding 2021 
+Aan 
+de federale overheidsdiensten en aan de diensten die ervan afhangen, aan het Ministerie van Landsverdediging, 
+evenals aan de instellingen van openbaar nut behorende tot het federaal administratief openbaar ambt 
+zoals gedefinieerd in artikel 1 van de wet van 22 juli 1993 houdende bepaalde maatregelen inzake ambtenarenzaken, 
+Geachte Collega,Mevrouw, Mijnheer, Met toepassing van artikel 
+74 van het koninklijk besluit van 13 juli 2017 tot vaststelling van de toelagen en vergoedingen van de 
+personeelsleden van het federaal openbaar ambt, wordt het bedrag van de kilometervergoeding vastgesteld 
+op 0,3707 euro per kilometer voor de periode van 1 juli 2021 tot 30 juni 2022.Met toepassing 
+van artikel 3bis van hat koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 
+1989 tot vrijwaring van 's lands concurrentievermogen, ingevoegd bij de wet van 23 april 2015 tot verbetering 
+van de werkgelegenheid, wordt het indexcijfer van de consumptieprijzen bepaald in het artikel 74, § 
+1er, van het voormeld koninklijk besluit van 13 juli 2017 vervangen door de afgevlakte 
+gezondheidsindex.Dit bedrag wordt als volgt vastgesteld :Eerste deel :80% 
+van de vorige kilometervergoeding x afgevlakte gezondheidsindex mei 2021/afgevlakte gezondheidsindex 
+mei 2020of 80% van [0,3542 x 108,50/107,84 ] = 0,28509 EURTweede deel :20% 
+van de vorige kilometervergoeding x Diesel + Benzine mei 2021/Diesel + Benzine mei 2020of 
+20% van [0,3542 x (1,5192 + 1,5186)/(1,2507 + 1,2626) ] = 0,08562 EURTotaal 
+bedrag :0,28509 EUR + 0,08562 EUR = 0,3707 EURDe Minister van Ambtenarenzaken,P. 
+DE SUTTER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-17Numac : 2021042130
+

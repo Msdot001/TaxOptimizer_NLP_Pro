@@ -1,0 +1,295 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/15/2020203872/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-09-23Numac : 2020203872
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 15 SEPTEMBER 2020. - Koninklijk besluit houdende toekenning, ingevolge de COVID-19-pandemie, van een aanvullende crisisuitkering aan sommige arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten 
+VERSLAG 
+AAN DE KONINGSire,Het koninklijk besluit dat wij de eer hebben Uwe Majesteit ter 
+ondertekening voor te leggen, heeft tot doel om tijdelijk een aanvullende crisisuitkering toe te kennen 
+aan bepaalde arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten als gevolg van de COVID-19-pandemie.In 
+het licht van het advies nr. 67.911/1/V van 21 augustus 2020 van de Raad van State en gelet op de gemaakte 
+opmerkingen, wordt hierna enige toelichting gegeven.Deze tijdelijke maatregel treedt met terugwerkende 
+kracht in werking op 1 maart 2020, hetgeen overeenstemt met de datum van inwerkingtreding van het 'crisisoverbruggingsrecht' 
+dat door de wetgever wegens de COVID-19-pandemie in het sociaal statuut van de zelfstandigen is ingevoerd. 
+Deze weerhouden datum is bepaald binnen het strikte kader van de COVID-19-pandemie en stemt 
+overeen met de periode waarin de WHO het bedreigingsniveau verbonden met dit virus tot zijn maximale 
+graad heeft verhoogd en waarin we tegelijkertijd in België een exponentiële evolutie van het aantal besmettingen 
+vaststelden met ernstige gevolgen op gezondheidsvlak die het aantal arbeidsongeschikte erkende personen 
+verhoogden die met een belangrijk financieel verlies werden geconfronteerd. Bovendien konden 
+vele zelfstandigen en meewerkende echtgenoten die tijdens de arbeidsongeschiktheid een beroepsactiviteit 
+met de toelating van de adviserend arts verrichtten, deze activiteit niet langer uitoefenen wegens, in 
+voorkomend geval, een verergering van de gezondheidstoestand of de beperkende maatregelen die als gevolg 
+van de pandemie door de Nationale Veiligheidsraad zijn aangenomen. In deze laatste situatie is bovendien 
+een beroep op het 'crisisoverbruggingsrecht' niet mogelijk.Het bedrag van de arbeidsongeschiktheidsuitkering 
+waarop de samenwonende gerechtigde zonder gezinslast kan aanspraak maken, blijkt echter lager te zijn 
+dan het maandelijkse bedrag van de financiële uitkering toegekend in het kader van het 'crisisoverbruggingsrecht' 
+voor een gerechtigde zonder persoon ten laste. Deze maatregel beoogt dan ook (vanaf de datum 
+waarop dit koninklijk besluit in werking treedt) een aanvullende crisisuitkering toe te kennen aan de 
+zelfstandigen en meewerkende echtgenoten die de hoedanigheid van samenwonende gerechtigde zonder gezinslast 
+hebben zodat het totale dagbedrag van het vervangingsinkomen wegens hun arbeidsongeschiktheid gelijk 
+is aan het, in werkdagen uitgedrukte, maandelijkse bedrag van de financiële uitkering bepaald in de wet 
+tot invoering van het 'crisisoverbruggingsrecht'.Deze maatregel die uitdrukkelijk is verbonden 
+met de COVID-19-pandemie, is dus binnen de uitkeringsverzekering verenigbaar met het grondwettelijk gelijkheidsbeginsel 
+gezien de omvang, de ernst en het uitzonderlijk karakter van deze COVID-19-pandemie waardoor talrijke 
+zelfstandigen en meewerkende echtgenoten vanaf 1 maart 2020 niet langer hun beroepsactiviteit hebben 
+kunnen uitoefenen en enkel aanspraak konden maken op prestaties van deze uitkeringsverzekering.Ik 
+heb de eer te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe 
+dienaar,De Minister van Sociale Zaken,M. DE BLOCKDe Minister van Zelfstandigen,D. 
+DUCARMERAAD VAN STATEafdeling WetgevingAdvies 67.911/1/V 
+van 21 augustus 2020 over een ontwerp van koninklijk besluit 'houdende toekenning, ingevolge de COVID 
+19 pandemie, van een aanvullende crisisuitkering aan sommige arbeidsongeschikt erkende zelfstandigen 
+en meewerkende echtgenoten'Op 31 juli 2020 is de Raad van State, afdeling Wetgeving, door de 
+Minister van Sociale Zaken verzocht binnen een termijn van dertig dagen, van rechtswege verlengd tot 
+1 september 2020,(*) een advies te verstrekken over een ontwerp van koninklijk besluit 'houdende toekenning, 
+ingevolge de COVID-19-pandemie, van een aanvullende crisisuitkering aan sommige arbeidsongeschikt erkende 
+zelfstandigen en meewerkende echtgenoten'. Het ontwerp is door de eerste vakantiekamer onderzocht 
+op 18 augustus 2020. De kamer was samengesteld uit Marnix VAN DAMME, kamervoorzitter, Carlo ADAMS en 
+Kaat LEUS, staatsraden, Michel TISON, assessor, en Annemie GOOSSENS, griffier.Het verslag is 
+uitgebracht door Jonas RIEMSLAGH, auditeur.De overeenstemming tussen de Franse en de Nederlandse 
+tekst van het advies is nagezien onder toezicht van Marnix VAN DAMME, kamervoorzitter.Het advies, 
+waarvan de tekst hierna volgt, is gegeven op 21 augustus 2020.1. Met toepassing van artikel 
+84, § 3, eerste lid, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, heeft 
+de afdeling Wetgeving zich toegespitst op het onderzoek van de bevoegdheid van de steller van de handeling, 
+van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten is voldaan.STREKKING 
+EN RECHTSGROND VAN HET ONTWERP2. Het om advies voorgelegde ontwerp van koninklijk besluit strekt 
+ertoe een tijdelijke, aanvullende crisisuitkering in te voeren ten gunste van bepaalde categorieën als 
+arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten. De personen die in aanmerking 
+komen voor de aanvullende crisisuitkering worden vermeld in artikel 2 van het ontwerp. De aanvullende 
+crisisuitkering wordt overeenkomstig artikel 3 van het ontwerp toegekend per dag. In het laatstgenoemde 
+artikel wordt tevens bepaald welke dagen daarbij in aanmerking worden genomen. Artikel 4 van het ontwerp 
+heeft betrekking op de hoogte van het dagbedrag van de aanvullende crisisuitkering. Dit is gelijk aan 
+het verschil tussen 49,68 euro en het bedrag van de uitkering bedoeld in hetzij artikel 9, hetzij artikel 
+10 van het koninklijk besluit van 20 juli 1971 'houdende instelling van een uitkeringsverzekering en 
+een moederschapsverzekering ten voordele van de zelfstandigen en van de meewerkende echtgenoten' waarop 
+de gerechtigde, al naargelang het geval, aanspraak kan maken. De aanvullende crisisuitkering strekt er 
+bijgevolg toe het dagbedrag op minstens 49,68 euro te brengen. Daarbij wordt in de toepassing van een 
+indexeringsmechanisme voorzien. Artikel 5 van het ontwerp bepaalt dat, voor zover er in het 
+te nemen besluit niet van wordt afgeweken, de bepalingen van titel I van het voornoemde koninklijk besluit 
+van 20 juli 1971 die betrekking hebben op de uitkeringsverzekering van toepassing zijn op de toekenning 
+van de aanvullende crisisuitkering. Aan de ontworpen regeling wordt uitwerking gegeven met 
+ingang van 1 maart 2020 en de aanvullende crisisuitkering wordt niet langer toegekend voor de periode 
+van arbeidsongeschiktheid "die zich bevindt na het tijdvak waarin de maatregelen bedoeld in hoofdstuk 
+3 van de wet van 23 maart 2020 ['tot wijziging van de wet van 22 december 2016 houdende invoering van 
+een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het 
+kader van COVID-19 ten gunste van zelfstandigen'] van toepassing zijn". De verzekeringsinstellingen moeten 
+uiterlijk drie maanden te rekenen vanaf de eerste dag van de maand na die van de bekendmaking van het 
+te nemen besluit in het Belgisch Staatsblad de aanvullende crisisuitkering betalen voor de periode van 
+arbeidsongeschiktheid die deze betaaldatum voorafgaat (artikel 6).3. De ontworpen regeling 
+vindt rechtsgrond in artikel 86, § 3, van de wet 'betreffende de verplichte verzekering voor geneeskundige 
+verzorging en uitkeringen, gecoördineerd op 14 juli 1994' waaraan wordt gerefereerd in het eerste lid 
+van de aanhef van het ontwerp.VORMVEREISTEN4. In het derde en het vierde lid van 
+de aanhef van het ontwerp wordt respectievelijk verwezen naar artikel 15, eerste lid, van de wet van 
+25 april 1963 'betreffende het beheer van de instellingen van openbaar nut voor sociale zekerheid en 
+sociale voorzorg' en naar de dringende noodzakelijkheid.Overeenkomstig artikel 15, eerste lid, 
+van de wet van 25 april 1963, onderwerpt de Minister van Tewerkstelling en Arbeid of de Minister van 
+Sociale Voorzorg behoudens in spoedeisende gevallen aan het advies, hetzij van de Nationale Arbeidsraad, 
+hetzij van het beheerscomité, elk voorontwerp van wet of ontwerp van organiek besluit of verordening 
+tot wijziging van de wetten of verordeningen, met de toepassing waarvan de instelling belast is of betreffende 
+het personeelskader en de structuur van de instelling.Ondervraagd of aan dit vormvoorschrift 
+is voldaan, verklaarde de gemachtigde het volgende: "Het ontwerp van koninklijk besluit is 
+(...) aan het Beheerscomité van de uitkeringsverzekering voor zelfstandigen voorgelegd tijdens de zitting 
+van 15 juli 2020.Gedurende deze zitting is het uitgebreid toegelicht en hebben de leden de 
+nodige vragen kunnen stellen en opmerkingen kunnen formuleren. In dit kader kan er worden verwezen naar 
+de nota die aan de leden is bezorgd en de opgestelde ontwerpnotulen die de verschillende tussenkomsten 
+bevatten (...). Het Beheerscomité heeft dus wel al kennis genomen van de meegedeelde informatie."Uit 
+de door de gemachtigde verstrekte toelichting blijkt, enerzijds, dat het niet de bedoeling van de stellers 
+van het ontwerp lijkt om zich met betrekking tot het door artikel 15 van de wet van 25 april 1963 voorgeschreven 
+vormvereiste op de hoogdringendheid te beroepen1 en dat, anderzijds, er in de schoot 
+van het Beheerscomité van de uitkeringsverzekering voor zelfstandigen al een gedachtewisseling heeft 
+plaatsgevonden over het ontworpen besluit. Er kan aan worden getwijfeld of met deze gedachtewisseling 
+effectief wordt beantwoord aan de adviesverplichting waarin artikel 15 van de wet van 25 april 1963 voorziet. 
+Aan de andere kant kan de vraag rijzen of nog een beroep kan worden gedaan op de dringende noodzakelijkheid 
+om het betrokken advies niet in te winnen ermee rekening houdend dat de Raad van State, afdeling Wetgeving, 
+zelf om een advies over het ontwerp van koninklijk besluit is verzocht "binnen een termijn van dertig 
+dagen" en het Beheerscomité met toepassing van artikel 15, tweede lid, van de wet van 25 april 1963, 
+nog steeds om een advies kan worden verzocht binnen een termijn van "tien vrije dagen".Uit 
+wat voorafgaat volgt dat de stellers van het ontwerp er zekerheidshalve goed aan doen om het voornoemde 
+beheerscomité alsnog om het advies te verzoeken dat wordt voorgeschreven door artikel 15 van de wet van 
+25 april 1963.ALGEMENE OPMERKING5. Het om advies voorgelegde ontwerp van koninklijk 
+besluit strekt ertoe een tijdelijke, aanvullende crisisuitkering in te voeren ten gunste van bepaalde 
+categorieën als arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten. Op die wijze wordt 
+een verschil in behandeling gecreëerd tussen categorieën zelfstandigen en meewerkende echtgenoten al 
+naargelang zij wel of niet voor de aanvullende crisisuitkering in aanmerking komen.Een verschil 
+in behandeling is slechts verenigbaar met de grondwettelijke beginselen van gelijkheid en niet-discriminatie 
+wanneer dat verschil op een objectief criterium berust en het redelijk verantwoord is. Het bestaan van 
+een dergelijke verantwoording moet worden beoordeeld, rekening houdend met het doel en de gevolgen van 
+de betrokken maatregel en met de aard van de ter zake geldende beginselen; het gelijkheidsbeginsel is 
+geschonden wanneer er geen redelijk verband van evenredigheid bestaat tussen de aangewende middelen en 
+het beoogde doel.2Omgekeerd verzetten, volgens de vaste rechtspraak van het 
+Grondwettelijk Hof, de grondwettelijke regels van de gelijkheid en de niet-discriminatie zich er tegen 
+dat categorieën van personen die zich ten aanzien van een maatregel in wezenlijk verschillende situaties 
+bevinden, op identieke wijze worden behandeld, zonder dat daarvoor een redelijke verantwoording bestaat.3
+De ontworpen regeling zal aan deze beginselen moeten worden getoetst.Nu al kan in 
+dat verband worden opgemerkt dat de ontworpen regeling enkel geldt ten aanzien van bepaalde personen 
+die hun activiteit hebben stopgezet vanaf ten vroegste 1 maart 2020. Gedurende de geldigheidsduur van 
+de ontworpen regeling ontvangen zij een hogere uitkering dan personen die zich in een zelfde toestand 
+bevinden, maar waarvan die toestand reeds vóór 1 maart 2020 aanvatte. Uit de door de gemachtigde verstrekte 
+toelichting valt af te leiden dat voor de voornoemde scharnierdatum is geopteerd omwille van de inwerkingtreding 
+van het zogenaamde crisisoverbruggingsrecht, waarmee de uitkering wordt gelijkgeschakeld door de toekenning 
+van de aanvullende crisisuitkering. De begunstigden van deze aanvullende crisisuitkering lijken derhalve 
+veeleer te moeten worden vergeleken met personen die zich in dezelfde toestand van arbeidsongeschiktheid 
+bevinden dan met personen die van het crisisoverbruggingsrecht genieten. Door het feit dat 
+de aanvullende crisisuitkering enkel toekomt aan een bepaalde categorie van gerechtigden, namelijk de 
+gerechtigden zonder gezinslast, worden bovendien bestaande verschillen op grond van het reeds genoemde 
+koninklijk besluit van 20 juli 1971 uitgevlakt of tenietgedaan. Bijgevolg lijken wezenlijk verschillende 
+situaties op een (meer) gelijke wijze te worden behandeld. Zoals de gemachtigde opmerkt wordt daarmee 
+weliswaar een tijdelijke gelijkstelling met het crisisoverbruggingsrecht nagestreefd, maar opnieuw lijkt 
+de toets aan het gelijkheidsbeginsel in de eerste plaats te moeten gebeuren binnen het stelsel dat geldt 
+voor de als arbeidsongeschikt erkende zelfstandigen (en meewerkende echtgenoten). Uit wat voorafgaat 
+volgt dat diverse onderdelen van de ontworpen regeling van aard kunnen zijn om vragen te doen rijzen 
+met betrekking tot de verenigbaarheid ervan met het grondwettelijk gewaarborgde gelijkheidsbeginsel. 
+Teneinde elke onduidelijkheid of speculatie daaromtrent te voorkomen doen de stellers van het ontwerp 
+er goed aan om de door hen ontworpen regeling te voorzien van een afdoende verantwoording ervan in het 
+licht van het gelijkheidsbeginsel en om deze verantwoording in een verslag aan de Koning bij het tot 
+stand te brengen koninklijk besluit op te nemen.ONDERZOEK VAN DE TEKSTAanhef6. 
+Aan het einde van het eerste lid van de aanhef van het ontwerp moet worden geschreven "..., artikel 86, 
+§ 3, gewijzigd bij de wetten van 22 augustus 2002, 29 maart 2012 en 7 mei 2019;".7. 
+In het tweede lid van de aanhef wordt verwezen naar het koninklijk besluit van 20 juli 1971. Het betrokken 
+koninklijk besluit strekt de ontworpen regeling niet tot rechtsgrond en wordt er evenmin door gewijzigd. 
+Een verwijzing naar dat koninklijk besluit in de aanhef van het ontwerp is evenmin noodzakelijk of nuttig 
+voor een goed begrip van de ontworpen regeling. Er wordt trouwens in diverse bepalingen van het ontwerp 
+meermaals uitdrukkelijk gerefereerd aan het koninklijk besluit van 20 juli 1971. De verwijzing naar het 
+laatstgenoemde koninklijk besluit in het tweede lid van de aanhef is bijgevolg overbodig en dient uit 
+de aanhef te worden weggelaten.8. Wat betreft het derde en het vierde lid van de aanhef van 
+het ontwerp zoals het om advies is voorgelegd, wordt volstaan met een verwijzing naar de opmerking sub 
+4 onder "Vormvereisten".Artikel 69. In artikel 6, derde lid, van het ontwerp wordt 
+bepaald dat de "aanvullende crisisuitkering bedoeld in artikel 3 (...) niet langer [wordt] toegekend 
+voor de periode van arbeidsongeschiktheid die zich bevindt na het tijdvak waarin de maatregelen bedoeld 
+in hoofdstuk 3 van de wet van 23 maart 2020 van toepassing zijn". Hoofdstuk 3 ("Tijdelijke 
+maatregelen in het kader van COVID-19") van de reeds genoemde wet van 23 maart 2020 bevat uiteenlopende 
+maatregelen die evenwel niet alle op dezelfde datum ophouden uitwerking te hebben. Aan de gemachtigde 
+werd daarom gevraagd of de ontworpen bepaling geen aanleiding dreigt te geven tot rechtsonzekerheid omtrent 
+het temporele toepassingsgebied van de ontworpen regeling. De gemachtigde deelde in dat verband mee wat 
+volgt: "We zijn het met u eens dat het veiliger is en meer rechtszekerheid geeft om een vaste 
+datum te hanteren.Gelet op de coherentie met andere maatregelen, die met het huidige ontwerp 
+samenhangen, kan de datum van 31 december 2020 voorgesteld worden."Het verdient zeker aanbeveling 
+om een vaste datum te hanteren. Wat dat betreft, stemt de datum van 31 december 2020 overeen met de datum 
+waarop een gedeelte van de bepalingen van hoofdstuk 3 van de wet van 23 maart 2020 ophouden uitwerking 
+te hebben, althans indien het koninklijk besluit tot stand komt dat in ontwerpvorm het voorwerp heeft 
+uitgemaakt van advies 67.916/1/V van 7 augustus 2020 van de Raad van State, afdeling Wetgeving.DE 
+GRIFFIER,   Annemie GOOSSENSDE VOORZITER,Marnix VAN DAMME_______Nota(*) 
+Deze verlenging vloeit voort uit artikel 84, § 1, eerste lid, 2°, in fine, van de wetten op de 
+Raad van State, gecoördineerd op 12 januari 1973, waarin wordt bepaald dat deze termijn van rechtswege 
+verlengd wordt met vijftien dagen wanneer hij begint te lopen tussen 15 juli en 31 juli of wanneer hij 
+verstrijkt tussen 15 juli en 15 augustus.1 De aangehaalde verwijzing naar 
+"de dringende noodzakelijkheid", in de aanhef van het ontwerp, is wat dat betreft misleidend.2 
+Vaste rechtspraak van het Grondwettelijk Hof (zie bv. GwH 28 februari 2013, nr. 24/2013, B.3.2.).3 
+Zie bv. GwH 14 mei 2003, nr. 63/2003, B.5; GwH 21 december 2005, nr. 194/2005, B.3; GwH 17 mei 2006, 
+nr. 78/2006, B.4; GwH 28 juli 2006, nr. 125/2006, B.5; GwH 11 december 2008, nr. 179/2008, B.6; GwH 6 
+februari 2014, nr. 24/2014, B.4.4 Adv.RvS 67.916/1/V van 7 augustus 2020 over 
+een ontwerp van koninklijk besluit 'tot wijziging van de wet van 23 maart 2020 tot wijziging van de wet 
+van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot 
+invoering van tijdelijke maatregelen in het kader van COVID-19 ten gunste van zelfstandigen'. In verband 
+met de verenigbaarheid van de in dat ontwerp opgenomen regeling met de artikelen 10, 11 en 23 van de 
+Grondwet, zie de opmerkingen sub 5.1 tot 5.4 in dat advies.15 SEPTEMBER 2020. 
+- Koninklijk besluit houdende toekenning, ingevolge de COVID-19-pandemie, van een aanvullende crisisuitkering 
+aan sommige arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten FILIP, Koning 
+der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de 
+wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd 
+op 14 juli 1994, artikel 86, § 3, gewijzigd bij de wetten van 22 augustus 2002, 29 maart 2012 
+en 7 mei 2019;Gelet op het advies van het Beheerscomité van de uitkeringsverzekering voor zelfstandigen, 
+gegeven op 9 september 2020;Gelet op het advies van de Inspecteur van Financiën, gegeven op 
+24 juni 2020;Gelet op de akkoordbevinding van de Minister van Begroting, d.d. 13 juli 2020;Gelet 
+op de impactanalyse van de regelgeving uitgevoerd overeenkomstig artikelen 6 en 7 van de wet van 15 december 
+2013 houdende diverse bepalingen inzake administratieve vereenvoudiging;Gelet op het advies 
+nr. 67.911/1/V van de Raad van State, gegeven op 21 augustus 2020 met toepassing van artikel 84, § 
+1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op 
+de voordracht van de Minister van Sociale Zaken en de Minister van Zelfstandigen en op het advies van 
+de in Raad vergaderde Ministers,HEBBEN WIJ BESLOTEN EN BESLUITEN WIJ: Artikel 1. 
+Voor de toepassing van dit besluit wordt verstaan onder: 1° "wet van 2 augustus 1971": de wet 
+van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen 
+en tegemoetkomingen ten laste van de openbare schatkist, sommige uitkeringen, de bezoldigingsgrenzen 
+waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der 
+arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer 
+van de consumptieprijzen worden gekoppeld;2° "wet van 23 maart 2020": de wet van 23 maart 2020 
+tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste 
+van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten gunste van 
+zelfstandigen;3° "koninklijk besluit van 20 juli 1971": het koninklijk besluit van 20 juli 
+1971 houdende instelling van een uitkeringsverzekering en een moederschapsverzekering ten voordele van 
+de zelfstandigen en van de meewerkende echtgenoten;4° "koninklijk besluit van 25 november 1991": 
+het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;5° "koninklijk 
+besluit van 3 juli 1996": het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende 
+de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.Art. 
+2. Zijn gerechtigd op een aanvullende crisisuitkering overeenkomstig de bepalingen van dit besluit: a) 
+de gerechtigden bedoeld in artikel 3, 1° en 4°, van het koninklijk besluit van 20 juli 1971, op voorwaarde 
+dat hun arbeidsongeschiktheid aanvat ten vroegste vanaf 1 maart 2020 en zij niet voldoen aan de voorwaarden 
+bedoeld in, al naargelang het geval, artikel 225, artikel 226 of artikel 226bis van het koninklijk besluit 
+van 3 juli 1996; b) de niet onder a) bedoelde gerechtigden die de activiteit verricht overeenkomstig 
+artikel 23 of artikel 23bis van het koninklijk besluit van 20 juli 1971 ten vroegste vanaf 1 maart 2020 
+gedurende minstens zeven opeenvolgende kalenderdagen stopzetten en niet voldoen aan de voorwaarden bedoeld 
+in, al naargelang het geval, artikel 225, artikel 226 of artikel 226bis van het koninklijk besluit van 
+3 juli 1996.Art. 3. De aanvullende crisisuitkering wordt toegekend: a) voor elke 
+dag waarvoor de gerechtigde bedoeld in artikel 2, a) recht heeft op de primaire ongeschiktheidsuitkering 
+bedoeld in artikel 9 van het koninklijk besluit van 20 juli 1971;b) voor elke dag van stopzetting 
+van de activiteit waarvoor de gerechtigde bedoeld in artikel 2, b) recht heeft op, al naargelang het 
+geval, de primaire ongeschiktheidsuitkering bedoeld in artikel 9 van het koninklijk besluit van 20 juli 
+1971 of de invaliditeitsuitkering bedoeld in artikel 10 van het koninklijk besluit van 20 juli 1971. 
+De toekenning van de aanvullende crisisuitkering wordt echter geweigerd als de gerechtigde met toepassing 
+van artikel 61, § 1, tweede lid van het koninklijk besluit van 25 november 1991 uitkeringen als 
+tijdelijk werkloze geniet.Art. 4. Het dagbedrag van de aanvullende crisisuitkering bedoeld 
+in artikel 3 is gelijk aan het verschil van 49,68 euro en het bedrag van de primaire ongeschiktheidsuitkering 
+bedoeld in artikel 9 van het koninklijk besluit van 20 juli 1971 of het bedrag van de invaliditeitsuitkering 
+bedoeld in artikel 10 van het koninklijk besluit van 20 juli 1971 waarop de gerechtigde, al naargelang 
+het geval, aanspraak kan maken.Het voormelde bedrag van 49,68 euro is gekoppeld aan de spilindex 
+geldend op 1 maart 2020. Het wordt verhoogd of verminderd overeenkomstig artikel 4 van de wet van 2 augustus 
+1971. De verhoging of de vermindering wordt toegepast vanaf de dag bepaald in artikel 6, 3°, van voornoemde 
+wet.Art. 5. Voor zover er niet van wordt afgeweken door de bepalingen van dit besluit, zijn 
+de bepalingen van titel I van het koninklijk besluit van 20 juli 1971 die betrekking hebben op de uitkeringsverzekering, 
+van toepassing op de toekenning van de aanvullende crisisuitkering bedoeld in artikel 3.Art. 
+6. Dit besluit heeft uitwerking met ingang van 1 maart 2020.Uiterlijk drie maanden te rekenen 
+vanaf de eerste dag van de maand na die waarin dit besluit is bekendgemaakt in het Belgisch Staatsblad, 
+betalen de verzekeringsinstellingen de aanvullende crisisuitkering bedoeld in artikel 3 uit voor de periode 
+van arbeidsongeschiktheid die deze betaaldatum voorafgaat. De aanvullende crisisuitkering bedoeld 
+in artikel 3 wordt niet langer toegekend voor de periode van arbeidsongeschiktheid die zich bevindt na 
+31 december 2020. Art. 7. De Minister bevoegd voor Sociale Zaken en de Minister bevoegd voor 
+Zelfstandigen zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 15 september 2020.FILIPVan Koningswege :De Minister van Sociale 
+Zaken,M. DE BLOCKDe Minister van Zelfstandigen, D. DUCARME   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-09-23Numac : 2020203872
+

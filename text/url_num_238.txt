@@ -1,0 +1,99 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/02/2020015185/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-15Numac : 2020015185
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 2 JULI 2020. - Ministerieel besluit houdende delegatie van bevoegdheid tot ordonnancering door de Directeur-generaal van Brussel Huisvesting in het kader van de uitbetaling van de premie ter ondersteuning van de huurders met beperkte inkomsten die een inkomensverlies ondergaan door de COVID-19 gezondheidscrisis 
+De 
+Minister-President van de Brusselse Hoofdstedelijke Regering, belast met Territoriale Ontwikkeling en 
+Stadsvernieuwing,Gelet op de organieke ordonnantie van 23 februari 2006 houdende de bepalingen 
+die van toepassing zijn op de begroting, de boekhouding en de controle, artikelen 2, 8°,  81 tot 83 en 
+92 tot 95;Gelet op de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan 
+de Brusselse Hoofdstedelijke Regering in het kader van de COVID-19- gezondheidscrisis;Gelet 
+op het besluit van de Brusselse Hoofdstedelijke Regering van 18 juli 2000 tot regeling van haar werkwijze 
+en tot regeling van de ondertekening van de akten van de Regering, gewijzigd door de regeringsbesluiten 
+van 29 november 2001, 22 mei 2008, 30 juni 2011, 7 mei 2015 en 15 juni 2017, artikel 5,14° ;Gelet 
+op het besluit van de Brusselse Hoofdstedelijke Regering van 13 juli 2006 betreffende de administratieve 
+en begrotingscontrole evenals de begrotingsopmaak, artikelen 1, 7°  en 39, 2de lid;Gelet op 
+het besluit van de Brusselse Hoofdstedelijke Regering van 22 juli 2019 tot vaststelling van de bevoegdheden 
+van de ministers van de Brusselse Hoofdstedelijke Regering;Gelet op het bijzonderemachtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/028 van 29 mei 2020 ter invoering van een premie ter 
+ondersteuning van de huurders met beperkte inkomsten die een inkomensverlies ondergaan door de COVID-19 
+gezondheidscrisis, artikel 7, § 3;Gelet op het ministerieel besluit van 17 mei 2018 
+in toepassing van artikel 39, 2de lid van het besluit van de Brusselse Hoofdstedelijke Regering van 13 
+juli 2006 betreffende de administratieve en begrotingscontrole evenals de begrotingsopmaak, betreffende 
+bepaalde toelagen die worden beheerd door Brussel Huisvesting;Gelet op het ministerieel besluit 
+van 22 juli 2019 tot vaststelling van de bevoegdheden van de Staatssecretaris toegevoegd aan de Minister 
+van de Brusselse Hoofdstedelijke Regering, bevoegd voor territoriale ontwikkeling en stadsvernieuwing, 
+toerisme, de promotie van het imago van Brussel en biculturele zaken van gewestelijk belang;Gelet 
+op het advies van de Inspectie van Financiën, gegeven op 26 juni 2020;Gelet op de gelijke kansen 
+test uitgevoerd op 19 juni 2020 in toepassing van de ordonnantie van 4 oktober 2018 tot invoering van 
+de gelijke kansentest;Overwegende de beslissing van de Brusselse Hoofdstedelijke Regering van 
+24 april 2020 betreffende de goedkeuring aan het principe van de toekenning van een eenmalige premie 
+van 214,68 euro ter ondersteuning van huurders met een bescheiden inkomen die als gevolg van de coronacrisis 
+een inkomensverlies lijden ;Overwegende dat het verlies van inkomsten in hoofde van huurders 
+in de particuliere verhuursector als gevolg van de gezondheidscrisis veroorzaakt door COVID-19, het noodzakelijk 
+maken dat de termijn tot het toekennen van de premie heel kort is,Besluit :Artikel 
+1. Delegatie van bevoegdheid en tekenbevoegdheid wordt gegeven aan de Directeur-generaal van Brussel 
+Huisvesting van de Gewestelijke Overheidsdienst Brussel om elke beslissing te nemen in het kader van 
+de bestuurlijke uitvoering van de bepaling van artikel 7, § 3, van het bijzonderemachtenbesluit 
+van de Brusselse Hoofdstedelijke Regering nr. 2020/028 van 29 mei 2020 ter invoering van een premie ter 
+ondersteuning van de huurders met beperkte inkomsten die een inkomensverlies ondergaan door de COVID-19 
+gezondheidscrisis.Art. 2. Met toepassing van artikel 2, eerste lid, 1, a), van het besluit 
+van de Brusselse Hoofdstedelijke Regering van 25 maart 1999 betreffende de delegatie van tekenbevoegdheid 
+voor financiële aangelegenheden aan de ambtenaren-generaal van het Ministerie van het Brussels Hoofdstedelijk 
+Gewest, is de Directeur-generaal van Brussel Huisvesting gemachtigd om de kredieten vast te leggen ten 
+laste van basisallocatie 25.008.31.07.3432 van de gewestelijke begroting.Art. 3. In geval van 
+afwezigheid of belet van de in de artikelen 1 en 2 van onderhavig besluit bedoelde ambtenaar, wordt toepassing 
+gemaakt van artikel 7, tweede lid van het besluit van 25 maart 1999 van de Brusselse Hoofdstedelijke 
+Regering betreffende de delegatie van tekenbevoegdheid voor financiële aangelegenheden aan de ambtenaren-generaal 
+van het Ministerie van het Brussels Hoofdstedelijk Gewest.Art. 4. Dit besluit treedt in werking 
+op de dag van zijn publicatie in het Belgisch Staatsblad.Brussel, 2 juli 2020.R. 
+VERVOORT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-15Numac : 2020015185
+

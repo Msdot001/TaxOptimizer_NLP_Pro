@@ -1,0 +1,412 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/28/2021031007/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-23Numac : 2021031007
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 28 APRIL 2019. - Wet houdende diverse fiscale bepalingen en tot wijziging van artikel 1, §  1ter, van de wet van 5 april 1955. - Duitse vertaling van uittreksels 
+De hierna volgende tekst 
+is de Duitse vertaling van de artikelen 1 tot 22, 29 tot 38, 42 tot 51 en 53 tot 55 van de wet van 28 
+april 2019 houdende diverse fiscale bepalingen en tot wijziging van artikel 1, § 1ter, van de 
+wet van 5 april 1955 (Belgisch Staatsblad van 6 mei 2019).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN28. APRIL 2019 - Gesetz zur Festlegung verschiedener steuerrechtlicher Bestimmungenund 
+zur Abänderung von Artikel 1 § 1ter des Gesetzes vom 5. April 1955PHILIPPE, Konig der 
+Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das 
+Folgende angenommen und Wir sanktionieren es:TITEL 1 - Allgemeine BestimmungArtikel 
+1 -  Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.TITEL 
+2 - Abänderungen des Einkommensteuergesetzbuches 1992KAPITEL 1 - Spin-offArt. 2 - 
+Artikel 264 Absatz 1 des Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 25. 
+Dezember 2017, wird durch eine Nr. 4 mit folgendem Wortlaut ergänzt:"4. der einem Einwohner 
+des Königreichs von einer Gesellschaft gewährt oder zuerkannt wird, deren Aktien oder Anteile an einer 
+Wertpapierbörse eines Mitgliedstaates der Europäischen Union notiert sind unter den Bedingungen der Richtlinie 
+2001/34/EG des Europäischen Parlaments und des Rates vom 28. Mai 2001 über die Zulassung von Wertpapieren 
+zur amtlichen Börsennotierung und über die hinsichtlich dieser Wertpapiere zu veröffentlichenden Informationen 
+oder an einer Wertpapierbörse eines Drittstaates, dessen Rechtsvorschriften zumindest gleichwertige Zulassungsbedingungen 
+vorsehen, in Form von Aktien oder Anteilen einer neu gegründeten Gesellschaft oder einer bestehenden 
+Gesellschaft, die an einer vorerwähnten Wertpapierbörse notiert sind und die die ausschüttende Gesellschaft 
+im Tausch für die Einbringung eines Teilbetriebs beziehungsweise eines Teils einer Tätigkeit erhalten 
+hat, sofern die Einbringung und der Erhalt der Aktien oder Anteile Gegenstand ein und desselben Umstrukturierungsvorgangs 
+sind, der in einem Staat stattfindet, mit dem Belgien eine Vereinbarung oder ein Abkommen zur Vermeidung 
+der Doppelbesteuerung abgeschlossen hat, sofern diese Vereinbarung oder dieses Abkommen oder ein anderes 
+bilaterales oder multilaterales Rechtsinstrument, zu dessen Parteien dieser Staat zusammen mit Belgien 
+gehört, den Informationsaustausch in Steuersachen ermöglicht, und der in diesem Staat als steuerlich 
+neutral oder steuerfrei gilt."Art. 3 -  Artikel 2 wird wirksam mit 1. Januar 2019 und ist auf 
+die ab diesem Datum gezahlten oder zuerkannten Dividenden anwendbar.KAPITEL 2 - BerufssteuervorabzugArt. 
+4 - Artikel 2751 Absatz 2 des Einkommensteuergesetzbuches 1992, eingefügt durch das 
+Gesetz vom 3. Juli 2005 und zuletzt abgeändert durch das Gesetz vom 16. November 2015, wird wie folgt 
+abgeändert:1. Der dritte Gedankenstrich wird wie folgt ersetzt:"- folgende autonome 
+öffentliche Unternehmen: die öffentlich-rechtliche Aktiengesellschaft Proximus und die öffentlich-rechtliche 
+Aktiengesellschaft bpost,".2. Der vierte Gedankenstrich wird wie folgt ersetzt:"- 
+die öffentlich-rechtliche Aktiengesellschaft HR Rail mit Ausnahme des Personals, das sie der öffentlich-rechtlichen 
+Aktiengesellschaft NGBE und der öffentlich-rechtlichen Aktiengesellschaft Infrabel im Rahmen deren Tätigkeiten 
+als öffentlicher Dienst zur Verfügung stellt."Art. 5 - Artikel 2755 desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 23. Dezember 2005 und zuletzt abgeändert durch das Gesetz 
+vom 26. März 2018, wird wie folgt abgeändert:1. In § 2 wird Nr. 1 Buchstabe b) wie folgt 
+ersetzt:"b) oder von statutarisch angestellten Arbeitnehmern bei folgenden autonomen öffentlichen 
+Unternehmen: der öffentlich-rechtlichen Aktiengesellschaft Proximus und der öffentlich-rechtlichen Aktiengesellschaft 
+bpost,".2. In § 2 wird Nr. 1 Buchstabe c) wie folgt ersetzt:"c) oder von Arbeitnehmern 
+bei der öffentlich-rechtlichen Aktiengesellschaft HR Rail mit Ausnahme der Arbeitnehmer, die sie der 
+öffentlich-rechtlichen Aktiengesellschaft NGBE und der öffentlich-rechtlichen Aktiengesellschaft Infrabel 
+im Rahmen deren Tätigkeiten als öffentlicher Dienst zur Verfügung stellt,".3. In § 2 
+wird Nr. 2 Buchstabe b) wie folgt ersetzt:"b) oder statutarisch angestellte Arbeitnehmer bei 
+folgenden autonomen öffentlichen Unternehmen: der öffentlich-rechtlichen Aktiengesellschaft Proximus 
+und der öffentlich-rechtlichen Aktiengesellschaft bpost,".4. In § 2 wird Nr. 2 Buchstabe 
+c) wie folgt ersetzt:"c) oder Arbeitnehmer bei der öffentlich-rechtlichen Aktiengesellschaft 
+HR Rail mit Ausnahme der Arbeitnehmer, die sie der öffentlich-rechtlichen Aktiengesellschaft NGBE und 
+der öffentlich-rechtlichen Aktiengesellschaft Infrabel im Rahmen deren Tätigkeiten als öffentlicher Dienst 
+zur Verfügung stellt,".5. In § 3 Absatz 1 werden zwischen den Wörtern "wird um 2,2 Prozentpunkte" 
+und dem Wort "erhöht" die Wörter "der Gesamtheit der steuerpflichtigen Entlohnungen aller von vorliegendem 
+Paragraphen betroffenen Arbeitnehmer" eingefügt.6. In § 5 Absatz 1 erster Gedankenstrich 
+werden zwischen den Wörtern "mit mindestens zwei Personen" und den Wörtern "geleistet wird" die Wörter 
+"- ohne Berücksichtigung der Studenten, die in Titel VII des Gesetzes vom 3. Juli 1978 über die Arbeitsverträge 
+erwähnt sind, und der Lehrlinge in einer dualen Ausbildung, die in Artikel 1bis des Königlichen Erlasses 
+vom 28. November 1969 zur Ausführung des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 
+28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer erwähnt sind, -" eingefügt.7. 
+Paragraph 5 Absatz 1 wird durch einen Gedankenstrich mit folgendem Wortlaut ergänzt:"- und 
+sofern diese Unternehmen den betreffenden Arbeitnehmern in der vorerwähnten Schicht einen Bruttostundenlohn 
+- vor Einbehaltung der persönlichen Sozialversicherungsbeiträge - von mindestens 13,75 EUR zahlen oder 
+zuerkennen."8. Paragraph 5 Absatz 2 wird wie folgt ersetzt:"Wenn diese Unternehmen 
+einen in vorhergehendem Absatz erwähnten Bruttostundenlohn - vor Einbehaltung der persönlichen Sozialversicherungsbeiträge 
+- von mindestens 13,75 EUR zahlen oder zuerkennen, wird davon ausgegangen, dass sie eine Schichtzulage 
+wie in § 1 Absatz 1 erwähnt gezahlt oder zuerkannt haben."9. Paragraph 5 Absatz 7 wird 
+wie folgt ersetzt:"Der in Absatz 1 dritter Gedankenstrich und in Absatz 2 erwähnte Betrag ist 
+gebunden an den abgeflachten Gesundheitsindex erwähnt in Artikel 2 § 2 des Königlichen Erlasses 
+vom 24. Dezember 1993 zur Ausführung des Gesetzes vom 6. Januar 1989 zur Wahrung der Konkurrenzfähigkeit 
+des Landes, bestätigt durch das Gesetz vom 30. März 1994 zur Festlegung sozialer Bestimmungen, des Monats 
+September 2017 (103,42). Dieser Betrag wird am 1. Januar jeden Jahres angepasst, indem er mit der Zahl 
+des abgeflachten Gesundheitsindexes des Monats September des Jahres vor dem Jahr, in dem der neue Betrag 
+anwendbar sein wird, multipliziert wird und durch die Zahl des abgeflachten Gesundheitsindexes des Monats 
+September 2017 geteilt wird. Der so erhaltene Betrag wird auf den höheren oder niedrigeren Eurocent abgerundet, 
+je nachdem ob die Ziffer der Tausendstel 5 erreicht oder nicht."10. In § 5 Absatz 7, 
+so wie er durch Nr. 9 ersetzt worden ist, werden im zweiten Satz die Wörter "Dieser Betrag" durch die 
+Wörter "Dieser gegebenenfalls in Anwendung von Absatz 8 erhöhte Betrag" ersetzt.11. In § 
+5 werden zwischen Absatz 7 und Absatz 8, der Absatz 10 wird, zwei Absätze mit folgendem Wortlaut eingefügt:"Der 
+König kann durch einen im Ministerrat beratenen Erlass den in Absatz 1 dritter Gedankenstrich und in 
+Absatz 2 erwähnten Betrag erhöhen. Diese Erhöhung darf jeweils 10 Prozent des in Absatz 1 dritter Gedankenstrich 
+und in Absatz 2 erwähnten Betrags nicht übersteigen, gegebenenfalls nach Anwendung von Erhöhungen, die 
+in Ausführung des vorliegenden Absatzes bereits durchgeführt und gemäß nachstehendem Absatz bestätigt 
+worden sind.Der König reicht bei der Abgeordnetenkammer, wenn sie versammelt ist, unverzüglich 
+und sonst, sobald die nächste Sitzungsperiode eröffnet ist, einen Gesetzentwurf ein zur Bestätigung der 
+Erlasse zur Ausführung von vorhergehendem Absatz. Es wird davon ausgegangen, dass diese Erlasse nicht 
+wirksam geworden sind, wenn sie nicht binnen zwölf Monaten nach dem Datum ihrer Veröffentlichung im Belgischen 
+Staatsblatt durch Gesetz bestätigt worden sind."Art. 6 - Artikel 2757 Absatz 
+2 Buchstabe b) desselben Gesetzbuches, eingefügt durch das Gesetz vom 17. Mai 2007, ersetzt durch das 
+Gesetz vom 26. Dezember 2015 und abgeändert durch das Gesetz vom 18. Dezember 2016, wird wie folgt ersetzt:"b) 
+Arbeitgeber von Arbeitnehmern, die den paritätischen Kommissionen und Unterkommissionen unterstehen, 
+die in Artikel 1 Nr. 1 Buchstabe a) bis einschließlich s) des Königlichen Erlasses vom 18. Juli 
+2002 zur Einführung von Maßnahmen zur Förderung der Beschäftigung im nichtkommerziellen Sektor 
+aufgezählt sind, einschließlich der sozialen Werkstätten erwähnt in vorerwähntem Artikel 1 Nr. 
+1 Buchstabe a) bis s) und der beschützten Werkstätten beziehungsweise "maatwerkbedrijven",".Art. 
+7 - Die Artikel 4 und 5 Nr. 1 bis 4 sind auf die ab dem 1. Januar 2017 gezahlten oder zuerkannten Entlohnungen 
+anwendbar.Artikel 5 Nr. 5 bis 9 ist auf die ab dem 1. Januar 2018 gezahlten oder zuerkannten 
+Entlohnungen anwendbar.Artikel 6 ist für die ab dem 1. April 2016 gezahlten oder zuerkannten 
+Entlohnungen wirksam.KAPITEL 3 - Bestätigung Königlicher ErlasseArt. 8 - Bestätigt 
+werden mit Wirkung am Datum ihres Inkrafttretens:1. der Königliche Erlass vom 10. Dezember 
+2017 zur Abänderung des KE/EStGB 92 hinsichtlich des Berufssteuervorabzugs,2. der Königliche 
+Erlass vom 25. März 2018 zur Abänderung der Anlage 3 zum KE/EStGB 92,3. der Königliche Erlass 
+vom 7. Dezember 2018 zur Abänderung des KE/EStGB 92 hinsichtlich des Berufssteuervorabzugs,4. 
+der Königliche Erlass vom 21. Dezember 2018 zur Ausführung von Artikel 12 § 3 Absatz 2 des Gesetzes 
+vom 18. Juli 2018 zur Belebung der Wirtschaft und zur Stärkung des sozialen Zusammenhalts,5. 
+die Artikel 3, 4, 6 und 7 des Königlichen Erlasses vom 28. Januar 2019 über die Ausführung des Registrierungs-, 
+Hypotheken- und Kanzleigebührengesetzbuches und die Führung der Register in den Kanzleien der Gerichtshöfe 
+und Gerichte.KAPITEL 4 - Verschiedene AbänderungenArt. 9 - In Artikel 38 § 
+1 Absatz 1 Nr. 24 des Einkommensteuergesetzbuches 1992, eingefügt durch das Gesetz vom 21. Dezember 2007 
+und abgeändert durch die Gesetze vom 24. Juli 2008, 22. Dezember 2008 und 30. Juli 2013, werden die Wörter 
+"2.755 EUR" durch die Wörter "2.756 EUR" ersetzt.Art. 10 - Artikel 14526 desselben 
+Gesetzbuches, wieder aufgenommen durch das Gesetz vom 10. August 2015 und abgeändert durch die Gesetze 
+vom 18. Dezember 2015, 18. Dezember 2016, 17. Dezember 2017 und 26. März 2018, wird wie folgt abgeändert:1. 
+In § 3 Absatz 3 Nr. 2 Buchstabe c) werden die Wörter "zum Zeitpunkt der Kapitaleinlage" aufgehoben.2. 
+In § 3 Absatz 3 Nr. 2 Buchstabe d) werden die Wörter "zum Zeitpunkt der Kapitaleinlage" aufgehoben.3. 
+In § 5 Absatz 8 werden die Wörter "Absatz 2 und 3 Nr. 2 Buchstabe b)" durch die Wörter "Absatz 
+2 und 3 Nr. 2 Buchstabe b) bis d)" ersetzt.4. In § 5 wird Absatz 10 wie folgt ersetzt:"Wird 
+eine der in § 3 Absatz 3 Nr. 2 Buchstabe b) bis d) erwähnten Bedingungen nicht während achtundvierzig 
+Monaten nach der Einzahlung der Aktien oder Anteile der Gesellschaft eingehalten, wird die Gesamtsteuer 
+in Bezug auf die Einkünfte des Besteuerungszeitraums, in dem festgestellt wird, dass diese Bedingung 
+nicht eingehalten wird, um einen Betrag erhöht, der so viele Male ein Achtundvierzigstel der Steuerermäßigung 
+beträgt, die gemäß § 1 tatsächlich für diese Aktien, Anteile oder Anlageinstrumente gewährt 
+wurde, wie ganze Monate ab dem Datum, an dem die Bedingung nicht eingehalten wird, bis zum Ende des Zeitraums 
+von achtundvierzig Monaten übrig bleiben."Art. 11 - Artikel 14527 desselben 
+Gesetzbuches, wieder aufgenommen durch das Gesetz vom 26. März 2018 und abgeändert durch das Gesetz vom 
+15. April 2018, wird wie folgt abgeändert:1. In § 2 Absatz 5 Nr. 2 Buchstabe c) werden 
+die Wörter "zum Zeitpunkt der Kapitaleinlage" aufgehoben.2. In § 2 Absatz 5 Nr. 2 Buchstabe 
+d) werden die Wörter "zum Zeitpunkt der Kapitaleinlage" aufgehoben.3. In § 4 Absatz 
+5 werden die Wörter "und 5 Nr. 2 Buchstabe b)" durch die Wörter "und 5 Nr. 2 Buchstabe b) bis d)" ersetzt.4. 
+In § 4 wird Absatz 7 wie folgt ersetzt:"Wird eine der in § 2 Absatz 5 Nr. 2 Buchstabe 
+b) bis d) erwähnten Bedingungen nicht während achtundvierzig Monaten nach der Einzahlung der Aktien oder 
+Anteile der Gesellschaft eingehalten, wird die Gesamtsteuer in Bezug auf die Einkünfte des Besteuerungszeitraums, 
+in dem festgestellt wird, dass diese Bedingung nicht eingehalten wird, um einen Betrag erhöht, der so 
+viele Male ein Achtundvierzigstel der Steuerermäßigung beträgt, die gemäß § 1 tatsächlich 
+für diese Aktien, Anteile oder Anlageinstrumente gewährt wurde, wie ganze Monate ab dem Datum, an dem 
+die Bedingung nicht eingehalten wird, bis zum Ende des Zeitraums von achtundvierzig Monaten übrig bleiben."Art. 
+12 - In Artikel 178 § 2 Absatz 3 desselben Gesetzbuches, zuletzt abgeändert durch das Gesetz vom 
+25. Dezember 2017, werden die Wörter "38 § 1 Absatz 1 Nr. 6 Buchstabe a)" durch die Wörter "38 
+§  1 Absatz 1 Nr. 14 Buchstabe a)" ersetzt.Art. 13 - In Artikel 185bis § 1 desselben 
+Gesetzbuches, ersetzt durch das Gesetz vom 18. Dezember 2015, werden die Wörter "nur in Bezug auf den 
+Gesamtbetrag der erhaltenen ungewöhnlichen oder freiwilligen Vorteile und der nicht als Werbungskosten 
+abzugsfähigen Ausgaben und Kosten, die keine Wertminderungen und Minderwerte auf Aktien oder Anteile 
+sind, steuerpflichtig" durch die Wörter "nur steuerpflichtig in Bezug auf den Gesamtbetrag der erhaltenen 
+ungewöhnlichen oder freiwilligen Vorteile und der nicht als Werbungskosten abzugsfähigen Ausgaben und 
+Kosten, die keine Wertminderungen und Minderwerte auf Aktien oder Anteile sind und keine in Artikel 198/1 
+erwähnten überschüssigen Fremdkapitalkosten, die auch nicht als Werbungskosten gelten, sind" ersetzt.Art. 
+14 - In Artikel 230 Absatz 1 Nr. 3 Buchstabe b) desselben Gesetzbuches, ersetzt durch das Gesetz vom 
+7. Dezember 2006 und abgeändert durch die Gesetze vom 13. Dezember 2012 und 21. Juli 2017, werden im 
+zweiten Gedankenstrich die Wörter "der Belgischen Technischen Zusammenarbeit" durch die Wörter "Enabel, 
+Belgische Entwicklungsagentur" ersetzt.Art. 15 - Artikel 526 § 2 Absatz 4 desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 27. Dezember 2004, ersetzt durch das Gesetz vom 27. Dezember 
+2005 und abgeändert durch das Gesetz vom 18. Dezember 2015, wird wie folgt ersetzt:"Absatz 
+2 ist ebenfalls auf Steuerpflichtige anwendbar, für die die Steuer gemäß Artikel 243/1 berechnet 
+wird, wobei die Anwendung der vorerwähnten Artikel 14517 bis 14520 
+nur beantragt werden kann, wenn die Hypothekenanleihe den in Artikel 243/1 Nr. 2 erwähnten Bedingungen 
+entspricht."Art. 16 - Artikel 9 ist ab dem Steuerjahr 2020 anwendbar.Die Artikel 
+10 und 11 werden wirksam ab dem Steuerjahr 2020.Artikel 12 ist auf die ab dem 1. Januar 2018 
+gezahlten oder bewilligten Entschädigungen anwendbar.Artikel 13 ist ab dem Steuerjahr 2020 
+anwendbar, das sich auf einen Besteuerungszeitraum bezieht, der frühestens am 1. Januar 2019 beginnt.Artikel 
+14 wird wirksam mit 1. Januar 2018.Artikel 15 wird wirksam ab dem Steuerjahr 2018.KAPITEL 
+5 - Schuldner des MobiliensteuervorabzugsArt. 17 - Artikel 262 des Einkommensteuergesetzbuches 
+1992, zuletzt abgeändert durch das Gesetz vom 11. Januar 2019, wird wie folgt ersetzt:"Art. 
+262 - § 1 - Der Mobiliensteuervorabzug wird geschuldet von Steuerpflichtigen, die der Steuer der 
+juristischen Personen unterliegen und Einkünfte aus Kapitalvermögen und beweglichen Gütern und in Artikel 
+90 Absatz 1 Nr. 6 und 11 erwähnte Einkünfte beziehen, die entweder zuerkannt oder ausgeschüttet wurden, 
+wenn es sich um Einkünfte belgischer Herkunft handelt, oder in Belgien eingenommen oder bezogen wurden, 
+wenn es sich um Einkünfte ausländischer Herkunft handelt:- ohne dass gemäß den geltenden 
+Gesetzes- und Verordnungsbestimmungen ein Mobiliensteuervorabzug einbehalten oder gezahlt wurde- 
+und in dem Maße, wie gemäß den geltenden Gesetzes- und Verordnungsbestimmungen ein Mobiliensteuervorabzug 
+geschuldet wird. § 2 - In Abweichung von Artikel 261 wird der Mobiliensteuervorabzug 
+von den Empfängern nachstehender Einkünfte geschuldet:1. in dem Maße, wie gemäß 
+den geltenden Gesetzes- und Verordnungsbestimmungen ein Mobiliensteuervorabzug geschuldet wird, Einkünfte 
+aus Kapitalvermögen und beweglichen Gütern und in Artikel 90 Nr. 6 und 11 erwähnte Einkünfte ausländischer 
+Herkunft, die von Steuerpflichtigen bezogen werden, die der Steuer der juristischen Personen unterliegen, 
+wobei diese Einkünfte ohne Beteiligung eines in Belgien ansässigen Vermittlers im Ausland eingenommen 
+oder bezogen wurden,2. Einkünfte aus der Vermietung beweglicher Güter, die aus der Vermietung 
+von Hausrat hervorgehen, der in möblierten Wohnungen, Zimmern oder Appartements vorhanden ist, Einkünfte 
+aus Untervermietung, Abtretung eines Mietvertrags und Überlassung eines Nutzungsrechts wie in Artikel 
+90 Nr. 5 erwähnt und Erträge aus der Verpachtung des Jagd-, Fischerei- und Vogelfangrechts, wenn diese 
+Einkünfte von den in Artikel 220 erwähnten juristischen Personen oder von Gebietsfremden bezogen werden,3. 
+Einkünfte aus Kapitalvermögen und beweglichen Gütern, Lose in Bezug auf Anleihepapiere und in Artikel 
+90 Absatz 1 Nr. 11 erwähnte Einkünfte, für die der Vorabzug dem Empfänger der Einkünfte unberechtigterweise 
+erstattet wurde oder die unrechtmäßig unter Vorabzugsbefreiung bezogen wurden:a) aufgrund 
+einer unrichtigen Bescheinigungb) oder auf kollektiven oder individuellen Sparkonten, die den 
+in Artikel 21 Absatz 1 Nr. 8 festgelegten Bedingungen nicht entsprechen,4. in Artikel 19 § 
+1 Absatz 1 Nr. 4 erwähnte Einkünfte, wenn sie ausländischer Herkunft sind, und Einkünfte aus festverzinslichen 
+Wertpapieren ausländischer Herkunft, die von Steuerpflichtigen bezogen werden, die der Steuer der juristischen 
+Personen unterliegen, wenn die Wertpapiere, die diese Einkünfte erzeugen, vor dem Fälligkeitsdatum der 
+Einkünfte veräußert werden,5. Einkünfte aus Kapitalvermögen und beweglichen Gütern ausländischer 
+Herkunft, Einkünfte ausländischer Herkunft erwähnt in Artikel 90 Nr. 6 und 11 oder Einkünfte erwähnt 
+in Artikel 261 Absatz 2:- die aufgrund von Artikel 261 Absatz 1 Nr. 2 Buchstabe b) in Belgien 
+eingenommen oder bezogen wurden, ohne dass ein Mobiliensteuervorabzug einbehalten wurde, oder- 
+die aufgrund von Artikel 261 Absatz 1 Nr. 2 Buchstabe c) von der festen Niederlassung im Ausland eines 
+Kreditinstituts, einer Börsengesellschaft beziehungsweise einer zugelassenen Verrechnungs- oder Liquidationseinrichtung, 
+das/die in Belgien ansässig ist, bezogen wurden,6. Dividenden ausländischer Herkunft, die ohne 
+Beteiligung eines in Belgien ansässigen Vermittlers im Ausland von einem in Belgien ansässigen Steuerpflichtigen 
+vereinnahmt oder bezogen wurden, dessen Gesellschaftszweck ausschließlich oder hauptsächlich in 
+der Verwaltung und Anlage von Geldern besteht, die mit dem Ziel gesammelt werden, gesetzliche oder ergänzende 
+Pensionen auszuzahlen."Art. 18 - Artikel 263 Absatz 2 desselben Gesetzbuches, zuletzt abgeändert 
+durch das Gesetz vom 26. Dezember 2015, wird wie folgt ersetzt:"Er regelt die Ausführung von 
+Artikel 262 § 2 Nr. 3 im Falle von Einkünften, die unrechtmäßig unter Vorabzugsbefreiung 
+auf kollektiven oder individuellen Sparkonten, die den in Artikel 21 Nr. 8 festgelegten Bedingungen nicht 
+entsprechen, bezogen wurden, und bestimmt die Auskünfte, die Institute und Unternehmen, die zur Eröffnung 
+solcher Konten befugt sind, zu diesem Zweck übermitteln müssen."Art. 19 - In Artikel 267 Absatz 
+6 desselben Gesetzbuches, abgeändert durch das Gesetz vom 25. April 2006, werden die Wörter "Artikel 
+262 Nr. 1 bis 5" durch die Wörter "Artikel 262 § 1 und § 2 Nr. 1 bis 4" ersetzt.Art. 
+20 - Die Artikel 17 bis 19 treten am Tag der Veröffentlichung des vorliegenden Gesetzes im Belgischen 
+Staatsblatt in Kraft und sind auf die ab diesem Datum zuerkannten, ausgeschütteten, eingenommenen oder 
+bezogenen Einkünfte anwendbar.KAPITEL 6 - Abänderungen des Gesetzes vom 25. Dezember 2017 zur 
+Reform der GesellschaftssteuerArt. 21 - Artikel 20/1 des Gesetzes vom 25. Dezember 2017 zur 
+Reform der Gesellschaftssteuer, eingefügt durch das Gesetz vom 30. Juli 2018, wird widerrufen.Art. 
+22 - In Artikel 86 Buchstabe B2 desselben Gesetzes, abgeändert durch das Gesetz vom 30. Juli 2018, wird 
+das Wort "20/1," aufgehoben.(...)TITEL 5 - Zoll und Akzisen(...)KAPITEL 
+2 - Abänderungen des Gesetzes vom 21. Dezember 2009 über die Akzisenregelung für alkoholfreie Getränke 
+und KaffeeArt. 29 - In Artikel 21 § 2 Nr. 1 des Gesetzes vom 21. Dezember 2009 über 
+die Akzisenregelung für alkoholfreie Getränke und Kaffee, abgeändert durch die Gesetze vom 17. Juni 2013 
+und 25. April 2014, werden die Wörter "zehn Prozent" durch die Wörter "10 Prozent" und die Wörter "und/oder 
+gelagerten" durch die Wörter ", gelagerten und/oder empfangenen" ersetzt.Art. 30 - In Artikel 
+25 § 2 desselben Gesetzes, eingefügt durch das Gesetz vom 18. Dezember 2015, werden die Wörter 
+" § 1 Buchstabe b) erster Gedankenstrich" durch die Wörter " § 1 Buchstabe b) erster Gedankenstrich 
+und Buchstabe c) erster Gedankenstrich" und die Wörter "bei Eingang" durch die Wörter "bei Einfuhr oder 
+Eingang" ersetzt.Art. 31 - Artikel 30 desselben Gesetzes wird wie folgt abgeändert:1. 
+Das Wort "Waren" wird durch das Wort "Akzisenprodukte" ersetzt.2. Das Wort "Güter" wird durch 
+das Wort "Akzisenprodukte" ersetzt.Art. 32 - In Artikel 33 desselben Gesetzes wird das Wort 
+"Waren" durch das Wort "Akzisenprodukte" ersetzt.KAPITEL 3 - Abänderung des allgemeinen Gesetzes 
+vom 18. Juli 1977 über Zölle und AkzisenArt. 33 - In das allgemeine Gesetz vom 18. Juli 1977 
+über Zölle und Akzisen wird ein Artikel 209/2 folgendem Wortlaut eingefügt:"Art. 209/2 - § 
+1 - Bedienstete der Zoll- und Akzisenverwaltung sind in den Grenzen der Befugnisse, die ihnen durch oder 
+aufgrund des vorliegenden Gesetzes für die Durchführung von Kontrollen im Bereich Zoll und Akzisen erteilt 
+werden, und als Bestandteil solcher Kontrollen ermächtigt, bei der Durchführung einer solchen Kontrolle 
+die Aushändigung von Nachweisen zu verlangen, anhand deren die Identität der kontrollierten Personen 
+festgestellt werden kann.Informationen über die Identität einer in Absatz 1 erwähnten Person 
+werden nicht länger aufbewahrt, als es für die Zwecke, für die sie verarbeitet werden, erforderlich ist, 
+wobei die maximale Aufbewahrungsfrist ein Jahr nach endgültiger Beendigung beziehungsweise Ausschöpfung 
+der gerichtlichen und administrativen Verfahren und Rechtsmittel, die sich aus der Kontrolle einer in 
+Absatz 1 erwähnten betroffenen Person ergeben, nicht überschreiten darf.Die den Bediensteten 
+ausgehändigten Identitätsnachweise dürfen nur während der für die Überprüfung der Identität notwendigen 
+Zeit einbehalten werden und müssen dem Betreffenden unmittelbar danach zurückgegeben werden. 
+§ 2 - Wenn eine in § 1 erwähnte Person sich weigert oder es ihr nicht möglich ist, sich 
+auszuweisen, und auch, wenn ihre Identität zweifelhaft ist, darf sie so lange festgehalten werden, wie 
+es für die Überprüfung ihrer Identität notwendig ist.Der Betreffende wird vorher von dieser 
+Möglichkeit, dass er festgehalten wird, in Kenntnis gesetzt und ihm wird die Möglichkeit gegeben, seine 
+Identität in irgendeiner Weise nachzuweisen.Die Polizeidienste werden unverzüglich über die 
+von den Bediensteten der Zoll- und Akzisenverwaltung vorgenommene Festhaltung benachrichtigt.Unbeschadet 
+der Anwendung von Artikel 34 § 4 des Gesetzes vom 5. August 1992 über das Polizeiamt darf der 
+Betreffende auf keinen Fall länger als zwei Stunden zu dem genannten Zweck festgehalten werden. Die Festhaltung 
+wird darüber hinaus unverzüglich beendet:1. zu dem Zeitpunkt, wo der benachrichtigte Polizeidienst 
+mitteilt, dass er nicht kommen wird oder nicht binnen zwei Stunden nach der Benachrichtigung vor Ort 
+sein wird,2. wenn binnen zwei Stunden nach der Benachrichtigung kein Polizeidienst vor Ort 
+ist.Der Betreffende wird schnellstmöglich den Blicken der Öffentlichkeit entzogen. Bis zum 
+Eintreffen der Polizeibeamten bleibt der Betreffende ständig unter direkter Aufsicht des Zolls. Es ist 
+verboten, den Betreffenden einzusperren oder ihn durch irgendein Mittel irgendwo festzubinden. 
+§ 3 - Die Nichtaushändigung der in § 1 erwähnten Nachweise wird mit einer Geldbuße 
+von 625 bis zu 3.125 EUR geahndet."KAPITEL 4 - Anpassung der Geldbußen im Bereich Akzisen 
+und Einführung der Einziehungvon Fahrzeugen bei der Feststellung eines Verstoßes in Bezug 
+auf die Verwendung von gekennzeichnetem GasölAbschnitt 1 - Abänderungen des ordentlichen Gesetzes 
+vom 16. Juli 1993 zur Vollendung der föderalen StaatsstrukturArt. 34 - In Artikel 393 § 
+1 Absatz 3 des ordentlichen Gesetzes vom 16. Juli 1993 zur Vollendung der föderalen Staatsstruktur, ersetzt 
+durch das Programmgesetz vom 19. Dezember 2014, werden die Wörter "gegen das vorliegende Gesetz" durch 
+die Wörter "gegen vorliegendes Buch" ersetzt.Art. 35 - In Artikel 395 Absatz 1 desselben Gesetzes, 
+ersetzt durch das Programmgesetz vom 19. Dezember 2014, werden die Wörter "des vorliegenden Gesetzes" 
+durch die Wörter "des vorliegenden Buches" und die Wörter "250 EUR" durch die Wörter "625,00 EUR" ersetzt.Art. 
+36 - In Artikel 396 desselben Gesetzes, wieder aufgenommen durch das Gesetz vom 17. Juni 2013, werden 
+die Wörter "250 EUR" durch die Wörter "625,00 EUR" ersetzt.Art. 37 - In Artikel 397 desselben 
+Gesetzes, abgeändert durch das Gesetz vom 7. März 1996, den Königlichen Erlass vom 20. Juli 2000 und 
+die Gesetze vom 30. Dezember 2002, 22. Dezember 2003 und 27. Dezember 2012, werden die Wörter "gegen 
+vorliegendes Gesetz" durch die Wörter "gegen vorliegendes Buch", die Wörter "des vorliegenden Gesetzes" 
+durch die Wörter "des vorliegenden Buches" und die Wörter "12,50 EUR bis 2.500 EUR" durch die Wörter 
+"625,00 bis zu 3.125,00 EUR" ersetzt.Art. 38 - In Artikel 399 desselben Gesetzes werden die 
+Wörter "gegen vorliegendes Gesetz" durch die Wörter "gegen vorliegendes Buch" ersetzt.(...)Abschnitt 
+5 - Abänderungen des Gesetzes vom 21. Dezember 2009über die Akzisenregelung für alkoholfreie 
+Getränke und KaffeeArt. 42 - In Artikel 30 Absatz 1 des Gesetzes vom 21. Dezember 2009 über 
+die Akzisenregelung für alkoholfreie Getränke und Kaffee werden die Wörter "250 EUR" durch die Wörter 
+"625 EUR" ersetzt.Art. 43 - In Artikel 31 desselben Gesetzes werden die Wörter "250 EUR" durch 
+die Wörter "625 EUR" ersetzt.Abschnitt 6 - Abänderungen des Gesetzes vom 22. Dezember 2009 
+über die allgemeine AkzisenregelungArt. 44 - In Artikel 45 Absatz 1 des Gesetzes vom 22. Dezember 
+2009 über die allgemeine Akzisenregelung, abgeändert durch das Gesetz vom 17. Juni 2013, werden die Wörter 
+"250 EUR" durch die Wörter "625 EUR" ersetzt.Art. 45 - In Artikel 46 desselben Gesetzes werden 
+die Wörter "250 EUR" durch die Wörter "625 EUR" ersetzt.TITEL 6 - Hypothekengesetz vom 16. 
+Dezember 1851Art. 46 - In Artikel 80 Absatz 5 des Hypothekengesetzes vom 16. Dezember 1851, 
+abgeändert durch das Gesetz vom 11. Juli 2018, werden die Wörter "Wohnsitzwahl im Gerichtsbezirk enthalten" 
+durch die Wörter "Wohnsitzwahl in Belgien enthalten, falls der Einsprucherhebende weder seinen Gesellschaftssitz 
+noch einen Betriebssitz noch seinen Wohnsitz in Belgien hat" ersetzt.Art. 47 - Artikel 83 desselben 
+Gesetzes, abgeändert durch die Gesetze vom 10. Oktober 1913, 21. Dezember 2013 und 11. Juli 2018, wird 
+wie folgt abgeändert:1. Absatz 3 wird wie folgt ersetzt:"Alle die Eintragung betreffenden 
+Zustellungen und Notifizierungen ergehen an den Sitz oder Wohnsitz des Eintragenden, falls dieser einen 
+Sitz oder seinen Wohnsitz in Belgien hat."2. Zwischen Absatz 3 und Absatz 4 wird ein Absatz 
+mit folgendem Wortlaut eingefügt:"Wenn der Eintragende keinen Sitz oder Wohnsitz in Belgien 
+hat oder behält, muss er in Belgien einen Wohnsitz wählen."Art. 48 - Artikel 88 desselben Gesetzes, 
+abgeändert durch das Gesetz vom 11. Juli 2018, wird wie folgt abgeändert:1. In Absatz 1 werden 
+die Wörter "im selben Bezirk einen anderen Wohnsitz wählt und angibt" durch die Wörter "in Belgien einen 
+anderen Wohnsitz wählt" ersetzt.2. Der Artikel wird durch einen Absatz mit folgendem Wortlaut 
+ergänzt:"Wenn der Begünstigte einer Eintragung, der keinen Wohnsitz in Belgien gewählt hat, 
+seinen Sitz oder Wohnsitz außerhalb Belgiens verlegt, wählt er oder wählen seine Vertreter in Belgien 
+einen Wohnsitz. Die Absätze 2 und 3 sind anwendbar. In Ermangelung einer Wohnsitzwahl ergehen die Zustellungen 
+und Notifizierungen an den letzten im Register angegebenen Sitz oder Wohnsitz in Belgien."Art. 
+49 - In Artikel 89 desselben Gesetzes werden die Wörter "ihren wirklichen Wohnsitz, den vom Gläubiger 
+gewählten oder für ihn gewählten Wohnsitz im Bezirk" durch die Wörter "ihren Sitz oder Wohnsitz" ersetzt.Art. 
+50 - In Artikel 110 desselben Gesetzes werden die Wörter "an dem Wohnsitz, den sie für die Eintragung 
+gewählt haben," aufgehoben.Art. 51 - In Artikel 115 Absatz 1 Nr. 1 desselben Gesetzes, abgeändert 
+durch das Gesetz vom 5. Juli 1963, werden die Wörter ", wobei pro fünf Myriameter Entfernung zwischen 
+dem gewählten Wohnsitz und dem vom Gericht, das über die Festsetzung des Rangverhältnisses zu erkennen 
+hat, am weitesten entfernten tatsächlichen Wohnsitz des Gläubigers ein Tag hinzugegeben wird" aufgehoben.(...)TITEL 
+8 - Änderungen der Tax-Shelter-Regelung für audiovisuelle Werke und BühnenwerkeArt. 53 - Artikel 
+194ter des Einkommensteuergesetzbuches 1992, ersetzt durch das Gesetz vom 31. Dezember 2003 und abgeändert 
+durch die Gesetze vom 17. Mai 2004, 3. Dezember 2006, 21. Dezember 2009, 17. Juni 2013, 12. Mai 2014, 
+26. Mai 2016 und 25. Dezember 2017, wird wie folgt abgeändert:1. In § 1 Absatz 1 Nr. 
+4 erster Gedankenstrich werden die Wörter "das von den zuständigen Diensten der betreffenden Gemeinschaft 
+zugelassen ist als europäisches Werk wie in der Richtlinie "Fernsehen ohne Grenzen" vom 3. Oktober 1989 
+(89/552/EWG) definiert, abgeändert durch die Richtlinie 97/36/EG vom 30. Juni 1997 und ratifiziert von 
+der Französischen Gemeinschaft am 4. Januar 1999, von der Flämischen Gemeinschaft am 25. Januar 1995 
+und von der Region Brüssel-Hauptstadt am 30. März 1995" durch die Wörter "die von den zuständigen Diensten 
+der betreffenden Gemeinschaft zugelassen sind als europäische Werke im Sinne der Richtlinie über audiovisuelle 
+Mediendienste vom 10. März 2010 (2010/13/EU)" ersetzt.2. Paragraph 3 wird durch vier Absätze 
+mit folgendem Wortlaut ergänzt:"Ein in Betracht kommender Anleger, der in einem Besteuerungszeitraum, 
+für den der in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 33 Prozent festgelegt wird, 
+Summen gezahlt hat, im Besteuerungszeitraum aber unzureichende Gewinne hat, um die in § 2 erwähnte 
+Steuerbefreiung durchzuführen, und für den daher gemäß Absatz 2 die nicht gewährte Steuerbefreiung 
+nacheinander auf die nachfolgenden Besteuerungszeiträume übertragen wird, kann auf die erste Übertragung 
+dieser nicht gewährten Steuerbefreiung einen Multiplikationskoeffizienten anwenden von:- 356/310, 
+wenn der Gesellschaftssteuersatz für den Besteuerungszeitraum, auf den der nicht durchgeführte Teil der 
+Steuerbefreiung übertragen wird, auf 29 Prozent festgelegt wird,- 421/310, wenn der Gesellschaftssteuersatz 
+für den Besteuerungszeitraum, auf den der nicht durchgeführte Teil der Steuerbefreiung übertragen wird, 
+auf 25 Prozent festgelegt wird.Ein in Betracht kommender Anleger, der in einem Besteuerungszeitraum, 
+für den der in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 29 Prozent festgelegt wird, 
+Summen gezahlt hat, im Besteuerungszeitraum aber unzureichende Gewinne hat, um die in § 2 erwähnte 
+Steuerbefreiung durchzuführen, und für den daher gemäß Absatz 2 die nicht gewährte Steuerbefreiung 
+nacheinander auf die nachfolgenden Besteuerungszeiträume übertragen wird, kann auf die erste Übertragung 
+dieser nicht gewährten Steuerbefreiung einen Multiplikationskoeffizienten von 421/356 anwenden, wenn 
+der Gesellschaftssteuersatz für den Besteuerungszeitraum, auf den der nicht durchgeführte Teil der Steuerbefreiung 
+übertragen wird, auf 25 Prozent festgelegt wird.Für den Besteuerungszeitraum, für den der in 
+Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 29 Prozent festgelegt wird, wird der in Absatz 
+1 erwähnte Höchstbetrag auf 850.000 EUR angehoben.Für den Besteuerungszeitraum, für den der 
+in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 25 Prozent festgelegt wird, wird der in 
+Absatz 1 erwähnte Höchstbetrag auf 1.000.000 EUR angehoben."3. [Abänderung des niederländischen 
+Textes von §  6]4. In § 7 wird zwischen Absatz 4 und Absatz 5, der Absatz 6 wird, 
+ein Absatz mit folgendem Wortlaut eingefügt:"Der Gesellschaftssteuersatz, der auf die in Absatz 
+2 erwähnten vorher steuerfreien Gewinne, auf die in Absatz 3 erwähnten zuvor vorläufig von der Steuer 
+befreiten Gewinne und auf den in Absatz 4 erwähnten Restbetrag anwendbar ist, ist der in Artikel 215 
+erwähnte Gesellschaftssteuersatz, der für das Steuerjahr gilt, für das die Steuerbefreiung erstmals beantragt 
+worden ist, gegebenenfalls erhöht um die in Artikel 463bis erwähnte zusätzliche Krisenabgabe."5. 
+In § 7 Absatz 5, der Absatz 6 wird, werden die Wörter "in den drei vorhergehenden Absätzen" durch 
+die Wörter "in den Absätzen 2 bis 4" und die Wörter "auf die geschuldete Steuer" durch die Wörter "auf 
+die gemäß Absatz 5 geschuldete Steuer" ersetzt.Art. 54 - In Artikel 194ter/1 § 
+5 desselben Gesetzbuches, eingefügt durch das Gesetz vom 25. Dezember 2016, werden zwischen Absatz 1 
+und Absatz 2, der Absatz 5 wird, drei Absätze mit folgendem Wortlaut eingefügt:"Für den Besteuerungszeitraum, 
+für den der in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 29 Prozent festgelegt wird, 
+wird der in Absatz 1 erwähnte Höchstbetrag auf 850.000 EUR angehoben.Für den Besteuerungszeitraum, 
+für den der in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 25 Prozent festgelegt wird, 
+wird der in Absatz 1 erwähnte Höchstbetrag auf 1.000.000 EUR angehoben.Gibt es in einem Besteuerungszeitraum 
+keine oder unzureichende Gewinne, um die Summen zur Ausführung des Rahmenübereinkommens zu verwenden, 
+wird die für diesen Besteuerungszeitraum nicht gewährte Steuerbefreiung gemäß Artikel 194ter § 
+3 Absatz 2 bis 4 nacheinander auf die Gewinne der nachfolgenden Besteuerungszeiträume übertragen, ohne 
+dass die in den Artikeln 194ter § 2 und 194ter/1 § 5 erwähnten Steuerbefreiungen, gegebenenfalls 
+zusammen angewandt, pro Besteuerungszeitraum die in Absatz 1 festgelegten Grenzen übersteigen dürfen."Art. 
+55 - Die Artikel 53 und 54 werden wirksam mit 1. Januar 2018 und sind ab dem Steuerjahr 2019 anwendbar, 
+das sich auf einen Besteuerungszeitraum bezieht, der frühestens am 1. Januar 2018 beginnt.(...)Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 28. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-23Numac : 2021031007
+

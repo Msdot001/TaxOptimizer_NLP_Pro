@@ -1,0 +1,308 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/23/2020030808/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030808
+BRUSSELS HOOFDSTEDELIJK GEWEST
+ 23 APRIL 2020. - Besluit nr. 2020/012 van de Brusselse Hoofdstedelijke Regering van bijzondere machten betreffende de invoering van steunmaatregelen voor de erkende dienstenchequeondernemingen en hun werknemers naar aanleiding van de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken 
+Verslag 
+aan de Brusselse Hoofdstedelijke Regering1. ContexteZoals talrijke andere economische 
+sectoren, wordt de sector van de dienstencheques hard getroffen door de gezondheidscrisis door COVID-19.In 
+eerste instantie had de Brusselse Hoofdstedelijke Regering op 19 maart 2020 haar goedkeuring gehecht 
+aan een maatregel ter ondersteuning van de sector van de dienstencheques die voorziet in de betaling 
+van een gewestelijke tussenkomst (14,60 euro) aan de dienstenchequebedrijven, op basis van een referentiemaand, 
+teneinde de door de crisis niet-uitgevoerde prestaties te compenseren, op voorwaarde dat de huishoudhulpen 
+niet op tijdelijke werkloosheid (economische of wegens overmacht) werden gezet. Met dit systeem hadden 
+ondernemingen het loon van de huishoudhulpen kunnen betalen en een kleine marge kunnen overhouden voor 
+andere kosten, op voorwaarde dat de federale overheid aanvaardt om een vermindering van de sociale bijdragen 
+en de werkgeversbijdragen toe te kennen, teneinde het systeem financieel levensvatbaar te maken voor 
+de ondernemingen.Gelet op het negatieve antwoord van de federale overheid en de RSZ diende 
+echter een ander middel te worden gevonden om de ondernemingen, maar ook de huishoudhulpen efficiënt 
+te steunen.In deze context van sterk verlaagde activiteit van de sector, is het noodzakelijk 
+om niet alleen rechtstreekse steun te voorzien voor de betrokken erkende ondernemingen, maar ook de ondernemingen 
+die het wensen financiële steun te verlenen waarmee ze hun huishoudhulpen kunnen steunen, teneinde na 
+de crisis het behoud van hun personeel te verzekeren en aldus de economische schade van deze crisis te 
+beperken. Tot slot wordt voor de ondernemingen die een zekere vorm van activiteit hebben kunnen behouden, 
+soms in zeer moeilijke omstandigheden, een verhoogde gewestelijke tussenkomt voorzien.2. Details 
+van de steunmaatregelenDeze maatregelen kunnen als volgt worden beschreven :a. Rechtstreekse 
+forfaitaire steun aan ondernemingenNet als voor de andere sectoren die getroffen zijn door 
+de COVID-19-crisis en de gevolgen daarvan ondervinden, zal een forfaitaire steun van 4.000 euro toegekend 
+worden aan de dienstenchequebedrijven met maatschappelijke zetel in het Brussels Hoofdstedelijk Gewest. 
+Deze steun wordt automatisch toegekend en zal worden gestort door de uitgiftemaatschappij (Sodexo).b. 
+Steun aan ondernemingen met het oog op de ondersteuning van hun huishoudhulpen die tijdelijk werkloos 
+werden gesteldDe sector van de dienstencheques wordt gekenmerkt door lage lonen (ongeveer 11,65 
+euro bruto per uur, met een minimumloon van 11,07 euro bruto) en een zeer groot aantal halftijdse betrekkingen 
+(80%).Met de tijdelijke werkloosheid kunnen de huishoudhulpen gesteund worden, maar gelet op 
+voornoemde kenmerken zal de zeer grote meerderheid van hen een maandelijks inkomen van minder dan 1.000 
+euro hebben, zonder alle andere voordelen, zoals bijvoorbeeld maaltijdcheques.Er wordt dus 
+voorgesteld om de huishoudhulpen die afhangen van ondernemingen die hun maatschappelijke zetel in het 
+Brussels Hoofdstedelijk Gewest hebben, en die actief zijn in Brussel, onrechtstreeks te steunen ten belope 
+van 2,50 euro bruto per uur tijdelijke werkloosheid. Deze steun zal door Sodexo gestort worden aan de 
+ondernemingen die deze steun zullen vragen om het ten hunne laste te storten aan hun huishoudhulpen. 
+De ondernemingen zullen overigens een bedrijfsvoorheffing van 26,75% moeten afhouden (zoals voor de uitkeringen 
+voor tijdelijke werkloosheid), wat een netto-uitkering van 1,83 euro zal geven.Dat lijkt de 
+meest zekere weg teneinde de richtlijnen van de RVA en van de RSZ na te leven.Aldus verdient 
+een voltijdse huishoudhulp gemiddeld 1.600 euro netto per maand voor een voltijdse betrekking, hetzij 
+38 werkuren per week en een gemiddeld brutoloon van 11,60 euro per uur. Indien de huishoudhulp volledig 
+op economische werkloosheid gezet wordt, mag hij of zij maandelijks hopen op 70% van dit bedrag, hetzij 
+1.120 euro en 115 euro bijkomende premie van de RVA (5,63 euro per werkdag), goed voor 1.235 euro. Er 
+wordt voorgesteld om een extra bedrag van 1,83 euro netto per niet-gepresteerd uur toe te voegen in de 
+vorm van tewerkstellingssteun, hetzij 278 euro, zodat een huishoudhulp uiteindelijk 1.513 euro per maand 
+kan ontvangen.c. Verhoging van de gewestelijke tussenkomstEr wordt voorgesteld om, 
+voor elke dienstencheque waarmee prestaties worden uitbetaald voor de periode van 18 maart 2020 tot 30 
+april 2020 inbegrepen, een verhoogde gewestelijke tussenkomst van 2 euro (16,60 euro in plaats van 14,60 
+euro per cheque) toe te kennen. Deze steun zorgt er overigens voor dat een minimumdienstverlening kan 
+worden gewaarborgd voor personen die het meest afhankelijk zijn van de activiteiten via dienstencheques, 
+met name om hun boodschappen te laten doen.d. Operationalisering van de maatregelenDe 
+vereffening van deze twee steunmaatregelen aan ondernemingen, teneinde zo snel mogelijk en zo efficiënt 
+mogelijk gestort te kunnen worden, zal gebeuren via het uitgiftebedrijf, terwijl de erkende ondernemingen 
+die beschikken over de bankrekeningnummers van de werknemers, alsook over de onmiddellijke kennis van 
+het aantal uren tijdelijke werkloosheid gepresteerd door deze laatsten, de betaling van deze toeslag 
+voor tijdelijke werkloosheid zullen uitvoeren.Het uitgiftebedrijf zal ook overgaan tot de betaling 
+van de verhoogde tussenkomst van 2 euro, maar niet gelijktijdig met de "gewone" tussenkomst, maar wel 
+later via ad hoc betalingen. Deze betalingen werden reeds aanvaard door het uitgiftebedrijf als onderdeel 
+van de in het bestek omschreven opdrachten en vereisen daarom geen formalisering via een aanhangsel (het 
+is hetzelfde betalingsmechanisme als diegene die gebruikt wordt in het kader van de betaling van de bijkomende 
+indexering).3. Advies van de Raad van State en rechtvaardiging1.De Raad van State 
+heeft een eerste kanttekening gemaakt over de tekst, waarin hij van mening is dat de steun aan huishoudhulpen 
+met het oog op de verhoging van hun koopkracht niet kan worden beschouwd als een maatregel voor het behoud 
+van de werkgelegenheid en dat dit buiten de bevoegdheid valt die aan het Gewest is toegekend op grond 
+van artikel 6, § 1, IX, 8 °,  van de bijzondere wet van 8 augustus 1980 en daarbij aangeeft dat 
+hij noch de gelegenheid noch de tijd heeft gehad om te onderzoeken of er via een alternatieve opvatting 
+van de maatregel een rechtsgrondslag voor deze bevoegdheid zou kunnen bestaan (advies 67.237 / 1, blz. 
+7).De Regering is van mening dat een dergelijke alternatieve rechtsgrondslag wel degelijk bestaat 
+voor zover deze maatregel niet op de voorgrond moet worden gesteld als (enkel) een maatregel om de werkgelegenheid 
+te behouden, maar juridisch vooral moet worden beschouwd als een steunmaatregel voor erkende ondernemingen. 
+Het klopt dat huishoudhulpen dankzij deze aanvulling de facto hun koopkracht min of meer behouden zullen 
+zien, maar dit is slechts een indirect gevolg aangezien bedrijven die hen tewerkstellen, besloten zullen 
+hebben gebruik te maken van deze steun die hen wordt aangeboden. In de eerste plaats worden bedrijven 
+aldus geholpen zodat ze de rijkdom van deze sector - met een zeer hoge menselijke dimensie - namelijk 
+haar arbeidskrachten, kunnen ondersteunen.En vanuit dit oogpunt kan de maatregel daarom worden 
+gekwalificeerd als "steun aan de ondernemingen" die volledig binnen het kader van de gewestelijke bevoegdheden 
+op vlak van bedrijfssteun vallen, en van de artikel 6, § 1, IX, 8 °  bedoelde bevoegdheid van 
+de bijzondere wet van 8 augustus 1980, namelijk de dienstencheques.Voor zover nodig kan hier 
+ook de theorie van de impliciete bevoegdheden worden aangewend, die niet expliciet aan een overheidsinstantie 
+worden toegeschreven, maar waarover deze instantie moet beschikken om haar opdrachten te vervullen.Het 
+negatieve antwoord van de federale overheid op de eerste overwogen oplossing enerzijds en anderzijds 
+de specifieke kenmerken van de sector die met name wordt gekenmerkt door een zeer lage voltijdse tewerkstellingsgraad, 
+maakt de maatregel van tijdelijke werkloosheid moeilijk aanvaardbaar voor veel vrouwelijke werknemers. 
+We moeten daarom de bedrijven die hen tewerkstellen helpen om deze crisis zo goed mogelijk te doorstaan. 
+Zo niet, dan zal dit personeel bij hervatting van het werk mogelijk niet opdagen en zal dit een tweede 
+- helaas economisch gezien fundamentelere - crisis veroorzaken : zonder werkend personeel kan het bedrijf 
+niet betaald worden met dienstencheques en kan het derhalve niet overleven op korte termijn. De winstgevendheid 
+van bepaalde dienstenchequeondernemingen was vóór de gezondheidscrisis reeds een gevoelig punt.In 
+dit opzicht kan deze maatregel dus wel degelijk gekwalificeerd worden als steun aan de ondernemingen 
+die onder de gewestelijke bevoegdheden valt.2. De Raad van State heeft vervolgens gevraagd 
+om na te kijken of de steunmaatregel voor de ondernemingen in de vorm van de met 2 euro verhoogde tussenkomst 
+zoals bedoeld in artikel 11 van het ontwerp niet moet worden aangemeld bij de Europese Commissie.In 
+dit verband moet worden verwezen naar het standpunt van de Europese Commissie waarvan België (de toen 
+bevoegde federale overeheid) in 2001 in kennis is gesteld, waarin staat dat de aanmelding moet worden 
+ingetrokken omdat "de buurtdiensten geen deel uitmaken van het handelsverkeer tussen de lidstaten".Bijgevolg 
+werd sindsdien geen melding meer gemaakt door de federale overheid en werd deze logica voortgezet tijdens 
+de regionalisering. Aangezien dit een tijdelijke verhoging is die toegevoegd wordt aan de "voornaamste" 
+gewestelijke tussenkomst, is er geen reden om van dit principiële standpunt af te wijken.3. 
+De Raad van State heeft enkele opmerkingen gemaakt om de tekst aan te passen, dewelke allemaal werden 
+opgevolgd, en ook om een gedetailleerd verslag aan de regering op te stellen waarin de concrete gevolgen 
+van het besluit worden uiteengezet (zie advies, punten, 7, 8, 9, 13, 14), hetgeen gebeurd is.Daarentegen 
+kan het alternatieve criterium dat in de opmerking in punt 10 van het advies wordt voorgesteld, om operationele 
+redenen niet worden gevolgd. De gegevensbank van erkende ondernemingen berust namelijk niet op het criterium 
+van vestigingseenheid (dit blijft een begrip waarover bedrijven kunnen beslissen om het al dan niet aan 
+te geven bij het uitgiftebedrijf volgens hun eigen organisatie), maar wel op het criterium van de maatschappelijke 
+zetel.Ook is aangegeven wanneer de voorwaarden voor artikel 3 van kracht moeten zijn (zie advies, 
+punt 11).Wat betreft de opmerking in punt 16 van het advies, zoals uiteengezet in punt "d) 
+Operationalisering van de maatregelen" van dit verslag, is het niet nodig te voorzien in een aanhangsel 
+bij het bestek.4. De Raad van State maakte ten slotte in punt 12 van zijn advies een opmerking 
+over de naleving van het gelijkheidsbeginsel in verband met de artikelen 4 en 5. Echter, aangezien hierboven 
+is uiteengezet dat deze maatregel in de eerste plaats moet worden opgevat als een steunmaatregel voor 
+de ondernemingen, is de vraag met betrekking tot de eerbiediging van het gelijkheidsbeginsel tussen de 
+werknemers in een situatie van tijdelijke werkloosheid niet meer aan de orde. Het gelijkheidsbeginsel 
+zal uiteraard worden nageleefd wat betreft de erkende ondernemingen die voldoen aan de voorwaarden van 
+dit besluit, dat wil zeggen met maatschappelijke zetel in het Brussels Hoofdstedelijk Gewest. Dezelfde 
+opmerking geldt dus voor punt 15 van het advies.Ter informatie van de Brusselse Hoofdstedelijke 
+Regering:De Minister van Werk,B. CLERFAYT23 APRIL 2020. 
+- Besluit nr. 2020/012 van de Brusselse Hoofdstedelijke Regering van bijzondere machten betreffende de 
+invoering van steunmaatregelen voor de erkende dienstenchequeondernemingen en hun werknemers naar aanleiding 
+van de dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperkenDe 
+Brusselse Hoofdstedelijke Regering,Gelet op artikel 39 van de Grondwet;Gelet op de 
+bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en inzonderheid op artikel 6;Gelet 
+op de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen;Gelet 
+op de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke 
+Regering in het kader van de gezondheidscrisis COVID-19, artikel 2;Gelet op het koninklijk 
+besluit van 12 december 2001 betreffende de dienstencheques, de artikelen 1, 8 en 11;Gelet 
+op de akkoordbevinding van de minister van Begroting;Gelet op artikel 2, § 4 van de 
+ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke Regering 
+in het kader van de gezondheidscrisis COVID-19 waarbij afgezien kan worden van het inwinnen van bepaalde 
+adviezen, behalve die van de Raad van State;Gelet op het advies nr. 67.237/1 van de Raad van 
+State, gegeven op 20 april 2020, in toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de dringende noodzakelijkheid;Overwegende 
+het ministerieel besluit van 18 maart 2020 houdende dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken;Overwegende het ministerieel besluit van 23 maart 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, laatst gewijzigd bij 
+ministerieel besluit van 17 april 2020;Overwegende dat de federale minister van Veiligheid 
+en Binnenlandse Zaken de sluiting heeft bevolen van een groot aantal ondernemingen, die ten gevolge van 
+de gezondheidscrisis COVID-19 grote economische schade lijden;Overwegende dat het, rekening 
+houdend met de hoogdringendheid om de continuïteit van de openbare dienstverlening te waarborgen en zowel 
+de rechtszekerheid als het gelijkheidsbeginsel te vrijwaren, aangewezen is om overeenkomstig artikel 
+2 van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Regering met spoed 
+het advies van de Raad van State in te winnen;Dat deze hoogdringendheid wordt gerechtvaardigd 
+door de noodzaak om de steunmaatregelen, in het kader van de gezondheidscrisis van COVID-19, aan huishoudhulpen 
+en ondernemingen uit de sector van de dienstencheques zeer snel goed te keuren om te vermijden dat hier 
+een sociale crisis aan wordt toegevoegd;Overwegende dat, krachtens artikel 4, § 1 en 
+§ 2, van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse 
+Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19, dit besluit officieel bekrachtigd 
+zal moeten worden door het Brussels Hoofdstedelijk Parlement;Na beraadslaging,Besluit 
+:HOOFDSTUK 1. - Algemene bepalingenArtikel 1. Voor de toepassing van dit besluit 
+wordt verstaan onder:1°  de minister: de minister van de Brusselse Hoofdstedelijke Regering 
+bevoegd voor Werk;2°  het bestuur : het bestuur bepaald in artikel 1, eerste lid, 3bis, van 
+het koninklijk besluit van 12 december 2001 betreffende de dienstencheques;3°  het uitgiftebedrijf: 
+het uitgiftebedrijf bepaald in artikel 1, eerste lid, 4°,  van het koninklijk besluit van 12 december 
+2001 betreffende de dienstencheques;4°  de erkende dienstenchequeonderneming: de onderneming 
+bepaald in artikel 1, eerste lid, 5°,  van het koninklijk besluit van 12 december 2001 betreffende de 
+dienstencheques;5°  het koninklijk besluit van 12 december 2001: het koninklijk besluit van 
+12 december 2001 betreffende de dienstencheques.HOOFDSTUK 2. - Toepassingsgebied, bedrag van 
+de steunen betalingsmodaliteitenAfdeling 1. - Steun voor erkende dienstencheque-ondernemingenArt. 
+2. Het Brussels Hoofdstedelijk Gewest kent via het uitgiftebedrijf automatisch forfaitaire steun onder 
+de vorm van een eenmalig bedrag van 4.000 euro toe aan de erkende dienstencheque-ondernemingen.Art. 
+3. Voor de toepassing van de artikelen 2 tot 10 van dit besluit dient onder "erkende dienstenchequeondernemingen" 
+te worden verstaan: alle erkende dienstenchequeondernemingen zoals bedoeld in artikel 1, 4°,  op voorwaarde 
+dat, op datum van de betaling van de steun in toepassing van dit besluit:1°  hun maatschappelijke 
+zetel in het Brussels Hoofdstedelijk Gewest gelegen is;2°  ze zich niet in een opening van 
+faillissement of in een faillissement bevinden en3°  ze niet het voorwerp uitmaken van een 
+maatregel tot inbeslagname of blokkering van de terugbetaling van hun dienstencheques.Afdeling 
+2. - Steun voor erkende dienstenchequeondernemingenzodat ze hun werknemers kunnen ondersteunenArt. 
+4. Het Brussels Hoofdstedelijk Gewest biedt de erkende dienstenchequeondernemingen de mogelijkheid aan 
+om hun werknemers financieel te ondersteunen tijdens de gezondheidscrisis COVID-19, en dat volgens de 
+volgende regels:1°  Het Brussels Hoofdstedelijk Gewest kent, via het uitgiftebedrijf, onrechtstreeks 
+steun toe met het oog op het behoud van de werkgelegenheid van de werknemers tewerkgesteld bij de in 
+artikel 3 bepaalde erkende dienstenchequeondernemingen, wanneer deze werknemers op tijdelijke werkloosheid 
+werden gezet naar aanleiding van het virus COVID-19 in de loop van de periode van 18 maart 2020 tot en 
+met 30 april 2020;2°  De in 1° bedoelde steun bedraagt voor elke betrokken werknemer 2,50 euro 
+bruto per aangegeven uur tijdelijke werkloosheid.Art. 5. Voor de toepassing van dit besluit 
+dient onder "werknemers" te worden verstaan: alle werknemers tewerkgesteld met een arbeidsovereenkomst 
+met de erkende dienstenchequeondernemingen bepaald in artikel 3, en voor wie dezelfde ondernemingen, 
+tijdens de periode van 1 januari 2019 tot 29 februari 2020, minstens 1 Brusselse dienstencheque terugbetaald 
+hebben gekregen als tegenprestatie voor de uitvoering van arbeidsprestaties door deze werknemers.Art. 
+6. Wanneer de erkende dienstenchequeondernemingen de in artikel 4 bedoelde steun hebben ontvangen, storten 
+zij deze rechtstreeks door aan de in artikel 5 bedoelde werknemers.Deze betaling aan de werknemers 
+gebeurt met inachtneming van de wettelijke verplichtingen die voortvloeien uit de fiscale en sociale 
+wetgevingen.De erkende dienstenchequeonderneming die, hoewel ze de steun ontvangen heeft, het 
+aan de betrokken werknemer verschuldigde bedrag niet betaalt, volledig of gedeeltelijk, riskeert de in 
+artikel 9, § 2, bedoelde sanctie.Afdeling 3. - Indiening van de aanvraag tot vereffeningvan 
+de steun en betalingsmodaliteitenArt. 7.  § 1. De erkende dienstenchequeonderneming 
+zoals bedoeld in artikel 3 dient bij het bestuur, uiterlijk op 15 mei 2020, een aanvraag tot vereffening 
+van de in artikel 4 voorziene steun in, en dat volgens de volgende procedure:1°  De erkende 
+dienstenchequeonderneming vult het elektronische formulier beschikbaar op de website van het bestuur 
+op het adres https://sprb.jotform.com/201053600630841 aan met de volgende gegevens:a) Het erkenningsnummer 
+van de erkende dienstenchequeonderneming;b) De naam van de erkende dienstenchequeonderneming;c) 
+Het adres van haar maatschappelijke zetel gelegen in het Brussels Hoofdstedelijk Gewest;2° 
+ De erkende dienstenchequeonderneming voegt bij haar aanvraag een Excel-bestand beschikbaar op de website 
+van het bestuur toe dat imperatief aangevuld moet worden met de gegevens met betrekking tot:a) 
+De naam, de voornaam, het adres en het INSZ van elke werknemer die in tijdelijke werkloosheid werd gesteld 
+tijdens de periode vermeld in artikel 4, 1° ;b) Het totaal - gedifferentieerd vastgesteld per 
+maand - van de aangegeven uren tijdelijke werkloosheid voor ieder van hen.3°  De erkende dienstenchequeonderneming 
+voegt bij haar aanvraag eveneens de Aangifte sociale risico's (ASR) toe die voor elke werknemer werd 
+ingediend bij de sociale zekerheid, die alle aangegeven uren tijdelijke werkloosheid voor de betreffende 
+periode verenigt.§ 2. In het geval dat de minister de in artikel 10 bedoelde beslissing 
+heeft genomen, indien de erkende dienstenchequeonderneming haar werknemers nog in tijdelijke werkloosheid 
+moet stellen in de loop van de maand mei 2020, dient zij, uiterlijk op 15 juni 2020, een aanvraag tot 
+vereffening in met betrekking tot de in artikel 4 bedoelde steun, en meldt zij aan het bestuur, op het 
+adres https://sprb.jotform.com/201053600630841, de elementen zoals bedoeld in artikel 7, § 1, 
+2°  en 3°,  met de informatie betreffende de maand mei 2020.Art. 8. De betaling van alle steun 
+wordt, in opdracht van het bestuur , uitgevoerd via het uitgiftebedrijf.Het uitgiftebedrijf 
+schrijft een factuur uit "corona: steun aan de ondernemingen" en een andere factuur "corona: steun voor 
+het behoud van de werkgelegenheid" en deelt aan het bestuur een bankrekeningnummer specifiek voor de 
+betaling daarvan mee.Deze facturen dienen aangerekend te worden op de basisallocatie 16.009.38.01.31.31 
+van de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het jaar 2020.Het 
+bestuur deelt de lijst met de begunstigde en betrokken erkende dienstenchequeondernemingen, alsook het 
+bedrag dat hen verschuldigd is, mee aan het uitgiftebedrijf.Het bestuur deelt aan iedere erkende 
+dienstenchequeonderneming het individuele brutobedrag mee dat betaald moet worden aan de werknemers voor 
+wie de aanvraag tot steun werd ingediend, alsook het totale brutobedrag dat de erkende dienstenchequeonderneming 
+zal ontvangen, via het uitgiftebedrijf, om de betaling van de steun voor de betrokken werknemers uit 
+te voeren.Het uitgiftebedrijf stort alle aan de begunstigde erkende dienstenchequeondernemingen 
+verschuldigde bedragen binnen de 7 werkdagen vanaf de ontvangst van de betaling van de in het tweede 
+lid bedoelde facturen.Zodra de betaling van het uitgiftebedrijf ontvangen werd door de erkende 
+dienstenchequeonderneming, en nadat een bedrijfsvoorheffingvan 26,75% werd afgehouden, is zij verplicht 
+de in artikel 4 bedoelde steun uiterlijk binnen de 15 werkdagen aan de begunstigde werknemer te storten.Art. 
+9.  § 1. Bij latere controles controleert het bestuur :1°  of het aantal uren bij het 
+bestuur aangegeven tijdelijke werkloosheid bij de aanvraag tot vereffening effectief overeenkomt met 
+de ontvangen bedragen krachtens de tijdelijke werkloosheid van de werknemers;2°  of de verschuldigde 
+steun die bedoeld is om de werkgelegenheid te behouden voor de betrokken werknemers, correct werd gestort 
+door de erkende dienstenchequeondernemingen die hen tewerkstellen.§ 2. Onverminderd 
+een administratieve boete van 500 euro per werknemer aan wie de verschuldigde steun niet geheel of gedeeltelijk 
+werd betaald, wordt de steun teruggevorderd van de falende erkende dienstenchequeonderneming ten belope 
+van wat niet betaald werd aan de begunstigde werknemer.In dat geval wordt de steun gerecupereerd:- 
+ofwel door het uitgiftebedrijf dat de compensatie toepast tussen de te recupereren steun in toepassing 
+van dit besluit en de aan de erkende dienstenchequeonderneming verschuldigde bedragen in toepassing van 
+het koninklijk besluit van 12 december 2001 betreffende de dienstencheques;- hetzij door het 
+bestuur, door alle rechtsmiddelen.§ 3. Wordt gestraft met een administratieve boete 
+van 50 tot 100 euro, de erkende dienstenchequeonderneming die valse of verkeerde informatie levert in 
+het kader van de aanvraag tot vereffening van de steun bedoeld in artikel 4. Deze boete wordt vermenigvuldigd 
+met het aantal betrokken werknemers.De bepalingen van de ordonnantie van 9 juli 2015 houdende 
+geharmoniseerde regels betreffende de administratieve geldboeten bepaald bij de wetgeving op het vlak 
+van werkgelegenheid en economie zijn van toepassing op de administratieve boetes die door dit besluit 
+worden ingevoerd.§ 4. Artikel 10octies van de wet van 20 juli 2001 tot bevordering van 
+buurtdiensten en buurtbanen is van toepassing op de beslissingen genomen door het bestuur ter uitvoering 
+van dit besluit.Art. 10. In geval de gezondheidscrisis COVID-19 blijft duren met gevolgen voor 
+de Brusselse sector van de dienstencheques, kan de minister beslissen om de in artikel 4, § 1, 
+vermelde periode tot en met 31 mei 2020 te verlengen.HOOFDSTUK 3. - Bepaling tot wijzigingArt. 
+11. In afwijking van artikel 8, § 1, tweede lid, van het koninklijk besluit van 12 december 2001 
+betreffende de dienstencheques wordt het bedrag van de gewestelijke tussenkomst tijdelijk verhoogd met 
+2 euro.Deze verhoging is van toepassing op de dienstencheques terugbetaald aan de erkende dienstenchequeondernemingen 
+zoals bepaald in artikel 1, eerste lid, 5°,  van het koninklijk besluit van 12 december 2001 betreffende 
+de dienstencheques voor de prestaties geleverd tijdens de periode van 18 maart 2020 tot en met 30 april 
+2020.Om de verhoogde tussenkomst te genieten, moeten de dienstencheques uiterlijk voor 30 juni 
+2020 aan het uitgiftebedrijf worden aangeboden voor terugbetaling.De in deze periode geleverde 
+prestaties moeten worden uitgevoerd overeenkomstig de regels voor bescherming en social distancing die 
+zijn vastgesteld bij het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de 
+verspreiding van het coronavirus COVID-19 te beperken.HOOFDSTUK 4. - SlotbepalingenArt. 
+12. Dit besluit treedt in werking op de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Art. 
+13. De minister bevoegd voor Werk wordt belast met de uitvoering van dit besluit.Brussel, 23 
+april 2020.Voor de Brusselse Hoofdstedelijke Regering:De minister-president van het 
+Brussels Hoofdstedelijk Gewest,R. VERVOORTDe minister van de Brusselse Hoofdstedelijke 
+Regeringbevoegd voor Werk,B. CLERFAYT  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030808
+

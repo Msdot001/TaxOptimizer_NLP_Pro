@@ -1,0 +1,125 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/20/2020202428/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-29Numac : 2020202428
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 20 MEI 2020. - Koninklijk besluit tot wijziging van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders houdende de verlenging van de geldigheidsduur van de maaltijdcheques, ecocheques, geschenkcheques en sport/cultuurcheques als gevolg van de COVID-19-pandemie 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke 
+zekerheid der arbeiders, artikel 14, § 2;Gelet op het wet van 29 juni 1981 houdende 
+de algemene beginselen van de sociale zekerheid voor werknemers, artikel 23, tweede lid, gewijzigd bij 
+de wet van 24 juli 2008;Gelet op het het koninklijk besluit van 28 november 1969 tot uitvoering 
+van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke 
+zekerheid der arbeiders, artikel 19, § 2, 14°, ingevoegd bij het koninklijk besluit van 13 juli 
+2007 en gewijzigd bij het koninklijk besluit van 3 juli 2018, artikel 19bis, § 2, 4°, ingevoegd 
+bij het koninklijk besluit van 29 juni 2014, artikel 19ter, § 2, 3°, ingevoegd bij het koninklijk 
+besluit van 30 juni 2016, en 19quater, § 2, 4°, ingevoegd bij het koninklijk besluit van 14 april 
+2009 en gewijzigd bij het koninklijk besluit van 16 december 2015;Gelet op het advies nr. 2.161 
+van de Nationale Arbeidsraad, gegeven op 8 april 2020;Gelet op het advies van de Inspecteur 
+van Financiën, gegeven op17 april 2020;Gelet op de akkoordbevinding van de Minister van Begroting, 
+d.d.22 april 2020;Gelet op de wet van 25 april 1963 betreffende het beheer van de instellingen 
+van openbaar nut voor sociale zekerheid en sociale voorzorg, artikel 15, eerste lid; Gelet 
+op het verzoek om spoedbehandeling, gemotiveerd door de situatie betreffende Covid-19, die niet toelaat 
+om dertig dagen te wachten op het advies van het Beheerscomité van de Rijksdienst voor Sociale Zekerheid;Gelet 
+op het advies van National Arbeidsraad waarin wordt verzocht om de dringende verlenging van de geldigheidsduur 
+van de maaltijdcheques, ecocheques, geschenkcheques en sport/cultuurcheques met een vervaldatum die het 
+onmogelijk maakt of kan maken om ze op te gebruiken vóór die vervaldatum wegens de sluiting van handelszaken, 
+als maatregel om de verspreiding van de coronaviruscrisis tegen te gaan;Gelet op het artikel 
+8 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, 
+is dit besluit vrijgesteld van een regelgevingsimpactanalyse gezien de hoogdringendheid gemotiveerd door 
+de sociaal-economische risico die de pandemie van coronavirus COVID-19 met zich meebrengt;Gelet 
+op het verzoek om spoedbehandeling, gemotiveerd door de situatie met betrekking tot het coronavirus Covid-19, 
+die het niet mogelijk maakt het advies van de afdeling wetgeving van de Raad van State binnen de dertig 
+dagen af te wachten, in het bijzonder rekening houdend met de noodzaak om onverwijld de nodige maatregelen 
+te nemen om de sociaaleconomische gevolgen te verzachten van de noodmaatregelen die zijn genomen om de 
+verspreiding van het coronavirus COVID-19 te beperken;Gelet op het uitbreken van het SARS-CoV-2 
+virus in China in december 2019, waarvan de snelle verspreiding over de wereld niet te voorzien was;Gelet 
+op de afkondiging van de internationale noodsituatie voor de volksgezondheid (PHEIC) door de Wereldgezondheidsorganisatie 
+(WHO) op 30 januari 2020;Gelet op de kwalificatie van het coronavirus COVID-19 als een pandemie 
+door de WHO op 11 maart 2020;Gelet op de verspreiding van het coronavirus COVID-19 op Europees 
+grondgebied, en in België;Gezien de Nationale Veiligheidsraad, uitgebreid met de ministers-presidenten, 
+heeft besloten tot een afzondering vanaf 13 maart 2020, waarbij de meeste bedrijven en handelszaken worden 
+gesloten;Gelet op de regels van de afzondering en sociale afstand die tussen personen moeten 
+worden gerespecteerd, wordt aanbevolen de uitstapjes voor de aankopen van basisbehoeften te beperken, 
+het wordt noodzakelijk geacht om de begunstigden van de cheques de mogelijkheid te bieden om ze op te 
+gebruiken en de ondernemingen, met name de handelszaken en de horecasector, toe te staan om ze aan het 
+einde van de opsluitingsperiode langer dan oorspronkelijk gepland te aanvaarden;Aangezien de 
+geldigheidsduur van een aantal maaltijdcheques, ecocheques, geschenkcheques en sport/cultuurcheques afloopt, 
+zodanig dat ze niet meer kunnen gebruikt worden of niet meer opgebruikt kunnen worden voordat de noodmaatregelen; 
+Gelet op het advies nr. 67.395/1 van de Raad van State, gegeven op 14 mei 2020 in toepassing 
+van artikel 84, § 1, eerste lid, 3°, van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973;Op de voordracht van de Minister van Sociale Zaken, de Ministre van Werk en op het advies 
+van de in Raad vergaderde ministers,Hebben Wij besloten en besluiten Wij : Artikel 
+1. Artikel 19, § 2, 14°, van het koninklijk besluit van 28 november 1969 tot uitvoering van de 
+wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke 
+zekerheid der arbeiders, ingevoegd bij het koninklijk besluit van 13 juli 2007 en gewijzigd bij het koninklijk 
+besluit van 3 juli 2018, wordt aangevuld met een lid, luidende: "De geldigheidsduur van de 
+geschenkcheques, die in maart, april, mei en juni 2020 aflopen, wordt met 6 maanden verlengd. De minister 
+bevoegd voor Sociale Zaken kan bij ministerieel besluit, na advies van de Nationale Arbeidsraad, een 
+periode van meer dan 6 maanden vaststellen.". Art. 2. Artikel 19bis, § 2, 4°, van hetzelfde 
+besluit, laatstelijk, ingevoegd bij het koninklijk besluit van 29 juni 2014, wordt aangevuld met een 
+lid, luidende: "In afwijking van het eerste lid wordt de geldigheidsduur van de elektronische 
+maaltijdcheques, die in maart, april, mei en juni 2020 verlopen, met zes maanden verlengd. De minister 
+bevoegd voor Sociale Zaken kan, na advies van de Nationale Arbeidsraad, bij ministerieel besluit een 
+periode van meer dan 6 maanden vaststellen.".Art. 3. Artikel 19ter, § 2, 3°, van hetzelfde 
+besluit, ingevoegd bij het koninklijk besluit van 30 juni 2016, wordt aangevuld met een lid, luidende: 
+"In afwijking van het eerste lid wordt de geldigheidsduur van sport-/cultuurcheques, waarvan 
+de vervaldatum 30 september 2020 is, verlengd tot en met 31 december 2020.".Art. 4. Artikel 
+19quater, § 2, 4°, van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 14 april 2009 
+en gewijzigd bij het koninklijk besluit van 16 december 2015, wordt aangevuld met een lid, luidende: 
+"De geldigheidsduur van papieren en elektronische ecocheques die in maart, april, mei en juni 
+2020 aflopen, wordt met 6 maanden verlengd. De minister bevoegd voor Sociale Zaken kan bij ministerieel 
+besluit, na advies van de Nationale Arbeidsraad, een periode van meer dan 6 maanden vaststellen.".Art. 
+5. Dit besluit heeft uitwerking met ingang van 1 maart 2020.Art. 6. De minister bevoegd voor 
+Sociale Zaken en de minister bevoegd voor Werk zijn, ieder wat hem betreft, belast met de uitvoering 
+van dit besluit.Gegeven te Brussel, 20 mei 2020. FILIPVan Koningswege : 
+De Minister van Sociale Zaken,M. DE BLOCKDe Minister van Werk,N. 
+MUYLLE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-29Numac : 2020202428
+

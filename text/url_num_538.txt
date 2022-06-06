@@ -1,0 +1,133 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/29/2021031350/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-06Numac : 2021031350
+MINISTERIE VAN DE FRANSE GEMEENSCHAP 
+ 29 APRIL 2021. - Besluit van de Regering van de Franse Gemeenschap betreffende de hulpverlening aan de jeugd in het kader van de tweede golf van de COVID-19-crisis 
+De Regering van de Franse Gemeenschap,Gelet 
+op het decreet van 18 januari 2018 houdende het wetboek van preventie, hulpverlening aan de jeugd en 
+jeugdbescherming, artikel 149, §§ 5, 6 en 9;Gelet op het besluit van de Regering 
+van de Franse Gemeenschap van 5 december 2018 betreffende de algemene voorwaarden voor de erkenning en 
+de subsidiëring van de diensten bedoeld in artikel 139 van het decreet van 18 januari 2018 houdende het 
+wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming; Gelet op het besluit 
+van de Regering van de Franse Gemeenschap van 23 januari 2019 betreffende de subsidies en tegemoetkomingen 
+voor individuele kosten in verband met de tenlasteneming van kinderen en jongeren;Gelet op 
+het besluit van de Regering van de Franse Gemeenschap van 13 februari 2019 tot vaststelling van de voorwaarden 
+voor de erkenning en de toekenning van subsidies voor de vormings- en vervolmakingsdiensten bedoeld in 
+artikel 145 van het decreet van 18 januari 2018 houdende het wetboek van preventie, hulpverlening aan 
+de jeugd en jeugdbescherming;Gelet op de « gendertest » van 7 december 2020 uitgevoerd met 
+toepassing van artikel 4, tweede lid, 1°,  van het decreet van 7 januari 2016 houdende integratie van 
+de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap;Gelet op het 
+advies van de Inspecteur van Financiën, gegeven op 9 december 2020;Gelet op de akkoordbevinding 
+van de Minister van Begroting van 17 december 2020;Gelet op het advies van de Gemeenschapsraad 
+voor preventie, hulpverlening aan de jeugd en jeugdbescherming, gegeven op 25 februari 2021;Gelet 
+op het overleg bedoeld in het kadersamenwerkingsakkoord van 27 februari 2014 tussen de Franse Gemeenschap, 
+het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het inter-Franstalig overleg inzake 
+gezondheid en bijstand aan personen en betreffende gemeenschappelijke principes die op deze laatsten 
+van toepassing zijn;Gelet op het advies nr. 69.046/2 van de Raad van State, gegeven op 13 april 
+2021, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973;Overwegende dat de erkende jeugdhulpdiensten te kampen hadden 
+en nog moeten krijgen tijdens de pandemie die verband houdt met de verspreiding van het coronavirus COVID-19 
+en de daaruit voortvloeiende gezondheidscrisis, met investeringen in persoonlijke en collectieve beschermingsmiddelen; 
+dat deze aankopen tot extra en uitzonderlijke kosten hebben geleid;Overwegende het glijdende 
+mechanisme tussen de personeelskosten en de werkingskosten waarmee rekening kan worden gehouden bij de 
+berekening van de definitieve subsidie voor personeelskosten, voorzien in artikel 56, § 3, van 
+het bovenvermelde besluit van de Regering van 5 december 2018 en de vermelde plafonds voor residentiële 
+en niet-residentiële diensten; Overwegende het glijdende mechanisme tussen de personeelskosten 
+en de werkingskosten waarmee rekening kan worden gehouden bij de berekening van de definitieve subsidie 
+voor personeelskosten, bedoeld in artikel 27, § 3, van het besluit van de Regering van de Franse 
+Gemeenschap van 13 februari 2019 tot vaststelling van de voorwaarden voor de erkenning en de toekenning 
+van subsidies voor de vormings- en vervolmakingsdiensten bedoeld in artikel 145 van het decreet van 18 
+januari 2018 houdende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming en de 
+vermelde plafonds voor de opleidingsdiensten;Overwegende dat het mogelijk moet worden om in 
+de jaren 2020 en 2021 deze plafonds te verhogen om de financiën van erkende jeugdhulpdiensten te verlichten; 
+Overwegende dat deze maatregel terugwerkende kracht tot 1 december 2020 moet hebben om enerzijds 
+deze verschuiving tussen beroeps- en werkingskosten voor het jaar 2020 effectief te maken en anderzijds 
+om erkende diensten in staat te stellen de gemaakte kosten te rechtvaardigen bij de aankoop van beschermingsmiddelen 
+in het kader van de subsidie die hun voor het jaar 2020 wordt toegekend;Overwegende dat als 
+gevolg van de gezondheidsmaatregelen die in het kader van de COVID-19-crisis werden genomen, veel jeugdhulpdiensten 
+kinderen en jongeren die door hen werden opgevangen niet de mogelijkheid hebben kunnen bieden om deel 
+te nemen aan culturele activiteiten, sportactiviteiten of van vakantie te genieten; Overwegende 
+dat de gezondheidsmaatregelen en de soms negatieve effecten die eruit voortvloeien, nog intenser kunnen 
+worden gevoeld door deze jongeren en kinderen;Overwegende dat het noodzakelijk lijkt, wanneer 
+de gezondheidstoestand het toelaat, deze jongeren en kinderen in staat te stellen uit deze crisisroutine 
+te stappen door deel te nemen aan sport- of culturele activiteiten die verschillen van wat zij misschien 
+gewend zijn, en te profiteren van meer "uitzonderlijke" vakantie; Overwegende dat het passend 
+is om de erkende diensten, die als opdracht hebben kinderen en jongeren collectief of individueel op 
+te vangen, hen in zelfstandigheid te begeleiden en de gezingsverzorgers te begeleiden, toe te staan het 
+plafond van het van jaar tot jaar over te dragen bedrag per schijf van 15 erkende situaties, zoals bepaald 
+in artikel 11, § 3, van het voornoemde besluit van de Regering van de Franse Gemeenschap van 23 
+januari 2019, voor het jaar 2020 aanzienlijk te verhogen;Overwegende dat deze maatregel terugwerkende 
+kracht moet hebben tot 1 december 2020 om de overdracht voor het jaar 2020 mogelijk te maken;Op 
+de voordracht van de Minister van Hulpverlening aan de Jeugd; Na beraadslaging,Besluit 
+: Artikel 1. Voor de jaren 2020 en 2021, in afwijking van artikel 56, § 3, tweede lid, 
+van het besluit van de Regering van de Franse Gemeenschap van 5 december 2018 betreffende de algemene 
+voorwaarden voor de erkenning en de subsidiëring van de diensten bedoeld in artikel 139 van het decreet 
+van 18 januari 2018 houdende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming, 
+kunnen de residentiële diensten tot 15% van het bedrag van de subsidie voor werkingskosten halen uit 
+de subsidie voor personeelskosten en dit bedrag gebruiken voor werkingskosten.Voor de jaren 
+2020 en 2021, in afwijking van artikel 56, § 3, derde lid, van het bovenvermelde besluit van de 
+Regering van de Franse Gemeenschap van 5 december 2018, kunnen de niet-residentiële diensten tot 10% 
+van het bedrag van de subsidie voor werkingskosten halen uit de subsidie voor personeelskosten en dit 
+bedrag gebruiken voor werkingskosten.Art. 2. Voor de jaren 2020 en 2021, in afwijking van artikel 
+27, § 3, van het besluit van de Regering van de Franse Gemeenschap van 13 februari 2019 tot vaststelling 
+van de voorwaarden voor de erkenning en de toekenning van subsidies voor de vormings- en vervolmakingsdiensten 
+bedoeld in artikel 145 van het decreet van 18 januari 2018 houdende het wetboek van preventie, hulpverlening 
+aan de jeugd en jeugdbescherming, kunnen de opleidingsdiensten tot 10% van het bedrag van de subsidie 
+voor werkingskosten halen uit de subsidie voor personeelskosten en dit bedrag gebruiken voor werkingskosten.Art. 
+3. Voor het jaar 2020 wordt het bedrag van 5.700 euro bedoeld in artikel 11, § 3, van het besluit 
+van de Regering van de Franse Gemeenschap van 23 januari 2019 betreffende de subsidies en tegemoetkomingen 
+voor individuele kosten in verband met de tenlasteneming van kinderen en jongeren tot 11.400 euro verhoogd. 
+Dit bedrag is uitsluitend bestemd om de dagelijkse onderhouds- en opvoedingskoten van het kind of de 
+jongere te dekken.Art. 4. Dit besluit heeft uitwerking met ingang van 1 december 2020.Art. 
+5. De Minister van Hulpverlening aan de Jeugd is belast met de uitvoering van dit besluit.Brussel, 
+29 april 2021.De Minister-President,P.-Y. JEHOLETDe Minister van Hoger 
+Onderwijs, Onderwijs voor sociale promotie, Universitaire ziekenhuizen,Hulpverlening aan de 
+Jeugd, Justitiehuizen, Jeugd, Sport en Promotie van Brussel,V. GLATIGNY   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-06Numac : 2021031350
+

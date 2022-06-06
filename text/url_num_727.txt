@@ -1,0 +1,186 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/12/02/2021043342/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-12-20Numac : 2021043342
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 2 DECEMBER 2021. - Koninklijk besluit tot wijziging van de bijlagen van het koninklijk besluit van 22 juni 2020 tot uitvoering van de artikelen 93ter tot 93quinquies van het Wetboek van de belasting over de toegevoegde waarde, de artikelen 412bis, 433 tot 435 van het Wetboek van de inkomstenbelastingen 1992, de artikelen 35 tot 37, 43 tot 45 en 47 van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de artikelen 157 tot 159 en 161 van de programmawet (I) van 29 maart 2012, inzake het e-notariaat 
+VERSLAG AAN DE KONINGSire,Het 
+ontwerp van koninklijk besluit dat wij ter ondertekening aan Uwe Majesteit voorleggen, heeft tot doel 
+om de bijlagen van het koninklijk besluit van 22 juni 2020 tot uitvoering van de artikelen 93ter tot 
+93quinquies van het wetboek van de belasting over de toegevoegde waarde, de artikelen 412bis, 433 tot 
+435 van het wetboek van de inkomstenbelastingen 1992, de artikelen 35 tot 37, 43 tot 45 en 47 van het 
+wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de 
+artikelen 157 tot 159 en 161 van de programmawet (i) van 29 maart 2012, inzake het e-notariaat te vervolledigen 
+en bepaalde elementen recht te zetten.In de vier bijlagen wordt de betrokken belastingschuldige 
+geïdentificeerd door zijn naam, voorna(a)m(en) en zijn persoonsnummer. Dit persoonsnummer stemt overeen 
+met het identificatienummer van het Rijksregister of, bij gebrek daaraan, het identificatienummer bij 
+de Kruispuntbank van de Sociale Zekerheid, of, bij gebrek aan zulke nummers, de geboortedatum en het 
+adres. De identificatie aan de hand van het adres werd opnieuw toegevoegd in het kader van het huidig 
+ontwerp van besluit. De opmerking geformuleerd onder het punt 3.2.3 van het advies nr. 70.131/3 
+van de Raad van State wordt niet gevolgd. Hoewel het waar is dat bij toepassing van artikel 22 van de 
+Grondwet, de essentiële elementen van een behandeling van persoonsgegevens moeten worden bepaald in de 
+wet zelf, zijn de categorieën van gegevens te behandelen in het kader van het e-notariaat reeds uitvoerig 
+vastgesteld in de wet, en het adres is slechts een onderdeel van de identificatie van de personen die 
+bij de akte betrokken zijn. Bij wijze van voorbeeld (dat kan worden omgezet in de artikelen 412bis en 
+433 van het Wetboek van de inkomstenbelastingen 1992 en in artikel 93 van het Wetboek van de belasting 
+over de toegevoegde waarde) bepaalt artikel 35, § 1, tweede lid van het Wetboek van de minnelijke 
+en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen dat: "Het bericht vermeldt de 
+identiteit van de afzender, het goed dat het voorwerp is van de akte bedoeld in het eerste lid en de 
+identiteit van de eigenaar of houder van een zakelijk recht op dat goed.", zodat de categorieën van gegevens 
+reeds in de wet zelf worden geïdentificeerd, waarbij het adres enkel een onderdeel is van de identiteit 
+van de eigenaar of de houder van een zakelijk recht.Bovendien, en in de meerderheid van de 
+gevallen, worden de partijen van de akte geïdentificeerd door hun naam, voorna(a)m(en), identificatienummer 
+van het Rijksregister of, bij gebrek van dit laatste, het identificatienummer bij de Kruispuntbank van 
+de Sociale Zekerheid. Het is dus slechts in zeldzame gevallen dat de persoon zal geïdentificeerd worden 
+naast zijn naam en voorna(a)m(en), door zijn geboortedatum en voortaan zijn adres. Dit beantwoordt aan 
+de technische noodzakelijkheid, in de mate dat de toepassing e-notariaat in afwezigheid van een identificatienummer, 
+tegelijkertijd de geboortedatum en het adres nodig heeft om de persoon te kunnen identificeren en te 
+bepalen indien deze belastingschuldige is van schuldvorderingen beheerd door de Algemene Administratie 
+van de Inning en de Invordering.Bovendien bepaalt artikel 6, § 3, van de Verordening 
+(EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van 
+natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer 
+van die gegevens en tot intrekking van Richtlijn 95/46/EG, dat in casu van toepassing is, aangezien de 
+e-notariaatbepalingen beantwoorden aan een opdracht van algemeen belang, bestaande uit de juiste en correcte 
+inning van de openbare schuldvorderingen, dat: "3. De rechtsgrond voor de in lid 1, punten 
+c) en e), bedoelde verwerking moet worden vastgesteld bij:a) Unierecht; ofb) lidstatelijk 
+recht dat op de verwerkingsverantwoordelijke van toepassing is.Het doel van de verwerking wordt 
+in die rechtsgrond vastgesteld of is met betrekking tot de in lid 1, punt e), bedoelde verwerking noodzakelijk 
+voor de vervulling van een taak van algemeen belang of voor de uitoefening van het openbaar gezag dat 
+aan de verwerkingsverantwoordelijke is verleend. Die rechtsgrond kan specifieke bepalingen bevatten om 
+de toepassing van de regels van deze verordening aan te passen, met inbegrip van de algemene voorwaarden 
+inzake de rechtmatigheid van verwerking door de verwerkingsverantwoordelijke; de types verwerkte gegevens; 
+de betrokkenen; de entiteiten waaraan en de doeleinden waarvoor de persoonsgegevens mogen worden verstrekt; 
+de doelbinding; de opslagperioden; en de verwerkingsactiviteiten en -procedures, waaronder maatregelen 
+om te zorgen voor een rechtmatige en behoorlijke verwerking, zoals die voor andere specifieke verwerkingssituaties 
+als bedoeld in hoofdstuk IX. Het Unierecht of het lidstatelijke recht moet beantwoorden aan een doelstelling 
+van algemeen belang en moet evenredig zijn met het nagestreefde gerechtvaardigde doel."Hieruit 
+volgt dat de wettelijke bepalingen de categorieën van gegevens die het onderwerp uitmaken van de behandeling, 
+kunnen, maar niet noodzakelijk moeten bevatten noch moeten ze a fortiori een exhaustieve lijst van alle 
+categorieën van gegevens bevatten. In dit geval kan het adres trouwens niet als een essentieel element 
+worden beschouwd, omdat de identificatie van de partijen als categorie reeds in de wet is hernomen.Een 
+bijkomende voetnoot wordt ingevoegd die bepaalt dat het ondernemingsnummer overeenstemt met het identificatienummer 
+bij de Kruispuntbank van Ondernemingen, en dat, bij gebrek aan zulk nummer, het adres van haar zetel 
+moet worden meegedeeld.Bovendien, en overeenkomstig het principe "only once", wordt de mededeling 
+van zijn hoedanigheid van inwoner of niet-inwoner opgeheven, zowel voor natuurlijke personen als voor 
+rechtspersonen, gegeven dat met de hierboven beschreven gegevens de administratie in staat zou moeten 
+zijn om te bepalen of de belastingschuldige een inwoner of een niet-inwoner is.De vraag tot 
+schrapping van het faxnummer in de formulieren, opgenomen in het punt 19 van het advies 119/2021 van 
+de Gegevensbeschermingsautoriteit, werd volledig gevolgd.In de bijlagen 1, 2 en 4 wordt voortaan 
+in de Nederlandse tekst verduidelijkt bij de aard van de ontworpen akte dat men moet aanduiden "vervreemding", 
+"hypotheekstelling" of "hypotheekstelling bij verwerving".In bijlage 2 (i.e. inlichting dat 
+de door beslag onder derden getroffen sommen en waarden minder bedragen dan het totaal van de sommen 
+verschuldigd aan de ingeschreven schuldeisers en aan de verzetdoende schuldeisers, hierin begrepen de 
+ontvanger) wordt opnieuw een rubriek ingevoegd voor het geval het voor hypotheek vatbare goed wordt belast 
+met een hypotheek (herneemt ook hetgene dat reeds bestond in bijlage 3 bij het ministerieel besluit van 
+28 oktober 2009). Zo moet worden meegedeeld ten voordele van wie en voor welk bedrag een hypotheek wordt 
+genomen en voor welk bedrag de notaris middelen onder zich houdt. Ter identificatie van de schuldeisers 
+volstaat voortaan een identificatie door middel van naam, voornaam, rechtsvorm en adres; het persoonsnummer 
+wordt niet langer gevraagd. De vereenvoudiging ingevoerd bij het koninklijk besluit van 22 
+juni 2020 om voor belastingplichtigen-niet-inwoners-professionelen bij de vervreemding of hypothecaire 
+aanwending van onroerende goederen en vaartuigen slechts één formulier te gebruiken, wordt opgeheven 
+om technische en toepassingsredenen. Bijlage 4 wordt in die zin aangepast dat het voortaan enkel geldt 
+voor onroerende goederen.Dit is, Sire, de draagwijdte van het besluit dat U wordt voorgelegd.Ik 
+heb de eer te zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe 
+dienaar,De Minister van Financiën,V. VAN PETEGHEM2 DECEMBER 
+2021. - Koninklijk besluit tot wijziging van de bijlagen van het koninklijk besluit van 22 juni 2020 
+tot uitvoering van de artikelen 93ter tot 93quinquies van het wetboek van de belasting over de toegevoegde 
+waarde, de artikelen 412bis, 433 tot 435 van het wetboek van de inkomstenbelastingen 1992, de artikelen 
+35 tot 37, 43 tot 45 en 47 van het wetboek van de minnelijke en gedwongen invordering van fiscale en 
+niet-fiscale schuldvorderingen en de artikelen 157 tot 159 en 161 van de programmawet (i) van 29 maart 
+2012, inzake het e-notariaatFILIP, Koning der Belgen, Aan allen die nu zijn en hierna 
+wezen zullen, Onze Groet.Gelet op het Wetboek van de belasting over de toegevoegde waarde, 
+artikelen 93ter, § 4, ingevoegd bij de wet van 8 augustus 1980, vervangen bij de wet van 11 februari 
+2019, opgeheven bij de wet van 13 april 2019 uitgezonderd voor de gevallen bedoeld in artikel 138 van 
+die wet en 93quinquies, § 4, ingevoegd bij de wet van 8 augustus 1980, vervangen bij de wet van 
+11 februari 2019 en opgeheven bij de wet van 13 april 2019 uitgezonderd voor de gevallen bedoeld in artikel 
+138 van die wet;Gelet op het Wetboek van de inkomstenbelastingen 1992, artikelen 412bis, § 
+6, vervangen bij de wet van 23 april 2020, 433, § 4, vervangen bij de wet van 11 februari 2019, 
+opgeheven bij de wet van 13 april 2019 uitgezonderd voor de gevallen bedoeld in artikel 138 van die wet 
+en 435, § 4, vervangen bij de wet van 11 februari 2019 en opgeheven bij de wet van 13 april 2019 
+uitgezonderd voor de gevallen bedoeld in artikel 138 van die wet;Gelet op de programmawet (I) 
+van 29 maart 2012, artikelen 157, § 6, vervangen bij de wet van 23 april 2020 en 157/1, § 
+6, ingevoegd bij de wet van 23 april 2020;Gelet op het Wetboek van de minnelijke en gedwongen 
+invordering van fiscale en niet-fiscale schuldvorderingen, ingevoerd door de wet van 13 april 2019, artikelen 
+35, § 4, 37, § 4 en 43, § 6;Gelet op het koninklijk besluit van 22 juni 
+2020 tot uitvoering van de artikelen 93ter tot 93quinquies van het Wetboek van de belasting over de toegevoegde 
+waarde, de artikelen 412bis, 433 tot 435 van het Wetboek van de inkomstenbelastingen 1992, de artikelen 
+35 tot 37, 43 tot 45 en 47 van het Wetboek van de minnelijke en gedwongen invordering van fiscale en 
+niet-fiscale schuldvorderingen en de artikelen 157 tot 159 en 161 van de programmawet (I) van 29 maart 
+2012, inzake het e-notariaat;Gelet op het advies nr. 119/2021 van de Gegevensbeschermingsautoriteit, 
+gegeven op 8 juli 2021;Gelet op het overleg met de gewesten, gehouden op 25 mei 2021;Gelet 
+op het advies nr. 70.131/3 van de Raad van State, gegeven op 5 oktober 2021 met toepassing van artikel 
+84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overeenkomstig 
+artikel 6, § 2 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve 
+vereenvoudiging is geen impactanalyse vereist;Op de voordracht van de minister van Financiën,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. Bijlage 1 van het koninklijk besluit van 22 juni 
+2020 tot uitvoering van de artikelen 93ter tot 93quinquies van het Wetboek van de belasting over de toegevoegde 
+waarde, de artikelen 412bis, 433 tot 435 van het Wetboek van de inkomstenbelastingen 1992, de artikelen 
+35 tot 37, 43 tot 45 en 47 van het Wetboek van de minnelijke en gedwongen invordering van fiscale en 
+niet-fiscale schuldvorderingen en de artikelen 157 tot 159 en 161 van de programmawet (I) van 29 maart 
+2012, inzake het e-notariaat wordt vervangen door de bijlage 1 van het huidige besluit.Art. 
+2. Bijlage 2 van het koninklijk besluit van 22 juni 2020 tot uitvoering van de artikelen 93ter tot 93quinquies 
+van het Wetboek van de belasting over de toegevoegde waarde, de artikelen 412bis, 433 tot 435 van het 
+Wetboek van de inkomstenbelastingen 1992, de artikelen 35 tot 37, 43 tot 45 en 47 van het Wetboek van 
+de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de artikelen 
+157 tot 159 en 161 van de programmawet (I) van 29 maart 2012, inzake het e-notariaat wordt vervangen 
+door de bijlage 2 van het huidige besluit.Art. 3. Bijlage 3 van het koninklijk besluit van 
+22 juni 2020 tot uitvoering van de artikelen 93ter tot 93quinquies van het Wetboek van de belasting over 
+de toegevoegde waarde, de artikelen 412bis, 433 tot 435 van het Wetboek van de inkomstenbelastingen 1992, 
+de artikelen 35 tot 37, 43 tot 45 en 47 van het Wetboek van de minnelijke en gedwongen invordering van 
+fiscale en niet-fiscale schuldvorderingen en de artikelen 157 tot 159 en 161 van de programmawet (I) 
+van 29 maart 2012, inzake het e-notariaat wordt vervangen door de bijlage 3 van het huidige besluit.Art. 
+4. Bijlage 4 van het koninklijk besluit van 22 juni 2020 tot uitvoering van de artikelen 93ter tot 93quinquies 
+van het Wetboek van de belasting over de toegevoegde waarde, de artikelen 412bis, 433 tot 435 van het 
+Wetboek van de inkomstenbelastingen 1992, de artikelen 35 tot 37, 43 tot 45 en 47 van het Wetboek van 
+de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de artikelen 
+157 tot 159 en 161 van de programmawet (I) van 29 maart 2012, inzake het e-notariaat wordt vervangen 
+door de bijlage 4 van het huidige besluit.Art. 5. De minister bevoegd voor Financiën is belast 
+met de uitvoering van dit besluit.Gegeven te Brussel, 2 december 2021.FILIPVan 
+Koningswege :De Minister van Financiën,V. VAN PETEGHEM Voor de raadpleging van de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-12-20Numac : 2021043342
+

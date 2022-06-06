@@ -1,0 +1,322 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/22/2020041830/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020041830
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 22 JUNI 2020. - Koninklijk besluit betreffende diverse tijdelijke maatregelen in de werkloosheidsreglementering omwille van het COVID-19-virus en tot wijziging van de artikelen 12 en 16 van het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit 
+VERSLAG AAN DE KONINGSire,Het ontwerpbesluit dat ik de eer heb 
+voor te leggen ter ondertekening aan Uwe Majesteit heeft tot doel te voorzien in afwijkingen op het koninklijk 
+besluit van 25 november 1991 houdende de werkloosheidsreglementering omwille van het COVID-19-virus.In 
+aanvulling op (1) het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures in het kader 
+van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk 
+besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk 
+besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging van de artikelen 
+36sexies, 63bis en 124bis in hetzelfde besluit en (2) het koninklijk besluit van 23 april 2020 tot het 
+tijdelijk versoepelen van de voorwaarden waaronder werklozen, al dan niet met bedrijfstoeslag, kunnen 
+worden tewerkgesteld in vitale sectoren en tot het tijdelijk bevriezen van de degressiviteit van de volledige 
+werkloosheidsuitkeringen, wordt een nieuwe reeks maatregelen genomen om, door het minder complex maken 
+van de regelgeving en automatiseren van de werkprocessen, een snelle betaling van de gerechtigden op 
+uitkeringen als tijdelijk werklozen mogelijk te maken en om de impact van de gezondheidsmaatregelen omwille 
+van het COVID-19-virus voor de volledig werklozen zoveel als mogelijk te neutraliseren.Deze 
+maatregelen zijn opgenomen in de artikelen 1, 2, 3, 4 en 6 van het ontwerpbesluit.Het gaat 
+om het tijdelijk buiten werking stellen van regels inzake de cumulatie van de uitkeringen met bijkomende 
+activiteiten of inkomsten, een verlenging van de termijn waarbinnen een werkloze met behoud van het recht 
+op uitkeringen een zelfstandige activiteit kan uitoefenen met het oog op een vestiging als zelfstandige 
+en een verlenging van de referteperiode waarbinnen de werkloze ten minste 180 activiteitsuren in het 
+kader van een plaatselijk werkgelegenheidsagentschap moet verrichten om van bepaalde vergoedbaarheidsvoorwaarden 
+te worden vrijgesteld.Het ontwerpbesluit voorziet tevens in de tijdelijke invoering van een 
+mogelijkheid voor de uitbetalingsinstelling om, onder bepaalde voorwaarden, het vereenvoudigde aangifteformulier 
+C3.2-WERKNEMER-CORONA, zoals ingevoerd bij artikel 12 van het koninklijk besluit van 30 maart 2020, op 
+een elektronische wijze bij de RVA in te dienen.In artikel 5 van het ontwerpbesluit wordt voor 
+de periode tot en met 31 december 2020 voorzien in een schriftelijke procedure voor het meedelen van 
+de verweermiddelen aan het werkloosheidsbureau door de werknemer aan wie eventueel een beslissing tot 
+uitsluiting van het recht op uitkeringen kan worden opgelegd. Deze procedure vervangt tijdelijk de bestaande 
+procedure van oproeping van de werknemer voor een persoonlijk onderhoud, waarin thans facultatief de 
+mogelijkheid van een schriftelijk verweer is opgenomen.Het voorzien van deze afwijkende regeling 
+tot 31 december 2020 is verantwoord en proportioneel omdat door de gedwongen sluiting van de kantoren 
+van de RVA een achterstand is ontstaan in de behandeling van de verhoren gedurende de drie afgelopen 
+maanden. Deze achterstand kan ook niet op de klassieke wijze worden ingehaald aangezien er duidelijke 
+signalen zijn waaruit blijkt dat de maatregelen tegen de verspreiding van het COVID-19-virus nog gedurende 
+een ruime tijd zullen gehandhaafd blijven. De strikte hygiënemaatregelen en een beperkte capaciteit inzake 
+wachtlokalen en geschikte verhoorruimten zullen een significant vertragend effect hebben op het normale 
+verloop van de verhoren.Door een te verwachten stijging van de volledige werkloosheid wegens 
+de belangrijke impact van de crisis op de economische activiteit en de tewerkstelling, en het aflopen 
+van de maatregelen inzake vereenvoudiging van de aangiften voor de tijdelijk werklozen, moet bovendien 
+rekening gehouden worden met een toename van het aantal uit te nodigen personen.Om aan deze 
+situatie het hoofd te bieden, om niet strikt noodzakelijke persoonlijke contacten te vermijden en vooral 
+om de werkloze niet langer dan nodig in het ongewisse te laten omtrent de uitkomst van een betwisting, 
+is het gedurende een zestal maanden invoeren van een schriftelijk procedure proportioneel in verhouding 
+tot de omstandigheden als gevolg van het COVID-19-virus.Conform het advies 67.582 van 16 juni 
+2018 van de Raad van State zal de RVA in deze schriftelijke procedure voor het beoordelen van het respecteren 
+van de termijnen rekening houden met het feit dat de werkloze deels afhankelijk van de werking van de 
+postdiensten kan zijn, en dat het eventueel als gevolg daarvan laattijdig bezorgen van een vraag om uitstel 
+als een situatie van overmacht moet worden beschouwd.Tenslotte bevat het ontwerpbesluit in 
+artikel 7 een rechtzetting van een materiële vergissing in het koninklijk besluit van 30 maart 2020, 
+waardoor ingevolge artikel 4 van dit koninklijk besluit de tijdelijk werkloze, anders dan bedoeld, met 
+ingang van 1 februari 2020, en niet met ingang van 1 maart 2020, werd vrijgesteld van het gebruik van 
+een controlekaart.Voor het met terugwerkende kracht vrijstellen van de tijdelijk werkloze van 
+het gebruik van een controlekaart voor de maand februari 2020 ontbreekt de ratio legis, aangezien deze 
+maand reeds was verstreken, de controlekaarten reeds bij de uitbetalingsinstellingen waren ingediend 
+en de betaling van de uitkeringen op basis daarvan reeds was verricht.Bovendien zou dergelijke 
+maatregel niet coherent zijn met de artikelen 11 en 13 van het koninklijk besluit van 30 maart 2020, 
+die de werkgever slechts vanaf 1 maart 2020 vrijstellen van de afgifte van een controlekaart aan de werknemer 
+en de inschrijving daarvan in een validatieboek.Door deze rechtzetting wordt de tijdelijk werkloze 
+niet in zijn rechten geschaad, aangezien hij zich lopende de maand februari 2020 al diende te gedragen 
+naar de op dat ogenblik nog bestaande verplichting tot het gebruik van een controlekaart.De 
+rechtzetting vermijdt dat er bij de verificatie van de betalingen van de uitbetalingsinstellingen door 
+de RVA in toepassing van artikel 164 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering 
+verschillen ontstaan doordat de regelgeving voor de te verifiëren maand februari 2020 op het ogenblik 
+van de betaling van de uitkeringen niet meer identiek is aan deze op het ogenblik van het verifiëren 
+van de betaling.Ik heb de eer te zijn,Sire,Van Uwe Majesteit,de 
+zeer eerbiedige en zeer getrouwe dienaar,De Minister van Werk,N. MUYLLERAAD 
+VAN STATEafdeling WetgevingAdvies 67.582/1 van 16 juni 2020 over een ontwerp van 
+koninklijk besluit `betreffende diverse tijdelijke maatregelen in de werkloosheidsreglementering omwille 
+van het COVID-19-virus en tot wijziging van de artikelen 12 en 16 van het koninklijk besluit van 30 maart 
+2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus 
+en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 
+27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering 
+en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit' Op 9 juni 
+2020 is de Raad van State, afdeling Wetgeving, door de Minister van Werk verzocht binnen een termijn 
+van vijf werkdagen een advies te verstrekken over een ontwerp van koninklijk besluit `betreffende diverse 
+tijdelijke maatregelen in de werkloosheidsreglementering omwille van het COVID-19-virus en tot wijziging 
+van de artikelen 12 en 16 van het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures 
+in het kader van tijdelijke werkloosheid omwille van het COVID-19- virus en tot wijziging van artikel 
+10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58,58/3 
+en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot 
+invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit'.Het ontwerp is door 
+de eerste kamer onderzocht op 11 juni 2020. De kamer was samengesteld uit Marnix Van Damme, kamervoorzitter, 
+Wilfried Van Vaerenbergh en Wouter Pas, staatsraden, Michel Tison en Johan Put, assessoren, en Wim Geurts, 
+griffier.Het verslag is uitgebracht door Brecht Steen, eerste auditeur-afdelingshoofd.De 
+overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van 
+Wilfried Van Vaerenbergh, staatsraad. Het advies, waarvan de tekst hierna volgt, is gegeven 
+op 16 juni 2020. 1. Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973, moeten in de adviesaanvraag de redenen worden opgegeven 
+tot staving van het spoedeisende karakter ervan.In het onderhavige geval wordt het verzoek 
+om spoedbehandeling gemotiveerd als volgt :"gelet op het grote aantal uitkeringsaanvragen als 
+tijdelijk werkloze wegens de gezondheidsmaatregelen omwille van het COVID-19-virus;Dat het 
+om die reden en om een snelle betaling van de uitkeringen te kunnen garanderen noodzakelijk is tijdelijk 
+afstand te doen van sommige regelingen inzake de cumulatie van uitkeringen met het uitoefenen van een 
+bijkomstige activiteit of met de ontvangst van een ander inkomen, aangezien deze het aanvragen van de 
+uitkeringen meer complex maken;Dat tevens maatregelen moeten worden genomen om de rechten van 
+de werklozen die zich met een tijdelijk behoud van de uitkering wensen te vestigen als zelfstandige of 
+die activiteiten verrichten voor een plaatselijk werkgelegenheidsagentschap in het licht van de onmogelijkheid 
+om door de beperkende maatregelen nog de door hen beoogde activiteiten uit te oefenen;Dat eveneens, 
+en met respect voor de rechten van de verdediging, moet worden voorzien in een maatregel om de continuïteit 
+van de werking van de Rijksdienst voor Arbeidsvoorziening te garanderen op het vlak van het nemen van 
+beslissingen tot ontzegging, uitsluiting of schorsing van het recht op uitkeringen, nu de daartoe bestaande 
+procedure ingevolge beperkende maatregelen die niet-essentiële verplaatsingen of persoonlijke contacten 
+pogen te vermijden, niet meer kan worden nageleefd of niet meer aangewezen is;Dat inmiddels 
+bijkomende maatregelen om de indiening van de uitkeringsaanvragen als tijdelijk werkloze te faciliteren 
+in ontwikkeling zijn en dat niet voor alle maatregelen de inwerkingtreding zoals door de minister bedoeld 
+coherent is weergegeven in het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures 
+in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 
+10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 
+63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging 
+van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit;Dat het nemen van deze maatregelen 
+dringend is teneinde de betrokken werklozen de nodige rechtszekerheid te bieden;".2. Overeenkomstig 
+artikel 84, § 3, eerste lid, van de wetten op de Raad van State, heeft de afdeling Wetgeving zich 
+moeten beperken tot het onderzoek van de bevoegdheid van de steller van de handeling, van de rechtsgrond 
+alsmede van de vraag of aan de voorgeschreven vormvereisten is voldaan.Strekking en rechtsgrond 
+van het ontwerp3. Het om advies voorgelegde ontwerp van koninklijk besluit strekt ertoe nieuwe 
+tijdelijke maatregelen te nemen met betrekking tot de werkloosheidsreglementering, hoofdzakelijk inzake 
+de tijdelijke werkloosheid. Die maatregelen hebben betrekking op de voorwaarden voor de toekenning, het 
+bedrag en de aanvraag van werkloosheidsuitkeringen, en worden genomen in afwijking van de desbetreffende 
+bepalingen van het koninklijk besluit van 25 november 1991 `houdende de werkloosheidsreglementering' 
+(hierna : werkloosheidsbesluit).Daarnaast beoogt het ontwerp enkele wijzigingen aan te brengen 
+in het koninklijk besluit van 30 maart 2020 `tot aanpassing van de procedures in het kader van tijdelijke 
+werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit 
+van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58,58/3 en 63 van het koninklijk 
+besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging van de artikelen 
+36sexies, 63bis, en 124bis in hetzelfde besluit', waarbij reeds tijdelijke maatregelen inzake tijdelijke 
+werkloosheid werden ingevoerd.4. Rechtsgrond voor het ontwerp wordt geboden door artikel 7, 
+§ 1, derde lid, i), §  1septies, § 1octies en § 2, van de besluitwet van 
+28 december 1944 `betreffende de maatschappelijke zekerheid der arbeiders', waaraan wordt gerefereerd 
+in het eerste lid van de aanhef van het te nemen besluit.Onderzoek van de tekstArtikel 
+55. Artikel 5 van het ontwerp voorziet in een afwijkende regeling voor het verhoor dat wordt 
+geregeld in artikel 144 van het werkloosheidsbesluit. Dat verhoor wordt vervangen door een schriftelijke 
+procedure, voor zover de brief daartoe wordt verstuurd in de periode vanaf de inwerkingtreding van het 
+te nemen besluit tot en met 31 december 2020.5.1. Voor zover moet worden aangenomen dat de 
+ontworpen afwijkende regeling bedoeld is om de gevolgen op te vangen van de maatregelen tot beperking 
+van de verspreiding van het coronavirus COVD-19, kan die afwijkende regeling waarbij tijdelijk de keuzemogelijkheid 
+tussen een mondeling verhoor en een schriftelijk verhoor wordt opgeschort en vervangen door een verplichte 
+schriftelijke procedure, worden gebillijkt in het licht van het grondwettelijke gelijkheidsbeginsel. 
+Er dient dan wel over gewaakt te worden dat die afwijkende regeling niet langer geldt dan noodzakelijk 
+is omwille van de voornoemde reden. Zo rijst de vraag of de duur van de periode waarin de afwijkende 
+regeling geldt, tot en met 31 december 2020, wel proportioneel is, en of niet veeleer voor een temporele 
+toepassing moet worden geopteerd die nauwer aansluit bij de werkelijke duur van de noodzaak aan een afwijkende 
+regeling.5.2. In artikel 5, derde lid, van het ontwerp wordt bepaald dat de vraag om uitstel 
+(van de datum waarop de verweermiddelen uiterlijk moeten worden bezorgd), behoudens overmacht, op het 
+werkloosheidsbureau "moet toekomen uiterlijk de dag voorafgaand aan de datum vastgelegd in de brief". 
+Ermee rekening houdend dat het al dan niet voldoen aan die voorwaarde niet enkel afhangt van het zorgvuldig 
+handelen van de werkloze zelf, maar ook van de wijze waarop de postdiensten zijn georganiseerd, en mede 
+gelet op de relatief korte termijn die in de ontworpen regeling wordt gehanteerd, rijst de vraag of niet 
+beter in een regeling wordt voorzien waarbij de laattijdige bezorging van de vraag om uitstel die voornamelijk 
+te wijten is aan de organisatie van de postdiensten niet tot gevolg heeft dat de vraag om uitstel wordt 
+afgewezen, tenzij een dergelijke situatie als een geval van "overmacht" zou worden beschouwd in de zin 
+van de ontworpen bepaling.Artikelen 7 en 86. Het ontworpen artikel 16, tweede en 
+derde lid, van het koninklijk besluit van 30 maart 2020 (artikel 7 van het ontwerp), in combinatie met 
+artikel 8, zesde lid van het ontwerp, strekt ertoe de temporele toepassing van artikel 4 van dat besluit, 
+dat initieel gold in de periode van 1 februari tot 30 juni 2020, met terugwerkende kracht te verdagen 
+tot 1 maart 2020. Artikel 4 van dat besluit betrof een tijdelijke vrijstelling van de verplichtingen 
+inzake het bezit en het gebruik van de controlekaart bedoeld in artikel 71 van het werkloosheidsbesluit. 
+Aldus wordt met terugwerkende kracht voor de maand februari 2020 aan tijdelijke werklozen een verplichting 
+opgelegd waarvan ze aanvankelijk waren vrijgesteld, hetgeen neerkomt op het retroactief onttrekken van 
+een bepaald voordeel.Terugwerkende kracht van verordenende bepalingen is enkel aanvaardbaar 
+ingeval voor de retroactiviteit een wettelijke machtiging bestaat, de retroactiviteit betrekking heeft 
+op een regeling die met inachtneming van het gelijkheidsbeginsel voordelen toekent of in zoverre de retroactiviteit 
+noodzakelijk is voor de goede werking van de diensten en erdoor, in beginsel, geen verkregen situaties 
+worden aangetast.Daargelaten de vraag in welke mate het zinvol wordt geacht om met terugwerkende 
+kracht een verplichting op te leggen waaraan feitelijk niet meer kan worden voldaan, past de beoogde 
+retroactiviteit in elk geval niet in één van de gevallen waarin terugwerkende kracht kan worden gebillijkt. 
+Er dient bijgevolg te worden afgezien van de terugwerkende kracht van het ontworpen besluit, in de mate 
+ze betrekking heeft op het wijzigen van het temporele toepassingsgebied van artikel 4 van het koninklijk 
+besluit van 30 maart 2020.De griffier,   Wim GeurtsDe voorzitter, Marnix 
+Van Damme22 JUNI 2020. - Koninklijk besluit betreffende diverse tijdelijke 
+maatregelen in de werkloosheidsreglementering omwille van het COVID-19-virus en tot wijziging van de 
+artikelen 12 en 16 van het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures in het 
+kader van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van 
+het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van 
+het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging 
+van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluitFILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de besluitwet van 28 december 
+1944 betreffende de maatschappelijke zekerheid der arbeiders, artikel 7, § 1, derde lid, i, vervangen 
+bij de wet van 14 februari 1961, § 1septies, ingevoegd bij wet van 25 april 2014, § 1octies, 
+ingevoegd bij wet van 25 april 2014, en § 2, laatst gewijzigd bij de wet van 8 april 2003;Gelet 
+op het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;Gelet 
+op het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures in het kader van tijdelijke 
+werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit 
+van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit 
+van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 
+63bis en 124bis in hetzelfde besluit;Gelet op het advies van de inspecteur van Financiën, gegeven 
+op 8 mei 2020;Gelet op de akkoordbevinding van de Minister van Begroting, gegeven op 29 mei 
+2020;Gelet op de wet van 25 april 1963 betreffende het beheer van de instellingen van openbaar 
+nut voor sociale zekerheid en sociale voorzorg, artikel 15;Gelet op advies 67.582/1 van de 
+Raad van State, gegeven op 16 juni 2020, met toepassing van artikel 84, § 1, eerste lid, 3°,  
+van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de hoogdringendheid;Gelet 
+op het grote aantal uitkeringsaanvragen als tijdelijk werkloze wegens de gezondheidsmaatregelen omwille 
+van het COVID-19-virus;Dat het om die reden en om een snelle betaling van de uitkeringen te 
+kunnen garanderen noodzakelijk is tijdelijk afstand te doen van sommige regelingen inzake de cumulatie 
+van uitkeringen met het uitoefenen van een bijkomstige activiteit of met de ontvangst van een ander inkomen, 
+aangezien deze het aanvragen van de uitkeringen meer complex maken;Dat tevens maatregelen moeten 
+worden genomen om de rechten van de werklozen die zich met een tijdelijk behoud van de uitkering wensen 
+te vestigen als zelfstandige of die activiteiten verrichten voor een plaatselijk werkgelegenheidsagentschap 
+te vrijwaren, in het licht van de onmogelijkheid om door de beperkende maatregelen nog de door hen beoogde 
+activiteiten uit te oefenen;Dat eveneens, en met respect voor de rechten van de verdediging, 
+moet worden voorzien in een maatregel om de continuïteit van de werking van de Rijksdienst voor Arbeidsvoorziening 
+te garanderen op het vlak van het nemen van beslissingen tot ontzegging, uitsluiting of schorsing van 
+het recht op uitkeringen, nu de daartoe bestaande procedure ingevolge beperkende maatregelen die niet-essentiële 
+verplaatsingen of persoonlijke contacten pogen te vermijden, niet meer kan worden nageleefd of niet meer 
+aangewezen is;Dat inmiddels bijkomende maatregelen om de indiening van de uitkeringsaanvragen 
+als tijdelijk werkloze te faciliteren in ontwikkeling zijn en dat niet voor alle maatregelen de inwerkingtreding 
+zoals door de minister bedoeld coherent is weergegeven in het koninklijk besluit van 30 maart 2020 tot 
+aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus 
+en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 
+27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering 
+en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit;Dat het nemen 
+van deze maatregelen dringend is teneinde de betrokken werklozen de nodige rechtszekerheid te bieden;Op 
+de voordracht van de Minister van Werk,Hebben Wij besloten en besluiten Wij :Artikel 
+1. In afwijking van artikel 44 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, 
+kan de tijdelijk werkloze voor de periode van 1 februari 2020 tot en met 30 juni 2020, zonder te voldoen 
+aan de voorwaarden van artikel 48, § 1,van hetzelfde koninklijk besluit, met behoud 
+van het recht op uitkeringen op bijkomstige wijze een activiteit uitoefenen, voor zover hij deze bijkomstige 
+activiteit reeds uitoefende in de loop van de drie maanden, gerekend van datum tot datum, voorafgaand 
+aan de eerste dag waarop hij ingevolge het COVID-19-virus tijdelijk werkloos werd gesteld.Art. 
+2. De periode van twaalf maanden bedoeld in artikel 48, § 1bis, eerste lid, van hetzelfde koninklijk 
+besluit, loopt niet tijdens de periode van 1 april 2020 tot en met 30 juni 2020.Art. 3. Voor 
+de toepassing van artikel 79, § 4bis, van hetzelfde koninklijk besluit wordt voor de referteperiode 
+van zes kalendermaanden vóór de maand vanaf dewelke de vrijstelling wordt gevraagd geen rekening gehouden 
+met de maanden maart 2020, april 2020, mei 2020 en juni 2020.Art. 4. In afwijking van artikel 
+130, § 2, van hetzelfde koninklijk besluit, wordt voor de periode van 1 februari 2020 tot en met 
+30 juni 2020 het dagbedrag van de uitkering als tijdelijk werkloze van de werkloze bedoeld in artikel 
+130, § 1, niet verminderd.Art. 5. In afwijking van artikel 144 van hetzelfde koninklijk 
+besluit wordt het verhoor zoals voorzien in dit artikel vervangen door een schriftelijke procedure, voor 
+zover de brief bedoeld in het volgende lid wordt verstuurd in de periode vanaf de datum van de publicatie 
+van dit besluit tot en met 31 december 2020.De directeur verstuurt aan de werknemer een brief 
+met feiten op basis waarvan de beslissing wordt genomen en nodigt de werknemer uit om schriftelijk zijn 
+verweermiddelen te bezorgen, uiterlijk op een datum die ten vroegste de tiende dag na de afgifte van 
+de brief ter post is gesitueerd.De werknemer kan vragen dat deze datum wordt uitgesteld naar 
+een datum die niet verder kan zijn gelegen dan vijftien dagen na de datum vastgelegd in de brief. De 
+vraag tot uitstel moet, behoudens overmacht, uiterlijk toekomen op het werkloosheidsbureau de dag voorafgaand 
+aan de datum vastgelegd in de brief.Het uitstel wordt, behalve in geval van overmacht, slechts 
+eenmaal verleend.In afwijking van dit artikel verstuurt de directeur geen brief naar de werknemer 
+die via zijn uitbetalingsinstelling schriftelijk heeft medegedeeld dat hij niet in zijn verweermiddelen 
+wenst gehoord te worden.Art. 6. Artikel 12 van het koninklijk besluit van 30 maart 2020 tot 
+aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het COVID-19-virus 
+en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 
+27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering 
+en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit, wordt aangevuld met 
+de volgende leden, die luiden als volgt :"De in het eerste lid bedoelde formulieren C3.2-WERKNEMER-CORONA 
+en C3.2-WERKGEVER kunnen op elektronische wijze door de uitbetalingsinstelling aan het hoofdbestuur van 
+deze Rijksdienst of aan het bevoegde werkloosheidsbureau worden bezorgd.De indiening op elektronische 
+wijze van het formulier C3.2-WERKNEMER-CORONA geldt als een door de werkloze of een namens de werkloze 
+door de gemachtigde van de uitbetalingsinstelling ondertekende uitkeringsaanvraag.De uitbetalingsinstelling 
+die het formulier C3.2-WERKNEMER-CORONA door middel van een elektronisch gegevensbestand heeft ingediend, 
+houdt het formulier C3.2-WERKNEMER-CORONA dat de gegevens van dit bestand bevat ter beschikking van de 
+voormelde Rijksdienst en bezorgt dit formulier binnen een door deze te bepalen termijn, doch uiterlijk 
+binnen een termijn van vier maanden ingaande op de eerste dag van de maand volgend op deze waarvoor de 
+uitkeringen worden aangevraagd, aan de Rijksdienst.Een betaling verricht zonder dat de uitbetalingsinstelling 
+het in het vorige lid bedoelde verantwoordingsstuk kan voorleggen, wordt beschouwd als een ten onrechte 
+betaling, waarvoor de uitbetalingsinstelling de last draagt en die door de Rijksdienst bij de uitbetalingsinstelling 
+kan worden teruggevorderd.".Art. 7. Artikel 16, tweede en derde lid, van hetzelfde koninklijk 
+besluit, worden vervangen als volgt :"De artikelen 1, 3, 5, eerste lid, 6, 7, 8, 9, 10 en 12, 
+eerste lid, van dit besluit zijn slechts van toepassing op de aanvraag om, de procedure betreffende en 
+de toekenning van de werkloosheidsuitkeringen die betrekking hebben op de maanden februari tot juni 2020.In 
+afwijking van het eerste lid zijn de artikelen 4, 5, tweede tot vierde lid, 11 en 13 van dit besluit 
+slechts van toepassing vanaf 1 maart 2020 tot en met 30 juni 2020.In afwijking van het eerste 
+lid is het artikel 12, tweede tot vijfde lid, van dit besluit van toepassing vanaf 1 februari 2020.".Art. 
+8. De bepalingen van dit besluit treden in werking en buiten werking als volgt.De artikelen 
+1 en 4 treden in werking op 1 februari 2020 en zijn slechts van toepassing voor de toekenning van de 
+werkloosheidsuitkeringen die betrekking hebben op de maanden februari tot juni 2020.Artikel 
+2 heeft uitwerking met ingang van 1 april 2020.Artikel 3 heeft uitwerking met ingang van 1 
+maart 2020.Artikel 5 treedt in werking de dag waarop dit besluit in het Belgisch Staatsblad 
+wordt bekendgemaakt.De artikelen 6 en 7 hebben uitwerking met ingang van 1 februari 2020.Art. 
+9. De minister bevoegd voor Werk is belast met de uitvoering van dit besluit.Gegeven te Brussel, 
+22 juni 2020. FILIPVan Koningswege :De Minister van Werk,N. MUYLLE 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020041830
+

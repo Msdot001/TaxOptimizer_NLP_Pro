@@ -1,0 +1,873 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/11/07/2021032916/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-23Numac : 2021032916
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 7 NOVEMBER 2019. - Koninklijk besluit tot wijziging van de koninklijke besluiten nrs. 1, 7, 10, 24, 31, 35, 46 en 56 met betrekking tot de belasting over de toegevoegde waarde. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 7 november 2019 tot wijziging 
+van de koninklijke besluiten nrs. 1, 7, 10, 24, 31, 35, 46 en 56 met betrekking tot de belasting over 
+de toegevoegde waarde (Belgisch Staatsblad van 25 november 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN7. NOVEMBER 2019 - Königlicher Erlass zur Abänderung der Königlichen Erlasse 
+Nr. 1, 7, 10, 24, 31, 35, 46 und 56 über die MehrwertsteuerBERICHT AN DEN KÖNIGSire,mit 
+diesem Entwurf eines Königlichen Erlasses wird bezweckt, den Königlichen Erlass Nr. 1 vom 29. Dezember 
+1992 über Maßnahmen im Hinblick auf die Gewährleistung der Zahlung der Mehrwertsteuer abzuändern, 
+was Rechnungsstellungsvorschriften im Rahmen der Sharing Economy und in Bezug auf Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen und elektronische Dienstleistungen an Nichtsteuerpflichtige betrifft. 
+Mit dem Entwurf werden ferner derselbe Königliche Erlass und der Königliche Erlass Nr. 24 vom 29. Dezember 
+1992 über die Zahlung der Mehrwertsteuer in Bezug auf die Pflichten des Konkursverwalters abgeändert. 
+Mit dem Entwurf wird ebenfalls der Königliche Erlass Nr. 7 vom 29. Dezember 1992 über die Einfuhr von 
+Gütern für die Anwendung der Mehrwertsteuer in Bezug auf das Verfahren der passiven Veredelung abgeändert 
+und der Königliche Erlass Nr. 10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung der in den 
+Artikeln 15 § 2 Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Optionen, über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende 
+Erklärungen im Bereich der Mehrwertsteuer wird in Bezug auf selbständige Zusammenschlüsse von Personen, 
+in Bezug auf Abänderungen der Bestimmungen über Sonderregelungen für Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronische Dienstleistungen an Nichtsteuerpflichtige und 
+schließlich in Bezug auf Modalitäten der Option für die Besteuerung im Bereich der Vermietung von 
+naturgemäß unbeweglichen Gütern abgeändert. Mit dem Entwurf wird auch der Königliche Erlass Nr. 
+35 vom 28. Dezember 1999 zur Einführung einer pauschalen Grundlage für die Besteuerung der Gewinnspanne 
+von Reisebüros im Bereich der Mehrwertsteuer abgeändert. Mit dem Entwurf werden außerdem der Königliche 
+Erlass Nr. 46 vom 29. Dezember 1992 über die Erklärung des innergemeinschaftlichen Erwerbs von Fahrzeugen 
+und die Zahlung der diesbezüglich geschuldeten Mehrwertsteuer und der Königliche Erlass Nr. 56 vom 9. 
+Dezember 2009 über die Erstattung der Mehrwertsteuer an Steuerpflichtige, die in einem anderen Mitgliedstaat 
+als dem Mitgliedstaat der Erstattung ansässig sind, in Bezug auf die Ausschlussfrist für die Erstattung 
+der Steuer auf bestimmte, von einem nicht in Belgien ansässigen Steuerpflichtigen bewirkte Umsätze abgeändert. 
+Schließlich werden mit diesem Entwurf technische Anpassungen aufgrund europäischer Rechtsvorschriften 
+am Königlichen Erlass Nr. 31 vom 2. April 2002 über die Modalitäten für die Anwendung der Mehrwertsteuer 
+in Bezug auf Umsätze von nicht in Belgien ansässigen Steuerpflichtigen angebracht.Im Text des 
+Entwurfs ist allen Punkten des Gutachtens Nr. 66.447/1/V des Staatsrates vom 7. August 2019 Rechnung 
+getragen worden.Im Text dieses Entwurfs wird die dritte Empfehlung der Stellungnahme Nr. 160/2019 
+der Datenschutzbehörde vom 27. September 2019 berücksichtigt. Die zweite Empfehlung der Stellungnahme 
+wird durch eine spätere Abänderung des Mehrwertsteuergesetzbuches (nachstehend: "Gesetzbuch") umgesetzt 
+werden. Die beiden anderen Empfehlungen werden nicht befolgt.KAPITEL 1 - Sharing EconomyArtikel 
+1 Der Gesetzgeber hat es möglich gemacht, im Rahmen der Sharing Economy eine begrenzte Tätigkeit 
+mit einem Minimum an Verwaltungsaufwand auszuüben.In Bezug auf die Mehrwertsteuer wurde Artikel 
+50 des Gesetzbuches durch Artikel 40 des Programmgesetzes vom 1. Juli 2016 (Belgisches Staatsblatt vom 
+4. Juli 2016, 2. Ausgabe, deutsche Übersetzung: Belgisches Staatsblatt vom 2. März 2017) um einen Paragraphen 
+4 ergänzt, in dem bestimmt ist, dass steuerpflichtige natürliche Personen, die in der Sharing Economy 
+tätig sind, unter bestimmten Bedingungen nicht für Zwecke der Mehrwertsteuer erfasst werden.Dennoch 
+wäre ein solcher Steuerpflichtiger gemäß Artikel 1 Absatz 1 des Königlichen Erlasses Nr. 1 vom 
+29. Dezember 1992 über Maßnahmen im Hinblick auf die Gewährleistung der Zahlung der Mehrwertsteuer 
+(nachstehend: "Königlicher Erlass Nr. 1") in Ausnahmefällen verpflichtet, für bestimmte Dienstleistungen, 
+die er für private Zwecke natürlicher Personen erbringt, eine Rechnung auszustellen.Ein solcher 
+Steuerpflichtiger wäre jedoch nicht in der Lage, alle in Artikel 5 des Königlichen Erlasses Nr. 1 geforderten 
+Angaben auf dieser Rechnung zu machen, da das Wesen der Vereinfachungsregelung im Rahmen der Sharing 
+Economy darauf beruht, dass die betreffenden Steuerpflichtigen nicht für Zwecke der Mehrwertsteuer erfasst 
+werden. Außerdem widerspricht die Ausstellung von Rechnungen dem Geist der Regelung, der darauf 
+abzielt, die betreffenden Steuerpflichtigen von möglichst vielen administrativen Verpflichtungen zu befreien.Im 
+Rahmen der vorerwähnten Vereinfachung werden in Artikel 50 § 4 des Gesetzbuches erwähnte Steuerpflichtige 
+für Dienstleistungen, die für private Zwecke natürlicher Personen bestimmt sind, daher auch von der Ausstellung 
+von Rechnungen befreit. In Artikel 1 dieses Entwurfs wird Artikel 1 des Königlichen Erlasses Nr. 1 in 
+diesem Sinne um einen neuen Absatz 2 ergänzt.KAPITEL 2 - Auf Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen und elektronische Dienstleistungen an Nichtsteuerpflichtige anwendbare 
+RechnungsstellungsvorschriftenArtikel 2In Artikel 53decies § 1 Absatz 3 des 
+Gesetzbuches, eingefügt durch das Gesetz vom 11. Februar 2019 zur Abänderung des Mehrwertsteuergesetzbuches 
+in Bezug auf die Behandlung von Gutscheinen und die Sonderregelungen für Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronische Dienstleistungen an Nichtsteuerpflichtige (Belgisches 
+Staatsblatt vom 22. Februar 2019, 1. Ausgabe, deutsche Übersetzung: Belgisches Staatsblatt vom 6. März 
+2020) (nachstehend: "Gesetz vom 11. Februar 2019") ist bestimmt, dass die Rechnungsstellung in Bezug 
+auf die in Artikel 58ter und 58quater des Gesetzbuches erwähnten Sonderregelungen den Vorschriften des 
+Mitgliedstaats unterliegt, in dem der Dienstleistungserbringer oder Lieferer, der eine der Sonderregelungen 
+in Anspruch nimmt, für Zwecke der Mehrwertsteuer erfasst ist. Mit dieser neuen Bestimmung wird Artikel 
+219a Absatz 2 Buchstabe b) der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame 
+Mehrwertsteuersystem (nachstehend: "Mehrwertsteuerrichtlinie") umgesetzt.Infolge des Inkrafttretens 
+von Artikel 53decies §  1 Absatz 3 des Gesetzbuches am 1. Januar 2019 ist Belgien nun der zuständige 
+Mitgliedstaat in Bezug auf die Rechnungsstellungsvorschriften für:- Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronische Dienstleistungen, die in Belgien oder in einem 
+anderen Mitgliedstaat stattfinden und von einem in einem Drittland ansässigen Dienstleistungserbringer 
+erbracht werden, der in Belgien die in Artikel 58ter des Gesetzbuches erwähnte Sonderregelung ("Nicht-EU-Regelung") 
+in Anspruch nimmt und daher in Belgien für Zwecke der Mehrwertsteuer erfasst ist,- Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronischen Dienstleistungen, die in einem anderen Mitgliedstaat 
+stattfinden und von einem in Belgien ansässigen Dienstleistungserbringer erbracht werden, der die in 
+Artikel 58quater des Gesetzbuches erwähnte Sonderregelung ("EU-Regelung") in Anspruch nimmt.Diese 
+Zuständigkeit betrifft sowohl die eigentliche Verpflichtung zur Ausstellung einer Rechnung als auch die 
+Festlegung der Angaben, die auf der Rechnung erscheinen müssen. Zu diesem ersten Punkt ist in Artikel 
+53 § 2 Absatz 1 Nr. 1 des Gesetzbuches bestimmt, dass Steuerpflichtige, die Lieferungen von Gütern 
+oder Dienstleistungen an eine nichtsteuerpflichtige juristische Person bewirken, verpflichtet sind, ihrem 
+Vertragspartner eine Rechnung auszustellen.Die Kombination dieser Bestimmungen hat zur Folge, 
+dass ein in Belgien für Zwecke der Mehrwertsteuer erfasster Steuerpflichtiger, der eine der in den Artikeln 
+58ter oder 58quater des Gesetzbuches erwähnten Regelungen in Anspruch nimmt und eine in einem anderen 
+Mitgliedstaat stattfindende Dienstleistung an eine nicht steuerpflichtige juristische Person erbringt, 
+verpflichtet ist, dieser Person eine Rechnung auszustellen, die die in Artikel 5 § 1 des Königlichen 
+Erlasses Nr. 1 erwähnten Pflichtangaben enthält.Eine der in Artikel 5 § 1 Nr. 9 des 
+Königlichen Erlasses Nr. 1 erwähnten Pflichtangaben betrifft die Steuersätze und den Gesamtbetrag der 
+zu zahlenden oder zu berichtigenden Steuern. Diese Bestimmung, obwohl sie streng genommen keine formale 
+Unterscheidung trifft, betraf schon immer die belgischen Mehrwertsteuersätze und die in Rechnung gestellte 
+belgische Mehrwertsteuer. Seit dem Inkrafttreten von Artikel 53decies § 1 Absatz 3 des Gesetzbuches 
+ist Belgien erstmals auch der zuständige Mitgliedstaat in Bezug auf die Rechnungsstellungsvorschriften 
+in einer Situation, in der ein in Belgien für Zwecke der Mehrwertsteuer erfasster Steuerpflichtiger die 
+Mehrwertsteuer eines anderen Mitgliedstaats in Rechnung stellen muss.Der derzeitige Wortlaut 
+von Artikel 5 § 1 Nr. 9 des Königlichen Erlasses Nr. 1 bietet keine eindeutige Garantie dafür, 
+dass der vorerwähnte Fall bereits durch diese Bestimmung abgedeckt ist. Um die Rechtssicherheit so weit 
+wie möglich zu gewährleisten und in diesem besonderen Fall sicherzustellen, dass der Betrag der ausländischen 
+Mehrwertsteuer korrekt auf der von dem in Belgien für Zwecke der Mehrwertsteuer erfassten Steuerpflichtigen 
+ausgestellten Rechnung in Rechnung gestellt wird, wird in Artikel 2 des Entwurfs Artikel 5 § 1 
+Nr. 9 des Königlichen Erlasses Nr. 1 dahingehend abgeändert, dass der Dienstleistungserbringer verpflichtet 
+ist, auf der Rechnung, die er seinem Vertragspartner ausstellt, neben den Steuersätzen und dem Betrag 
+der Mehrwertsteuer auch anzugeben, dass, wenn der betreffende Umsatz in einem anderen Mitgliedstaat der 
+Gemeinschaft stattfindet, sich der anwendbare Satz und die zu zahlende oder zu berichtigende Steuer auf 
+diesen Mitgliedstaat beziehen.Ein einfacher Vermerk des betreffenden Mitgliedstaats auf der 
+Rechnung neben dem gemäß Artikel 5 § 1 Nr. 9 des Königlichen Erlasses Nr. 1 angegebenen 
+Mehrwertsteuersatz und/oder -betrag ist ausreichend (Beispiele: "MwSt.-Satz (Frankreich):", "MwSt.-Betrag 
+(Frankreich)" oder "MwSt.-Betrag: xx,xx € (Frankreich)"). Jede andere Angabe, die es ermöglicht, 
+auf der Rechnung zu erkennen, dass sich der anwendbare Satz oder die geschuldete oder zu berichtigende 
+Mehrwertsteuer auf einen bestimmten Mitgliedstaat bezieht, wird für die Anwendung des neuen Artikels 
+5 § 1 Nr. 9 des Königlichen Erlasses Nr. 1 als ausreichend angesehen.Diese besondere 
+Angabe stellt also keine zusätzliche Angabe als solche dar, sondern lediglich eine Präzisierung der Anwendung 
+der in Artikel 5 § 1 Nr. 9 des Königlichen Erlasses Nr. 1 (Artikel 226 Nr. 9 und 10 der Mehrwertsteuerrichtlinie) 
+erwähnten Pflichtangaben, um einem sehr spezifischen und bisher nicht dagewesenen Fall Rechnung zu tragen 
+(das heißt, wenn der für die Festlegung der Rechnungsstellungsvorschriften zuständige Mitgliedstaat 
+ein anderer ist als der, in dem der Steueranspruch ohne Anwendung einer Umkehrung der Steuerschuldnerschaft 
+entstanden ist). Diese Vorschrift ist daher nicht unvereinbar mit Artikel 273 Absatz 2 der Mehrwertsteuerrichtlinie.KAPITEL 
+3 - Erklärungs- und Zahlungspflichten von KonkursverwalternArtikel 3, 4 und 5In Artikel 
+53undecies des Gesetzbuches, eingefügt durch das Gesetz vom 30. Juli 2018 zur Festlegung verschiedener 
+Bestimmungen im Bereich der Mehrwertsteuer (Belgisches Staatsblatt vom 10. August 2018, deutsche Übersetzung: 
+Belgisches Staatsblatt vom 6. März 2020), ist bestimmt, dass der Konkursverwalter im Rahmen der Konkursliquidation 
+an die Stelle des steuerpflichtigen Konkursschuldners tritt für alle Rechte und Pflichten, die Letzterem 
+durch das Gesetzbuch und seine Ausführungserlasse zuerkannt beziehungsweise auferlegt sind. Hiermit wird 
+verdeutlicht, dass der Konkursverwalter im Rahmen der Konkursliquidation an die Stelle des steuerpflichtigen 
+Konkursschuldners tritt und alle mehrwertsteuerlichen Pflichten erfüllen muss, die normalerweise dem 
+steuerpflichtigen Konkursschuldner selbst obliegen.Zu diesen Pflichten gehören insbesondere 
+die Ausstellung von Rechnungen, die Führung der Rechnungsbücher, die Erstellung der Liste der mehrwertsteuerpflichtigen 
+Kunden, die Aufbewahrung und Übermittlung von Unterlagen und die Einreichung von periodischen Mehrwertsteuererklärungen, 
+mit Ausnahme von Erklärungen, die sich auf die Umsätze des Konkursschuldners vor dem Konkurseröffnungsurteil 
+beziehen und die der Konkursschuldner am Tag dieses Urteils noch nicht eingereicht hatte.Um 
+der Besonderheit der Liquidationstätigkeiten Rechnung zu tragen, wird durch Artikel 3 dieses Entwurfs 
+ein neuer § 8 in Artikel 18 des Königlichen Erlasses Nr. 1 eingefügt, der eine jährliche Mehrwertsteuererklärung 
+für die der Steuer unterliegenden Leistungen vorsieht, die der Konkursverwalter im Bereich der Mehrwertsteuer 
+anstelle des Steuerpflichtigen (Artikel 2 des Gesetzbuches) seit dem Tag des Konkurseröffnungsurteils 
+erbracht haben soll, mit einem angepassten Datum für Einreichung und Zahlung der geschuldeten Mehrwertsteuer.Grundsätzlich 
+ist der Konkursverwalter im Rahmen der Konkursliquidation ab dem Konkurseröffnungsurteil verpflichtet, 
+jährlich eine periodische Mehrwertsteuererklärung einzureichen und zwar spätestens am 28. Februar nach 
+dem Jahr, auf das sie sich bezieht. Die geschuldete Steuer, die aus dieser Erklärung hervorgeht, muss 
+spätestens am 30. April desselben Jahres gezahlt werden. Diese Zahlungsfrist ist notwendig, da die Zahlung 
+über die Freigabe von Beträgen aus der Hinterlegungs- und Konsignationskasse erfolgt, was eine gewisse 
+Zeit in Anspruch nimmt.Die jährliche Periodizität gilt nicht, wenn der Konkursverwalter vom 
+Handelsgericht ermächtigt wurde, nach dem Konkurs die Tätigkeiten des Steuerpflichtigen fortzusetzen 
+(Artikel XX.140 des Wirtschaftsgesetzbuches). In diesem Fall muss der Konkursverwalter die Mehrwertsteuererklärungen 
+gemäß den normalen Regeln einreichen, das heißt mit der gleichen Periodizität wie die Mehrwertsteuererklärungen, 
+die der Steuerpflichtige vor dem Konkurs eingereicht hat.Andererseits muss bei Abschluss des 
+Konkursverfahrens die letzte periodische Mehrwertsteuererklärung (die sich auf den Zeitraum vom 1. Januar 
+des betreffenden Jahres bis zum Urteil zum Abschluss des Konkursverfahrens bezieht) spätestens am letzten 
+Tag des zweiten Monats nach dem Urteil zum Abschluss des Konkursverfahrens eingereicht werden. Die geschuldete 
+Steuer, die aus dieser Erklärung hervorgeht, ist spätestens innerhalb dreier Monate nach Ablauf der Frist 
+für die Einreichung der Erklärung zu entrichten.In Artikel 18 § 4 des Königlichen Erlasses 
+Nr. 1 ist die Einreichung der periodischen Mehrwertsteuererklärung auf elektronischem Weg vorgesehen. 
+Diese Verpflichtung gilt in gleicher Weise für Konkursverwalter im Rahmen der weiter oben erwähnten Verpflichtung 
+zur Einreichung periodischer Mehrwertsteuererklärungen vorbehaltlich der Anwendung von § 5 dieser 
+Bestimmung, wenn sie nicht über die notwendigen computergestützten Mittel verfügen, um dieser Verpflichtung 
+nachzukommen.Mit den Artikeln 4 und 5 des Entwurfs werden die Artikel 1 und 10 des Königlichen 
+Erlasses Nr. 24 vom 29. Dezember 1992 über die Zahlung der Mehrwertsteuer abgeändert, um die praktischen 
+Modalitäten für die Zahlung der von den Konkursverwaltern auf der Grundlage dieser jährlichen Mehrwertsteuererklärung 
+geschuldeten Mehrwertsteuer festzulegen.Der ersten Empfehlung der Stellungnahme Nr. 160/2019 
+der Datenschutzbehörde vom 27. September 2019 in Bezug auf Artikel 53undecies des Gesetzbuches wird nicht 
+gefolgt. Entgegen der ursprünglichen Annahme der Datenschutzbehörde stellt dieser Artikel nämlich nicht 
+die Rechtsgrundlage für die Bestimmungen dieses Entwurfs in Bezug auf die Pflichten des Konkursverwalters 
+dar, so dass die daraus resultierende Empfehlung nicht relevant ist. Wie aus der Präambel des Entwurfs 
+und aus dem Gutachten Nr. 66.447/1/V des Staatsrates vom 7. August 2019 hervorgeht, bilden Artikel 53octies 
+und Artikel 54 des Gesetzbuches die Rechtsgrundlage für diese Bestimmungen.KAPITEL 4 - Passive 
+VeredelungArtikel 6 und 7In Artikel 88 der Mehrwertsteuerrichtlinie heißt es: 
+"Für vorübergehend aus der Gemeinschaft ausgeführte Gegenstände, die wieder eingeführt werden, nachdem 
+sie außerhalb der Gemeinschaft in Stand gesetzt, umgestaltet oder be- oder verarbeitet worden sind, 
+treffen die Mitgliedstaaten Maßnahmen, die sicherstellen, dass die mehrwertsteuerliche Behandlung 
+des fertigen Gegenstands die gleiche ist, wie wenn die genannten Arbeiten in ihrem jeweiligen Gebiet 
+durchgeführt worden wären."Belgien hat eine solche Maßnahme getroffen, indem es in Artikel 
+40 § 1 Nr. 2 Buchstabe b) des Gesetzbuches eine Befreiung von der Mehrwertsteuer eingeführt hat 
+für die Wiedereinfuhr von Gütern, die außerhalb der Gemeinschaft instandgesetzt, umgestaltet oder 
+be- oder verarbeitet worden sind, durch denjenigen, der die Güter aus der Gemeinschaft ausgeführt hat.Die 
+Bedingungen für die Anwendung dieser Befreiung sind in Artikel 41 des Königlichen Erlasses Nr. 7 vom 
+29. Dezember 1992 über die Einfuhr von Gütern für die Anwendung der Mehrwertsteuer (nachstehend: "Königlicher 
+Erlass Nr. 7") festgelegt. Auf der Grundlage von Artikel 41 des Königlichen Erlasses Nr. 7 ist eine in 
+Artikel 40 § 1 Nr. 2 Buchstabe b) des Gesetzbuches erwähnte Wiedereinfuhr teilweise von der Steuer 
+befreit, vorbehaltlich der beiden in Artikel 41 § 4 des Königlichen Erlasses Nr. 7 erwähnten Fälle 
+der vollständigen Befreiung.Konzeptionell führt die Anwendung der derzeitigen Bestimmung zu 
+Situationen, in denen es zu einer Doppelbesteuerung kommen könnte, wenn außerhalb der Gemeinschaft 
+Arbeiten an Gütern durchgeführt werden, die zu diesem Zweck aus Belgien ausgeführt und nach diesen Arbeiten 
+wieder nach Belgien eingeführt werden.Dieses Problem lässt sich anhand des folgenden Beispiels 
+veranschaulichen (enthalten im VSUE-Rundschreiben Nr. 20/2010 vom 26. Februar 2010, Nr. 27, Beispiel 
+3).A, ein in Belgien ansässiger Steuerpflichtiger, der zu Berufszwecken tätig ist, führt Stoffe, 
+die er in Belgien unter Anwendung der Mehrwertsteuer erworben hat, nach China aus, um dort von B Mäntel 
+anfertigen zu lassen. A kauft das Garn, die Knöpfe und das Futter, die für die Anfertigung der Mäntel 
+erforderlich sind, beim chinesischen Händler C und weist diesen an, dieses Bedarfsmaterial dem Werkvertragsarbeiter 
+B zur Verfügung zu stellen.Bei der Wiedereinfuhr hat A keinen Anspruch auf die vollständige 
+Befreiung bei der Einfuhr. B erbringt in der Tat eine Werkvertragsarbeit, die in der Gemeinschaft, das 
+heißt in Belgien, dem Land, in dem der Steuerpflichtige/Dienstleistungsempfänger ansässig ist, 
+stattfindet. Die Dienstleistung wird jedoch von einer damit verbundenen Lieferung von Gütern durch einen 
+Dritten, C, begleitet. Die Voraussetzung für die Einfuhr der Güter unter vollständiger Befreiung von 
+der Mehrwertsteuer gemäß Artikel 41 § 4 Nr. 1 des Königlichen Erlasses Nr. 7 ist daher nicht 
+erfüllt. Außerdem ist die in Artikel 41 § 4 Nr. 2 dieses Königlichen Erlasses vorgesehene 
+vollständige Befreiung von der Mehrwertsteuer nicht anwendbar, da die Werkvertragsarbeit in Belgien der 
+Steuer unterliegt und die damit verbundene Lieferung von Gütern ebenfalls der Steuer unterliegen würde, 
+wenn sie in Belgien stattgefunden hätte.Bei der Einfuhr der Mäntel kann A daher nur eine Teilbefreiung 
+gemäß Artikel 41 § 1 des Königlichen Erlasses Nr. 7 beanspruchen. Artikel 41 § 3 
+desselben Königlichen Erlasses sieht daher in dem weiter oben erwähnten Beispiel vor, dass die geschuldete 
+Steuer auf den Wert der Güter und Arbeiten, die im Ausland geliefert beziehungsweise erbracht werden, 
+erhöht um die Beträge, die noch nicht in diesem Wert enthalten sind und gemäß Artikel 34 § 
+2 des Gesetzbuches in die Besteuerungsgrundlage einzubeziehen sind, und zu dem Satz, der auf die in Belgien 
+eingeführten Güter anwendbar ist, berechnet wird.Dies bedeutet, dass in dem Beispiel die Besteuerungsgrundlage 
+bei der Wiedereinfuhr sowohl den Wert der vom Dienstleistungserbringer B erbrachten Werkvertragsarbeit 
+als auch die damit verbundene Lieferung von Gütern durch den Lieferer C umfasst, erhöht um die noch nicht 
+in diesem Wert enthaltenen Beträge, die gemäß Artikel 34 § 2 des Gesetzbuches in die Besteuerungsgrundlage 
+einbezogen werden müssen.Es ist jedoch anzumerken, dass die vom Dienstleistungserbringer B 
+erbrachte Werkvertragsarbeit gemäß Artikel 21 § 2 des Gesetzbuches als in Belgien stattgefunden 
+gilt, so dass sie auf der Grundlage von Artikel 2 des Gesetzbuches bereits in Belgien besteuert wird.Theoretisch 
+führen die derzeitigen Bestimmungen also in bestimmten Ausnahmefällen, auch wenn es sich natürlich für 
+die Anwendung der Mehrwertsteuer um zwei getrennte Umsätze handelt, zu einer Doppelbesteuerung, in diesem 
+Fall einmal für die Dienstleistung (Werkvertragsarbeit) als solche, die tatsächlich außerhalb der 
+Gemeinschaft erbracht wurde, aber für Zwecke der Mehrwertsteuer als in Belgien stattgefunden gilt, und 
+einmal für die (Wieder-)Einfuhr der Güter nach Belgien, bei der der Wert der vorerwähnten Dienstleistung 
+in die Besteuerungsgrundlage für die Mehrwertsteuer einbezogen wird (Wert der Güter zum Zeitpunkt der 
+Wiedereinfuhr).Auch wenn die betreffende Mehrwertsteuer dann normalerweise für den Steuerpflichtigen, 
+der die Werkvertragsarbeit in Auftrag gibt, vollständig abzugsfähig sein wird, läuft eine solche Situation 
+dem Ziel von Artikel 88 der Mehrwertsteuerrichtlinie zuwider, wonach die Mitgliedstaaten die erforderlichen 
+Maßnahmen ergreifen müssen, um sicherzustellen, dass die mehrwertsteuerliche Behandlung wiedereingeführter 
+Güter derjenigen entspricht, die auf die betreffenden Güter angewandt worden wäre, wenn die Instandsetzungs-, 
+Umgestaltungs- oder Be- oder Verarbeitungsarbeiten im Gebiet der Mitgliedstaaten selbst stattgefunden 
+hätten.In Artikel 7 des vorliegenden Entwurfs wird daher Artikel 41 § 3 des Königlichen 
+Erlasses Nr. 7 dahingehend abgeändert, dass die Besteuerungsgrundlage bei der Wiedereinfuhr nicht mehr 
+alle "im Ausland erbrachten Arbeiten" umfasst, sondern nur noch Dienstleistungen, die gemäß den 
+Artikeln 21 § 2 und 21bis § 2 Nr. 6 Buchstabe c) des Gesetzbuches nicht in der Gemeinschaft 
+stattfinden. Da es sich folglich um Dienstleistungen handelt, die nicht in der Gemeinschaft besteuert 
+werden, kann die Einbeziehung ihres Wertes in die Besteuerungsgrundlage bei der Wiedereinfuhr nicht mehr 
+zu einer Doppelbesteuerung führen.In demselben Artikel 7 wird auch der niederländische Text 
+von Artikel 41 § 4 Nr. 2 des Königlichen Erlasses Nr. 7 abgeändert, indem die Wörter "waren verricht" 
+durch "hadden plaatsgevonden" ersetzt werden. Der erste Ausdruck wurde in der Tat vor der Einführung 
+der neuen Regeln für die Bestimmung des Ortes der Dienstleistung im Jahr 2010 verwendet, als im Falle 
+von Dienstleistungen, die in materiellen Arbeiten an beweglichen Gütern bestanden, gemäß dem früheren 
+Artikel 21 § 3 Nr. 2 Buchstabe a) des Gesetzbuches der Ort, an dem diese Dienstleistungen für 
+Zwecke der Mehrwertsteuer als stattgefunden galten, der Ort war, an dem sich das Gut zum Zeitpunkt, an 
+dem diese Dienstleistung tatsächlich erbracht wurde, befand, unabhängig davon, ob diese Dienstleistungen 
+an einen Steuerpflichtigen ("B2B"-Situation) oder an einen Nichtsteuerpflichtigen ("B2C"-Situation) erbracht 
+wurden. Seit dem 1. Januar 2010 gelten solche Dienstleistungen, die an einen Steuerpflichtigen erbracht 
+werden (B2B-Situation), gemäß Artikel 21 § 2 des Gesetzbuches als dort stattgefunden, wo 
+der Dienstleistungsempfänger ansässig ist. Unter Berücksichtigung der Änderungen der Regeln für die Bestimmung 
+des Ortes der Dienstleistung seit dem 1. Januar 2010 und in Anlehnung an die in Artikel 41 § 4 
+Nr. 1 des Königlichen Erlasses Nr. 7 verwendete Formulierung sollten künftig die Begriffe "hadden plaatsgevonden" 
+verwendet werden. Auf diese Weise wird schließlich auch eine Übereinstimmung zwischen der französischen 
+und der niederländischen Fassung von Artikel 41 § 4 Nr. 2 des Königlichen Erlasses Nr. 7 gewährleistet.Die 
+aktuelle Abänderung des Königlichen Erlasses Nr. 7 wird genutzt, um in Artikel 40 dieses Erlasses einen 
+Verweis auf eine veraltete Regelung anzupassen. In Artikel 40 § 1 des Königlichen Erlasses Nr. 
+7 heißt es in Bezug auf das für die Rückführung ausgeführter Waren geltende Zollverfahren: "in 
+den Artikeln 185 und 186 der Verordnung (EWG) Nr. 2913/92 des Rates der Europäischen Gemeinschaften vom 
+12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften". Dieser Zollkodex der Gemeinschaften 
+wurde durch die Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 
+2013 zur Festlegung des Zollkodex der Union einer vollständigen Neufassung unterzogen, aus der der Zollkodex 
+der Union hervorgegangen ist. Der Inhalt der Artikel 185 und 186 der vorerwähnten Verordnung (EWG) Nr. 
+2913/92 wurde in Artikel 259 des neuen Zollkodex der Union übernommen. In Artikel 6 des Entwurfs wird 
+dieser Verweis in Artikel 40 § 1 des Königlichen Erlasses Nr. 7 entsprechend angepasst.KAPITEL 
+5 - Selbständige Zusammenschlüsse von PersonenArtikel 8 und 9Mit dem Gesetz vom 26. 
+Mai 2016 zur Abänderung des Mehrwertsteuergesetzbuches in Bezug auf die Steuerbefreiung für Dienstleistungen 
+selbständiger Zusammenschlüsse von Personen zugunsten ihrer Mitglieder (Belgisches Staatsblatt vom 9. 
+Juni 2016, deutsche Übersetzung: Belgisches Staatsblatt vom 16. Dezember 2016) wurde die Regelung in 
+Bezug auf diese Zusammenschlüsse reformiert, um eine bessere Umsetzung der europäischen Vorschriften 
+zu gewährleisten.Durch den neuen Artikel 44 § 2bis des Gesetzbuches werden Dienstleistungen, 
+die selbständige Zusammenschlüsse von Personen zugunsten ihrer Mitglieder erbringen, bei Einhaltung bestimmter 
+Bedingungen von der Steuer befreit.In den Absätzen 3 bis 5 des neuen Artikels 44 §  
+2bis des Gesetzbuches sind die Verpflichtungen bestimmt, die je nach Fall von selbständigen Zusammenschlüssen 
+von Personen zu erfüllen sind, unabhängig davon, ob die von diesem Zusammenschluss bewirkten Umsätze 
+vollständig von der Mehrwertsteuer befreit sind oder nicht. Insbesondere muss der Zusammenschluss den 
+zuständigen Dienst der mit der Mehrwertsteuer beauftragten Verwaltung (nachstehend: "Verwaltung") von 
+der Aufnahme oder Ausübung einer solchen Tätigkeit in Kenntnis setzen und eine Liste seiner Mitglieder 
+und die Art ihrer Tätigkeit übermitteln. Dieser Zusammenschluss ist außerdem verpflichtet, dem 
+vorerwähnten Dienst jeden Wechsel in Bezug auf seine eigene Tätigkeit oder die Tätigkeit seiner Mitglieder 
+mitzuteilen.Der zweiten Empfehlung der Stellungnahme Nr. 160/2019 der Datenschutzbehörde vom 
+27. September 2019 wird durch eine spätere Abänderung von Artikel 44 § 2bis des Gesetzbuches Folge 
+geleistet werden. Durch diese Abänderung soll insbesondere der Zweck der den selbständigen Zusammenschlüssen 
+durch die Absätze 3 bis 5 dieses Paragraphen auferlegten Verpflichtungen verdeutlicht werden.Aufgrund 
+der heutigen Rechtsvorschriften werden alle Steuerpflichtigen, die aufgrund von Artikel 44 des Gesetzbuches 
+eine Steuerbefreiung in Anspruch nehmen können, durch Artikel 1 Absatz 5 des Königlichen Erlasses Nr. 
+10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung der in den Artikeln 15 § 2 Absatz 
+3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches vorgesehenen Optionen, 
+über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende Erklärungen 
+im Bereich der Mehrwertsteuer (nachstehend: "Königlicher Erlass Nr. 10") ausdrücklich von der Verpflichtung 
+befreit, der Verwaltung die Aufnahme einer solchen wirtschaftlichen Tätigkeit mitzuteilen. Um diese Bestimmung 
+des Königlichen Erlasses Nr. 10 mit dem neuen Artikel 44 § 2bis Absatz 3 bis 5 des Gesetzbuches 
+in Einklang zu bringen, wird in Artikel 8 Nr. 1 des Entwurfs Artikel 1 Absatz 5 des Königlichen Erlasses 
+Nr. 10 dahingehend abgeändert, dass die in Artikel 44 § 2bis des Gesetzbuches erwähnten selbständigen 
+Zusammenschlüsse von Personen von dieser Befreiung ausgeschlossen sind.In Artikel 8 Nr. 2 des 
+Entwurfs wird Artikel 1 des Königlichen Erlasses Nr. 10 um einen Absatz ergänzt, in dem präzisiert wird, 
+dass die Liste der Mitglieder und die Art ihrer Tätigkeit, die der selbständige Zusammenschluss von Personen 
+der Verwaltung übermitteln muss, entweder auf Papier oder elektronisch übermittelt werden kann. Gemäß 
+der dritten Empfehlung der Stellungnahme Nr. 160/2019 der Datenschutzbehörde vom 27. September 2019 wird 
+präzisiert, dass die Liste der Mitglieder Namen, Rechtsform, Adresse und Unternehmensnummer dieser Mitglieder 
+enthalten muss.In Artikel 9 des Entwurfs wird auch die Verpflichtung des selbständigen Zusammenschlusses 
+von Personen bestätigt, dem zuständigen Dienst der Verwaltung elektronisch oder auf Papier Beitritt oder 
+Austritt eines Mitglieds oder Wechsel der Tätigkeit eines seiner Mitglieder mitzuteilen. Diese Verpflichtung 
+ist Gegenstand eines neuen Absatzes 2, der in Artikel 2 des Königlichen Erlasses Nr. 10 eingefügt wird.KAPITEL 
+6 - Optionen im Rahmen der auf Telekommunikationsdienstleistungen, Rundfunk- und Fernsehdienstleistungen 
+oder elektronische Dienstleistungen an Nichtsteuerpflichtige anwendbaren Sonderregelung und im Rahmen 
+der optionalen Besteuerung im Bereich der Vermietung von naturgemäß unbeweglichen GüternArtikel 
+10, 11 und 12Option und Mitteilung von Informationen im Rahmen der Sonderregelung für Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronische Dienstleistungen an Nichtsteuerpflichtige Gemäß 
+Artikel 21bis § 2 Nr. 9 Absatz 1 des Gesetzbuches, ersetzt durch das Gesetz vom 11. Februar 2019 
+infolge der Umsetzung von Artikel 1 Nr. 1 der Richtlinie 2017/2455/EU, durch den Artikel 58 der Mehrwertsteuerrichtlinie 
+abgeändert wird, gelten Telekommunikationsdienstleistungen, Rundfunk- und Fernsehdienstleistungen und 
+elektronische Dienstleistungen, die innerhalb der Gemeinschaft an Nichtsteuerpflichtige erbracht werden, 
+als in dem Mitgliedstaat stattgefunden, in dem der Dienstleistungsempfänger ansässig ist.In 
+Artikel 21bis § 2 Nr. 9 Absatz 2 des Gesetzbuches ist allerdings eine Ausnahme von dieser Grundregel 
+vorgesehen. Kleinstunternehmen, die solche Dienstleistungen erbringen, sollen unter bestimmten Bedingungen 
+(und insbesondere bis zu einem bestimmten Schwellenwert) die Möglichkeit haben, diese Dienstleistungen 
+in dem Mitgliedstaat, in dem sie ansässig sind, (und nicht in dem Mitgliedstaat, in dem der Dienstleistungsempfänger 
+ansässig ist) der Steuer zu unterwerfen.Somit kann die eventuell für diese Dienstleistungen 
+geschuldete Mehrwertsteuer über die nationale Mehrwertsteuererklärung entrichtet werden. Auf diese Weise 
+wird vermieden, dass die Mehrwertsteuer in einem Mitgliedstaat, in dem das Kleinstunternehmen nicht ansässig 
+ist, gegebenenfalls unter Anwendung der Sonderregelung ("EU-Regelung") gemäß Artikel 57a Nummer 
+2 der Durchführungsverordnung (EU) Nr. 282/2011 vom 15. März 2011 zur Festlegung von Durchführungsvorschriften 
+zur Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame Mehrwertsteuersystem entrichtet 
+werden muss.In Artikel 21bis § 2 Nr. 9 Absatz 2 des Gesetzbuches ist daher in Abweichung 
+von der in Absatz 1 dieser Nummer erwähnten Grundregel vorgesehen, dass Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen und elektronische Dienstleistungen, die innerhalb der Gemeinschaft 
+an nichtsteuerpflichtige Dienstleistungsempfänger erbracht werden, als in dem Mitgliedstaat stattgefunden 
+gelten, in dem der Dienstleistungserbringer ansässig ist, sofern:- der Dienstleistungserbringer 
+in nur einem Mitgliedstaat ansässig ist,- die Dienstleistungen an nichtsteuerpflichtige Personen 
+erbracht werden, die in einem anderen Mitgliedstaat ansässig sind als dem Mitgliedstaat, in dem der Dienstleistungserbringer 
+ansässig ist,- der Gesamtbetrag - ohne Mehrwertsteuer - der erwähnten Dienstleistungen im laufenden 
+Kalenderjahr 10.000 EUR nicht überschreitet und dies auch im vorangegangenen Kalenderjahr nicht getan 
+hat.Gemäß Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches können die betreffenden 
+Steuerpflichtigen jedoch dafür optieren, diese Abweichung von der Grundregel für die Bestimmung des Ortes 
+der betreffenden Dienstleistungen nicht anzuwenden und somit ihre Dienstleistungen gemäß dieser 
+Grundregel unmittelbar in dem Mitgliedstaat stattfinden zu lassen, in dem der Dienstleistungsempfänger 
+ansässig ist. Diese Option gilt dann für einen Zeitraum von mindestens zwei Kalenderjahren.In 
+Artikel 21bis § 2 Nr. 9 Absatz 5 des Gesetzbuches wird der König ermächtigt, die Modalitäten für 
+die Anwendung dieser Optionsregelung zu bestimmen und insbesondere die Formalitäten festzulegen, die 
+bei der Mitteilung der Informationen über die Überschreitung des Schwellenwertes und die Optionserklärung 
+einzuhalten sind.Mit den Artikeln 10 und 11 dieses Entwurfs wird die dem König erteilte Ermächtigung 
+umgesetzt.In Artikel 10 dieses Entwurfs wird zunächst die Überschrift des Königlichen Erlasses 
+Nr. 10 abgeändert, um einerseits die in Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches erwähnte 
+Option (siehe weiter unten Kommentar zu Artikel 11 des Entwurfs) und andererseits die in Artikel 44 § 
+3 Nr. 2 Buchstabe d) des Gesetzbuches vorgesehene Option für die Besteuerung der Vermietung von naturgemäß 
+unbeweglichen Gütern (siehe weiter unten Kommentar zu Artikel 12 des Entwurfs) zu berücksichtigen.In 
+Artikel 11 dieses Entwurfs wird ein neuer Artikel 7ter in den Königlichen Erlass Nr. 10 eingefügt, um 
+die Modalitäten für die Ausübung der in Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches erwähnten 
+Option und die Mitteilung von Informationen an die Verwaltung in Bezug auf die Überschreitung des in 
+Artikel 21bis § 2 Nr. 9 Absatz 2 Buchstabe c) des Gesetzbuches erwähnten Schwellenwerts von 10.000 
+EUR vorzusehen.Konkret wird in diesem neuen Artikel zunächst in den Paragraphen 1 und 2 hinsichtlich 
+der Modalitäten für die Ausübung der in Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches erwähnten 
+Option zwischen den betreffenden Steuerpflichtigen unterschieden, je nachdem, ob sie die in Artikel 58quater 
+des Gesetzbuches erwähnte EU-Sonderregelung in Anspruch nehmen oder nicht, um die Mehrwertsteuer auf 
+Dienstleistungen zu entrichten, die gemäß ihrer Optionserklärung für Zwecke der Mehrwertsteuer 
+unmittelbar als im Mitgliedstaat des Empfängers der betreffenden Dienstleistungen stattgefunden gelten.Einerseits 
+müssen Steuerpflichtige, die gemäß Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches die 
+Option ausüben möchten, die vorerwähnten Dienstleistungen in dem Mitgliedstaat stattfinden zu lassen, 
+in dem der Dienstleistungsempfänger ansässig ist, und auch die in Artikel 58quater des Gesetzbuches erwähnte 
+Sonderregelung in Anspruch zu nehmen beabsichtigen, die Verwaltung bei der zu diesem Zweck vom Minister 
+der Finanzen oder von seinem Beauftragten eingerichteten elektronischen Adresse darüber unterrichten, 
+dass sie diese Option ausüben wollen.Die Option setzt am ersten Tag ein, ab dem der Steuerpflichtige 
+die in Artikel 58quater des Gesetzbuches erwähnte Sonderregelung anwenden darf, das heißt grundsätzlich 
+gemäß Artikel 57d der Durchführungsverordnung (EU) Nr. 282/2011 des Rates vom 15. März 2011 zur 
+Festlegung von Durchführungsvorschriften zur Richtlinie 2006/112/EG über das gemeinsame Mehrwertsteuersystem 
+ab dem ersten Tag des Quartals, das auf den Antrag auf Registrierung in dieser Sonderregelung folgt. 
+Es ist logisch, dass, wenn der Steuerpflichtige seine wirtschaftliche Tätigkeit aufnimmt und zu diesem 
+Zeitpunkt beide Optionen gleichzeitig ausübt, sie auch zum selben Zeitpunkt wirksam werden.In 
+den Fällen, in denen der Steuerpflichtige diese in Artikel 58quater des Gesetzbuches erwähnte Sonderregelung 
+bereits anwendet, kann für das Datum des Wirksamwerdens der Option keine Parallelität zu Artikel 57d 
+der Durchführungsverordnung (EU) Nr. 282/2011 des Rates vom 15. März 2011 hergestellt werden, der nur 
+die Situation regelt, in der ein Steuerpflichtiger seine Tätigkeit aufnimmt. In diesem Fall setzt die 
+Option am 1. Januar des Jahres ein, für das der zuständige Dienst der Verwaltung von der Option in Kenntnis 
+gesetzt wurde. Auf diese Weise kann insbesondere sichergestellt werden, dass Steuerpflichtige, die die 
+in Artikel 58quater des Gesetzbuches erwähnte Sonderregelung bereits vor dem 1. Januar 2019 angewandt 
+haben und sie auch nach diesem Datum weiter anwenden, nicht verpflichtet sind, sich in allen Mitgliedstaaten, 
+in denen ihre Dienstleistungsempfänger ansässig sind, für Zwecke der Mehrwertsteuer erfassen zu lassen, 
+wenn sie alle ihre Dienstleistungen in diesen Mitgliedstaaten der Steuer unterwerfen möchten.Andererseits 
+müssen Steuerpflichtige, die gemäß Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches die 
+Option ausüben möchten, die betreffenden Dienstleistungen in dem Mitgliedstaat stattfinden zu lassen, 
+in dem der Dienstleistungsempfänger ansässig ist, aber die in Artikel 58quater des Gesetzbuches erwähnte 
+Sonderregelung nicht in Anspruch zu nehmen beabsichtigen, den Dienst der mit der Mehrwertsteuer beauftragten 
+Verwaltung, dem sie unterstehen, per Einschreibesendung ebenfalls darüber unterrichten. Der Hauptzweck 
+der zu übermittelnden Informationen besteht darin, die Verwaltung über die mehrwertsteuerliche Registrierung 
+in dem/den betreffenden Mitgliedstaat(en) für die vorerwähnten Dienstleistungen zu informieren.Anschließend 
+werden in § 3 des neuen Artikels 7ter die Modalitäten für die bei der Verwaltung abzugebende Erklärung 
+in Bezug auf die Überschreitung des in Artikel 21bis § 2 Nr. 9 Absatz 2 Buchstabe c) des Gesetzbuches 
+erwähnten Schwellenwerts von 10.000 EUR präzisiert: In § 1 erwähnte Steuerpflichtige reichen jedes 
+Jahr ab dem ersten Umsatz - in seiner Gesamtheit betrachtet -, mit dem der Schwellenwert überschritten 
+wird, eine Erklärung über die Überschreitung des Schwellenwerts beim zuständigen Dienst der Verwaltung 
+ein.Diese Erklärung muss jedoch nicht eingereicht werden, wenn der betreffende Steuerpflichtige:- 
+bereits im vorangegangenen Kalenderjahr eine solche Erklärung eingereicht hat, oder- die in 
+Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches erwähnte Option (gemäß den im neuen Artikel 
+7ter §§ 1 und 2 des Königlichen Erlasses Nr. 10 aufgenommenen Modalitäten) in einem der 
+beiden vorangegangenen Kalenderjahre oder im laufenden Kalenderjahr ausgeübt hat.Der Minister 
+der Finanzen oder sein Beauftragter bestimmt die Modalitäten dieser Erklärung und insbesondere die Form 
+und die Art und Weise, in der die Erklärung vorgenommen wird.Option im Rahmen der optionalen 
+Besteuerung im Bereich der Vermietung von naturgemäß unbeweglichen GüternIn Artikel 44 
+§ 3 Nr. 2 Buchstabe d) Absatz 5 des Gesetzbuches ist vorgesehen, dass der König in Bezug auf die 
+optionale Besteuerung der Vermietung eines Gebäudes oder Gebäudeteils, eingeführt durch das Gesetz vom 
+14. Oktober 2018 (Belgisches Staatsblatt vom 25. Oktober 2018, S. 81448 ff, deutsche Übersetzung: Belgisches 
+Staatsblatt vom 6. März 2020) (nachstehend: "Gesetz vom 14. Oktober 2018"), den Zeitpunkt für die Ausübung 
+der Option und die im Rahmen dieser Option einzuhaltenden Formalitäten bestimmt.In Artikel 
+12 des vorliegenden Entwurfs wird ein neuer Artikel 7quater in den Königlichen Erlass Nr. 10 eingefügt, 
+in dessen § 1 Absatz 1 präzisiert wird, dass diese Option für die Besteuerung durch eine gemeinsame, 
+von den Vertragsparteien datierte und unterzeichnete Erklärung ausgeübt wird. In dieser Bestimmung wird 
+des Weiteren präzisiert, dass diese Erklärung spätestens zu dem Zeitpunkt erstellt werden muss, zu dem 
+der besteuerte Mietvertrag zwischen den Parteien wirksam wird. Im betreffenden Fall hat der Umstand, 
+ob der Mietvertrag registriert ist oder nicht, keine Auswirkung, da diesbezüglich gilt, dass die Vereinbarung 
+zwischen den Parteien Gesetzeskraft hat, unabhängig von allen Formalitäten, die mit der Drittwirksamkeit 
+des Mietvertrags verbunden sind.Im neuen Artikel 7quater § 1 Absatz 2 des vorerwähnten 
+Königlichen Erlasses Nr. 10 werden die Mindestangaben präzisiert, die in der Optionserklärung aufgenommen 
+sein müssen. Es handelt sich um:1. Namen oder Gesellschaftsnamen, Adresse und in Artikel 50 
+des Gesetzbuches erwähnte Mehrwertsteueridentifikationsnummer des Vermieters und des Mieters (für letzteren 
+genügt gegebenenfalls die Unternehmensnummer, falls er nicht für Zwecke der Mehrwertsteuer erfasst ist), 
+2. Identifizierung des Gebäudes oder Gebäudeteils, gegebenenfalls einschließlich des 
+dazugehörigen Grund und Bodens, dessen Vermietung besteuert wird,3. Willensäußerung der 
+Parteien, die Vermietung zu besteuern,4. Datum, an dem die Option wirksam wird.Die 
+vierte Empfehlung der Stellungnahme Nr. 160/2019 der Datenschutzbehörde vom 27. September 2019 in Bezug 
+auf die Angabe der Unternehmensnummer wird nicht berücksichtigt. Einigen steuerpflichtigen Mietern, insbesondere 
+solchen, die nur Umsätze bewirken, für die sie gemäß Artikel 44 des Gesetzbuches nicht zum Vorsteuerabzug 
+berechtigt sind, wird nämlich keine Mehrwertsteueridentifikationsnummer wie in Artikel 50 des Gesetzbuches 
+erwähnt zugewiesen.Die Art und Weise, wie die Absicht zur Besteuerung der Vermietung von naturgemäß 
+unbeweglichen Gütern ausgedrückt wird, oder die dabei verwendeten Begriffe sind von untergeordneter Bedeutung, 
+vorausgesetzt, der Wille ist unzweideutig ausgedrückt. So versteht es sich von selbst, dass beispielsweise 
+ein ausdrücklicher Verweis auf Artikel 44 § 3 Nr. 2 Buchstabe d) des Gesetzbuches eine unzweideutige 
+Willensäußerung der Parteien zur Ausübung der Option für die Besteuerung darstellt.In 
+der Begründung des Gesetzes vom 14. Oktober 2018, mit dem die optionale Besteuerung im Bereich der Vermietung 
+von naturgemäß unbeweglichen Gütern eingeführt worden ist, ist Folgendes präzisiert: "Es wird akzeptiert, 
+dass eine spezifische "Pro fisco"-Erklärung im Mietvertrag, die den Willen der Parteien zur Ausübung 
+der Option bestätigt, ausreicht, um der Verwaltung zu beweisen, dass diese Option tatsächlich gemeinsam 
+vom Vermieter und vom Mieter ausgeübt wurde." Im gleichen Sinne wird im neuen Artikel 7quater § 
+2 des Königlichen Erlasses Nr. 10 vorgesehen, dass die Aufnahme der in § 1 Absatz 2 erwähnten 
+Angaben in die Urkunde, die zwischen den Parteien den Mietvertrag darstellt, mit einer in § 1 
+dieser Bestimmung erwähnten Erklärung gleichgesetzt wird.Um einen übermäßigen Formalismus 
+zu vermeiden, wird im neuen Artikel 7quater § 3 des Königlichen Erlasses Nr. 10 präzisiert, dass 
+im Falle einer stillschweigenden Verlängerung eines Mietvertrages, der gemäß Artikel 44 § 
+3 Nr. 2 Buchstabe d) des Gesetzbuches besteuert wird, keine zusätzliche Optionserklärung der Parteien 
+für den verlängerten Zeitraum erforderlich ist. Gemäß dem anwendbaren Mietrecht führt die stillschweigende 
+Verlängerung - vorbehaltlich anders lautender Bestimmung - zur Weiteranwendung derselben Vertragsbedingungen 
+zwischen den Parteien. Dies gilt daher auch für die Anwendung der Mehrwertsteuer auf die vom Mieter an 
+den Vermieter geschuldeten Mietpreise.Da es sich um eine Anwendungsmodalität von Artikel 44 
+§ 3 Nr. 2 Buchstabe d) des Gesetzbuches handelt, dessen Inkrafttreten gemäß Artikel 15 des 
+Gesetzes vom 14. Oktober 2018 auf den 1. Januar 2019 festgelegt wurde, wird schließlich in Artikel 
+24 dieses Entwurfs präzisiert, dass Artikel 12 des Entwurfs, mit dem der neue Artikel 7quater in den 
+Königlichen Erlass Nr. 10 eingefügt wird, ebenfalls mit 1. Januar 2019 wirksam wird.KAPITEL 
+7 - ReisebürosArtikel 13In den Artikeln 306 bis 310 der Mehrwertsteuerrichtlinie 
+wird eine Sonderbesteuerungsregelung für Umsätze festgelegt, die von Reisebüros bewirkt werden, wenn 
+sie gegenüber dem Reisenden in eigenem Namen auftreten.Gemäß Artikel 35 Absatz 2 des 
+Gesetzbuches ist der König ermächtigt, die Besteuerungsgrundlage für die in Artikel 18 § 2 Absatz 
+2 des Gesetzbuches erwähnten Dienstleistungen von Reisebüros festzulegen. Wie in der Mehrwertsteuerrichtlinie 
+bezieht sich diese Bestimmung auf Dienstleistungen, die das Reisebüro für einen Reisenden erbringt.Der 
+belgische Staat hat infolge des Urteils des Gerichtshofs der Europäischen Union (nachstehend: "Gerichtshof") 
+vom 18. Februar 2018, Kommission/Bundesrepublik Deutschland, C-380/16, EU:C:2018:76, das die bisherige 
+Rechtsprechung des Gerichtshofs im Urteil vom 26. September 2013, Kommission/Spanien, C-189/11, EU:C:2013:587, 
+bestätigt, von den Dienststellen der Europäischen Kommission ein Auskunftsersuchen in Bezug auf die Anwendung 
+der Sonderregelung für Reisebüros erhalten.In diesem Ersuchen hebt die Europäische Kommission 
+hervor, dass sich der Gerichtshof angesichts der Unterschiede zwischen den Sprachfassungen der Mehrwertsteuerrichtlinie 
+in diesem Punkt auf einen Ansatz stützt, der auf dem Begriff des Dienstleistungsempfängers (und damit 
+nicht des Reisenden) beruht. Daraus folgt, dass die Sonderregelung für Reisebüros auf Reisen für alle 
+Arten von Dienstleistungsempfängern anwendbar sein sollte. Die Sonderregelung für Reisebüros ist daher 
+nicht nur auf Reisen anwendbar, die an Reisende verkauft werden, die natürliche Personen sind, sondern 
+auch auf Reisen, die an Reisebüros verkauft werden, die beabsichtigen, sie weiterzuverkaufen, und an 
+juristische Personen, die die Reise im Hinblick auf An- und Abreise und Aufenthalt ihres Personals, ihrer 
+Unternehmensleiter oder ihrer Verwalter erworben haben.Artikel 13 dieses Entwurfs zielt darauf 
+ab, Artikel 1 des Königlichen Erlasses Nr. 35 vom 28. Dezember 1999 zur Einführung einer pauschalen Grundlage 
+für die Besteuerung der Gewinnspanne von Reisebüros im Bereich der Mehrwertsteuer mit der weiter oben 
+dargelegten Interpretation des persönlichen Anwendungsbereichs der Sonderregelung für Reisebüros in Einklang 
+zu bringen. Folglich wird diese Bestimmung angepasst, indem der Begriff "Reisende(r)" durch den Begriff 
+"Dienstleistungsempfänger" ersetzt wird, der diese Auslegung angemessener wiedergibt, ungeachtet der 
+Beibehaltung des Begriffs "Reisender" in der deutschen Fassung der vorerwähnten Artikel 306 bis 310 der 
+Mehrwertsteuerrichtlinie. Die Artikel 18 § 2 Absatz 2, 29 § 2, 35 Absatz 2 und 45 § 
+4 des Gesetzbuches wurden bereits in ähnlicher Weise durch das Gesetz vom 2. Mai 2019 zur Festlegung 
+verschiedener Bestimmungen im Bereich der Mehrwertsteuer und zur Abänderung der Steuerermäßigung 
+für unentgeltliche Zuwendungen (Belgisches Staatsblatt vom 15. Mai 2019, deutsche Übersetzung: Belgisches 
+Staatsblatt vom 22. Februar 2021) (nachstehend: "Gesetz vom 2. Mai 2019") abgeändert.KAPITEL 
+8 - Erklärung und Zahlung der beim Erwerb von Fahrzeugen geschuldeten MehrwertsteuerArtikel 
+14Gemäß Artikel 5 § 1 des Königlichen Erlasses Nr. 46 vom 29. Dezember 1992 über 
+die Erklärung des innergemeinschaftlichen Erwerbs von Fahrzeugen und die Zahlung der diesbezüglich geschuldeten 
+Mehrwertsteuer sind Personen, die die auf den innergemeinschaftlichen Erwerb eines neuen Fahrzeugs geschuldete 
+Steuer gemäß einer Erklärung, die nicht bei einem Zollamt eingereicht werden muss, entrichten dürfen, 
+dennoch verpflichtet, die vom Lieferer für die Lieferung des Fahrzeugs ausgestellte Rechnung und alle 
+anderen Schriftstücke, aus denen hervorgeht, dass die Angaben auf der Rechnung und die Angaben in der 
+Erklärung richtig sind, bei einem Zollamt ihrer Wahl vorzulegen.Diese Regel ist jedoch nicht 
+anwendbar, wenn die betreffende Person vom Minister der Finanzen oder von seinem Beauftragten die Erlaubnis 
+erhalten hat, die Vignette zur Festlegung des gemeinschaftlichen Charakters dieses Fahrzeugs im Namen 
+eines belgischen Zollamtes selbst auszufüllen, oder die Erlaubnis, stattdessen der Direktion für Fahrzeugzulassungen 
+(DIV) durch ein Verfahren der elektronischen Datenübertragung ein Ersatzsignal zu übermitteln.Bei 
+der vorerwähnten Vignette handelt es sich um eine Papier-Vignette (Vignette Nr. 705), die auf dem Zulassungsantrag 
+für Landfahrzeuge angebracht werden muss.Im Laufe des Jahres 2018 begann die Generalverwaltung 
+Zoll und Akzisen ein Digitalisierungsprojekt für diese Vignette. Die selbstklebende Vignette wird, sobald 
+das neue Verfahren implementiert ist, durch ein elektronisches Signal an den Föderalen Öffentlichen Dienst 
+Mobilität und Transportwesen ersetzt.Unter Berücksichtigung dieser Digitalisierung wird in 
+Artikel 14 dieses Entwurfs Artikel 5 § 2 des vorerwähnten Königlichen Erlasses Nr. 46 dahingehend 
+abgeändert, dass nur die Übermittlung dieser Vignette an die DIV durch ein Verfahren der elektronischen 
+Datenübertragung beibehalten wird.KAPITEL 9 - Ausschlussfrist im Bereich der grenzüberschreitenden 
+Erstattung der MehrwertsteuerArtikel 15Ist ein Steuerpflichtiger objektiv nicht in 
+der Lage (ohne Hinweise auf Betrug oder Missbrauch), sein Recht auf Erstattung der Mehrwertsteuer, das 
+in der Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung der Mehrwertsteuer 
+gemäß der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung, sondern in einem anderen 
+Mitgliedstaat ansässige Steuerpflichtige vorgesehen ist, binnen der festgelegten Ausschlussfrist auszuüben, 
+darf ein Mitgliedstaat die Inanspruchnahme dieses Rechts nicht mit der Begründung versagen, dass die 
+in dieser Regelung vorgesehene Ausschlussfrist für die Ausübung dieses Rechts ab dem Datum des Steueranspruchs 
+zu laufen begonnen habe und abgelaufen sei, bevor der Steuerpflichtige seinen Erstattungsantrag stellen 
+konnte.Diese Lehre ergibt sich aus der jüngsten Rechtsprechung des Gerichtshofs (Urteil vom 
+21. März 2018, Volkswagen AG, C-533/16, EU:C:2018:204).In dieser Rechtssache war der Gerichtshof 
+mit der Regelung eines Mitgliedstaats konfrontiert, wonach einem nicht ansässigen Steuerpflichtigen die 
+Inanspruchnahme des Rechts auf Erstattung einer ihm mehrere Jahre nach der Lieferung der fraglichen Güter 
+in Rechnung gestellten Mehrwertsteuer mit der Begründung versagt wird, dass die in dieser Regelung vorgesehene 
+Ausschlussfrist ab dem Zeitpunkt der Lieferung zu laufen begonnen habe und vor Stellung des Erstattungsantrags 
+abgelaufen sei.Der Gerichtshof erinnerte daran, dass das auf den Bestimmungen der vorerwähnten 
+Richtlinie 2008/9/EG beruhende Recht auf Erstattung der Mehrwertsteuer zugunsten eines Steuerpflichtigen, 
+der nicht im Mitgliedstaat des Verbrauchs ansässig und dort nicht für Zwecke der Mehrwertsteuer erfasst 
+ist, dem Recht auf Abzug der Vorsteuer entspricht, die in einem Mitgliedstaat, in dem der Steuerpflichtige 
+periodische Mehrwertsteuererklärungen einreicht, entrichtet wird.Der Gerichtshof erinnert ferner 
+daran, dass jemand, der ein Recht auf Vorsteuerabzug ausüben will, sowohl materielle Bedingungen (Steuerpflichtiger 
+sein und die betreffenden Güter und Dienstleistungen von einem anderen Steuerpflichtigen für die Zwecke 
+seiner eigenen Umsätze, die ein Recht auf Vorsteuerabzug begründen, erwerben) als auch formelle Bedingungen 
+(im Besitz einer regulären Rechnung sein) erfüllen muss.Der Gerichtshof hebt jedoch hervor, 
+dass einem Steuerpflichtigen nach den Artikeln 180 und 182 der Mehrwertsteuerrichtlinie das Abzugsrecht 
+auch gewährt werden kann, wenn er es nicht während des Zeitraums, in dem es entstanden ist, ausgeübt 
+hat. Voraussetzung ist jedoch, dass bestimmte in den nationalen Regelungen festgelegte Bedingungen und 
+Einzelheiten befolgt werden, ohne dass diese Regel jedoch durch die Gewährung eines zeitlich unbegrenzten 
+Rechts auf Vorsteuerabzug Rechtsunsicherheit schafft.Der Gerichtshof akzeptiert somit an sich 
+den Grundsatz des Ausschlusses dieses Rechts auf Vorsteuerabzug als Sanktion für den nicht hinreichend 
+sorgfältigen Steuerpflichtigen, sofern der Äquivalenzgrundsatz (der verlangt, dass diese Frist gleichermaßen 
+für die entsprechenden auf dem innerstaatlichen Recht beruhenden steuerlichen Rechte wie für die auf 
+dem Gemeinschaftsrecht beruhenden Rechte gilt) und der Effektivitätsgrundsatz (der verlangt, dass diese 
+Frist die Ausübung dieses Abzugsrechts nicht unmöglich macht oder übermäßig erschwert) eingehalten 
+werden.Der Gerichtshof geht daher von dem Grundsatz aus, dass das Recht auf Vorsteuerabzug 
+nicht ausgeschlossen werden kann, solange die materiellen und formellen Voraussetzungen für die Person, 
+die dieses Recht ausüben will, nicht tatsächlich erfüllt sind, und zwar unabhängig davon, wann der Steueranspruch 
+in Bezug auf die abzuziehende Steuer entstanden ist, allerdings vorbehaltlich der Fälle von Betrug, Missbrauch 
+oder Mangel an Sorgfalt.In Belgien wird das Recht auf Erstattung der Mehrwertsteuer für Steuerpflichtige, 
+die in einem anderen Mitgliedstaat als Belgien ansässig sind und in Belgien nicht zur Einreichung periodischer 
+Mehrwertsteuererklärungen verpflichtet sind, gemäß Artikel 76 § 2 des Gesetzbuches ausgeübt.Die 
+Modalitäten dieser Erstattung sind im Königlichen Erlass Nr. 56 vom 9. Dezember 2009 über die Erstattung 
+der Mehrwertsteuer an Steuerpflichtige, die in einem anderen Mitgliedstaat als dem Mitgliedstaat der 
+Erstattung ansässig sind, aufgenommen.Wie die vorerwähnte Richtlinie 2008/9/EG sieht auch dieser 
+Königliche Erlass in seinem Artikel 12 Absatz 1 eine Ausschlussfrist für die Einreichung des Erstattungsantrags 
+vor, durch die die Ausübung des Rechts auf Erstattung verwirklicht wird. Diese Frist ist gemäß 
+Artikel 11 dieses Erlasses auf den 30. September des Jahres festgelegt, das auf den betreffenden Erstattungszeitraum 
+folgt (der in Kalendermonaten berechnet wird und einen Zeitraum von mindestens drei Monaten bis höchstens 
+einem Jahr umfasst).Gemäß Artikel 1 Nr. 3 dieses Erlasses versteht man unter "Erstattungszeitraum" 
+den Zeitraum, auf den im Erstattungsantrag Bezug genommen wird. In Artikel 13 § 1 Nr. 1 desselben 
+Erlasses ist bestimmt, dass sich dieser Erstattungsantrag auf die Steuer zu beziehen hat, mit der Umsätze 
+belastet wurden, für die eine Rechnung ausgestellt worden ist und für die der Steueranspruch während 
+des Erstattungszeitraums entstanden ist. In § 2 dieser Bestimmung ist präzisiert, dass sich der 
+Antrag auch auf Rechnungen beziehen kann, die noch nicht von vorangegangenen Erstattungsanträgen umfasst 
+sind, wenn sie Umsätze betreffen, die in dem Kalenderjahr des Erstattungszeitraums getätigt wurden.Andererseits 
+ist in Artikel 14 Absatz 1 Buchstabe a) der vorerwähnten Richtlinie 2008/9/EG bestimmt, dass sich der 
+Erstattungsantrag auf "den Erwerb von Gegenständen oder Dienstleistungen, der innerhalb des Erstattungszeitraums 
+in Rechnung gestellt worden ist, sofern der Steueranspruch vor oder zum Zeitpunkt der Rechnungsstellung 
+entstanden ist, oder für den der Steueranspruch während des Erstattungszeitraums entstanden ist, sofern 
+der Erwerb vor Eintreten des Steueranspruchs in Rechnung gestellt wurde", zu beziehen hat. Eine richtlinienkonformere 
+Umsetzung dieser Vorschrift ermöglicht es, die Ausübung dieses Rechts auf Erstattung unter den in dieser 
+Richtlinie festgelegten Bedingungen in dem im vorerwähnten Urteil des Gerichtshofs vom 21. März 2018 
+erwähnten Fall beizubehalten.In Artikel 15 des Entwurfs wird daher Artikel 13 § 1 Nr. 
+1 des vorerwähnten Königlichen Erlasses Nr. 56 abgeändert, um eine getreuere Umsetzung der Mehrwertsteuerrichtlinie 
+zu gewährleisten und den Artikel gleichzeitig mit der jüngsten Rechtsprechung des Gerichtshofs in Einklang 
+zu bringen.KAPITEL 10 - Technische Anpassungen aufgrund europäischer RechtsvorschriftenArtikel 
+16In Artikel 204 Absatz 1 Unterabsatz 1 der Mehrwertsteuerrichtlinie ist bestimmt, dass, wenn 
+der Steuerschuldner auf der Grundlage der Bestimmungen dieser Richtlinie ein Steuerpflichtiger ist, der 
+nicht in dem Mitgliedstaat ansässig ist, in dem die Mehrwertsteuer geschuldet wird, die Mitgliedstaaten 
+ihm gestatten können, einen Steuervertreter zu bestellen, der die Steuer schuldet.In Artikel 
+204 Absatz 1 Unterabsatz 2 der Mehrwertsteuerrichtlinie ist außerdem bestimmt, dass, wenn der steuerpflichtige 
+Umsatz von einem Steuerpflichtigen bewirkt wird, der nicht in dem Mitgliedstaat ansässig ist, in dem 
+die Mehrwertsteuer geschuldet wird, und mit dem Staat, in dem dieser Steuerpflichtige seinen Sitz oder 
+eine feste Niederlassung hat, keine Rechtsvereinbarung über Amtshilfe besteht, deren Anwendungsbereich 
+mit dem der Richtlinie 76/308/EWG (derzeit Richtlinie 2010/24/EU, die die Amtshilfe bei der Beitreibung 
+von Mehrwertsteuerforderungen betrifft) und dem der Verordnung (EG) Nr. 1798/2003 (derzeit Verordnung 
+(EU) Nr. 904/2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet 
+der Mehrwertsteuer) vergleichbar ist, die Mitgliedstaaten Vorkehrungen treffen können, nach denen ein 
+von dem nicht in ihrem Gebiet ansässigen Steuerpflichtigen bestellter Steuervertreter die Steuer schuldet.Belgien 
+hat von diesen Möglichkeiten durch Artikel 55 des Gesetzbuches Gebrauch gemacht.Artikel 55 
+des Gesetzbuches sieht in seiner derzeitigen Fassung keine Ausnahme von der Pflicht zur Bestellung eines 
+Fiskalvertreters zugunsten von Steuerpflichtigen vor, die zwar nicht in der Gemeinschaft, aber in einem 
+Land ansässig sind, mit dem eine Rechtsvereinbarung über Amtshilfe besteht, deren Anwendungsbereich mit 
+dem der Richtlinie 2010/24/EU über die Amtshilfe bei der Beitreibung von Mehrwertsteuerforderungen und 
+dem der Verordnung (EU) Nr. 904/2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung 
+auf dem Gebiet der Mehrwertsteuer vergleichbar ist. Da Belgien somit seinen Verpflichtungen aus Artikel 
+204 der Mehrwertsteuerrichtlinie nicht nachkommt, wurde Artikel 55 des Gesetzbuches durch das Gesetz 
+vom 2. Mai 2019 abgeändert, um den Anwendungsbereich der Verpflichtung zur Bestellung eines Fiskalvertreters 
+für Steuerpflichtige, die außerhalb der Gemeinschaft ansässig sind, aber in Belgien die Mehrwertsteuer 
+schulden, auf die Fälle zu beschränken, für die diese Möglichkeit gemäß dem vorerwähnten Artikel 
+der Mehrwertsteuerrichtlinie vorgesehen ist.Durch Artikel 16 dieses Entwurfs wird eine ähnliche 
+Anpassung in Artikel 1 des Königlichen Erlasses Nr. 31 vom 2. April 2002 über die Modalitäten für die 
+Anwendung der Mehrwertsteuer in Bezug auf Umsätze von nicht in Belgien ansässigen Steuerpflichtigen vorgenommen.KAPITEL 
+11 - SchlussbestimmungenIn Artikel 17 dieses Entwurfs ist eine Übergangsregelung für die Anwendung 
+von Artikel 12 dieses Entwurfs in Bezug auf die Ausübung der Option für die Besteuerung der Vermietung 
+von naturgemäß unbeweglichen Gütern gemäß Artikel 44 § 3 Nr. 2 Buchstabe d) des Gesetzbuches 
+vorgesehen. Unter Berücksichtigung der Tatsache, dass die betreffende Regelung gemäß Artikel 18 
+dieses Entwurfs schon mit 1. Januar 2019 wirksam wird, wird Steuerpflichtigen, die bereits die Absicht 
+hatten, die Vermietung der Mehrwertsteuer zu unterwerfen, eine zusätzliche Frist eingeräumt, um die Formalitäten 
+für die Ausübung der vorerwähnten Option korrekt zu erledigen. Die betreffenden Parteien werden dazu 
+bis zum Ende des zweiten Monats nach dem Monat, in dem dieser Königliche Erlass in Kraft getreten ist, 
+was am zehnten Tag nach seiner Veröffentlichung im Belgischen Staatsblatt erfolgt, Zeit haben.Innerhalb 
+der vorerwähnten Frist werden sie entweder die in Artikel 7quater des Königlichen Erlasses Nr. 10 erwähnte 
+Erklärung erstellen können oder der Urkunde, die zwischen ihnen einen Rechtstitel für den Mietvertrag 
+darstellt, einen Zusatzvertrag beifügen, der die Angaben enthält, die in der vorerwähnten Erklärung aufgenommen 
+sein müssen.Schließlich werden in Artikel 18 dieses Entwurfs zwei spezifische Daten für 
+das Wirksamwerden zweier Artikel dieses Entwurfs vorgesehen.Gemäß dem Datum des Inkrafttretens 
+des Gesetzes vom 14. Oktober 2018 (Artikel 15), mit dem unter anderem Artikel 44 § 3 Nr. 2 Buchstabe 
+d) in das Gesetzbuch eingefügt wird, der sich auf die optionale Besteuerung in Bezug auf naturgemäß 
+unbewegliche Güter bezieht, wird das Inkrafttreten des neuen Artikels 7quater des Königlichen Erlasses 
+Nr. 10, der sich auf die Ausübung der Option für die Besteuerung der Vermietung von naturgemäß 
+unbeweglichen Gütern bezieht, auf den 1. Januar 2019 festgelegt. Folglich wird in Artikel 18 dieses Entwurfs 
+bestimmt, dass Artikel 12 dieses Entwurfs vorbehaltlich der Anwendung der in Artikel 17 dieses Entwurfs 
+aufgenommenen Übergangsregelung mit 1. Januar 2019 wirksam wird.Schließlich wird in Artikel 
+18 dieses Entwurfs bestimmt, dass Artikel 14 dieses Entwurfs mit 4. Februar 2019 wirksam wird, um dem 
+Datum des Wirksamwerdens der Vorschriften im Zollbereich und der Implementierung der Digitalisierung 
+der betreffenden Anwendung zu entsprechen. Auf diese Weise können die Betreffenden bereits ab diesem 
+Datum die Vorteile des neuen Verfahrens nutzen.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO7. NOVEMBER 2019 - Königlicher 
+Erlass zur Abänderung der Königlichen Erlasse Nr. 1, 7, 10, 24, 31, 35, 46 und 56 über die MehrwertsteuerPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Mehrwertsteuergesetzbuches, 
+des Artikels 21bis § 2 Nr. 9 Absatz 5, eingefügt durch das Gesetz vom 11. Februar 2019, des Artikels 
+35 Absatz 2, ersetzt durch den Königlichen Erlass vom 28. Dezember 1999 und bestätigt durch das Gesetz 
+vom 5. August 2003, des Artikels 40 § 3, ersetzt durch das Gesetz vom 26. November 2009, des Artikels 
+44 §  2bis Absatz 6, eingefügt durch das Gesetz vom 26. Mai 2016, des Artikels 44 § 3 Nr. 
+2 Buchstabe d) Absatz 5, eingefügt durch das Gesetz vom 14. Oktober 2018, des Artikels 53 § 2 
+Absatz 5, ersetzt durch das Gesetz vom 17. Dezember 2012, des Artikels 53octies § 1 Absatz 1, 
+ersetzt durch das Gesetz vom 17. Dezember 2012, des Artikels 53octies § 2, ersetzt durch das Gesetz 
+vom 7. Dezember 2006 und abgeändert durch das Gesetz vom 29. November 2017, des Artikels 53nonies, eingefügt 
+durch das Gesetz vom 28. Dezember 1992 und abgeändert durch das Gesetz vom 28. Januar 2004, des Artikels 
+54 Absatz 1, ersetzt durch das Gesetz vom 17. Dezember 2012 und abgeändert durch das Gesetz vom 30. Juli 
+2018, des Artikels 55 § 3 Absatz 1, eingefügt durch das Gesetz vom 20. Dezember 2002, und des 
+Artikels 76 § 2 Absatz 2, eingefügt durch das Gesetz vom 26. November 2009;Aufgrund 
+des Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick auf die Gewährleistung 
+der Zahlung der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 7 vom 29. Dezember 1992 
+über die Einfuhr von Gütern für die Anwendung der Mehrwertsteuer;Aufgrund des Königlichen Erlasses 
+Nr. 10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung der in den Artikeln 15 § 2 
+Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches vorgesehenen Optionen, 
+über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende Erklärungen 
+im Bereich der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 24 vom 29. Dezember 1992 
+über die Zahlung der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 31 vom 2. April 2002 
+über die Modalitäten für die Anwendung der Mehrwertsteuer in Bezug auf Umsätze von nicht in Belgien ansässigen 
+Steuerpflichtigen;Aufgrund des Königlichen Erlasses Nr. 35 vom 28. Dezember 1999 zur Einführung 
+einer pauschalen Grundlage für die Besteuerung der Gewinnspanne von Reisebüros im Bereich der Mehrwertsteuer;Aufgrund 
+des Königlichen Erlasses Nr. 46 vom 29. Dezember 1992 über die Erklärung des innergemeinschaftlichen 
+Erwerbs von Fahrzeugen und die Zahlung der diesbezüglich geschuldeten Mehrwertsteuer;Aufgrund 
+des Königlichen Erlasses Nr. 56 vom 9. Dezember 2009 über die Erstattung der Mehrwertsteuer an Steuerpflichtige, 
+die in einem anderen Mitgliedstaat als dem Mitgliedstaat der Erstattung ansässig sind;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 27. Juni 2019;Aufgrund des Einverständnisses der 
+Ministerin des Haushalts vom 15. Juli 2019;Aufgrund der Stellungnahme der Datenschutzbehörde 
+vom 27. September 2019;Aufgrund des Gutachtens Nr. 66.447/1/V des Staatsrates vom 7. August 
+2019, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:KAPITEL 1 - Sharing EconomyArtikel 1 - Artikel 
+1 des Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick auf die Gewährleistung 
+der Zahlung der Mehrwertsteuer, ersetzt durch den Königlichen Erlass vom 19. Dezember 2012 und abgeändert 
+durch den Königlichen Erlass vom 18. Dezember 2015, wird durch einen Absatz mit folgendem Wortlaut ergänzt:"In 
+Abweichung von Absatz 1 sind in Artikel 50 § 4 des Gesetzbuches erwähnte Steuerpflichtige von 
+der Ausstellung einer Rechnung für die von ihnen erbrachten Dienstleistungen befreit."KAPITEL 
+2 - Auf Telekommunikationsdienstleistungen, Rundfunk- und Fernsehdienstleistungen und elektronische Dienstleistungen 
+an Nichtsteuerpflichtige anwendbare RechnungsstellungsvorschriftenArt. 2 - In Artikel 5 § 
+1 desselben Erlasses, ersetzt durch den Königlichen Erlass vom 19. Dezember 2012, wird Nr. 9 durch die 
+Wörter "und, wenn der betreffende Umsatz in einem anderen Mitgliedstaat der Gemeinschaft stattfindet, 
+muss angegeben sein, dass sich der anwendbare Satz und die zu zahlende oder zu berichtigende Steuer auf 
+diesen Mitgliedstaat beziehen," ergänzt.KAPITEL 3 - Erklärungs- und Zahlungspflichten von KonkursverwalternArt. 
+3 - Artikel 18 desselben Erlasses, zuletzt abgeändert durch den Königlichen Erlass vom 16. Februar 2017, 
+wird durch einen Paragraphen 8 mit folgendem Wortlaut ergänzt:" § 8 - In Abweichung 
+von Artikel 53 § 1 Absatz 1 Nr. 2 des Gesetzbuches muss der Konkursverwalter eines steuerpflichtigen 
+Konkursschuldners - außer in den in Artikel XX.140 des Wirtschaftsgesetzbuches vorgesehenen Fällen 
+- gemäß den in den Paragraphen 4 und 5 festgelegten Modalitäten jährlich eine Erklärung für die 
+der Steuer unterliegenden Leistungen einreichen, die er im Namen dieses Steuerpflichtigen seit dem Tag 
+des Konkurseröffnungsurteils erbracht hat, und dies spätestens am 28. Februar des Kalenderjahres nach 
+dem Kalenderjahr, auf das die Erklärung sich bezieht.Der Konkursverwalter entrichtet die geschuldete 
+Steuer spätestens am 30. April des Kalenderjahres nach dem Kalenderjahr, auf das sich die in Absatz 1 
+erwähnte Erklärung bezieht.In Abweichung von Absatz 1 reicht der Konkursverwalter bei Abschluss 
+des Konkursverfahrens die in Absatz 1 erwähnte Erklärung spätestens am letzten Tag des zweiten Monats 
+nach dem Datum des Urteils zum Abschluss des Konkursverfahrens ein.Der Konkursverwalter entrichtet 
+die geschuldete Steuer spätestens drei Monate nach Ablauf der Frist für die Einreichung der in Absatz 
+3 erwähnten Erklärung."Art. 4 - In Artikel 1 einleitender Satz des Königlichen Erlasses Nr. 
+24 vom 29. Dezember 1992 über die Zahlung der Mehrwertsteuer, zuletzt abgeändert durch den Königlichen 
+Erlass vom 16. Februar 2017, werden die Wörter "von Artikel 8 § 1" durch die Wörter "der Artikel 
+8 § 1 und 10 Nr. 1/1" ersetzt.Art. 5 - Artikel 10 desselben Erlasses, ersetzt durch 
+den Königlichen Erlass vom 17. Februar 2019, wird wie folgt abgeändert:a) Eine Nummer 1/1 mit 
+folgendem Wortlaut wird eingefügt:"1/1. die Mehrwertsteuer, deren Anspruch aus der in Artikel 
+18 § 8 Absatz 1 des Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick 
+auf die Gewährleistung der Zahlung der Mehrwertsteuer erwähnten Erklärung hervorgeht,".b) In 
+Nr. 2 wird das Wort "Erklärung" durch das Wort "Erklärungen" ersetzt.c) In Nr. 3 werden die 
+Wörter "derselben Erklärung" durch die Wörter "diesen Erklärungen" ersetzt.KAPITEL 4 - Passive 
+VeredelungArt. 6 - In Artikel 40 § 1 des Königlichen Erlasses Nr. 7 vom 29. Dezember 
+1992 über die Einfuhr von Gütern für die Anwendung der Mehrwertsteuer, abgeändert durch den Königlichen 
+Erlass vom 20. Juni 1994, werden die Wörter "den Artikeln 185 und 186 der Verordnung (EWG) Nr. 2913/92 
+des Rates der Europäischen Gemeinschaften vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften" 
+durch die Wörter "Artikel 259 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates 
+vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union" ersetzt.Art. 7 - Artikel 41 desselben 
+Erlasses, zuletzt abgeändert durch den Königlichen Erlass vom 9. Dezember 2009, wird wie folgt abgeändert:1. 
+Paragraph 3 wird wie folgt ersetzt:" § 3 - Die geschuldete Steuer wird auf den Wert 
+der im Ausland gelieferten Güter und der Dienstleistungen, die gemäß den Artikeln 21 § 2 
+und 21bis § 2 Nr. 6 Buchstabe c) des Gesetzbuches nicht in der Gemeinschaft stattfinden, erhöht 
+um die Beträge, die noch nicht in diesem Wert enthalten sind und gemäß Artikel 34 § 2 des 
+Gesetzbuches in die Besteuerungsgrundlage einzubeziehen sind, und zu dem Satz, der auf die in Belgien 
+eingeführten Güter anwendbar ist, berechnet." 2. [Abänderung des niederländischen Textes von 
+§  4 Nr. 2]KAPITEL 5 - Selbständige Zusammenschlüsse von PersonenArt. 8 - 
+Artikel 1 des Königlichen Erlasses Nr. 10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung 
+der in den Artikeln 15 § 2 Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Optionen, über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende 
+Erklärungen im Bereich der Mehrwertsteuer, zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 
+2015, wird wie folgt abgeändert:1. Absatz 5 wird wie folgt ersetzt:"Personen, die 
+in der Ausübung ihrer wirtschaftlichen Tätigkeit ausschließlich Umsätze bewirken, die in Anwendung 
+von Artikel 44 des Gesetzbuches steuerfrei sind und kein Recht auf Vorsteuerabzug eröffnen, - mit Ausnahme 
+der in Artikel 44 §  2bis des Gesetzbuches erwähnten selbständigen Zusammenschlüsse von Personen 
+- sind von der in Absatz 1 vorgesehenen Erklärungspflicht befreit." 2. Artikel 1 wird durch 
+einen Absatz mit folgendem Wortlaut ergänzt:"In Artikel 44 § 2bis des Gesetzbuches erwähnte 
+selbständige Zusammenschlüsse von Personen sind gemäß Artikel 44 § 2bis Absatz 3 und 4 des 
+Gesetzbuches außerdem verpflichtet, dem zuständigen Dienst der mit der Mehrwertsteuer beauftragten 
+Verwaltung im Monat nach Aufnahme ihrer Tätigkeit auf Papier oder elektronisch eine Liste zu übermitteln, 
+die den Namen, die Rechtsform, die Adresse, die Unternehmensnummer und die Art der Tätigkeit ihrer Mitglieder 
+enthält."Art. 9 - In Artikel 2 desselben Erlasses, zuletzt abgeändert durch den Königlichen 
+Erlass vom 14. April 2009, wird zwischen Absatz 1 und 2 ein Absatz mit folgendem Wortlaut eingefügt:"In 
+Abweichung von Absatz 1 teilen in Artikel 44 §  2bis Absatz 3 des Gesetzbuches erwähnte selbständige 
+Zusammenschlüsse von Personen gemäß Artikel 44 § 2bis Absatz 3 des Gesetzbuches dem zuständigen 
+Dienst der Verwaltung nur den Wechsel ihrer gesamten oder eines Teils ihrer wirtschaftlichen Tätigkeit 
+im Monat nach diesem Ereignis auf Papier oder elektronisch mit. Bei Beitritt oder Austritt eines Mitglieds 
+eines in Artikel 44 § 2bis des Gesetzbuches erwähnten selbständigen Zusammenschlusses von Personen 
+oder bei Wechsel der Tätigkeit eines seiner Mitglieder teilt der Zusammenschluss dies gemäß Artikel 
+44 § 2bis Absatz 3 und 4 des Gesetzbuches demselben Dienst im Monat nach diesem Ereignis auf Papier 
+oder elektronisch mit."KAPITEL 6 - Optionen im Rahmen der auf Telekommunikationsdienstleistungen, 
+Rundfunk- und Fernsehdienstleistungen oder elektronische Dienstleistungen an Nichtsteuerpflichtige anwendbaren 
+Sonderregelung und im Rahmen der optionalen Besteuerung im Bereich der Vermietung von naturgemäß 
+unbeweglichen GüternArt. 10 - In der Überschrift desselben Erlasses, zuletzt abgeändert durch 
+den Königlichen Erlass vom 30. April 2013, werden die Wörter "Artikeln 15 § 2 Absatz 3 und 25ter 
+§ 1 Absatz 2 Nr. 2 Absatz 2" durch die Wörter "Artikeln 15 § 2 Absatz 3, 21bis § 
+2 Nr. 9 Absatz 4, 25ter § 1 Absatz 2 Nr. 2 Absatz 2 und 44 § 3 Nr. 2 Buchstabe d)" ersetzt.Art. 
+11 - In denselben Erlass wird ein Artikel 7ter mit folgendem Wortlaut eingefügt:"Art. 7ter 
+- § 1 - Steuerpflichtige, die die in Artikel 58quater des Gesetzbuches erwähnte Sonderregelung 
+anwenden oder anwenden möchten, üben die in Artikel 21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches 
+erwähnte Option aus, indem sie die Verwaltung bei der zu diesem Zweck vom Minister der Finanzen oder 
+von seinem Beauftragten eingerichteten elektronischen Adresse darüber unterrichten.Die von 
+einem in Artikel 58quater § 3 des Gesetzbuches erwähnten Steuerpflichtigen gemäß Absatz 
+1 ausgeübte Option setzt an dem Tag ein, ab dem die in Artikel 58quater des Gesetzbuches erwähnte Sonderregelung 
+gemäß Artikel 57d der Durchführungsverordnung (EU) Nr. 282/2011 des Rates vom 15. März 2011 zur 
+Festlegung von Durchführungsvorschriften zur Richtlinie 2006/112/EG über das gemeinsame Mehrwertsteuersystem 
+gilt. Wendet der Steuerpflichtige diese Sonderregelung bereits an, setzt die Option am 1. Januar des 
+Jahres ein, für das die Option ausgeübt wurde.Die gemäß Absatz 1 ausgeübte Option gilt 
+bis zum 31. Dezember des zweiten Jahres nach diesem Datum. § 2 - In Artikel 58quater 
+§ 2 des Gesetzbuches erwähnte Steuerpflichtige, die die in Artikel 58quater des Gesetzbuches erwähnte 
+Sonderregelung nicht anwenden möchten, üben die in Artikel 21bis §  2 Nr. 9 Absatz 4 des Gesetzbuches 
+erwähnte Option aus, indem sie den Dienst der Verwaltung, dem sie unterstehen, per Einschreibesendung 
+darüber unterrichten.In diesem Schreiben muss Folgendes angegeben werden:1. Name 
+oder Gesellschaftsname des Steuerpflichtigen und Adresse seines Hauptverwaltungs- oder Betriebssitzes 
+und Identifikationsnummer, die ihm aufgrund von Artikel 50 des Gesetzbuches für die Anwendung der Mehrwertsteuer 
+zugewiesen worden ist,2. Mitgliedstaat oder Mitgliedstaaten, in dem oder denen die Dienstleistungen 
+gemäß Artikel 21bis § 2 Nr. 9 Absatz 1 des Gesetzbuches stattfinden und für die die Option 
+ausgeübt wird,3. Identifikationsnummer, die dem Steuerpflichtigen in diesem oder diesen Mitgliedstaaten 
+für die Anwendung der Mehrwertsteuer zugewiesen worden ist,4. Datum, an dem die Option einsetzt,5. 
+Datum und Name und Eigenschaft des Unterzeichners.Die gemäß Absatz 1 ausgeübte Option 
+setzt mit dem Datum der in Absatz 1 erwähnten Einschreibesendung ein und gilt bis zum 31. Dezember des 
+zweiten Jahres nach diesem Datum. § 3 - Steuerpflichtige reichen beim zuständigen Dienst 
+der Verwaltung eine Erklärung über die Überschreitung des in Artikel 21bis § 2 Nr. 9 Absatz 2 
+Buchstabe c) des Gesetzbuches erwähnten Schwellenwerts ab dem ersten Umsatz - in seiner Gesamtheit betrachtet 
+-, mit dem der Schwellenwert überschritten wird, ein.Diese Personen sind jedoch von dieser 
+Erklärung befreit, wenn eine solche Erklärung im vorangegangenen Kalenderjahr eingereicht wurde oder 
+wenn sie in einem der beiden vorangegangenen Kalenderjahre oder im laufenden Kalenderjahr die in Artikel 
+21bis § 2 Nr. 9 Absatz 4 des Gesetzbuches erwähnte Option ausgeübt haben.Der Minister 
+der Finanzen oder sein Beauftragter bestimmt die Form und die Art und Weise, in der die Erklärung vorgenommen 
+wird."Art. 12 - In denselben Erlass wird ein Artikel 7quater mit folgendem Wortlaut eingefügt:"Art. 
+7quater - § 1 - Die in Artikel 44 § 3 Nr. 2 Buchstabe d) des Gesetzbuches erwähnte Option 
+für die Besteuerung wird durch eine vom Vermieter und Mieter datierte und unterzeichnete Erklärung spätestens 
+zum Zeitpunkt, zu dem der Mietvertrag zwischen den Parteien wirksam wird, ausgeübt.Diese Erklärung 
+enthält folgende Angaben:1. Name oder Gesellschaftsname, Adresse und in Artikel 50 des Gesetzbuches 
+erwähnte Mehrwertsteueridentifikationsnummer des Vermieters und des Mieters,2. Identifizierung 
+des Gebäudes oder Gebäudeteils, gegebenenfalls einschließlich des dazugehörigen Grund und Bodens, 
+dessen Vermietung besteuert wird,3. Willensäußerung der Parteien, die Vermietung zu besteuern,4. 
+Datum, an dem die Option wirksam wird. § 2 - Die Aufnahme der in § 1 Absatz 2 
+erwähnten Angaben in die Urkunde, die zwischen den Parteien einen Rechtstitel für den Mietvertrag darstellt, 
+wird mit einer in § 1 erwähnten Erklärung gleichgesetzt. § 3 - Im Falle einer 
+stillschweigenden Verlängerung eines Vertrages über eine Vermietung, die infolge einer Option besteuert 
+wird, ist keine zusätzliche Erklärung der Parteien erforderlich."KAPITEL 7 - ReisebürosArt. 
+13 - In Artikel 1 einleitender Satz des Königlichen Erlasses Nr. 35 vom 28. Dezember 1999 zur Einführung 
+einer pauschalen Grundlage für die Besteuerung der Gewinnspanne von Reisebüros im Bereich der Mehrwertsteuer 
+wird das Wort "Reisenden" durch das Wort "Dienstleistungsempfänger" ersetzt.KAPITEL 8 - Erklärung 
+und Zahlung der beim Erwerb von Fahrzeugen geschuldeten MehrwertsteuerArt. 14 - In Artikel 
+5 des Königlichen Erlasses Nr. 46 vom 29. Dezember 1992 über die Erklärung des innergemeinschaftlichen 
+Erwerbs von Fahrzeugen und die Zahlung der diesbezüglich geschuldeten Mehrwertsteuer, zuletzt abgeändert 
+durch den Königlichen Erlass vom 24. August 2005, wird § 2 wie folgt ersetzt:" § 
+2 - Die Bestimmungen von § 1 sind nicht anwendbar, wenn die Person, die die Steuer entrichten 
+muss, die aufgrund des innergemeinschaftlichen Erwerbs des Fahrzeugs oder eines damit gleichgesetzten 
+Umsatzes gemäß der in Artikel 53 § 1 Absatz 1 Nr. 2 des Gesetzbuches erwähnten Erklärung 
+geschuldet wird, vom Minister der Finanzen oder von seinem Beauftragten die Erlaubnis erhalten hat, die 
+Vignette zur Festlegung des gemeinschaftlichen Charakters dieses Fahrzeugs der Direktion für Fahrzeugzulassungen 
+(DIV) durch ein Verfahren der elektronischen Datenübertragung zu übermitteln." KAPITEL 9 - 
+Ausschlussfrist im Bereich der grenzüberschreitenden Erstattung der MehrwertsteuerArt. 15 - 
+In Artikel 13 § 1 des Königlichen Erlasses Nr. 56 vom 9. Dezember 2009 über die Erstattung der 
+Mehrwertsteuer an Steuerpflichtige, die in einem anderen Mitgliedstaat als dem Mitgliedstaat der Erstattung 
+ansässig sind, abgeändert durch den Königlichen Erlass vom 30. April 2013, wird Nr. 1 wie folgt ersetzt:"1. 
+die Steuer, mit der Lieferungen von Gütern und Dienstleistungen belastet wurden, für die innerhalb des 
+Erstattungszeitraums gemäß Artikel 53 § 2 des Gesetzbuches eine Rechnung ausgestellt worden 
+ist, sofern der Steueranspruch vor oder zum Zeitpunkt der Ausstellung der Rechnung entstanden ist, oder 
+für die der Steueranspruch während des Erstattungszeitraums entstanden ist, sofern für diese Umsätze 
+vor Eintreten des Steueranspruchs gemäß Artikel 53 § 2 des Gesetzbuches eine Rechnung ausgestellt 
+wurde,".KAPITEL 10 - Technische Anpassungen aufgrund europäischer RechtsvorschriftenArt. 
+16 - In Artikel 1 des Königlichen Erlasses Nr. 31 vom 2. April 2002 über die Modalitäten für die Anwendung 
+der Mehrwertsteuer in Bezug auf Umsätze von nicht in Belgien ansässigen Steuerpflichtigen, zuletzt abgeändert 
+durch den Königlichen Erlass vom 24. Januar 2015, wird § 1 wie folgt ersetzt:" § 
+1 - Ein nicht in der Gemeinschaft ansässiger Steuerpflichtiger veranlasst gemäß den Bestimmungen 
+des vorliegenden Erlasses die Zulassung eines Fiskalvertreters, es sei denn, er ist durch Anwendung von 
+Artikel 55 § 1 Absatz 2 des Gesetzbuches davon befreit, bevor er in Belgien:1. eine 
+Lieferung von Gütern oder eine Dienstleistung bewirkt, die keine Lieferung von Gütern oder Dienstleistung 
+ist, für die die Steuer gemäß Artikel 51 § 2 Absatz 1 Nr. 1, 2, 5 und 6 des Gesetzbuches 
+vom Vertragspartner geschuldet wird,2. eine Einfuhr von Gütern, einen innergemeinschaftlichen 
+Erwerb von Gütern oder einen Umsatz bewirkt, für die/den er aufgrund von Artikel 51 § 2 Absatz 
+1 Nr. 3 und 4 des Gesetzbuches die Steuer schuldet,3. einen Umsatz, durch den Güter unter eine 
+andere Lagerregelung als die Zolllagerregelung gestellt werden, bewirkt, der der Steuer nicht unterliegt.Ein 
+nicht in Belgien ansässiger Steuerpflichtiger, der in der Gemeinschaft ansässig ist oder in Artikel 55 
+§ 1 Absatz 2 des Gesetzbuches erwähnt ist, kann gemäß den Bestimmungen des vorliegenden 
+Erlasses die Zulassung eines Fiskalvertreters veranlassen, bevor er einen in Absatz 1 erwähnten Umsatz 
+bewirkt.Wird der in Absatz 1 erwähnte Steuerpflichtige von der Verpflichtung, die Zulassung 
+eines Fiskalvertreters zu veranlassen, befreit, wird ihm keine Mehrwertsteueridentifikationsnummer zugewiesen."KAPITEL 
+11 - SchlussbestimmungenArt. 17 - Steuerpflichtige, die einen Mietvertrag über ein Gebäude 
+oder einen Gebäudeteil, gegebenenfalls einschließlich des dazugehörigen Grund und Bodens, abgeschlossen 
+haben, der vor dem Datum des Inkrafttretens des vorliegenden Erlasses wirksam wird, und die spätestens 
+zum Zeitpunkt des Wirksamwerdens dieses Vertrages beabsichtigten, die Vermietung zu besteuern, üben spätestens 
+am letzten Tag des zweiten Monats nach dem Monat, in dem der vorliegende Erlass in Kraft getreten ist, 
+die in Artikel 44 § 3 Nr. 2 Buchstabe d) des Gesetzbuches erwähnte Option für die Besteuerung 
+auf eine der folgenden Arten aus:1. durch Erstellung der Erklärung wie erwähnt in Artikel 7quater 
+§ 1 des Königlichen Erlasses Nr. 10 vom 29. Dezember 1992 über die Modalitäten für die Ausübung 
+der in den Artikeln 15 § 2 Absatz 3 und 25ter § 1 Absatz 2 Nr. 2 Absatz 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Optionen, über Erklärungen über Tätigkeitsaufnahme, -wechsel und -beendigung und über vorhergehende 
+Erklärungen im Bereich der Mehrwertsteuer, eingefügt durch Artikel 12 des vorliegenden Erlasses, gemäß 
+den in diesem Artikel vorgesehenen Modalitäten,2. durch Beifügung eines Zusatzvertrags, der 
+die Angaben der in Nr. 1 erwähnten Erklärung enthält, zu der Urkunde, die zwischen den Parteien einen 
+Rechtstitel für den Mietvertrag darstellt.Art. 18 - Artikel 12 wird wirksam mit 1. Januar 2019. 
+Artikel 14 wird wirksam mit 4. Februar 2019.Art. 19 - Der für Finanzen zuständige Minister 
+ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 7. November 
+2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister der FinanzenA. 
+DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-23Numac : 2021032916
+

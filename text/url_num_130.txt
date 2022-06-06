@@ -1,0 +1,321 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/28/2020021118/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-04Numac : 2020021118
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 28 MEI 2020. - Bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/020 tot invoering van versoepelingsmaatregelen voor de registratierechten in de context van de COVID-19 pandemie 
+VERSLAG 
+AAN DE BRUSSELSE HOOFDSTEDELIJKE REGERINGTer attentie van de leden van de Regering,De 
+WHO heeft het coronavirus COVID-19 op 11 maart 2020 gekwalificeerd als een pandemie.De door 
+de COVID-19 veroorzaakte gezondheidscrisis heeft geleid tot de toepassing van grootschalige nationale 
+gezondheidsmaatregelen, in het bijzonder de zogenaamde "social distancing" maatregelen waartoe de Nationale 
+Veiligheidsraad op 12 en 13 maart 2020 besloten heeft.Deze maatregelen kunnen ertoe leiden 
+dat bepaalde belastingplichtigen in het kader van de registratierechten worden geconfronteerd met onverwachte 
+bijkomende fiscale lasten.Dit besluit beoogt om deze fiscale gevolgen te minimaliseren door 
+een aantal termijnen te verlengen en door onder bepaalde voorwaarden het tarief van het registratierecht 
+op de vestiging van een hypotheek te verlagen.1. Verlenging van de termijn waarin bepaalde 
+handelingen moeten worden gesteldDe "social distancing" maatregelen hebben in het kader van 
+de registratierechten een impact op de mogelijkheid om bepaalde termijnen te respecteren om zodoende 
+van een voordelige belastingmaatregel te kunnen genieten.Het gaat met name om onderstaande 
+termijnen:1) Artikel 46bis van het W. Reg.Aan belastingplichtigen die genieten van 
+het abattement van 175.000 euro in het verkooprecht bij de aankoop van hun onroerend goed, wordt een 
+termijn van 2 jaar (of 3 jaar in geval van nieuwbouw) toegekend om in het betrokken goed hun hoofdverblijfplaats 
+te vestigen.2) Artikel 71 van het W. RegAan personen die een beroepsverklaring hebben 
+ondertekend en die genieten van een verminderd verkooprecht tot 8% overeenkomstig artikel 62 van hetzelfde 
+Wetboek wordt een termijn van 5 jaar toegekend om een reeks wederverkopen aan te tonen.3) Artikel 
+212 van het W. RegAan belastingplichtigen die 36% van hun betaalde registratierechten kunnen 
+terugvorderen bij wederverkoop van het door hen verkregen onroerend goed wordt een termijn van 2 jaar 
+toegekend om deze wederverkoop via authentieke akte te laten vaststellen.4) Artikel 212bis 
+van het W. RegAan personen, die niet konden genieten van het "rechtstreekse" abattement bepaald 
+in artikel 46bis, wordt een termijn van 2 jaar toegekend om over te gaan tot vervreemding van de onroerende 
+goederen die de toepassing van dit "rechtstreekse" abattement hebben verhinderd, om de teruggave van 
+de rechten die geheven werden boven het bedrag dat zou verschuldigd geweest zijn met toepassing van artikel 
+46bis alsnog aan te vragen.Om de betrokken personen niet te beroven van een voordelige belastingmaatregel 
+waarvan zij zonder de "social distancing" maatregelen hadden kunnen genieten, dienen de bovengenoemde 
+termijnen te worden verlengd indien ze verstrijken tijdens de periode van "social distancing".Alle 
+betrokkenen die in het kader van het vervullen van hun verplichtingen werden geconfronteerd met de gevolgen 
+van de voornoemde maatregelen moeten van deze verlenging kunnen genieten. Dit betekent dat de verlenging 
+van de termijnen moet retroageren tot 16 maart 2020. Dit is immers de eerste werkdag die volgde op het 
+uitvaardigen van de eerste maatregelen ter bestrijding van het Coronavirus die vervat zaten in het Ministerieel 
+besluit van 13 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken.Op basis van de aankondigingen van de Nationale Veiligheidsraad op 24 april en 
+6 mei 2020 met betrekking tot de afbouwstrategie, wordt verwacht, onder voorbehoud dat de gezondheidscrisis 
+gunstig evolueert, dat hoewel bepaalde "social distancing" maatregelen nog steeds van kracht zullen zijn, 
+de economische en sociale activiteiten in mei en juni 2020 geleidelijk zullen worden hervat.Deze 
+verlenging moet dus tevens worden toegestaan wanneer de bovengenoemde termijnen verstrijken in de periode 
+onmiddellijk na het geleidelijk hervatten van de economische en sociale activiteiten, aangezien een terugkeer 
+naar normale omstandigheden waarschijnlijk niet onmiddellijk zal plaatsvinden, ook niet voor de notariële 
+functie en ook moet rekening gehouden worden met de achterstand die in de periode van "social distancing" 
+is opgebouwd en in de daaropvolgende maanden bijkomend verwerkt moet worden.Concreet heeft 
+de Brusselse Hoofdstedelijk Regering besloten de bovengenoemde termijn te verlengen tot 1 oktober 2020 
+voor al de bovengenoemde termijnen die verstrijken tussen maandag 16 maart 2020 en 30 september 2020.De 
+termijnen van de bovengenoemde artikelen van het Wetboek der registratie-, hypotheek- en griffierechten 
+worden concreet, bij wijze van voorbeeld en in de hypothese dat een groot deel van de economische en 
+sociale activiteiten zullen worden hervat tegen 8 juni 2020, als volgt verlengd:1) Stel dat 
+de termijn verstrijkt op 22 april 2020, een datum binnen de periode van de "social distancing" maatregelen. 
+Door de verlenging van de termijn heeft de betrokkene in dit geval tot 1 oktober 2020 tijd om zich in 
+regel te stellen.2) Stel dat termijn verstrijkt op 15 juni 2020, een datum net na het hervatten 
+van de economische activiteiten. Door de verlenging van de termijn heeft de betrokkene ook in dit geval 
+tot 1 oktober 2020 tijd om zich in regel te stellen.3) Stel dat de termijn verstrijkt op 26 
+september 2020, een datum lang na het hervatten van de economische activiteiten. Door de verlenging van 
+de termijn heeft de betrokkene ook in dit geval tot 1 oktober 2020 tijd om zich in regel te stellen.De 
+aanbeveling van de Raad van State in zijn advies nr. 67.337/4 om rekening te houden met een vaste periode 
+in plaats van met het abstracte begrip van het einde van de maatregelen van "social distancing", is opgevolgd 
+om de grootst mogelijke rechtszekerheid te waarborgen en de risico's van uiteenlopende interpretaties 
+van het begrip "einde van de maatregelen van social distancing" te voorkomen.In plaats van 
+de datum van het einde van deze vaste periode te moeten wijzigen (door een nieuw bijzonderemachtenbesluit), 
+is de regering tevens gemachtigd om tot twee keer toe te besluiten de termijnen met een maand te verlengen, 
+indien het geleidelijk hervatten van de economische activiteiten, voorzien door de Nationale Veiligheidsraad 
+op 24 april en 6 mei 2020, wordt teruggedraaid wegens de ongunstige evolutie van de huidige gezondheidscrisis.2. 
+Verlaging van het registratierecht op de hypotheekvestigingen bij omzetting van bestaande hypothecaire 
+mandatenDaarnaast hebben de huidige "social distancing" maatregelen evenals de tijdelijke stopzetting 
+van een groot aantal economische en commerciële activiteiten een negatieve impact op de financiële situatie 
+van huishoudens en bedrijven waardoor de financiële sector wordt aangemoedigd tot de omzetting van hun 
+hypothecaire mandaten in hypothecaire inschrijvingen.In de praktijk wordt overeenkomstig artikel 
+87 van hetzelfde Wetboek, het recht van één procent geheven op de vestiging van een hypotheek verschuldigd 
+door de hypotheekgever. Het is bijgevolg opportuun om belastingplichtigen tijdelijk van dit recht vrij 
+te stellen.Deze versoepelingsmaatregel dient echter in de tijd te worden beperkt om misbruiken 
+te voorkomen.Concreet heeft de Brusselse Hoofdstedelijk Regering besloten dat het hypotheekrecht 
+vervat in artikel 87 van hetzelfde Wetboek niet verschuldigd is voor een hypothecaire inschrijving die 
+tussen 16 maart en 30 juni is gedaan op basis van een hypothecair mandaat dat dateert van vóór 16 maart 
+2020.Het toepassingsgebied van het ingevoerde nultarief werd beperkt tot de hypotheken die 
+voortvloeiden uit hypothecaire mandaten die van voor de Corona-crisis dateerden om misbruiken te voorkomen.De 
+limitering in de tijd van het nultarief werd doorgevoerd opdat deze maatregel gelijk zou lopen met de 
+federale maatregelen inzake het hypotheekrecht.Dit ontwerp van bijzondere machtenbesluit werd 
+ter spoedadvies voorgelegd aan de Raad van state, rekening houdend met de hoogdringendheid van de genomen 
+maatregelen. De Raad van State heeft op 7 mei 2020 advies nr. 67.337/4 verleend in toepassing van artikel 
+84, § 1, lid 1, 3°  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973. Met 
+de suggesties van de Raad van State is rekening gehouden in de mate die hierboven is toegelicht.Ter 
+informatievan de Brusselse Hoofdstedelijke Regering,De Minister van Financiën en 
+Begroting,S. GATZRAAD VAN STATEafdeling WetgevingAdvies 
+67.337/4 van 7 mei 2020 over een ontwerp van besluit van de Brusselse Hoofdstedelijke Regering nr. 2020/020 
+`tot invoering van versoepelingmaatregelen voor de registratierechten in de context van de COVID-19 pandemie'Op 
+30 april 2020 is de Raad van State, afdeling Wetgeving, door de Minister van de Brusselse Hoofdstedelijke 
+Regering, belast met Financiën, Begroting, Openbaar Ambt, de Promotie van Meertaligheid en van het Imago 
+van Brussel verzocht binnen een termijn van vijf werkdagen een advies te verstrekken over een ontwerp 
+van besluit van de Brusselse Hoofdstedelijke Regering nr. 2020/XXX `tot invoering van versoepelingmaatregelen 
+voor de registratierechten in de context van de COVID-19 pandemie'.Het ontwerp is door de vierde 
+kamer onderzocht op 7 mei 2020. De kamer was samengesteld uit Martine BAGUET, kamervoorzitter, Luc CAMBIER 
+en Bernard BLERO, staatsraden, en Anne Catherine VAN GEERSDAELE, griffier.Het verslag is uitgebracht 
+door Marc OSWALD, eerste auditeur.De overeenstemming tussen de Franse en de Nederlandse tekst 
+van het advies is nagezien onder toezicht van Martine BAGUET.Het advies, waarvan de tekst hierna 
+volgt, is gegeven op 7 mei 2020.Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten 
+'op de Raad van State', gecoördineerd op 12 januari 1973, moeten in de adviesaanvraag in het bijzonder 
+de redenen worden opgegeven tot staving van het spoedeisende karakter ervan.De motivering in 
+de brief luidt als volgt:"Deze hoogdringendheid wordt gemotiveerd door het feit dat de Brusselse 
+Hoofdstedelijke Regering dringend de rechtszekerheid wenst te vrijwaren, zowel wat de verlenging van 
+de termijnen betreft als wat het registratierecht op de vestiging van een hypotheek betreft. Door het 
+feit dat de maatregelen van "social distancing" de belastingplichtigen sterk hinderen in de uitvoering 
+van bepaalde verplichtingen binnen de daartoe voorziene termijn, dienen deze termijnen inderdaad onmiddellijk 
+te worden verlengd zodat de betrokken belastingplichtigen met zekerheid weten dat zij niet zullen worden 
+gesanctioneerd. En door de vertraging van de economische activiteit en de tijdelijke werkloosheid van 
+een aanzienlijk aantal werknemers, is de financiële positie van vele kredietnemers dermate verzwakt wat 
+tot effect kan hebben dat de banken overgaan tot activering van de hypothecaire mandaten en het dus noodzakelijk 
+is de lasten die gepaard gaan met een hypothecaire inschrijving voor zulke kredietnemers onverwijld op 
+te heffen".Krachtens artikel 84, § 1, tweede lid, van de gecoördineerde wetten op de 
+Raad van State moet de motivering van het spoedeisend karakter, die in de adviesaanvraag opgegeven wordt, 
+in de aanhef van het besluit worden overgenomen.In casu is dat vereiste evenwel niet helemaal 
+vervuld.Aangezien de adviesaanvraag ingediend is op basis van artikel 84, § 1, eerste 
+lid, 3°,  van de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, beperkt de afdeling 
+Wetgeving overeenkomstig artikel 84, § 3, van de voornoemde gecoördineerde wetten haar onderzoek 
+tot de rechtsgrond van het voorstel, de bevoegdheid van de steller van de handeling en de te vervullen 
+voorafgaande vormvereisten.Wat die drie punten betreft, geeft het ontwerp aanleiding tot de 
+volgende opmerkingen.ONDERZOEK VAN HET ONTWERP1. Hoewel zulks krachtens artikel 3bis, 
+§ 1, van de gecoördineerde wetten `op de Raad van State' niet uitdrukkelijk verplicht is, wordt 
+voorgesteld om tegelijkertijd met dit besluit een verslag aan de regering met een uiteenzetting van de 
+draagwijdte en de concrete gevolgen van dit besluit bekend te maken en het te vergezellen van dit advies.2. 
+De artikelen 3 en 5 van de bijzondere wet van 16 januari 1989 `betreffende de financiering van de Gemeenschappen 
+en de Gewesten' bieden geen rechtsgrond voor het ontwerp. Het eerste lid moet dus uit de aanhef worden 
+weggelaten.3. Artikel 3 van het ontwerp voorziet in een periode die ingaat op 16 maart 2020 
+en eindigt op 30 juni 2020, tijdens welke het in artikel 87 van het Wetboek der registratie-, hypotheek 
+en griffierechten bepaalde recht niet verschuldigd is ingeval de inschrijving van een hypotheek wordt 
+gevraagd op overlegging van een hypothecair mandaat dat dagtekent van vóór 16 maart 2020.Op 
+de vraag waarom die twee datums in aanmerking zijn genomen, verwijst de gemachtigde van de minister naar 
+de artikelen 14 en 16, 2°,  van een wetsontwerp `houdende diverse dringende fiscale bepalingen ten gevolge 
+van de COVID-19 pandemie' dat op 24 april 2020 bij het bureau van de Kamer van volksvertegenwoordigers 
+is ingediend, en waarbij geen recht verschuldigd is voor de inschrijving van een hypotheek die is gevraagd 
+in de periode van 16 maart 2020 tot 30 juni 2020 en voor de handelingen tot uitvoering van een hypothecair 
+mandaat die verleden zijn van 16 maart 2020 tot 30 juni 2020, wanneer dat mandaat dagtekent van vóór 
+16 maart 2020.De afdeling Wetgeving heeft in haar advies 67.203/3 van 14 april 2020 over dat 
+wetsvoorstel de uitleg van de gemachtigde van de minister met betrekking tot de keuze van de datums opgenomen:"Les 
+premières mesures de confinement datent de l'A.M. du vendredi 13 mars 2020, d'où la date retenue en ce 
+qui concerne les procurations notariées.C'est dans les jours suivants immédiatement qu'a été 
+signalé le risque de conversion massive de mandats hypothécaires en inscriptions effectives. Ce qui menaçait 
+d'accentuer les difficultés des entreprises concernées (et le cas échéant des ménages). D'où la date 
+retenue du 16 mars, aussi pour l'article 14 et l'exemption de rétribution hypothécaire par le projet 
+d'A.R. précité.Bovendien houdt de ene maatregel geen [enkel] verband met de andere, waardoor 
+het gerechtvaardigd is om, gelet op die specifieke omstandigheden van die bepalingen, andere startdata 
+te voorzien."In onderhavig geval verantwoordt de gemachtigde van de minister zijnerzijds de 
+keuze van dezelfde datums door een streven naar samenhang met de door de federale overheid voorgestelde 
+regeling.4.1. De artikelen 1, 2, 4 en 5 van het voorliggende ontwerp voorzien dan weer in een 
+periode die eveneens ingaat op 16 maart 2020, maar die verstrijkt drie maanden na het einde van "de maatregelen 
+van `social distancing' voorzien door het ministerieel besluit houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken, zoals desgevallend gewijzigd of vervangen".Vooreerst 
+moet de steller van het ontwerp erop toezien dat hij, anders dan voor het ontworpen artikel 3 en, in 
+voorkomend geval, in het verslag aan de regering waarvan de redactie aanbevolen wordt, verantwoordt waarom 
+hij 16 maart 2020 in aanmerking neemt als begindatum van de periode waarin diverse termijnverlengingen 
+mogelijk worden wanneer die termijnen in de loop van die periode vervallen.4.2. Bovendien is 
+het begrip "einde van de maatregelen van `social distancing' voorzien door het ministerieel besluit houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, zoals desgevallend 
+gewijzigd of vervangen" niet duidelijk genoeg en kan het tot rechtsonzekerheid leiden.Gezien 
+de geleidelijke en voorwaardelijke afbouw van de lockdown die momenteel onder leiding van de federale 
+overheid plaatsvindt, zal het wellicht niet eenvoudig zijn om met de nodige nauwkeurigheid te bepalen 
+wanneer de zogenaamde maatregelen van "sociale distancing" volledig zullen zijn opgeheven.Het 
+verdient dan ook aanbeveling om in de desbetreffende bepalingen te voorzien in een specifieke einddatum 
+voor de geplande periode die ingaat op 16 maart 2020 (en die datum desnoods later te wijzigen).5. 
+Net zoals voor de artikelen 1, 2, 4 en 5 moet de steller van het ontwerp kunnen motiveren waarom het 
+voorliggende besluit met terugwerkende kracht in werking treedt op 16 maart 2020.De griffier, 
+  Anne Catherine Van GeersdaeleDe voorzitter,Martine Baguet_______Nota's(1) 
+Parl.St. Kamer, 2019-20, nr. 55-1174/001(2) Advies 67.203/3,http://www.raadvst-consetat.be/dbx/adviezen/67203.pdf.28 
+MEI 2020. - Bijzonderemachtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/020 tot invoering 
+van versoepelingsmaatregelen voor de registratierechten in de context van de COVID-19 pandemieDe 
+Brusselse Hoofdstedelijke Regering,Gelet op de ordonnantie van 19 maart 2020 om bijzondere 
+machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis 
+COVID-19, artikel 2;Gelet op het Wetboek der registratie-, hypotheek- en griffierechten, artikelen 
+46bis, 71, 87, 212 en 212bis;Gelet op de hoogdringendheid die voortvloeit uit het feit dat 
+de door COVID-19 veroorzaakte gezondheidscrisis heeft geleid tot de toepassing van grootschalige nationale 
+gezondheidsmaatregelen, in het bijzonder de zogenaamde "social distancing" maatregelen waartoe de Nationale 
+Veiligheidsraad op 12 en 13 maart 2020 besloten heeft;Gelet dat deze hoogdringendheid wordt 
+gemotiveerd door het feit dat de Brusselse Hoofdstedelijke Regering dringend de rechtszekerheid wenst 
+te vrijwaren, zowel wat de verlenging van de termijnen betreft als wat het registratierecht op de vestiging 
+van een hypotheek betreft;Gelet op het feit dat de `social distancing' maatregelen de belastingplichtigen 
+sterk hinderen in de uitvoering van bepaalde verplichtingen binnen de daartoe voorziene termijn, dienen 
+deze termijnen inderdaad onmiddellijk te worden verlengd zodat de betrokken belastingplichtigen met zekerheid 
+weten dat zij niet zullen worden gesanctioneerd;Gelet op het feit dat door de vertraging van 
+de economische activiteit en de tijdelijke werkloosheid van een aanzienlijk aantal werknemers, de financiële 
+positie van vele kredietnemers dermate is verzwakt wat tot effect kan hebben dat de banken overgaan tot 
+activering van de hypothecaire mandaten en het dus noodzakelijk is de lasten die gepaard gaan met een 
+hypothecaire inschrijving voor zulke kredietnemers onverwijld op te heffen;Gelet op het advies 
+67.337/4 van de Raad van State, gegeven op 7 mei 2020, met toepassing van artikel 84, § 1, eerste 
+lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat, bij toepassing van artikel 2, § 3, 5°  van ordonnantie van 4 oktober 2018 tot invoering van 
+de gelijkekansentest, deze test niet moet worden opgesteld voor een reglementaire tekst waarvoor het 
+advies van de Raad van State wordt gevraagd bij hoogdringendheid;Overwegende dat het, rekening 
+houdend met de hoogdringendheid om zowel de rechtszekerheid als het gelijkheidsbeginsel te vrijwaren, 
+aangewezen is om overeenkomstig artikel 2 van de ordonnantie van 19 maart 2020 om bijzondere machten 
+toe te kennen aan de Regering, met spoed het advies van de Raad van State in te winnen;Overwegende 
+dat, bij toepassing van artikel 2, § 4 van de ordonnantie van 19 maart 2020 om bijzondere machten 
+toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19, 
+het advies van de Inspecteur van Financiën en het advies van de Economische en Sociale Raad van het Brussels 
+Hoofdstedelijk Gewest niet vereist zijn;Overwegende de kwalificatie van het coronavirus COVID-19 
+als een pandemie door de WHO op 11 maart 2020;Overwegende dat de wereldwijde en gewestelijke 
+economische activiteit is vertraagd als gevolg van gezondheidsmaatregelen om de COVID-19 epidemie te 
+vertragen;Overwegende dat de "social distancing" maatregelen evenals de tijdelijke stopzetting 
+van een groot aantal economische en commerciële activiteiten een negatieve impact hebben op de financiële 
+situatie van huishoudens en bedrijven;Overwegende dat het noodzakelijk is om fiscale maatregelen 
+te nemen om de belastingplichtigen in tijden van crisis te helpen;Overwegende dat, wegens de 
+"social distancing" maatregelen, de naleving van de in artikel 46bis van het Wetboek der registratie-, 
+hypotheek- en griffierechten bedoelde termijn, opgelegd aan belastingplichtigen voor de vestiging van 
+hun hoofdverblijfplaats in het onroerend goed dat zij hebben gekocht met het voordeel van het abattement 
+in het verkooprecht, voor sommige van hen, niet zal kunnen worden nageleefd;Overwegende dat 
+de inachtneming van de in artikel 71 van hetzelfde Wetboek bedoelde termijn van 5 jaar die aan personen, 
+die een beroepsverklaring hebben ondertekend, wordt gegeven om een reeks wederverkopen te laten blijken, 
+in gedrang zou kunnen komen gezien de onmogelijkheid om, binnen de aangegeven termijn, over te gaan tot 
+deze reeks wederverkopen;Overwegende dat de in artikel 212, eerste lid van hetzelfde Wetboek 
+bedoelde termijn kan verstrijken tijdens de op nationaal niveau vastgestelde "social distancing" periode;Overwegende 
+dat aan personen, die ten gevolge van deze "social distancing" maatregelen niet in staat zijn om een 
+authentieke akte van wederverkoop te sluiten, de teruggave van de rechten, die ze zonder de algemene 
+"social distancing" maatregelen zouden hebben genoten, wordt ontzegd;Overwegende dat het van 
+essentieel belang is een verlenging van deze termijn toe te staan om de kandidaten voor terugvordering 
+niet onnodig te bestraffen voor de teruggave van 36% van het registratierecht in geval van wederverkoop 
+op korte termijn;Overwegende dat de inachtneming van de in artikel 212bis van hetzelfde Wetboek 
+bedoelde termijn om over te gaan tot de vervreemding van de onroerende goederen die de toepassing van 
+het voornoemde abattement hebben verhinderd, in het gedrang kan komen gezien de onmogelijkheid om binnen 
+de aangegeven termijn over te gaan tot de verkoop met vaste datum, met name door de onmogelijkheid om 
+zich tot een notaris te wenden;Overwegende dat de bovengenoemde termijnen derhalve moeten worden 
+verlengd om de belastingplichtigen niet te beroven van een voordelige belastingmaatregel waarvan zij 
+zonder de "social distancing" maatregelen hadden kunnen genieten;Overwegende dat deze verlenging 
+moet retroageren tot 16 maart 2020, de eerste werkdag waarop de "social distancing" maatregelen, waartoe 
+de Nationale Veiligheidsraad op 12 en 13 maart 2020 besloten heeft, van kracht waren;Overwegende 
+dat, op basis van de beslissingen van de Nationale Veiligheidsraad op 24 april en 6 mei 2020 met betrekking 
+tot de afbouwstrategie, verwacht wordt, onder voorbehoud dat de gezondheidscrisis gunstig evolueert, 
+dat hoewel de "social distancing" maatregelen nog steeds van kracht zullen zijn, de economische activiteiten 
+in mei en juni 2020 geleidelijk zullen worden hervat;Overwegende dat de verlenging van de bovengenoemde 
+termijnen tevens moet worden toegestaan wanneer deze termijnen verstrijken in de periode onmiddellijk 
+na het geleidelijk hervatten van de economische en sociale activiteiten aangezien een terugkeer naar 
+normale omstandigheden waarschijnlijk niet onmiddellijk zal plaatsvinden, ook niet voor de notariële 
+functie en ook moet rekening gehouden worden met de achterstand die in de periode van "social distancing" 
+is opgebouwd en in de daarop volgende maanden bijkomend moet verwerkt worden;Overwegende dat 
+de regering deze verlenging tweemaal kan verlengen met één maand, indien het geleidelijk hervatten van 
+de economische activiteiten, zoals bepaald door de beslissingen van de Nationale Veiligheidsraad op 24 
+april en 6 mei 2020, wordt teruggedraaid ingevolge de ongunstige evolutie van de door COVID-19 veroorzaakte 
+gezondheidscrisis.Overwegende dat de huidige financiële context waarschijnlijk de massale omzetting 
+van hypothecaire mandaten die in handen zijn van de financiële sector in effectieve hypothecaire inschrijvingen 
+zal aanmoedigen;Overwegende dat in praktijk het recht van één procent geheven op de vestiging 
+van een hypotheek verschuldigd is door de hypotheekgever, voor zowel natuurlijke als rechtspersonen, 
+en dat het opportuun is om hem van dit recht vrij te stellen wegens uitzonderlijke omstandigheden van 
+economische tegenspoed;Overwegende dat de verlening van deze versoepelingsmaatregelen in de 
+tijd moet worden beperkt om misbruiken te voorkomen;Overwegende dat de Regering dus, gelet 
+op de economische urgentie, gebruik wenst te maken van de volmachten die haar werden toevertrouwd door 
+het Parlement om de burgers en de bedrijven van het Gewest te ondersteunen in deze moeilijke periode;Op 
+voorstel van de Minister belast met Financiën,Na beraadslaging,Besluit :Artikel 
+1. De termijnen bedoeld in artikel 46bis, vijfde lid, 2°,  b), van het Wetboek der registratie-, hypotheek- 
+en griffierechten die verstrijken tussen 16 maart 2020 en 30 september 2020 worden verlengd tot 1 oktober 
+2020.Art. 2. De termijn bedoeld in artikel 71 van hetzelfde Wetboek die verstrijkt tussen 16 
+maart 2020 en 30 september 2020 wordt verlengd tot 1 oktober 2020.Art. 3. Het in artikel 87 
+van hetzelfde Wetboek bepaalde recht is niet verschuldigd in geval in de periode van 16 maart 2020 tot 
+30 juni 2020 de inschrijving van een hypotheek wordt gevraagd op overlegging van een hypothecair mandaat 
+dat dagtekent van voor 16 maart 2020.Art. 4. De termijn bedoeld in artikel 212, eerste lid 
+van hetzelfde Wetboek die verstrijkt tussen 16 maart 2020 en 30 september 2020 wordt verlengd tot 1 oktober 
+2020.Art. 5. De termijnen bedoeld in artikel 212bis, eerste lid, en tweede lid, 2°,  a) van 
+hetzelfde Wetboek die verstrijken tussen 16 maart 2020 en 30 september 2020 worden verlengd tot 1 oktober 
+2020.Art. 6. De Regering kan, tweemaal en door een besluit waarin de Regering de noodzaak om 
+dit te doen in het licht van de evolutie van de gezondheidscrisis verantwoordt, de termijnen bedoeld 
+in de artikelen 1, 2, 3 en 5 en de datum tot dewelke de termijn wordt verlengd, verlengen met één maand.Art. 
+7. Dit besluit heeft uitwerking met ingang van 16 maart 2020.Art. 8. De minister bevoegd voor 
+Financiën is belast met de uitvoering van dit besluit.Brussel, 28 mei 2020.Voor de 
+Brusselse Hoofdstedelijke Regering:De Minister-President,R. VERVOORTDe 
+Minister van de Brusselse Hoofdstedelijke Regering,belast met Mobiliteit, Openbare Werken en 
+Verkeersveiligheid,E. VAN DEN BRANDTDe Minister van de Brusselse Hoofdstedelijke 
+Regering, belast met Klimaattransitie, Leefmilieu, Energie en Participatieve Democratie,A. 
+MARONDe Minister van de Brusselse Hoofdstedelijke Regering, belast met Financiën, Begroting, 
+Openbaar Ambt en van de Promotie van Meertaligheid,S. GATZDe Minister van de Brusselse 
+Hoofdstedelijke Regering, belast met Werk en Beroepsopleiding, Digitalisering, de Plaatselijke Besturen 
+en Dierenwelzijn,B. CLERFAYT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-04Numac : 2020021118
+

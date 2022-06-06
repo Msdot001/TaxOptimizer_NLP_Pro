@@ -1,0 +1,57 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2020040436/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-03-06Numac : 2020040436
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN
+ 30 JULI 2018. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de wet van 30 juli 2018 houdende 
+diverse bepalingen inzake belasting over de toegevoegde waarde (Belgisch Staatsblad van 10 augustus 2018, 
+err. van 28 augustus 2018).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-03-06Numac : 2020040436
+

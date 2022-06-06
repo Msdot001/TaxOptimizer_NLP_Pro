@@ -1,0 +1,112 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/10/03/2021041251/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-19Numac : 2021041251
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 3 OKTOBER 2019. - Koninklijk besluit tot aanpassing van de terminologie in de fiscale wetboeken en in het koninklijk besluit tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 aan deze in het Wetboek van economisch recht. - Duitse vertaling van uittreksels 
+De hierna volgende tekst 
+is de Duitse vertaling van de artikelen 3 tot 12 van het koninklijk besluit van 3 oktober 2019 tot aanpassing 
+van de terminologie in de fiscale wetboeken en in het koninklijk besluit tot uitvoering van het Wetboek 
+van de inkomstenbelastingen 1992 aan deze in het Wetboek van economisch recht (Belgisch Staatsblad van 
+30 oktober 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN3. OKTOBER 2019 
+- Königlicher Erlass zur Anpassung der Terminologie in den Steuergesetzbüchern und im Königlichen Erlass 
+zur Ausführung des Einkommensteuergesetzbuches 1992 an die Terminologie des WirtschaftsgesetzbuchesPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Gesetzes 
+vom 11. August 2017 zur Einfügung von Buch XX "Insolvenz von Unternehmen" in das Wirtschaftsgesetzbuch 
+und zur Einfügung der Buch XX eigenen Begriffsbestimmungen und der Buch XX eigenen Rechtsdurchsetzungsbestimmungen 
+in Buch I des Wirtschaftsgesetzbuches, des Artikels 74;Aufgrund des Registrierungs-, Hypotheken- 
+und Kanzleigebührengesetzbuches, der Artikel 161/1 und 162;Aufgrund des Einkommensteuergesetzbuches 
+1992, der Artikel 48, 48/1, 2758, 27510, 402 und 427;Aufgrund 
+des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992, der Artikel 27/1, 74 und 
+110;Aufgrund des Gutachtens des Staatsrates vom 23. September 2019, abgegeben in Anwendung 
+von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;In 
+der Erwägung, dass es sich nur um einen Erlass zur Ausführung bestehender Rechtsvorschriften handelt 
+und dass vorliegender Erlass keine budgetären Auswirkungen hat, muss weder eine Stellungnahme des Finanzinspektors 
+noch das Einverständnis der Ministerin des Haushalts beantragt werden;Auf Vorschlag des Vizepremierministers 
+und Ministers der FinanzenHaben Wir beschloßen und erlassen Wir: (...)KAPITEL 
+2 - Abänderungen des Einkommensteuergesetzbuches 1992Art. 3 - In Artikel 48 Absatz 2 des Einkommensteuergesetzbuches 
+1992, eingefügt durch das Gesetz vom 7. April 2005 und ersetzt durch das Gesetz vom 31. Januar 2009, 
+werden die Wörter "aufgrund des Gesetzes vom 31. Januar 2009 über die Kontinuität der Unternehmen" durch 
+die Wörter "aufgrund von Buch XX Titel 5 des Wirtschaftsgesetzbuches" ersetzt.Art. 4 - In Artikel 
+48/1 desselben Gesetzbuches, eingefügt durch das Gesetz vom 31. Januar 2009, werden die Wörter "aufgrund 
+des Gesetzes vom 31. Januar 2009 über die Kontinuität der Unternehmen" durch die Wörter "aufgrund von 
+Buch XX Titel 5 des Wirtschaftsgesetzbuches" ersetzt.Art. 5 - In Artikel 2758 
+§  3 Absatz 2 zweiter Gedankenstrich desselben Gesetzbuches, zuletzt abgeändert durch das Gesetz 
+vom 30. Juli 2018, werden die Wörter "in Artikel 59 des Gesetzes vom 31. Januar 2009 über die Kontinuität 
+der Unternehmen" durch die Wörter "in Artikel XX.84 des Wirtschaftsgesetzbuches" ersetzt.Art. 
+6 - Artikel 27510 Absatz 5 desselben Gesetzbuches, eingefügt durch das Gesetz vom 10. 
+August 2015, wird wie folgt abgeändert:a) Im ersten Gedankenstrich werden die Wörter "in den 
+Artikeln 7 und 8 des Konkursgesetzes vom 8. August 1997" durch die Wörter "in den Artikeln XX.32 und 
+XX.101 des Wirtschaftsgesetzbuches" ersetzt.b) Im zweiten Gedankenstrich werden die Wörter 
+"in Artikel 23 des Gesetzes vom 31. Januar 2009 über die Kontinuität der Unternehmen" durch die Wörter 
+"in Artikel XX.45 des Wirtschaftsgesetzbuches" ersetzt.Art. 7 - In Artikel 402 § 4 Absatz 
+3 desselben Gesetzbuches, ersetzt durch das Gesetz vom 27. April 2007 und abgeändert durch das Gesetz 
+vom 27. Mai 2013, werden die Wörter "im Gesetz vom 31. Januar 2009 über die Kontinuität der Unternehmen" 
+durch die Wörter "in Buch XX Titel 5 des Wirtschaftsgesetzbuches" ersetzt.Art. 8 - In Artikel 
+427 Absatz 4 desselben Gesetzbuches, abgeändert durch das Gesetz vom 8. August 1997, werden die Wörter 
+"Artikel 19 des Konkursgesetzes" durch die Wörter "Artikel XX.113 des Wirtschaftsgesetzbuches" ersetzt.KAPITEL 
+3 - Abänderungen des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992Art. 
+9 - Artikel 27/1 des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992, eingefügt 
+durch den Königlichen Erlass vom 9. Juli 2010, wird wie folgt abgeändert:a) In § 1 werden 
+die Wörter "Artikel 55 des Gesetzes vom 31. Januar 2009 über die Kontinuität der Unternehmen" durch die 
+Wörter "Artikel XX.79 des Wirtschaftsgesetzbuches" und die Wörter "Artikel 43 dieses Gesetzes" durch 
+die Wörter "Artikel XX.65 des Wirtschaftsgesetzbuches" ersetzt.b) In § 2 werden die 
+Wörter "desselben Gesetzbuches" durch die Wörter "des Einkommensteuergesetzbuches 1992" und die Wörter 
+"der Artikel 43 beziehungsweise 55 desselben Gesetzes vom 31. Januar 2009" durch die Wörter "der Artikel 
+XX.65 beziehungsweise XX.79 des Wirtschaftsgesetzbuches" ersetzt.Art. 10 - In Artikel 74 Absatz 
+2 Nr. 1 erster Gedankenstrich desselben Erlasses, zuletzt abgeändert durch den Königlichen Erlass vom 
+9. Juli 2010, werden die Wörter "aufgrund des Gesetzes vom 31. Januar 2009 über die Kontinuität der Unternehmen" 
+durch die Wörter "aufgrund von Buch XX Titel 5 des Wirtschaftsgesetzbuches" ersetzt.Art. 11 
+- In Artikel 110 Nr. 1 desselben Erlasses werden die Wörter "Artikel 51 des Konkursgesetzes vom 8. August 
+1997" durch die Wörter "Artikel XX.144 des Wirtschaftsgesetzbuches" ersetzt.Art. 12 - Der für 
+Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 3. Oktober 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-19Numac : 2021041251
+

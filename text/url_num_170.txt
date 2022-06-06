@@ -1,0 +1,129 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/16/2020015023/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020015023
+MINISTERIE VAN LANDSVERDEDIGING 
+ 16 JUNI 2020. - Koninklijk besluit nr. 31 houdende bijzondere maatregelen voor de militairen in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19 
+FILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (II), de artikelen 2 en 5, § 1, 5°  en 6°  en § 2;Gelet 
+op de wet van 30 juli 1938 betreffende het gebruik der talen bij het leger;Gelet op de wet 
+van 28 februari 2007 tot vaststelling van het statuut van de militairen en kandidaat-militairen van het 
+actief kader van de Krijgsmacht;Gelet op de wet van 10 april 2016 betreffende het werken op 
+afstand binnen Defensie;Overwegende het protocol van onderhandelingen N-502 van het Onderhandelingscomité 
+van het militair personeel, gesloten op 4 mei 2020;Overwegende het advies van de inspecteur 
+van Financiën, gegeven op 6 mei 2020;Overwegende de akkoordbevinding van de Minister van Begroting, 
+d.d. 13 mei 2020;Overwegende de akkoordbevinding van de Minister van Ambtenarenzaken, d.d. 
+13 mei 2020;Gelet op het advies 67.496/4 van de Raad van State, gegeven op 5 juni 2020 met 
+toepassing van artikel 4, derde lid, van de wet die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I);Overwegende op 
+de hoogdringendheid gemotiveerd door de omstandigheid dat, als gevolg van de crisis gerelateerd aan de 
+COVID-19 pandemie, dringende en bijzondere maatregelen moeten worden genomen die betrekking hebben op 
+de organisatie van het werk in brede zin, de werving en de professionele evaluatie van de militairen;Overwegende 
+dat, om de continuïteit van de openbare dienstverlening en het gelijkheidsbeginsel te waarborgen en de 
+rechtszekerheid te vrijwaren, er bijzondere maatregelen moeten worden genomen om aan de operationele 
+problemen te beantwoorden die het gevolg zijn van de genomen maatregelen in het kader van de gezondheidscrisis 
+ten gevolge van het coronavirus COVID-19;Op de voordracht van de Minister van Defensie en op 
+het advies van de in Raad vergaderde Ministers,Hebben Wij besloten en besluiten Wij :Artikel 
+1. In afwijking van artikel 2, zesde lid, van de wet 30 juli 1938 betreffende het gebruik der talen bij 
+het leger, ingevoegd bij de wet van 28 september 2017, mag de kandidaat beroepsofficier die de test om 
+minstens het niveau 3232 van de eisen inzake taalcompetentie bedoeld in de "standardization agreement 
+(STANAG) 6001" van de NAVO te behalen, niet heeft kunnen afleggen, de master in de ingenieurswetenschappen 
+of in de sociale en militaire wetenschappen van het academiejaar 2020-2021, aanvangen.Zodra 
+de gezondheidssituatie het zal toelaten, moet hij deze test zo snel mogelijk en uiterlijk op 30 september 
+2020 uitvoeren. Het niet voldoen aan deze taalvereiste heeft dezelfde gevolgen als wanneer de test had 
+plaatsgevonden voor het aanvangen van de master in de ingenieurswetenschappen of in de sociale en militaire 
+wetenschappen.Art. 2. In afwijking van artikel 10, § 1, eerste lid, 3°,  van de wet 
+van 28 februari 2007 tot vaststelling van het statuut van de militairen en kandidaat-militairen van het 
+actief kader van de Krijgsmacht, vervangen bij de wet van 31 juli 2013, omvatten de selectieproeven bedoeld 
+in artikel 9, eerste lid, 7°,  van dezelfde wet, geen proeven tot beoordeling van de fysieke geschiktheid 
+voor de wervingssessies van het wervingsjaar 2020.Art. 3. In afwijking van artikel 10, § 
+1, eerste lid, van de voornoemde wet van 28 februari 2007, gewijzigd bij de wetten van 31 juli 2013 en 
+20 mei 2019, kan het aantal sollicitanten kandidaat-beroepsofficier van de normale werving die aan alle 
+selectieproeven mag deelnemen, voor het wervingsjaar 2020, beperkt worden.De directeur-generaal 
+human resources bepaalt het aantal sollicitanten bedoeld in het eerste lid op basis van de capaciteit 
+van de Krijgsmacht om de selectieproeven te kunnen organiseren rekening houdende met de evolutie van 
+de gezondheidscrisis gebonden aan het coronavirus COVID-19, en van de resultaten behaald door de sollicitanten 
+bedoeld in het eerste lid in de door de directeur-generaal human resources bepaalde proeven van schoolse 
+kennis.Art. 4. Op basis van de capaciteit van de Krijgsmacht om de selectieproeven te kunnen 
+organiseren rekening houdende met de evolutie van de gezondheidscrisis gebonden aan het coronavirus COVID-19 
+kan het wervingsproces voor het jaar 2020 voor de lopende beschouwde wervingssessie definitief beëindigd 
+worden door de directeur-generaal human resources ten aanzien van de sollicitanten die vóór 18 maart 
+2020 niet aan alle voorziene selectieproeven konden deelnemen.Er kan ook een einde worden gesteld 
+aan de wervingssessie voor de sollicitanten die alle selectieproeven vóór 18 maart 2020 hebben kunnen 
+afleggen.De sollicitanten bedoeld in het eerste en tweede lid zijn van rechtswege opnieuw ingeschreven 
+voor de volgende gelijkwaardige wervingssessie. Voor deze nieuwe inschrijving, voor de betrokkene sollicitanten, 
+wordt er uitzonderlijk afgeweken van de leeftijdslimieten die van toepassing zijn.Art. 5. Op 
+basis van de capaciteit van de Krijgsmacht om de selectieproeven te kunnen organiseren rekening houdende 
+met de evolutie van de gezondheidscrisis gebonden aan het coronavirus COVID-19 kan de directeur-generaal 
+human resources het aantal inschrijvingen per vacature, per wervingssessie voor het wervingsjaar 2020 
+beperken.Art. 6. In afwijking van artikel 66, § 1, tweede lid, van de voornoemde wet 
+van 28 februari 2007, vervangen bij de wet van 31 juli 2017, wordt de professionele evaluatie van de 
+militairen voor de evaluatiecyclus 2020 beperkt tot de statutaire evaluatie bedoeld in artikel 66, § 
+1, tweede lid, 2°,  van dezelfde wet.Art. 7. In afwijking van artikel 2, tweede lid, van de 
+wet van 10 april 2016 betreffende het werken op afstand binnen Defensie, in het kader van studeren op 
+afstand, onafhankelijk in welke deelstand de kandidaat-militairen zich bevinden, kan het werken op afstand 
+toegestaan worden voor alle kandidaat-militairen.Art. 8. De toekenning van de forfaitaire vergoeding 
+van 0,62 euro per dag van telewerken, bedoeld in artikel 12, § 1, tweede lid, van dezelfde wet, 
+wordt beperkt tot 18 maal per maand, zelfs als het aantal uitgevoerde dagen telewerken hoger is dan 18 
+dagen per maand.Art. 9. In afwijking van artikel 14, § 1, tweede lid, van dezelfde wet, 
+mag, per kalenderweek, gewerkt worden op afstand tot:1°  vijf dagen voor de werkers op afstand 
+die prestaties verrichten in voltijds regime;2°  vier dagen voor de werkers op afstand die 
+prestaties verrichten in de vrijwillige arbeidsregeling van de vierdagenweek;3°  twee dagen 
+en half voor de werkers op afstand die prestaties verrichten in de regeling van de halftijdse vervroegde 
+uitstap.Art. 10. Dit besluit heeft uitwerking met ingang van 18 maart 2020.Dit besluit 
+treedt buiten werking op de datum waarop de maatregelen bepaald in artikel 3 van het ministerieel besluit 
+van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, 
+of bepaald in ieder ander besluit ter vervanging daarvan, niet meer van toepassing zijn.In 
+afwijking van het tweede lid, treedt artikel 1 buiten werking op 30 september 2020 en treden de artikelen 
+2 tot 6 buiten werking op 31 december 2020.Art. 11. De minister bevoegd voor Defensie is belast 
+met de uitvoering van dit besluit.Brussel, 16 juni 2020.FILIPVan Koningswege 
+:De Minister van Defensie,Ph. GOFFIN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-23Numac : 2020015023
+

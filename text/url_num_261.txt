@@ -1,0 +1,67 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-31Numac : 2020042527
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 15 JULI 2020. - Wet houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie (CORONA III) (1). - Erratum 
+In het Belgisch Staatsblad nr. 210 van 23 juli 2020 bladzijde 55186, 
+moeten de volgende correcties worden aangebracht:In de Franse tekst, lees:"TITRE 
+1er.- DISPOSITION GENERALE" in plaats van "TITEL 1er.- DISPOSITION 
+GENERALE";"TITRE 2. - MODIFICATIONS RELATIVES AUX IMPOTS SUR LES REVENUS" in plaats van "TITEL 
+2. - MODIFICATIONS RELATIVES AUX IMPOTS SUR LES REVENUS";"Art. 16. A l'article" in plaats van 
+"Art. 16. à l'article";"Art. 17. A l'article" in plaats van "Art. 17. à l'article";"Art. 
+18. A l'article" in plaats van "Art. 18. à l'article";"Art. 19. A l'article" in plaats van 
+"Art. 19. à l'article";"TITRE 3.- MODIFICATIONS RELATIVES AUX DROITS D'ENREGISTREMENT ET DE 
+GREFFE" in plaats van "TITEL 3. -MODIFICATIONS RELATIVES AUX DROITS D'ENREGISTREMENT ET DE GREFFE";"TITRE 
+4.- MODIFICATIONS RELATIVES AUX DROITS ET TAXES DIVERS" in plaats van "TITEL 4.- MODIFICATIONS RELATIVES 
+AUX DROITS ET TAXES DIVERS";"TITRE 5.- MODIFICATIONS RELATIVES A LA TAXE SUR LA VALEUR AJOUTEE" 
+in plaats van "TITEL 5.- MODIFICATIONS RELATIVES A LA TAXE SUR LA VALEUR AJOUTEE";"TITRE 6. 
+- CONFIRMATION D'UN ARRETE ROYAL" in plaats van "TITEL 6.- CONFIRMATION D'UN ARRETE ROYAL";"TITRE 
+7.- ENTREE EN VIGUEUR" in plaats van "TITEL 7.- ENTREE EN VIGUEUR".   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-31Numac : 2020042527
+

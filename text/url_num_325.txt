@@ -1,0 +1,865 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/28/2020015932/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-03Numac : 2020015932
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 28 OKTOBER 2020. - Ministerieel besluit houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van 
+het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken (Belgisch Staatsblad van 28 oktober 2020).Deze vertaling is 
+opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES28. OKTOBER 2020 - Ministerieller Erlass zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund 
+des Gesetzes vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes 
+vom 5. August 1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. 
+Mai 2007 über die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen 
+Erlasses vom 18. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. 
+Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender 
+Erlass von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 28. Oktober 2020;Aufgrund des Einverständnisses des Staatssekretärs 
+für Haushalt vom 28. Oktober 2020;Aufgrund der am 28. Oktober 2020 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die beschlossenen Maßnahmen gerechtfertigt haben; dass es daher dringend erforderlich 
+ist, bestimmte Maßnahmen zu ergreifen;In Erwägung der Konzertierungen zwischen den Regierungen 
+der föderierten Teilgebiete und den zuständigen föderalen Behörden im Nationalen Sicherheitsrat, der 
+am 10., 12., 17. und 27. März 2020, am 15. und 24. April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 
+24. und 30. Juni 2020, am 10., 15., 23. und 27. Juli 2020, am 20. August 2020 und am 23. September 2020 
+zusammengetreten ist;In Erwägung der Gutachten der GEES und der Stellungnahmen des CELEVAL;In 
+Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Artikels 
+191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen 
+der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen möglichen 
+Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei der Feststellung, 
+dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige Schutzmaßnahmen 
+ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) der Verordnung (UE) 2016/679 
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der 
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In 
+Erwägung des Gesetzes vom 24. Januar 1977 über den Schutz der Gesundheit der Verbraucher im Bereich der 
+Lebensmittel und anderer Waren;Aufgrund des Gesetzes vom 4. August 1996 über das Wohlbefinden 
+der Arbeitnehmer bei der Ausführung ihrer Arbeit und seiner Ausführungserlasse;In Erwägung 
+des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten 
+Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste 
+und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten 
+Personen auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 
+2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung 
+des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der 
+föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus 
+COVID-19;In Erwägung des "Leitfadens für die Öffnung der Geschäfte zur Eindämmung der Ausbreitung 
+von COVID-19", der auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt 
+wird;In Erwägung des "Allgemeinen Leitfadens zur Eindämmung der Ausbreitung von COVID-19 am 
+Arbeitsplatz", der auf der Website des Föderalen Öffentlichen Dienstes Beschäftigung, Arbeit und Soziale 
+Konzertierung zur Verfügung gestellt wird;In Erwägung des "Leitfadens für eine sichere Wiederaufnahme 
+des Gaststättengewerbes zur Eindämmung der Ausbreitung von COVID-19", der auf der Website des Föderalen 
+Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt wird;In Erwägung der Protokolle, die 
+von den zuständigen Ministern in Konzertierung mit den betreffenden Sektoren bestimmt werden;In 
+Erwägung der Empfehlung (EU) des Rates der Europäischen Union vom 7. August 2020 zur Änderung der Empfehlung 
+2020/912 zur schrittweisen Aufhebung der vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen 
+in die EU;In Erwägung der Empfehlung (EU) 2020/1475 des Rates vom 13. Oktober 2020 für eine 
+koordinierte Vorgehensweise bei der Beschränkung der Freizügigkeit aufgrund der COVID-19-Pandemie;In 
+Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere 
+hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 
+von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, 
+dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen 
+hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung 
+der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, 
+dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen der Epidemie 
+führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In Erwägung 
+der Erklärung des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er darauf hingewiesen 
+hat, dass die Situation in Europa sehr besorgniserregend ist und dass die Übertragung und die Übertragungsquellen 
+in den Häusern, an geschlossenen öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen 
+nicht korrekt befolgen, stattfinden beziehungsweise zu finden sind;In Erwägung der Erklärung 
+des Generaldirektors der WHO vom 26. Oktober 2020, in der er deutlich gemacht hat, dass die höchsten 
+Fallzahlen von COVID-19 in der Woche vom 19. Oktober 2020 verzeichnet worden sind und dass alle Anstrengungen 
+unternommen werden müssen, um die Mitarbeiter des Gesundheitspflegesektors zu schützen; dass Schulen 
+und Unternehmen offen bleiben können, dafür aber Kompromisse eingegangen werden müssen; dass der Generaldirektor 
+bestätigt, dass das Virus durch schnelles und gezieltes Handeln unterdrückt werden kann;In 
+der Erwägung, dass die WHO festgestellt hat, dass viele Länder eine großflächige Übertragung durch 
+die Umsetzung bewährter Präventions- und Bekämpfungsmaßnahmen haben verhindern können und dass 
+diese Maßnahmen nach wie vor das beste Mittel zum Schutz vor COVID-19 darstellen;In der 
+Erwägung, dass für unser Land seit dem 13. Oktober 2020 auf nationaler Ebene Alarmstufe 4 (sehr hohe 
+Alarmstufe) gilt;In der Erwägung, dass die durchschnittliche Zahl der neuen Fälle von Ansteckung 
+mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen auf 13.858 bestätigte positive Fälle 
+am 28. Oktober 2020 gestiegen ist;In der Erwägung, dass diese neue exponentielle Entwicklung 
+zur Folge hat, dass der Grad der Auslastung der Krankenhäuser, insbesondere der Intensivstationen, erneut 
+kritisch wird; dass am 28. Oktober 2020 insgesamt 5.554 Patienten in belgischen Krankenhäusern aufgenommen 
+wurden; dass am selben Tag insgesamt 911 Patienten auf Intensivstationen aufgenommen wurden; dass der 
+Druck auf die Krankenhäuser und die Kontinuität der Versorgung, die nicht mit COVID-19 zusammenhängt, 
+zunimmt und dass dies erhebliche Auswirkungen auf die Volksgesundheit haben kann; dass einige Krankenhäuser 
+mit krankheitsbedingten Personalausfällen zu kämpfen haben und dass dies zu einem Personalmangel im Gesundheitspflegesektor 
+führen kann; dass das Aufnehmen von Patienten auf dem Staatsgebiet immer mehr unter Druck gerät;In 
+Erwägung der Anzahl erkannter Infektionsfälle und der Anzahl Todesfälle in Belgien seit dem 13. März 
+2020; der Tatsache, dass die Zahl der Todesfälle in Belgien derzeit durchschnittlich bei 59 pro Tag liegt; 
+der Tatsache, dass heute jeder fünfte Todesfall in Europa durch COVID-19 verursacht wird;In 
+der Erwägung, dass auch andere Mitgliedstaaten der Europäischen Union mit einem Anstieg der bestätigten 
+Ansteckungen konfrontiert sind und Maßnahmen ergreifen, um eine weitere Ausbreitung des Virus zu 
+vermeiden, indem sie die Kontakte zwischen den Menschen reduzieren;In der Erwägung, dass sich 
+die epidemiologische Situation weiter verschlechtert; dass eine unkontrollierte Ausbreitung der Epidemie 
+vermieden werden muss; dass daher beschlossen wurde, gewisse Maßnahmen aufrechtzuerhalten, andere 
+zu verstärken und neue zu ergreifen;In der Erwägung, dass erneut das gesamte nationale Hoheitsgebiet 
+von der Gefahr betroffen ist; dass es von Bedeutung ist, dass für die ergriffenen Maßnahmen zur 
+Aufrechterhaltung der öffentlichen Ordnung ein Höchstmaß an Kohärenz gegeben ist, wodurch ihre 
+Effizienz maximiert wird; dass die lokalen Behörden jedoch die Möglichkeit haben, bei einer Zunahme der 
+Epidemie auf ihrem Gebiet strengere Maßnahmen zu ergreifen;In der Erwägung, dass ein 
+Bürgermeister, wenn er feststellt, dass Tätigkeiten unter Verstoß gegen den vorliegenden Ministeriellen 
+Erlass oder die anwendbaren Protokolle ausgeübt werden, im Interesse der Volksgesundheit die verwaltungsrechtliche 
+Schließung der betreffenden Niederlassung anordnen kann;In der Erwägung, dass es unerlässlich 
+ist, es dem Gesundheitspflegesystem weiterhin zu ermöglichen, die notwendige Versorgung von Patienten, 
+die nicht an COVID-19 leiden, zu gewährleisten und alle Patienten unter den bestmöglichen Bedingungen 
+zu empfangen, dass die Schulen so weit wie möglich offen bleiben, dass die Wirtschaft weiterhin maximal 
+funktioniert und dass die Menschen nicht vereinsamen;In der Erwägung, dass aufgrund der aktuellen 
+epidemiologischen Situation immer noch eine drastische Beschränkung der sozialen Kontakte und der erlaubten 
+Aktivitäten erforderlich ist;In der Erwägung, dass die Experten von CELEVAL empfehlen, die 
+Anzahl Personen, mit denen enger Kontakt gepflegt wird, auf eine pro Monat zu beschränken, was bedeutet, 
+dass die Regeln des Social Distancing während eines bestimmten Zeitraums mit dieser Person nicht eingehalten 
+werden;In Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr für die belgische 
+Bevölkerung und der daraus entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus 
+COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und die Atemwege befällt;In 
+der Erwägung, dass das Coronavirus COVID-19 offenbar von Mensch zu Mensch über den Luftweg übertragen 
+wird; dass die Übertragung der Krankheit scheinbar auf alle möglichen Verbreitungsarten durch Mund oder 
+Nase erfolgt;In der Erwägung, dass das Tragen einer Maske in bestimmten Einrichtungen und spezifischen 
+Situationen sowie in allen Situationen, in denen die Regeln des Social Distancing nicht eingehalten werden 
+können, Pflicht ist, damit eine Weiterverbreitung des Virus vermieden wird; dass die Maske nur für die 
+unbedingt notwendige Zeit abgenommen werden darf, z.B. zum Verzehr von Getränken und Speisen, zum Naseputzen 
+oder zum Lippenlesen für Gehörlose und Schwerhörige; dass das Tragen einer Maske jedoch nicht ausreicht 
+und immer mit den anderen Präventionsmaßnahmen einhergehen muss; dass Social Distancing die wichtigste 
+und prioritäre Maßnahme bleibt;In der Erwägung, dass die Bürger deutlich informiert werden 
+müssen, wo und wann eine Maske getragen werden muss; dass daher die Uhrzeiten ausgehängt werden müssen, 
+zu denen diese Maßnahme in Kraft ist; dass der angegebene Zeitraum tatsächlich mit den Uhrzeiten 
+übereinstimmen muss, zu denen größere Menschenströme zu erwarten sind oder ein erhöhtes Übertragungsrisiko 
+besteht;In der Erwägung, dass es notwendig ist, Tätigkeiten, bei denen ein hohes Risiko der 
+Weiterverbreitung des Virus besteht, besondere Aufmerksamkeit zu widmen und Tätigkeiten, die zu einem 
+zu engen Kontakt zwischen den Beteiligten führen und/oder zu viele Menschen zusammenführen, weiterhin 
+zu verbieten;In der Erwägung, dass es zu diesem Zweck notwendig ist, die Nutzung des öffentlichen 
+Raums zwischen Mitternacht und 5 Uhr morgens vorübergehend einzuschränken, um die Ansteckungsrate und 
+die Übertragung des Virus zu begrenzen;In der Erwägung, dass eine solche Einschränkung der 
+Grundfreiheiten verhältnismäßig und zeitlich begrenzt sein muss; dass sie jedoch notwendig ist, 
+um das Grundrecht auf Leben und Gesundheit der Bevölkerung zu wahren;In der Erwägung, dass 
+eine gezielte und zeitweilige Einschränkung der Nutzung des öffentlichen Raums zwischen Mitternacht und 
+5 Uhr morgens, dazu beitragen soll, Feiern, Versammlungen und den Alkoholkonsum im öffentlichen Raum, 
+wobei die Regeln des Social Distancing oder des Tragens von Masken nicht eingehalten werden, zu verringern 
+und so die Zahl der Ansteckungen und die Übertragungsrate des Virus zu senken;In der Erwägung, 
+dass diese Einschränkung nicht für unbedingt notwendige Ausgänge/Fahrten gilt, die nicht aufgeschoben 
+werden können ;In der Erwägung, dass sich in den Provinzen Antwerpen und Luxemburg gezeigt 
+hat, dass eine Einschränkung der Nutzung des öffentlichen Raums während der Nacht erheblich zu einem 
+starken Rückgang der Zahl der Feste und Zusammenkünfte beigetragen hat; dass folglich zur Vermeidung 
+unerwünschter Ausgänge/Fahrten eine Einschränkung der Nutzung des öffentlichen Raums notwendig ist, um 
+das gesellschaftliche Leben so umzugestalten, dass das Risiko einer Ansteckung schnellstmöglich auf ein 
+Minimum reduziert wird; dass die Einschränkung der Nutzung des öffentlichen Raums in der Nacht bedeutet, 
+dass insbesondere junge Menschen zu einem Zeitpunkt, an dem sie infolge des Alkoholkonsums in der Regel 
+ausgelassen sind, nicht mehr darauf achten, den erforderlichen Sicherheitsabstand von 1,5 m einzuhalten, 
+weder Feste feiern noch Zusammenkünfte abhalten können;In der Erwägung, dass diese zeitlich 
+begrenzte Maßnahme, angesichts der jüngsten epidemiologischen Daten, des starken Drucks auf das 
+Gesundheitspflegesystem und im Hinblick auf die Vorwegnahme einer Verschlimmerung der Situation in den 
+derzeit weniger stark betroffenen Provinzen, auf dem gesamten Gebiet des Königreichs notwendig ist; dass 
+ein Verbot auf nationaler Ebene für einen begrenzten Zeitraum ebenfalls gerechtfertigt ist, um die unerwünschten 
+Folgen eines Verbots in kleinerem Maßstab in Sachen Verlagerung von Aktivitäten oder Umgehung von 
+Routen zu verhindern, bis die Sachlage anders ist;In der Erwägung, dass bestimmte Tätigkeiten 
+die Ansteckungsgefahr erhöhen können, insbesondere insofern sie nicht mit einer Maske durchgeführt werden 
+können oder eher zu Verhaltensweisen führen, die nicht mit den goldenen Regeln, insbesondere nicht mit 
+den Regeln des Social Distancing (Essen in einem Restaurant, Trinken in einer Bar, Teilnahme an Familienfesten, 
+Studentenfesten oder anderen Festen usw.), übereinstimmen; dass das der Grund dafür ist, dass die meisten 
+Einrichtungen, in denen diese Art von Veranstaltungen stattfinden, schließen müssen;In 
+der Erwägung, dass die Anzahl der in einem Geschäft anwesenden Personen zu begrenzen ist; dass die Kontakte 
+an bestimmten Orten, insbesondere in Einrichtungen im kulturellen, festlichen und sportlichen Bereich 
+sowie im Freizeit- und Veranstaltungsbereich vermieden werden müssen; dass die betreffenden Einrichtungen 
+folglich schließen müssen; dass die Kontakte während Sportwettkämpfen und Jugendaktivitäten von 
+Personen ab dem Alter von 12 Jahren und die Anzahl der Personen, die zu bestimmten Anlässen wie Hochzeiten 
+oder Bestattungen zusammenkommen, begrenzt werden müssen; dass diese Maßnahmen unter Berücksichtigung 
+der derzeitigen epidemiologischen Situation verhältnismäßig sind;In der Erwägung, dass 
+angesichts des Vorhergehenden bestimmte Zusammenkünfte in geschlossenen und überdachten Orten, aber auch 
+unter freiem Himmel noch stets ein besonderes Risiko für die Gesundheit der Bevölkerung darstellen;In 
+der Erwägung, dass eine polizeiliche Maßnahme zur Beschränkung und Überwachung von Zusammenkünften 
+von mehr als vier Personen folglich unerlässlich und verhältnismäßig ist;In der Erwägung, 
+dass es aufgrund dieser Situation auch immer erforderlich ist, die Höchstanzahl der Personen, die an 
+bestimmten genehmigten Zusammenkünften teilnehmen dürfen, zu beschränken;In der Erwägung, dass 
+Homeoffice die Regel bleibt für die Funktionen, die sich dafür eignen, und soweit es die Kontinuität 
+der Leitung des Unternehmens, seiner Tätigkeiten und Dienstleistungen zulässt; dass diese Maßnahme 
+es insbesondere ermöglicht, die Zahl der Personen, die zu den Stoßzeiten öffentliche Verkehrsmittel 
+benutzen, zu verringern und so zu verhindern, dass diese die Regeln des Social Distancing nicht einhalten 
+können; dass es jedoch wichtig ist, dass die Personalmitglieder sowohl zu ihren Kollegen als auch zu 
+dem Unternehmen, der Vereinigung oder dem Dienst, in denen oder für die sie arbeiten, einen Bezug behalten; 
+dass der Arbeitgeber unter Einhaltung der Gesundheitsvorschriften gut organisierte und begrenzte Zeitspannen 
+einplanen darf, in denen Personalmitglieder aus dem Homeoffice zurückkehren dürfen; dass eine Konzertierung 
+mit den Arbeitgeberverbänden organisiert wird, um ein auf Eigenverantwortung ausgerichtetes Monitoring 
+einzurichten, damit die Regel des Homeoffice dort angewandt wird, wo dies erforderlich ist;In 
+der Erwägung, dass es im Rahmen der Bekämpfung von COVID-19 in Belgien erforderlich ist, eine genaue 
+Überwachung des Gesundheitszustands von Personen zu gewährleisten, die aus Städten, Gemeinden, Bezirken, 
+Regionen oder Ländern, auch innerhalb des Schengen-Raums, der Europäischen Union oder des Vereinigten 
+Königreichs, zurückkehren, für die CELEVAL auf der Grundlage objektiver epidemiologischer Kriterien eine 
+hohe Gesundheitsgefahr festgestellt hat;In der Erwägung, dass das Arsenal der in diesem Ministeriellen 
+Erlass getroffenen Maßnahmen die Aufzeichnung bestimmter personenbezogener Daten umfasst zwecks 
+Vereinfachung der Kontaktermittlung und der Ermittlung bestimmter Infektionsherde; dass es daher den 
+Personen, die diese Daten verarbeiten, obliegt, sie zu schützen, indem sie alle geeigneten technischen 
+und organisatorischen Maßnahmen ergreifen, um die Sicherheit und Vertraulichkeit der Daten zu gewährleisten, 
+insbesondere um einen unbefugten Zugang zu diesen Daten zu verhindern; dass sie zu diesem Zweck insbesondere 
+die von der Datenschutzbehörde auf ihrer Website veröffentlichten Empfehlungen berücksichtigen können;In 
+der Erwägung, dass im Hinblick auf die Einhaltung aller Gesundheitsempfehlungen und des Social Distancing 
+noch immer an das Verantwortungsbewusstsein und die Solidarität jedes Bürgers appelliert wird;In 
+der Erwägung, dass die Hygienemaßnahmen unerlässlich bleiben;In der Erwägung, dass Tätigkeiten 
+im Freien nach Möglichkeit bevorzugt werden sollten; dass, sofern dies nicht möglich ist, die Räume ausreichend 
+durchgelüftet werden müssen;In der Erwägung, dass es notwendig ist, in Bezug auf Personen, 
+die zu einer Risikogruppe gehören, zusätzliche Vorsichtsmaßnahmen zu treffen;In der Erwägung, 
+dass die Gesundheitslage regelmäßig bewertet wird; dass dies bedeutet, dass strengere Maßnahmen 
+nie ausgeschlossen werden können;In der Erwägung, dass die vorgesehenen Maßnahmen dazu 
+führen, dass einerseits die Anzahl akuter Ansteckungen verringert wird und folglich den Intensivstationen 
+ermöglicht wird, die am schwersten getroffenen Patienten unter bestmöglichen Bedingungen aufzunehmen, 
+und dass andererseits den Forschern mehr Zeit gegeben wird, um effiziente Behandlungsmethoden und Impfstoffe 
+zu entwickeln; dass diese Maßnahmen auch eine Kontaktrückverfolgung erleichtern können;Aufgrund 
+der Dringlichkeit,Erlässt:KAPITEL 1 - BegriffsbestimmungenArtikel 1 -  
+Für die Anwendung des vorliegenden Erlasses versteht man unter:1. "Unternehmen": natürliche 
+oder juristische Personen, die auf dauerhafte Weise einen wirtschaftlichen Zweck verfolgen,2. 
+"Verbrauchern": natürliche Personen, die zu Zwecken handeln, die nicht ihrer gewerblichen, industriellen, 
+handwerklichen oder freiberuflichen Tätigkeit zugerechnet werden können,3. "Protokollen": vom 
+zuständigen Minister in Absprache mit dem betreffenden Sektor festgelegte Unterlagen mit den Regeln, 
+die von den Unternehmen und Vereinigungen des jeweiligen Sektors bei der Ausübung ihrer Tätigkeiten anzuwenden 
+sind,4. "Beförderungsunternehmen" wie in Artikel 21 erwähnt: öffentlich- oder privatrechtliche 
+Luftfahrtunternehmen, öffentlich- oder privatrechtliche Seetransportunternehmen, Transportunternehmen 
+im Binnenschiffsverkehr,5. "Gouverneur": den Provinzgouverneur beziehungsweise die aufgrund 
+von Artikel 48 des Sondergesetzes vom 12. Januar 1989 über die Brüsseler Institutionen zuständige Behörde 
+der Brüsseler Agglomeration,6. "Haushalt": Personen, die unter demselben Dach wohnen,7. 
+"Nutzern": natürliche oder juristische Personen, bei denen oder für die die in Artikel 3 erwähnten Personen 
+direkt oder als Subunternehmer beschäftigt sind,8. "Grenzgängern": Arbeitnehmer, die eine Tätigkeit 
+als Lohnempfänger in einem Mitgliedstaat ausüben und in einem anderen Mitgliedstaat wohnen, in den diese 
+Arbeitnehmer in der Regel jeden Tag oder mindestens einmal pro Woche zurückkehren,9. "Personalmitgliedern": 
+Personen, die in einem Unternehmen, einer Vereinigung oder einem Dienst oder für ein Unternehmen, eine 
+Vereinigung oder einen Dienst arbeiten.KAPITEL 2 - Organisation der ArbeitArt. 2 
+-  § 1 - Homeoffice ist die Regel in allen Unternehmen, Vereinigungen und Diensten für alle Personalmitglieder, 
+deren Funktion sich dazu eignet, soweit es die Kontinuität der Leitung des Unternehmens, seiner Tätigkeiten 
+und Dienstleistungen zulässt.Alle Handelsgeschäfte, Unternehmen und Dienste können unter Einhaltung 
+der Gesundheitsvorschriften ebenfalls gut organisierte Zeitspannen, in denen Personalmitglieder aus dem 
+Homeoffice zurückkehren dürfen, vorsehen.Wird kein Homeoffice angewandt, ergreifen Unternehmen, 
+Vereinigungen und Dienste die in § 2 erwähnten Maßnahmen, um die Anwendung der Regeln des 
+Social Distancing, insbesondere die Einhaltung eines Abstands von 1,5 m zwischen den Personen, maximal 
+zu gewährleisten.Die in der Anlage zu vorliegendem Erlass aufgeführten Handelsgeschäfte, privaten 
+und öffentlichen Betriebe und Dienste, die für den Schutz der lebensnotwendigen Bedürfnisse der Nation 
+und der Bedürfnisse der Bevölkerung wesentlich sind, einschließlich der Produzenten, Lieferanten, 
+Unternehmer und Subunternehmer von Gütern, Arbeiten und Dienstleistungen, die für die Tätigkeit dieser 
+Unternehmen und dieser Dienste wesentlich sind, ergreifen die in § 2 erwähnten Maßnahmen, 
+um die Regeln des Social Distancing so gut wie möglich umzusetzen. § 2 - Unternehmen, 
+Vereinigungen und Dienste ergreifen rechtzeitig geeignete Präventionsmaßnahmen, um die Anwendung 
+der Regeln des Social Distancing und so ein Höchstmaß an Schutz zu gewährleisten.Bei 
+diesen geeigneten Präventionsmaßnahmen handelt es sich um Sicherheits- und Gesundheitsvorschriften 
+materieller, technischer und/oder organisatorischer Art, wie sie im "Allgemeinen Leitfaden zur Eindämmung 
+der Ausbreitung von COVID-19 am Arbeitsplatz" definiert sind, der auf der Website des Föderalen Öffentlichen 
+Dienstes Beschäftigung, Arbeit und Soziale Konzertierung zur Verfügung gestellt wird, ergänzt durch Leitlinien 
+auf sektorieller Ebene und/oder auf Ebene des Unternehmens, und/oder andere geeignete Maßnahmen, 
+die ein mindestens gleichwertiges Schutzniveau bieten. Kollektive Maßnahmen haben immer Vorrang 
+vor individuellen Maßnahmen.Diese geeigneten Präventionsmaßnahmen werden auf Ebene 
+des Unternehmens, der Vereinigung oder des Dienstes ausgearbeitet und unter Einhaltung der geltenden 
+Regeln der sozialen Konzertierung oder, wenn dies nicht möglich ist, in Absprache mit den betreffenden 
+Personalmitgliedern und in Absprache mit den Diensten für Gefahrenverhütung und Schutz am Arbeitsplatz 
+beschlossen.Die Unternehmen, Vereinigungen und Dienste informieren die Personalmitglieder rechtzeitig 
+über die geltenden Präventionsmaßnahmen und erteilen ihnen eine passende Schulung. Sie 
+informieren auch Dritte rechtzeitig über die geltenden Präventionsmaßnahmen.Arbeitgeber, 
+Arbeitnehmer und Dritte sind verpflichtet, die im Unternehmen, in der Vereinigung beziehungsweise im 
+Dienst geltenden Präventionsmaßnahmen anzuwenden. § 3 - Die Sozialinspektoren 
+der Generaldirektion Kontrolle des Wohlbefindens bei der Arbeit des Föderalen Öffentlichen Dienstes Beschäftigung, 
+Arbeit und Soziale Konzertierung sind beauftragt, Arbeitgeber und Arbeitnehmer von Unternehmen und Vereinigungen 
+zu informieren und zu begleiten und gemäß dem Sozialstrafgesetzbuch für die Einhaltung der in diesen 
+Unternehmen, Vereinigungen und Diensten geltenden Verpflichtungen gemäß den Paragraphen 1 und 2 
+zu sorgen.Art. 3 -  § 1 - Arbeitgeber oder Nutzer, die zeitweilig auf einen im Ausland 
+lebenden oder ansässigen Lohnempfänger beziehungsweise Selbständigen zurückgreifen, um in Belgien Tätigkeiten 
+in den Sektoren Bau, Reinigung, Landwirtschaft und Gartenbau, wie in Artikel 20 § 2 des Königlichen 
+Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick auf die Gewährleistung der Zahlung 
+der Mehrwertsteuer und in Artikel 1 Nr. 1 des Königlichen Erlasses Nr. 22 vom 15. September 1970 über 
+die Sonderregelung für Landwirte in Sachen Mehrwertsteuer erwähnt, sowie Tätigkeiten im Fleischsektor, 
+wie in Artikel 2 des Königlichen Erlasses vom 27. Dezember 2007 zur Ausführung von Artikel 53 des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+und der Artikel 12, 30bis und 30ter des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 
+28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer und von Artikel 6ter des Gesetzes vom 
+4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit erwähnt, ausführen 
+zu lassen, mit Ausnahme von natürlichen Personen, bei denen oder für die die Arbeit zu vollkommen privaten 
+Zwecken erfolgt, führen vom Beginn der Arbeit bis einschließlich zum vierzehnten Tag nach Beendigung 
+dieser Arbeit ein Register mit folgenden Angaben:1. Identifizierungsdaten des im Ausland lebenden 
+oder ansässigen Lohnempfängers beziehungsweise Selbständigen: • Name und Vornamen, 
+• Geburtsdatum, • Erkennungsnummer, wie in Artikel 8 § 1 des Gesetzes 
+vom 15. Januar 1990 über die Errichtung und Organisation einer Zentralen Datenbank der sozialen Sicherheit 
+erwähnt,2. Wohnort des Lohnempfängers beziehungsweise Selbständigen während seiner Arbeit in 
+Belgien,3. Telefonnummer, unter der der Lohnempfänger beziehungsweise Selbständige kontaktiert 
+werden kann,4. gegebenenfalls Angabe der Personen, mit denen der Lohnempfänger beziehungsweise 
+Selbständige während seiner Arbeit in Belgien arbeitet.Die in vorliegendem Paragraphen erwähnte 
+Registrierungspflicht gilt nicht für die Beschäftigung von Grenzgängern und findet ebenfalls keine Anwendung, 
+wenn der Aufenthalt in Belgien eines im Ausland lebenden oder ansässigen Lohnempfängers beziehungsweise 
+Selbständigen 48 Stunden nicht übersteigt.Die in Absatz 1 erwähnten Angaben dürfen nicht zu 
+anderen Zwecken als zur Bekämpfung der Ausbreitung des Coronavirus COVID-19 verwendet werden, einschließlich 
+Tracing und Rückverfolgung von Clustern und Personengemeinschaften unter derselben Adresse.Die 
+in Absatz 1 erwähnten Daten müssen nach 14 Kalendertagen ab Beendigung der betreffenden Arbeit vernichtet 
+werden.Das in Absatz 1 erwähnte Register steht allen Diensten und Einrichtungen, die mit der 
+Bekämpfung der Ausbreitung des Coronavirus COVID-19 beauftragt sind, sowie den Diensten und Einrichtungen, 
+die damit beauftragt sind, die Einhaltung der im Rahmen der Dringlichkeitsmaßnahmen zur Eindämmung 
+der Ausbreitung des Coronavirus COVID-19 vorgesehenen Verpflichtungen zu überwachen, zur Verfügung. 
+§ 2 - Wenn der im Ausland lebende oder ansässige Lohnempfänger beziehungsweise Selbständige verpflichtet 
+ist, das in Artikel 21 erwähnte Passagier-Lokalisierungsformular auszufüllen, muss der Arbeitgeber beziehungsweise 
+Nutzer, der zeitweilig auf ihn zurückgreift, um in Belgien Tätigkeiten in den Sektoren Bau, Reinigung, 
+Landwirtschaft und Gartenbau, wie in Artikel 20 § 2 des vorerwähnten Königlichen Erlasses Nr. 
+1 vom 29. Dezember 1992 und in Artikel 1 Nr. 1 des vorerwähnten Königlichen Erlasses Nr. 22 vom 15. September 
+1970 erwähnt, oder Tätigkeiten im Fleischsektor, wie in Artikel 2 des vorerwähnten Königlichen Erlasses 
+vom 27. Dezember 2007 erwähnt, ausführen zu lassen, mit Ausnahme von natürlichen Personen, bei denen 
+oder für die die Arbeit zu vollkommen privaten Zwecken erfolgt, vor Beginn der Arbeit prüfen, ob das 
+Passagier-Lokalisierungsformular tatsächlich ausgefüllt worden ist.Liegt kein Nachweis vor, 
+dass dieses Formular ausgefüllt wurde, sorgt der Arbeitgeber beziehungsweise Nutzer dafür, dass das Passagier-Lokalisierungsformular 
+spätestens dann ausgefüllt wird, wenn der im Ausland lebende oder ansässige Lohnempfänger beziehungsweise 
+Selbständige seine Arbeit in Belgien aufnimmt.Art. 4 - Im Rahmen der Anwendung der in vorliegendem 
+Erlass vorgeschriebenen Maßnahmen und sofern die operativen Erfordernisse es verlangen, sind für 
+die Dauer der Anwendung des vorliegenden Erlasses Abweichungen von den in Teil VI Titel I des Königlichen 
+Erlasses vom 30. März 2001 zur Festlegung der Rechtsstellung des Personals der Polizeidienste vorgeschriebenen 
+Bestimmungen in Bezug auf Organisation der Arbeits- und Ruhezeiten erlaubt.KAPITEL 3 - Unternehmen 
+und Vereinigungen, die Verbrauchern Güter oder Dienstleistungen anbietenArt. 5 - Unternehmen 
+und Vereinigungen, die Verbrauchern Güter oder Dienstleistungen anbieten, üben ihre Tätigkeiten gemäß 
+dem Protokoll oder den auf der Website des zuständigen öffentlichen Dienstes veröffentlichten Mindestnormen 
+aus.In Ermangelung eines solchen Protokolls oder eines anwendbaren Leitfadens sind folgende 
+Mindestnormen einzuhalten:1. Unternehmen oder Vereinigungen informieren Kunden und Personalmitglieder 
+rechtzeitig über die geltenden Präventionsmaßnahmen und erteilen den Arbeitnehmern eine passende 
+Schulung.2. Zwischen den Personen wird ein Abstand von 1,5 m gewährleistet.3. Kunden 
+werden während höchstens 30 Minuten oder nach Terminvereinbarung solange wie üblich empfangen.4. 
+Pro 10 m2 ist ein Kunde erlaubt.5. Beträgt die für Kunden zugängliche Geschäftsfläche 
+weniger als 20 m2, dürfen zwei Kunden empfangen werden, sofern die Einhaltung eines 
+Abstands von 1,5 m zwischen den Personen gewährleistet werden kann.6. Masken und anderes individuelles 
+Schutzmaterial sind in Unternehmen und Vereinigungen zu jedem Zeitpunkt sehr empfohlen und werden verwendet, 
+wenn die Regeln des Social Distancing aufgrund der Art der ausgeübten Tätigkeit nicht eingehalten werden 
+können.7. Die Tätigkeit ist so zu organisieren, dass Zusammenkünfte vermieden werden.8. 
+Unternehmen oder Vereinigungen stellen Personal und Kunden erforderliche Produkte für die Handhygiene 
+zur Verfügung.9. Unternehmen oder Vereinigungen ergreifen die erforderlichen Hygienemaßnahmen, 
+um die Örtlichkeit und das verwendete Material regelmäßig zu desinfizieren.10. Unternehmen 
+oder Vereinigungen gewährleisten eine gute Durchlüftung.11. Eine Kontaktperson wird bestimmt 
+und bekannt gemacht, damit Kunden und Personalmitglieder eine eventuelle Infizierung mit dem Coronavirus 
+COVID-19 melden können, um somit die Kontaktrückverfolgung zu vereinfachen.12. Terrassen und 
+öffentliche Plätze werden gemäß den von den Gemeindebehörden erlassenen Vorschriften und unter 
+Einhaltung derselben Regeln wie für Innenräume organisiert.Es wird allein oder mit höchstens 
+einer weiteren Person zusammen eingekauft.In Abweichung von Absatz 3 darf ein Erwachsener Minderjährige 
+desselben Haushalts oder hilfebedürftige Personen begleiten.Art. 6 -  § 1 - Betriebe 
+des Hotel- und Gaststättengewerbes sowie andere Gaststättenbetriebe und Schankstätten sind geschlossen, 
+außer für den Verkauf von Gerichten und alkoholfreien Getränken zum Mitnehmen und die Lieferung 
+dieser Gerichte und Getränke bis spätestens 22 Uhr. Gerichte zum Mitnehmen können zusammen mit alkoholischen 
+Getränken bis 20 Uhr verkauft und/oder geliefert werden.In Abweichung von Absatz 1 dürfen geöffnet 
+bleiben:1. alle Arten von Unterkünften, einschließlich ihrer Restaurants - sonstige Schankstätten 
+jedoch ausgenommen -, und zwar nur für Gäste, die dort verbleiben,2. Großküchen von Wohn-, 
+Schul-, Lebens- und Arbeitsgemeinschaften,3. Gemeinschaftseinrichtungen für Obdachlose,4. 
+Imbissstätten und Schankstätten in den Transitbereichen der Flughäfen. § 2 - Für die 
+durch vorliegenden Erlass erlaubten Tätigkeiten des Hotel- und Gaststättengewerbes gelten für den Empfang 
+von Kunden unbeschadet von Artikel 5 mindestens folgende spezifische Modalitäten:1. Tische 
+werden so angeordnet, dass ein Abstand von mindestens 1,5 m zwischen ihnen gewährleistet ist, es sei 
+denn, sie sind durch eine Plexiglasscheibe oder eine gleichwertige Alternative mit einer Mindesthöhe 
+von 1,8 m voneinander getrennt.2. Höchstens 4 Personen pro Tisch sind erlaubt.3. 
+Nur Sitzplätze an den Tischen sind erlaubt.4. Jeder Gast muss an seinem Tisch sitzen bleiben.5. 
+Das Personal muss eine Maske oder, wenn dies aus medizinischen Gründen nicht möglich ist, einen Gesichtsschutzschirm 
+tragen.6. Bedienung an der Theke ist nicht erlaubt.7. Bei Ankunft werden zur Erleichterung 
+einer eventuellen späteren Kontaktuntersuchung Kontaktinformationen - die auf eine Telefonnummer oder 
+eine E-Mail-Adresse beschränkt sein können - eines Kunden pro Tisch registriert und unter Einhaltung 
+des Schutzes der personenbezogenen Daten während 14 Kalendertagen aufbewahrt. Kunden, die sich weigern, 
+ihre Kontaktinformationen zu hinterlassen, wird bei ihrer Ankunft der Zugang zur Einrichtung verweigert. 
+Diese Kontaktinformationen dürfen zu keinen anderen Zwecken als zur Bekämpfung von COVID-19 verwendet 
+werden und sie müssen nach 14 Kalendertagen vernichtet werden.In Abweichung von Absatz 1 Nr. 
+2 darf sich ein Haushalt einen Tisch teilen, unabhängig von der Größe dieses Haushalts.Art. 
+7 - Die individuelle und kollektive Nutzung von Wasserpfeifen ist an öffentlich zugänglichen Orten verboten.Art. 
+8 - Einrichtungen beziehungsweise Teile von Einrichtungen in den Bereichen Kultur, Feiern, Sport, Freizeit 
+und Veranstaltungen sind für die Öffentlichkeit geschlossen, insbesondere einschließlich:1. 
+Kasinos, Automatenspielhallen und Wettbüros,2. Wellnesszentren, insbesondere einschließlich 
+Saunas, Whirlpools, Dampfduschen und Dampfbäder,3. Diskotheken und Tanzlokale,4. 
+Empfangs- und Festsäle, außer für die Organisation von Mahlzeiten im Anschluss an Beerdigungen 
+und Einäscherungen,5. Vergnügungsparks,6. Innenspielplätze,7. Bowlinghallen,8. 
+Kirmessen, Jahr-, Trödel-, Floh-, Weihnachts- und Wintermärkte,9. Schwimmbäder,10. 
+Handelsmessen, einschließlich Handelsausstellungen,11. Kinos.In Abweichung 
+von Absatz 1 dürfen geöffnet bleiben:1. Spielplätze im Freien,2. Außenanlagen 
+von Zoos und Tierparks, Naturparks und Freilichtmuseen, einschließlich Eingang, Ausgang, Sanitäranlagen 
+sowie Erste-Hilfe- und Rettungsräumlichkeiten,3. Bibliotheken,4. Gebäude zur Ausübung 
+eines Kults und Gebäude zur öffentlichen Ausübung nichtkonfessionellen moralischen Beistands,5. 
+Außenbereiche von Sportinfrastrukturen, sodass Einzelpersonen Sport treiben können,6. 
+überdachte Reitbahnen an Reitställen und Rennbahnen, jedoch nur zum Wohle des Tieres,7. Kulturstätten, 
+jedoch nur für: • den Empfang von Gruppen von Kindern bis zum Alter von 12 Jahren einschließlich 
+im Rahmen schulischer und außerschulischer Aktivitäten des Pflichtunterrichts, • 
+Kurse/Lager und Aktivitäten, die für Kinder bis zum Alter von 12 Jahren einschließlich organisiert 
+werden, • Personalmitglieder im Rahmen ihrer beruflichen Tätigkeit,8. Sporthallen 
+und Sportinfrastrukturen, jedoch nur für: • den Empfang von Gruppen von Kindern bis 
+zum Alter von 12 Jahren einschließlich im Rahmen schulischer und außerschulischer Aktivitäten 
+des Pflichtunterrichts, insofern es sich nicht um ein Schwimmbad handelt, • Sportkurse 
+und -lager, die von den lokalen Behörden für Kinder bis zum Alter von 12 Jahren einschließlich 
+organisiert werden, insofern es sich nicht um ein Schwimmbad handelt, • das Training 
+von Profisportlern, • Wettkämpfe im Bereich des Profisports, • nicht 
+sportliche Aktivitäten, insofern sie durch die Bestimmungen des vorliegenden Erlasses und die anwendbaren 
+Protokolle erlaubt sind.In den in Absatz 2 erwähnten Einrichtungen sind folgende Mindestnormen 
+einzuhalten:1. Betreiber oder Veranstalter informieren Besucher und Personalmitglieder rechtzeitig 
+über die geltenden Präventionsmaßnahmen und erteilen den Personalmitgliedern eine passende Schulung.2. 
+Zwischen den Personen wird ein Abstand von 1,5 m gewährleistet.3. Masken und anderes individuelles 
+Schutzmaterial sind in der Einrichtung zu jedem Zeitpunkt sehr empfohlen und werden verwendet, wenn die 
+Regeln des Social Distancing aufgrund der Art der ausgeübten Aktivität nicht eingehalten werden können.4. 
+Die Aktivität ist so zu organisieren, dass Zusammenkünfte vermieden werden.5. Betreiber oder 
+Veranstalter stellen Personal und Besuchern erforderliche Produkte für die Handhygiene zur Verfügung.6. 
+Betreiber oder Veranstalter ergreifen die erforderlichen Hygienemaßnahmen, um die Örtlichkeit und 
+das verwendete Material regelmäßig zu desinfizieren.7. Betreiber oder Veranstalter gewährleisten 
+eine gute Durchlüftung.Art. 9 - In Einkaufszentren gelten für den Empfang von Kunden mindestens 
+folgende spezifische Modalitäten:1. Pro 10 m2 ist ein Kunde erlaubt.2. 
+Das Einkaufszentrum stellt Mitarbeitern und Kunden erforderliche Produkte für die Handhygiene an Ein- 
+und Ausgängen zur Verfügung.3. Das Einkaufszentrum erleichtert die Wahrung eines Abstands von 
+1,5 m durch Bodenmarkierung und/oder Beschilderung.4. Die Kunden tätigen ihre Einkäufe allein 
+oder mit höchstens einer weiteren Person zusammen, mit Ausnahme von Erwachsenen, die Minderjährige desselben 
+Haushalts oder hilfebedürftige Personen begleiten dürfen.Art. 10 - Vorbehaltlich anderslautender 
+Bestimmung dürfen Geschäfte an den gewohnten Tagen und zu den üblichen Uhrzeiten geöffnet bleiben.Nightshops 
+dürfen ab der gewöhnlichen Öffnungszeit bis 22 Uhr geöffnet bleiben.Art. 11 - Der Verkauf alkoholischer 
+Getränke ist in allen Einrichtungen, einschließlich Verkaufsautomaten, von 20 Uhr bis 5 Uhr morgens 
+verboten.KAPITEL 4 - Märkte und Organisation des öffentlichen Raumes im Umfeld von Geschäftsstraßen 
+und EinkaufszentrenArt. 12 - Unbeschadet der Artikel 5 und 9 und unbeschadet der Aufträge der 
+Rettungs- und Einsatzdienste wird der Zugang zu Einkaufszentren, Geschäftsstraßen und Parkplätzen 
+gemäß den Anweisungen des Ministers des Innern von den zuständigen Gemeindebehörden so organisiert, 
+dass die Regeln des Social Distancing, insbesondere die Wahrung eines Abstands von 1,5 m zwischen den 
+Personen, eingehalten werden können.Art. 13 - Die zuständigen Gemeindebehörden können Märkte, 
+mit Ausnahme von Jahr-, Trödel-, Floh-, Weihnachts- und Wintermärkten, unter folgenden Bedingungen erlauben:1. 
+Die maximale Anzahl der auf einem Markt zugelassenen Besucher beträgt ein Besucher pro 1,5 laufenden 
+Meter Marktstand.2. Händler und ihr Personal sind für die Dauer des Betriebs eines Stands verpflichtet, 
+Mund und Nase zu bedecken, ob mit einer Maske oder einer Alternative aus Stoff oder, wenn dies aus medizinischen 
+Gründen nicht möglich ist, mit einem Gesichtsschutzschirm.3. Die zuständigen Gemeindebehörden 
+stellen erforderliche Produkte für die Handhygiene an den Ein- und Ausgängen des Marktes zur Verfügung.4. 
+Händler stellen ihren Mitarbeitern und ihren Kunden erforderliche Produkte für die Handhygiene zur Verfügung.5. 
+Händler dürfen keine Speisen oder Getränke zum Verzehr vor Ort anbieten.6. Besuchern ist es 
+verboten, auf den Märkten Speisen oder Getränke zu konsumieren.7. Eine Organisation oder ein 
+System wird eingerichtet, um zu kontrollieren, wie viele Besucher auf dem Markt anwesend sind.8. 
+Ein Einbahnverkehrsplan mit getrennten Ein- und Ausgängen des Marktes wird erstellt, sofern die zuständigen 
+lokalen Behörden wegen außergewöhnlicher Umstände nicht eine gerechtfertigte Ausnahmegenehmigung 
+erteilen und eine Alternativlösung festlegen.Es wird allein oder mit höchstens einer weiteren 
+Person zusammen während höchstens 30 Minuten eingekauft.In Abweichung von Absatz 2 darf ein 
+Erwachsener Minderjährige desselben Haushalts oder hilfebedürftige Personen begleiten.Unbeschadet 
+des Artikels 5 und unbeschadet der Aufträge der Rettungs- und Einsatzdienste wird der Zugang zu Märkten 
+von den zuständigen Gemeindebehörden so organisiert, dass die Regeln des Social Distancing eingehalten 
+werden, insbesondere die Wahrung eines Abstands von 1,5 m zwischen den Personen, wie auch andere angemessene 
+Schutzmaßnahmen, die ein mindestens gleichwertiges Schutzniveau wie diejenigen im "Leitfaden für 
+die Öffnung der Geschäfte zur Eindämmung der Ausbreitung von COVID-19" bieten.KAPITEL 5 - Ausgänge/Fahrten 
+und ZusammenkünfteArt. 14 - Es ist verboten, sich zwischen 0 Uhr und 5 Uhr morgens auf öffentlicher 
+Straße und im öffentlichen Raum aufzuhalten, außer für unbedingt notwendige Ausgänge/Fahrten, 
+die nicht aufgeschoben werden können, wie insbesondere: • Zugang zu medizinischer Versorgung, 
+• Unterstützung und Pflege von älteren Menschen, Minderjährigen, Personen mit Behinderung und 
+schutzbedürftigen Personen, • berufliche Fahrten, einschließlich Strecken zwischen 
+Wohnung und Arbeitsplatz.Außer aus dringenden medizinischen Gründen ist der Grund für 
+die Anwesenheit beziehungsweise die Fortbewegung auf öffentlicher Straße oder im öffentlichen Raum 
+auf erstes Verlangen der Polizeidienste anzugeben.Art. 15 -  § 1 - Sofern in vorliegendem 
+Erlass nicht anders vorgesehen, sind Zusammenkünfte von mehr als vier Personen, Kinder bis zum Alter 
+von 12 Jahren einschließlich nicht einbegriffen, nur unter den durch vorliegenden Artikel vorgesehenen 
+Bedingungen und für die durch vorliegenden Artikel zugelassenen Aktivitäten erlaubt. § 
+2 - Jeder Haushalt darf höchstens vier Personen, immer dieselben, Kinder bis zum Alter von 12 Jahren 
+einschließlich nicht einbegriffen, pro Zeitraum von 14 Tagen zu Hause empfangen, unbeschadet des 
+Artikels 23. § 3 - Höchstens 40 Personen, Kinder bis zum Alter von 12 Jahren einschließlich 
+nicht einbegriffen, dürfen folgende Aktivitäten besuchen:1. zivile Eheschließungen,2. 
+Beerdigungen und Einäscherungen, die nicht unter Nr. 3 vorgesehen sind, ohne Möglichkeit einer Aufbahrung 
+des Leichnams, und im Anschluss unter Berücksichtigung von Artikel 6 § 2 organisierte Mahlzeiten,3. 
+kollektive Ausübungen des Kults und kollektive Ausübungen nichtkonfessionellen moralischen Beistands 
+und Aktivitäten innerhalb einer philosophischen nichtkonfessionellen Vereinigung unter Einhaltung der 
+in Artikel 17 vorgesehenen Regeln.Bei den in Absatz 1 erwähnten Aktivitäten sind folgende Mindestregeln 
+einzuhalten:1. Betreiber oder Organisatoren informieren Besucher und Personalmitglieder rechtzeitig 
+über die geltenden Präventionsmaßnahmen und erteilen den Personalmitgliedern eine passende Schulung.2. 
+Zwischen den Personen wird ein Abstand von 1,5 m gewährleistet.3. Masken und anderes individuelles 
+Schutzmaterial sind in der Einrichtung zu jedem Zeitpunkt sehr empfohlen und werden verwendet, wenn die 
+Regeln des Social Distancing aufgrund der Art der ausgeübten Tätigkeit nicht eingehalten werden können.4. 
+Die Tätigkeit ist so zu organisieren, dass Zusammenkünfte vermieden werden.5. Betreiber oder 
+Organisatoren stellen Personal und Kunden erforderliche Produkte für die Handhygiene zur Verfügung.6. 
+Betreiber oder Organisatoren ergreifen die erforderlichen Hygienemaßnahmen, um die Einrichtung 
+und das verwendete Material regelmäßig zu desinfizieren.7. Betreiber oder Organisatoren 
+gewährleisten eine gute Durchlüftung. § 4 - Höchstens 50 Kinder bis zum Alter von 12 
+Jahren einschließlich dürfen folgende Aktivitäten besuchen:1. Aktivitäten in einem organisierten 
+Rahmen, insbesondere durch einen Club oder eine Vereinigung, immer in Anwesenheit eines volljährigen 
+Trainers oder einer volljährigen Begleit- oder Aufsichtsperson,2. Lager, Lehrgänge und Aktivitäten 
+unter Einhaltung der in Artikel 18 vorgesehenen Regeln. § 5 - Wettkämpfe und Trainings 
+im Bereich des Profisports dürfen nur ohne Publikum stattfinden. § 6 - Wettkämpfe und 
+Trainings im Bereich des Amateursports dürfen nur für Teilnehmer bis zum Alter von 12 Jahren einschließlich 
+stattfinden. Nur ein einziges Mitglied des Haushalts der Teilnehmer darf solchen Wettkämpfen und Trainings 
+beiwohnen. § 7 - Werden Wettkämpfe auf öffentlicher Straße organisiert, ist gemäß 
+Artikel 16 die vorherige Genehmigung der zuständigen lokalen Behörden erforderlich. § 
+8 - Höchstens 100 Teilnehmer dürfen statischen Kundgebungen beiwohnen, die auf öffentlicher Straße, 
+wo das Social Distancing eingehalten werden kann, stattfinden und die gemäß Artikel 16 vorher von 
+der zuständigen Gemeindebehörde genehmigt wurden.Art. 16 - Die zuständige lokale Behörde benutzt 
+die ihr zur Verfügung gestellte Matrix, die der Nationale Sicherheitsrat in seiner Sitzung vom 24. Juni 
+2020 vorgesehen hat, wenn sie einen Genehmigungsbeschluss in Bezug auf die Organisation der durch vorliegenden 
+Artikel erlaubten Aktivitäten fasst.Art. 17 - Die kollektive Ausübung des Kults, die kollektive 
+Ausübung nichtkonfessionellen moralischen Beistands und Aktivitäten innerhalb einer philosophischen nichtkonfessionellen 
+Vereinigung und individuelle Besuche in Gebäuden zur Ausübung eines Kults und Gebäuden zur öffentlichen 
+Ausübung nichtkonfessionellen moralischen Beistands sind erlaubt.Die repräsentativen Organe 
+der Kulte und der Organisationen, die moralischen Beistand gemäß einer nichtkonfessionellen Weltanschauung 
+leisten, ergreifen die erforderlichen Maßnahmen und sehen Leitlinien vor, und zwar unter Einhaltung 
+der folgenden Bedingungen:1. Einhaltung der Regeln des Social Distancing, insbesondere Wahrung 
+eines Abstands von 1,5 m zwischen den Personen, außer für Personen, die unter demselben Dach wohnen,2. 
+Einhaltung der Höchstanzahl von 40 Personen im selben Innenraum, Kinder bis zum Alter von 12 Jahren einschließlich 
+nicht mitgezählt,3. Verbot von Körperkontakt zwischen Personen und Anfassen von Gegenständen 
+durch mehrere Personen,4. Zurverfügungstellung der erforderlichen Produkte für die Handhygiene 
+an Ein- und Ausgängen.Art. 18 - Lager, Lehrgänge und Aktivitäten ohne Übernachtung und Aktivitäten 
+auf Spielplätzen sind für Kinder bis zum Alter von 12 Jahren einschließlich erlaubt, wie es im 
+geltenden Protokoll vorgesehen ist.Diese Lager, Lehrgänge und Aktivitäten dürfen für eine oder 
+mehrere Gruppen von höchstens 50 Kindern bis zum Alter von 12 Jahren einschließlich, bestehend 
+aus den Teilnehmern und Begleitpersonen, organisiert werden. Die im Rahmen solcher Lager, Lehrgänge und 
+Aktivitäten versammelten Personen müssen in einer selben Gruppe zusammenbleiben und dürfen nicht mit 
+Personen aus anderen Gruppen zusammenkommen.Begleitpersonen halten die Regeln des Social Distancing 
+so gut wie möglich ein, insbesondere die Wahrung eines Abstands von 1,5 m zwischen den Personen, und 
+sind verpflichtet, Mund und Nase mit einer Maske oder einer Alternative aus Stoff zu bedecken.KAPITEL 
+6 - Öffentliche VerkehrsmittelArt. 19 - Die öffentliche Personenbeförderung wird aufrechterhalten.Mit 
+Ausnahme der Kinder bis zum Alter von 12 Jahren einschließlich ist jeder verpflichtet, Mund und 
+Nase mit einer Maske oder einer Alternative aus Stoff zu bedecken, sobald Flughäfen, Bahnhöfe, Bahnsteige 
+oder Haltestellen, Busse, Untergrundstraßenbahnen ("pré-métro"), U-Bahnen, Straßenbahnen, 
+Züge oder jedes andere von einer öffentlichen Behörde organisierte Beförderungsmittel betreten werden. 
+Ist das Tragen einer Maske oder einer Alternative aus Stoff aus medizinischen Gründen nicht möglich, 
+kann ein Gesichtsschutzschirm benutzt werden.In Abweichung von Absatz 2 ist das Fahrpersonal 
+der öffentlichen Verkehrsgesellschaften nicht verpflichtet, Mund und Nase zu bedecken, sofern einerseits 
+der Fahrer gut isoliert in einer Kabine ist und andererseits ein Plakat und/oder Aufkleber den Benutzern 
+den Grund anzeigt, warum der Fahrer keine Maske trägt.KAPITEL 7 - UnterrichtswesenArt. 
+20 - Hochschuleinrichtungen und Lehranstalten für Weiterbildungsunterricht dürfen ihre Unterrichtsstunden 
+und Aktivitäten gemäß den Richtlinien der Gemeinschaften und den von der Föderalregierung vorgesehenen 
+zusätzlichen Maßnahmen fortführen. Nur wenn die Ortsbeschaffenheit der Infrastruktur es erlaubt, 
+können die Gemeinschaften beschließen, den Teilzeit-Kunstunterricht gegebenenfalls mit Einschränkungen 
+im Rahmen der Sicherheit stattfinden zu lassen.Im Rahmen des Pflichtunterrichts und des Teilzeit-Kunstunterrichts 
+werden die spezifischen Bedingungen für die Organisation von Unterrichtsstunden und Schulen von den Unterrichtsministern 
+auf der Grundlage des Gutachtens von Sachverständigen unter Berücksichtigung des gesundheitlichen Kontextes 
+und seiner möglichen Entwicklungen festgelegt. Diese Bedingungen beziehen sich insbesondere auf die Anzahl 
+Anwesenheitstage in den Schulen, die einzuhaltenden Normen bezüglich des Tragens einer Maske oder anderer 
+Schutzausrüstungen in den Einrichtungen, die Nutzung der Infrastrukturen, die Anwesenheit von Dritten 
+und die Außenaktivitäten. Werden besondere Maßnahmen auf lokaler Ebene ergriffen, legen die 
+Unterrichtsminister ein Verfahren fest, bei dem Sachverständigengutachten eingeholt und die zuständige 
+Gemeindebehörde und die betroffenen Akteure einbezogen werden.KAPITEL 8 - GrenzenArt. 
+21 -  § 1 - Nicht unbedingt notwendige Reisen nach Belgien sind verboten. § 2 
+- In Abweichung von § 1 ist es erlaubt:1. von allen Ländern der Europäischen Union, 
+des Schengen-Raums und des Vereinigten Königreichs aus nach Belgien zu reisen,2. von Ländern 
+aus, die auf der entsprechenden Liste auf der Website des Föderalen Öffentlichen Dienstes Auswärtige 
+Angelegenheiten stehen, nach Belgien zu reisen. § 3 - Für Reisen, die gemäß den 
+Paragraphen 1 und 2 von einem Land aus, das nicht dem Schengen-Raum angehört, nach Belgien erlaubt sind, 
+ist der Reisende verpflichtet, vor der Reise die elektronische Fassung des auf den Websites des Föderalen 
+Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars 
+auszufüllen und dem Beförderer vor dem Einsteigen vorzulegen.Wenn es dem Reisenden nicht möglich 
+ist, die elektronische Fassung des Passagier-Lokalisierungsformulars zu verwenden, muss er die Papierversion 
+des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts 
+veröffentlichten Passagier-Lokalisierungsformulars ausfüllen und unterschreiben.Der Beförderer 
+ist verpflichtet zu überprüfen, dass alle Passagiere vor dem Einsteigen ein Passagier-Lokalisierungsformular 
+ausgefüllt haben. Fehlt dieses Formular, muss der Beförderer das Einsteigen untersagen.In Ermangelung 
+einer solchen Erklärung oder bei falschen, irreführenden oder unvollständigen Informationen in dieser 
+Erklärung kann die Einreise gemäß Artikel 14 des Schengener Grenzkodex oder Artikel 43 des Gesetzes 
+vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, die Niederlassung und das Entfernen 
+von Ausländern verweigert werden. § 4 - Bei Reisen nach Belgien von einem Gebiet aus, 
+das dem Schengen-Raum angehört, ist der Reisende verpflichtet, vor der Reise die elektronische Fassung 
+des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts 
+veröffentlichten Passagier-Lokalisierungsformulars auszufüllen und dem Beförderer vor dem Einsteigen 
+vorzulegen.Wenn es dem Reisenden nicht möglich ist, die elektronische Fassung des Passagier-Lokalisierungsformulars 
+zu verwenden, muss er die Papierversion des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige 
+Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars ausfüllen, unterschreiben 
+und dem Beförderer übermitteln. Der Beförderer ist verpflichtet, diese Erklärung unverzüglich Saniport 
+weiterzuleiten.Der Beförderer ist verpflichtet zu überprüfen, dass alle Passagiere vor dem 
+Einsteigen ein Passagier-Lokalisierungsformular ausgefüllt haben. Fehlt dieses Formular, muss der Beförderer 
+das Einsteigen untersagen. § 5 - Bei einer in den Paragraphen 3 und 4 erwähnten Reise, 
+bei der kein Beförderer in Anspruch genommen wird, ist der Reisende, dessen Aufenthalt in Belgien 48 
+Stunden übersteigt und dessen vorhergehender Aufenthalt außerhalb Belgiens länger als 48 Stunden 
+gedauert hat, persönlich verpflichtet, vor der Reise die elektronische Fassung des auf den Websites des 
+Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars 
+auszufüllen und zu unterschreiben.Wenn es dem Reisenden nicht möglich ist, die elektronische 
+Fassung des Passagier-Lokalisierungsformulars zu verwenden, muss er vor der Reise die Papierversion des 
+auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts 
+veröffentlichten Passagier-Lokalisierungsformulars ausfüllen, unterschreiben und Saniport zukommen lassen. 
+§ 6 - In Ausführung der Paragraphen 3, 4 und 5 anhand des Passagier-Lokalisierungsformulars gesammelte 
+personenbezogene Daten können in der Datenbank I - erwähnt in Artikel 1 § 1 Nr. 6 Zusammenarbeitsabkommens 
+vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, 
+der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame 
+Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von 
+den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams 
+im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen 
+auf der Grundlage einer Datenbank bei Sciensano - registriert werden und für die in Artikel 3 des vorerwähnten 
+Zusammenarbeitsabkommens festgelegten Verarbeitungszwecke verarbeitet und ausgetauscht werden.Art. 
+22 - Im Rahmen der Bekämpfung des Coronavirus COVID-19 kann das Landesamt für soziale Sicherheit als 
+Auftragsverarbeiter für die Kontaktzentren, Gesundheitsinspektionen und mobilen Teams im Hinblick darauf, 
+die Rückverfolgung und Überprüfung von Clustern und Personengemeinschaften zu unterstützen, folgende 
+Daten sammeln, kombinieren und verarbeiten, auch durch Datamining und Datamatching: Gesundheitsdaten 
+in Bezug auf das Coronavirus COVID-19 sowie Kontakt-, Identifizierungs-, Beschäftigungs- und Aufenthaltsdaten 
+von Arbeitnehmern und entsandten Selbständigen, wie in Artikel 137 Nr. 8 Buchstaben a) und b) des Programmgesetzes 
+(I) vom 27. Dezember 2006 erwähnt, die in Belgien arbeiten.Die personenbezogenen Daten, die 
+aus der in Absatz 1 erwähnten Verarbeitung hervorgehen, werden unter Einhaltung des Schutzes personenbezogener 
+Daten und höchstens so lange gespeichert, wie es für die Zwecke, für die sie verarbeitet werden, erforderlich 
+ist, und spätestens am Tag des Inkrafttretens des Ministeriellen Erlasses, mit dem das Ende der föderalen 
+Phase der Koordinierung und Bewältigung der COVID-19-Krise verkündet wird, vernichtet.KAPITEL 
+9 - Individuelle VerantwortungArt. 23 -  § 1 - Sofern in einem Protokoll oder in vorliegendem 
+Erlass nicht anders vorgesehen, ergreift jeder die erforderlichen Maßnahmen, um die Einhaltung 
+der Regeln des Social Distancing, insbesondere die Wahrung eines Abstands von 1,5 m zwischen den Personen, 
+zu gewährleisten. § 2 - Die Regeln des Social Distancing gelten nicht:- für 
+Personen, die unter demselben Dach wohnen, untereinander,- für Kinder bis zum Alter von 12 
+Jahren einschließlich untereinander,- für Personen, die sich im Rahmen eines dauerhaften 
+engen Kontakts treffen, untereinander,- zwischen Begleitern einerseits und hilfsbedürftigen 
+Personen andererseits. § 3 - In Abweichung von § 1 müssen Benutzer von öffentlichen 
+Verkehrsmitteln den Abstand von 1,5 m zwischen ihnen im Rahmen des Möglichen einhalten.Art. 
+24 - Das Tragen einer Maske oder einer anderen Alternative aus Stoff, die Mund und Nase bedeckt, ist 
+zu Gesundheitszwecken an öffentlich zugänglichen Orten erlaubt.Art. 25 - Mit Ausnahme der Kinder 
+bis zum Alter von 12 Jahren einschließlich ist außer in den in Artikel 23 § 2 erwähnten 
+Fällen jeder verpflichtet, Mund und Nase mit einer Maske oder einer Alternative aus Stoff zu bedecken, 
+wenn die Einhaltung der Regeln des Social Distancing unmöglich gewährleistet werden kann.Mit 
+Ausnahme der Kinder bis zum Alter von 12 Jahren einschließlich ist jeder verpflichtet, an folgenden 
+Orten Mund und Nase mit einer Maske oder einer Alternative aus Stoff zu bedecken:1. in Geschäften 
+und Einkaufszentren,2. in Konferenzsälen,3. in Hörsälen,4. in Gebäuden 
+zur Ausübung eines Kults und Gebäuden zur öffentlichen Ausübung nichtkonfessionellen moralischen Beistands,5. 
+in Bibliotheken,6. in Geschäftsstraßen, auf Märkten und an belebten privaten oder öffentlichen 
+Orten, die die zuständige lokale Behörde bestimmt und die durch entsprechenden Anschlag mit Angabe der 
+Uhrzeiten, zu denen diese Verpflichtung gilt, gekennzeichnet sind,7. in Einrichtungen und an 
+Orten, wo Horeca-Tätigkeiten erlaubt sind, sowohl für Kunden als auch für das Personal, außer wenn 
+sie essen, trinken oder am Tisch sitzen.Ist das Tragen einer Maske oder einer Alternative aus 
+Stoff aus medizinischen Gründen nicht möglich, darf ein Gesichtsschutzschirm benutzt werden.Wer 
+aufgrund einer durch ärztliches Attest bescheinigten Behinderung nicht in der Lage ist, eine Maske, eine 
+Alternative aus Stoff oder einen Gesichtsschutzschirm zu tragen, braucht die Bestimmungen des vorliegenden 
+Erlasses, die diese Verpflichtung vorsehen, nicht einzuhalten.KAPITEL 10 - SanktionenArt. 
+26 - Mit den in Artikel 187 des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit vorgesehenen Strafen 
+werden Verstöße gegen folgende Artikel geahndet:- die Artikel 5 bis 11, mit Ausnahme 
+der Bestimmungen, die die Beziehung zwischen Arbeitgeber und Arbeitnehmer betreffen,- Artikel 
+13, mit Ausnahme der Bestimmungen, die die Beziehung zwischen Arbeitgeber und Arbeitnehmer und die Verpflichtungen 
+der zuständigen Gemeindebehörden betreffen,- die Artikel 14, 15, 19, 21 und 25.KAPITEL 
+11 - Schluss- und AufhebungsbestimmungenArt. 27 -  § 1 - Die lokalen Behörden und die 
+Behörden der Verwaltungspolizei sind mit der Ausführung des vorliegenden Erlasses beauftragt.Die 
+zuständigen lokalen Behörden können in Absprache mit den zuständigen Behörden der föderierten Teilgebiete 
+Vorsorgemaßnahmen ergreifen, die die Maßnahmen des vorliegenden Erlasses ergänzen. Der Bürgermeister 
+berät sich diesbezüglich mit dem Gouverneur.Wenn ein Bürgermeister oder Gouverneur von der 
+Gesundheitseinrichtung des betreffenden föderierten Teilgebiets von einem lokalen Anstieg der Epidemie 
+auf seinem Gebiet in Kenntnis gesetzt wird oder dies feststellt, muss der Bürgermeister oder Gouverneur 
+zusätzliche Maßnahmen ergreifen, die die Situation erforderlich macht. Der Bürgermeister setzt 
+den Gouverneur und die zuständigen Behörden der föderierten Teilgebiete unverzüglich von den auf kommunaler 
+Ebene ergriffenen zusätzlichen Maßnahmen in Kenntnis. Wenn beabsichtigte Maßnahmen jedoch 
+Auswirkungen auf föderale Mittel oder auf angrenzende Gemeinden oder nationaler Ebene haben, ist gemäß 
+dem Königlichen Erlass vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern, eine Konzertierung erforderlich.Der Bürgermeister ist für die verbale und 
+visuelle Kommunikation der für das Gebiet seiner Gemeinde getroffenen spezifischen Maßnahmen verantwortlich.Der 
+Minister des Innern erteilt die Anweisungen in Bezug auf die Koordinierung. § 2 - Die 
+Polizeidienste sind beauftragt, für die Einhaltung des vorliegenden Erlasses zu sorgen, notfalls unter 
+Anwendung von Zwang und Gewalt, gemäß den Bestimmungen von Artikel 37 des Gesetzes über das Polizeiamt. 
+§ 3 - Zusätzlich zu den in § 2 erwähnten Polizeidiensten haben die statutarischen und vertraglichen 
+Inspektoren und Kontrolleure des Inspektionsdienstes der Generaldirektion für Tiere, Pflanzen und Nahrung 
+des FÖD Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt die Aufgabe, für die Einhaltung 
+der in den Artikeln 5 bis einschließlich 11 des vorliegenden Erlasses vorgesehenen Verpflichtungen 
+zu sorgen, und zwar gemäß den Artikeln 11, 11bis, 16 und 19 des Gesetzes vom 24. Januar 1977 über 
+den Schutz der Gesundheit der Verbraucher im Bereich der Lebensmittel und anderer Waren.Art. 
+28 - Die durch vorliegenden Erlass vorgeschriebenen Maßnahmen sind bis zum 19. November 2020 einschließlich 
+anwendbar.Art. 29 - Bestimmungen eines Protokolls oder Leitfadens, die weniger streng als die 
+Vorschriften des vorliegenden Erlasses sind, finden keine Anwendung, unbeschadet des Artikels 23 § 
+1.Art. 30 - Der Ministerielle Erlass vom 18. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung des Coronavirus COVID-19 wird aufgehoben, mit Ausnahme von Artikel 32.Art. 31 
+- Vorliegender Erlass tritt am 29. Oktober 2020 in Kraft.Brüssel, den 28. Oktober 2020Die 
+Ministerin des InnernA. VERLINDENAnlage zum Ministeriellen Erlass 
+vom 28. Oktober 2020 Handelsgeschäfte, private und öffentliche Betriebe und Dienste, die für 
+den Schutz der lebenswichtigen Bedürfnisse der Nation und der Bedürfnisse der Bevölkerung wesentlich 
+sind Folgende Handelsgeschäfte, private und öffentliche Betriebe und Dienste, sind für den 
+Schutz der lebenswichtigen Bedürfnisse der Nation und der Bedürfnisse der Bevölkerung wesentlich: - 
+gesetzgebende und ausführende Gewalt mit all ihren Diensten, - medizinische Pflegeeinrichtungen 
+einschließlich Präventivpflege, - Pflege-, Aufnahme- und Unterstützungsdienste für ältere 
+Menschen, Minderjährige, Personen mit Behinderung und schutzbedürftige Personen, einschließlich 
+der Gewaltopfer und der Opfer sexueller und häuslicher Gewalt, - Einrichtungen, Dienste und 
+Unternehmen, die mit Überwachung, Kontrolle und Krisenmanagement in den Bereichen Gesundheit und Umwelt 
+betraut sind, - Dienste für Asyl und Migration einschließlich Aufnahme und Festhaltung 
+im Rahmen von Rückführungen, - Integrations- und Eingliederungsdienste, - Telekommunikationsinfrastruktur 
+und -dienste (einschließlich des Ersatzes und des Verkaufs von Telefongeräten, Modems und SIM-Karten 
+sowie der Installierung) und digitale Infrastruktur, - Medien, Journalisten und Kommunikationsdienste, 
+- Dienste für die Müllsammlung und -behandlung, - Hilfeleistungszonen, - 
+Dienste und Unternehmen zur Verwaltung verseuchter Böden, - Dienste der privaten und besonderen 
+Sicherheit, - Polizeidienste, - Dienste für medizinische Hilfe und dringende medizinische 
+Hilfe, - Landesverteidigung und Sicherheits- und Rüstungsindustrie, - Zivilschutz, 
+- Nachrichten- und Sicherheitsdienste einschließlich des KOBA, - Justizdienste 
+und damit verbundene Berufe: Justizhäuser, Magistratur und Strafanstalten, Jugendschutzeinrichtungen, 
+elektronische Überwachung, gerichtliche Sachverständige, Gerichtsvollzieher, Gerichtspersonal, Übersetzer-Dolmetscher, 
+Rechtsanwälte, mit Ausnahme der psycho-medizinisch-sozialen Zentren für die Wiedererlangung der Fahrerlaubnis, 
+- Staatsrat und Verwaltungsgerichte, - Verfassungsgerichtshof. - internationale 
+Einrichtungen und diplomatische Vertretungen, - Dienste für Noteinsatzplanung und Krisenmanagement, 
+einschließlich Vorbeugung und Sicherheit Brüssel, - Generalverwaltung Zoll und Akzisen, 
+- Kinderbetreuungsstellen und Schulen, Internate, Aufnahmeeinrichtungen und ständige Betreuungseinrichtungen, 
+im Hinblick auf die Organisation von Betreuung, - Universitäten und Hochschulen, - 
+Taxidienste, Dienste für öffentlichen Verkehr, Personen- und Güterbeförderung im Schienenverkehr, andere 
+Arten der Personen- und Güterbeförderung und Logistik sowie wesentliche Dienste zur Unterstützung dieser 
+Beförderungsarten, - Brennstofflieferanten und -beförderer und Brennholzlieferanten, - 
+Handelsgeschäfte und Betriebe, die an der Agro-Nahrungsmittelkette, der Tierernährung, der Lebensmittelindustrie, 
+dem Land- und Gartenbau, der Herstellung von Düngemitteln und anderer für die Agro-Lebensmittelindustrie 
+wesentlicher Rohstoffe und der Fischerei beteiligt sind, - Tierärzte, Besamer für die Viehzucht 
+und Abdeckerdienste, - Tierpflege- und Tierunterbringungsdienste und Tierheime, - 
+Dienste für Tiertransporte, - Unternehmen, die im Rahmen der Herstellung von Körperpflegemitteln 
+tätig sind, - Produktionsketten, die aus technischen Gründen oder Sicherheitsgründen nicht 
+stillgelegt werden können, - Verpackungsindustrie im Zusammenhang mit erlaubten Aktivitäten, 
+- Apotheken und Arzneimittelindustrie, - Hotels, - dringende Pannen-, Reparatur- 
+und Kundendienste für Fahrzeuge (einschließlich Fahrräder) und Zurverfügungstellung von Ersatzfahrzeugen, 
+- Dienste, die für dringende Reparaturen wesentlich sind, die ein Sicherheits- oder Hygienerisiko 
+darstellen, - Unternehmen im Reinigungs-, Wartungs- oder Reparatursektor, die für andere Schlüsselsektoren 
+und wesentliche Dienste tätig sind,- Postdienste, - Bestattungsunternehmen, Totengräber 
+und Krematorien, - öffentliche Dienste und öffentliche Infrastruktur, die bei wesentlichen 
+Dienstleistungen der erlaubten Kategorien eine Rolle spielen, - Wasserwirtschaft, - 
+Inspektions- und Kontrolldienste, - Sozialsekretariate, - Notrufzentralen und ASTRID, 
+- Wetterdienste, - Einrichtungen für die Auszahlung von Sozialleistungen, - 
+Bereich der Energieversorgung (Gas, Strom und Erdöl): Bau, Gewinnung beziehungsweise Erzeugung, Raffinerie, 
+Lagerung, Transport, Verteilung und Markt, - Bereich der Wasserversorgung: Trinkwasser, Reinigung, 
+Gewinnung, Verteilung und Entnahme, - chemische Industrie, einschließlich Contracting 
+und Wartung, - Produktion von medizinischen Instrumenten, - Finanzsektor: Banken, 
+elektronische Zahlungen und alle in diesem Rahmen relevanten Dienste, Handel mit Wertpapieren, Infrastruktur 
+des Finanzmarkts, Außenhandel, Dienste für die Bargeldversorgung, Geldtransporte, Fondsverwalter, 
+finanzielle Berichterstattung zwischen Banken, Dienstleistungen der Buchprüfer, Steuerberater, zugelassenen 
+Buchhalter und zugelassenen Buchhalter-Fiskalisten, - Versicherungsbranche, - Bodenstationen 
+von Raumfahrtsystemen, - Produktion von radioaktiven Isotopen, - wissenschaftliche 
+Forschung von entscheidender Bedeutung, - nationale und internationale Beförderung und Logistik, 
+- Lufttransport, Flughäfen und wesentliche Dienste zur Unterstützung des Lufttransports, der 
+Bodenabfertigung, der Flughäfen, der Luftfahrtnavigation und der Flugverkehrskontrolle und -planung, 
+- Häfen und Seeverkehr, Ästuarschifffahrt, Kurzstreckenseeverkehr, Gütertransport über Wasser, 
+Binnenschifffahrt und wesentliche Dienste zur Unterstützung des See- und Flussverkehrs, - Nuklearsektor 
+und radiologischer Sektor, - Zementindustrie.   Für den Privatsektor wird vorerwähnte Liste nach paritätischen Kommissionen geregelt Einschränkungen 
+102.9 Paritätische Unterkommissionen für die Kalksteinbruch- und Kalkofenindustrie 
+104 Paritätische Kommission für die Eisen- und Stahlindustrie Kontinuierlich 
+funktionierende Betriebe 105 Paritätische Kommission für Nichteisenmetalle Kontinuierlich 
+funktionierende Betriebe 106 Paritätische Kommission für die Zementindustrie Auf 
+die Produktionskette der Hochtemperaturöfen begrenzt (wichtig für die Abfallverarbeitung) 109 
+Paritätische Kommission für die Bekleidungs- und Konfektionsindustrie Begrenzt auf:- Produktion 
+von medizinischen Textilien, die in Krankenhäusern und Pflegeeinrichtungen benutzt werden,- 
+Bevorratung der Krankenhäuser und Pflegeeinrichtungen mit medizinischen Textilien und Kleidungsstücken 
+und- Bevorratung pharmazeutischer Betriebe mit Cleanroom-Kleidung 110 Paritätische 
+Kommission für Textilreinigung 111 Paritätische Kommission für Stahl-, Maschinen- 
+und Elektrobau Begrenzt auf: - Herstellung, Lieferung, Wartung und Reparatur von landwirtschaftlichen 
+Maschinen und Anlagen der Unternehmen, die den Schlüsselsektoren und wesentlichen Diensten angehören,- 
+Sicherheits- und Rüstungsindustrie und- Erzeugung von Materialien für den medizinischen Sektor 
+und die (para)pharmazeutische Industrie 112 Paritätische Kommission für Autowerkstätten 
+Auf Pannen- und Reparaturdienste begrenzt 113 Paritätische Kommission für die Keramikindustrie 
+Auf kontinuierliche Öfen begrenzt 113.04 Paritätische Unterkommission für Dachziegeleien 
+Auf kontinuierliche Öfen begrenzt 114 Paritätische Kommission für die Ziegelindustrie 
+Auf kontinuierliche Öfen begrenzt 115 Paritätische Kommission für die Glasindustrie 
+Auf kontinuierliche Öfen begrenzt 116 Paritätische Kommission für die chemische 
+Industrie 117 Paritätische Kommission für die Erdölindustrie und den Erdölhandel 
+118 Paritätische Kommission für die Nahrungsmittelindustrie 119 
+Paritätische Kommission für den Nahrungsmittelhandel 120 Paritätische Kommission 
+für die Textilindustrie Begrenzt auf:- Sektor der Körperpflegemittel, darunter Inkontinenzprodukte, 
+Windeln und Damenhygieneprodukte,- Produktion von medizinischen Textilien, die in Krankenhäusern 
+und Pflegeeinrichtungen benutzt werden,- Bevorratung der Krankenhäuser und Pflegeeinrichtungen 
+mit medizinischen Textilien und Kleidungsstücken und- Bevorratung pharmazeutischer Betriebe 
+mit Cleanroom-Kleidung 121 Paritätische Kommission für die Reinigung Begrenzt auf:- 
+einerseits Reinigung in Unternehmen der Schlüsselsektoren und in wesentlichen Diensten und andererseits 
+dringende Arbeiten und Einsätze,- Müllsammlung bei Unternehmen und- Sammlung von 
+Haushalts- und/oder Nichthaushaltsabfällen bei allen Erzeugern 124 Paritätische Kommission 
+für das Bauwesen Auf dringende Arbeiten und Notfälle begrenzt 125 Paritätische 
+Kommission für die Holzindustrie Auf Holzverpackungsmaterial und Paletten und auf Unternehmen, die 
+Kraftstoffe auf Holzbasis oder aus Holzwerkstoffen herstellen und liefern, begrenzt 126 
+Paritätische Kommission für die Möbelherstellung und die holzverarbeitende Industrie Auf Holzverpackungsmaterial 
+und Paletten, auf Unternehmen, die Kraftstoffe auf Holzbasis oder aus Holzwerkstoffen herstellen und 
+liefern, und auf Herstellung und Lieferung von Särgen (Sargteilen) begrenzt 127 Paritätische 
+Kommission für den Brennstoffhandel 129 Paritätische Kommission für die Herstellung 
+von Papierbrei, Papier und Karton Auf Verpackungsmaterial aus Papier und Pappe, Taschentücher, Toilettenpapier, 
+Zeitungspapier, grafisches Papier und Zellstoff begrenzt 130 Paritätische Kommission 
+für Buchdruck, grafische Künste und Tageszeitungen Auf den Druck von Tages- und Wochenzeitungen, 
+den Druck von Anwendungen, die für die Agro-Lebensmittelindustrie benötigt werden (Etiketten, Aufkleber) 
+und den Druck der Beilagen und Verpackungen für die Arzneimittelindustrie begrenzt 132 
+Paritätische Kommission für Betriebe für technische Landwirtschafts- und Gartenbauarbeiten 136 
+Paritätische Kommission für die Papier- und Kartonverarbeitung Auf Verpackungsmaterial aus Papier 
+und Pappe, Taschentücher, Toilettenpapier und Zeitungspapier begrenzt 139 Paritätische 
+Kommission für die Binnenschifffahrt 140 Paritätische Kommission für Transport 
+und LogistikUnterkommissionen: 140.01, 140.03 und 140.04 Auf Personenbeförderung, Straßentransport, 
+Eisenbahnverkehr, Logistik und Bodenabfertigung für Flughäfen begrenzt 140.05 Paritätische 
+Unterkommission für den Umzug Auf Umzüge begrenzt, sofern sie dringend und notwendig sind oder mit 
+klinischen, gesundheitlichen oder medizinischen Bedürfnissen zusammenhängen 142 Paritätische 
+Kommission für Unternehmen, die Sekundärrohstoffe verwertenUnterkommissionen: 142.01, 142.02, 
+142.03 und 142.04 Auf die Sammlung und/oder Verarbeitung von Abfällen begrenzt 143 
+Paritätische Kommission für die Seefischerei 144 Paritätische Kommission für die 
+Landwirtschaft 145 Paritätische Kommission für Gartenbauunternehmen 149.01 
+Paritätische Unterkommission für Elektriker: Installation und Versorgung Auf dringende Arbeiten und 
+Notfälle begrenzt 149.03 Paritätische Unterkommission für Edelmetalle Auf Maschinenwartung 
+und Reparaturen begrenzt 149.04 Paritätische Unterkommission für den Metallhandel Auf 
+Wartung und Reparaturen begrenzt 152 Paritätische Kommission für subventionierte freie 
+LehranstaltenUnterkommissionen: 152.01 und 152.02 200 Paritätische Hilfskommission 
+für Angestellte Auf Angestellte, die in Unternehmen der Schlüsselsektoren und der wesentlichen Dienste 
+für die Produktion, Lieferung, Wartung oder Reparatur notwendig sind, begrenzt 201 
+Paritätische Kommission für den selbständigen Einzelhandel Auf Lebensmittel und Futtermittel sowie 
+auf Baumärkte für Heimwerker (allgemeines Sortiment) und Gartenzentren begrenzt 202 
+Paritätische Kommission für Angestellte im Einzelhandel mit Lebensmitteln 202.01 
+Paritätische Unterkommission für die mittleren Lebensmittelunternehmen 207 Paritätische 
+Kommission für die Angestellten der chemischen Industrie 209 Paritätische Kommission 
+für die Angestellten der metallverarbeitenden Industrie Begrenzt auf:- Produktion, Lieferung, 
+Wartung und Reparatur der Anlagen von Unternehmen, die den Schlüsselsektoren und wesentlichen Diensten 
+angehören,- Sicherheits- und Rüstungsindustrie und Erzeugung von Materialien für den medizinischen 
+Sektor und die (para)pharmazeutische Industrie 210 Paritätische Kommission für die 
+Angestellten der Eisen- und Stahlindustrie 211 Paritätische Kommission für die 
+Angestellten der Erdölindustrie und des Erdölhandels 220 Paritätische Kommission 
+für die Angestellten der Nahrungsmittelindustrie 221 Paritätische Kommission für 
+die Angestellten der Papierindustrie Auf Verpackungsmaterial aus Papier und Pappe, Taschentücher, 
+Toilettenpapier, Zeitungspapier, grafisches Papier und Zellstoff begrenzt 222 Paritätische 
+Kommission für die Angestellten der Papier- und Kartonverarbeitung Auf Verpackungsmaterial aus Papier 
+und Pappe, Taschentücher, Toilettenpapier, Zeitungspapier, grafisches Papier und Zellstoff begrenzt 224 
+Paritätische Kommission für die Angestellten der Nichteisenmetalle Kontinuierlich funktionierende 
+Betriebe 225 Paritätische Kommission für die Angestellten der subventionierten freien 
+LehranstaltenUnterkommissionen: 225.01 und 225.02 226 Paritätische Kommission 
+für die Angestellten des internationalen Handels, des Transports und der Logistik 227 
+Paritätische Kommission für den audiovisuellen Sektor Auf Rundfunk und Fernsehen begrenzt 301 
+Paritätische Kommission für die Häfen 302 Paritätische Kommission für das Hotelgewerbe 
+Auf Hotels begrenzt 304 Paritätische Kommission für Unterhaltungsdarbietungen Auf 
+Rundfunk und Fernsehen begrenzt 309 Paritätische Kommission für Börsengesellschaften 
+310 Paritätische Kommission für Banken Auf wesentliche Bankgeschäfte begrenzt 
+311 Paritätische Kommission für große Einzelhandelsbetriebe Auf Lebensmittel 
+und Futtermittel sowie auf Baumärkte für Heimwerker (allgemeines Sortiment) und Gartenzentren begrenzt 
+312 Paritätische Kommission für Warenhäuser 313 Paritätische 
+Kommission für Apotheken und Tariffestsetzungsämter 315 Paritätische Kommission 
+für die kommerzielle Luftfahrt 316 Paritätische Kommission für die Handelsmarine 
+317 Paritätische Kommission für Wachdienste 318 Paritätische 
+Kommission für die Familien- und Seniorenhilfsdienste (und Unterkommissionen) 319 
+Paritätische Kommission für Erziehungs- und Unterbringungseinrichtungen und -dienste (und Unterkommissionen) 
+320 Paritätische Kommission für Bestattungsunternehmen 321 
+Paritätische Kommission für Großhandelsverteiler von Arzneimitteln 322 Paritätische 
+Kommission für Leiharbeit und zugelassene Unternehmen, die Arbeiten und Dienste im Nahbereich leisten 
+Auf Pflegeversorgung und sozialen Beistand für schutzbedürftige Zielgruppen begrenzt 326 
+Paritätische Kommission für die Gas- und Stromindustrie 327 Paritätische Kommission 
+für beschützte Werkstätten, soziale Werkstätten und "maatwerkbedrijven" Auf Lieferungen an Unternehmen, 
+die den Schlüsselsektoren und wesentlichen Diensten angehören, begrenzt 328 Paritätische 
+Kommission für städtischen und regionalen Verkehr 329 Paritätische Kommission für 
+den soziokulturellen Sektor Begrenzt auf:- Hilfe, Wohlbefinden (einschließlich Sozialassistenten 
+und Jugendarbeiter) und Lebensmittelverteilung,- Überwachung von Denkmälern und- 
+nichtkommerzielle Radio- und Fernsehsender 330 Paritätische Kommission für die Gesundheitseinrichtungen 
+und -dienste 331 Paritätische Kommission für den flämischen Sektor der Sozialhilfe 
+und der Gesundheitspflege 332 Paritätische Kommission für den französischsprachigen 
+und den deutschsprachigen Sektor der Sozialhilfe und der Gesundheitspflege 335 
+Paritätische Kommission für die Dienstleistungserbringung und die Unterstützung der Wirtschaft und der 
+Selbständigen Auf Sozialsekretariate, Sozialversicherungsfonds, Kinderzulagenkassen und Unternehmensschalter 
+begrenzt 336 Paritätische Kommission für die freien Berufe 337 
+Paritätische Hilfskommission für den nichtkommerziellen Sektor Begrenzt auf:- Pflegeversorgung 
+und sozialen Beistand für schutzbedürftige Zielgruppen,- Institut für Tropenmedizin und - Krankenkassen 
+339 Paritätische Kommission für zugelassene Gesellschaften für sozialen Wohnungsbau 
+(und Unterkommissionen) 340 Paritätische Kommission für orthopädische Technologien
+ Gesehen, um dem Ministeriellen Erlass vom 28. Oktober 2020 beigefügt zu werden Die 
+Ministerin des Innern A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-03Numac : 2020015932
+

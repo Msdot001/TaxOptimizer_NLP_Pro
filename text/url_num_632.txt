@@ -1,0 +1,245 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/07/01/2021021267/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-08Numac : 2021021267
+GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE VAN BRUSSEL-HOOFDSTAD  
+ 1 JULI 2021. - Besluit van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie betreffende de uitzonderingen op de verplichtingen inzake quarantaine en staalafname in het kader van de strijd tegen de COVID-19-pandemie 
+Het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie,Gelet 
+op de ordonnantie van 19 juli 2007 betreffende het preventieve gezondheidsbeleid, artikel 13/1, § 
+3;Gelet op het besluit van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie 
+van 1 april 2021 betreffende de uitzonderingen op de verplichtingen inzake quarantaine en staalafname 
+in het kader van de strijd tegen de COVID-19-pandemie;Gelet op de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid 
+die niet toelaat om het advies van de afdeling Wetgeving van de Raad van State binnen een termijn teruggebracht 
+tot vijf dagen af te wachten, met name omdat de maatregelen van het OCC worden overwogen op basis van 
+de epidemiologische resultaten; omdat de beslissing van het OCC van 4 juni 2021 vermeldt dat de maatregelen 
+in werking moeten treden met ingang van 1 juli 2021; omdat het niet meer mogelijk is het besluit met 
+het advies van de Raad van State vóór 1 juli 2021 goed te keuren; omdat retroactiviteit hier niet verantwoord 
+is en rechtszekerheid gewaarborgd dient te worden omdat er strafrechtelijke sancties mogelijk zijn; dat 
+dus het dringend is om de maatregelen van het OCC zo snel mogelijk om te zetten in GGC-recht;Overwegende 
+dat de WHO op 11 maart 2020 COVID-19 als een pandemie heeft gekwalificeerd, en dat die tot op heden voortduurt;Overwegende 
+dat het Overlegcomité de federale regering en de regeringen van de deelstaten samenbrengt;Overwegende 
+dat op 4 juni 2021 het Overlegcomité (OCC) binnen het raamwerk van het EU-Digital COVID Certificate maatregelen 
+heeft beslist met betrekking tot reizen;Overwegende dat op 16 juni 2021 de Interministeriële 
+Conferentie Volksgezondheid nieuwe regels inzake testing en quarantaine voor volledig gevaccineerden 
+in het kader van een hoogrisicocontact heeft goedgekeurd;Op de voordracht van de leden van 
+het Verenigd College, belast met de bevoegdheid inzake het Gezondheidsbeleid;Na beraadslaging,Besluit 
+:Artikel 1. Voor de toepassing van dit besluit wordt verstaan onder:1°  "ordonnantie": 
+de ordonnantie van 19 juli 2007 betreffende het preventieve gezondheidsbeleid;2°  "hoogrisicogebied": 
+een gebied dat de bevoegde federale dienst heeft aangeduid als een gebied met een zeer hoog risico op 
+besmetting met COVID-19;3°  "hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn": 
+een gebied dat de bevoegde federale dienst heeft aangeduid als een hoogrisicogebied waar een aanzienlijk 
+deel van de besmettingen met COVID-19 er met een zorgwekkende variant zijn of worden vermoed;4° 
+ "hoogrisicogebied waar verhoogde aandacht voor zorgwekkende varianten is": een gebied buiten de Europese 
+Unie dat niet door de Interministeriële conferentie Volksgezondheid is aangeduid als een hoogrisicogebied 
+waar zorgwekkende varianten sterk aanwezig zijn en dat niet op de EU-lijst van veilige derde landen staat;5° 
+ "zorgwekkende variant": een variant van het SARS-CoV-2 virus die door de Wereldgezondheidsorganisatie 
+als een Variant of Concern is gelabeld, met uitzondering van de Alpha variant;6°  "personen 
+die in een hoogrisicogebied zijn geweest": personen die aankomen op het grondgebied van het tweetalige 
+gebied Brussel-Hoofdstad, afkomstig uit een stad, gemeente, district, regio of land die door de federale 
+overheidsdienst Buitenlandse Zaken als rode zone is bestempeld in het kader van die pandemie, overeenkomstig 
+artikel 13/1, § 1 van de ordonnantie.Art. 2.  § 1. Een tijdelijke uitzondering 
+op de verplichting voorzien in paragraaf 1, 2°,  van artikel 13/1 van de ordonnantie kan worden toegestaan 
+voor personen die in een hoogrisicogebied zijn geweest en personen die beschouwd worden als contactpersoon 
+die een hoog risicoprofiel vertoont door de geneesheer-gezondheidsinspecteur, behalve voor personen die 
+in een hoogrisicogebied zijn geweest waar zorgwekkende varianten sterk aanwezig zijn, om volgende noodzakelijke 
+activiteiten die niet kunnen worden uitgesteld tot na het verstrijken van de termijn van de tijdelijke 
+afzondering te vervullen, en mits het extra aandacht besteden aan hygiënische maatregelen, het afstand 
+bewaren met andere personen en het dragen van een (chirurgisch) mondneusmasker:1°  verplaatsingen 
+met betrekking tot dringende medische zorgen en toegang tot geneesmiddelen;2°  verplaatsingen 
+met betrekking tot de aankoop van noodzakelijke basisbenodigdheden, zoals voedsel, maar alleen als niemand 
+anders hiervoor kan zorgen, en per uitzondering;3°  verplaatsingen in het kader van dringende 
+juridische of financiële aangelegenheden en ouderlijk gezag, mits staving;4°  verplaatsingen 
+in het kader van de dringende en noodzakelijke zorg voor (huis)dieren, als niemand anders hiervoor kan 
+zorgen;5°  verplaatsingen in het kader van een begrafenis.Een tijdelijke uitzondering 
+op de verplichtingen voorzien in paragraaf 1, 2°,  van artikel 13/1 van de ordonnantie kan worden toegestaan 
+voor personen die in een hoogrisicogebied zijn geweest waar zorgwekkende varianten sterk aanwezig zijn 
+om volgende noodzakelijke activiteiten die niet kunnen worden uitgesteld tot na het verstrijken van de 
+termijn van de tijdelijke afzondering te vervullen, en mits het extra aandacht besteden aan hygiënische 
+maatregelen, het afstand bewaren met andere personen en het dragen van een (chirurgisch) mondneusmasker:1° 
+ verplaatsingen met betrekking tot dringende medische zorgen en toegang tot geneesmiddelen;2° 
+ verplaatsingen met betrekking tot de aankoop van noodzakelijke basisbenodigdheden, zoals voedsel, maar 
+alleen als niemand anders hiervoor kan zorgen, en per uitzondering. § 2. Een tijdelijke 
+uitzondering op de verplichtingen voorzien in paragraaf 1, 2°,  van artikel 13/1 van de ordonnantie kan 
+worden toegestaan voor de volgende personen die in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied 
+is waar zorgwekkende varianten sterk aanwezig zijn:1°  leerlingen, studenten en stagairs in 
+het kader van een examen of een verplichte taak;2°  gezondheidswerkers, onderzoekers op het 
+gebied van gezondheid en beroepskrachten uit de ouderenzorg. Op deze uitzondering kan alleen beroep worden 
+gedaan door personeel dat nodig is om een minimum aan basiszorg te waarborgen. Voor het ziekenhuispersoneel 
+wordt de beslissing genomen in overleg met de ziekenhuisdirectie en de dienst hygiëne van het ziekenhuis. 
+Voor het zorgpersoneel in de eerstelijnszorg, zoals huisartsen, wordt het besluit genomen in overleg 
+met de wachtkring;3°  leden van de diplomatieke en consulaire gemeenschap, titularissen van 
+een functie, verkozenen en officiële vertegenwoordigers van de internationale organisaties en instellingen 
+gevestigd in België, in het kader van een essentiële activiteit die niet op afstand kan worden verricht, 
+noch per videoconferentie;4°  staatshoofden en regeringshoofden, regeringsleden, parlementariërs 
+en hoge ambtenaren, diplomatiek, consulair en technisch personeel op professionele zending, in het kader 
+van een essentiële activiteit die niet op afstand kan worden verricht, noch per videoconferentie;5° 
+ personeelsleden van een internationale organisatie of personen die door een dergelijke organisatie zijn 
+uitgenodigd en van wie de fysieke aanwezigheid vereist is voor de goede werking van die organisatie, 
+inclusief inspecteurs van nucleaire installaties;6°  seizoensarbeiders;7°  personeel 
+van de politiediensten, migratiediensten en douane;8°  personen die reizen om dwingende gezinsredenen 
+(ernstige ziekte met hospitalisatie, preterminale situatie, overlijden) voor zover nodig om deze gezinsredenen 
+uit te oefenen;9°  hooggekwalificeerde personen, als hun werk vanuit economisch standpunt noodzakelijk 
+is en niet kan worden uitgesteld (voor zover relevant bepaald door de werkgever in overleg met de bedrijfsarts 
+- aangezien deze laatste op de hoogte moet zijn van de mogelijke risico's op de werkplek). Daaronder 
+worden ook beroepssporters, professionelen uit de cultuursector en wetenschappelijke onderzoekers begrepen 
+die zich verplaatsen bij de uitoefening van hun professionele activiteit;10°  journalisten 
+bij het uitoefenen van hun taken;11°  passagiers op doorreis die minder dan 48 u in België 
+verblijven;12°  patiënten die reizen om dwingende medische redenen of de verderzetting van 
+een dringende medische behandeling;13°  personen die reizen om bijstand of zorg te verlenen 
+aan een oudere, minderjarige, gehandicapte of kwetsbare persoon.Een tijdelijke uitzondering 
+op de verplichtingen voorzien in paragraaf 1, 2°,  van artikel 13/1 van de ordonnantie kan worden toegestaan 
+voor de volgende personen die in een hoogrisicogebied zijn geweest waar zorgwekkende varianten sterk 
+aanwezig zijn:1°  leden van de diplomatieke en consulaire gemeenschap, titularissen van een 
+functie, verkozenen en officiële vertegenwoordigers van de internationale organisaties en instellingen 
+gevestigd in België, in het kader van een essentiële activiteit die niet op afstand kan worden verricht, 
+noch per videoconferentie;2°  staatshoofden en regeringshoofden, regeringsleden, parlementariërs 
+en hoge ambtenaren, diplomatiek, consulair en technisch personeel op professionele zending, in het kader 
+van een essentiële activiteit die niet op afstand kan worden verricht, noch per videoconferentie;3° 
+ personeelsleden van een internationale organisatie of personen die door een dergelijke organisatie zijn 
+uitgenodigd en van wie de fysieke aanwezigheid vereist is voor de goede werking van die organisatie, 
+inclusief inspecteurs van nucleaire installaties;4°  vervoerspersoneel dat belast is met goederenvervoer 
+en ander vervoerspersoneel die reizen voor de uitoefening van hun functie;5°  zeevarenden, 
+de sleepbootbemanning, de loodsen en het industrieel personeel tewerkgesteld in de offshore windmolenparken.De 
+personen, vermeld in het eerste en tweede lid, moeten aan de volgende voorwaarden voldoen:1° 
+ in algemene zin, geen symptomen hebben;2°  geen hoogrisicocontact zijn van iemand bij wie 
+de diagnose van COVID-19 infectie werd bevestigd die onder hetzelfde dak woont;3°  niet positief 
+getest zijn op COVID-19;4°  het contact met het publiek tot het strikte minimum beperken;5° 
+ waar mogelijk geen gebruikmaken van het openbaar vervoer;6°  niet in staat zijn om te telewerken;7° 
+ respecteren van afstandsregels en altijd dragen van (chirurgisch) mondneusmasker op de juiste manier 
+op de werkplek;8°  beperking van het contact met andere medewerkers: in de praktijk betekent 
+dit zoveel mogelijk gescheiden in- en uitgangen, gescheiden kleedkamers en gescheiden pauze- en eetruimten. 
+§ 3. Een tijdelijke uitzondering op de verplichtingen voorzien in paragraaf 1, 2°,  van artikel 
+13/1 van de ordonnantie kan worden toegestaan voor volgende personen die in een hoogrisicogebied zijn 
+geweest en de volgende personen die beschouwd worden als contactpersoon die een hoog risicoprofiel vertoont 
+door de geneesheer-gezondheidsinspecteur behalve voor personen die in een hoogrisicogebied zijn geweest 
+waar zorgwekkende varianten sterk aanwezig zijn :1°  (mits attest van de werkgever voor zover 
+relevant) hoogst uitzonderlijk, asymptomatische personen die een essentiële functie of opdracht uitvoeren 
+en die:a) gezondheidsbeoefenaars of beroepsbeoefenaars zijn die bijstand en zorg verlenen aan 
+kwetsbare personen;b) op voorwaarde dat de uitoefening van hun functie absoluut noodzakelijk 
+is om een minimale basiszorg te kunnen garanderen;c) op voorwaarde van:1) dragen 
+(chirurgisch) mondneusmasker;2) naleving hygiënevoorschriften;3) actieve controle 
+lichaamstemperatuur en symptomen COVID-19;4) houden van minimum 1,5 meter met personeel;5) 
+beperking van sociale contacten buiten het werk;6) geen gebruik maken van het openbaar vervoer;7) 
+reisverbod;2°  (mits attest van de werkgever voor zover relevant) werknemers die door de aard 
+van hun functie in laboratoria in contact komen met het virus dat COVID-19 veroorzaakt;3°  
+personen tewerkgesteld in een essentiële sector in de zin van bijlage 1 van het ministerieel besluit 
+van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te 
+beperken, wanneer hun werk voldoet aan de volgende cumulatieve criteria:a) dringende vraag 
+(bepaald door de werkgever in overleg met de bedrijfsarts - aangezien deze laatste op de hoogte moet 
+zijn van de mogelijke risico's op de werkplek);b) noodzakelijke situatie (bepaald door de werkgever 
+in overleg met de bedrijfsarts - aangezien deze laatste op de hoogte moet zijn van de mogelijke risico's 
+op de werkplek);c) onmisbare en onvervangbare functie die beschreven staat in het continuïteitsplan 
+van het bedrijf. De werknemers van bedrijven die niet over een Business ContinuityPlan beschikken zullen 
+nooit van deze quarantaine-uitzondering kunnen genieten;d) de continuïteit van de essentiële 
+dienstverlening van het bedrijf wordt op korte termijn (duur van de quarantaine) bedreigd;e) 
+alle andere alternatieven tot oplossing werden overwogen en zijn ontoereikend.De werkgever 
+bezorgt aan het Comité Preventie en Bescherming op het Werk en aan de bedrijfsarts een lijst van de personen 
+waarvan sprake. Na goedkeuring door het Comité Preventie en Bescherming op het Werk van het bedrijf wordt 
+de uitzondering op de quarantaine geattesteerd en wordt er op dagelijkse basis een nominatieve lijst 
+bijgehouden van de betreffende personen.De personen, vermeld in het eerste lid, moeten aan 
+de volgende voorwaarden voldoen:1°  in algemene zin, geen symptomen hebben;2°  geen 
+hoogrisicocontact zijn van iemand bij wie de diagnose van COVID-19 infectie werd bevestigd die onder 
+hetzelfde dak woont;3°  niet positief getest zijn op COVID-19;4°  het contact met 
+het publiek tot het strikte minimum beperken;5°  waar mogelijk geen gebruikmaken van het openbaar 
+vervoer;6°  niet in staat zijn om te telewerken;7°  respecteren van afstandsregels 
+en altijd dragen van (chirurgisch) mondneusmasker op de juiste manier op de werkplek;8°  beperking 
+van het contact met andere medewerkers: in de praktijk betekent dit zoveel mogelijk gescheiden in- en 
+uitgangen, gescheiden kleedkamers en gescheiden pauze- en eetruimten.Art. 3. Voor kinderen 
+jonger dan 12 jaar die in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied is waar verhoogde 
+aandacht voor zorgwekkende varianten is en dat geen hoogrisicogebied is waar zorgwekkende varianten sterk 
+aanwezig zijn, gelden de verplichtingen voorzien in paragraaf 1, 1°  en 2°,  van artikel 13/1 van de 
+ordonnantie niet.Voor kinderen jonger dan 6 jaar die beschouwd wordt als contactpersoon die 
+een hoog risicoprofiel vertoont door de geneesheer-gezondheidsinspecteur gelden de verplichtingen voorzien 
+in paragraaf 1, 1°,  van artikel 13/1 van de ordonnantie, tenzij de geneesheer-gezondheidsinspecteur 
+in specifieke omstandigheden anders oordeelt.Art. 4.  § 1. De verplichtingen voorzien 
+in paragraaf 1, 1°  en 2°,  van artikel 13/1 van de ordonnantie gelden niet voor personen die voor die 
+beperkte duur in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied is waar zorgwekkende varianten 
+sterk aanwezig zijn, of voor personen die voor die beperkte duur in België verblijven, tenzij na aankomst 
+uit een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn.Onder een beperkte 
+duur wordt minder dan 48 uur verstaan. § 2. De verplichtingen voorzien in paragraaf 
+1, 1°  en 2°,  van artikel 13/1 van de ordonnantie gelden niet voor personen die in een hoogrisicogebied 
+zijn geweest bij wie de kans op besmetting in een hoogrisicogebied dat geen hoogrisicogebied is waar 
+verhoogde aandacht voor zorgwekkende varianten is en dat geen hoogrisicogebied is waar zorgwekkende varianten 
+sterk aanwezig zijn laag wordt ingeschat omdat ze kunnen aantonen dat ze, volgens de modaliteiten bepaald 
+door de geneesheer-gezondheidsinspecteur, tegen COVID-19 zijn ingeënt, negatief hebben getest of van 
+COVID-19 zijn hersteld.De verplichting voorzien in paragraaf 1, 2°,  van artikel 13/1 van de 
+ordonnantie geldt niet voor personen die in een hoogrisicogebied zijn geweest bij wie de kans op besmetting 
+in een hoogrisicogebied waar verhoogde aandacht voor zorgwekkende varianten is laag wordt ingeschat omdat 
+ze kunnen aantonen dat ze, volgens de modaliteiten bepaald door de geneesheer-gezondheidsinspecteur, 
+tegen COVID-19 zijn ingeënt en negatief hebben getest. § 3. De verplichting voorzien 
+in paragraaf 1, 2°,  van artikel 13/1 van de ordonnantie geldt niet voor essentiële redenen, voor de 
+volgende personen die in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied is waar zorgwekkende 
+varianten sterk aanwezig zijn:1°  grensbewoners of grensarbeiders die reizen in deze hoedanigheid;2° 
+ vervoerspersoneel dat belast is met goederenvervoer en ander vervoerspersoneel die reizen voor de uitoefening 
+van hun functie;3°  zeevarenden, de sleepbootbemanning, de loodsen en het industrieel personeel 
+tewerkgesteld in de offshore windmolenparken;4°  personen die reizen in het kader van grensoverschrijdend 
+co-ouderschap;5°  leerlingen, studenten en stagairs die zich dagelijks of wekelijks naar het 
+buitenland verplaatsen in het kader van hun studies of een grensoverschrijdende stage;6°  grensscholieren 
+die reizen in het kader van leerplichtonderwijs of in het kader van hoger onderwijs en het volwassenonderwijs 
+naar en van de locatie waar ze het onderwijs genieten;7°  de "Border Force Officers" van het 
+Verenigd Koninkrijk.De verplichting voorzien in paragraaf 1, 1°,  van artikel 13/1 van de ordonnantie 
+geldt niet voor essentiële redenen, voor de volgende personen die in een hoogrisicogebied zijn geweest 
+dat geen hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn:1°  grensbewoners 
+of grensarbeiders die reizen in deze hoedanigheid;2°  vervoerspersoneel dat belast is met goederenvervoer 
+en ander vervoerspersoneel die reizen voor de uitoefening van hun functie;3°  zeevarenden, 
+de sleepbootbemanning, de loodsen en het industrieel personeel tewerkgesteld in de offshore windmolenparken;4° 
+ personen die reizen in het kader van grensoverschrijdend co-ouderschap;5°  leerlingen, studenten 
+en stagairs die zich dagelijks of wekelijks naar het buitenland verplaatsen in het kader van hun studies 
+of een grensoverschrijdende stage;6°  grensscholieren die reizen in het kader van leerplichtonderwijs 
+of in het kader van hoger onderwijs en het volwassenonderwijs naar en van de locatie waar ze het onderwijs 
+genieten;7°  De "Border Force Officers" van het Verenigd Koninkrijk.Art. 5. Het besluit 
+van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie van 1 april 2021 betreffende 
+de uitzonderingen op de verplichtingen inzake quarantaine en staalafname in kader van de strijd tegen 
+de COVID-19-pandemie wordt opgeheven.Art. 6. Dit besluit treedt in werking op 1 juli 2021.Art. 
+7. De Leden van het Verenigd College bevoegd voor het Gezondheidsbeleid zijn belast met de uitvoering 
+van dit besluit.Brussel, 1 juli 2021.Voor het Verenigd College :De Leden 
+van het Verenigd Collegebevoegd voor Welzijn en Gezondheid,A. MARON   E. VAN DEN 
+BRANDT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-08Numac : 2021021267
+

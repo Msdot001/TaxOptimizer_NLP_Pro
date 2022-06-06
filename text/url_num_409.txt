@@ -1,0 +1,79 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-08Numac : 2021200441
+WAALSE OVERHEIDSDIENST 
+  
+Waalse Overheidsdienst Fiscaliteit. - Registratierechten Bericht in verband met de jaarlijkse indexering 
+van bepaalde bedragen vanaf 1 januari 2021 De bedragen worden jaarlijks verhoudingsgewijs aangepast 
+aan de evolutie van het indexcijfer van de consumptieprijzen tussen de maanden juni van het lopende jaar 
+(109,52) en van het vorige jaar (108,87).A. Op 1 januari 2021 te indexeren bedragen die voorkomen 
+in artikel 53ter, zoals gewijzigd bij artikel 143 van het programmadecreet van 12 december 2014 houdende 
+verschillende maatregelen betreffende de begroting inzake natuurrampen, verkeersveiligheid, openbare 
+werken, energie, huisvesting, leefmilieu, ruimtelijke ordening, dierenwelzijn, landbouw en fiscaliteit, 
+en in artikel 57bis van het Wetboek der registratie-, hypotheek- en griffierechten.
+ Wettelijke bepaling van het voornoemde Wetboek der registratie-, hypotheek- 
+en griffierechten Bedragen op 1 januari 2020 Geïndexeerde bedragen die vanaf 1 januari 2021 van 
+toepassing zijn Art. 53ter, § 1 : 
+ 
+ - Onroerend goed 
+gelegen in een vastgoeddrukgebied 174.000,61 EUR 175.039,47 EUR - Onroerend 
+goed gelegen buiten voornoemd gebied 163.125,56 EUR 164.099,49 EUR Art. 57bis, 
+§ 1 : 
+ 
+ - Onroerend goed gelegen in een vastgoeddrukgebied 240.006,90 
+EUR 241.439,84 EUR - Onroerend goed gelegen buiten voornoemd gebied 229.206,60 
+EUR 230.575,06 EUR  B. De lijst van de gemeenten die in de vastgoeddrukgebieden 
+bedoeld bij de artikelen 53ter, § 1, en 57bis, § 1 van het Wetboek der registratie-, hypotheek- 
+en griffierechten voorkomen, is de volgende: Aarlen, Attert, Bevekom, Eigenbrakel, Kasteelbrakel, Chastre, 
+Chaumont-Gistoux, Court-Saint-Etienne, Enghien, Genepiën, Graven, Incourt, Itter, Geldenaken, La Bruyère, 
+Terhulpen, Lasne, Messancy, Mont-Saint-Guibert, Neupré, Nijvel, Ottignies-Louvain-la-Neuve, Rixensart, 
+Silly, Villers-la-Ville, Walhain, Waterloo, Waver.Namen, 31 december 2020.Bij volmacht, 
+de DirecteurL. DESIRON .   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-08Numac : 2021200441
+

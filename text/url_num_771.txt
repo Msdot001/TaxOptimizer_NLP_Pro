@@ -1,0 +1,60 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2021/02/07/2022020362/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-10Numac : 2022020362
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 7 FEBRUARI 2021. - Wet houdende diverse wijzigingen aan het Wetboek der registratie-, hypotheek- en griffierechten, aan het Wetboek der successierechten, aan het Wetboek diverse rechten en taksen en aan de hypotheekwet van 16 december 1851, alsook aan het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen. - Duitse vertaling van uittreksels 
+De hierna 
+volgende tekst is de Duitse vertaling van de artikelen 1, 33 en 35 van de wet van 7 februari 2021 houdende 
+diverse wijzigingen aan het Wetboek der registratie-, hypotheek- en griffierechten, aan het Wetboek der 
+successierechten, aan het Wetboek diverse rechten en taksen en aan de hypotheekwet van 16 december 1851, 
+alsook aan het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen 
+(Belgisch Staatsblad van 19 februari 2021).Deze vertaling is opgemaakt door de Centrale dienst 
+voor Duitse vertaling in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-10Numac : 2022020362
+

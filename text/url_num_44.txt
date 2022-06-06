@@ -1,0 +1,55 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-16Numac : 2020201895
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG
+ 30 MAART 2020. - Koninklijk besluit tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het Covid-19 virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit. - Erratum 
+Op bladzijde 24317 van het Belgisch Staatsblad van 2 april 
+2020 wordt in artikel 16, derde lid, het cijfer "7," geschrapt.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-16Numac : 2020201895
+

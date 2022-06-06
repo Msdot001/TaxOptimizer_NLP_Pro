@@ -1,0 +1,88 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020042008/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-02Numac : 2020042008
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 18 JUNI 2020. - Bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/046 tot wijziging van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/010 van 30 april 2020 betreffende een gedelegeerde opdracht aan de nv Gewestelijke Investeringsmaatschappij voor Brussel (GIMB) voor de toekenning van kredieten aan bepaalde ondernemingen in de horecasector of voor de toelevering ervan vanwege de COVID-19-gezondheidscrisis 
+De Brusselse Hoofdstedelijke Regering,Gelet 
+op de ordonnantie van 19 maart 2020 tot toekenning van bijzondere machten aan de Brusselse Hoofdstedelijke 
+Regering in het kader van de COVID-19-gezondheidscrisis, artikel 2, § 1;Gelet op artikel 
+2, § 3, 5°,  van de ordonnantie van 4 oktober 2018 tot invoering van de gelijkekansentest;Gelet 
+op het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering nr. 2020/010 van 30 april 
+2020 betreffende een gedelegeerde opdracht aan de nv Gewestelijke Investeringsmaatschappij voor Brussel 
+(GIMB) voor de toekenning van kredieten aan bepaalde ondernemingen in de horecasector of voor de toelevering 
+ervan vanwege de COVID-19-gezondheidscrisis;Gelet op het akkoord van de Minister van Begroting, 
+gegeven op 18 juni 2020;Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973, artikel 3, § 1;Gelet op de dringende noodzakelijkheid;Overwegende dat 
+de Horecasector zwaar getroffen werd door de verscheidene inperkingsmaatregelen die de federale overheid 
+sinds 10 maart 2020 heeft opgelegd en die hebben geleid tot een plotse inkrimping van de activiteiten 
+van de sector, evenals tot een groot risico op staking van betalingen en faillissementen voor een beduidend 
+aantal horecazaken;Dat de horecasector in Brussel een vitaal karakter heeft, zowel voor de 
+consumptie door de bevolking als voor het behoud van de lokale werkgelegenheid, die bovendien wordt ingevuld 
+door veel laaggeschoolde werknemers of zelfstandigen van wie het inkomensniveau waarschijnlijk sterk 
+en blijvend zal worden aangetast;Dat blijkt dat de financiële enveloppe voor de opdracht van 
+de GIMB toelaat de begunstigden uit te breiden zonder de steun voor de oorspronkelijke categorieën van 
+begunstigden te beperken;Dat het aldus mogelijk is voor de Horecazaken om vanaf 10 voltijdse 
+equivalenten, in plaats van 50 zoals voordien, leningen met een voordelige rentevoet te verkrijgen;Dat 
+de situatie van de sector kritisch blijft, zodat het besluit onverwijld in die zin dient aangepast te 
+worden;Overwegende dat de hierboven uiteengezette urgentie het niet mogelijk maakt het advies 
+van de Inspectie van Financiën en van de Economische en Sociale Raad in te winnen, zoals toegelaten door 
+artikel 2, § 4, van de ordonnantie van 19 maart 2020 tot toekenning van bijzondere machten aan 
+de Brusselse Hoofdstedelijke Regering in het kader van de COVID-19-gezondheidscrisis;Op voorstel 
+van de Minister van Economie;Na beraadslaging,Besluit :Artikel 1. In artikel 
+7, § 2, eerste lid, 2°,  van het bijzondere machtenbesluit van de Brusselse Hoofdstedelijke Regering 
+nr. 2020/010 van 30 april 2020 betreffende een gedelegeerde opdracht aan de nv Gewestelijke Investeringsmaatschappij 
+voor Brussel (GIMB) voor de toekenning van kredieten aan bepaalde ondernemingen in de horecasector of 
+voor de toelevering ervan vanwege de COVID-19-gezondheidscrisis, worden de woorden "ten minste 50 personen" 
+vervangen door de woorden "ten minste 10 personen".Art. 2. Dit besluit treedt in werking op 
+de dag van de bekendmaking ervan in het Belgisch Staatsblad.Art. 3. De minister bevoegd voor 
+Economie wordt belast met de uitvoering van dit besluit.Brussel, 18 juni 2020.Voor 
+de Brusselse Hoofdstedelijke Regering :De Minister-President,R. VERVOORTDe 
+Minister van Economie,A. MARON   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-02Numac : 2020042008
+

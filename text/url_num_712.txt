@@ -1,0 +1,57 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/10/28/2021022404/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-11-10Numac : 2021022404
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 28 OKTOBER 2021. - Koninklijk besluit houdende de afkondiging van de epidemische noodsituatie betreffende de coronavirus COVID-19 pandemie. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van het koninklijk besluit van 28 oktober 2021 houdende de afkondiging van de epidemische noodsituatie 
+betreffende de coronavirus COVID-19 pandemie (Belgisch Staatsblad van 29 oktober 2021).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-11-10Numac : 2021022404
+

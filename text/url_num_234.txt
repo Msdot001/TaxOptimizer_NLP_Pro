@@ -1,0 +1,84 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/10/2020042305/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-15Numac : 2020042305
+VLAAMSE OVERHEID
+ 10 JULI 2020. - Besluit van de Vlaamse Regering tot toekenning van een facultatieve subsidie aan de luchthavenexploitatiemaatschappij Antwerpen in het kader van COVID-19 voor het begrotingsjaar 2020 
+RechtsgrondenDit 
+besluit is gebaseerd op:- de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen 
+die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen 
+en de gewesten, alsook voor de organisatie van de controle door het Rekenhof;- het decreet 
+van 26 juni 2020 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor 
+het begrotingsjaar 2020;- het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling 
+van de bevoegdheden van de leden van de Vlaamse Regering;- de Vlaamse Codex Overheidsfinanciën 
+van 29 maart 2019;- het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.VormvereistenDe 
+volgende vormvereiste(n) zijn vervuld:- De Inspectie van Financiën heeft advies gegeven op 
+26 juni 2020.- De Vlaamse minister, bevoegd voor het budgettair beleid, heeft zijn akkoord 
+gegeven op 9 juli 2020.MotiveringDit besluit is gebaseerd op de volgende motieven:- 
+gelet de grote impact van COVID-19 op de luchtvaartsector in het algemeen en op de Vlaamse regionale 
+luchthavens in het bijzonder;- gelet de exploitatie van de Vlaamse regionale luchthavens van 
+strategisch belang is voor het Vlaamse Gewest;- gelet het noodzakelijk is dat de regionale 
+luchthavens ondersteund worden opdat ze de COVID-19 crisis kunnen overwinnen.Juridisch kaderDit 
+besluit sluit aan bij de volgende regelgeving:- de wet van 16 mei 2003 tot vaststelling van 
+de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding 
+van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof;- 
+de Vlaamse Codex Overheidsfinanciën van 29 maart 2019;- de tijdelijke kaderregeling inzake 
+staatssteun ter ondersteuning van de economie vanwege de huidige COVID-19 uitbraak (2020/C 91 I/01).InitiatiefnemerDit 
+besluit wordt voorgesteld door de Vlaamse minister van Mobiliteit en Openbare Werken.Na beraadslaging,DE 
+VLAAMSE REGERING BESLUIT :Artikel 1. Aan de LEM Antwerpen wordt voor het begrotingsjaar 2020 
+een facultatieve subsidie toegekend van vijfhonderdduizend euro (500.000,00 euro) teneinde de liquiditeit 
+van de LEM Antwerpen te verzekeren gedurende de COVID-19 crisis.Deze toelage wordt aangerekend 
+op begrotingsartikel MB0-1MDH2CA-WT van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor 
+het begrotingsjaar 2020.Art. 2. Deze toelage zal na ondertekening van dit toelagebesluit en 
+na akkoord van de Europese Commissie i.k.v. staatssteun uitbetaald worden op rekeningnummer BE27 7310 
+3622 9673 van de Luchthavenexploitatiemaatschappij Antwerpen.Art. 3. De Vlaamse minister, bevoegd 
+voor Mobiliteit en Openbare Werken, is belast met de uitvoering van dit besluit.Brussel, 10 
+juli 2020.De minister-president van de Vlaamse Regering,J. JAMBONDe Vlaamse 
+minister van Mobiliteit en Openbare Werken,,L. PEETERS  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-15Numac : 2020042305
+

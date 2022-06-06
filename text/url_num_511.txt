@@ -1,0 +1,273 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2021020769/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020769
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 13 APRIL 2019. - Wet tot invoering van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen. - Duitse vertaling van uittreksels 
+De hierna volgende tekst 
+is de Duitse vertaling van de artikelen 1, 28 tot 63, 110 en 111, 125 en 126, 130 tot 136, 138 en 139 
+van de wet van 13 april 2019 tot invoering van het Wetboek van de minnelijke en gedwongen invordering 
+van fiscale en niet-fiscale schuldvorderingen (Belgisch Staatsblad van 30 april 2019).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN13. APRIL 2019 - Gesetz zur Einführung des Gesetzbuches über die 
+gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen ForderungenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 1 - Allgemeine BestimmungArtikel 
+1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.(...)KAPITEL 
+3 - Abänderungs- und Aufhebungsbestimmungen(...)Abschnitt 2 - Einkommensteuergesetzbuch 
+1992Art. 28 - Artikel 126 des Einkommensteuergesetzbuches 1992, ersetzt durch das Gesetz vom 
+10. August 2001, wird wie folgt abgeändert:1. In § 2 wird Absatz 3 aufgehoben.2. 
+Der Artikel wird durch einen Paragraphen 5 mit folgendem Wortlaut ergänzt:" § 5 - Wird 
+eine gemeinsame Veranlagung festgelegt, bestimmt der König die Weise, wie der Teil der Steuer in Bezug 
+auf das steuerpflichtige Einkommen jedes Ehepartners festgelegt wird."Art. 29 - In demselben 
+Gesetzbuch wird die Überschrift von Titel VII wie folgt ersetzt:"TITEL VII - Festlegung und 
+Einnahme der Steuern".Art. 30 - In Artikel 298 desselben Gesetzbuches, zuletzt abgeändert durch 
+das Gesetz vom 20. Februar 2017, wird § 2 aufgehoben.Art. 31 - Artikel 300 desselben 
+Gesetzbuches, abgeändert durch das Gesetz vom 1. Juli 2016, wird wie folgt ersetzt:"Art. 300 
+- § 1 - Der König bestimmt die Vorgehensweise in Bezug auf die Erklärungen, die Erstellung und 
+Notifizierung der Heberollen, die Zahlungen und die Quittungen. § 2 - Die Bestimmungen 
+des vorliegenden Gesetzbuches stehen dem Recht des Staates nicht im Wege, durch Auftreten als Zivilpartei 
+oder Haftpflichtklage Ersatz für den Schaden aus der Nichtzahlung von Steuern und Vorabzügen, Zinsen, 
+administrativen Geldbußen, Zuschlägen und Nebenforderungen zu fordern."Art. 32 - Artikel 
+319bis desselben Gesetzbuches, eingefügt durch den Königlichen Erlass vom 12. Dezember 1996 und abgeändert 
+durch die Gesetze vom 27. Dezember 2006 und 7. November 2011, wird aufgehoben.Art. 33 - Artikel 
+327 § 1 desselben Gesetzbuches wird wie folgt abgeändert:1. In Absatz 1 werden die Wörter 
+"oder Eintreibung" jeweils aufgehoben.2. In Absatz 3, abgeändert durch das Gesetz vom 25. April 
+2014, werden die Wörter "beziehungsweise mit der Einnahme und Beitreibung" aufgehoben.Art. 
+34 - In Artikel 337 Absatz 4 desselben Gesetzbuches, abgeändert durch die Gesetze vom 6. Juli 1994, 15. 
+März 1999, 25. April 2014 und 25. Dezember 2017, werden die Wörter "der von seinem Ehepartner ausgeht, 
+auf dessen Güter die Steuer eingetrieben wird" durch die Wörter "der von seinem Ehepartner ausgeht, auf 
+dessen Güter die Steuer beigetrieben wird, oder von einem Mitschuldner wie in Artikel 2 des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+erwähnt" ersetzt.Art. 35 - In Artikel 339/1 desselben Gesetzbuches, eingefügt durch das Gesetz 
+vom 28. Dezember 2011, werden die Wörter "für die Festlegung oder Eintreibung" durch die Wörter "für 
+die Festlegung beziehungsweise die Einnahme und Beitreibung" ersetzt.Art. 36 - In Artikel 354 
+Absatz 5 desselben Gesetzbuches, abgeändert durch die Gesetze vom 15. März 1999, 24. Dezember 2002 und 
+27. April 2016, werden die Wörter "oder der Ehepartner, auf dessen Güter die Steuer eingetrieben wird," 
+durch die Wörter ", sein Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner 
+wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt" ersetzt.Art. 37 - In Artikel 366 Absatz 1 desselben 
+Gesetzbuches, ersetzt durch das Gesetz vom 15. März 1999 und abgeändert durch das Gesetz vom 27. April 
+2016, werden die Wörter "und sein Ehepartner, auf dessen Güter die Steuer eingetrieben wird, kann" durch 
+die Wörter "und sein Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner 
+wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt können" ersetzt.Art. 38 - In Artikel 372 desselben 
+Gesetzbuches, ersetzt durch das Gesetz vom 15. März 1999, werden die Wörter "oder sein Ehepartner, auf 
+dessen Güter die Steuer eingetrieben wird," durch die Wörter ", sein Ehepartner, auf dessen Güter die 
+Steuer beigetrieben wird, oder der Mitschuldner wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung 
+und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen erwähnt" ersetzt.Art. 
+39 - In Artikel 373 Absatz 1 desselben Gesetzbuches, ersetzt durch das Gesetz vom 15. März 1999 und abgeändert 
+durch das Gesetz vom 19. Mai 2010, werden die Wörter "sein Ehepartner, auf dessen Güter die Steuer eingetrieben 
+wird, innerhalb einer dreimonatigen Frist" durch die Wörter "sein Ehepartner, auf dessen Güter die Steuer 
+beigetrieben wird, oder der Mitschuldner wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung 
+und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen erwähnt innerhalb einer 
+sechsmonatigen Frist" ersetzt.Art. 40 - Artikel 375 desselben Gesetzbuches wird wie folgt abgeändert:1. 
+In § 1 Absatz 1, ersetzt durch das Gesetz vom 15. März 1999 und abgeändert durch das Gesetz vom 
+27. April 2016, werden die Wörter "oder sein Ehepartner, auf dessen Güter die Steuer eingetrieben wird," 
+durch die Wörter ", sein Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner 
+wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt" ersetzt.2. In § 1 Absatz 2, ersetzt durch 
+das Gesetz vom 15. März 1999 und abgeändert durch das Gesetz vom 25. Dezember 2017, werden die Wörter 
+"dass den Widerspruchsgründen, auf die der Steuerschuldner oder sein Ehepartner, auf dessen Güter die 
+Steuer eingetrieben wird, sich beruft, ganz oder teilweise stattgegeben wird," durch die Wörter "dass 
+den Widerspruchsgründen ganz oder teilweise stattgegeben wird, auf die der Steuerschuldner, sein Ehepartner, 
+auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner wie in Artikel 2 des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+erwähnt sich beruft," ersetzt.3. In § 1/1, eingefügt durch das Gesetz vom 15. April 
+2018, werden die Wörter "oder sein Ehepartner, auf dessen Güter die Steuer eingetrieben wird," durch 
+die Wörter ", sein Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner wie 
+in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt" ersetzt.Art. 41 - In Artikel 376 desselben Gesetzbuches, 
+ersetzt durch das Gesetz vom 15. März 1999 und zuletzt abgeändert durch das Gesetz vom 1. Juli 2016, 
+werden die Wörter "oder von seinem Ehepartner, auf dessen Güter die Steuer eingetrieben wird," jeweils 
+durch die Wörter ", von seinem Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder vom Mitschuldner 
+wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt" ersetzt.Art. 42 - In Artikel 376ter Absatz 1 desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 27. Dezember 2004 und abgeändert durch das Gesetz vom 27. 
+April 2016, werden die Wörter "oder sein Ehepartner, auf dessen Güter die Steuer eingetrieben wird," 
+durch die Wörter ", sein Ehepartner, auf dessen Güter die Steuer beigetrieben wird, oder der Mitschuldner 
+wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen erwähnt" ersetzt.Art. 43 - Artikel 376quinquies desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 25. April 2007 und abgeändert durch die Gesetze vom 29. 
+April 2013 und 27. April 2016, wird wie folgt abgeändert:1. In § 1 werden die Wörter 
+"kann der betreffende Steuerschuldner und sein Ehepartner, auf dessen Güter die Steuer eingetrieben wird," 
+durch die Wörter "können der betreffende Steuerschuldner und sein Ehepartner, auf dessen Güter die Steuer 
+beigetrieben wird, und der Mitschuldner wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung 
+und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen erwähnt" ersetzt.2. 
+In § 2 werden zwischen den Wörtern "wenn der Steuerschuldner" und den Wörtern "zuvor Klage beim 
+Gericht Erster Instanz erhoben hat" und zwischen den Wörtern "der Steuerschuldner" und den Wörtern "Klage 
+beim Gericht Erster Instanz erhoben hat" jeweils die Wörter "sein Ehepartner, auf dessen Güter die Steuer 
+beigetrieben wird, oder der Mitschuldner wie in Artikel 2 des Gesetzbuches über die gütliche Beitreibung 
+und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen erwähnt" eingefügt.Art. 
+44 - In Titel VII desselben Gesetzbuches wird die Überschrift von Kapitel 8 wie folgt ersetzt:"KAPITEL 
+8 - Einhaltung der Einbehaltungspflicht, Zahlungsfrist und Zinsen".Art. 45 - In Titel VII Kapitel 
+8 desselben Gesetzbuches wird die Überschrift von Abschnitt 1 wie folgt ersetzt:"Abschnitt 
+1 - Einhaltung der Einbehaltungspflicht".Art. 46 - Artikel 393 desselben Gesetzbuches, abgeändert 
+durch das Gesetz vom 27. April 2007, wird wie folgt ersetzt:"Art. 393 - § 1 - Beamte 
+der mit der Festlegung der Einkommensteuern beauftragten Verwaltung des Föderalen Öffentlichen Dienstes 
+Finanzen überprüfen, ob die in Artikel 55 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen erwähnte Einbehaltungs- und Zahlungspflicht vom 
+Auftraggeber und Unternehmer eingehalten wird. § 2 - Wurden die in Artikel 55 des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+erwähnten Zahlungen nicht getätigt, wird der geschuldete Betrag verdoppelt und in der in Artikel 354 
+erwähnten Frist zu Lasten des Zuwiderhandelnden als administrative Geldbuße in die Heberolle eingetragen.Der 
+König kann bestimmen, unter welchen Bedingungen die Geldbuße verringert werden kann."Art. 
+47 - Artikel 393bis desselben Gesetzbuches, eingefügt durch das Gesetz vom 4. Mai 1999 und abgeändert 
+durch das Gesetz vom 10. August 2001, wird aufgehoben.Art. 48 - Artikel 394 desselben Gesetzbuches, 
+abgeändert durch die Gesetze vom 4. Mai 1999, 10. August 2001 und 10. August 2005, wird aufgehoben.Art. 
+49 - Artikel 394bis desselben Gesetzbuches, eingefügt durch das Gesetz vom 28. Juli 1992 und wieder aufgenommen 
+durch das Gesetz vom 15. Dezember 2004, wird aufgehoben.Art. 50 - Artikel 395 desselben Gesetzbuches 
+wird aufgehoben.Art. 51 - Artikel 396 desselben Gesetzbuches wird aufgehoben.Art. 
+52 - Artikel 397 desselben Gesetzbuches, abgeändert durch das Gesetz vom 6. Juli 1994, wird aufgehoben.Art. 
+53 - Artikel 398 desselben Gesetzbuches, abgeändert durch das Gesetz vom 27. April 2016, wird aufgehoben.Art. 
+54 - Artikel 399 desselben Gesetzbuches wird aufgehoben.Art. 55 - Artikel 399bis desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 25. April 2007 und ersetzt durch das Gesetz vom 10. Juli 
+2017, wird aufgehoben.Art. 56 - Artikel 399ter desselben Gesetzbuches, eingefügt durch das 
+Gesetz vom 11. Dezember 2008, wird aufgehoben.Art. 57 - In Titel VII Kapitel 8 desselben Gesetzbuches 
+wird Abschnitt 2, der die Artikel 400 bis 408 umfasst, zuletzt abgeändert durch das Gesetz vom 18. Dezember 
+2016, aufgehoben.Art. 58 - In Titel VII Kapitel 8 desselben Gesetzbuches wird Abschnitt 3, 
+der die Artikel 409 bis 411 umfasst, zuletzt abgeändert durch das Gesetz vom 27. April 2016, aufgehoben.Art. 
+59 - In Titel VII Kapitel 8 desselben Gesetzbuches wird Abschnitt 4bis, der die Artikel 413bis bis 413octies 
+umfasst, zuletzt abgeändert durch das Gesetz vom 27. April 2016, aufgehoben.Art. 60 - In Artikel 
+414 § 2 desselben Gesetzbuches, ersetzt durch das Gesetz vom 15. März 1999, werden die Wörter 
+"Artikel 410" durch die Wörter "Artikel 62 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen" ersetzt.Art. 61 - Artikel 417 desselben 
+Gesetzbuches, abgeändert durch das Gesetz vom 27. April 2016, wird aufgehoben.Art. 62 - In 
+Titel VII desselben Gesetzbuches wird Kapitel 9, das die Artikel 420 bis 443 umfasst, zuletzt abgeändert 
+durch das Gesetz vom 26. März 2018, aufgehoben.Art. 63 - In Titel VII desselben Gesetzbuches 
+wird Kapitel 9bis, das die Artikel 443bis und 443ter umfasst, zuletzt abgeändert durch das Gesetz vom 
+26. März 2018, aufgehoben.(...)Abschnitt 6 - StrafprozessgesetzbuchArt. 
+110 - In Artikel 29 Absatz 2 des Strafprozessgesetzbuches, zuletzt abgeändert durch das Gesetz vom 25. 
+Dezember 2016, werden die Wörter "laut der Steuergesetze und der zu ihrer Ausführung ergangenen Erlasse" 
+durch die Wörter "laut der Steuergesetze, des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen und der zu ihrer/seiner Ausführung ergangenen 
+Erlasse" ersetzt.Art. 111 - In Artikel 46quater § 1 Absatz 2 desselben Gesetzbuches, 
+eingefügt durch das Gesetz vom 1. Juli 2016 und abgeändert durch das Gesetz vom 18. September 2017, werden 
+zwischen den Wörtern "des Allgemeinen Gesetzes vom 18. Juli 1977 über Zölle und Akzisen," und den Wörtern 
+"in den Artikeln 3.15.3.0.1 und 3.15.3.0.2 des Flämischen Steuerkodexes" die Wörter "in den Artikeln 
+85 und 86 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen," eingefügt.(...)Abschnitt 8 - Gesetz vom 27. Juni 
+1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die soziale Sicherheit der ArbeitnehmerArt. 
+125 - In Artikel 30bis § 3 Absatz 11 des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes 
+vom 28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer, zuletzt abgeändert durch das Gesetz 
+vom 20. Juli 2015, werden die Wörter "in Artikel 402 § 4 des Einkommensteuergesetzbuches 1992" 
+durch die Wörter "in Artikel 54 § 4 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung 
+von Steuerforderungen und nichtsteuerlichen Forderungen" ersetzt.Art. 126 - In Artikel 30ter 
+§ 2 Absatz 11 desselben Gesetzes, zuletzt abgeändert durch das Gesetz vom 20. Juli 2015, werden 
+die Wörter "in Artikel 402 § 4 des Einkommensteuergesetzbuches 1992" durch die Wörter "in Artikel 
+54 § 4 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen" ersetzt.(...)Abschnitt 12 - Gesetz vom 25. April 
+2007 zur Festlegung verschiedener Bestimmungen (IV)Art. 130 - In Artikel 116 § 1/2 Absatz 
+2 des Gesetzes vom 25. April 2007 zur Festlegung verschiedener Bestimmungen (IV), eingefügt durch das 
+Gesetz vom 10. Juli 2017 und abgeändert durch das Gesetz vom 29. März 2018, werden die Wörter "für die 
+in Ausführung von Artikel 300 § 1 des Einkommensteuergesetzbuches 1992 eingeführte Drittvollstreckungspfändung, 
+die in Artikel 85bis des Mehrwertsteuergesetzbuches vorgesehene Drittvollstreckungspfändung, die in Artikel 
+6 des Domanialgesetzes vom 22. Dezember 1949 vorgesehene Drittvollstreckungspfändung" durch die Wörter 
+"für die in Artikel 21 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen vorgesehene Drittvollstreckungspfändung" ersetzt.Abschnitt 
+13 - Programmgesetz (I) vom 29. März 2012Art. 131 - In Artikel 157 des Programmgesetzes (I) 
+vom 29. März 2012, abgeändert durch die Gesetze vom 13. Dezember 2012 und 11. Februar 2019, wird § 
+1 Absatz 1 wie folgt ersetzt:" § 1 - Notare, die ersucht werden, eine Erburkunde oder 
+einen Erbschein erwähnt in Artikel 1240bis des Zivilgesetzbuches zu erstellen, sind persönlich für die 
+Zahlung der Schulden haftbar, die von dem Erblasser, seinen Erben und Vermächtnisnehmern, deren Identität 
+in der Urkunde oder im Schein angegeben ist, oder von den Begünstigten einer vom Erblasser vorgenommenen 
+vertraglichen Erbeinsetzung geschuldet werden und die gemäß Artikel 158 notifiziert werden können, 
+wenn sie es unterlassen:1. den mit Informations- und Kommunikationstechnologie beauftragten 
+Dienst des Föderalen Öffentlichen Dienstes Finanzen auf elektronischem Wege davon in Kenntnis zu setzen,2. 
+den vom König bestimmten Beamten der Generalverwaltung Vermögensdokumentation hiervon in Kenntnis zu 
+setzen, wenn die Meldung aufgrund höherer Gewalt oder einer technischen Störung nicht gemäß Nr. 
+1 übermittelt werden kann. In diesem Fall wird die Meldung per Einschreiben zugesandt."Art. 
+132 - In Artikel 158 desselben Programmgesetzes, abgeändert durch die Gesetze vom 13. Dezember 2012 und 
+11. Februar 2019, wird Absatz 1 wie folgt ersetzt:"Vor Ablauf des zwölften Werktages nach dem 
+Datum der Versendung der in Artikel 157 erwähnten Meldung kann der für die Beitreibung der Steuerschuld 
+zuständige Einnehmer der Generalverwaltung Vermögensdokumentation dem Notar, der diese Meldung versandt 
+hat, das Bestehen einer aus Hauptsumme, Geldbußen und Nebenforderungen gebildeten Steuerschuld 
+des Erblassers oder einer anderen in der Meldung angegebenen Person und für jeden Schuldner den Betrag 
+der vorerwähnten Schuld notifizieren, und zwar:1. auf elektronischem Wege gemäß einem 
+vom König bestimmten Verfahren,2. per Einschreiben, wenn die Notifizierung aufgrund höherer 
+Gewalt oder einer technischen Störung nicht gemäß Nr. 1 übermittelt werden kann oder wenn der Notar 
+die in Artikel 157 § 1 erwähnte Meldung per Einschreiben zugesandt hat."Abschnitt 14 
+- Gesetz vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung personenbezogener 
+Daten durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner AufträgeArt. 133 - 
+In Artikel 6 des Gesetzes vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung 
+personenbezogener Daten durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner Aufträge, ersetzt 
+durch das Gesetz vom 5. September 2018, werden die Wörter "von Artikel 14 des Domanialgesetzes vom 22. 
+Dezember 1949" durch die Wörter "von Artikel 83 des Gesetzbuches über die gütliche Beitreibung und die 
+Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen" ersetzt.Abschnitt 
+15 - Programmgesetz vom 25. Dezember 2017Art. 134 - In Titel 5 Kapitel 3 des Programmgesetzes 
+vom 25. Dezember 2017 wird Abschnitt 1, der Artikel 152 umfasst, aufgehoben.Abschnitt 16 - 
+Königlicher Erlass Nr. 39 vom 17. Oktober 1980 zur Regelung der Modalitäten für die Anwendung von Artikel 
+93duodecies des MehrwertsteuergesetzbuchesArt. 135 - Der Königliche Erlass Nr. 39 vom 17. Oktober 
+1980 zur Regelung der Modalitäten für die Anwendung von Artikel 93duodecies des Mehrwertsteuergesetzbuches 
+wird aufgehoben.Abschnitt 17 - Königlicher Erlass vom 27. August 1993 zur Ausführung des Einkommensteuergesetzbuches 
+1992Art. 136 - In Kapitel 3 des Königlichen Erlasses vom 27. August 1993 zur Ausführung des 
+Einkommensteuergesetzbuches 1992 werden aufgehoben:1. Abschnitt 5 Unterabschnitt 3, der die 
+Artikel 164 bis 166 umfasst, zuletzt abgeändert durch den Königlichen Erlass vom 22. Mai 2017,2. 
+Abschnitt 14, der die Artikel 211 bis 219 umfasst, zuletzt abgeändert durch den Königlichen Erlass vom 
+7. Dezember 2007,3. Abschnitt 15, der die Artikel 220 bis 224 umfasst.(...)KAPITEL 
+4 - ÜbergangsbestimmungArt. 138 - Vorliegendes Gesetz ist nicht anwendbar auf:1. 
+administrative Zwangsbefehle im Bereich der Mehrwertsteuer, die vor dem Datum seines Inkrafttretens notifiziert 
+oder zugestellt werden,2. administrative Zwangsbefehle im Bereich der verschiedenen Gebühren 
+und Steuern, die vor dem Datum seines Inkrafttretens zugestellt werden,3. administrative Zwangsbefehle 
+im Bereich der Gebühren für die Eintragung in die Liste, die vor dem Datum seines Inkrafttretens zugestellt 
+werden,4. administrative Zwangsbefehle im Bereich der nichtsteuerlichen Forderungen, die vor 
+dem Datum seines Inkrafttretens notifiziert oder zugestellt werden,5. Steuerforderungen und 
+nichtsteuerliche Forderungen, die in einer Heberolle, einer besonderen Heberolle oder einem Einnahme- 
+und Beitreibungsregister aufgenommen sind, die/das vor dem Datum seines Inkrafttretens für vollstreckbar 
+erklärt wird,6. andere Steuerforderungen und nichtsteuerliche Forderungen als die, deren Einnahme 
+und Beitreibung in Anwendung des Gesetzes vom 21. Februar 2003 zur Einrichtung eines Dienstes für Unterhaltsforderungen 
+beim FÖD Finanzen gewährleistet werden, die vor dem Datum seines Inkrafttretens Gegenstand einer formell 
+rechtskräftig gewordenen gerichtlichen Entscheidung über die Verurteilung zu ihrer Zahlung sind.KAPITEL 
+5 - InkrafttretenArt. 139 - Vorliegendes Gesetz tritt am 1. Januar 2020 in Kraft.Der 
+König kann für jede Kategorie von Forderungen ein früheres Inkrafttretungsdatum festlegen.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 13. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020769
+

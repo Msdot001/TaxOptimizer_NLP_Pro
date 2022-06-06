@@ -1,0 +1,183 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/23/2020030823/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030823
+WAALSE OVERHEIDSDIENST
+ 23 APRIL 2020. - Besluit van de Waalse Regering nr. 24 tot wijziging en tot verlenging van de periode van toepassing van de artikelen 1 en 2 van het besluit van de Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 betreffende de tijdelijke opschorting van sommige fiscale bepalingen 
+De 
+Waalse Regering,Gelet op artikel 39 van de Grondwet;Gelet op de bijzondere wet van 
+8 augustus 1980 tot hervorming der instellingen, zoals gewijzigd, artikel 6;Gelet op het decreet 
+van 17 maart 2020 tot toekenning van bijzondere machten aan de Waalse Regering in het kader van de gezondheidscrisis 
+COVID-19;Gelet op het besluit van de Waalse Regering van 13 september 2019 tot vaststelling 
+van de verdeling van de ministeriële bevoegdheden en tot regeling van de ondertekening van haar akten;Gelet 
+op het besluit van de Waalse Regering van 26 september 2019 tot regeling van de werking van de Regering;Gelet 
+op het besluit van de Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 betreffende de 
+tijdelijke opschorting van sommige fiscale bepalingen;Overwegende dat de WHO het coronavirus 
+COVID-19 als pandemie gelabeld heeft op 11 maart 2020;Overwegende dat de huidige en komende 
+maatregelen, genomen om de verspreiding van het virus in de bevolking te beperken, ertoe leiden dat iedere 
+vorm van activiteit op het grondgebied van het Waalse Gewest vertraagt;Gelet op de lockdownmaatregelen 
+genomen door de federale Regering via de opeenvolgende ministeriële besluiten van 13, 18 en 23 maart 
+2020 en van 3 en 17 april 2020 houdende dringende maatregelen om de verspreiding van het coronavirus 
+COVID - 19 te beperken, respectievelijk bekendgemaakt in het Belgisch Staatsblad van 13, 18 en 23 maart 
+2020, en van 3 en 17 april 2020;Overwegende dat deze opeenvolgende verlengingen van de dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken telkens het gevolg zijn van beslissingen 
+van de Nationale Veiligheidsraad, waarin de verschillende bestuursniveaus worden samengebracht voor een 
+doeltreffende coördinatie van de strijd tegen de pandemie; deze beslissingen zijn op hun beurt gebaseerd 
+op de adviezen van wetenschappelijke deskundigen die voldoende aantonen dat het nodig is om te blijven 
+handelen ten opzichte van de evolutie van de volksgezondheidsvoorwaarden;Overwegende dat bovenvermeld 
+ministerieel besluit van 17 april 2020 de lockdownmaatregelen tot en met 3 mei 2020 verlengt;Overwegende 
+dat het Waals Gewest reeds eerste dringende maatregelen heeft genomen bij het besluit van de Waalse regering 
+van bijzondere machten nr. 2 van 18 maart 2020 betreffende de tijdelijke opschorting van dwingende termijnen 
+en termijnen voor het indienen van beroepen vastgesteld in de gezamenlijke Waalse wetgeving en reglementering 
+of aangenomen krachtens deze, evenals die vastgesteld in de wetten en koninklijke besluiten vallend onder 
+de bevoegdheden van het Waalse Gewest krachtens de bijzondere wet tot hervorming der instellingen van 
+8 augustus 1980, waarbij alle dwingende termijnen die zijn vastgelegd in de hele Waalse wetgeving en 
+reglementering of die uit hoofde daarvan zijn aangenomen, alsmede die welke zijn vastgelegd in de wetten 
+en koninklijke besluiten die krachtens de bijzondere wet tot hervorming der instellingen van 8 augustus 
+1980 onder de bevoegdheid van het Waalse Gewest vallen, zijn opgeschort voor een periode van één maand, 
+die tweemaal voor dezelfde periode kan worden verlengd bij een besluit waarbij de Regering de noodzaak 
+daarvan rechtvaardigt in het licht van de ontwikkeling van de gezondheidstoestand;Overwegende 
+dat het Waals Gewest reeds heeft besloten bij het besluit van de Waalse Regering van bijzondere machten 
+nr. 20 van 18 april 2020 tot verlenging van de termijnen bedoeld in het besluit van de Waalse Regering 
+van bijzondere machten nr. 2 van 18 maart 2020 betreffende de tijdelijke opschorting van dwingende termijnen 
+en termijnen voor het indienen van beroepen vastgesteld in de gezamenlijke Waalse wetgeving en reglementering 
+of aangenomen krachtens deze, evenals die vastgesteld in de wetten en koninklijke besluiten vallend onder 
+de bevoegdheden van het Waalse Gewest krachtens de bijzondere wet tot hervorming der instellingen van 
+8 augustus 1980 en bij het besluit van de Waalse Regering van bijzondere machten nr. 3 van 18 maart 2020 
+betreffende de aangelegenheden, aan het Waalse Gewest overgedragen krachtens artikel 138 van de Grondwet 
+en betreffende de tijdelijke opschorting van dwingende termijnen en termijnen voor het indienen van beroepen 
+vastgesteld in de gezamenlijke Waalse wetgeving en reglementering of aangenomen krachtens deze, evenals 
+die vastgesteld in de wetten en koninklijke besluiten vallend onder de bevoegdheden van het Waalse Gewest 
+krachtens de bijzondere wet tot hervorming der instellingen van 8 augustus 1980, de opschorting van alle 
+dwingende termijnen vastgesteld in de gezamenlijke Waalse wetgeving en reglementering of aangenomen krachtens 
+deze, evenals die vastgesteld in de wetten en koninklijke besluiten vallend onder de bevoegdheden van 
+het Waalse Gewest krachtens de bijzondere wet tot hervorming der instellingen van 8 augustus 1980 tot 
+en met 30 april 2020 te verlengen;Overwegende dat het besluit van bijzondere machten nr. 20 
+van 18 april 2020 bovenvermeld besluit van bijzondere machten nr. 2 van 18 maart 2020 heeft gewijzigd, 
+waarbij de woorden "voor een verlengbare duur van twee maal 30 dagen voor één zelfde duur bij een besluit 
+waarbij de Regering de noodzaak daartoe verantwoordt ten opzichte van de evolutie van de volksgezondheidsvoorwaarden" 
+zijn vervangen door de woorden "voor een eerste duur van 30 dagen, die tweemaal kan worden verlengd tot 
+een bij een besluit van de Regering vastgestelde datum, die telkens niet langer mag zijn dan 30 dagen 
+en die de noodzaak daartoe verantwoordt ten opzichte van de evolutie van de volksgezondheidsvoorwaarden";Overwegende 
+dat het Waalse Gewest reeds drie specifieke dringende maatregelen op fiscaal gebied heeft genomen bij 
+het besluit van de Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 betreffende de tijdelijke 
+opschorting van sommige fiscale bepalingen, waarvan de toepassing van twee van hen beperkt is tot een 
+eerste periode van 30 dagen, die tweemaal voor één zelfde duur kan worden verlengd bij een besluit waarbij 
+de Regering de noodzaak daartoe verantwoordt ten opzichte van de evolutie van de volksgezondheidsvoorwaarden;Overwegende 
+dat deze crisis van het coronavirus COVID-19 de financiële draagkracht van talrijke zowel natuurlijke 
+personen als rechtspersonen ernstig aantast;Overwegende dat het de verantwoordelijkheid van 
+een overheidsinstantie als het Waalse Gewest is om, in het kader en binnen de grenzen van zijn bevoegdheden 
+en handelingsbekwaamheid, een adequate ondersteuning aan de natuurlijke en rechtspersonen die sterk door 
+deze grote gezondheidscrisis worden getroffen, te garanderen en te waarborgen;Overwegende dat 
+belastingheffing een doeltreffend instrument is voor economische en financiële steun in deze context 
+van een grote crisis;Overwegende dat de termijn van twee jaar die in artikel 212 van het Wetboek 
+der registratie-, hypotheek- en griffierechten is vastgesteld, onder de gewestelijke bevoegdheid valt 
+en dat talrijke burgers zich als gevolg van de bovengenoemde inperkingsmaatregelen niet naar hun notaris 
+kunnen begeven voor het verlijden van de authentieke akten van wederverkoop van een onroerend goed dat 
+iets minder dan twee jaar geleden is aangekocht;Overwegende dat de redenen waarvoor de tijdelijke 
+opschorting van de in artikel 2 van het besluit van de Waalse Regering van bijzondere machten nr. 10 
+van 26 maart 2020 betreffende de tijdelijke opschorting van sommige fiscale bepalingen is ingevoerd, 
+nog steeds gelden;Gelet op deze doelstelling van rechtszekerheid om het behoud van het voordeel 
+van een gunstige belastingregeling te waarborgen;Overwegende dat het bijgevolg noodzakelijk 
+is deze maatregel bedoeld in artikel 2 van bovengenoemd besluit van de Waalse Regering van bijzondere 
+machten nr. 10 van 26 maart 2020 te verlengen met een periode tot en met 30 april 2020;Overwegende 
+bovendien dat talrijke zowel natuurlijke personen als rechtspersonen nog steeds gebonden zijn aan financiële 
+beperkingen zoals hypotheekleningen, en dat de banksector, indien zij deze niet betalen of indien er 
+een bepaald risico uit hun hoofde wordt vastgesteld, het risico loopt hypotheekmandaten te activeren 
+om de afgesloten leningen te dekken, teneinde zich zelf via hypotheken te beschermen tegen de mogelijk 
+desastreuze gevolgen van deze grote crisis;Overwegende dat het Waalse Gewest nog moet voorkomen 
+dat het nemen van garanties door de banken leidt tot een verdere verslechtering van de financiën van 
+bedrijven en particulieren, en dat deze uitzonderlijke situatie van het eventueel nemen van garanties 
+zich in normale omstandigheden niet zou hebben voorgedaan;Overwegende dat de beste hefboomwerking 
+erin bestaat het registratierecht uitzonderlijk en tijdelijk tot nul procent nog te verminderen wanneer 
+het in het Waalse Gewest is gelegen, overeenkomstig artikel 5, § 1, 7°,  eerste streepje, van 
+de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, 
+met betrekking tot de vestiging van een hypotheek op onroerend goed, maar alleen in het geval van de 
+omzetting in een hypotheek van een hypothecair mandaat dat bestond vóór de inwerkingtreding van dit besluit, 
+om ook elke situatie van potentieel misbruik van deze uitzonderlijke gunstmaatregel te voorkomen;Overwegende 
+dat het bijgevolg noodzakelijk is deze maatregel bedoeld in artikel 1 van bovengenoemd besluit van de 
+Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 te verlengen met een periode tot en met 
+30 april 2020;Overwegende dat de bepaling bedoeld in artikel 3 van bovenvermeld besluit van 
+de Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 van toepassing blijft zolang de betrokken 
+instelling een gedwongen sluiting ondergaat door beslissing van de federale overheid;Overwegende 
+dat de Regering, gezien de verlenging van de periode van sluiting van de betrokken instellingen door 
+de federale Staat, noch het einde van de toepassingsperiode van artikel 3 van voormeld besluit van de 
+Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020, noch het aantal betrokken twaalfden 
+bij een besluit heeft kunnen vaststellen;Overwegende dat deze bepaling derhalve geen bijzondere 
+beslissing van de Regering vereist om tijdens de eerste hier beoogde verlengingsperiode van toepassing 
+te blijven;Overwegende dat artikel 3, § 1, van het machtigingsdecreet tot slot het volgende 
+bepaalt: "De besluiten bedoeld in de artikelen 1 en 2 kunnen aangenomen worden zonder dat de wettelijk 
+of reglementair vereiste adviezen vooraf ingewonnen worden.Het eerste lid is van toepassing 
+op de adviezen van de afdeling wetgeving van de Raad van State in de bijzonder door de Regering gemotiveerde 
+gevallen.";Overwegende dat het, rekening houdend met de uiterste dringende noodzakelijkheid 
+om de continuïteit van de openbare dienstverlening te waarborgen en zowel de rechtszekerheid als het 
+gelijkheidsbeginsel te vrijwaren passend is dat huidig besluit terstond wordt aangenomen; dat dit op 
+zich een verantwoording is voor het feit dat de afdeling wetgeving van de Raad van State niet is geraadpleegd 
+en dat dit des te meer geldt dat genoemd college begrijpelijkerwijze voor organisatieproblemen staat 
+en mede heeft gedeeld dat het "rekening houdend met de aanzienlijke verstoring van de normale werking 
+van de afdeling wetgeving" passend is dat "het advies bij voorkeur aangevraagd wordt binnen een termijn 
+van 60 dagen en dat "voor zover mogelijk kortere termijnen van 5 en 30 dagen vermeden worden";Na 
+beraadslaging,Besluit :Artikel 1. In artikel 4, eerste lid, van het besluit van de 
+Waalse Regering van bijzondere machten nr. 10 van 26 maart 2020 betreffende de tijdelijke opschorting 
+van sommige fiscale bepalingen worden de woorden ", twee maal verlengbaar voor éénzelfde duur" vervangen 
+door de woorden ", verlengbaar voor een duur die telkens niet langer mag zijn dan 30 dagen," .Art. 
+2. De toepassing van de artikelen 1 en 2 van het besluit van de Waalse Regering van bijzondere machten 
+nr. 10 van 26 maart 2020 betreffende de tijdelijke opschorting van sommige fiscale bepalingen wordt verlengd 
+met een nieuwe periode die begint op 26 april 2020 en die eindigt op 30 april 2020.Art. 3. 
+Dit besluit treedt in werking de dag waarop het ondertekend wordt.Namen, 23 april 2020.Voor 
+de Waalse Regering :De Minister-President,E. DI RUPODe Minister van Economie, 
+Buitenlandse Handel, Onderzoek, Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het 
+"IFAPME", en de Vaardigheidscentra,W. BORSUSDe Minister van Klimaat, Energie en Mobiliteit,Ph. 
+HENRYDe Minister van Werk, Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. 
+MORREALEDe Minister van Begroting en Financiën, Luchthavens en Sportinfrastructuren,J.-L. 
+CRUCKEDe Minister van Huisvesting, de Plaatselijke Besturen en het Stedenbeleid,P.-Y. 
+DERMAGNEDe Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging, belast 
+met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUEDe Minister van 
+Leefmilieu, Natuur, Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. TELLIER  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030823
+

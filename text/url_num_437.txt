@@ -1,0 +1,77 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/04/2021020445/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-04Numac : 2021020445
+FEDERALE OVERHEIDSDIENST KANSELARIJ VAN DE EERSTE MINISTER EN FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 4 FEBRUARI 2021. - Koninklijk besluit tot wijziging van het koninklijk besluit van 9 november 2020 houdende oprichting van het College voor de strijd tegen de fiscale en sociale fraude 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op artikel 37 van de Grondwet;Gelet op het koninklijk besluit van 29 april 2008 houdende oprichting 
+van het Ministerieel Comité voor de strijd tegen de fiscale en sociale fraude;Gelet op het 
+koninklijk besluit van 23 oktober 2020 houdende aanwijzing van de leden van het Ministerieel Comité voor 
+de strijd tegen de fiscale en sociale fraude;Gelet op het artikel 2, § 1, van het koninklijk 
+besluit van 9 november 2020 houdende oprichting van het College voor de strijd tegen de fiscale en sociale 
+fraude;Gelet op het artikel 8 van de wet van 15 december 2013 houdende diverse bepalingen inzake 
+administratieve vereenvoudiging, is dit besluit vrijgesteld van een regelgevingsimpactanalyse, omdat 
+het bepalingen van autoregulering betreft;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 13 januari 2021;Gelet op de akkoordbevinding van de Staatssecretaris voor Begroting, 
+gegeven op 18 januari 2021;Op de voordracht van Onze Eerste Minister en de Vice-eersteminister 
+en Minister van Financiën, belast met de Coördinatie van de fraudebestrijding, en op het advies van Onze 
+in Raad vergaderde Ministers,Hebben Wij besloten en besluiten Wij :Artikel 1. In 
+artikel 2, § 1, eerste lid, van het koninklijk besluit van 9 november 2020 houdende oprichting 
+van het College voor de strijd tegen de fiscale en sociale fraude, wordt de inleidende zin vervangen 
+als volgt:"Het College wordt voorgezeten door de Minister van Financiën, belast met de Coördinatie 
+van de fraudebestrijding, of zijn vertegenwoordiger, en vice-voorgezeten door de Minister van Economie 
+en Werk, of zijn vertegenwoordiger. Het College is bovendien samengesteld uit:"Art. 2.  Onze 
+Eerste Minister en Onze Vice-Eerste Minister en Minister van Financiën, belast met de Coördinatie van 
+de fraudebestrijding zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 4 februari 2021.FILIPVan Koningswege :De Eerste Minister,A. 
+DE CROODe Vice-eersteminister en Minister van Financiën, belast met de Coördinatie van de fraudebestrijding,V. 
+VAN PETEGHEM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-04Numac : 2021020445
+

@@ -1,0 +1,73 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021042564/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042564
+VLAAMSE OVERHEID 
+ 25 JUNI 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen (1) 
+Het 
+VLAAMS PARLEMENT heeft aangenomen en Wij, REGERING, bekrachtigen hetgeen volgt:Decreet houdende 
+instemming met het samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, 
+de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende 
+bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters 
+en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het 
+oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding 
+van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsenArtikel 1. Dit decreet regelt 
+een gemeenschapsaangelegenheid.Art. 2. Instemming wordt verleend met het samenwerkingsakkoord 
+van 31 mei 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse 
+Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens 
+met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving 
+van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde 
+sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan 
+op de arbeidsplaatsen.Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal 
+worden bekendgemaakt.Brussel, 25 juni 2021.De minister-president van de Vlaamse Regering,J. 
+JAMBONDe Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding,W. 
+BEKE_______Nota(1) Zitting 2020-2021Stukken:- Ontwerp van decreet 
+: 855 - Nr. 1  - Tekst aangenomen door de plenaire vergadering : 855 - Nr. 2Handelingen 
+- Bespreking en aanneming: Vergadering van 23 juni 2021.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-01Numac : 2021042564
+

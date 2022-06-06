@@ -1,0 +1,141 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/17/2021203298/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-07Numac : 2021203298
+WAALSE OVERHEIDSDIENST
+ 17 JUNI 2021. - Besluit van de Waalse Regering tot toekenning van een crisissteun in 2021 aan varkensfokkers die zijn getroffen door de daling van de prijzen als gevolg van de maatregelen ter bestrijding van COVID-19 
+De 
+Waalse Regering,Gelet op het Waals Landbouwwetboek, de artikelen D.11, D.12, D.13, D.17, D.241, 
+D.242 en D.255, § 2;Gelet op het rapport van 17 februari 2021 opgesteld overeenkomstig 
+artikel 3, 2°, van het decreet van 11 april 2015 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het overleg tussen de Gewestregeringen 
+en de federale overheid op 18 maart 2021;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 31 maart 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 22 
+april 2021;Gelet op de raadpleging van de sector van 31 mei 2021;Gelet op advies 
+692.69 van de Raad van State, gegeven op 19 mei 2021, overeenkomstig artikel 84, § 1, eerste lid, 
+2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende dat artikel 
+107, 3, onder b), van het Verdrag betreffende de werking van de Europese Unie het verlenen van staatssteun 
+toestaat die verenigbaar is met de interne markt, indien de voorgenomen steun bedoeld is om een ernstige 
+verstoring in de economie van een lidstaat op te heffen;Overwegende dat Mededeling C(2020) 
+nr. 1863 van de Commissie van 19 maart 2020 betreffende de tijdelijke kaderregeling inzake staatssteun 
+ter ondersteuning van de economie vanwege de huidige COVID-19-uitbraak (2020/C 91/01), is opgesteld op 
+basis van artikel 107, lid 3, onder b), van het Verdrag betreffende de werking van de Europese Unie;Gelet 
+op Verordening (EU) nr. 2020/2094 van de Raad van 14 december 2020 tot vaststelling van een herstelinstrument 
+van de Europese Unie ter ondersteuning van het herstel na de COVID-19-crisis, artikel 1, § 2, 
+c) en g);Overwegende dat het herstelinstrument van de Europese Unie voorziet in de financiering 
+van maatregelen ten behoeve van ondernemingen die worden getroffen door de economische gevolgen van de 
+crisis in verband met COVID-19, met name kleine en middelgrote ondernemingen en economisch levensvatbare 
+ondernemingen die met solvabiliteitsproblemen te kampen hebben;Overwegende dat het herstelinstrument 
+van de Europese Unie ook voorziet in financiering van steunmaatregelen ter bestrijding van de gevolgen 
+van de COVID-19-pandemie voor de landbouw en de plattelandsontwikkeling;Gelet op de impact 
+van de COVID-19-crisis op de daling van de verkoopprijs van varkensvlees per kilogram levend gewicht, 
+die sinds de eerste maatregelen in maart 2020 tot aanzienlijke verliezen voor de Waalse producenten heeft 
+geleid;Overwegende dat de bestrijdingsmaatregelen van COVID-19 nog steeds van kracht zijn en 
+dat de verkoopprijs per kilogram levend gewicht in 2021 nog steeds op een historisch laag niveau ligt; 
+Overwegende dat deze prijsdaling het voortbestaan van de familiale varkenshouderijen in het 
+Waalse Gewest ernstig in gevaar brengt; Overwegende dat de activiteit van deze varkensfokkers 
+in het Waalse Gewest moet worden gesteund in de context van de economische crisis die is veroorzaakt 
+door de COVID-19-pandemie, en dat de daardoor veroorzaakte verliezen moeten worden gecompenseerd;Overwegende 
+dat het noodzakelijk is de varkenssector tijdelijke steun te verlenen om het hoofd te bieden aan deze 
+uitzonderlijke situatie;Overwegende dat de Europese Commissie in een bericht van 29 maart 2021 
+heeft geoordeeld dat deze steun geen aanleiding gaf tot bezwaren ten opzichte van artikel 107, § 
+3, b), van het Verdrag betreffende de werking van de Europese Unie,Op de voordracht van de 
+Minister van Landbouw;Na beraadslaging,Besluit : Artikel 1. Voor de toepassing 
+van dit besluit wordt verstaan onder : 1° de fokker : de landbouwer die in het Waalse Gewest 
+een activiteit uitoefent op het gebied van het fokken van biggen en die eigenaar is van zijn kudde;7° 
+ondernemingen in moeilijkheden : de ondernemingen bepaald in artikel 2, 14°, van Verordening (EG) nr. 
+702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector 
+en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking 
+van de Europese Unie met de interne markt verenigbaar worden verklaard.3° het aantal zeugen 
+: het rekenkundig gemiddelde van de in SANITRACE geregistreerde zeugentellingen gedurende het jaar 2020;4° 
+SANITRACE : het geïnformatiseerd gegevensbestand van het Agentschap voor de identificatie en de registratie 
+van dieren, bedrijven, inrichtingen en installaties waar dieren worden gehouden, alsook van de houders 
+en de verantwoordelijken, dat wordt gebruikt door het Federaal Agentschap voor de Veiligheid van de Voedselketen 
+en in het Waals Gewest wordt beheerd door de V.Z.W. ARSIA;5° dienst : Département de l'Agriculture, 
+Direction des Droits et des Quotas (Departement Landbouw, Directie Rechten en Quota's)6° werkdag 
+: werkdag als bedoeld in artikel D.3, 21 van het Waals LandbouwwetboekArt. 2. Eenmalige steun 
+ter dekking van door de uitvoering van pandemische maatregelen veroorzaakte verliezen wordt toegekend 
+mits aan de volgende voorwaarden wordt voldaan : 1° de steun is cumuleerbaar met andere steunmaatregelen, 
+op voorwaarde dat de cumulregels bepaald in de voorschriften tot vaststelling van die steunmaatregelen 
+onderling verenigbaar zijn;2° bedrijven waarvoor een verzoek tot terugvordering van steun is 
+ingediend die onrechtmatig en onverenigbaar met de interne markt is bevonden krachtens een eerder besluit 
+van de Europese Commissie, komen niet in aanmerking voor de steun;3° de steun is transparant;4° 
+ondernemingen in moeilijkheden op 31 december 2019 komen niet in aanmerking voor de steun;Art. 
+3. Binnen de grenzen van de beschikbare begrotingskredieten wordt de in artikel 2 bedoelde steun toegekend 
+aan de landbouwers die bij de indiening van hun aanvraag voldoen aan de volgende cumulatieve voorwaarden 
+: 1° een actief ondernemingsnummer in de Kruispuntbank voor Ondernemingen hebben;2° 
+in het GBCS geïdentificeerd zijn in de zin van artikel D.20 van het Waalse Landbouwwetboek;3° 
+een kuddenummer in SANITRACE hebben.Art. 4. De in artikel 2 bedoelde steun bedraagt 530 euro 
+per zeug. Art. 5. Het betaalorgaan berekent de steun op basis van de beschikbare begrotingskredieten 
+en het aantal zeugen dat door de aanvrager wordt gehouden.Het overeenkomstig artikel 4 berekende 
+steunbedrag is niet hoger dan 100 000 EUR per bedrijf.De steun wordt uiterlijk op 31 december 
+2021 uitbetaald.Art. 6. De landbouwers dienen hun steunaanvragen uiterlijk 30 werkdagen na 
+de datum van inwerkingtreding van dit besluit bij het betaalorgaan in met gebruikmaking van het door 
+de minister van Landbouw vastgestelde formulier, door elk middel dat een vaste datum verleent aan de 
+verzending.Art. 7. Het betaalorgaan geeft de steunaanvrager kennis van zijn beslissing tot 
+toekenning binnen dertig dagen na ontvangst de in artikel 6 bedoelde aanvraag.Art. 8. De steun 
+wordt niet verleend aan een fokker die steun heeft ontvangen op grond van de bepalingen van het besluit 
+van de Waalse Regering van 25 oktober 2018 tot toekenning van een buitengewone tegemoetkoming aan varkensfokkers 
+getroffen door het herbevolkingsverbod van varkensbedrijven gelegen in het gebied besmet door Afrikaanse 
+varkenspest.Art. 9. Overeenkomstig artikel D.257, §  § 1 en 2, van het Waals 
+Landbouwwetboek kan de fokker een beroep indienen bij de Directeur van het betaalorgaan tegen elke beslissing 
+genomen krachtens dit besluit.De Directeur van het betaalorgaan of diens afgevaardigde hoort 
+de fokker wanneer laatstgenoemde overeenkomstig artikel D.17, § 2, van het Waalse Landbouwwetboek 
+vraagt om gehoord te worden.De Directeur van het betaalorgaan of diens afgevaardigde neemt 
+een beslissing omtrent het beroep binnen een termijn van drie maanden na ontvangst van het beroep.De 
+beslissing van de Directeur van het betaalorgaan wordt terzelfder tijd ter kennis gebracht van de Directeur 
+van de dienst en van de fokker.Art. 10. Overeenkomstig artikel D.255, lid 2, van het Waals 
+landbouwwetboek zorgt het betaalorgaan voor het beheer en de controle van de steunaanvragen en -betalingen 
+aan de fokkers.Art. 11. Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad 
+wordt bekendgemaakt.Art. 12. De Minister bevoegd voor Landbouw is belast met de uitvoering 
+van dit besluit.Namen, 17 juni 2021.Voor de Regering : De Minister-President,E. 
+DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, Innovatie, Digitale Technologieën, 
+Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-07Numac : 2021203298
+

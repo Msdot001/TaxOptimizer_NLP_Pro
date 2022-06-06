@@ -1,0 +1,58 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2021040253/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-25Numac : 2021040253
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 13 APRIL 2019. - Wet tot invoering van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen. - Duitse vertaling van uittreksels 
+De hierna volgende tekst 
+is de Duitse vertaling van de artikelen 3 tot 27 van de wet van 13 april 2019 tot invoering van het Wetboek 
+van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen (Belgisch Staatsblad 
+van 30 april 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-25Numac : 2021040253
+

@@ -1,0 +1,93 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/15/2020041780/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-22Numac : 2020041780
+FEDERALE OVERHEIDSDIENST ECONOMIE, K.M.O., MIDDENSTAND EN ENERGIE  
+ 15 JUNI 2020. - Koninklijk besluit nr. 32 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken met betrekking tot sommige postdiensten 
+FILIP, Koning der 
+Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet 
+van 27 maart 2020, die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de 
+verspreiding van het coronavirus COVID-19 (II), artikelen 2 en 5, § 2;Gelet op de wet 
+van 26 januari 2018 betreffende de postdiensten, de artikelen 3, 4, 16 en 25;Gelet op het koninklijk 
+besluit van 24 april 2014 houdende reglementering van de postdienst;Gelet op artikel 46 van 
+het Gerechtelijk Wetboek;Gelet op de wet van 15 december 2013 houdende diverse bepalingen inzake 
+administratieve vereenvoudiging, artikel 8 § 2, ° 1 en 2° ;Gelet op het advies van de 
+inspecteur van Financiën, gegeven op 14 mei 2020 ;Gelet op de akkoordbevinding van de Minister 
+van Begroting van 29 mei 2020;Gelet op het advies 67.539/4 van de Raad van State, gegeven op 
+11 juni 2020, in toepassing van artikel 4, derde lid, van de wet van 27 maart 2020 die machtiging verleent 
+aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 
+(I);Op de voordracht van de Minister van de Post en op het advies van de in Raad vergaderde 
+Ministers,Hebben Wij besloten en besluiten Wij :Artikel 1.  § 1. In afwijking 
+van artikel 8, § 1 van het koninklijk besluit van 24 april 2014 houdende reglementering van de 
+postdienst, worden de ingeschreven zendingen bezorgd zonder aftekening voor ontvangst door de geadresseerde 
+of zijn gevolmachtigde. De verificatie van de identiteit van de geadresseerde of zijn gevolmachtigde 
+overeenkomstig artikel 8, § 1 van bovenvermeld koninklijk besluit blijft ongewijzigd. 
+§ 2. In afwijking van artikel 8, § 2 van het koninklijk besluit van 24 april 2014 houdende 
+reglementering van de postdienst, worden de ingeschreven zendingen bestemd voor een feitelijke vereniging 
+of een maatschappij zonder rechtspersoonlijkheid afgegeven zonder aftekening voor ontvangst door één 
+van de vennoten of leden, of hun gevolmachtigde. Een verificatie van de identiteit van de ontvanger vindt 
+plaats overeenkomstig de modaliteiten voorzien in artikel 8, § 1 van bovenvermeld koninklijk besluit. 
+§ 3. In afwijking van artikel 10, § 2, 4°  van het koninklijk besluit van 24 april 2014 
+houdende reglementering van de postdienst, bevat het ontvangstbewijs in geval van effectieve bezorging 
+van de zending waarop het betrekking heeft, slechts de naam van de persoon die de zending ontvangt en 
+de datum van deze inontvangstneming. § 4. In afwijking van artikel 15 van het koninklijk 
+besluit van 24 april 2014 houdende reglementering van de postdienst, worden ingeschreven postzendingen 
+zonder aftekening afgegeven aan de persoon die bevoegd is om ze in ontvangst te nemen. Een verificatie 
+van de identiteit van de ontvanger vindt plaats, overeenkomstig de modaliteiten voorzien in artikel 8, 
+§ 1 van bovenvermeld koninklijk besluit.Art. 2. In afwijking van artikel 46, § 
+1, tweede lid van het Gerechtelijk Wetboek, worden de ontvangstbewijzen van de gerechtsbrieven die ter 
+hand worden gesteld, niet ondertekend en gedateerd. De postdiensten maken melding van deze 
+onmogelijkheid met de woorden "COVID-19 procedure" onderaan op het ontvangstbewijs of door middel van 
+een elektronische toepassing in geval van een elektronisch ontvangstbewijs.Art. 3. Dit besluit 
+heeft uitwerking met ingang op 13 maart 2020 en is van toepassing tot 31 augustus 2020.De Koning 
+kan, bij een besluit vastgesteld na overleg in de Ministerraad, de in het eerste lid bepaalde einddatum 
+aanpassen.Art. 4. De minister bevoegd voor de postdiensten is belast met de uitvoering van 
+dit besluit.Gegeven te Brussel, 15 juni 2020.FILIPVan Koningswege :De 
+Minister van de Post,Ph. DE BACKER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-22Numac : 2020041780
+

@@ -1,0 +1,132 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/03/15/2022020559/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-22Numac : 2022020559
+FEDERALE OVERHEIDSDIENST MOBILITEIT EN VERVOER 
+ 15 MAART 2022. - Koninklijk besluit houdende de verplichting tot het dragen van het mondmasker in de treinen ter beperking van de verspreiding van het coronavirus COVID-19 
+FILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 12 april 1835 
+betreffende het tolgeld en de reglementen van de spoorwegpolitie, artikel 2;Gelet op de spoedeisendheid 
+die is ingegeven door de noodzaak om, na de vergadering van het Overlegcomité van 4 maart 2022, zo spoedig 
+mogelijk de in dit besluit vervatte maatregelen vast te stellen teneinde de continuïteit mogelijk te 
+maken van de eerder genomen maatregelen betreffende het dragen van maskers in treinen na 10 maart 2022, 
+de datum van het einde van de toepassing van de Pandemiewet;Gelet op advies nr. 71.149/4 van 
+de Raad van State, gegeven op 10 maart 2022, met toepassing van artikel 84, § 1, eerste lid, 3°, 
+ van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende dat de Expertgroep 
+Beheerstrategie van COVID-19 (het GEMS) in een advies van 28 februari 2022 geadviseerd heeft dat mondmaskers 
+in het openbaar vervoer moeten verplicht blijven tot beide formele drempelwaarden voor code geel zijn 
+bereikt (<65 ziekenhuisopnames per dag; <300 intensieve zorgen-bezetting);Overwegende dat het 
+Overlegcomité van 4 maart 2022 onder andere beslist heeft dat het dragen van het mondmasker nodig blijft 
+in de trein, behalve voor wat betreft het rijdend personeel, voor zover die goed geïsoleerd is in een 
+cabine;Overwegende dat artikel 3 van de wet van 27 april 2018 op de politie van de spoorwegen 
+onder andere bepaalt dat iedereen aanwezig in een trein, de instructies van de politie en het personeel 
+van de veiligheidsdienst of van het personeel van de spoorwegondernemingen dat in uniform is of drager 
+is van ieder ander onderscheidend teken, moet opvolgen;Dat deze instructies in de gegeven omstandigheden 
+erop gericht zijn om de veiligheid en de orde te handhaven;Dat het weigeren om een mondmasker 
+te dragen ingevolge een instructie gegeven door het hierboven genoemd personeel de veiligheid in het 
+gedrang brengt, en dat het bijgevolg moet beschouwd worden als een inbreuk in de zin van de wet van 27 
+april 2018 op de politie van de spoorwegen;Dat de vaststellende beambten van de Nationale Maatschappij 
+der Belgische Spoorwegen en de politiediensten bedoeld in voormelde wet bijgevolg gemachtigd zijn zulke 
+inbreuken vast te stellen en dat in voorkomend geval bestuurlijke boetes kunnen opgelegd worden.Overwegende 
+dat de Raad van State in zijn advies nr. 71.149/4 van 10 maart 2022 enerzijds van oordeel is dat de voorafgaande 
+formaliteit tot het betrekken van de gewestregeringen overeenkomstig artikel 6, § 4, 3°,  van 
+de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, niet is nageleefd, aangezien de 
+vertegenwoordigers van de gewestregeringen tijdens de vergadering van het Overlegcomité in principe zijn 
+overeengekomen om de verplichting tot het dragen van een mondmasker in het openbaar vervoer te handhaven, 
+maar dat zij niet collegiaal hebben kunnen beraadslagen over dit koninklijk besluit waarin dit akkoord 
+wordt omgezet, en anderzijds dat dit koninklijk besluit waarschijnlijk niet in het Belgisch Staatsblad 
+zal kunnen bekendgemaakt worden tegen 11 maart 2022 zodat het uitwerking zal krijgen met terugwerkende 
+kracht;Overwegende dat de twee hoger vermelde opmerkingen geformuleerd door de Raad van State 
+niet in overweging kunnen worden genomen;Overwegende dat de verplichting tot het dragen van 
+een mondmasker in de treinen voortvloeit uit artikel 14 van het koninklijk besluit van 28 oktober 2021 
+houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid 
+van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19 pandemie te voorkomen 
+of te beperken;Dat die verplichting geen uitwerking meer heeft vanaf 11 maart 2022;Dat 
+het Overlegcomité van 4 maart 2022 beslist heeft deze verplichting te handhaven op basis van het advies 
+van de Expertgroep Beheerstrategie van COVID-19 omwille van veiligheidsdoeleinden en bescherming van 
+de volksgezondheid van de Belgische bevolking;Dat de Interministeriële Conferentie van Ministers 
+van Mobiliteit van 9 maart 2022, die akte heeft genomen van de notificatie van het Overlegcomité van 
+4 maart 2022, is overeengekomen dat de deelstaten en de federale regering onmiddellijk alle nodige regelgevende 
+maatregelen nemen om zo vlug mogelijk te voldoen en met spoed naar genoemde notificatie;Dat 
+de tijd die nodig is voor het doorlopen van de procedure voor aanneming van koninklijke besluiten, zelfs 
+bij spoedeisendheid, niet toelaat dit koninklijk besluit dat de continuïteit van het dragen van een mondmasker 
+in treinen verzekert in het Belgisch Staatsblad bekend te maken voor de hogergenoemde datum van 11 maart 
+2022;Dat bijgevolg de doelstelling van veiligheid en volksgezondheid dat het Overlegcomité 
+nastreeft bijgevolg niet bereikt kan worden wanneer wordt overgegaan tot een strikte toepassing van de 
+procedure voor het betrekken van de gewestregeringen en zonder in een terugwerkende kracht te voorzien 
+van dit koninklijk besluit, terwijl in overweging moet worden genomen dat, enerzijds, de aanwezigheid 
+van de vertegenwoordigers van de gewestregeringen en hun gegeven akkoorden wat betreft het behoud van 
+de mondmaskerplicht in de treinen, tijdens de vergadering van voornoemd Comité, toelaat te beantwoorden 
+aan het doel dat wordt nagestreefd in artikel 6, § 4, 3°  van de hogergenoemde bijzondere wet 
+van 8 augustus 1980 en dat, anderzijds de noodzaak om een doorlopende mondmaskerplicht in de treinen 
+te verzekeren, ertoe noopt te voorzien in een terugwerkende kracht voor dit koninklijk besluit;Dat 
+de gewestregeringen overigens in het kader van hun regelgevingen eveneens bepalingen hebben behouden 
+of gaan behouden die het dragen van een mondmasker in het regionaal openbaar vervoer opleggen, welke 
+bepalingen gelijkaardig zijn aan degene die wordt aangenomen in dit koninklijk besluit, zodat daaruit 
+een impliciet akkoord van de gewestregeringen kan worden afgeleid in die zin dat de gewestregeringen 
+geen negatief advies zouden geven over een federale bepaling die wat hen betreft ook van toepassing is 
+op het grondgebied van hun gewesten;Dat bovendien bij gebrek aan terugwerkende kracht van dit 
+koninklijk besluit, de treingebruikers niet meer verplicht zouden zijn het mondmasker te dragen vanaf 
+11 maart 2022 tot aan de datum van inwerkingtreding van dit koninklijk besluit, datum vanaf wanneer zij 
+opnieuw een mondmasker zouden moeten dragen, wat onzin is vanuit de doelstelling van veiligheidsdoeleinden 
+en bescherming van de volksgezondheid nagestreefd door het Overlegcomité;Op de voordracht van 
+de Minister van Mobiliteit,Hebben Wij besloten en besluiten Wij :Artikel 1. Eenieder, 
+vanaf de leeftijd van 12 jaar, is verplicht om de mond en de neus te bedekken met een mondmasker vanaf 
+het betreden van een trein geëxploiteerd door een spoorwegonderneming.In afwijking van het 
+eerste lid:a) is het rijdend personeel van de spoorwegondernemingen niet verplicht om de mond 
+en de neus te bedekken, voor zover dit personeel goed geïsoleerd is in een cabine ;b) mag het 
+mondmasker occasioneel worden afgezet om te eten en te drinken;c) mag een gelaatsscherm worden 
+gebruikt wanneer het dragen van een mondmasker niet mogelijk is omwille van medische redenen;d) 
+zijn de personen die in de onmogelijkheid zijn een mondmasker of een gelaatsscherm te dragen omwille 
+van een beperking, gestaafd door middel van een medisch attest, niet verplicht om de mond en de neus 
+te bedekken.Art. 2. Dit besluit treedt in werking op 11 maart 2022.Art. 3. De minister 
+bevoegd voor het spoorwegvervoer is belast met de uitvoering van dit besluit.Gegeven te Brussel, 
+15 maart 2022.FILIPVan Koningswege :De Minister van Mobiliteit,G. 
+GILKINET   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-22Numac : 2022020559
+

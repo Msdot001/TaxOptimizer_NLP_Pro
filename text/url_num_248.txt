@@ -1,0 +1,161 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/16/2020042394/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-23Numac : 2020042394
+WAALSE OVERHEIDSDIENST
+ 16 JULI 2020. - Besluit van de Waalse Regering betreffende de toekenning van aanvullende vergoedingen in het kader van de maatregelen tegen het coronavirus COVID-19 
+De Waalse Regering,Gelet 
+op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote 
+ondernemingen, artikelen 10 en 19;Gelet op het rapport van 7 juli 2020, opgemaakt overeenkomstig 
+artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 8 juli 2020;Gelet op de instemming van de Minister van Begroting, gegeven op 9 juli 
+2020;Gelet op het advies nr. 67.763/2 van de Raad van State, gegeven op 15 juli 2020, overeenkomstig 
+artikel 84, § 1, eerste lid, 3°  van de wetten op de Raad van State gecoördineerd op 12 januari 
+1973 ;Gelet het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de 
+verspreiding van het coronavirus COVID-19 te beperken, gewijzigd bij het ministerieel besluit van 5 juni 
+2020;Overwegende dat het voornoemde ministerieel besluit van 23 maart 2020 vereist dat bepaalde 
+ondernemingen of delen van ondernemingen tot en met 30 juni 2020 gesloten blijven;Overwegende 
+dat het dringend is om dit besluit aan te nemen gezien de uitzonderlijke crisissituatie die nog steeds 
+bestaat, namelijk de gevolgen van de gezondheidscrisis COVID-19 voor veel ondernemingen die ernstige 
+economische schade lijden;Overwegende dat het noodzakelijk is om dringend steunmaatregelen 
+te voorzien voor de getroffen ondernemingen, ten einde de economische schade te beperken;Overwegende 
+dat de getroffen ondernemingen door de sluitingsmaatregelen hun omzet fors zien dalen, of zelfs helemaal 
+verdwijnen, en dat hierdoor het inkomen van de ondernemers en van hun werknemers in het gedrang komt;Overwegende 
+dat deze steun onder meer tot doel heeft om een golf van faillissementen te vermijden onder de ondernemingen 
+die prangende liquiditeitsproblemen ondervinden ten gevolge van de crisis;Overwegende dat wanbetalingen 
+ten gevolge van liquiditeitsproblemen een domino-effect in de economie zou kunnen veroorzaken, hetgeen 
+ten alle koste moet vermeden worden;Overwegende dat deze problemen en effecten op zeer korte 
+termijn voelbaar zullen zijn en dat het dus niet verantwoord is om enige vertraging op te lopen in het 
+uitvoeren van de steunmaatregel;Overwegende dat de steun daarom zo snel mogelijk moet kunnen 
+uitgekeerd worden;Gelet op de maatregelen genomen tegen coronavirus COVID-19 door de federale 
+Regering;Overwegende dat de sectoren van de recreatieve activiteiten, kunst en amusement die 
+in dit besluit in aanmerking komen, sectoren zijn die binnen de sfeer van de culturele activiteiten vallen, 
+maar die door hun aard van ondersteuning van de genoemde activiteiten toch onder de economische bevoegdheid 
+vallen;Gelet op de sectoren en subsectoren die nog steeds aanzienlijke gevolgen ondervinden 
+van de reisbeperking;Gelet op de sectoren en subsectoren die nog steeds aanzienlijke gevolgen 
+ondervinden van de beperking van de Nationale Veiligheidsraad voor wat betreft de "sociale bubbel";Gelet 
+op de sectoren en subsectoren die nog steeds aanzienlijke gevolgen ondervinden van de beperking van de 
+Nationale Veiligheidsraad voor wat betreft de massa-evenementen;Overwegende dat er dan ook 
+reden is om maatregelen op deze gebieden te treffen;Op de voordracht van de Minister van Economie;Na 
+beraadslaging,Besluit : Artikel 1. Voor de toepassing van dit besluit wordt verstaan 
+onder:1°  decreet : het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten 
+gunste van kleine en middelgrote ondernemingen;2°  Minister : de Minister van Economie;3° 
+ onderneming : de kleine onderneming bedoeld in artikel 3, § 3, van het decreet waarvan het personeelsbestand 
+en de financiële drempels degene zijn als bedoeld in artikel 2.2. van bijlage I bij Verordening (EU) 
+nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 
+107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard, de in artikel 3, § 
+5, van het decreet bedoelde zeer kleine onderneming en de natuurlijke persoon die een beroepsactiviteit 
+uitoefent in hoofdberoep of bijkomend beroep en die, gelet op zijn beroepsinkomen, bijdragen aan het 
+Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen (RSVZ) moet betalen;4°  NACE-BEL-code: 
+de activiteitennomenclatuur uitgewerkt door het Nationaal Instituut voor de Statistiek (NACE-BEL 2008) 
+in ééngemaakt Europees verband, opgelegd bij Verordening (EEG) nr. 3037/90 van 9 oktober 1990 van de 
+Raad betreffende de statistieke nomenclatuur van de economische activiteiten in de Europese Gemeenschap, 
+gewijzigd bij Verordening (EEG) nr. 761/93 van de Commissie van 24 maart 1993, bij Verordening (EG) nr. 
+29/2002 van 19 december 2001, bij Verordening (EG) nr. 1882/2003 van het Europese Parlement en van de 
+Raad van 29 september 2003 en bij Verordening (EG) nr. 1893/2006 van het Europese Parlement en van de 
+Raad van 20 december 2006;5°  Administratie: de Waalse Overheidsdienst Economie, Tewerkstelling 
+en Onderzoek;6°  webplatform: de webtoepassing bedoeld in artikel 1, §  1, eerste lid, 
+6°,  van het decreet van 21 december 2016 houdende de toekenning van steun via een in het Waalse Gewest 
+geïntegreerd steunportfolio aan projectontwikkelaars en kleine en middelgrote ondernemingen, ter vergoeding 
+van de diensten ter bevordering van het ondernemerschap of de groei, en strekkende de oprichting van 
+een databank van authentieke bronnen die verbonden is met die geïntegreerde portefeuille, die toegankelijk 
+is op https://indemnitecovid.wallonie.be ;Art. 2. De aanvullende vergoeding wordt toegekend 
+overeenkomstig Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing 
+van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, 
+hierna Verordening 1407/2013 genoemd.Art. 3. De Minister verleent, overeenkomstig de door hem 
+vastgestelde modaliteiten, een aanvullende vergoeding van drieduizend vijfhonderd euro aan de onderneming 
+die :1°  een compensatievergoeding van vijfduizend euro die door het Waalse Gewest is toegekend, 
+genoten heeft;2°  de gevolgen van de maatregelen tegen het coronavirus COVID-19 volkomen heeft 
+ondergaan, hetzij omdat ze een van de stilgelegde sectoren is die in het ministerieel besluit van 23 
+maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, 
+gewijzigd bij het ministerieel besluit van 5 juni 2020, zijn opgenomen, hetzij omdat haar activiteit 
+intrinsiek verbonden is met beslissingen in verband met massa-evenementen, hetzij omdat haar activiteit 
+beperkt is door de beperking van het reizen naar het buitenland ;3°  actief is in een sector 
+of een deel van een sector die is opgenomen in de volgende afdelingen en subklassen:a) 49.310 
+en 49.390 van de NACE-BEL-code;b) b) 55.203, 55.204 en 55.209 van de NACE-BEL-code;c) 
+56.210 en 56.302 van de NACE-BEL-code;d) 59.140 van de NACE-BEL-code;e) 74.109, 74.201 
+en 74.209 van de NACE-BEL-code;f) 77.293 en 77.392 van de NACE-BEL-code;g) 79 van 
+de NACE-BEL-code;h) 82.300 van de NACE-BEL-code;i) 90 van de NACE-BEL-code;j) 
+93.211 van de NACE-BEL-code;k) 96.040 van de NACE-BEL-code.De in het eerste lid bedoelde 
+compensatievergoeding kan slechts eenmaal per onderneming ingeschreven in de Kruispuntbank van Ondernemingen 
+worden toegekend, overeenkomstig boek III, Titel 2, hoofdstuk 1, van het Wetboek van Economisch recht.De 
+Minister kan sectoren of delen van sectoren, vermeld in het eerste lid, 3°,  aanvullen en nieuwe toevoegen 
+indien ze voldoen aan de in het eerste lid, 2°,  bedoelde voorwaarden.Art. 4. De onderneming 
+dient via een formulier op het webplatform de aanvraag voor een aanvullende vergoeding tot en met 15 
+oktober 2020 bij de Administratie in.De Minister bepaalt de datum voor de indiening van de 
+aanvragen voor een aanvullende vergoeding.Bij het indienen van het dossier op het webplatform 
+moet de onderneming met name de volgende informatie verstrekken :1°  haar nummer van de Kruispuntbank 
+van Ondernemingen;2°  een verklaring op erewoord die op het webplatform ingevuld moet worden;3° 
+ het rekeningnummer van de onderneming of van de begunstigde.De onderneming verklaart via de 
+in het tweede lid, 2°,  bedoelde verklaring op erewoord dat zij de plafonds zoals bepaald in Verordening 
+1407/2013 niet overschrijdt, namelijk 200.000 euro over de laatste drie boekjaren.De Administratie 
+kan gebruik maken van de databanken die authentieke bronnen vormen om alle gegevens te verkrijgen die 
+nodig zijn voor het onderzoek van het dossier.Art. 5. De beslissing over de ontvankelijkheid, 
+de betaling, de controle en invordering van de compensatievergoedingen wordt genomen door elk personeelslid 
+van niveau A zoals omschreven in het besluit van de Waalse Regering van 18 december 2003 houdende de 
+Waalse Ambtenarencode, aangewezen door de directrice-generaal van de Administratie.Art. 6. 
+De Administratie onderzoekt de ontvankelijkheid van de aanvraag voor een aanvullende vergoeding.Wanneer 
+het dossier niet ontvankelijk is, schort de Administratie de aanvraag voor een aanvullende vergoeding 
+op en stelt zij de onderneming daarvan in kennis, die haar aanvraag voor een aanvullende vergoeding kan 
+vervolledigen en een nieuw onderzoek naar de ontvankelijkheid ervan kan instellen.Als het dossier 
+niet wordt aangevuld en onderworpen aan een nieuw onderzoek van ontvankelijkheid binnen een termijn van 
+één maand te rekenen van de datum van schorsing, dan wordt de aanvraag voor een aanvullende vergoeding 
+definitief vernietigd.Indien de aanvraag aan de gestelde voorwaarden voldoet, wordt de onderneming 
+er elektronisch van in kennis gesteld dat de aanvullende vergoeding wordt toegekend.De betaling 
+van de aanvullende vergoeding door een externe dienstverlener wordt toegestaan in afwijking van artikel 
+21, § 1, tweede lid, van het decreet van 15 december 2011 houdende organisatie van de begroting, 
+de boekhouding en de verslaggeving van de Waalse openbare bestuurseenheid.Art. 7. Dit besluit 
+treedt in werking de dag waarop het in het Belgisch Staatsblad bekendgemaakt wordt.Art. 8. 
+De Minister van Economie is belast met de uitvoering van dit besluit.Namen, 16 juli 2020.Voor 
+de Waalse Regering:De Minister-President,E. DI RUPODe Minister van Economie, 
+Buitenlandse Handel, Onderzoek en Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, 
+het "IFAPME", en de Vaardigheidscentra,W. BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-23Numac : 2020042394
+

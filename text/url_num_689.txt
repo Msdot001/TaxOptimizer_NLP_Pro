@@ -1,0 +1,830 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/12/20/2021033410/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-11Numac : 2021033410
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 20 DECEMBER 2019. - Koninklijk besluit tot aanpassing van het KB/WIB 92 ingevolge de invoering van de aftrek van de groepsbijdrage en van de beperking op de aftrek van interesten. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 20 december 2019 tot aanpassing 
+van het KB/WIB 92 ingevolge de invoering van de aftrek van de groepsbijdrage en van de beperking op de 
+aftrek van interesten (Belgisch Staatsblad van 27 december 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN20. DEZEMBER 2019 - Königlicher Erlass zur Anpassung des KE/EStGB 92 infolge 
+der Einführungdes Abzugs des Konzernbeitrags und der Begrenzung des ZinsabzugsBERICHT 
+AN DEN KÖNIGSire,im Gesetz vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer 
+ist die Einführung zweier neuer Maßnahmen ab dem Steuerjahr 2020 vorgesehen, nämlich des Konzernbeitrags 
+und der Begrenzung des Zinsabzugs. Für beide Maßnahmen wird Ihnen die Festlegung spezifischer Ausführungsbestimmungen 
+übertragen. Mit vorliegendem Entwurf wird folglich die Umsetzung dieser Ausführungsbestimmungen bezweckt, 
+deren Festlegung Ihnen übertragen worden ist.In diesem Entwurf ist daher Folgendes vorgesehen:- 
+Beschreibung der Kosten und Erträge, die als wirtschaftlich gleichwertig mit Zinsen betrachtet werden 
+(Ausführung von Artikel 198/1 § 2 Absatz 2 des Einkommensteuergesetzbuches 1992 (EStGB 92)),- 
+Beschreibung der Modalitäten für die Nichtberücksichtigung der Zinsen bestimmter Anleihen für die Festlegung 
+der überschüssigen Fremdkapitalkosten (Ausführung von Artikel 198/1 § 2 Absatz 2 des EStGB 92),- 
+proportionale Verteilung des in Artikel 198/1 § 3 Absatz 1 Buchstabe a) des EStGB 92 erwähnten 
+Betrags auf die inländischen Gesellschaften und belgischen Niederlassungen, die während des gesamten 
+Besteuerungszeitraums Teil derselben Unternehmensgruppe waren (Ausführung von Artikel 198/1 § 
+3 Absatz 3 erster Gedankenstrich des EStGB 92),- Berechnung des EBITDA der inländischen Gesellschaften 
+und belgischen Niederlassungen, die während des gesamten Besteuerungszeitraums Teil einer Unternehmensgruppe 
+waren (Ausführung von Artikel 198/1 § 3 Absatz 3 zweiter Gedankenstrich und Absatz 4 des EStGB 
+92),- Festlegung des Musters des Zinsabzugsvertrags, der in Artikel 194sexies des EStGB 92 
+erwähnten Aufstellung und des Musters des Konzernbeitragsvertrags (Ausführung von Artikel 194sexies Absatz 
+3 des EStGB 92, Artikel 198/1 § 5 des EStGB 92 und Artikel 205/5 § 5 des EStGB 92).Beschreibung 
+der Kosten und Erträge, die als wirtschaftlich gleichwertig mit Zinsen betrachtet werdenIn 
+der Begründung zum Gesetz vom 30. Juli 2018 zur Festlegung verschiedener Bestimmungen im Bereich Einkommensteuern 
+lautet der Kommentar zu Artikel 27 wie folgt:"Da in Artikel 2 der Richtlinie [2016/1164 des 
+Rates vom 12. Juli 2016 mit Vorschriften zur Bekämpfung von Steuervermeidungspraktiken mit unmittelbaren 
+Auswirkungen auf das Funktionieren des Binnenmarkts] eine Begriffsbestimmung der Fremdkapitalkosten aufgenommen 
+ist, die umfassender als die im EStGB 92 aufgenommene Begriffsbestimmung der Zinsen ist, da in dieser 
+Begriffsbestimmung auch andere Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, enthalten sind, 
+wird dem König eine Ermächtigung erteilt, diese anderen Kosten in den Anwendungsbereich des vorliegenden 
+Artikels einzubeziehen. Der König wird von der in der Begriffsbestimmung der Richtlinie aufgenommenen 
+Aufzählung abweichen und diese Kosten in den Anwendungsbereich des vorliegenden Artikels nur einbeziehen 
+können, wenn die Gleichwertigkeit mit Zinsen nachgewiesen werden kann. Die Tragweite der Ermächtigung 
+des Königs ist also auf die Präzisierung des Anwendungsbereichs des vorliegenden Artikels begrenzt und 
+lässt somit nicht zu, dass sonstige Kosten, die wirtschaftlich nicht gleichwertig mit Zinsen sind, in 
+den Anwendungsbereich einbezogen werden."Aus dieser Passage der Begründung lässt sich ableiten, 
+dass der Gesetzgeber zum Ziel hatte, Ihnen die Möglichkeit zu bieten, für die Anwendung von Artikel 198/1 
+des EStGB 92 ebenfalls andere Kosten als die gemäß dem Einkommensteuergesetzbuch 1992 bestimmten 
+Zinsen als Fremdkapitalkosten zu berücksichtigen, damit der Anwendungsbereich von Artikel 198/1 des EStGB 
+92 für diese Kosten dieselbe Tragweite wie für diejenigen hat, die in Artikel 2 der vorerwähnten Richtlinie 
+2016/1164 als Fremdkapitalkosten erwähnt sind.Fremdkapitalkosten sind in Artikel 2 der vorerwähnten 
+Richtlinie 2016/1164 wie folgt bestimmt:"Zinsaufwendungen für alle Arten von Forderungen, sonstige 
+Kosten, die nach nationalem Recht wirtschaftlich gleichwertig mit Zinsen und Aufwendungen im Zusammenhang 
+mit der Beschaffung von Kapital sind, einschließlich - unter anderem - Zahlungen im Rahmen von 
+Beteiligungsdarlehen, kalkulatorische Zinsen auf Instrumente wie Wandelanleihen und Nullkuponanleihen, 
+Beträge im Rahmen von alternativen Finanzierungsmodalitäten, wie sie z. B. islamische Banken praktizieren, 
+die Finanzierungskosten im Rahmen von Finanzierungsleasing, im Bilanzwert eines zugehörigen Vermögenswerts 
+enthaltene kapitalisierte Zinsen, oder die Amortisation kapitalisierter Zinsen, gegebenenfalls Beträge, 
+die durch Bezugnahme auf eine Finanzierungsrendite im Rahmen von Verrechnungspreisregelungen gemessen 
+werden, Beträge fiktiver Zinsen im Rahmen von Derivaten oder Hedging-Vereinbarungen im Zusammenhang mit 
+dem Fremdkapital eines Unternehmens, bestimmte Wechselkursgewinne und -verluste auf Fremdkapital und 
+Instrumente im Zusammenhang mit der Beschaffung von Kapital, Garantiegebühren für Finanzierungsvereinbarungen, 
+Vermittlungsgebühren und ähnliche Kosten im Zusammenhang mit der Aufnahme von Fremdkapital".Jedoch 
+steht diese Begriffsbestimmung nicht allein; sie wurde ursprünglich infolge der Arbeiten entwickelt, 
+die im Rahmen der Initiative der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) 
+zur Bekämpfung der Gewinnverkürzung und Gewinnverlagerung (Base Erosion and Profit Shifting - BEPS) durchgeführt 
+worden sind. Daher wird in den Erwägungen der vorerwähnten Richtlinie 2016/1164 weitgehend auf diese 
+Arbeiten verwiesen:"Die Abschlussberichte über die 15 BEPS-Aktionspunkte der OECD wurden am 
+5. Oktober 2015 veröffentlicht. Dies wurde vom Rat in seinen Schlussfolgerungen vom 8. Dezember 2015 
+begrüßt. Der Rat betonte in diesen Schlussfolgerungen ferner die Notwendigkeit, auf EU-Ebene gemeinsame, 
+aber flexible Lösungen im Einklang mit den BEPS-Schlussfolgerungen der OECD zu finden. Außerdem 
+unterstützte er eine wirksame, rasche und koordinierte Umsetzung der Anti-BEPS-Maßnahmen auf EU-Ebene 
+und vertrat die Auffassung, dass EU-Richtlinien - sofern zweckmäßig - das bevorzugte Mittel zur 
+Umsetzung der BEPS-Schlussfolgerungen der OECD in der EU sein sollten."Im Abschlussbericht 
+über Aktionspunkt 4 (Limiting Base Erosion Involving Interest Deductions and Other Financial Payments) 
+des BEPS-Aktionsplans in Bezug auf die Beschreibung des Anwendungsbereichs kann Folgendes gelesen werden:"Kapitel 
+2 - Zinsen und Zinsen wirtschaftlich gleichzusetzende Zahlungen33. Zinskosten werden in den 
+meisten Staaten als steuerlich abzugsfähige Aufwendungen behandelt, allerdings wendet jeder Staat seinen 
+eigenen Ansatz an, um zu ermitteln, welche Aufwendungen als Zinsaufwendungen einzustufen und damit steuerlich 
+abzugsfähig sind. Dieser Bericht zielt nicht darauf ab, eine Zinsdefinition zu empfehlen, die in allen 
+Staaten für sämtliche steuerliche Zwecke Anwendung finden soll. Es wird auch in Zukunft länderspezifische 
+Unterschiede bezüglich der als abzugsfähige Zinsaufwendungen behandelten Posten geben, und für andere 
+steuerliche Zwecke wie die Quellenbesteuerung werden die Staaten weiterhin ihre eigenen Zinsdefinitionen 
+verwenden. Bei der Identifizierung empfehlenswerter Verfahren für die Gestaltung von Regeln zur Bekämpfung 
+der Gewinnverkürzung und Gewinnverlagerung ist es jedoch von Vorteil, dass die Staaten in Bezug auf die 
+Posten, für die solche Regeln gelten sollten, einen weitgehend konsistenten Ansatz nutzen, was die Rechtssicherheit 
+für die Unternehmen erhöht und einen länderübergreifend kohärenten Ansatz bei der Bekämpfung des Problems 
+gewährleistet. In diesem Kapitel werden daher die Posten behandelt, die Gegenstand einer Best-Practice-Regel 
+zur Bekämpfung von Gewinnverkürzung und Gewinnverlagerung sein sollten.34. Nach der einfachsten 
+Definition sind Zinsen die Kosten der Kreditaufnahme. Würde man den Fokus einer Regel jedoch auf ein 
+so schmales Spektrum an Zahlungen beschränken, würde dies drei generelle Probleme aufwerfen:- 
+Die Regel würde nicht der ganzen Bandbreite an Gewinnverkürzungs- und Gewinnverlagerungsrisiken Rechnung 
+tragen, denen sich die Staaten im Zusammenhang mit Betriebsausgabenabzügen für Zins- oder zinsähnliche 
+Aufwendungen gegenübersehen.- Sie wäre weniger gerecht, da dadurch Konzerne, die sich in der 
+gleichen wirtschaftlichen Lage befinden, aber andere Arten von Finanzierungsstrukturen nutzen, unterschiedlich 
+behandelt würden.- Ihre Effekte könnten einfach umgangen werden, indem Konzerne Darlehen in 
+andere Arten von Finanzierungsstrukturen umwandeln.35. Um diese Probleme anzugehen, sollten 
+Regeln zur Bekämpfung von Gewinnverkürzungen und Gewinnverlagerungen, die über Zinsaufwendungen herbeigeführt 
+werden, auf Zinsen für alle Arten von Fremdkapital und auf sonstige Zahlungen, die Zinsen wirtschaftlich 
+gleichzusetzen sind, angewandt werden. Zinsen wirtschaftlich gleichzusetzende Zahlungen umfassen Zahlungen, 
+die mit der Finanzierung eines Unternehmens in Zusammenhang stehen und die ermittelt werden, indem im 
+Zeitverlauf ein fester oder variabler Prozentsatz auf einen tatsächlichen oder fiktiven Kapitalbetrag 
+angewandt wird. Eine Regel sollte auch für andere Aufwendungen im Zusammenhang mit der Mittelbeschaffung, 
+einschließlich Abschluss- und Bürgschaftsgebühren, gelten. Dieses Kapitel enthält eine nicht erschöpfende 
+Beispielliste mit Arten von Zahlungen, die unter eine Regel fallen sollten, es bleibt jedoch jedem Staat 
+überlassen, festzulegen, wie sich dies im innerstaatlichen Recht niederschlagen soll, wobei bestehende 
+Definitionen von Zinsaufwendungen und anderen Zahlungen zu berücksichtigen sind. Bei der Entscheidung, 
+ob eine Zahlung Zinsen wirtschaftlich gleichzusetzen ist, sollte der Fokus auf ihrem wirtschaftlichen 
+Gehalt und nicht auf ihrer rechtlichen Form liegen.36. Eine Best-Practice-Regel zur Bekämpfung 
+der Gewinnverkürzung und Gewinnverlagerung durch Zinsaufwendungen sollte mithin für folgende Zahlungen 
+gelten: (i) Zinsen für alle Arten von Fremdkapital, (ii) Zinsen wirtschaftlich gleichzusetzende Zahlungen 
+und (iii) Aufwendungen im Zusammenhang mit der Mittelbeschaffung. Diese sollten folgende Aufwendungen 
+einschließen, jedoch nicht auf sie beschränkt sein:- Zahlungen im Rahmen von partiarischen 
+Darlehen;- rechnerische Zinsen für Finanzinstrumente wie Wandelanleihen oder Zero-Bonds;- 
+Beträge im Rahmen alternativer Finanzierungsvereinbarungen wie z.B. islamischen Finanzierungen;- 
+der Finanzierungskostenanteil von Zahlungen für Finanzierungsleasing;- kapitalisierte Zinsen, 
+die im Bilanzwert des entsprechenden Vermögensgegenstands enthalten sind, bzw. Abschreibungen kapitalisierter 
+Zinsen;- Beträge, die gegebenenfalls unter Bezugnahme auf einen Finanzierungsertrag nach den 
+Verrechnungspreisregeln bestimmt werden;- fiktive Zinsbeträge für derivative Finanzinstrumente 
+oder Sicherungsgeschäfte in Verbindung mit der Kreditaufnahme eines Unternehmens;- bestimmte 
+Fremdwährungsgewinne und -verluste aus Krediten und Instrumenten im Zusammenhang mit der Mittelbeschaffung;- 
+Bürgschaftsgebühren für Finanzierungsvereinbarungen;- Abschlussgebühren und ähnliche Kosten 
+im Zusammenhang mit der Kreditaufnahme.37. Es wird anerkannt, dass Fremdwährungsgewinne und 
+-verluste aus Finanzinstrumenten zur Absicherung oder zum Eingehen eines Währungsrisikos im Zusammenhang 
+mit der Mittelbeschaffung Zinsen im Allgemeinen wirtschaftlich nicht gleichzusetzen sind. Es ist jedoch 
+möglich, dass ein Staat wünscht, einige oder alle Fremdwährungsgewinne und -verluste aus diesen Instrumenten, 
+den inländischen Steuervorschriften entsprechend und zur Berücksichtigung der wirtschaftlichen Logik 
+des Währungsrisikos, als Zinsen wirtschaftlich gleichzusetzende Aufwendungen zu behandeln.38. 
+In diesem Bericht ist der Begriff Zinsaufwendungen, sofern sich aus dem Kontext nicht eindeutig etwas 
+anderes ergibt, auch auf Beträge zu beziehen, die Zinsen wirtschaftlich gleichzusetzen sind. Desgleichen 
+sind dort, wo der Bericht auf die Zinserträge eines Konzerns oder eines Unternehmens Bezug nimmt, auch 
+Erträge gemeint, die der Definition und den Beispielen in diesem Kapitel zufolge Zinsen wirtschaftlich 
+gleichzusetzen sind.39. Der Best-Practice-Ansatz bezieht sich nicht auf Zahlungen, die keine 
+Zinsen sind, Zinsen wirtschaftlich nicht gleichzusetzen sind bzw. nicht im Zusammenhang mit der Mittelbeschaffung 
+anfallen. Daher sollten die in diesem Bericht dargelegten Regeln die Betriebsausgabenabzüge für Posten 
+wie die Folgenden im Allgemeinen nicht begrenzen:- Fremdwährungsgewinne und -verluste aus monetären 
+Positionen, die nicht mit der Mittelbeschaffung in Zusammenhang stehen;- Beträge für derivative 
+Finanzinstrumente oder Sicherungsgeschäfte, die nicht mit Darlehen in Zusammenhang stehen, zum Beispiel 
+Rohstoffderivate;- Abzinsungen von Rückstellungen, die sich nicht auf Darlehen beziehen;- 
+Zahlungen für operatives Leasing;- Lizenzgebühren;- aufgelaufene Zinsen aus einem 
+Altersvorsorgeplan mit Leistungsprimat.40. Dem Best-Practice-Ansatz zufolge kann jedoch jede 
+Zahlung (einschließlich der oben angeführten) einer Beschränkung unterliegen, wenn sie Bestandteil 
+einer Gestaltung ist, bei der - insgesamt betrachtet - Beträge anfallen, die Zinsen wirtschaftlich gleichzusetzen 
+sind."Dieses Kapitel ist folglich eine nützliche Ergänzung zu der in Artikel 2 der vorerwähnten 
+Richtlinie 2016/1164 aufgenommenen Begriffsbestimmung, da hieraus deutlicher hervorgeht, welche Zahlungen 
+tatsächlich in den Anwendungsbereich einzubeziehen sind oder nicht. Darüber hinaus wird in dem "Best-Practice-Ansatz", 
+der im oben erwähnten Kapitel beschrieben ist, präzisiert, dass die in der Richtlinie aufgenommene Begriffsbestimmung 
+auf der Grundlage der im belgischen Recht bestehenden Begriffsbestimmungen der beste Ansatz ist und es 
+also nicht angebracht ist, die in der vorerwähnten Richtlinie 2016/1164 enthaltene Begriffsbestimmung 
+direkt in vorliegenden Erlass aufzunehmen.Da es nicht angebracht ist, Kosten und Erträge, die 
+steuerlich als Zinsen betrachtet werden, ebenfalls als wirtschaftlich gleichwertig mit Zinsen zu betrachten, 
+wird anschließend zunächst untersucht, in welchem Maße die Bestandteile der Begriffsbestimmung 
+der Fremdkapitalkosten aus der vorerwähnten Richtlinie 2016/1164 gemäß den Bestimmungen des EStGB 
+92 bereits als Zinsen bezeichnet werden. Außerdem wird die Bedeutung bestimmter Bestandteile anhand 
+des Abschlussberichts über Aktionspunkt 4 des BEPS-Aktionsplans verdeutlicht und geregelt, um anschließend 
+eine Begriffsbestimmung - wenn möglich anhand der bestehenden Begriffsbestimmungen aus dem Zivilrecht 
+und dem Steuerrecht - vorzuschlagen, die in den neuen Artikel 734/8 des KE/EStGB 92 
+aufgenommen wird.Was Zahlungen im Rahmen von Beteiligungsdarlehen betrifft, fallen diese in 
+den Anwendungsbereich von Artikel 19 § 1 Nr. 1 des EStGB 92. Der Anwendungsbereich dieser Bestimmung 
+ist weit und umfasst unter anderem Zinsen, Prämien und andere Erträge aus Darlehen einschließlich 
+Vereinbarungen über die Leistung von dinglichen Sicherheiten in Bezug auf Finanzinstrumente, aus Geldeinlagen 
+und anderen Forderungen. Da diese Zahlungen bereits als Zinsen betrachtet werden, ist es folglich nicht 
+erforderlich, diese als wirtschaftlich gleichwertig mit Zinsen zu betrachten.Was kalkulatorische 
+Zinsen auf Instrumente wie Wandelanleihen und Nullkuponanleihen betrifft, fallen diese im Prinzip in 
+den Anwendungsbereich von Artikel 19 § 2 des EStGB 92 (siehe ebenfalls Kom.ESt 92 Nr. 19/23 fünfter 
+Gedankenstrich). Gemäß Artikel 19 § 2 des EStGB 92 umfassen die Einkünfte festverzinslicher 
+Wertpapiere alle über den Ausgabepreis hinaus gezahlten oder zuerkannten Summen, ob diese Zuerkennung 
+am vertraglich festgelegten Fälligkeitstermin stattfindet oder nicht. Da diese Zahlungen bereits als 
+Zinsen betrachtet werden, ist es folglich nicht erforderlich, diese als wirtschaftlich gleichwertig mit 
+Zinsen zu betrachten.Was Beträge im Rahmen von alternativen Finanzierungsmodalitäten, wie sie 
+z. B. islamische Banken praktizieren, betrifft, muss zwischen einerseits den Fällen, in denen in irgendeiner 
+Weise die Zahlung von Zinsen vorgesehen ist, zum Beispiel durch Erstattung einer höheren Geldsumme, deren 
+Betrag zu Beginn vereinbart wurde, an einem vorherbestimmten Datum oder während eines vereinbarten Zeitraums, 
+und andererseits den Fällen, in denen der Anleger ein Recht an einem Teil des Ertrags bezieht, unterschieden 
+werden. Die ersten Fälle fallen in den Anwendungsbereich von Artikel 19 §§ 2 und 3 des 
+EStGB 92 und es ist folglich nicht erforderlich, diese als wirtschaftlich gleichwertig mit Zinsen zu 
+betrachten. Die Fälle, in denen der Anleger ein Recht an einem Teil des Ertrags bezieht, müssen auch 
+nicht als wirtschaftlich gleichwertig mit Zinsen betrachtet werden, da diese Zahlungen eher gleichwertig 
+mit einer Gewinnausschüttung und folglich nicht wirtschaftlich gleichwertig mit Zinsen sind.Was 
+Finanzierungskosten im Rahmen von Finanzierungsleasing betrifft, sind diese Finanzierungskosten gemäß 
+dem geltenden Buchhaltungs- und Jahresabschlussrecht im Ergebnis als Finanzaufwendungen oder Finanzerträge 
+aufgenommen und dieser Bestandteil wird auf der Grundlage von Artikel 19 § 1 Nr. 1 des EStGB 92 
+steuerlich als Zins bezeichnet. Da dieser Bestandteil bereits als Zins betrachtet wird, ist es folglich 
+nicht erforderlich, diese Finanzierungskosten als wirtschaftlich gleichwertig mit Zinsen zu betrachten.Das 
+Finanzierungsleasing muss vom operativen Leasing unterschieden werden. Das ausschlaggebende Kriterium 
+bei der Unterscheidung in buchhaltungsrechtlicher Hinsicht zwischen dem Finanzierungsleasing und dem 
+operativen Leasing oder der gewöhnlichen Vermietung ist die vollständige oder nicht vollständige Wiederherstellung 
+des vom Leasinggeber investierten Kapitals durch Leistung der vertraglich festgelegten Teilzahlungen 
+durch den Leasingnehmer. Bei einem operativen Leasing werden alle Leasingzahlungen als betriebliche Aufwendungen 
+beziehungsweise betriebliche Erträge gebucht und folglich wird im Prinzip keine getrennte Finanzaufwendung, 
+die steuerlich als Zins betrachtet würde, ausgewiesen.Angesichts der oben erwähnten Nr. 39 
+des Abschlussberichts über Aktionspunkt 4 des BEPS-Aktionsplans, in der präzisiert wird, dass Zahlungen 
+für operatives Leasing nicht in den Anwendungsbereich einbezogen werden, ist es nicht erforderlich, diese 
+Zahlungen als wirtschaftlich gleichwertig mit Zinsen zu betrachten.Dies schließt nicht 
+aus, dass bei einer aufgeschobenen oder gestaffelten Leistung der Zahlungen für operatives Leasing ein 
+Zins natürlich vertraglich vorgesehen werden kann. Die Beträge, die in einem solchen Fall zusätzlich 
+zu den vertraglich vereinbarten Zahlungen für operatives Leasing gezahlt werden, kommen in Betracht, 
+um sowohl buchhalterisch als auch steuerlich als Zinsen bezeichnet zu werden.Was im Bilanzwert 
+eines zugehörigen Vermögenswerts enthaltene kapitalisierte Zinsen, oder die Amortisation kapitalisierter 
+Zinsen betrifft, ist in Artikel 3:16 des Königlichen Erlasses vom 29. April 2019 zur Ausführung des Gesetzbuches 
+der Gesellschaften und Vereinigungen (KE/GesVerGB) Folgendes vorgesehen:"Art. 3:16 - In den 
+Anschaffungswert von immateriellen Anlagen und Sachanlagen dürfen Zinsaufwendungen für Fremdkapital, 
+das zu ihrer Finanzierung gebraucht wird, nur einbezogen werden, sofern sie auf den Zeitraum vor der 
+tatsächlichen Inbetriebnahme dieser Anlagen entfallen.In den Herstellungspreis von Vorräten 
+und in Ausführung befindlichen Bestellungen dürfen Zinsaufwendungen für Fremdkapital, das zu ihrer Finanzierung 
+gebraucht wird, nur einbezogen werden, sofern sie Vorräte oder Bestellungen mit einer Herstellungs- beziehungsweise 
+Ausführungsdauer von mehr als einem Jahr betreffen und auf den normalen Zeitraum der Herstellung dieser 
+Vorräte beziehungsweise der Ausführung dieser Bestellungen entfallen.Die Einbeziehung der Zinsaufwendungen 
+für Fremdkapital in den Anschaffungswert von immateriellen Anlagen beziehungsweise Sachanlagen oder Vorräten 
+beziehungsweise in Ausführung befindlichen Bestellungen wird im Anhang unter den Bewertungsregeln vermerkt."Wenn 
+Fremdkapital zur Finanzierung der Bildung einer Anlage gebraucht wird, dürfen die geschuldeten Zinsaufwendungen 
+unter den Bedingungen von Artikel 3:16 des KE/GesVerGB aktiviert werden. Wenn diese Zinsaufwendungen 
+buchhalterisch in die Kosten einbezogen werden, werden diese dann buchhalterisch als Finanzaufwendungen 
+bezeichnet und sie können steuerlich als Zinsen betrachtet werden. Der Steuerpflichtige hat jedoch auch 
+die Möglichkeit, diese Zinsaufwendungen auf der Grundlage von Artikel 3:16 des KE/GesVerGB zu aktivieren. 
+In diesem Fall werden diese Kosten bei ihrer Abschreibung buchhalterisch als betriebliche Aufwendungen 
+bezeichnet und sie werden steuerlich nicht als Zinsen betrachtet. Da ein solcher Unterschied in der Buchführungsmethode 
+im Prinzip keine Auswirkungen auf die steuerliche Behandlung dieser Zinsaufwendungen haben sollte, ist 
+es also angebracht, diese als wirtschaftlich gleichwertig mit Zinsen zu betrachten.Da die Einbeziehung 
+der Zinsaufwendungen in den Anschaffungswert eines Aktivabestandteils als Folge hat, dass diese Kosten 
+nur im Verhältnis zu der Abschreibung des Aktivabestandteils in das Ergebnis des Besteuerungszeitraums 
+aufgenommen werden, werden diese Abschreibungskosten als wirtschaftlich gleichwertig mit Zinsen betrachtet, 
+aber natürlich nur in dem Maße, wie die Zinsen auf Fremdkapital in den Anschaffungswert dieser 
+Anlage einbezogen werden.Im vorerwähnten Artikel 3:16 des KE/GesVerGB ist nicht nur die Möglichkeit 
+vorgesehen, die Zinsaufwendung in den Anschaffungswert einer Anlage einzubeziehen, sondern auch die Möglichkeit, 
+die Zinsaufwendung in den Herstellungspreis der Vorräte und in Ausführung befindlichen Bestellungen einzubeziehen. 
+Daher ist es angebracht,auch als Werbungskosten abzugsfähige Verringerungen von Vorräten als 
+Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, zu betrachten. Dies natürlich in dem Maße, 
+wie die Zinsen auf Fremdkapital in Anwendung von Artikel 3:16 des KE/GesVerGB in den Herstellungspreis 
+dieser Vorräte oder in Ausführung befindlichen Bestellungen einbezogen werden.Schließlich 
+wird darauf hingewiesen, dass Kosten nur aktiviert werden können, wenn sie die Bedingungen des vorerwähnten 
+Artikels 3:16 des KE/GesVerGB vollständig erfüllen. Die Steuerneutralität findet nämlich keine Anwendung 
+auf aktivierte Kosten, die bei ihrer Abschreibung die durch das Buchhaltungs- und Jahresabschlussrecht 
+vorgesehenen Bedingungen nicht erfüllen. Deshalb ist es angebracht vorzusehen, dass diese Kosten nur 
+in den Anwendungsbereich fallen, wenn die Formbedingungen von Artikel 3:16 des KE/GesVerGB vollständig 
+erfüllt sind.Was Beträge betrifft, die gegebenenfalls durch Bezugnahme auf eine Finanzierungsrendite 
+im Rahmen von Verrechnungspreisregelungen gemessen werden, wird auf den Abschlussbericht über die Aktionspunkte 
+8-10 des BEPS-Aktionsplans in Bezug auf die Verrechnungspreise verwiesen. Die einleitende Zusammenfassung 
+dieses Abschlussberichts enthält auf Seite 11 die folgende Passage:"Die Leitlinien sind ganzheitlich 
+mit anderen Aktionspunkten verknüpft. Wie vorstehend erwähnt, werden diese Leitlinien sicherstellen, 
+dass kapitalstarke Konzerneinheiten, die keinen anderen relevanten wirtschaftlichen Tätigkeiten nachgehen 
+("Cash Boxes"), keinen Anspruch auf überhöhte Gewinne erheben können. Die Gewinne, auf die eine Cash 
+Box Anspruch hat, entsprechen maximal einer risikofreien Rendite. Wenn diese Rendite zudem als Zinszahlung 
+oder Zinsen wirtschaftlich gleichzusetzende Zahlung eingestuft wird, so fallen diese ohnehin schon geringen 
+Gewinne auch unter die Regeln für die Abzugsfähigkeit von Zinszahlungen von Aktionspunkt 4."Ziel 
+dieses Abschlussberichts ist es also, unter anderem vorzusehen, dass die Anwendung der Verrechnungspreise 
+nie zur Folge haben kann, dass einem Unternehmen ohne die geringste Substanz höhere Gewinne als die Vergütung 
+für das Risiko der freien Verwendung des Kapitals dieses Unternehmens zugewiesen werden können.Eine 
+solche Zuweisung von Gewinnen entspricht der Technik, die durch die jüngste Einfügung der CFC-Bestimmung 
+in den EStGB 92 geregelt wird. Diese CFC-Bestimmung ist jedoch strikter als die geltenden Verrechnungspreisregelungen, 
+da in diesem neuen Artikel 185/2 des EStGB 92 bestimmt ist, dass nicht ausgeschüttete Gewinne einer in 
+Betracht kommenden Gesellschaft, die durch Aktiva erzielt werden, die mit den von einem Steuerpflichtigen 
+ausgeführten Aufgaben von Entscheidungsträgern zusammenhängen, zu Lasten des Steuerpflichtigen besteuert 
+werden. Wenn die ausländische Gesellschaft über keinerlei Substanz verfügt (wie die sogenannte Cash Box) 
+und alle Aufgaben von Entscheidungsträgern vom Steuerpflichtigen ausgeführt werden, werden die Gewinne 
+vollständig in Belgien besteuert, da in solchen Fällen durch Artikel 185/2 des EStGB 92 einer solchen 
+ausländischen Gesellschaft keine Zinsen zugewiesen werden.Folglich muss nicht davon ausgegangen 
+werden, dass die Anwendung der Verrechnungspreisregelungen in zahlreichen Fällen zu einer Zuweisung von 
+überschüssigen Fremdkapitalkosten an die ausländische Gesellschaft führt, da in vielen dieser Fälle die 
+CFC-Regelung ebenfalls anwendbar ist. Jedoch sind ebenfalls Fälle vorstellbar, in denen die Verrechnungspreisregelungen, 
+jedoch nicht die CFC-Bestimmung, anwendbar sind, wobei die Verrechnungspreise in diesen Fällen auf eine 
+risikofreie Finanzierungsrendite begrenzt werden könnten.Trotz des begrenzten Anwendungsbereichs 
+ist es trotzdem wünschenswert, eine solche Anwendung der Verrechnungspreisregelungen als Kosten oder 
+Erträge, die wirtschaftlich gleichwertig mit Zinsen sind, zu betrachten.Was Beträge fiktiver 
+Zinsen im Rahmen von Derivaten oder Hedging-Vereinbarungen im Zusammenhang mit dem Fremdkapital eines 
+Unternehmens betrifft, wird ihr Anwendungsbereich in Nr. 39 des Abschlussberichts über Aktionspunkt 4 
+des vorerwähnten BEPS-Aktionsplans verdeutlicht, in der bestimmt ist, dass "Beträge für derivative Finanzinstrumente 
+oder Sicherungsgeschäfte, die nicht mit Darlehen in Zusammenhang stehen, zum Beispiel Rohstoffderivate", 
+nicht in den Anwendungsbereich einbezogen werden müssen.Im belgischen Steuerrecht ist keine 
+besondere Regel für Derivate oder Hedging-Vereinbarungen vorgesehen. Jedoch sind in bestimmten ausländischen 
+Steuersystemen wohl spezifische Regeln für solche Instrumente vorgesehen.Zum Beispiel könnte 
+auf Artikel 26 Absatz 1 des Vorschlags für eine Richtlinie des Rates vom 25. Oktober 2016 über eine Gemeinsame 
+Körperschaftsteuer-Bemessungsgrundlage (COM(2016) 685 final) verwiesen werden:"Artikel 26 - 
+Sicherungsgeschäfte1. Gewinne und Verluste aus Sicherungsinstrumenten werden wie die entsprechenden 
+Gewinne und Verluste aus dem Grundgeschäft behandelt. Es besteht eine Sicherungsbeziehung, wenn die beiden 
+folgenden Voraussetzungen erfüllt sind:(a) die Sicherungsbeziehung wurde förmlich bestimmt 
+und vorher dokumentiert;(b) es wird von einer hohen Wirksamkeit der Sicherung ausgegangen, 
+und die Wirksamkeit ist verlässlich bestimmbar."Falls das Steuersystem eine steuerliche Behandlung 
+der Gewinne und Verluste aus Derivaten umfasst, die der im vorerwähnten Artikel 26 beschriebenen Behandlung 
+ähnelt, wodurch diese Gewinne und Verluste dieselbe steuerliche Behandlung wie das Grundgeschäft erfahren, 
+werden Gewinne und Verluste aus dem Derivat, die das Risiko einer Erhöhung des Marktzinssatzes ausgleichen, 
+falls das Grundgeschäft zum Beispiel die Verschuldung eines Unternehmens ist, die durch Darlehen gedeckt 
+wird, auf die der derzeit geltende Marktzinssatz anwendbar ist, logischerweise steuerlich (fiktiv) ebenfalls 
+als Zinsen betrachtet und sie erfahren aus diesem Grund dieselbe steuerliche Behandlung wie die vorerwähnten 
+Zinsen. Deshalb werden solche Gewinne und Verluste ebenfalls bei der Berechnung der überschüssigen Fremdkapitalkosten 
+berücksichtigt.Im belgischen Steuersystem sind solche Regeln jedoch nicht vorhanden. Gewinne 
+und Verluste aus solchen Derivaten sind unabhängig von dem Grundgeschäft bereits als berufliche Gewinne 
+oder berufliche Verluste einbezogen. Deshalb werden im belgischen Steuersystem solche Gewinne oder Verluste 
+derzeit nicht fiktiv als Zinsen betrachtet. Es ist also nicht erforderlich, diese als wirtschaftlich 
+gleichwertig mit Zinsen zu betrachten.Was bestimmte Wechselkursgewinne und -verluste auf Fremdkapital 
+und Instrumente im Zusammenhang mit der Beschaffung von Kapital betrifft, wird ihr Anwendungsbereich 
+in der oben erwähnten Nr. 39 des Abschlussberichts über Aktionspunkt 4 des BEPS-Aktionsplans verdeutlicht, 
+in der bestimmt ist, dass "Fremdwährungsgewinne und -verluste aus monetären Positionen, die nicht mit 
+der Mittelbeschaffung in Zusammenhang stehen", nicht in den Anwendungsbereich einbezogen werden müssen.Dies 
+ist in Nr. 37 derselben Unterlage noch näher erläutert:"37. Es wird anerkannt, dass Fremdwährungsgewinne 
+und -verluste aus Finanzinstrumenten zur Absicherung oder zum Eingehen eines Währungsrisikos im Zusammenhang 
+mit der Mittelbeschaffung Zinsen im Allgemeinen wirtschaftlich nicht gleichzusetzen sind. Es ist jedoch 
+möglich, dass ein Staat wünscht, einige oder alle Fremdwährungsgewinne und -verluste aus diesen Instrumenten, 
+den inländischen Steuervorschriften entsprechend und zur Berücksichtigung der wirtschaftlichen Logik 
+des Währungsrisikos, als Zinsen wirtschaftlich gleichzusetzende Aufwendungen zu behandeln."Wechselkursgewinne 
+und -verluste werden steuerlich nicht als Zinsen betrachtet. Im Abschlussbericht wird präzisiert, dass 
+solche Gewinne und Verluste in den meisten Fällen wirtschaftlich nicht gleichwertig mit Zinsen sind. 
+Deshalb ist es nicht wünschenswert, alle Wechselkursgewinne und -verluste in den Anwendungsbereich einzubeziehen.Folglich 
+wird davon ausgegangen, dass Wechselkursgewinne und -verluste nur wirtschaftlich gleichwertig mit Zinsen 
+sind, wenn sie sich aus der Zahlung von Zinsen in Ausführung eines Darlehensvertrags ergeben.Was 
+Garantiegebühren für Finanzierungsvereinbarungen, Vermittlungsgebühren und ähnliche Kosten im Zusammenhang 
+mit der Aufnahme von Fremdkapital betrifft, werden diese steuerlich nicht als Zinsen betrachtet.Unter 
+dem Begriff "Garantiegebühren" sind im Allgemeinen die Gebühren zu verstehen, die der Bank aufgrund der 
+Bildung einer Bankgarantie im Auftrag des Steuerpflichtigen geschuldet werden, wobei mit dieser Bankgarantie 
+Drittbegünstigte einer Transaktion vor der Nichtzahlung geschützt werden.Da die Bildung einer 
+Bankgarantie wirtschaftlich gleichwertig mit der Eröffnung eines (nicht verwendeten) Kredits ist, können 
+solche Garantiegebühren wirtschaftlich mit Zinsen gleichgesetzt werden, so dass es daher angebracht ist, 
+diese Gebühren ebenfalls in den Anwendungsbereich einzubeziehen.Unter dem Begriff "Vermittlungsgebühren" 
+sind im Allgemeinen die Gebühren zu verstehen, die ein Finanzinstitut für die Aufnahme einer Anleihe 
+oder die Eröffnung eines Kredits in Rechnung stellt. Die Fakturierung solcher Gebühren ist jedoch nicht 
+das Vorrecht von Finanzinstituten. Andere Gläubiger (und folglich auch Gesellschaften innerhalb der Gruppe) 
+können bei der Aufnahme einer Anleihe ebenfalls die Zahlung ähnlicher Gebühren vertraglich vorsehen. 
+Solche Gebühren haben mit Zinsen gemeinsam, dass sie eine Vergütung für die Bereitstellung von Kapital 
+sind; deshalb können sie sich im Prinzip untereinander ersetzen lassen. Aus diesem Grund ist es ebenso 
+angebracht, solche Gebühren ebenfalls als wirtschaftlich gleichwertig mit Zinsen zu betrachten.Was 
+die Auslegung der Wörter "einschließlich - unter anderem -" betrifft, wird vorgeschlagen, auf spezifische 
+Bestimmungen des belgischen Buchhaltungs- und Jahresabschlussrechts zu verweisen, die Unternehmen verpflichten, 
+bestimmte Kosten oder Erträge, die eine gewisse Gleichwertigkeit mit Zinsen aufweisen, auf einem getrennten 
+Konto zu buchen, ohne sie jedoch steuerlich als Zinsen zu bezeichnen.Der Diskont auf unverzinsliche 
+oder außergewöhnlich niedrig verzinsliche Forderungen und Verbindlichkeiten, der in den Artikeln 
+3:45 beziehungsweise 3:55 des KE/GesVerGB erwähnt ist, weist eine gewisse Gleichwertigkeit mit Zinsen 
+auf.Im Buchhaltungsrecht wird in der Tat davon ausgegangen, dass bei einer unverzinslichen 
+Forderung oder einer außergewöhnlich niedrig verzinslichen Forderung mit einer Restlaufzeit von 
+mehr als einem Jahr ein Zins im Nennwert der Forderung implizit enthalten ist. Folglich wird bei der 
+Buchung einer solchen Forderung der Nennwert dieser Forderung in eine Hauptsumme, die unverzüglich in 
+der Ergebnisrechnung ausgewiesen werden darf, und in einen Zinsbestandteil (den Diskont), der pro rata 
+temporis in der Ergebnisrechnung ausgewiesen werden muss und in der Zwischenzeit vorläufig auf einem 
+Wartekonto erfasst werden muss, aufgeteilt.Aufgrund der wirtschaftlichen Gleichwertigkeit mit 
+Zinsen wird der Teil dieses Diskonts, der in die Gewinne des Besteuerungszeitraums einbezogen wird oder 
+als Werbungskosten abzugsfähig ist, als wirtschaftlich gleichwertig mit Zinsen betrachtet.Anschließend 
+wird dem Steuerpflichtigen die Möglichkeit gegeben, auch andere Formen von Vergütungen, die weder Zinsen 
+noch andere Kosten oder Erträge sind, die in vorliegendem Entwurf namentlich als wirtschaftlich gleichwertig 
+mit Zinsen beschrieben werden, als Kosten oder Erträge, die wirtschaftlich gleichwertig mit Zinsen sind, 
+zu betrachten.Diese Möglichkeit wird erst nach Erhalt einer Vorabentscheidung geboten, für 
+die im Antrag nachgewiesen wird, dass dieser sich auf eine Vergütung bezieht, die wirtschaftlich gesehen 
+eine Gegenleistung für die Bereitstellung von Kapital an einen Dritten darstellt.In einem internationalen 
+Zusammenhang ist es durchaus vorstellbar, dass ein und dieselbe Verrichtung eine unterschiedliche Bezeichnung 
+beim Begünstigten einerseits und beim Schuldner andererseits erhält, wenn aufgrund des Territorialitätsprinzips 
+unterschiedliche steuerrechtliche Regeln auf diesen Begünstigten und auf diesen Schuldner anwendbar sind.Die 
+Möglichkeit einer solchen Verzerrung in einem rein belgischen Kontext entspräche jedoch nicht dem Geist 
+des BEPS-Aktionsplans und seiner Umsetzung in der vorerwähnten Richtlinie (UE) 2016/1164. Deshalb ist 
+ausdrücklich vorgesehen, dass Vergütungen, die keine Zinsen sind und in vorliegendem Erlass nicht namentlich 
+beschrieben werden, nur als Kosten oder Erträge, die wirtschaftlich gleichwertig mit Zinsen sind, betrachtet 
+werden können, wenn diese Bezeichnung sowohl für den Begünstigten als auch für den Schuldner anwendbar 
+ist.Absicht ist es nicht, zu ermöglichen, dass ein und dieselbe Vergütung eine unterschiedliche 
+Bezeichnung für den Begünstigten und für den Schuldner erhält, falls beide Personen in den Anwendungsbereich 
+der belgischen Einkommensteuern fallen.Es ist also durchaus möglich, dass ein Steuerpflichtiger 
+verschiedenen anderen in Belgien ansässigen Steuerpflichtigen Vergütungen schuldet, die objektiv dieselben 
+Merkmale aufweisen, aber von denen eine Vergütung infolge einer dem Begünstigten der Vergütung gegenüber 
+gefassten Vorabentscheidung als Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, bezeichnet wird, 
+während die anderen Vergütungen der gleichen Art in Ermangelung einer solchen Vorabentscheidung nicht 
+als Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, betrachtet werden.Da es nur im 
+Interesse des Begünstigten dieser Kosten liegt, dass diese als wirtschaftlich gleichwertig mit Zinsen 
+betrachtet werden, muss eine obligatorische Identifizierung vorgesehen werden, sodass der Schuldner dieser 
+Kosten, der die Bezeichnung dieser Kosten vertraglich angenommen hat, leicht identifiziert werden kann 
+und es leichter wird nachzuprüfen, ob er seinen Erklärungspflichten korrekt nachgekommen ist.Beschreibung 
+der Modalitäten für die Nichtberücksichtigung der Zinsen bestimmter AnleihenArtikel 198/1 § 
+2 Absatz 2 des EStGB 92 lautet wie folgt:"Werden die vom König festgelegten Modalitäten eingehalten, 
+werden die Zinsen auf folgende Anleihen bei der Festlegung der überschüssigen Fremdkapitalkosten nicht 
+berücksichtigt:- Anleihen, für die der Steuerpflichtige nachgewiesen hat, dass der Vertrag 
+vor dem 17. Juni 2016 geschlossen wurde, und die seit diesem Datum keine grundlegenden Änderungen erfahren 
+haben,- Anleihen, die in Ausführung eines Projekts einer öffentlich-privaten Partnerschaft 
+aufgenommen werden, das gemäß den Vorschriften über öffentliche Aufträge infolge eines Wettbewerbsaufrufs 
+vergeben wird, wenn Projektbetreiber, Fremdkapitalkosten, Aktiva und Einkünfte alle in der Europäischen 
+Union gelegen sind."Mit vorliegendem Entwurf wird folglich die Festlegung der praktischen Modalitäten 
+bezweckt, die eingehalten werden müssen, bevor die vorerwähnten Anleihen von der Anwendung von Artikel 
+198/1 des EStGB 92 ausgeschlossen werden.Vor jeglichem Ausschluss dieser Anleihen müssen die 
+notwendigen Angaben der Erklärung als Anlage beigefügt werden, was die Überprüfung der Einhaltung der 
+durch das Gesetz vorgesehenen Bedingungen erleichtert.Was die vor dem 17. Juni 2016 aufgenommenen 
+Anleihen betrifft, müssen folgende Angaben der Erklärung als Anlage beigefügt werden:- Modalitäten 
+des Darlehensvertrags, mit Namen der Parteien, Zinssatz, Laufzeit und aufgenommenem Betrag,- 
+Datum, an dem der Darlehensvertrag geschlossen worden ist,- Datum und Beschreibung der Änderungen, 
+die diese Anleihe seit dem Abschluss des im ersten Gedankenstrich erwähnten Vertrags erfahren hat, ob 
+diese grundlegend sind oder nicht,- Bestätigung, dass keine der Änderungen, die ab dem 17. 
+Juni 2016 vorgenommen worden sind, grundlegend ist,- Betrag der Zinsen (gegebenenfalls sonstige 
+Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, einbegriffen) wie in Artikel 198/1 § 
+2 Absatz 1 des EStGB 92 erwähnt, der in Ausführung des vorerwähnten Vertrags im Besteuerungszeitraum 
+als Werbungskosten berücksichtigt worden ist oder in die Gewinne des Besteuerungszeitraums einbezogen 
+worden ist.Was Anleihen betrifft, die in Ausführung eines Projekts einer öffentlich-privaten 
+Partnerschaft aufgenommen werden, müssen folgende Angaben der Erklärung als Anlage beigefügt werden:- 
+Beschreibung des Inhalts des Projekts einer öffentlich-privaten Partnerschaft,- Bestätigung, 
+dass das im ersten Gedankenstrich erwähnte Projekt gemäß den Rechtsvorschriften über öffentliche 
+Aufträge infolge eines Wettbewerbsaufrufs vergeben worden ist,- Bestätigung, dass das im ersten 
+Gedankenstrich erwähnte Projekt, die mit diesem Projekt verbundenen Fremdkapitalkosten, die infolge dieses 
+Projekts verwirklichten Aktiva und die durch dieses Projekt erzielten Gewinne alle in der Europäischen 
+Union gelegen sind,- Betrag der Zinsen (gegebenenfalls Kosten, die wirtschaftlich gleichwertig 
+mit Zinsen sind, einbegriffen) wie in Artikel 198/1 § 2 Absatz 1 des EStGB 92 erwähnt, der in 
+Ausführung dieses Darlehens im Besteuerungszeitraum als Werbungskosten berücksichtigt worden ist oder 
+in die Gewinne des Besteuerungszeitraums einbezogen worden ist.Für die im zweiten beziehungsweise 
+dritten Gedankenstrich erwähnten Angaben reicht zunächst eine ehrenwörtliche Erklärung aus. Bei einer 
+gründlicheren Untersuchung ist in vorliegendem Entwurf vorgesehen, dass die notwendigen Belege vom Steuerpflichtigen 
+verlangt werden können.Festlegung des EBITDA, falls der Steuerpflichtige Teil einer Unternehmensgruppe 
+ist, der mindestens eine in Artikel 198/1 § 3 Absatz 3 zweiter Gedankenstrich des EStGB 92 erwähnte 
+Gesellschaft oder Niederlassung angehörtDer Entwurf, der dem Staatsrat zur Begutachtung vorgelegt 
+worden war, umfasste ursprünglich einen Artikel, in dem zwei Begriffsbestimmungen aufgenommen waren, 
+um den Wörtern "Gruppenmitglied" und "Besteuerungszeitraum" eine autonome Bedeutung zu geben. Infolge 
+des Gutachtens Nr. 66.449/1/V des Staatsrates vom 7. August 2019 wurden diese Begriffsbestimmungen von 
+dem Entwurf, der dem König vorgelegt wird, ausgeschlossen. Der Entfernung dieser Begriffsbestimmungen 
+ist in vorliegendem Entwurf abgeholfen worden, indem in den anderen Artikeln auf die Gruppenmitglieder 
+verwiesen wird, die in Artikel 198/1 des EStGB 92 - genauer in § 3 Absatz 3 zweiter Gedankenstrich 
+dieses Artikels - erwähnt sind. Der im vorerwähnten Gutachten enthaltenen Empfehlung, auf die "Unternehmensgruppe" 
+wie in Artikel 2 § 1 Nr. 5/1 des EStGB 92 bestimmt zu verweisen, ist nicht gefolgt worden, da 
+diese Begriffsbestimmung angesichts des Ziels des Gesetzgebers, nur die nicht von der Anwendung von Artikel 
+198/1 des EStGB 92 ausgeschlossenen belgischen Mitglieder der betreffenden Unternehmensgruppe zu berücksichtigen, 
+zu weit gefasst ist.Infolge des vorerwähnten Gutachtens des Staatsrates werden diese Begriffsbestimmungen 
+also durch Verweise auf Artikel 198/1 §  3 Absatz 3 zweiter Gedankenstrich des EStGB 92 ersetzt, 
+jedoch bleibt die Notwendigkeit einer angemessenen Begriffsbestimmung der Mitglieder einer belgischen 
+Gruppe bestehen. Diese angemessene Begriffsbestimmung kann nur vom Gesetzgeber vorgesehen werden. In 
+der Zwischenzeit müssen die geltenden Gesetzesbestimmungen in einer Weise ausgelegt werden, die in Übereinstimmung 
+mit der Richtlinie steht. Demzufolge muss die in Artikel 4 Absatz 1 Unterabsatz 2 der vorerwähnten Richtlinie 
+2016/1164 erwähnte Gruppe objektiv bestimmt werden können und darf ihre Begriffsbestimmung nicht je nach 
+der Perspektive jeder einzelnen Gesellschaft, die Teil dieser Gruppe ist, unterschiedlich sein.Deshalb 
+steht Artikel 198/1 § 3 Absatz 3 des EStGB 92 nur in Übereinstimmung mit der vorerwähnten Richtlinie 
+2016/1164, wenn die in dieser Bestimmung aufgenommenen Teilnahmebedingungen aus der Perspektive jeder 
+in Belgien ansässigen Gesellschaft oder Niederlassung, die Teil dieser Gruppe ist, erfüllt sind. Dies 
+ist insbesondere wichtig, falls die verschiedenen Gesellschaften, die Teil einer Gruppe sind, ihr Geschäftsjahr 
+zu einem unterschiedlichen Zeitpunkt abschließen. In diesem Fall müssen die betreffenden Gesellschaften 
+fortlaufend verbunden sein, und zwar nicht nur in dem Besteuerungszeitraum, der an das Steuerjahr X einer 
+Gesellschaft gebunden ist, sondern auch in dem Besteuerungszeitraum, der an dasselbe Steuerjahr einer 
+Gesellschaft gebunden ist, die das Geschäftsjahr an einem anderen Datum als die erste Gesellschaft abschließt 
+und Teil derselben Gruppe wie diese ist.Die in vorliegendem Entwurf vorgesehenen Anpassungen 
+des EBITDA haben zum Ziel, ein gleiches Ergebnis zu erreichen, falls die Gruppe tatsächlich eine Konsolidierung 
+vornimmt. Was das EBITDA betrifft, wird dies durch Neutralisierung der (innerbelgischen) Transaktionen 
+innerhalb der Gruppe und gegebenenfalls durch Verringerung um das negative EBITDA bestimmter Gruppenmitglieder 
+erreicht.Was die Neutralisierung der Transaktionen innerhalb der Gruppe betrifft, muss jedoch 
+die Tatsache berücksichtigt werden, dass nicht jede Transaktion innerhalb der Gruppe dieselben Auswirkungen 
+auf das EBITDA hat. Diese Berichtigungen müssen also die Transaktionen innerhalb der Gruppe durch Gegenbuchung 
+neutralisieren, aber dies darf nur in dem Maße erfolgen, wie diese Transaktionen tatsächlich Auswirkungen 
+auf das EBITDA gehabt haben.Angenommen, der Steuerpflichtige hat zum Beispiel eine Vergütung 
+in Ausführung des Konzernbeitragsvertrags gezahlt, die gemäß Artikel 198 § 1 Nr. 16 des 
+EStGB 92 als nicht zugelassene Ausgabe betrachtet wird. Die Zahlung dieser Vergütung belastet das Buchführungsergebnis 
+der Gesellschaft und ermöglicht eine Verringerung der Rücklagen. Diese Verringerung der Rücklagen wird 
+jedoch infolge der verhältnismäßigen Erhöhung der nicht zugelassenen Ausgaben neutralisiert. Deshalb 
+ist die Zahlung einer solchen Vergütung für das EBITDA des Steuerpflichtigen unbedeutend. Diese Transaktion 
+muss also nicht neutralisiert werden.Auf der Einnahmenseite kann auf den Erhalt einer Dividende, 
+die für den DBE-Abzug berücksichtigt wird, verwiesen werden. Der Erhalt dieser Dividende hat auch keine 
+Auswirkungen auf das EBITDA; aus diesem Grund muss dieser Erhalt auch nicht neutralisiert werden.Um 
+gewährleisten zu können, dass die Summe der EBITDA-Beträge der verschiedenen Gruppenmitglieder in allen 
+Fällen den konsolidierten EBITDA-Betrag nicht übersteigt, muss vorgesehen werden, dass ein negativer 
+EBITDA-Betrag einer bestimmten inländischen Gesellschaft oder belgischen Niederlassung, die Teil einer 
+Gruppe ist, in irgendeiner Weise mit den positiven EBITDA-Beträgen der anderen inländischen Gesellschaften 
+oder belgischen Niederlassungen, die Teil derselben Gruppe sind, verrechnet wird. In vorliegendem Entwurf 
+wird daher ebenfalls vorgeschlagen, dass in solchen Fällen der negative EBITDA-Betrag auf die anderen 
+inländischen Gesellschaften und belgischen Niederlassungen je nach der Höhe des positiven EBITDA-Betrags 
+jeder dieser Gesellschaften und Niederlassungen verteilt wird.In dem Entwurf, der dem Staatsrat 
+zur Begutachtung vorgelegt worden war, war ursprünglich vorgesehen, dass das EBITDA auf einem gesonderten 
+Formular angegeben werden muss, wobei die daraus hervorgehende Mitwirkungspflicht zur Folge hätte, dass 
+das EBITDA in Ermangelung einer Mitwirkung auf null herabgesetzt würde. Darüber hinaus war vorgesehen, 
+dass diese Herabsetzung auf null zur Folge hätte, dass kein anderes Gruppenmitglied den EBITDA-Betrag 
+festlegen könnte.In dem Entwurf, der Ihnen vorgelegt wird, wird infolge des vorerwähnten Gutachtens 
+des Staatsrates dagegen die Möglichkeit eines Verzichts auf die Festlegung des EBITDA beibehalten, ohne 
+dass dies jedoch mit irgendeiner Mitwirkungspflicht einhergeht. Die gewöhnlichen Regeln in Bezug auf 
+die Beweislast bleiben also anwendbar. Außerdem kann nur auf die Festlegung verzichtet werden, 
+wenn die gesamte Gruppe ihre diesbezügliche Zustimmung gegeben hat. Somit wird vermieden, dass die von 
+einem Mitglied getroffene Wahl Folgen für die anderen Mitglieder hat.Die in vorhergehendem 
+Absatz erwähnte Wahl, die Möglichkeit eines Verzichts auf die Festlegung des EBITDA beizubehalten, geht 
+aus der Tatsache hervor, dass in zahlreichen Fällen viele kleine Gruppen kein Interesse an der Berechnung 
+des EBITDA-Betrags haben, zum Beispiel, weil das erwartete konsolidierte EBITDA unter 10.000.000 EUR 
+liegt.Mit der vorliegenden Bestimmung wird also kein anderer Zweck verfolgt als diesen Gruppen, 
+die kein Interesse an der Berechnung des EBITDA haben, den Verwaltungsaufwand, der sich unvermeidlich 
+aus dieser Berechnung ergibt, zu ersparen. Der Vorteil für diese Gruppen, von dieser Möglichkeit Gebrauch 
+zu machen, ist nicht nur, dass sie von dem mit der Festlegung dieses Betrags verbundenen Verwaltungsaufwand 
+befreit werden, sondern auch dass sie von der Möglichkeit Gebrauch machen können, die in Artikel 734/12 
+§ 2 des KE/EStGB 92 (wie durch vorliegenden Entwurf eingefügt) erwähnt ist und darin besteht, 
+den in Artikel 198/1 § 3 Absatz 1 Buchstabe a) des EStGB 92 erwähnten Betrag auf die Gruppenmitglieder 
+gleichmäßig zu verteilen (siehe ebenfalls weiter unten).Da diese überarbeitete Bestimmung 
+in keiner Weise das Recht der Steuerpflichtigen, die tatsächlich ein Interesse an der Berechnung des 
+EBITDA haben, mehr gefährden kann, verliert die Bestimmung im Entwurf ihren wesentlichen Charakter, wodurch 
+diese Bestimmung wieder in Übereinstimmung mit dem Legalitätsprinzip steht.Proportionale Verteilung 
+des in Artikel 198/1 §  3 Absatz 1 Buchstabe a) des EStGB 92 erwähnten Betrags auf die inländischen 
+Gesellschaften und belgischen Niederlassungen, die während des gesamten Besteuerungszeitraums Teil derselben 
+Unternehmensgruppe warenIn Artikel 198/1 § 3 Absatz 3 erster Gedankenstrich des EStGB 
+92 ist vorgesehen, dass der Mindestbetrag von 3.000.000 EUR proportional auf die in Belgien ansässigen 
+Mitglieder der Unternehmensgruppe verteilt wird.Für die proportionale Verteilung ist folgenden 
+Erwägungen Rechnung getragen worden:- In Artikel 198/1 § 3 Absatz 1 des EStGB 92 ist 
+vorgesehen, dass jeder Steuerpflichtige für den Grenzbetrag den höchsten Betrag unter entweder 30 Prozent 
+des EBITDA oder dem von Ihnen festgelegten proportionalen Anteil des Betrags von 3.000.000 EUR berücksichtigt. 
+Demzufolge ist es durchaus möglich, dass innerhalb der Gruppe für manche Mitglieder der Grenzbetrag dem 
+in Artikel 198 § 3 Absatz 1 Buchstabe b) des EStGB 92 erwähnten Betrag und für andere dem in vorliegendem 
+Entwurf vorgesehenen proportionalen Anteil des in Artikel 198 § 3 Absatz 1 Buchstabe a) des EStGB 
+92 erwähnten Betrags entspricht.- In Artikel 4 Absatz 3 der Richtlinie (EU) 2016/1164 des Rates 
+vom 12. Juli 2016 mit Vorschriften zur Bekämpfung von Steuervermeidungspraktiken mit unmittelbaren Auswirkungen 
+auf das Funktionieren des Binnenmarkts ist bestimmt, dass bei einer konsolidierten Anwendung der Maßnahme 
+der Mindestbetrag von 3.000.000 EUR für die gesamte Gruppe gilt. Konkret bedeutet dies, dass auf Ebene 
+der gesamten Gruppe dafür gesorgt wird, dass der Grenzbetrag nicht höher als entweder 30 Prozent des 
+konsolidierten EBITDA aller Gruppenmitglieder oder 3.000.000 EUR sein darf.- Zur Vermeidung 
+missbräuchlicher Übertragungen des Grenzbetrags zwischen Gruppenmitgliedern wäre es wünschenswert, den 
+Antrag auf Abzug der überschüssigen Fremdkapitalkosten zu berücksichtigen. Deshalb sollte die Verteilung 
+je nach der Höhe des Betrags der überschüssigen Fremdkapitalkosten angewandt werden. Im Gegensatz zu 
+den Vorschlägen bestimmter Autoren ist bewusst beschlossen worden, sich nicht für eine Verteilung des 
+Betrags von 3.000.000 EUR je nach der Höhe des EBITDA des Steuerpflichtigen zu entscheiden. Zunächst 
+weil das EBITDA des Steuerpflichtigen null oder sogar negativ sein kann. Anschließend weil dieses 
+EBITDA nichts mit dem Antrag auf Abzug der überschüssigen Fremdkapitalkosten zu tun hat.Es 
+wird vorgeschlagen, in vier Schritten vorzugehen, um die proportionale Verteilung des in Artikel 198/1 
+§ 3 Absatz 1 Buchstabe a) des EStGB 92 erwähnten Betrags vorzunehmen:1. Zunächst wird 
+der Betrag von 3.000.000 EUR um 30 Prozent des konsolidierten EBITDA der Gruppe (Summe des EBITDA jeder 
+inländischen Gesellschaft oder belgischen Niederlassung der Gruppe) verringert. Dieser erste Schritt 
+gewährleistet, dass je größer der EBITDA-Betrag der Gruppe ist, desto kleiner der zu verteilende 
+Betrag ist. Sobald der EBITDA-Betrag der Gruppe 10.000.000 EUR entspricht oder darüber liegt, ist der 
+noch zu verteilende Betrag gleich null und die Anwendung der folgenden Schritte hat keinen Sinn mehr. 
+In diesem Fall können die inländischen Gesellschaften oder belgischen Niederlassungen der Gruppe nur 
+den in Artikel 198/1 § 3 Absatz 1 Buchstabe b) des EStGB 92 erwähnten Betrag (= 30 Prozent des 
+EBITDA) als Grenzbetrag betrachten.2. Anschließend wird der verbleibende Antrag auf Abzug 
+der überschüssigen Fremdkapitalkosten festgelegt. Mit dem betreffenden verbleibenden Antrag auf Abzug 
+sind die überschüssigen Fremdkapitalkosten nach Abzug von 30 Prozent des EBITDA des Steuerpflichtigen 
+gemeint. Dafür wird die Plusdifferenz zwischen den überschüssigen Fremdkapitalkosten einerseits und dem 
+in Artikel 198/1 § 3 Absatz 1 Buchstabe b) des EStGB 92 erwähnten Betrag (= 30 Prozent des EBITDA 
+des Steuerpflichtigen) andererseits genommen.3. Nach Festlegung des Antrags auf Abzug der überschüssigen 
+Fremdkapitalkosten in Schritt 2 wird der Betrag von 3.000.000 EUR, von dem in Schritt 1 das EBITDA der 
+Gruppe abgezogen worden ist, nach Verhältnis des verbleibenden Antrags jeder inländischen Gesellschaft 
+oder belgischen Niederlassung der Gruppe verteilt.4. Schließlich wird der Grenzbetrag 
+durch Addition des Betrags, der dem Steuerpflichtigen gemäß Schritt 3 zugeteilt worden ist, einerseits 
+und 30 Prozent des EBITDA des Steuerpflichtigen andererseits berechnet.Durch diese aufeinander 
+folgenden Schritte ist eine deutliche Hierarchie vorgesehen. So besteht der Grenzbetrag des Steuerpflichtigen 
+zunächst aus 30 Prozent des eigenen EBITDA, das anschließend je nach der Höhe des EBITDA der Gruppe 
+und der Höhe der überschüssigen Fremdkapitalkosten weiterhin ergänzt wird.BeispielWir 
+gehen von einer Unternehmensgruppe aus, wovon zwei Gesellschaften A und B inländische Gesellschaften 
+sind. Angenommen, Gesellschaft A hat im Besteuerungszeitraum X ein EBITDA von 8.500.000 EUR erzielt und 
+hat überschüssige Fremdkapitalkosten von 2.300.000 EUR. Angenommen, Gesellschaft B hat im selben Besteuerungszeitraum 
+X ein EBITDA von 1.000.000 EUR erzielt und hat überschüssige Fremdkapitalkosten von 750.000 EUR. Das 
+EBITDA und die überschüssigen Fremdkapitalkosten der Gesellschaften A und B sind infolge ihrer Gruppenmitgliedschaft 
+bereits angepasst worden.In Schritt 1 wird der Betrag von 3.000.000 EUR um 30 Prozent des konsolidierten 
+EBITDA der Gruppe verringert. Daraus ergibt sich in diesem Beispiel folgende Behandlung: 3.000.000 EUR 
+-30 Prozent x (8.500.000 EUR + 1.000.000 EUR) = 3.000.000 EUR - 2.850.000 EUR = 150.000 EUR.In 
+Schritt 2 wird der Antrag auf Abzug der überschüssigen Fremdkapitalkosten festgelegt. Dafür wird die 
+Plusdifferenz zwischen den überschüssigen Fremdkapitalkosten einerseits und 30 Prozent des EBITDA des 
+Steuerpflichtigen andererseits genommen. Daraus ergibt sich in vorliegendem Beispiel folgende Behandlung 
+für Gesellschaft A: 2.300.000 EUR - (30 Prozent x 8.500.000 EUR) = 2.300.000 EUR - 2.550.000 EUR = - 
+250.000 EUR. Gesellschaft A hat also keinen verbleibenden Antrag auf Abzug der überschüssigen Fremdkapitalkosten 
+mehr. Für Gesellschaft B gilt folgende Behandlung: 750.000 EUR - (30 Prozent x 1.000.000 EUR) = 750.000 
+EUR - 300.000 EUR = 450.000 EUR. Nach Anwendung des Abzugs auf der Grundlage des EBITDA hat Gesellschaft 
+B also einen verbleibenden Antrag von 450.000 EUR.In Schritt 3 wird der Betrag aus Schritt 
+1 auf die Gesellschaften A und B nach Verhältnis des verbleibenden Antrags auf Abzug der überschüssigen 
+Fremdkapitalkosten dieser beiden Gesellschaften verteilt. Da für Gesellschaft A kein Antrag festgelegt 
+wird, darf der in Schritt 1 festgelegte Betrag von Gesellschaft B abgezogen werden.In Schritt 
+4 wird der Grenzbetrag für die Gesellschaften A und B berechnet. Gesellschaft A hat Anrecht auf einen 
+Abzug von 2.550.000 EUR. Gesellschaft B hat Anrecht auf einen Abzug von 300.000 EUR + 150.000 EUR = 450.000 
+EUR.Daraus folgt, dass der Abzug der überschüssigen Fremdkapitalkosten für A nicht begrenzt 
+ist. Es gibt sogar einen EBITDA-Überschuss von 833.333 EUR (= Grenzbetrag von 250.000 EUR). Für B betragen 
+die überschüssigen Fremdkapitalkosten 750.000 EUR. Der Grenzbetrag beläuft sich nur auf 450.000 EUR. 
+Deshalb wird im Prinzip also ein Abzug der überschüssigen Fremdkapitalkosten in Höhe von 300.000 EUR 
+in die nicht zugelassenen Ausgaben einbezogen.Die Einbeziehung der überschüssigen Fremdkapitalkosten 
+für einen Betrag von 300.000 EUR kann nur noch durch Abschluss eines Zinsabzugsvertrags zwischen beiden 
+Gesellschaften begrenzt werden (für die Übertragung eines Grenzbetrags von 250.000 EUR, was in diesem 
+Fall den Betrag der nicht zugelassenen Ausgaben auf 50.000 EUR begrenzen würde).Schließlich 
+ist in vorliegendem Entwurf eine alternative Verteilungsmethode vorgesehen, durch die der Betrag von 
+3.000.000 EUR auf die verschiedenen Gruppenmitglieder gleichmäßig verteilt wird. Ziel dieser Methode 
+ist es vor allem, die Komplexität dieser Maßnahme den Steuerpflichtigen gegenüber zu mildern, die 
+auf keinen Fall von dieser Maßnahme betroffen sind, zum Beispiel falls der Betrag der überschüssigen 
+Fremdkapitalkosten viel niedriger als die Grenze von 3.000.000 EUR ist.Diese Methode kann ebenfalls 
+nützlich sein für Gruppen, in denen für die verschiedenen Mitglieder der Besteuerungszeitraum zu unterschiedlichen 
+Zeitpunkten abgeschlossen wird, da die verschiedenen Gruppenmitglieder einen Grenzbetrag festlegen können, 
+ohne dafür von Angaben abzuhängen, die ihnen von anderen Gruppenmitgliedern mitgeteilt werden müssen.Diese 
+alternative Verteilungsmethode wird nur Gruppen vorbehalten, deren inländische Gesellschaften und belgische 
+Niederlassungen einen in Artikel 743/11 § 3 erwähnten Vertrag geschlossen haben, 
+in dem eine gleichmäßige Verteilung auf die Vertragsparteien vorgesehen ist.Festlegung 
+des Musters des Zinsabzugsvertrags, der in Artikel 194sexies des EStGB 92erwähnten Aufstellung 
+und des KonzernbeitragsvertragsUm überprüfen zu können, ob alle in Artikel 194sexies des EStGB 
+92 erwähnten Bedingungen erfüllt sind, wird vorgeschlagen, in der Aufstellung folgende Angaben zu verlangen:- 
+nicht als Werbungskosten in Betracht kommende überschüssige Fremdkapitalkosten, die aus dem vorhergehenden 
+Besteuerungszeitraum vorgetragen wurden,- überschüssige Fremdkapitalkosten des Besteuerungszeitraums,- 
+Grenzbetrag des Besteuerungszeitraums,- in Anwendung von Artikel 194sexies des EStGB 92 steuerfreie 
+Gewinne,- nicht als Werbungskosten in Betracht kommende überschüssige Fremdkapitalkosten, die 
+auf einen folgenden Besteuerungszeitraum vorzutragen sind.Der im letzten Gedankenstrich erwähnte 
+Betrag besteht aus dem im ersten Gedankenstrich erwähnten Betrag, der entweder um die nicht als Werbungskosten 
+in Betracht kommenden überschüssigen Fremdkapitalkosten des Besteuerungszeitraums zu erhöhen ist oder 
+um die in Anwendung von Artikel 194sexies des EStGB 92 steuerfreien Gewinne zu verringern ist oder zu 
+übernehmen ist (falls es im Besteuerungszeitraum keine als Werbungskosten abzugsfähigen überschüssigen 
+Fremdkapitalkosten oder keine in Anwendung von Artikel 194sexies des EStGB 92 steuerfreien Gewinne gibt). 
+Dieser im letzten Gedankenstrich erwähnte Betrag bildet den im ersten Gedankenstrich erwähnten Betrag 
+der Aufstellung, die sich auf die Steuererklärung des folgenden Steuerjahres bezieht. Ist in der vorhergehenden 
+Steuererklärung keine Aufstellung ausgefüllt worden, wird davon ausgegangen, dass sich der im ersten 
+Gedankenstrich erwähnte Betrag auf null beläuft.Anschließend schlage ich vor, die Befugnis 
+zur Erstellung dieser Aufstellung auf den Minister der Finanzen oder seinen Beauftragten zu übertragen.Was 
+die Zusammenstellung des Konzernbeitragsvertrags und des Zinsabzugsvertrags betrifft, enthalten die Bestimmungen 
+des EStGB 92 ausreichende Bedingungen; aus diesem Grund muss in vorliegendem Entwurf keine zusätzliche 
+Bedingung vorgesehen werden. Deshalb reicht es für beide Verträge aus, die Befugnis zur Festlegung ihres 
+Musters auf den Minister der Finanzen oder seinen Beauftragten zu übertragen.Soweit, Sire, 
+die Tragweite des Erlassentwurfs, der Ihnen vorgelegt wird.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO20. DEZEMBER 2019 - Königlicher 
+Erlass zur Anpassung des KE/EStGB 92 infolge der Einführungdes Abzugs des Konzernbeitrags und 
+der Begrenzung des ZinsabzugsPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 1992:- des Artikels 194sexies 
+Absatz 3, eingefügt durch das Gesetz vom 25. Dezember 2017,- des Artikels 198/1 § 2 
+Absatz 1, eingefügt durch das Gesetz vom 25. Dezember 2017,- des Artikels 198/1 § 2 
+Absatz 2, eingefügt durch das Gesetz vom 25. Dezember 2017,- des Artikels 198/1 § 3 
+Absatz 3 erster Gedankenstrich, eingefügt durch das Gesetz vom 25. Dezember 2017,- des Artikels 
+198/1 § 3 Absatz 4, eingefügt durch das Gesetz vom 2. Mai 2019,- des Artikels 198/1 
+§ 5, eingefügt durch das Gesetz vom 25. Dezember 2017,- des Artikels 205/5 § 
+5, eingefügt durch das Gesetz vom 25. Dezember 2017;Aufgrund des KE/EStGB 92;In Erwägung 
+der Richtlinie (EU) 2016/1164 des Rates vom 12. Juli 2016 mit Vorschriften zur Bekämpfung von Steuervermeidungspraktiken 
+mit unmittelbaren Auswirkungen auf das Funktionieren des Binnenmarkts;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 28. Juni 2019;Aufgrund des Einverständnisses des Ministers des Haushalts 
+vom 15. Juli 2019;Aufgrund des Gutachtens Nr. 66.449/1/V des Staatsrates vom 7. August 2019, 
+abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:KAPITEL 1 - Umsetzung der Richtlinie (UE) 2016/1164 ("ATAD")Artikel 
+1 - Vorliegendes Kapitel dient der Teilumsetzung der Richtlinie (EU) 2016/1164 des Rates vom 12. Juli 
+2016 mit Vorschriften zur Bekämpfung von Steuervermeidungspraktiken mit unmittelbaren Auswirkungen auf 
+das Funktionieren des Binnenmarkts.Art. 2 - In Kapitel 1 des KE/EStGB 92 wird ein Abschnitt 
+27bis/2, der die Artikel 734/8 bis 734/14 umfasst, mit folgendem Wortlaut 
+eingefügt:"Abschnitt 27bis/2 - Begrenzung des ZinsabzugsUnterabschnitt 1 - Festlegung 
+der in Artikel 198/1 § 2 Absatz 1 und 3 des Einkommensteuergesetzbuches 1992 erwähnten Kosten 
+und Erträge, die wirtschaftlich gleichwertig mit Zinsen sindArt. 734/8 - § 
+1 - Für die Anwendung von Artikel 198/1 § 2 Absatz 1 des Einkommensteuergesetzbuches 1992 werden 
+folgende Kosten und Erträge als wirtschaftlich gleichwertig mit Zinsen betrachtet:- die Abschreibung 
+einer immateriellen Anlage oder Sachanlage, sofern Zinsaufwendungen für Fremdkapital in Anwendung von 
+Artikel 3:16 des Königlichen Erlasses vom 29. April 2019 zur Ausführung des Gesetzbuches der Gesellschaften 
+und Vereinigungen in den Anschaffungswert dieser Anlage einbezogen werden,- die als Werbungskosten 
+betrachtete Verringerung von Vorräten, sofern Zinsaufwendungen für Fremdkapital in Anwendung von Artikel 
+3:16 desselben Königlichen Erlasses in den Herstellungspreis dieser Vorräte und in Ausführung befindlichen 
+Bestellungen einbezogen werden,- die Vergütung, die der Steuerpflichtige einer ausländischen 
+Gesellschaft schuldet, die Teil derselben Unternehmensgruppe wie der Steuerpflichtige ist, und die aufgrund 
+von Artikel 185 § 2 Buchstabe a) des Einkommensteuergesetzbuches 1992 und in Anwendung der Verrechnungspreisregelungen 
+auf eine Prämie für die Bereitstellung von Kapital begrenzt ist,- Wechselkursgewinne und -verluste, 
+sofern sie sich aus der Zahlung von Zinsen in Ausführung eines Darlehensvertrags ergeben,- 
+Garantiegebühren und ähnliche Kosten, die infolge des Abschlusses eines Vertrags geschuldet werden, in 
+dem die andere Partei einem Begünstigten bei Erfüllung der Vertragsbedingungen die Zahlung eines im Voraus 
+bestimmten Betrags garantiert hat,- Vermittlungsgebühren und ähnliche Kosten, die keine Zinsen 
+sind, die infolge des Abschlusses eines Darlehensvertrags geschuldet werden,- der Teil des 
+in Artikel 3:45 des Königlichen Erlasses vom 29. April 2019 zur Ausführung des Gesetzbuches der Gesellschaften 
+und Vereinigungen erwähnten Diskonts auf unverzinsliche oder außergewöhnlich niedrig verzinsliche 
+Forderungen, der in Anwendung von Artikel 363 des Einkommensteuergesetzbuches 1992 in die Gewinne des 
+Besteuerungszeitraums einbezogen wird, und der Teil des in den Artikeln 3:45 und 3:55 desselben Königlichen 
+Erlasses erwähnten Diskonts auf unverzinsliche oder außergewöhnlich niedrig verzinsliche Verbindlichkeiten, 
+der als Werbungskosten betrachtet wird. § 2 - Für die Anwendung von Artikel 198/1 § 
+2 Absatz 1 des Einkommensteuergesetzbuches 1992 werden Kosten und Erträge ebenfalls als wirtschaftlich 
+gleichwertig mit Zinsen betrachtet, wenn diese Kosten oder Erträge eine Gegenleistung für die Bereitstellung 
+von Kapital darstellen und der Begünstigte dieser Kosten oder der Schuldner dieser Erträge ihre Bezeichnung 
+als Kosten beziehungsweise Erträge, die wirtschaftlich gleichwertig mit Zinsen sind, angenommen hat.Absatz 
+1 wird nur durch Vorabentscheidung angewandt. In diesem Fall ist Absatz 1 nicht nur auf die Person, die 
+diese Vorabentscheidung beantragt, sondern auch auf den Begünstigten der in Absatz 1 erwähnten Kosten 
+beziehungsweise auf den Schuldner der in Absatz 1 erwähnten Erträge wirksam.Darüber hinaus 
+ist Absatz 1 nur anwendbar, wenn im Vertrag vorgesehen ist, dass diese in Absatz 1 erwähnten Kosten oder 
+Erträge für die Anwendung von Artikel 198/1 § 2 desselben Gesetzbuches als wirtschaftlich gleichwertig 
+mit Zinsen betrachtet werden.Die in Absatz 2 erwähnte Vorabentscheidung kann nur getroffen 
+werden, wenn sie die Bedingung enthält, dass die Person, die diese Vorabentscheidung beantragt, jeden 
+Schuldner der in Absatz 1 erwähnten Erträge oder jeden Begünstigten der in Absatz 1 erwähnten Kosten 
+identifiziert und in einer der Erklärung als Anlage beigefügten Aufstellung nicht nur die Identität dieses 
+Schuldners oder Begünstigten, sondern auch den Betrag dieser Kosten oder Erträge aufnimmt.Unterabschnitt 
+2 - Besondere Regeln für den Ausschluss der vor dem 17. Juni 2016 aufgenommenen Anleihen und den Ausschluss 
+der in Ausführung eines Projekts einer öffentlich-privaten Partnerschaft aufgenommenen AnleihenArt. 
+734/9 - Falls der Steuerpflichtige über eine oder mehrere vor dem 17. Juni 2016 aufgenommene 
+Anleihen verfügt und diese Anleihen ab diesem Datum keine grundlegenden Änderungen erfahren haben, werden 
+die Zinsen dieser Anleihen für die Festlegung der in Artikel 198/1 desselben Gesetzbuches erwähnten überschüssigen 
+Fremdkapitalkosten nicht berücksichtigt, sofern der Erklärung eine Aufstellung dieser Anleihen beigefügt 
+wird und die Modalitäten des vorliegenden Artikels eingehalten werden.Der Steuerpflichtige 
+gibt in dieser Aufstellung Folgendes pro Anleihe an:- Modalitäten des Darlehensvertrags, mit 
+Namen der Parteien, Zinssatz, Laufzeit und aufgenommenem Betrag, und Datum, an dem dieser Vertrag geschlossen 
+worden ist,- Datum und Beschreibung der Änderungen, die diese Anleihe seit dem Abschluss des 
+im ersten Gedankenstrich erwähnten Vertrags erfahren hat,- Bestätigung, dass keine der im zweiten 
+Gedankenstrich erwähnten Änderungen, die ab dem 17. Juni 2016 vorgenommen worden sind, grundlegend ist,- 
+Betrag wie in Artikel 198/1 § 2 Absatz 1 desselben Gesetzbuches erwähnt, der in Ausführung des 
+im ersten Gedankenstrich erwähnten Vertrags im Besteuerungszeitraum als Werbungskosten berücksichtigt 
+worden ist oder in die Gewinne des Besteuerungszeitraums einbezogen worden ist.Der Steuerpflichtige 
+hält alle Verträge oder andere Belege in Bezug auf diese Anleihen und gegebenenfalls in Bezug auf die 
+Änderungen, die diese Anleihen erfahren haben, zur Verfügung der Verwaltung bereit und erklärt sich bereit, 
+diese auf einfaches Verlangen vorzulegen.Art. 734/10 - Falls der Steuerpflichtige 
+über eine oder mehrere Anleihen verfügt, die in Ausführung eines gemäß den Rechtsvorschriften über 
+öffentliche Aufträge infolge eines Wettbewerbsaufrufs vergebenen Projekts einer öffentlich-privaten Partnerschaft 
+aufgenommen werden, werden die Zinsen dieser Anleihen für die Festlegung der in Artikel 198/1 desselben 
+Gesetzbuches erwähnten überschüssigen Fremdkapitalkosten nicht berücksichtigt, sofern der Erklärung eine 
+Aufstellung dieser Anleihen beigefügt wird und die Modalitäten des vorliegenden Artikels eingehalten 
+werden.Der Steuerpflichtige gibt in dieser Aufstellung Folgendes pro Anleihe an:- 
+Identifizierung und Beschreibung des Projekts einer öffentlich-privaten Partnerschaft,- Bestätigung, 
+dass das im ersten Gedankenstrich erwähnte Projekt gemäß den Rechtsvorschriften über öffentliche 
+Aufträge infolge eines Wettbewerbsaufrufs vergeben worden ist,- Bestätigung, dass das im ersten 
+Gedankenstrich erwähnte Projekt, die mit diesem Projekt verbundenen Fremdkapitalkosten und die infolge 
+dieses Projekts verwirklichten Aktiva und erzielten Gewinne alle in der Europäischen Union gelegen sind,- 
+Betrag der Zinsen oder sonstigen Kosten, die wirtschaftlich gleichwertig mit Zinsen sind, wie in Artikel 
+198/1 § 2 Absatz 1 desselben Gesetzbuches erwähnt, der in Ausführung dieser Anleihe im Besteuerungszeitraum 
+als Werbungskosten berücksichtigt worden ist oder in die Gewinne des Besteuerungszeitraums einbezogen 
+worden ist.Der Steuerpflichtige hält alle Verträge oder andere Belege in Bezug auf diese Anleihen 
+und gegebenenfalls in Bezug auf die Änderungen, die diese Anleihen erfahren haben, zur Verfügung der 
+Verwaltung bereit und erklärt sich bereit, diese auf einfaches Verlangen vorzulegen.Der Steuerpflichtige 
+verpflichtet sich ebenfalls, folgende Belege zu sammeln und zur Verfügung der Verwaltung bereitzuhalten 
+und sie auf einfaches Verlangen vorzulegen:- eine oder mehrere Unterlagen zum Nachweis dafür, 
+dass das in Absatz 2 erster Gedankenstrich erwähnte Projekt gemäß den Rechtsvorschriften über öffentliche 
+Aufträge infolge eines Wettbewerbsaufrufs vergeben worden ist,- eine oder mehrere Unterlagen 
+zum Nachweis dafür, dass das in Absatz 2 erster Gedankenstrich erwähnte Projekt, die mit diesem Projekt 
+verbundenen Fremdkapitalkosten und die infolge dieses Projekts verwirklichten Aktiva und erzielten Gewinne 
+alle in der Europäischen Union gelegen sind.Unterabschnitt 3 - Besondere Regeln, die anwendbar 
+sind, falls der Steuerpflichtige Teil einer Unternehmensgruppe istArt. 734/11 
+- § 1 - Falls der Steuerpflichtige Teil einer Unternehmensgruppe ist, der mindestens eine in Artikel 
+198/1 § 3 Absatz 3 zweiter Gedankenstrich desselben Gesetzbuches erwähnte Gesellschaft oder Niederlassung 
+angehört, wird der in Artikel 198/1 § 3 Absatz 2 desselben Gesetzbuches erwähnte EBITDA-Betrag 
+des Steuerpflichtigen gemäß den Bestimmungen des vorliegenden Artikels angepasst.Das 
+EBITDA wird um die Werbungskosten erhöht, die den in Absatz 1 erwähnten Gesellschaften oder Niederlassungen 
+geschuldet werden und keine in Artikel 198/1 § 2 desselben Gesetzbuches erwähnten Zinsen oder 
+Kosten sind, die wirtschaftlich gleichwertig mit Zinsen sind.Das EBITDA wird um die Einkünfte 
+verringert, die von den in Absatz 1 erwähnten Gesellschaften oder Niederlassungen bezogen worden sind, 
+sofern diese Einkünfte im Ergebnis des Besteuerungszeitraums einbegriffen sind und diese Einkünfte keine 
+in Artikel 198/1 § 2 desselben Gesetzbuches erwähnten Zinsen oder Erträge sind, die wirtschaftlich 
+gleichwertig mit Zinsen sind.Absatz 3 ist nicht anwendbar:- wenn es sich um die in 
+Artikel 202 desselben Gesetzbuches erwähnten Einkünfte handelt, die gemäß den Artikeln 203 bis 
+205 desselben Gesetzbuches von den Gewinnen des laufenden Besteuerungszeitraums oder eines folgenden 
+Besteuerungszeitraums abgezogen werden können,- wenn es sich um die Gewinne handelt, die in 
+Ausführung eines gemäß den Rechtsvorschriften über öffentliche Aufträge infolge eines Wettbewerbsaufrufs 
+vergebenen Projekts einer öffentlich-privaten Partnerschaft erzielt werden, wenn Projektbetreiber, Fremdkapitalkosten, 
+Aktiva und Einkünfte alle in der Europäischen Union gelegen sind,- auf 85 Prozent der in den 
+Artikeln 205/2 und 205/3 desselben Gesetzbuches erwähnten Einkünfte des Besteuerungszeitraums, die gemäß 
+Artikel 205/1 desselben Gesetzbuches von den Gewinnen des laufenden Besteuerungszeitraums oder eines 
+folgenden Besteuerungszeitraums abgezogen werden können,- auf 80 Prozent der gemäß Artikel 
+543 desselben Gesetzbuches bestimmten Einkünfte aus Patenten, die für den Abzug von den Gewinnen des 
+Besteuerungszeitraums berücksichtigt werden. § 2 - Wenn der EBITDA-Betrag einer der 
+in § 1 Absatz 1 erwähnten Gesellschaften oder Niederlassungen negativ ist, wird dieser negative 
+Betrag auf den Steuerpflichtigen und die anderen in § 1 Absatz 1 erwähnten Gesellschaften und 
+Niederlassungen im Verhältnis zu der Höhe der positiven EBITDA-Beträge des Steuerpflichtigen und jeder 
+dieser Gesellschaften und Niederlassungen verteilt.In dem in Absatz 1 erwähnten Fall wird das 
+EBITDA des Steuerpflichtigen um den in Absatz 1 erwähnten Betrag, der dem Steuerpflichtigen zuerkannt 
+worden ist, verringert, bis zu einem Betrag, der nicht unter null liegen kann. § 3 - 
+In § 1 Absatz 1 erwähnte Gesellschaften und Niederlassungen können mit dem Steuerpflichtigen durch 
+Abschluss eines Vertrags, der die Bedingungen des vorliegenden Paragraphen erfüllt, vereinbaren, kollektiv 
+auf die Berechnung des EBITDA zu verzichten. In diesem Fall wird davon ausgegangen, dass das EBITDA des 
+Steuerpflichtigen und dieser Gesellschaften und Niederlassungen null beträgt.Dieser Vertrag 
+kann nur geschlossen werden, wenn:- der Steuerpflichtige und alle in Absatz 1 erwähnten Gesellschaften 
+und Niederlassungen am Vertrag teilnehmen und als Vertragsparteien dieses Vertrags identifiziert werden,- 
+sein Anwendungszeitraum durch Vermerk des Steuerjahres oder der Steuerjahre festgelegt wird, das beziehungsweise 
+die an die Besteuerungszeiträume gebunden ist/sind, auf die dieser Vertrag Anwendung findet,- 
+mindestens eine der Vertragsparteien diesen Vertrag der Erklärung in Bezug auf das Steuerjahr, auf das 
+dieser Vertrag Anwendung findet, beifügt.Der für Finanzen zuständige Minister oder sein Beauftragter 
+legt das Muster des in vorliegendem Paragraphen erwähnten Vertrags fest.Art. 734/12 
+- § 1 - Falls der Steuerpflichtige Teil einer Unternehmensgruppe ist, der mindestens eine in Artikel 
+198/1 § 3 Absatz 3 zweiter Gedankenstrich desselben Gesetzbuches erwähnte Gesellschaft oder Niederlassung 
+angehört, wird der in Artikel 198/1 § 3 Absatz 1 Buchstabe a) desselben Gesetzbuches erwähnte 
+Betrag für den Steuerpflichtigen wie folgt festgelegt:1. Der in Artikel 198/1 § 3 Absatz 
+1 Buchstabe a) desselben Gesetzbuches erwähnte Betrag wird gegebenenfalls um 30 Prozent der Summe der 
+gemäß Artikel 734/11 festgelegten EBITDA des Steuerpflichtigen und jeder der vorerwähnten 
+anderen Gesellschaften oder Niederlassungen verringert.2. Anschließend wird für den Steuerpflichtigen 
+und jede vorerwähnte Gesellschaft und Niederlassung die Plusdifferenz zwischen den überschüssigen Fremdkapitalkosten 
+einerseits und 30 Prozent des gemäß Artikel 734/11 festgelegten EBITDA andererseits 
+festgelegt.3. Der gemäß Nr. 1 festgelegte Betrag wird danach proportional auf den Steuerpflichtigen 
+und jede vorerwähnte Gesellschaft und Niederlassung je nach der Höhe des gemäß Nr. 2 festgelegten 
+Betrags verteilt.4. Der Grenzbetrag des Steuerpflichtigen wird durch Addition von 30 Prozent 
+des gemäß Artikel 734/11 festgelegten EBITDA mit dem gemäß Nr. 3 festgelegten 
+Betrag festgelegt.Für die Anwendung von Absatz 1 wird davon ausgegangen, dass das gemäß 
+Artikel 734/11 festgelegte EBITDA des Steuerpflichtigen und jeder vorerwähnten anderen 
+Gesellschaft oder Niederlassung null beträgt, wenn dieser Betrag ein negativer Betrag ist. 
+§ 2 - Der Steuerpflichtige, der einen in Artikel 734/11 § 3 erwähnten 
+Vertrag geschlossen hat, kann von § 1 abweichen, indem er in diesem Vertrag eine gleichmäßige 
+Verteilung des in Artikel 198/1 § 3 Absatz 1 Buchstabe a) desselben Gesetzbuches erwähnten Betrags 
+auf die Vertragsparteien vorsieht.Bei Anwendung von Absatz 1 wird der in Artikel 198/1 § 
+ 3 Absatz 1 Buchstabe a) desselben Gesetzbuches erwähnte Betrag für den Steuerpflichtigen mit einem Bruch 
+multipliziert, dessen Zähler eins beträgt und dessen Nenner der Anzahl Vertragsparteien entspricht.Unterabschnitt 
+4 - Festlegung des Musters der Aufstellung für die Steuerbefreiung der überschüssigen Fremdkapitalkosten, 
+die in einem vorhergehenden Besteuerungszeitraum nicht als Werbungskosten in Betracht gekommen sind, 
+und des ZinsabzugsvertragsArt. 734/13 - Das Muster der in Artikel 194sexies 
+Absatz 3 des Einkommensteuergesetzbuches 1992 erwähnten Aufstellung wird von dem für Finanzen zuständigen 
+Minister oder seinem Beauftragten festgelegt.In dieser Aufstellung werden folgende Beträge 
+angegeben:1. nicht als Werbungskosten in Betracht kommende überschüssige Fremdkapitalkosten, 
+die aus dem vorhergehenden Besteuerungszeitraum vorgetragen wurden,2. in Artikel 198/1 § 
+2 desselben Gesetzbuches erwähnte überschüssige Fremdkapitalkosten,3. der in Artikel 198/1 
+§ 3 desselben Gesetzbuches erwähnte Grenzbetrag,4. gegebenenfalls in Anwendung von Artikel 
+194sexies desselben Gesetzbuches steuerfreie Gewinne, die einerseits den in Nr. 1 erwähnten Betrag nicht 
+übersteigen können und andererseits die Plusdifferenz zwischen dem in Nr. 3 erwähnten Betrag und dem 
+in Nr. 2 erwähnten Betrag nicht übersteigen können,5. auf einen folgenden Besteuerungszeitraum 
+vorzutragende nicht als Werbungskosten in Betracht kommende überschüssige Fremdkapitalkosten, die entweder 
+durch Erhöhung des in Nr. 1 erwähnten Betrags um die Plusdifferenz zwischen den in Nr. 2 erwähnten überschüssigen 
+Fremdkapitalkosten und dem in Nr. 3 erwähnten Grenzbetrag oder durch Verringerung des in Nr. 1 erwähnten 
+Betrags um die in Nr. 4 erwähnten steuerfreien Gewinne festgelegt werden.Art. 734/14 
+- Das Muster des in Artikel 198/1 § 5 desselben Gesetzbuches erwähnten Zinsabzugsvertrags wird 
+von dem für Finanzen zuständigen Minister oder seinem Beauftragten festgelegt."KAPITEL 2 - 
+Abzug des KonzernbeitragsArt. 3 - In Kapitel 1 des KE/EStGB 92 wird ein Abschnitt 27quater/1, 
+der Artikel 734quater/1 umfasst, mit folgendem Wortlaut eingefügt:"Abschnitt 
+27quater/1 - Abzug des KonzernbeitragsArt. 734quater/1 - 
+Das Muster des in Artikel 205/5 § 5 des Einkommensteuergesetzbuches 1992 erwähnten Konzernbeitragsvertrags 
+wird von dem für Finanzen zuständigen Minister oder seinem Beauftragten festgelegt."KAPITEL 
+3 - Inkrafttreten, Übergangsbestimmungen und AusführungsmaßnahmenArt. 4 - Solange das 
+Gesetz vom 23. März 2019 zur Einführung des Gesetzbuches der Gesellschaften und Vereinigungen und zur 
+Festlegung verschiedener Bestimmungen nicht anwendbar ist, müssen die in Artikel 734/8 
+des KE/EStGB 92 enthaltenen Verweise auf die Artikel 3:16, 3:45 und 3:55 des Königlichen Erlasses vom 
+29. April 2019 zur Ausführung des Gesetzbuches der Gesellschaften und Vereinigungen als Verweise auf 
+die Artikel 38, 67 beziehungsweise 77 des Königlichen Erlasses vom 30. Januar 2001 zur Ausführung des 
+Gesellschaftsgesetzbuches gelesen werden.Art. 5 - Vorliegender Königlicher Erlass ist ab dem 
+Steuerjahr 2020 für Besteuerungszeiträume, die frühestens am 1. Januar 2019 beginnen, anwendbar.Art. 
+6 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 20. Dezember 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-11Numac : 2021033410
+

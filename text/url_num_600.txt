@@ -1,0 +1,73 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2021042347/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-28Numac : 2021042347
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 20 DECEMBER 2019. - Wet tot wijziging van de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen ter omzetting van richtlijn (EU) 2019/475. - Duitse vertaling 
+De hierna volgende 
+tekst is de Duitse vertaling van de wet van 20 december 2019 tot wijziging van de wet van 22 december 
+2009 betreffende de algemene regeling inzake accijnzen ter omzetting van richtlijn (EU) 2019/475 (Belgisch 
+Staatsblad van 24 december 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN20. DEZEMBER 
+2019 - Gesetz zur Abänderung des Gesetzes vom 22. Dezember 2009 über die allgemeine Akzisenregelung zur 
+Umsetzung der Richtlinie (EU) 2019/475PHILIPPE, Konig der Belgier, Allen Gegenwartigen und 
+Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren 
+es:Artikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 
+2 - Vorliegendes Gesetz dient der Teilumsetzung der Richtlinie (EU) 2019/475 des Rates vom 18. Februar 
+2019 zur Änderung der Richtlinien 2006/112/EG und 2008/118/EG hinsichtlich der Aufnahme der italienischen 
+Gemeinde Campione d'Italia und des zum italienischen Gebiet gehörenden Teils des Luganer Sees in das 
+Zollgebiet der Union und in den räumlichen Anwendungsbereich der Richtlinie 2008/118/EG.Art. 
+3 - In Artikel 5 § 1 Nr. 4 Buchstabe b) des Gesetzes vom 22. Dezember 2009 über die allgemeine 
+Akzisenregelung werden der vorletzte und der letzte Gedankenstrich aufgehoben.Art. 4 - Vorliegendes 
+Gesetz tritt am 1. Januar 2020 in Kraft.Wir fertigen das vorliegende Gesetz aus und ordnen 
+an, dass es mit dem Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben 
+zu Brüssel, den 20. Dezember 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der Minister 
+der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-28Numac : 2021042347
+

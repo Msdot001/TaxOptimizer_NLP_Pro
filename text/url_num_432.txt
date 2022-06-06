@@ -1,0 +1,57 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/11/03/2021020393/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-25Numac : 2021020393
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 3 NOVEMBER 2019. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2019/475 en richtlijn (EU) 2018/1910. - Duitse vertaling 
+De hierna 
+volgende tekst is de Duitse vertaling van de wet van 3 november 2019 tot wijziging van het Wetboek van 
+de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2019/475 en richtlijn (EU) 2018/1910 
+(Belgisch Staatsblad van 13 november 2019, err. van 27 december 2019).  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-25Numac : 2021020393
+

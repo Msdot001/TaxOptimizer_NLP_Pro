@@ -1,0 +1,294 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/03/05/2022020475/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-14Numac : 2022020475
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 5 MAART 2022. - Koninklijk besluit houdende wijziging van het koninklijk besluit van 28 oktober 2021 houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19 pandemie te voorkomen of te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het 
+koninklijk besluit van 5 maart 2022 houdende wijziging van het koninklijk besluit van 28 oktober 2021 
+houdende de nodige maatregelen van bestuurlijke politie teneinde de gevolgen voor de volksgezondheid 
+van de afgekondigde epidemische noodsituatie betreffende de coronavirus COVID-19 pandemie te voorkomen 
+of te beperken (Belgisch Staatsblad van 5 maart 2022).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST INNERES5. 
+MÄRZ 2022 - Königlicher Erlass zur Abänderung des Königlichen Erlasses vom 28. Oktober 2021 über die 
+verwaltungspolizeilichen Maßnahmen, die erforderlich sind, um die Folgen der ausgerufenen epidemischen 
+Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19 für die Volksgesundheit zu verhindern 
+oder einzuschränkenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser 
+Gruß!Aufgrund der Verfassung, des Artikels 108;Aufgrund des Gesetzes vom 14. 
+August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation, der Artikel 
+4 § 1 Absatz 1, 5 § 1 und 6;Aufgrund des Gesetzes vom 10. November 2021 zur Bestätigung 
+des Königlichen Erlasses vom 28. Oktober 2021 zur Ausrufung der epidemischen Notsituation in Bezug auf 
+die Pandemie des Coronavirus COVID-19;Aufgrund des Gesetzes vom 11. Februar 2022 zur Bestätigung 
+des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung der Aufrechterhaltung der epidemischen Notsituation 
+in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund des Königlichen Erlasses vom 28. 
+Oktober 2021 zur Ausrufung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund 
+des Königlichen Erlasses vom 27. Januar 2022 zur Erklärung der Aufrechterhaltung der epidemischen Notsituation 
+in Bezug auf die Pandemie des Coronavirus COVID-19;Aufgrund des Königlichen Erlasses vom 28. 
+Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die erforderlich sind, um die Folgen 
+der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19 für die 
+Volksgesundheit zu verhindern oder einzuschränken;Aufgrund der Konzertierung vom 28. Februar 
+2022, wie in Artikel 4 § 1 Absatz 1 des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche 
+Maßnahmen in einer epidemischen Notsituation erwähnt;Aufgrund der Konzertierung vom 4. 
+März 2022 im Konzertierungsausschuss;Aufgrund der Befreiung von der Auswirkungsanalyse, die 
+in Artikel 8 § 2 Nr. 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung verschiedener Bestimmungen 
+in Sachen administrative Vereinfachung erwähnt ist;Aufgrund der Stellungnahme des Finanzinspektors 
+vom 4. März 2022;Aufgrund des Einverständnisses des Staatssekretärs für Haushalt vom 4. März 
+2022;Aufgrund der am 4. März 2022 abgegebenen Stellungnahme der Minister, die im Rat darüber 
+beraten haben;Aufgrund der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat, des 
+Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit;In der Erwägung, dass es 
+nicht möglich ist, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Werktagen (die auf acht Werktage ausgeweitet werden kann, wenn der Begutachtungsantrag 
+der Generalversammlung vorgelegt wird, was in der Praxis eine Frist von etwa zwei Wochen bedeutet) abzuwarten, 
+insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, die sich auf die sich stark entwickelnden 
+epidemiologischen Ergebnisse stützen, wobei die jüngsten Ergebnisse die auf der Sitzung des Konzertierungsausschusses 
+vom 4. März 2022 beschlossenen Maßnahmen gerechtfertigt haben; dass die Maßnahmen, die ein 
+zusammenhängendes Ganzes bilden, erhebliche Auswirkungen auf die Rechte und Freiheiten haben und dass 
+es daher wichtig ist, diejenigen Maßnahmen, die aufgrund der epidemiologischen Umstände nicht mehr 
+gerechtfertigt sind, nicht länger als notwendig aufrechtzuerhalten;In Erwägung der Europäischen 
+Konvention zum Schutz der Menschenrechte und Grundfreiheiten, des Artikels 2, der das Recht auf Leben 
+schützt;In Erwägung des Vertrags über die Arbeitsweise der Europäischen Union, des Artikels 
+191, in dem das Prinzip der Vorsorge im Rahmen der Bewältigung einer internationalen Gesundheitskrise 
+und der aktiven Vorbereitung auf einen möglichen Krisenfall verankert ist; dass dieses Prinzip voraussetzt, 
+dass die öffentlichen Behörden bei der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich eintreten 
+wird, dringende und vorläufige Schutzmaßnahmen ergreifen müssen;In Erwägung des Artikels 
+6 Absatz 1 Buchstabe c) und e) der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates 
+vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum 
+freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In Erwägung der Verfassung, des 
+Artikels 23;In Erwägung der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden 
+Beschränkung nicht unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung dieser Beschränkung, 
+abgeändert am 22. Februar 2022;In Erwägung der Empfehlung des Rates vom 21. Januar 2021 für 
+einen einheitlichen Rahmen für den Einsatz und die Validierung von Antigen-Schnelltests und die gegenseitige 
+Anerkennung der Ergebnisse von COVID-19-Tests in der EU;In Erwägung der Verordnung (EU) 2021/953 
+des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung 
+und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie 
+der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der 
+Erleichterung der Freizügigkeit während der COVID-19-Pandemie;In Erwägung der Verordnung (EU) 
+2021/954 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, 
+Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests 
+sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) für Drittstaatsangehörige 
+mit rechtmäßigem Aufenthalt oder Wohnsitz im Hoheitsgebiet der Mitgliedstaaten während der COVID-19-Pandemie;In 
+Erwägung der delegierten Verordnung (EU) 2021/2288 der Europäischen Kommission vom 21. Dezember 2021 
+zur Änderung des Anhangs der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates hinsichtlich 
+des Anerkennungszeitraums von Impfzertifikaten, die im Format des digitalen COVID-Zertifikats der EU 
+ausgestellt werden und den Abschluss der ersten Impfserie bescheinigen;In Erwägung der Empfehlung 
+(EU) 2022/107 des Rates der Europäischen Union vom 25. Januar 2022 für eine koordinierte Vorgehensweise 
+zur Erleichterung der sicheren Ausübung der Freizügigkeit während der COVID-19-Pandemie und zur Ersetzung 
+der Empfehlung (EU) 2020/1475;In Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 
+zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen 
+Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame Verarbeitung von 
+Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von den zuständigen Agenturen 
+bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams im Rahmen einer Kontaktermittlung 
+bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen auf der Grundlage einer Datenbank 
+bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens 
+vom 25. August 2020;In Erwägung des Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem 
+Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen Gemeinschaft 
+und der Gemeinsamen Gemeinschaftskommission über die Übermittlung notwendiger Daten an die föderierten 
+Teilgebiete, die lokalen Behörden oder die Polizeidienste zur Durchsetzung der verpflichteten Quarantäne 
+oder der verpflichteten Tests von Reisenden aus dem Ausland, die bei ihrer Ankunft in Belgien einer verpflichteten 
+Quarantäne oder Untersuchung unterliegen;In Erwägung des Gesetzes vom 8. April 2021 zur Billigung 
+des vorerwähnten Zusammenarbeitsabkommens vom 24. März 2021;In Erwägung des Zusammenarbeitsabkommens 
+vom 31. Mai 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, 
+der Wallonischen Region und der Gemeinsamen Gemeinschaftskommission über besondere Verarbeitungen personenbezogener 
+Daten zur Rückverfolgung und Untersuchung von Clustern und Personengemeinschaften, zur Durchsetzung der 
+Quarantäne- und Testpflicht sowie zur Überwachung der Einhaltung von Maßnahmen zur Eindämmung der 
+Ausbreitung des Coronavirus COVID-19 am Arbeitsplatz durch die zuständigen Sozialinspektoren;In 
+Erwägung des Gesetzes vom 20. Juni 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 31. 
+Mai 2021;In Erwägung des Königlichen Erlasses vom 31. Januar 2003 zur Festlegung des Noteinsatzplans 
+für Krisenereignisse und Krisensituationen, die eine Koordination oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung 
+und die Bewältigung von Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister 
+und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder 
+eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 
+13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements 
+in Bezug auf das Coronavirus COVID-19;In Erwägung der Protokolle, die von den zuständigen Ministern 
+in Konzertierung mit den betreffenden Sektoren bestimmt werden;In Erwägung der Erklärung der 
+WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit 
+und des Sterberisikos;In Erwägung der am 11. März 2020 von der WHO vorgenommenen Qualifizierung 
+des Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die WHO am 16. März 2020 die höchste 
+Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das die Weltwirtschaft destabilisiert 
+und sich rasch in der Welt ausbreitet;In Erwägung der einleitenden Rede des Generaldirektors 
+der WHO vom 12. Oktober 2020, in der er deutlich gemacht hat, dass das Virus hauptsächlich zwischen engen 
+Kontakten übertragen wird und zu Ausbrüchen der Epidemie führt, die durch die Umsetzung gezielter Maßnahmen 
+eingedämmt werden könnten;In Erwägung der Veröffentlichung der WHO Europa vom 25. November 
+2021, nach der gesundheitliche und soziale Maßnahmen ein normales Leben ermöglichen, während das 
+COVID-19-Coronavirus unter Kontrolle gehalten wird und umfangreiche und schädigende Lockdown-Maßnahmen 
+vermieden werden; dass eine zunehmende Anzahl von Studien die Wirkung einer Reihe von Präventionsmaßnahmen 
+wie regelmäßiges Händewaschen, körperliche Distanzwahrung, Tragen von Masken und Belüftung belegt 
+und dass jede dieser Maßnahmen als solche wichtig ist, dass aber in Kombination mit anderen Maßnahmen, 
+insbesondere Impfungen, ihre Wirkung vervielfacht wird;In Erwägung der Erklärung des Regionaldirektors 
+der WHO für Europa vom 3. Februar 2022, in der festgestellt wird, dass in der vergangenen Woche 12 Millionen 
+neue Fälle von COVID-19 registriert wurden, die höchste wöchentliche Fallinzidenz seit Beginn der Pandemie; 
+dass diese Fälle hauptsächlich auf die leicht übertragbare Omikron-Variante zurückzuführen sind, wenn 
+auch mit geringerem Schweregrad; dass die Zahl der Krankenhauseinweisungen weiter steigt, insbesondere 
+bei anfälligen Bevölkerungsgruppen in Staaten mit geringerer Durchimpfung; dass die Zahl der Krankenhauseinweisungen 
+jedoch nicht so schnell steigt wie die Fallinzidenz; dass die Zahl der Aufnahmen in den Intensivstationen 
+nicht wesentlich zugenommen hat und dass die Zahl der Todesfälle in der Region abzuflachen beginnt;In 
+Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Barometers, 
+das auf der Sitzung des Konzertierungsausschusses vom 21. Januar 2022 als Instrument zur Kommunikation 
+und zur strukturierten und proaktiven Politikvorbereitung im Bereich der Gesundheitsmaßnahmen gebilligt 
+wurde;In Erwägung der COVID-19-Risikobewertung der RAG vom 12. Januar 2022, die zu dem Schluss 
+kommt, dass die konstitutiven Kriterien für eine epidemische Notsituation im Sinne des Gesetzes vom 14. 
+August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation erfüllt sind;In 
+Erwägung der Beurteilung der epidemiologischen Situation der RAG vom 9. Februar 2022, aus der hervorgeht, 
+dass der Höhepunkt der fünften Welle der Pandemie erreicht worden zu sein scheint;In Erwägung 
+der Gutachten der Expertengruppe für die COVID-19-Managementstrategie (GEMS) vom 20. und 24. Oktober 
+2021, vom 14. und 25. November 2021, vom 2. und 21. Dezember 2021, vom 14. Januar 2022 und vom 10. und 
+28. Februar 2022, zu der ebenfalls in Artikel 4 §  1 Absatz 1 des Gesetzes vom 14. August 2021 
+über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation erwähnte Sachverständige 
+gehören; dass in diesen Gutachten erläutert wird, welche Maßnahmen ergriffen werden müssen und 
+warum; dass in diesen Gutachten die Notwendigkeit, Angemessenheit und Verhältnismäßigkeit der im 
+vorliegenden Königlichen Erlass aufgeführten Maßnahmen dargelegt wird; dass die wesentlichen Elemente 
+dieser Gutachten in ihren Grundzügen in die nachstehenden Erwägungsgründe aufgenommen werden;In 
+Erwägung der Stellungnahme des Ministers der Volksgesundheit vom 21. Januar 2022;In Erwägung 
+der Stellungnahmen des COVID-19-Kommissariats vom 25. Oktober 2021, 11. November 2021, 16. Dezember 2021 
+und 19. Januar 2022 in Bezug auf das Vorhandensein oder Nichtvorhandensein einer epidemischen Notsituation 
+gemäß den Kriterien des Pandemiegesetzes;In Erwägung der konsolidierten Stellungnahme 
+des COVID-19-Kommissariats vom 28. Februar 2022, die sich auf die in der RMG besprochene Stellungnahme 
+der RAG vom 28. Februar 2022 stützt, und der Stellungnahme des Ministers der Volksgesundheit vom 3. März 
+2022, aus der hervorgeht, dass sich die epidemiologische Situation in unserem Land positiv entwickelt;In 
+Erwägung des epidemiologischen Berichts von Sciensano vom 4. März 2022;In der Erwägung, dass 
+der Tagesdurchschnitt der festgestellten Neuansteckungen mit dem Coronavirus COVID-19 in Belgien in den 
+letzten sieben Tagen stark gesunken ist auf 6 011 bestätigte positive Fälle;In der Erwägung, 
+dass die Positivitätsrate ebenfalls auf 19,1 Prozent gesunken ist;In der Erwägung, dass die 
+Inzidenz am 1. März 2022 im 14-Tage-Mittel 864 pro 100 000 Einwohner beträgt;In der Erwägung, 
+dass die Reproduktionsrate, basierend auf der Zahl der neuen Krankenhausaufnahmen, 0,829 beträgt;In 
+der Erwägung, dass am 3. März 2022 insgesamt 2 108 COVID-19-Patienten in belgischen Krankenhäusern behandelt 
+wurden, was einem Rückgang von 19 Prozent auf Wochenbasis entspricht; dass am selben Tag insgesamt 227 
+Patienten auf Intensivstationen lagen, was einem Rückgang von 16 Prozent auf Wochenbasis entspricht;In 
+der Erwägung, dass die lange Dauer der Pandemie ebenfalls Auswirkungen auf die Anzahl der verfügbaren 
+Betten auf den Intensivstationen durch den Mangel an Pflegepersonal hat; dass ungefähr 199 dieser Betten 
+durch den Ausfall von Pflegepersonal aufgrund des Coronavirus COVID-19 oder anderer (psychosozialer) 
+Gesundheitsprobleme nicht verfügbar sind;In der Erwägung, dass die Gesamtzahl der Todesfälle 
+pro Woche in der letzten Woche um 36 Prozent auf durchschnittlich 22,1 Todesfälle pro Tag gesunken ist;In 
+der Erwägung, dass die Zirkulation des Virus rückläufig ist; dass die Zahl der neuen Krankenhausaufnahmen 
+in der letzten Woche um 27 Prozent zurückgegangen ist;In der Erwägung, dass trotzdem immer 
+noch bestimmte Maßnahmen zum Schutz der Bevölkerung und zur Verringerung des Drucks auf das Gesundheitspflegesystem, 
+einschließlich der Primärpflege, erforderlich sind;In Erwägung der vom Coronavirus COVID-19 
+ausgehenden Gesundheitsgefahr für die Bevölkerung und der daraus entstehenden Dringlichkeit;In 
+der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und 
+die Atemwege befällt; dass das Coronavirus COVID-19 von Mensch zu Mensch über den Luftweg übertragen 
+wird; dass die Übertragung der Krankheit scheinbar auf alle möglichen Verbreitungsarten durch Mund und 
+Nase erfolgt;In der Erwägung, dass die Hygienemaßnahmen unerlässlich bleiben, zum Beispiel 
+die besondere Beachtung der Hygienemaßnahmen beim Niesen und Husten, Handhygiene und Desinfizierung 
+des verwendeten Materials;In der Erwägung, dass im Hinblick auf die Einhaltung aller Gesundheitsempfehlungen 
+noch immer an das Verantwortungsbewusstsein und die Solidarität jedes Bürgers appelliert wird;In 
+der Erwägung, dass das Tragen einer Maske eine wichtige Rolle bei der Eindämmung der Ausbreitung des 
+Virus und beim Schutz der Gesundheit von Personen spielt; dass das Tragen einer Maske daher in den Innenbereichen 
+öffentlicher Verkehrsmittel weiterhin Pflicht ist; dass das Tragen einer Maske zudem empfohlen bleibt, 
+insbesondere in Innenräumen, in allen Situationen, in denen die Regeln des Social Distancing nicht eingehalten 
+werden können, an stark frequentierten Orten, in Bereichen, in denen Mitarbeiter engen Kontakt zur Öffentlichkeit 
+haben (zum Beispiel im Sektor der Dienstleistungsschecks, in der Hauspflege usw.), sowie in organisierten 
+gemeinschaftlichen Beförderungsmitteln und im von Privatunternehmen (unter anderem Fluggesellschaften 
+und Reisebusunternehmen) organisierten Personenverkehr;In der Erwägung, dass angesichts der 
+günstigen Gesundheitslage die meisten der geltenden Gesundheitsmaßnahmen aufgehoben werden können;In 
+der Erwägung, dass dennoch bestimmte Maßnahmen beibehalten werden müssen, insbesondere die Maskenpflicht 
+in öffentlichen Verkehrsmitteln gemäß dem Gutachten der GEMS vom 28. Februar 2022, und zwar unter 
+anderem in Anbetracht der Aufhebung der Empfehlung zum Homeoffice und der dadurch entstehenden verstärkten 
+Nutzung der öffentlichen Verkehrsmittel; dass es ebenfalls erforderlich ist, bestimmte Präventionsmaßnahmen 
+am Arbeitsplatz gemäß dem allgemeinen Leitfaden beizubehalten;In der Erwägung, dass es 
+letztendlich ebenfalls notwendig ist, Reisebeschränkungen aufrechtzuerhalten, um sowohl die Zahl der 
+Ansteckungen als auch die Ausbreitung neuer Varianten auf belgischem Staatsgebiet unter Kontrolle zu 
+halten; dass der internationale Reiseverkehr zur Ausbreitung bekannter und unbekannter Varianten des 
+Virus führen kann und daher eine rasche Überwachung der erlassenen Gesundheitsvorschriften erfordert; 
+dass dies außerdem aus der koordinierten Vorgehensweise der Europäischen Union hervorgeht;In 
+der Erwägung, dass beim Ergreifen der vorliegenden Maßnahmen insbesondere die Auswirkungen der 
+Anwendung dieser Maßnahmen auf schutzbedürftige Personen und Gruppen berücksichtigt wurden, die 
+aufgrund ihres Gesundheitszustands oder ihrer persönlichen oder beruflichen Situation größeren 
+Schwierigkeiten ausgesetzt sind, die Gesundheitsmaßnahmen einzuhalten oder sich diesen Maßnahmen 
+zu unterwerfen; dass eine Ausnahme von der Maskenpflicht für Personen vorgesehen ist, die aus medizinischen 
+Gründen oder aufgrund einer Beeinträchtigung keine Maske oder keinen Gesichtsschutzschirm tragen können; 
+dass schutzbedürftigen Personen das Tragen von FFP2-Masken, die einen besseren Schutz gegen das Virus 
+bieten, empfohlen wird;In der Erwägung, dass die noch geltenden Maßnahmen zum Schutz 
+der Bevölkerung und zur Fortsetzung der Impfkampagne erforderlich sind; dass angesichts der aktuellen 
+epidemischen Situation die noch geltenden Maßnahmen angemessen, notwendig und verhältnismäßig 
+sind; dass die Gesundheitslage regelmäßig bewertet wird; dass dies bedeutet, dass strengere Maßnahmen 
+nie ausgeschlossen sind;In der Erwägung, dass angesichts aller vorerwähnten Erwägungen alle 
+im vorliegenden Erlass vorgesehenen verwaltungspolizeilichen Maßnahmen notwendig, angemessen und 
+verhältnismäßig sind, um das Recht der Bevölkerung auf Leben und Gesundheit zu schützen und folglich 
+die Ausbreitung des Coronavirus COVID-19 einzudämmen, und dass sie im Hinblick auf dieses Ziel und die 
+Entwicklung der epidemiologischen Situation in Belgien verhältnismäßig sind;Auf Vorschlag 
+der Ministerin des Innern und aufgrund der Stellungnahme der Minister, die im Rat darüber beraten haben,Haben 
+Wir beschloßen und erlassen Wir:Artikel 1 - In Artikel 1 des Königlichen Erlasses vom 
+28. Oktober 2021 über die verwaltungspolizeilichen Maßnahmen, die erforderlich sind, um die Folgen 
+der ausgerufenen epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19 für die 
+Volksgesundheit zu verhindern oder einzuschränken, werden aufgehoben:1. die in Nr. 2 erwähnte 
+Bestimmung,2. die in Nr. 13 erwähnte Bestimmung,3. die in Nr. 18 erwähnte Bestimmung,4. 
+die in den Nummern 20 bis 22 erwähnten Bestimmungen,5. die in Nr. 24 erwähnte Bestimmung,6. 
+die in den Nummern 26 bis 29 erwähnten Bestimmungen.Art. 2 - Artikel 1bis desselben Erlasses 
+wird aufgehoben.Art. 3 - Artikel 2 desselben Erlasses wird wie folgt abgeändert:1. 
+Paragraph 1 wird aufgehoben.2. In § 2 Absatz 1 werden die Wörter "In § 1 erwähnte" 
+aufgehoben.3. In § 2 Absatz 2 werden die Wörter "zur Eindämmung der Ausbreitung von 
+COVID-19 am Arbeitsplatz" aufgehoben.4. Paragraph 3 wird wie folgt ersetzt:" § 
+3 - Die Sozialinspektoren der Generaldirektion Kontrolle des Wohlbefindens bei der Arbeit des Föderalen 
+Öffentlichen Dienstes Beschäftigung, Arbeit und Soziale Konzertierung sind beauftragt, Arbeitgeber und 
+Personalmitglieder der Unternehmen, Vereinigungen und Dienste zu informieren und zu begleiten und gemäß 
+dem Sozialstrafgesetzbuch für die Einhaltung der dort geltenden Verpflichtungen gemäß Paragraph 
+2 zu sorgen."Art. 4 - In demselben Erlass werden aufgehoben:1. Kapitel 3, das die 
+Artikel 4 bis 9 umfasst,2. Kapitel 4, das die Artikel 10 und 11 umfasst,3. Kapitel 
+5, das die Artikel 12 und 12bis umfasst.Art. 5 -  Artikel 14 desselben Erlasses wird wie folgt 
+ersetzt:"Art. 14 - § 1 - Ab dem Alter von 12 Jahren ist jeder verpflichtet, in Bussen, 
+Untergrundstraßenbahnen ("pré-métro"), U-Bahnen, Straßenbahnen und Zügen, was die Innenbereiche 
+betrifft, Mund und Nase mit einer Maske zu bedecken.In Abweichung von Absatz 1 ist das Fahrpersonal 
+der öffentlichen Verkehrsgesellschaften und von Busunternehmen, wenn sie Dienstleistungen des öffentlichen 
+Verkehrs erbringen, nicht verpflichtet, Mund und Nase zu bedecken, sofern einerseits der Fahrer gut isoliert 
+in einer Kabine ist und andererseits ein Plakat und/oder Aufkleber den Benutzern den Grund anzeigt, warum 
+der Fahrer keine Maske trägt. § 2 - Die Maske darf gelegentlich zum Essen und Trinken 
+abgenommen werden. § 3 - Ist das Tragen einer Maske aus medizinischen Gründen nicht 
+möglich, darf ein Gesichtsschutzschirm benutzt werden.Die in vorliegendem Artikel vorgesehenen 
+Verpflichtungen gelten nicht für Personen, die aufgrund einer durch ärztliches Attest bescheinigten Beeinträchtigung 
+nicht in der Lage sind, eine Maske oder einen Gesichtsschutzschirm zu tragen."Art. 6 - In demselben 
+Erlass werden aufgehoben:1. Artikel 20,2. die Artikel 22 und 23.Art. 7 
+-  Artikel 24 § 1 desselben Erlasses wird wie folgt ersetzt:" § 1 - Verstöße 
+gegen die Maßnahmen des vorliegenden Erlasses werden mit den in Artikel 6 § 1 des Gesetzes 
+vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen in einer epidemischen Notsituation vorgesehenen 
+Strafen geahndet, mit Ausnahme der in § 2 erwähnten Verstöße."Art. 8 - Vorliegender 
+Erlass tritt am 7. März 2022 in Kraft.Art. 9 - Der für Inneres zuständige Minister ist mit 
+der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 5. März 2022.PHILIPPEVon 
+Königs wegen:Die Ministerin des InnernA. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-14Numac : 2022020475
+

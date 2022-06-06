@@ -1,0 +1,572 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2020041027/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-12Numac : 2020041027
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 30 JULI 2018. - Wet houdende diverse bepalingen inzake inkomstenbelastingen. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de wet van 30 juli 2018 houdende diverse bepalingen 
+inzake inkomstenbelastingen (Belgisch Staatsblad van 10 augustus 2018).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN30. JULI 2018 - Gesetz zur Festlegung verschiedener Bestimmungen im Bereich 
+EinkommensteuernPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 1 - Allgemeine 
+BestimmungArtikel 1 - Vorliegendes Gesetz regelt eine in Artikel 74 der Verfassung erwähnte 
+Angelegenheit.KAPITEL 2 - Abänderungen des Einkommensteuergesetzbuches 1992Art. 2 
+- Artikel 21 des Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 25. Dezember 
+2017, wird wie folgt abgeändert:1. In Absatz 1 Nr. 14 werden die Wörter "416,50 EUR" durch 
+die Wörter "512,50 EUR" ersetzt.2. Der Artikel wird durch einen Absatz mit folgendem Wortlaut 
+ergänzt:"Der König ändert gegebenenfalls den in Absatz 1 Nr. 14 erwähnten Betrag, sodass er 
+sich nach Anwendung von Artikel 178 für die 2019 gezahlten oder zuerkannten Einkünfte auf 800 EUR beläuft. 
+Unbeschadet der Anwendung von Artikel 178 ist der so geänderte Betrag auf die ab dem 1. Januar 2019 gezahlten 
+oder zuerkannten Einkünfte anwendbar."Art. 3 - In Artikel 46 § 2 Absatz 1 desselben 
+Gesetzbuches, abgeändert durch die Gesetze vom 11. Dezember 2008, 26. Dezember 2015 und 9. Februar 2017, 
+werden zwischen den Wörtern "Abzüge für Einkünfte aus Innovationen," und dem Wort "Investitionsabzüge" 
+die Wörter "Abzüge für Risikokapital," eingefügt und werden die Wörter "in Bezug auf Aktiva, die der 
+ehemalige Steuerpflichtige abgetreten hat," durch die Wörter "in Bezug auf die bei ihm eingebrachten 
+Bestandteile" und die Wörter "diese Aktiva" durch die Wörter "diese Bestandteile" ersetzt.Art. 
+4 - Artikel 185quater desselben Gesetzbuches, eingefügt durch das Gesetz vom 8. Juni 2008 und abgeändert 
+durch die Gesetze vom 22. Dezember 2009, 18. Dezember 2015 und 26. Dezember 2015, wird aufgehoben.Art. 
+5 - In Artikel 194octies desselben Gesetzbuches, eingefügt durch das Gesetz vom 26. März 2018, werden 
+die Wörter "Artikel 51 Absatz 2 Nr. 5 kommt" durch die Wörter "Die Artikel 51 Absatz 2 Nr. 5 und 64ter 
+kommen" ersetzt.Art. 6 - Artikel 205ter desselben Gesetzbuches, eingefügt durch das Gesetz 
+vom 22. Juni 2005 und abgeändert durch die Gesetze vom 23. Dezember 2005, 22. Dezember 2009, 14. April 
+2011, 28. Juni 2013, 21. Dezember 2013 und 25. Dezember 2017, wird wie folgt abgeändert:1. 
+In § 1 Absatz 1 werden die Wörter "Paragraphen 2 bis 6" jeweils durch die Wörter "Paragraphen 
+2 bis 4" und die Wörter "am Ende" jeweils durch die Wörter "zu Beginn" ersetzt.2. In § 
+2 werden im einleitenden Satz die Wörter "am Ende" durch die Wörter "zu Beginn" ersetzt.3. 
+Paragraph 2 wird durch Nummern 7, 8 und 9 mit folgendem Wortlaut ergänzt:"7. den Nettosteuerwert 
+der Forderungen gegenüber einem in Artikel 227 erwähnten Steuerpflichtigen oder gegenüber einer ausländischen 
+Niederlassung, der/die in einem Land ansässig ist, mit dem Belgien keine Vereinbarung oder kein Abkommen 
+abgeschlossen hat und das nicht mit Belgien zu den Parteien eines anderen bilateralen oder multilateralen 
+Rechtsinstruments gehört, die/das den Informationsaustausch in Steuerangelegenheiten ermöglicht, außer 
+wenn die Gesellschaft nachweist, dass der Vorgang rechtmäßigen finanziellen oder wirtschaftlichen 
+Bedürfnissen entspricht,8. die Kapitaleinlagen, die von einem in Artikel 227 erwähnten Steuerpflichtigen 
+oder von einer ausländischen Niederlassung getätigt wurden, der/die in einem Land ansässig ist, mit dem 
+Belgien keine Vereinbarung oder kein Abkommen abgeschlossen hat und das nicht mit Belgien zu den Parteien 
+eines anderen bilateralen oder multilateralen Rechtsinstruments gehört, die/das den Informationsaustausch 
+in Steuerangelegenheiten ermöglicht, außer wenn die Gesellschaft nachweist, dass der Vorgang rechtmäßigen 
+finanziellen oder wirtschaftlichen Bedürfnissen entspricht,9. die Kapitaleinlagen, die von 
+einer verbundenen Gesellschaft getätigt wurden, wenn sie direkt oder indirekt auf Darlehen zurückzuführen 
+sind, die eine verbundene Gesellschaft aufgenommen hat und deren Zinsen sie als Kosten abzieht."4. 
+Paragraph 3 wird aufgehoben.5. Der heutige § 4 wird § 3.6. Der heutige 
+§ 5 wird § 4.Art. 7 - Artikel 205quinquies Absatz 3 desselben Gesetzbuches, wieder 
+aufgenommen durch das Gesetz vom 21. Dezember 2013 und ersetzt durch das Gesetz vom 25. Dezember 2017, 
+wird wie folgt abgeändert:1. In Nr. 1 werden die Wörter "vorbehaltlich der Bestimmungen von 
+Artikel 205ter §§ 2 bis 6 am Ende des Besteuerungszeitraums" durch die Wörter "vorbehaltlich 
+der Bestimmungen von Artikel 205ter §§ 2 bis 4 zu Beginn des Besteuerungszeitraums" ersetzt.2. 
+In Nr. 2 werden die Wörter "vorbehaltlich der Bestimmungen von Artikel 205ter §§ 2 bis 
+6 am Ende des fünften vorhergehenden Besteuerungszeitraums" durch die Wörter "vorbehaltlich der Bestimmungen 
+von Artikel 205ter §§ 2 bis 4 zu Beginn des fünften vorhergehenden Besteuerungszeitraums" 
+ersetzt.Art. 8 - Artikel 206 § 2 desselben Gesetzbuches, ersetzt durch das Gesetz vom 
+6. August 1993 und abgeändert durch die Gesetze vom 4. April 1995, 22. Dezember 1998, 11. Dezember 2008 
+und 25. Dezember 2017, wird wie folgt abgeändert:1. In Absatz 1 werden die Wörter "berufliche 
+Verluste, die die übernehmende oder begünstigte Gesellschaft vor dieser Einbringung oder Übernahme hatte" 
+durch die Wörter "berufliche Verluste und in Artikel 205 § 3 erwähnte Einkünfte, die die übernehmende 
+oder begünstigte Gesellschaft vor dieser Einbringung oder Übernahme noch nicht abziehen konnte" ersetzt.2. 
+In Absatz 2 werden die Wörter "berufliche Verluste, die eine übertragende Gesellschaft vor dieser Fusion 
+hatte" durch die Wörter "berufliche Verluste und in Artikel 205 § 3 erwähnte Einkünfte, die eine 
+übertragende Gesellschaft vor dieser Fusion noch nicht abziehen konnte" ersetzt.3. In Absatz 
+5 werden die Wörter "berufliche Verluste, die die übernehmende oder begünstigte Gesellschaft vor diesem 
+Vorgang hatte" durch die Wörter "berufliche Verluste und in Artikel 205 § 3 erwähnte Einkünfte, 
+die die übernehmende oder begünstigte Gesellschaft vor diesem Vorgang noch nicht abziehen konnte" ersetzt.4. 
+In Absatz 6 werden die Wörter "berufliche Verluste, die die übertragende, aufgespaltene oder einbringende 
+Gesellschaft vor diesem Vorgang in ihrer belgischen Niederlassung hatte" durch die Wörter "berufliche 
+Verluste und in Artikel 205 § 3 erwähnte Einkünfte, die die übertragende, aufgespaltene oder einbringende 
+Gesellschaft vor diesem Vorgang in ihrer belgischen Niederlassung noch nicht abziehen konnte" ersetzt.5. 
+Paragraph 2 wird durch einen Absatz mit folgendem Wortlaut ergänzt:"Für die Anwendung des vorliegenden 
+Paragraphen wird davon ausgegangen, dass die Einschränkung der Abzugsfähigkeit sich zuerst auf die beruflichen 
+Verluste und danach auf die in Artikel 205 § 3 erwähnten Einkünfte bezieht."Art. 9 - 
+Artikel 215 Absatz 3 Nr. 4 desselben Gesetzbuches, eingefügt durch das Gesetz vom 28. Dezember 1992 und 
+ersetzt durch das Gesetz vom 25. Dezember 2017, wird wie folgt abgeändert:1. Die Wörter "einem 
+ihrer Unternehmensleiter" werden durch die Wörter "einem Unternehmensleiter wie in Artikel 32 erwähnt" 
+ersetzt.2. Die Wörter "mindestens dem Ergebnis des Besteuerungszeitraums entsprechen" werden 
+durch die Wörter "dem steuerpflichtigen Einkommen der Gesellschaft entsprechen oder darüber liegen" ersetzt.Art. 
+10 - Artikel 217 Absatz 1 desselben Gesetzbuches, wieder aufgenommen durch das Gesetz vom 29. März 2012 
+und abgeändert durch die Gesetze vom 27. Dezember 2012, 12. Mai 2014, 19. Dezember 2014, 18. Dezember 
+2015, 3. August 2016 und 25. Dezember 2017, wird wie folgt abgeändert:1. In Nr. 1 werden die 
+Wörter "16,5 Prozent" durch die Wörter "12,5 Prozent" ersetzt.2. In Nr. 1 werden die Wörter 
+"12,5 Prozent" durch die Wörter "15 Prozent" ersetzt.Art. 11 - In Artikel 218 § 1 Absatz 
+1 desselben Gesetzbuches, abgeändert durch die Gesetze vom 30. Juli 2013 und 1. Dezember 2016 und teilweise 
+für nichtig erklärt durch Entscheid Nr. 24/2018 des Verfassungsgerichtshofes vom 1. März 2018, werden 
+die Wörter "Die gemäß den Artikeln 215bis 217 berechnete Steuer, ausschließlich des in Artikel 
+413/1 § 1 erwähnten Anteils der Steuer, wird" durch die Wörter "Die gemäß den Artikeln 215 
+bis 217 berechnete Steuer und die in Artikel 219quinquies erwähnte getrennte Steuer, ausschließlich 
+des in Artikel 413/1 § 1 erwähnten Anteils der Steuer, werden" ersetzt.Art. 12 - Artikel 
+219quinquies desselben Gesetzbuches, eingefügt durch das Gesetz vom 25. Dezember 2017, wird wie folgt 
+abgeändert:1. In § 1 Absatz 1 werden die Wörter "einem ihrer Unternehmensleiter wie 
+in Artikel 32 erwähnt" durch die Wörter "einem Unternehmensleiter wie in Artikel 32 erwähnt" ersetzt.2. 
+In § 2 werden die Wörter "zwischen einerseits dem in Artikel 215 Absatz 3 Nr. 4 erwähnten erforderlichen 
+Mindestbetrag der Entlohnung" durch die Wörter "zwischen einerseits dem Betrag von 45.000 EUR oder dem 
+in Artikel 215 Absatz 3 Nr. 4 erwähnten erforderlichen Mindestbetrag der Entlohnung, falls dieser niedriger 
+ist," ersetzt.3. In § 6 Absatz 2 werden die Wörter "das höchste steuerpflichtige Ergebnis 
+hat" durch die Wörter "den höchsten Betrag des steuerpflichtigen Einkommens angegeben hat" ersetzt.Ar. 
+13. In Artikel 233 desselben Gesetzbuches wird anstelle von Absatz 3, eingefügt durch das Gesetz vom 
+30. Juli 2013 und für nichtig erklärt durch Entscheid Nr. 24/2018 des Verfassungsgerichtshofes, ein Absatz 
+mit folgendem Wortlaut eingefügt:"Darüber hinaus wird eine getrennte Steuer gemäß den 
+in Artikel 219quinquies bestimmten Regeln festgelegt."Art. 14 - In Artikel 246 Absatz 1 desselben 
+Gesetzbuches wird anstelle von Nr. 3, eingefügt durch das Gesetz vom 30. Juli 2013 und für nichtig erklärt 
+durch Entscheid Nr. 24/2018 des Verfassungsgerichtshofes, eine Nr. 3 mit folgendem Wortlaut eingefügt:"3. 
+wird die in Artikel 233 Absatz 3 erwähnte getrennte Steuer unbeschadet der Anwendung von Artikel 218 
+zum Satz von 5 Prozent berechnet."Art. 15 - In Artikel 513 Absatz 1 desselben Gesetzbuches, 
+abgeändert durch die Gesetze vom 25. April 2014 und 22. Oktober 2017, werden die Wörter "ab dem 1. Januar 
+1990" durch die Wörter "spätestens in einem Besteuerungszeitraum, der vor dem 1. Januar 2020 beginnt," 
+ersetzt.Art. 16 - In Artikel 536 Absatz 3 desselben Gesetzbuches, eingefügt durch das Gesetz 
+vom 13. Dezember 2012, werden die Wörter "in den Absätzen 2 und 3" durch die Wörter "in Absatz 2" ersetzt.Art. 
+17 - Die Artikel 3, 6, 7, 11, 13, 14 und 16 sind ab dem Steuerjahr 2019 anwendbar, das sich auf einen 
+Besteuerungszeitraum bezieht, der frühestens am 1. Januar 2018 beginnt.Artikel 8 tritt am Tag 
+der Veröffentlichung des vorliegenden Gesetzes im Belgischen Staatsblatt in Kraft und ist auf Vorgänge 
+anwendbar, die ab dem 1. Januar 2018 stattgefunden haben.Artikel 10 Nr. 1 tritt am Tag der 
+Veröffentlichung des vorliegenden Gesetzes im Belgischen Staatsblatt in Kraft und ist auf Vorgänge anwendbar, 
+die ab dem 1. Januar 2018 stattgefunden haben.Artikel 2 ist auf die ab dem 1. Januar 2019 gezahlten 
+oder zuerkannten Einkünfte anwendbar.Artikel 10 Nr. 2 tritt am 1. Januar 2020 in Kraft und 
+ist auf Vorgänge anwendbar, die ab dem 1. Januar 2020 stattfinden.Die Artikel 4, 5 und 15 treten 
+am 1. Januar 2020 in Kraft und sind ab dem Steuerjahr 2021 anwendbar, das sich auf einen Besteuerungszeitraum 
+bezieht, der frühestens am 1. Januar 2020 beginnt.Änderungen, die ab dem 26. Juli 2017 am Datum 
+des Abschlusses des Geschäftsjahres vorgenommen werden, bleiben ohne Wirkung für die Anwendung der Bestimmungen 
+des vorliegenden Kapitels.KAPITEL 3 - Abänderungen des Gesetzbuches der den Einkommensteuern 
+gleichgesetzten SteuernArt. 18 - 21 - [Bestimmungen zur Abänderung des Gesetzbuches der den 
+Einkommensteuern gleichgesetzten Steuern]KAPITEL 4 - Abänderungen des Gesetzes vom 25. Dezember 
+2017 zur Reform der GesellschaftssteuerAbschnitt 1 - Abänderungen der Bestimmungen zur Umsetzung 
+der Richtlinie (EU) 2016/1164Art. 22 - Vorliegender Abschnitt dient der Teilumsetzung der Richtlinie 
+(EU) 2016/1164 des Rates vom 12. Juli 2016 mit Vorschriften zur Bekämpfung von Steuervermeidungspraktiken 
+mit unmittelbaren Auswirkungen auf das Funktionieren des Binnenmarkts.Art. 23 - Artikel 19 
+des Gesetzes vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer wird wie folgt ersetzt:"Art. 
+19 - In Titel III Kapitel 2 Abschnitt 2 desselben Gesetzbuches wird ein Artikel 185/1 mit folgendem Wortlaut 
+eingefügt:"Art. 185/1 - In Abweichung von Artikel 24 gehen Gewinne auch aus der Übertragung 
+eines oder mehrerer Aktivabestandteile einer inländischen Gesellschaft an ihre ausländische Niederlassung, 
+deren Gewinne in Belgien aufgrund eines Abkommens zur Vermeidung der Doppelbesteuerung steuerfrei sind, 
+hervor.Im Falle einer in Absatz 1 erwähnten Übertragung gilt die Plusdifferenz zwischen einerseits 
+dem Realwert dieser Bestandteile und andererseits ihrem Anschaffungs- oder Investitionswert abzüglich 
+der vorher zugelassenen Wertminderungen und Abschreibungen als Gewinn.""Art. 24. Artikel 20 
+desselben Gesetzes wird wie folgt ersetzt:"Art. 20 - In Titel III Kapitel 2 Abschnitt 2 desselben 
+Gesetzbuches wird ein Artikel 185/2 mit folgendem Wortlaut eingefügt:"Art. 185/2 - § 
+1 - Unbeschadet der Anwendung von Artikel 185 § 2 Buchstabe a) umfassen Gewinne ebenfalls nicht 
+ausgeschüttete Gewinne der in § 2 Absatz 1 beschriebenen ausländischen Gesellschaft aus einer 
+unangemessenen Gestaltung oder einer unangemessenen Abfolge von Gestaltungen, deren wesentlicher Zweck 
+darin besteht, einen steuerlichen Vorteil zu erlangen.Gewinne der in Absatz 1 erwähnten ausländischen 
+Gesellschaft werden berücksichtigt mit Ausnahme der Beträge, die nicht durch Aktiva und Risiken erzielt 
+werden, die mit den Aufgaben von Entscheidungsträgern zusammenhängen, die vom Steuerpflichtigen ausgeführt 
+werden.Für die Anwendung des vorliegenden Artikels versteht man unter "nicht ausgeschütteten 
+Gewinnen" Gewinne, die durch eine in § 2 beschriebene ausländische Gesellschaft in einem Besteuerungszeitraum 
+erzielt werden, der im Laufe des Besteuerungszeitraums des Steuerpflichtigen endet, und die nicht in 
+diesem Besteuerungszeitraum an den Steuerpflichtigen oder eine andere inländische Gesellschaft ausgeschüttet 
+werden. § 2 - Nicht ausgeschüttete Gewinne einer ausländischen Gesellschaft können nur 
+in die Gewinne des Steuerpflichtigen einbezogen werden:- wenn der Steuerpflichtige unmittelbar 
+oder mittelbar die Mehrheit der Stimmrechte hält, die mit der Gesamtheit der Aktien oder Anteile dieser 
+ausländischen Gesellschaft verbunden sind, oder unmittelbar oder mittelbar eine Beteiligung von mindestens 
+50 Prozent des Kapitals dieser Gesellschaft hält oder Anspruch auf mindestens 50 Prozent der Gewinne 
+dieser Gesellschaft hat und wenn- die ausländische Gesellschaft aufgrund der Rechtsvorschriften 
+des Staates oder des Steuergebiets, in dem sie ansässig ist, dort entweder keiner Einkommensteuer unterliegt 
+oder einer Einkommensteuer unterliegt, die sich auf weniger als die Hälfte der Gesellschaftssteuer beläuft, 
+die geschuldet würde, wenn diese ausländische Gesellschaft in Belgien ansässig wäre.Für die 
+Berechnung der in Absatz 1 zweiter Gedankenstrich erwähnten Gesellschaftssteuer, die geschuldet würde, 
+wenn diese ausländische Gesellschaft in Belgien ansässig wäre, wird das Ergebnis dieser ausländischen 
+Gesellschaft nicht berücksichtigt, das durch eine oder mehrere ausländische Niederlassungen dieser ausländischen 
+Gesellschaft erzielt wird, deren Gewinne in Anwendung eines Abkommens zur Vermeidung der Doppelbesteuerung 
+steuerfrei sind, das zwischen dem Land oder Steuergebiet, in dem diese ausländische Gesellschaft ansässig 
+ist, und dem Land oder Steuergebiet, in dem diese ausländische Niederlassung gelegen ist, abgeschlossen 
+worden ist. § 3 - Verfügt der Steuerpflichtige über eine in Absatz 2 erwähnte ausländische 
+Niederlassung, deren Gewinne aufgrund eines Abkommens zur Vermeidung der Doppelbesteuerung in Belgien 
+steuerfrei sind oder verringert werden, werden Gewinne aus einer unangemessenen Gestaltung oder einer 
+unangemessenen Abfolge von Gestaltungen, deren wesentlicher Zweck darin besteht, einen steuerlichen Vorteil 
+zu erlangen, nicht der ausländischen Niederlassung zugerechnet.Vorliegender Paragraph ist nur 
+auf ausländische Niederlassungen anwendbar, die aufgrund der Rechtsvorschriften des Staates oder des 
+Steuergebiets, in dem sie gelegen sind, dort entweder keiner Einkommensteuer unterliegen oder einer Einkommensteuer 
+unterliegen, die sich auf weniger als die Hälfte der zusätzlichen Gesellschaftssteuer beläuft, die von 
+dem Steuerpflichtigen geschuldet würde, wenn diese Niederlassungen in Belgien gelegen wären. 
+§ 4 - Für die Anwendung des vorliegenden Artikels gilt eine Gestaltung oder eine Abfolge von Gestaltungen 
+als unangemessen, sofern die in § 2 beschriebene ausländische Gesellschaft oder die in § 
+3 beschriebene ausländische Niederlassung nicht selbst Eigentümer der Aktiva wäre oder die Risiken, aus 
+denen ihre gesamten Einkünfte oder Teile davon erzielt werden, nicht eingegangen wäre, wenn diese Gesellschaft 
+oder diese Niederlassung nicht von dem Steuerpflichtigen beherrscht würde, dessen Entscheidungsträger 
+die für diese Aktiva und Risiken relevanten Aufgaben ausführen, die für die Erzielung der Einkünfte der 
+vorerwähnten ausländischen Gesellschaft oder ausländischen Niederlassung ausschlaggebend sind.""Art. 
+25 - Artikel 34 desselben Gesetzes wird wie folgt ersetzt:"Art. 34 - In Titel III Kapitel 2 
+Abschnitt 3 Unterabschnitt 7 desselben Gesetzbuches, eingefügt durch Artikel 33, wird ein Artikel 194sexies 
+mit folgendem Wortlaut eingefügt:"Art. 194sexies - Gewinne sind steuerfrei in Höhe des Gesamtbetrags 
+der in Artikel 198/1 § 2 erwähnten überschüssigen Fremdkapitalkosten, die in Anwendung von Artikel 
+198/1 § 1 in einem der vorhergehenden Besteuerungszeiträume nicht als Werbungskosten in Betracht 
+gekommen sind und die in Anwendung dieses Artikels 198/1 nicht als Grundlage für die Steuerbefreiung 
+der Gewinne für den Steuerpflichtigen gedient haben.Die in Absatz 1 erwähnte Steuerbefreiung 
+darf nicht mehr betragen als die Plusdifferenz zwischen dem in Artikel 198/1 § 3 erwähnten Grenzbetrag 
+und den in Artikel 198/1 §  2 erwähnten überschüssigen Fremdkapitalkosten.Um die in 
+Absatz 1 erwähnte Steuerbefreiung erhalten zu können, muss die Gesellschaft ihrer Gesellschaftssteuererklärung 
+eine Aufstellung beifügen, deren Muster vom König festgelegt wird.""Art. 26 - Artikel 35 desselben 
+Gesetzes wird wie folgt ersetzt:"Art. 35 - In Titel III Kapitel 2 Abschnitt 3 Unterabschnitt 
+7 desselben Gesetzbuches, eingefügt durch Artikel 33, wird ein Artikel 194septies mit folgendem Wortlaut 
+eingefügt:"Art. 194septies - Gewinne sind steuerfrei in Höhe der in Artikel 205/5 § 
+3 Absatz 4 erwähnten Vergütung, die in Ausführung des in Artikel 205/5 § 3 erwähnten Konzernbeitragsvertrags 
+als Gegenleistung für die Einbeziehung des Betrags des Konzernbeitrags in die Gewinne des Besteuerungszeitraums 
+bezogen wird.""Art. 27 - Artikel 36 desselben Gesetzes wird wie folgt ersetzt:"Art. 
+36 - In Titel III Kapitel 2 Abschnitt 3 Unterabschnitt 7 desselben Gesetzbuches, eingefügt durch Artikel 
+33, wird ein Artikel 194septies mit folgendem Wortlaut eingefügt:"Art. 194septies - Gewinne 
+sind steuerfrei:- in Höhe der in Artikel 205/5 § 3 Absatz 4 erwähnten Vergütung, die 
+in Ausführung des in Artikel 205/5 § 3 erwähnten Konzernbeitragsvertrags als Gegenleistung für 
+die Einbeziehung des Betrags des Konzernbeitrags in die Gewinne des Besteuerungszeitraums bezogen wird,- 
+in Höhe der in Artikel 198/1 § 4 Absatz 5 erwähnten Vergütung, die als Gegenleistung für die Übertragung 
+des in Artikel 198/1 § 3 erwähnten Grenzbetrags von der inländischen Gesellschaft oder der belgischen 
+Niederlassung, die Teil derselben Unternehmensgruppe wie der Steuerpflichtige ist, bezogen wird.""Art. 
+28 - In Artikel 39 desselben Gesetzes werden die Nummern 8 und 9 wie folgt ersetzt:"8. In § 
+1 einziger Absatz wird Nr. 15 mit folgendem Wortlaut wieder aufgenommen:"15. die in Artikel 
+198/1 § 4 Absatz 5 erwähnte Vergütung,".9. Paragraph 1 einziger Absatz wird durch eine 
+Nr. 16 mit folgendem Wortlaut ergänzt:"16. die in Artikel 205/5 § 3 Absatz 4 oder in 
+Artikel 205/5 § 4 Absatz 5 erwähnte Vergütung.""Art. 29 - Artikel 40 desselben Gesetzes 
+wird wie folgt ersetzt:"Art. 40 - In Titel III Kapitel 2 Abschnitt 4 Unterabschnitt 1 desselben 
+Gesetzbuches wird ein Artikel 198/1 mit folgendem Wortlaut eingefügt:"Art. 198/1 - § 
+1 - Unbeschadet der Anwendung der Artikel 54 und 55 umfassen Werbungskosten nicht die in §  2 
+erwähnten überschüssigen Fremdkapitalkosten, sofern der Gesamtbetrag dieser Zinsen den in § 3 
+erwähnten Grenzbetrag übersteigt. § 2 - Für die Anwendung des vorliegenden Artikels 
+versteht man unter überschüssigen Fremdkapitalkosten die Plusdifferenz zwischen:- einerseits 
+der Gesamtheit der Zinsen und sonstigen vom König beschriebenen Kosten, die wirtschaftlich gleichwertig 
+mit Zinsen sind, die gemäß den Artikeln 49, 52 Nr. 2, 54 und 55 als Werbungskosten des Besteuerungszeitraums 
+gelten und nicht mit einer Betriebsstätte verbunden sind, deren Gewinne aufgrund eines Abkommens zur 
+Vermeidung der Doppelbesteuerung steuerfrei sind,- und andererseits der Gesamtheit der Zinsen 
+und sonstigen vom König beschriebenen Erträge, die wirtschaftlich gleichwertig mit Zinsen sind, die in 
+die Gewinne des Besteuerungszeitraums einbezogen werden und nicht aufgrund eines Abkommens zur Vermeidung 
+der Doppelbesteuerung steuerfrei sind.Werden die vom König festgelegten Modalitäten eingehalten, 
+werden die Zinsen auf folgende Anleihen bei der Festlegung der überschüssigen Fremdkapitalkosten nicht 
+berücksichtigt:- Anleihen, für die der Steuerpflichtige nachgewiesen hat, dass der Vertrag 
+vor dem 17. Juni 2016 geschlossen wurde, und die seit diesem Datum keine grundlegenden Änderungen erfahren 
+haben,- Anleihen, die in Ausführung eines Projekts einer öffentlich-privaten Partnerschaft 
+aufgenommen werden, das gemäß den Vorschriften über öffentliche Aufträge infolge eines Wettbewerbsaufrufs 
+vergeben wird, wenn Projektbetreiber, Fremdkapitalkosten, Aktiva und Einkünfte alle in der Europäischen 
+Union gelegen sind.Ist der Steuerpflichtige Teil einer Unternehmensgruppe, werden die Zinsen 
+und sonstigen vom König beschriebenen Kosten oder Erträge, die wirtschaftlich gleichwertig mit Zinsen 
+sind, die einer inländischen Gesellschaft oder einer belgischen Niederlassung, die Teil dieser Gruppe 
+ist und nicht von der Anwendung des vorliegenden Artikels ausgeschlossen ist, geschuldet werden oder 
+von einer solchen Gesellschaft oder Niederlassung geschuldet werden, bei der Festlegung der überschüssigen 
+Fremdkapitalkosten nicht berücksichtigt. § 3 - Der in vorliegendem Artikel erwähnte 
+Grenzbetrag ist der höchste der beiden folgenden Beträge:a) 3 Millionen EUR,b) 30 
+Prozent des EBITDA des Steuerpflichtigen, das sich gemäß Absatz 2 zusammensetzt.Das EBITDA 
+setzt sich zusammen aus dem Ergebnis des Besteuerungszeitraums, erhöht um:- die Abschreibungen 
+und Wertminderungen, die als Werbungskosten des Besteuerungszeitraums gelten,- die in § 
+2 erwähnten überschüssigen Fremdkapitalkosten, mit Ausnahme des Teils, der gemäß § 1 nicht 
+als Werbungskosten gilt,und verringert um:- den in Artikel 205/5 erwähnten Betrag 
+des Konzernbeitrags, der von den Gewinnen des Besteuerungszeitraums abgezogen wird,- die in 
+Artikel 202 erwähnten Einkünfte des Besteuerungszeitraums, die gemäß den Artikeln 203 bis 205 von 
+den Gewinnen des laufenden Besteuerungszeitraums oder eines folgenden Besteuerungszeitraums abgezogen 
+werden können,- 85 Prozent der in den Artikeln 205/2 und 205/3 erwähnten Einkünfte des Besteuerungszeitraums, 
+die gemäß Artikel 205/1 von den Gewinnen des laufenden Besteuerungszeitraums oder eines folgenden 
+Besteuerungszeitraums abgezogen werden können,- 80 Prozent der gemäß Artikel 543 bestimmten 
+Einkünfte aus Patenten, die für den Abzug von den Gewinnen des Besteuerungszeitraums berücksichtigt werden,- 
+den Teil der Gewinne des Besteuerungszeitraums, der aufgrund eines Abkommens zur Vermeidung der Doppelbesteuerung 
+steuerfrei ist,- die Gewinne, die in Ausführung eines Projekts einer öffentlich-privaten Partnerschaft 
+erzielt werden, das gemäß den Vorschriften über öffentliche Aufträge infolge eines Wettbewerbsaufrufs 
+vergeben wird, wenn Projektbetreiber, Fremdkapitalkosten, Aktiva und Einkünfte alle in der Europäischen 
+Union gelegen sind.Ist der Steuerpflichtige Teil einer Unternehmensgruppe:- wird 
+der in Absatz 1 Buchstabe a) erwähnte Betrag gemäß der vom König festgelegten Methode proportional 
+auf die inländischen Gesellschaften und die belgischen Niederlassungen, die während des gesamten Besteuerungszeitraums 
+Teil dieser Gruppe waren und nicht von der Anwendung des vorliegenden Artikels ausgeschlossen sind, verteilt,- 
+wird das in Absatz 1 Buchstabe b) erwähnte EBITDA des Steuerpflichtigen um die Kosten erhöht, die einer 
+inländischen Gesellschaft oder einer belgischen Niederlassung, die während des gesamten Besteuerungszeitraums 
+Teil dieser Unternehmensgruppe war und nicht von der Anwendung des vorliegenden Artikels ausgeschlossen 
+ist, geschuldet werden, oder um die Einkünfte verringert, die von einer solchen Gesellschaft oder Niederlassung 
+geschuldet werden,- hat der Steuerpflichtige die Möglichkeit, einen Zinsabzugsvertrag mit einer 
+anderen inländischen Gesellschaft oder einer belgischen Niederlassung, die während des gesamten Besteuerungszeitraums 
+Teil dieser Unternehmensgruppe war und nicht von der Anwendung des vorliegenden Artikels ausgeschlossen 
+ist, zu schließen,- wird der Grenzbetrag des Steuerpflichtigen entsprechend dem Vertrag 
+um den übertragenen Grenzbetrag, der im Zinsabzugsvertrag festgelegt worden ist, erhöht oder verringert. 
+§ 4 - Ein Vertrag kommt nur dann als Zinsabzugsvertrag in Betracht, wenn er die Bedingungen des 
+vorliegenden Paragraphen erfüllt und die Parteien diesen Bedingungen auch tatsächlich nachkommen.Der 
+Steuerpflichtige und die inländische Gesellschaft oder die belgische Niederlassung einer ausländischen 
+Gesellschaft, die Teil derselben Unternehmensgruppe ist, werden als die beiden Parteien des Zinsabzugsvertrags 
+identifiziert.In diesem Vertrag wird der zu übertragende Grenzbetrag festgelegt. Überträgt 
+der Steuerpflichtige einen Betrag, der den Grenzbetrag des Steuerpflichtigen übersteigt, werden die Ausgaben 
+des Steuerpflichtigen für einen Betrag, der der Plusdifferenz zwischen dem übertragenen Betrag und dem 
+Grenzbetrag entspricht, abgelehnt.In diesem Vertrag verpflichten sich die beiden Parteien, 
+den übertragenen Grenzbetrag in die Gesellschaftssteuererklärung oder die Erklärung zur Steuer der Gebietsfremden 
+des Besteuerungszeitraums, der an das im Vertrag erwähnte Steuerjahr gebunden ist, aufzunehmen.In 
+diesem Vertrag können die Parteien nur die Zahlung einer Vergütung vorsehen, die der Gesellschaftssteuer 
+oder der Steuer der Gebietsfremden entspricht, die von einer der Parteien geschuldet worden wäre, wenn 
+keine Übertragung stattgefunden hätte. § 5 - Zur Rechtfertigung einer Änderung des Grenzbetrags 
+muss der Steuerpflichtige seiner Gesellschaftssteuererklärung oder seiner Erklärung zur Steuer der Gebietsfremden 
+den in § 4 erwähnten Vertrag beifügen, dessen Muster vom König festgelegt wird. § 
+6 - Vorliegender Artikel ist nicht anwendbar, wenn der Steuerpflichtige nachweist, dass er in den Anwendungsbereich 
+einer der folgenden Begriffsbestimmungen fällt:1. Kreditinstitute im Sinne von Artikel 1 § 
+3 des Gesetzes vom 25. April 2014 über den Status und die Kontrolle der Kreditinstitute und der Börsengesellschaften,2. 
+Wertpapierfirmen im Sinne von Artikel 3 § 1 des Gesetzes vom 25. Oktober 2016 über den Zugang 
+zu Wertpapierdienstleistungstätigkeiten und den Status und die Kontrolle der Vermögensverwaltungs- und 
+Anlageberatungsgesellschaften,3. AOGA-Verwalter im Sinne von Artikel 3 Nr. 13 des Gesetzes 
+vom 19. April 2014 über alternative Organismen für gemeinsame Anlagen und ihre Verwalter,4. 
+Verwaltungsgesellschaften von Organismen für gemeinsame Anlagen im Sinne von Artikel 3 Nr. 12 des Gesetzes 
+vom 3. August 2012 über Organismen für gemeinsame Anlagen, die die Bedingungen der Richtlinie 2009/65/EG 
+erfüllen, und Organismen für Anlagen in Forderungen,5. Versicherungsunternehmen im Sinne von 
+Artikel 5 Nr. 1 des Gesetzes vom 13. März 2016 über den Status und die Kontrolle der Versicherungs- oder 
+Rückversicherungsunternehmen,6. Rückversicherungsunternehmen im Sinne von Artikel 5 Nr. 2 des 
+Gesetzes vom 13. März 2016 über den Status und die Kontrolle der Versicherungs- oder Rückversicherungsunternehmen,7. 
+Einrichtungen der betrieblichen Altersversorgung im Sinne von Artikel 2 Nr. 1 des Gesetzes vom 27. Oktober 
+2006 über die Kontrolle der Einrichtungen der betrieblichen Altersversorgung,8. Einrichtungen 
+der Altersversorgung, die Altersversorgungssysteme betreiben, die als Systeme der sozialen Sicherheit 
+im Sinne der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 
+zur Koordinierung der Systeme der sozialen Sicherheit und der Verordnung (EG) Nr. 987/2009 des Europäischen 
+Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der 
+Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit gelten, sowie 
+juristische Personen, die für die Anlagezwecke solcher Systeme gegründet wurden,9. alternative 
+Organismen für gemeinsame Anlagen im Sinne von Artikel 3 Nr. 2 des Gesetzes vom 19. April 2014 über alternative 
+Organismen für gemeinsame Anlagen und ihre Verwalter,10. Organismen für gemeinsame Anlagen, 
+die die Bedingungen der Richtlinie 2009/65/EG erfüllen, im Sinne von Artikel 3 Nr. 8 des Gesetzes vom 
+3. August 2012 über Organismen für gemeinsame Anlagen, die die Bedingungen der Richtlinie 2009/65/EG 
+erfüllen, und Organismen für Anlagen in Forderungen,11. zentrale Gegenparteien im Sinne von 
+Artikel 2 Nr. 1 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 
+2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister,12. Zentralverwahrer 
+im Sinne von Artikel 2 Absatz 1 Nr. 1 der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und 
+des Rates vom 23. Juli 2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen 
+Union und über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung 
+(EU) Nr. 236/2012,13. Gesellschaften, deren einzige Tätigkeit ausschließlich in der Verwirklichung 
+eines Projekts einer öffentlich-privaten Partnerschaft besteht, das gemäß den Vorschriften über 
+öffentliche Aufträge infolge eines Wettbewerbsaufrufs vergeben wird, wenn Projektbetreiber, Fremdkapitalkosten, 
+Aktiva und Einkünfte alle in der Europäischen Union gelegen sind,14. Gesellschaften, die nicht 
+Teil einer Unternehmensgruppe sind und über keine ausländischen Niederlassungen verfügen und die:- 
+weder unmittelbar noch mittelbar eine Beteiligung an einer Gesellschaft halten, die mindestens 25 Prozent 
+der Stimmrechte oder des Kapitals dieser Gesellschaft beträgt oder Anspruch auf mindestens 25 Prozent 
+der Gewinne dieser Gesellschaft gibt,- keine natürliche oder juristische Person als Aktionär 
+oder Gesellschafter haben, die unmittelbar oder mittelbar eine Beteiligung an dieser Gesellschaft und 
+an einer anderen Gesellschaft hält, die jede mindestens 25 Prozent der Stimmrechte oder des Kapitals 
+dieser Gesellschaften beträgt oder Anspruch auf mindestens 25 Prozent der Gewinne dieser beiden Gesellschaften 
+gibt,15. Gesellschaften, deren einzige Tätigkeit oder Haupttätigkeit darin besteht, unbewegliche 
+Güter über die Ausgabe von Immobilienzertifikaten zu finanzieren. Für die Anwendung der vorliegenden 
+Bestimmung versteht man unter Immobilienzertifikaten Schuldtitel, die Rechte an den Einkünften, den Erträgen 
+und dem Veräußerungswert eines oder mehrerer bei der Ausgabe der Zertifikate bestimmter unbeweglicher 
+Güter verkörpern, unabhängig davon, ob die Zertifikate öffentlich angeboten werden und ob sie an einem 
+geregelten Markt gehandelt werden oder nicht,16. Gesellschaften, die gemäß Artikel 2 
+§ 1 des Königlichen Erlasses Nr. 55 vom 10. November 1967 zur Regelung der Rechtsform der auf 
+Mietfinanzierung spezialisierten Unternehmen zugelassen sind, oder Gesellschaften, deren Haupttätigkeit 
+in der Ausübung von Factoring im Finanzsektor besteht, sofern geliehenes Kapital tatsächlich für Factoringtätigkeiten 
+verwendet wird.""Art. 30 - Artikel 44 desselben Gesetzes wird wie folgt abgeändert:a) 
+Nummer 2 wird wie folgt ersetzt:"2. Die Nummern 4 und 5 werden wie folgt wieder aufgenommen:"4. 
+Gewinne, die von einer in Artikel 185/2 § 2 erwähnten ausländischen Gesellschaft ausgeschüttet 
+werden, sofern und in dem Maße, wie der Steuerpflichtige nachgewiesen hat, dass diese Gewinne bereits 
+in einem vorhergehenden Besteuerungszeitraum in Anwendung von Artikel 185/2 zu Lasten der inländischen 
+Gesellschaft als nicht ausgeschüttete Gewinne besteuert wurden,5. der nicht steuerfreie Mehrwert 
+auf Aktien oder Anteile einer ausländischen Gesellschaft, sofern und in dem Maße, wie der Steuerpflichtige 
+nachgewiesen hat, dass die Gewinne dieser ausländischen Gesellschaft in einem vorhergehenden Besteuerungszeitraum 
+in Anwendung von Artikel 185/2 zu Lasten der inländischen Gesellschaft als nicht ausgeschüttete Gewinne 
+besteuert wurden, und diese Gewinne noch nicht zu einem früheren Zeitpunkt ausgeschüttet worden sind 
+und sie sich zum Zeitpunkt der Veräußerung dieser Aktien oder Anteile noch auf einem Passivkonto 
+befanden.""b) Der Artikel wird durch eine Nr. 3 mit folgendem Wortlaut ergänzt:"3. 
+Der Paragraph wird durch einen Absatz mit folgendem Wortlaut ergänzt:"Für die Anwendung von 
+Absatz 1 Nr. 4 und 5 wird davon ausgegangen, dass die Gewinne der ausländischen Gesellschaft, die gemäß 
+Artikel 185/2 zu Lasten der inländischen Gesellschaft besteuert wurden, zuerst ausgeschüttet werden.""Abschnitt 
+2 - Abänderungen in Bezug auf den Abzug des KonzernbeitragsArt. 31 - Artikel 18 des Gesetzes 
+vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer wird durch eine Nr. 4 mit folgendem Wortlaut 
+ergänzt:"4. Der Artikel wird durch einen Paragraphen 4 mit folgendem Wortlaut ergänzt:" 
+§ 4 - Hat die Gesellschaft sich in Anwendung des in Artikel 205/5 § 3 erwähnten Konzernbeitragsvertrags 
+des Steuerjahres verpflichtet, den Betrag des Konzernbeitrags als Gewinn des Besteuerungszeitraum aufzunehmen, 
+wird dieser Betrag des Konzernbeitrags in die Besteuerungsgrundlage des Besteuerungszeitraums, der an 
+dieses Steuerjahr gebunden ist, einbezogen.Hat die Gesellschaft in Anwendung des in Artikel 
+205/5 § 4 erwähnten Konzernbeitragsvertrags in einem vorhergehenden Besteuerungszeitraum einen 
+Betrag des Konzernbeitrags abgezogen und werden die Tätigkeiten der ausländischen Gesellschaft, mit der 
+der Vertrag geschlossen wurde, binnen drei Jahren ab ihrer Einstellung wieder aufgenommen, wird ein Betrag, 
+der dem Betrag des Konzernbeitrags entspricht, in die Besteuerungsgrundlage des Besteuerungszeitraums, 
+in dem diese Tätigkeiten wieder aufgenommen wurden, einbezogen.""Art. 32 - Artikel 48 desselben 
+Gesetzes wird wie folgt ersetzt:"Art. 48 - In Titel III Kapitel 2 Abschnitt 4 Unterabschnitt 
+3bis/1 desselben Gesetzbuches, eingefügt durch Artikel 47, wird ein Artikel 205/5 mit folgendem Wortlaut 
+eingefügt:"Art. 205/5 - § 1 - Für die Festlegung des steuerpflichtigen Einkommens werden 
+die Gewinne des Besteuerungszeitraums um den in vorliegendem Artikel beschriebenen Betrag des Konzernbeitrags 
+verringert. Diese Verringerung wird "Abzug des Konzernbeitrags" genannt. § 2 - Der Betrag 
+des Konzernbeitrags wird in einem Konzernbeitragsvertrag wie in § 3 oder 4 erwähnt festgelegt, 
+der zwischen dem Steuerpflichtigen und einer in Betracht kommenden inländischen oder ausländischen Gesellschaft 
+geschlossen wird und sich auf ein bestimmtes Steuerjahr bezieht.Kein Betrag des Konzernbeitrags 
+kann auf der Grundlage eines Konzernbeitragsvertrags, der sich auf ein anderes Steuerjahr bezieht, von 
+den Gewinnen abgezogen werden.Eine in Betracht kommende inländische oder ausländische Gesellschaft 
+ist eine Gesellschaft, die während eines ununterbrochenen Zeitraums von fünf Jahren, der am 1. Januar 
+des vierten Kalenderjahres vor dem Kalenderjahr beginnt, dessen Jahreszahl das Steuerjahr bestimmt, mit 
+dem Steuerpflichtigen verbunden ist.Ist der Steuerpflichtige oder eine inländische oder ausländische 
+Gesellschaft, die mit dem Steuerpflichtigen verbunden ist, in dem in Absatz 3 erwähnten Zeitraum infolge 
+einer Fusion durch Gründung einer neuen Gesellschaft, einer Aufspaltung durch Gründung neuer Gesellschaften, 
+einer gemischten Aufspaltung oder eines damit gleichgesetzten Vorgangs gegründet worden, kann der Steuerpflichtige 
+oder die mit dem Steuerpflichtigen verbundene Gesellschaft für die Anwendung dieses Absatzes 3 mit der 
+Gesellschaft oder mit jeder Gesellschaft gleichgesetzt werden, in der sich vor der Durchführung dieser 
+Fusion, dieser Aufspaltung oder dieses damit gleichgesetzten Vorgangs das gesamte Gesellschaftsvermögen 
+des Steuerpflichtigen oder der mit ihm verbundenen Gesellschaft befand.Ist das Gesellschaftsvermögen 
+oder ein Teil des Gesellschaftsvermögens einer Gesellschaft in dem in Absatz 3 erwähnten Zeitraum in 
+das Gesellschaftsvermögen des Steuerpflichtigen oder einer inländischen oder ausländischen Gesellschaft, 
+die mit dem Steuerpflichtigen verbunden ist, übertragen worden, und zwar infolge einer Fusion durch Übernahme, 
+einer Aufspaltung durch Übernahme oder eines damit gleichgesetzten Vorgangs, einer Einbringung eines 
+Teilbetriebs oder einer Einbringung eines Gesamtvermögens, wird jede Gesellschaft, in der sich vor der 
+Durchführung dieser Fusion, dieser Aufspaltung, dieser Einbringung oder dieses damit gleichgesetzten 
+Vorgangs ein Teil des gesamten Gesellschaftsvermögens des Steuerpflichtigen oder der Gesellschaft, die 
+mit dem Steuerpflichtigen verbunden ist, befand, für die Anwendung von Absatz 3 mit dem Steuerpflichtigen 
+oder der inländischen oder ausländischen Gesellschaft, die mit dem Steuerpflichtigen verbunden ist, gleichgesetzt 
+und muss sie ebenfalls die Bedingungen für die Anwendung dieses Absatzes 3 erfüllen.Für die 
+Anwendung des vorliegenden Artikels ist eine inländische oder ausländische Gesellschaft, die mit dem 
+Steuerpflichtigen verbunden ist, eine Gesellschaft:- die eine unmittelbare Beteiligung von 
+mindestens 90 Prozent am Kapital des Steuerpflichtigen hält oder- deren Kapital zu mindestens 
+90 Prozent unmittelbar vom Steuerpflichtigen gehalten wird oder- deren Kapital zu mindestens 
+90 Prozent unmittelbar von einer anderen inländischen oder ausländischen Gesellschaft gehalten wird, 
+sofern diese andere inländische oder ausländische Gesellschaft eine Beteiligung von mindestens 90 Prozent 
+am Kapital des Steuerpflichtigen hält.Für die Anwendung des vorliegenden Artikels wird eine 
+ausländische Gesellschaft nur als in Betracht kommende ausländische Gesellschaft berücksichtigt, wenn 
+sie im Europäischen Wirtschaftsraum ansässig ist.Der in Absatz 1 erwähnte Vertrag kann nicht 
+geschlossen werden, wenn eine der beiden Parteien:- eine Gesellschaft ist, die ein unbewegliches 
+Gut oder andere dingliche Rechte an einem solchen Gut einer oder mehreren natürlichen Personen, die in 
+der Gesellschaft ein Mandat oder Funktionen wie in Artikel 32 Absatz 1 erwähnt ausüben, dem Ehepartner 
+oder den Kindern dieser Personen - wenn diese Personen oder ihr Ehepartner das gesetzliche Nutzungsrecht 
+an den Einkünften dieser Kinder haben - zur Verfügung stellt,- eine in Artikel 185bis erwähnte 
+Gesellschaft ist,- eine Seeschifffahrtsgesellschaft ist, die in Anwendung der Artikel 115 bis 
+120 oder in Anwendung von Artikel 124 des Programmgesetzes vom 2. August 2002 der Steuer unterliegt,- 
+eine als Diamanthändler registrierte Gesellschaft ist, die in Anwendung der Artikel 67 bis 71 des Programmgesetzes 
+vom 10. August 2015 der Steuer unterliegt,- eine Gesellschaft ist, die in Anwendung von Artikel 
+342 §§ 2 und 4 nach den Gewinnen des Besteuerungszeitraums pauschal veranlagt wird,- 
+für die Anwendung von § 4 eine im Ausland ansässige Gesellschaft ist, die zwar im Land ihres Steuerwohnsitzes 
+der Gesellschaftssteuer oder einer dieser Steuer ähnlichen ausländischen Steuer unterliegt, zu deren 
+Gunsten in diesem Land aber ein vom allgemeinen Recht abweichendes Besteuerungssystem angewandt wird. 
+§ 3 - Ein Vertrag kommt nur dann als Konzernbeitragsvertrag in Betracht, wenn er die Bedingungen 
+des vorliegenden Paragraphen erfüllt und die Parteien diesen Bedingungen auch tatsächlich nachkommen.Der 
+Steuerpflichtige und die in Betracht kommende inländische Gesellschaft oder die belgische Niederlassung 
+einer in Betracht kommenden ausländischen Gesellschaft werden als die beiden Vertragsparteien identifiziert.In 
+diesem Vertrag verpflichtet sich diese inländische Gesellschaft oder belgische Niederlassung, den im 
+Vertrag festgehaltenen Betrag des Konzernbeitrags gemäß Artikel 185 § 4 Absatz 1 in die 
+Gesellschaftssteuererklärung oder die Erklärung zur Steuer der Gebietsfremden als Gewinn eines Besteuerungszeitraums, 
+der an das Steuerjahr gebunden ist, auf den sich der Vertrag bezieht, aufzunehmen.In diesem 
+Vertrag verpflichtet sich der Steuerpflichtige, dieser inländischen Gesellschaft oder belgischen Niederlassung 
+eine Vergütung zu zahlen, die der Gesellschaftssteuer oder der Steuer der Gebietsfremden entspricht, 
+die geschuldet würde, wenn der im Vertrag festgehaltene Betrag des Konzernbeitrags nicht von den Gewinnen 
+des Besteuerungszeitraums abgezogen worden wäre. § 4 - Hat eine in Betracht kommende 
+ausländische Gesellschaft ihre Tätigkeiten definitiv eingestellt und werden diese Tätigkeiten nicht binnen 
+drei Jahren ab ihrer Einstellung von einer anderen Gesellschaft übernommen, die Teil derselben Unternehmensgruppe 
+wie diese ausländische Gesellschaft ist, kann der Steuerpflichtige einen Konzernbeitragsvertrag mit dieser 
+ausländischen Gesellschaft schließen, wenn dieser Vertrag die Bedingungen des vorliegenden Paragraphen 
+erfüllt und die Parteien diesen Bedingungen auch tatsächlich nachkommen.Der Steuerpflichtige 
+und die in Absatz 1 erwähnte in Betracht kommende ausländische Gesellschaft werden als die beiden Vertragsparteien 
+identifiziert.In diesem Vertrag wird der Betrag des Konzernbeitrags festgehalten. Dieser Betrag 
+darf die beruflichen Verluste nicht übersteigen, die gemäß den Bestimmungen des vorliegenden Gesetzbuches 
+bestimmt werden und die die in Absatz 1 erwähnte in Betracht kommende ausländische Gesellschaft in dem 
+Besteuerungszeitraum erleidet, in dem die Tätigkeiten definitiv eingestellt wurden.Dürfen vorerwähnte 
+berufliche Verluste ganz oder teilweise durch die ausländische Gesellschaft oder durch eine andere Person 
+abgezogen werden, werden die im vorhergehenden Absatz erwähnten beruflichen Verluste auf den Teil der 
+beruflichen Verluste begrenzt, der nicht durch die ausländische Gesellschaft oder durch eine andere Person 
+abgezogen werden darf.In diesem Vertrag verpflichtet sich der Steuerpflichtige, dieser ausländischen 
+Gesellschaft eine Vergütung zu zahlen, die der Gesellschaftssteuer oder der Steuer der Gebietsfremden 
+entspricht, die geschuldet würde, wenn der im Vertrag festgehaltene Betrag des Konzernbeitrags nicht 
+von den Gewinnen des Besteuerungszeitraums abgezogen worden wäre. § 5 - Zur Rechtfertigung 
+des Vorteils des Abzugs des Konzernbeitrags muss der Steuerpflichtige seiner Gesellschaftssteuererklärung 
+oder seiner Erklärung zur Steuer der Gebietsfremden den in § 3 oder 4 erwähnten Vertrag beifügen, 
+dessen Muster vom König festgelegt wird.""Art. 33 - In dasselbe Gesetz wird ein Artikel 53/1 
+mit folgendem Wortlaut eingefügt:"Art. 53/1 - In Artikel 207 desselben Gesetzbuches, zuletzt 
+abgeändert durch Artikel 53, wird zwischen Absatz 7 und Absatz 8 ein Absatz mit folgendem Wortlaut eingefügt:"Keiner 
+der in den Artikeln 199 bis 206, 536 und 543 bestimmten Abzüge darf auf den Betrag des in Artikel 185 
+§ 4 Absatz 1 erwähnten Konzernbeitrags, der in die Besteuerungsgrundlage einbezogen wird, angewandt 
+werden.""Art. 34 - Artikel 73 desselben Gesetzes wird wie folgt ersetzt:"Art. 73 
+- Artikel 292 desselben Gesetzbuches, abgeändert durch die Gesetze vom 22. Juli 1993 und 4. Mai 1999, 
+wird durch zwei Absätze mit folgendem Wortlaut ergänzt:"Die in Absatz 1 erwähnten anrechenbaren 
+Summen werden nicht auf den Betrag des in Artikel 185 § 4 Absatz 1 erwähnten Konzernbeitrags, 
+der in die Besteuerungsgrundlage einbezogen wird, angerechnet.In Abweichung von Absatz 1 wird 
+der Pauschalanteil ausländischer Steuer nur bis zu dem Teil der Gesellschaftssteuer angerechnet, der 
+sich auf steuerpflichtige Nettoeinkünfte bezieht, die durch eine hybride Übertragung erzielt werden. 
+Diese Nettoeinkünfte werden gebildet aus der Differenz zwischen den im Rahmen dieser hybriden Übertragung 
+bezogenen Einkünften und den möglichen Zahlungen, die im Rahmen dieser hybriden Übertragung ebenfalls 
+geleistet werden mussten.""Abschnitt 3 - Verschiedene AbänderungenArt. 35 - In Artikel 
+84 des Gesetzes vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer wird Buchstabe c) wie folgt 
+ersetzt:"c) Paragraph 1 Absatz 1 wird durch folgende Bestimmungen ergänzt:"3. in 
+Bezug auf die steuerpflichtigen Entnahmen aus den in Artikel 190bis erwähnten steuerfreien Beträgen, 
+die am Ende des letzten Besteuerungszeitraums, der vor dem 1. Januar 2017 endet, bestanden,4. 
+in Bezug auf die aufgrund von Artikel 193quater § 2 Absatz 3 steuerpflichtigen Entnahmen, die 
+auf Gewinne durchgeführt werden, die gemäß Artikel 67 des Gesetzes vom 26. März 1999 über den belgischen 
+Aktionsplan für die Beschäftigung 1998 und zur Festlegung sonstiger Bestimmungen, so wie er vor seiner 
+Aufhebung durch Artikel 87 des Gesetzes vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer bestand, 
+in einem Besteuerungszeitraum, der vor dem 1. Januar 2017 endet, steuerfrei sind,5. in Bezug 
+auf die steuerpflichtigen Entnahmen aus der Investitionsrücklage, die in einem Besteuerungszeitraum, 
+der vor dem 1. Januar 2017 endet, gebildet wurde und in Artikel 194quater erwähnt ist, so wie er vor 
+seiner Aufhebung durch Artikel 31 Nr. 2 des Gesetzes vom 25. Dezember 2017 zur Reform der Gesellschaftssteuer 
+bestand, sofern § 4 Absatz 2 dieses Artikels nicht mehr angewandt werden kann.""Art. 
+36 - In Titel 2 Kapitel 1 desselben Gesetzes wird ein Artikel 20/1 mit folgendem Wortlaut eingefügt:"Art. 
+20/1 - In Artikel 185bis § 1 desselben Gesetzbuches, ersetzt durch das Gesetz vom 18. Dezember 
+2015, werden die Wörter "nur in Bezug auf den Gesamtbetrag der erhaltenen ungewöhnlichen oder freiwilligen 
+Vorteile und der nicht als Werbungskosten abzugsfähigen Ausgaben und Kosten, die keine Wertminderungen 
+und Minderwerte auf Aktien oder Anteile sind, steuerpflichtig" durch die Wörter "nur steuerpflichtig 
+in Bezug auf den Gesamtbetrag der erhaltenen ungewöhnlichen oder freiwilligen Vorteile und der nicht 
+als Werbungskosten abzugsfähigen Ausgaben und Kosten, die keine Wertminderungen und Minderwerte auf Aktien 
+oder Anteile sind und keine in Artikel 198/1 erwähnten überschüssigen Fremdkapitalkosten, die auch nicht 
+als Werbungskosten gelten, sind" ersetzt.Art. 37 - In Titel 2 Kapitel 1 desselben Gesetzes 
+wird ein Artikel 73/1 mit folgendem Wortlaut eingefügt:"Art.73/1 - Artikel 307 § 1/2 
+desselben Gesetzbuches, eingefügt durch das Gesetz vom 25. Dezember 2017, wird durch drei Absätze mit 
+folgendem Wortlaut ergänzt:"Steuerpflichtige, die der Gesellschaftssteuer oder gemäß 
+Artikel 227 Nr. 2 der Steuer der Gebietsfremden unterliegen, sind ebenfalls verpflichtet, Nachstehendes 
+anzugeben:- das Bestehen einer in Artikel 185/2 § 1 erwähnten ausländischen Gesellschaft, 
+deren Gewinne in Anwendung dieses Artikels ganz oder teilweise zu Lasten des Steuerpflichtigen besteuert 
+werden,- das Bestehen einer in Artikel 185/2 § 3 erwähnten ausländischen Niederlassung, 
+deren Gewinne in Anwendung dieses Artikels nicht ganz oder teilweise dieser ausländischen Niederlassung 
+zugerechnet werden.Wird in der Erklärung das Bestehen einer in Artikel 185/2 § 1 erwähnten 
+ausländischen Gesellschaft vermerkt, werden vollständiger Name, Rechtsform, Adresse und gegebenenfalls 
+Identifikationsnummer dieser ausländischen Gesellschaft ebenfalls vermerkt.Wird in der Erklärung 
+das Bestehen einer in Artikel 185/2 § 3 erwähnten ausländischen Niederlassung vermerkt, werden 
+Adresse und gegebenenfalls Identifikationsnummer dieser ausländischen Niederlassung ebenfalls vermerkt.""Art. 
+38 - Artikel 86 desselben Gesetzes wird wie folgt abgeändert:a) In Buchstabe B1 werden die 
+Wörter "18 Nr. 1 und 2" durch die Wörter "18 Nr. 1, 2 und 4" ersetzt.b) In Buchstabe B1 werden 
+die Wörter "44 Nr. 2" durch die Wörter "44 Nr. 2 und 3" ersetzt.c) In Buchstabe B1 werden die 
+Wörter "53 Nr. 2 und 73" durch die Wörter "53 Nr. 2, 53/1, 73 und 73/1" ersetzt.d) In Buchstabe 
+B2 wird zwischen den Wörtern "18 Nr. 3," und den Wörtern "21 Nr. 2" das Wort "20/1," eingefügt.e) 
+In Buchstabe B2 werden die Wörter "55 Nr. 2 und 4" durch die Wörter "55 Nr. 4" ersetzt.f) In 
+Buchstabe B2 wird das Wort "60," aufgehoben.Art. 39 - Artikel 52 Nr. 2 bis 6 desselben Gesetzes 
+wird widerrufen.Art. 40 - Artikel 55 Nr. 1 und 2 desselben Gesetzes wird widerrufen.Art. 
+41 - Artikel 60 desselben Gesetzes wird widerrufen.KAPITEL 5 - Abänderung des Gesetzes vom 
+18. September 2017 zur Verhinderung von Geldwäsche und Terrorismusfinanzierung und zur Beschränkung der 
+Nutzung von BargeldArt. 42 - Artikel 75 des Gesetzes vom 18. September 2017 zur Verhinderung 
+von Geldwäsche und Terrorismusfinanzierung und zur Beschränkung der Nutzung von Bargeld wird durch zwei 
+Absätze mit folgendem Wortlaut ergänzt:"Natürliche oder juristische Personen, die die Daten 
+des UBO-Registers einsehen können, zahlen bei jeder Einsichtnahme eine Gebühr, die nicht höher ist als 
+die Verwaltungskosten, die durch die Zurverfügungstellung der Angaben entstehen, einschließlich 
+der Kosten für Entwicklung und Pflege des Registers. Die Verwaltung des Schatzamtes kann mit den vorerwähnten 
+natürlichen oder juristischen Personen eine Vereinbarung über die Zahlung einer vierteljährlichen oder 
+jährlichen Pauschalgebühr schließen. Der König bestimmt Höhe und Modalitäten der Zahlung der in 
+vorliegendem Absatz erwähnten Gebühr.In Abweichung von Absatz 2 zahlen die in Artikel 85 erwähnten 
+Aufsichtsbehörden, das BVFI und die öffentlichen Behörden, deren gesetzlicher Auftrag die Bekämpfung 
+von Geldwäsche und Terrorismusfinanzierung oder den damit zusammenhängenden Vortaten ist, die Steuerbehörden, 
+die öffentlichen Behörden, die mit der Sicherstellung und Einziehung von Vermögenswerten aus Straftaten 
+beauftragt sind, und die öffentlichen Behörden, die Informationen über die Verbringung oder die grenzüberschreitende 
+Verbringung von Geld oder übertragbaren Inhaberpapieren erhalten, keine Gebühr."Wir fertigen 
+das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische 
+Staatsblatt veröffentlicht wird.Gegeben zu Ile-d'Yeu, den 30. Juli 2018PHILIPPEVon 
+Königs wegen:Der Minister der FinanzenJ. VAN OVERTVELDTMit dem Staatssiegel 
+versehen:Für den Minister der Justiz, abwesend:Der Vizepremierminister und Minister 
+der Beschäftigung, der Wirtschaft und der Verbraucher, beauftragt mit dem AußenhandelK. 
+PEETERS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-12Numac : 2020041027
+

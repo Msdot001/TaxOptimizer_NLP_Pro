@@ -1,0 +1,174 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/03/29/2021020765/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020765
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 29 MAART 2019. - Wet tot uitbreiding van de taxshelter naar de gaming-industrie. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de wet van 29 maart 2019 tot uitbreiding van de taxshelter 
+naar de gaming-industrie (Belgisch Staatsblad van 16 april 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN29. MÄRZ 2019 - Gesetz zur Ausdehnung des Tax Shelter auf die VideospielindustriePHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt 
+eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - Artikel 179/1 des Einkommensteuergesetzbuches 
+1992, eingefügt durch das Gesetz vom 25. Dezember 2016 und abgeändert durch das Gesetz vom 25. Dezember 
+2017, wird wie folgt abgeändert:1. Die Wörter "in den Artikeln 194ter und 194ter/1" werden 
+durch die Wörter "in den Artikeln 194ter, 194ter/1 und 194ter/3" ersetzt.2. Die Wörter "in 
+Anwendung von Artikel 194ter oder 194ter/1" werden durch die Wörter "in Anwendung von Artikel 194ter, 
+194ter/1 oder 194ter/3" ersetzt.Art. 3 - In Titel III Kapitel 2 Abschnitt 3 desselben Gesetzbuches 
+wird die Überschrift von Unterabschnitt 4, eingefügt durch das Gesetz vom 2. August 2002 und zuletzt 
+abgeändert durch das Gesetz vom 25. Dezember 2016, wie folgt ersetzt:"Unterabschnitt 4 - Unternehmen, 
+die im Rahmen einer Tax-Shelter-Regelung in ein Rahmenübereinkommen zugunsten der Produktion eines audiovisuellen 
+Werks, eines Bühnenwerks oder eines Videospiels investieren".Art. 4 - Artikel 194ter/2 desselben 
+Gesetzbuches, eingefügt durch das Gesetz vom 25. Dezember 2016, wird wie folgt abgeändert:1. 
+In Absatz 1 werden die Wörter "in Artikel 194ter oder 194ter/1 § 2 Absatz 1 Nr. 1" durch die Wörter 
+"in Artikel 194ter, 194ter/1 § 2 Absatz 1 Nr. 1 oder 194ter/3 § 2 Nr. 1" ersetzt.2. 
+In Absatz 2 werden die Wörter "der Artikel 194ter und 194ter/1" durch die Wörter "der Artikel 194ter, 
+194ter/1 und 194ter/3" ersetzt.Art. 5 - In Titel III Kapitel 2 Abschnitt 3 Unterabschnitt 4 
+desselben Gesetzbuches wird ein Artikel 194ter/3 mit folgendem Wortlaut eingefügt:"Art. 194ter/3 
+- § 1 - Artikel 194ter ist ebenfalls anwendbar auf in Betracht kommende Produktionsgesellschaften, 
+deren hauptsächlicher Zweck die Produktion und Entwicklung von Videospielen ist. § 2 
+- Für die Anwendung des vorliegenden Artikels versteht man unter:1. in Betracht kommendem Werk: 
+in Abweichung von Artikel 194ter § 1 Absatz 1 Nr. 4 ein Originalvideospiel wie in Nr. 2 erwähnt, 
+das von den zuständigen Diensten der betreffenden Gemeinschaft als europäisches Videospiel zugelassen 
+ist, das heißt:- das hauptsächlich mithilfe von Autoren und kreativen Mitarbeitern, die 
+in Belgien oder einem anderen Mitgliedstaat des Europäischen Wirtschaftsraums wohnen, und von einem oder 
+mehreren Produzenten und Koproduzenten realisiert wird, die in einem oder mehreren Mitgliedstaaten des 
+Europäischen Wirtschaftsraums ansässig sind oder von einem oder mehreren in einem oder mehreren Mitgliedstaaten 
+des Europäischen Wirtschaftsraums ansässigen Produzenten und Koproduzenten überwacht und tatsächlich 
+kontrolliert werden,- für das die in Artikel 194ter § 1 Absatz 1 Nr. 7 erwähnten in 
+Belgien getätigten Ausgaben für Produktion und Verwertung innerhalb einer Frist getätigt werden, die 
+spätestens vierundzwanzig Monate nach dem Datum der Unterzeichnung des in Artikel 194ter § 1 Absatz 
+1 Nr. 5 erwähnten Rahmenübereinkommens zum Erhalt der Tax-Shelter-Bescheinigung für die Produktion dieses 
+Werks und spätestens drei Monate nach Realisierung der Endversion endet,2. Videospiel: ein 
+interaktives Werk, inklusive Tonspur, Videobilder, Informatikcode, Szenario/Skript und Spieldimension, 
+das von einer oder mehreren Personen gleichzeitig verwendet wird und so ausgelegt ist, um auf mobilen 
+Geräten, Desktop-, Online- oder Heimkonsolen vertrieben und genutzt zu werden, und dessen interaktiven 
+Mechanismen und Spielmechanismen so ausgelegt sind, dass sie auf einen audiovisuellen Bildschirm mit 
+oder ohne Peripheriegeräte projiziert werden,3. Originalvideospiel: ein Videospiel, dessen 
+Geschichte, Grafiken, Figuren, Inhalt, Spielablauf oder Spielfunktionen original sind. Die Erweiterung 
+eines bestehenden Videospiels, dessen Originalbestandteile oder einige von ihnen aufgegriffen werden, 
+wird einem Originalvideospiel gleichgesetzt, sofern die neuen Originalbestandteile mindestens 50 Prozent 
+der Geschichte, der Grafiken, der Figuren, des Inhalts, des Spielablaufs oder der Spielfunktionen darstellen,4. 
+Endversion: die Version des Videospiels, so wie sie zum Zeitpunkt ihrer Vermarktung im Europäischen Wirtschaftsraum 
+besteht. Unter Vermarktung versteht man das Datum, an dem das Videospiel zum ersten Mal zum Kauf angeboten 
+wird. § 3 - In Abweichung von Artikel 194ter § 1 Absatz 1 Nr. 8 und 9 versteht 
+man unter:1. Ausgaben in direktem Zusammenhang mit der Produktion und Verwertung: Ausgaben 
+in Zusammenhang mit der kreativen und technischen Produktion des in Betracht kommenden Werks, wie:- 
+Ausgaben in Zusammenhang mit dem Erwerb geistiger Eigentumsrechte, die für die Realisierung des in Betracht 
+kommenden Werks erforderlich oder nützlich sind, im Verhältnis zu ihrem Anteil an der Produktion des 
+Werks, wenn der Erwerb zum Marktpreis erfolgt, nach der Unterzeichnung des Rahmenübereinkommens, bei 
+einer Person oder einer Gesellschaft, die nicht im Sinne von Artikel 1:20 des Gesetzbuches der Gesellschaften 
+und Vereinigungen verbunden ist,- Löhne und andere Entschädigungen des Personals oder Entschädigungen 
+der selbständigen Dienstleistungserbringer, die mit der Schaffung und Ausführung des in Betracht kommenden 
+Werks verbunden sind,- Soziallasten, die mit den im zweiten Gedankenstrich erwähnten Löhnen 
+und Kosten verbunden sind,- Ausgaben für den Ankauf von Material, Ausstattung und Ausrüstung 
+im Verhältnis zu ihrem Anteil an der Produktion des in Betracht kommenden Werks,- Ausgaben 
+in Zusammenhang mit Tests, die für die Realisierung des in Betracht kommenden Werks erforderlich oder 
+nützlich sind,- Kosten für die Miete von Aufnahme- und Filmstudios und Webspace,- 
+Versicherungskosten in direktem Zusammenhang mit der Produktion des in Betracht kommenden Werks,- 
+Kosten für die Übersetzung des in Betracht kommenden Werks,- Kosten für Edition und Verkaufsförderung, 
+die der Produktion eigen sind: Plakate, Flyer, Pressemappe, Website oder Webseite, die mit der Produktion 
+verbunden ist, Fernseh- oder Radiowerbung, Marketing in den sozialen Medien und Kosten, die mit der Markteinführung 
+der Endversion verbunden sind,2. Ausgaben, die nicht in direktem Zusammenhang mit der Produktion 
+und Verwertung stehen, unter anderem:- Ausgaben in Bezug auf administrative, finanzielle und 
+rechtliche Organisation und Begleitung der Produktion eines in Betracht kommenden Werks,- Finanzierungskosten 
+und Provisionen, die im Rahmen der Anwerbung von Unternehmen gezahlt werden, die ein Rahmenübereinkommen 
+zur Produktion eines in Betracht kommenden Werks abschließen,- Kosten in Zusammenhang 
+mit der Finanzierung des in Betracht kommenden Werks oder auf der Grundlage eines in Artikel 194ter § 
+1 Absatz 1 Nr. 5 erwähnten Rahmenübereinkommens gezahlte Summen einschließlich der Kosten für rechtlichen 
+Beistand, Rechtsanwaltskosten, Zinsen, Garantiekosten, Verwaltungskosten, Provisionen und Repräsentationskosten,- 
+Rechnungen, die von dem in Betracht kommenden Anleger erstellt werden, mit Ausnahme der Rechnungen von 
+Unternehmen für Produktionsdienstleistungen, wenn die in Rechnung gestellten Güter oder Dienstleistungen 
+in direktem Zusammenhang mit der Produktion stehen und in dem Maße, wie der Betrag dieser Rechnungen 
+dem Preis entspricht, der hätte gezahlt werden müssen, wenn die beteiligten Gesellschaften voneinander 
+völlig unabhängig wären,- Vertriebskosten, die zu Lasten der Produktionsgesellschaft sind. 
+§ 4 - In Abweichung von Artikel 194ter § 1 Absatz 5 kommen Ausgaben, die während sechs 
+Monaten vor Unterzeichnung des Rahmenübereinkommens in Bezug auf das in Betracht kommende Werk getätigt 
+werden, niemals in Betracht. § 5 - Pro Besteuerungszeitraum wird die in Artikel 194ter 
+§ 2 vorgesehene Steuerbefreiung zu einem Betrag gewährt, der bei einem Höchstbetrag von 750.000 
+EUR auf 50 Prozent der steuerpflichtigen Gewinnrücklagen des Besteuerungszeitraums begrenzt ist, die 
+vor Bildung der in Artikel 194ter § 4 erwähnten steuerfreien Rücklage festgestellt wurden. Dieser 
+Grenzbetrag und dieser Höchstbetrag sind auf den Gesamtbetrag der in den Artikeln 194ter, 194ter/1 und 
+194ter/3 erwähnten Steuerbefreiungen anwendbar.Für den Besteuerungszeitraum, für den der in 
+Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 29 Prozent festgelegt wird, wird der in Absatz 
+1 erwähnte Höchstbetrag auf 850.000 EUR angehoben.Für den Besteuerungszeitraum, für den der 
+in Artikel 215 Absatz 1 erwähnte Gesellschaftssteuersatz auf 25 Prozent festgelegt wird, wird der in 
+Absatz 1 erwähnte Höchstbetrag auf 1.000.000 EUR angehoben.Gibt es in einem Besteuerungszeitraum 
+keine oder unzureichende Gewinne, um die Summen zur Ausführung des Rahmenübereinkommens zu verwenden, 
+wird die für diesen Besteuerungszeitraum nicht gewährte Steuerbefreiung gemäß Artikel 194ter § 
+3 Absatz 2 bis 4 nacheinander auf die Gewinne der nachfolgenden Besteuerungszeiträume übertragen, ohne 
+dass die in den Artikeln 194ter § 2, 194ter/1 § 5 und 194ter/3 § 5 erwähnten Steuerbefreiungen, 
+gegebenenfalls zusammen angewandt, pro Besteuerungszeitraum die in Absatz 1 festgelegten Grenzen übersteigen 
+dürfen.In Abweichung von Artikel 194ter § 8 Absatz 4 beläuft sich die Summe aller Steuerwerte 
+der Tax-Shelter-Bescheinigungen pro in Betracht kommendes Werk auf höchstens 2.500.000 EUR. 
+§ 6 - Um gemäß Artikel 194ter § 7 Absatz 1 Nr. 3 zweiter Gedankenstrich bescheinigen 
+zu können, dass die Realisierung des Originalvideospiels abgeschlossen ist, muss die betreffende Gemeinschaft 
+sich vergewissern, dass eine Endversion dieses Spiels im Europäischen Wirtschaftsraum realisiert worden 
+ist."Art. 6 - Artikel 227/1 desselben Gesetzbuches, eingefügt durch das Gesetz vom 25. Dezember 
+2016 und abgeändert durch das Gesetz vom 25. Dezember 2017, wird wie folgt abgeändert:1. Die 
+Wörter "in den Artikeln 194ter und 194ter/1" werden durch die Wörter "in den Artikeln 194ter, 194ter/1 
+und 194ter/3" ersetzt.2. Die Wörter "in Anwendung von Artikel 194ter oder 194ter/1" werden 
+durch die Wörter "in Anwendung von Artikel 194ter, 194ter/1 oder 194ter/3" ersetzt.Art. 7 - 
+Vorliegendes Gesetz tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft.Die 
+Anwendung des vorliegenden Gesetzes ist abhängig von:1. der vorhergehenden Unterzeichnung eines 
+Zusammenarbeitsabkommens zwischen den Gemeinschaften und dem Föderalstaat in Bezug auf die in Betracht 
+kommenden Werke,2. dem Beschluss der Europäischen Kommission, dass die in Artikel 194ter/3 
+des Einkommensteuergesetzbuches 1992 erwähnte Tax-Shelter-Regelung für Videospiele keine staatliche Beihilfe, 
+für die eine Unvereinbarkeit vorliegt, darstellt wie in Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise 
+der Europäischen Union erwähnt.Die Artikel 2 bis 6 sind auf Rahmenübereinkommen anwendbar, 
+die ab dem ersten Tag des Monats unterzeichnet werden, der auf die Veröffentlichung einer Bekanntmachung 
+des Finanzministers im Belgischen Staatsblatt folgt, in der mitgeteilt wird, dass die beiden Bedingungen 
+erfüllt sind.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel 
+versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 29. 
+März 2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROOMit dem Staatssiegel versehen:Der Minister der Justiz,K. 
+GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020765
+

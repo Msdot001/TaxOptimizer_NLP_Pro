@@ -1,0 +1,102 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/07/2020031524/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-12Numac : 2020031524
+WAALSE OVERHEIDSDIENST
+ 7 OKTOBER 2020. - Ministerieel besluit tot wijziging van het ministerieel besluit van 8 september 2020 ter uitvoering van het besluit van de Waalse Regering van 16 juli 2020 betreffende de toekenning van aanvullende vergoedingen in het kader van de maatregelen tegen het coronavirus COVID-19 
+De 
+Minister van Economie,Gelet op het decreet van 11 maart 2004 betreffende de gewestelijke incentives 
+ten gunste van kleine en middelgrote ondernemingen, inzonderheid op de artikelen 10 en 19;Gelet 
+op het besluit van de Waalse Regering van 16 juli 2020 betreffende de toekenning van aanvullende vergoedingen 
+in het kader van de maatregelen tegen het coronavirus COVID-19, inzonderheid op artikel 3, lid 3;Gelet 
+op het ministerieel besluit van 8 september 2020 ter uitvoering van het besluit van de Waalse Regering 
+van 16 juli 2020 betreffende de toekenning van aanvullende vergoedingen in het kader van de maatregelen 
+tegen het coronavirus COVID-19;Gelet op het rapport van 1 oktober 2014 opgesteld overeenkomstig 
+artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 2 oktober;Gelet op de instemming van de Minister van Begroting, gegeven op 2 oktober;Gelet 
+op het advies nr. 68.126/2 van de Raad van State, gegeven op 7 oktober 2020, overeenkomstig artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Gelet 
+op de dringende noodzakelijkheid;Gelet het ministerieel besluit van 23 maart 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd met name 
+bij het ministerieel besluit van 5 juni 2020;Overwegende dat voornoemd ministerieel besluit 
+van 23 maart 2020 vereist dat bepaalde ondernemingen of delen van ondernemingen tot en met 30 juni 2020 
+gesloten blijven;Overwegende dat het dringend is om dit besluit aan te nemen gezien de uitzonderlijke 
+crisissituatie die nog steeds bestaat, namelijk de gevolgen van de gezondheidscrisis COVID-19 voor veel 
+ondernemingen die ernstige economische schade lijden;Overwegende dat het noodzakelijk is om 
+dringend steunmaatregelen te voorzien voor de getroffen ondernemingen, ten einde de economische schade 
+te beperken;Overwegende dat de getroffen ondernemingen door de voortgezette sluitingsmaatregelen 
+hun omzet fors zien dalen, of zelfs helemaal verdwijnen, en dat hierdoor het inkomen van de ondernemers 
+en van hun werknemers in het gedrang komt;Overwegende dat deze steun onder meer tot doel heeft 
+om een golf van faillissementen te vermijden onder de ondernemingen die prangende liquiditeitsproblemen 
+ondervinden ten gevolge van de crisis;Overwegende dat wanbetalingen ten gevolge van liquiditeitsproblemen 
+een domino-effect in de economie zouden kunnen veroorzaken, hetgeen ten alle koste vermeden moet worden;Overwegende 
+dat deze problemen en effecten op zeer korte termijn voelbaar zullen zijn en dat het dus niet verantwoord 
+is om enige vertraging op te lopen in het uitvoeren van de steunmaatregel;Overwegende dat de 
+steun daarom zo snel mogelijk uitgekeerd moet kunnen worden;Gelet op de maatregelen genomen 
+tegen coronavirus COVID-19 door de federale Regering;Overwegende dat de sectoren van de recreatieve 
+activiteiten, kunst en amusement die in dit besluit in aanmerking komen, sectoren zijn die binnen de 
+sfeer van de culturele activiteiten vallen, maar die door hun aard van ondersteuning van de genoemde 
+activiteiten toch onder de economische bevoegdheid vallen;Gelet op de sectoren en subsectoren 
+die nog steeds aanzienlijke gevolgen ondervinden van de beperking van de Nationale Veiligheidsraad voor 
+wat betreft de "sociale bubbel";Gelet op de sectoren en subsectoren die nog steeds aanzienlijke 
+gevolgen ondervinden van de beperking van de Nationale Veiligheidsraad voor wat betreft de massa-evenementen;Overwegende 
+dat er dan ook reden is om maatregelen op deze gebieden te treffen;Overwegende dat de dringende 
+noodzakelijkheid verantwoord is;Overwegende dat het gaat om activiteiten in verband met evenementen, 
+recreatie en massa-evenementen die worden beïnvloed door de crisis van het coronavirus COVID-19 en dat 
+ze in de toegelaten sectoren opgenomen dienen te worden om niet discriminerend te zijn;Overwegende 
+dat dit besluit met terugwerkende kracht tot 9 september 2020, datum van het eerste ministerieel besluit, 
+moet gelden,Besluit : Artikel 1. In artikel 2 van het ministerieel besluit van 8 
+september 2020 ter uitvoering van het besluit van de Waalse Regering van 16 juli 2020 betreffende de 
+toekenning van aanvullende vergoedingen in het kader van de maatregelen tegen het coronavirus COVID-19 
+worden de volgende punten 1° /1 en 1° /2 ingevoegd, luidend als volgt:"1° /1 77.294 van de 
+NACE-BEL-code;""1° /2 77.296 van de NACE-BEL-code;".Art. 2. Dit besluit heeft uitwerking 
+op 9 september 2020.Namen, 7 oktober 2020.W. BORSUS  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-12Numac : 2020031524
+

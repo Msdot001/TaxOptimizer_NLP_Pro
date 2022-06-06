@@ -1,0 +1,83 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-07Numac : 2021041191
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie voor Beleidsexpertise en -ondersteuning. - Dienst Reglementering. - Akkoord in 
+onderling overleg tussen de bevoegde autoriteiten van Duitsland en België ter verlenging van het akkoord 
+in onderling overleg van 6 mei 2020 met betrekking tot de situatie van de grensarbeiders die van thuis 
+uit werken in de context van de COVID-19-pandemie, zoals verlengd door de akkoorden in onderling overleg 
+van 20 mei 2020, 22 juni 2020, 24 augustus 2020 en 11 december 20201. InleidingOp 
+6 mei 2020 sloten Duitsland en België een akkoord in onderling overleg overeenkomstig artikel 25, paragraaf 
+3 van de op 11 april 1967 ondertekende Overeenkomst tussen de Bondsrepubliek Duitsland en het Koninkrijk 
+België tot voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake 
+belastingen van inkomen en van vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, 
+zoals gewijzigd door de aanvullende Overeenkomst, ondertekend op 5 november 2002, (het "Akkoord").2. 
+VerlengingHet Akkoord bepaalt dat het verlengd kan worden vanaf 31 mei 2020 tot het einde van 
+de volgende kalendermaand door een schriftelijke overeenkomst tussen de twee bevoegde autoriteiten ten 
+minste één week voor de aanvang van de betreffende volgende kalendermaand.Op 20 mei 2020 hebben 
+de bevoegde autoriteiten van Duitsland en België een eerste akkoord gesloten dat het Akkoord verlengt 
+tot 30 juni 2020.Op 22 juni 2020 hebben de bevoegde autoriteiten van Duitsland en België een 
+tweede akkoord gesloten dat het Akkoord verlengt tot 31 augustus 2020.Op 24 augustus 2020 hebben 
+de bevoegde autoriteiten van Duitsland en België een derde akkoord gesloten dat het Akkoord verlengt 
+tot 31 december 2020.Op 11 december 2020 hebben de bevoegde autoriteiten van Duitsland en België 
+een vierde akkoord gesloten dat het Akkoord verlengt tot 31 maart 2021.In deze context komen 
+de bevoegde autoriteiten van Duitsland en België overeen de toepassing van het Akkoord een vijfde keer 
+te verlengen tot 30 juni 2021.Deze verlenging wijkt niet af van de algemene regel die in het 
+Akkoord is vastgelegd en die stelt dat het Akkoord unilateraal door elke bevoegde autoriteit kan worden 
+beëindigd door daarvan kennis te geven aan de andere bevoegde autoriteit. Zulke kennisgeving moet ten 
+minste één week voor de aanvang van de desbetreffende kalendermaand worden gedaan. In dat geval houdt 
+het Akkoord op van toepassing te zijn op de eerste dag van de desbetreffende kalendermaand.3. 
+PublicatieDit vijfde verlengingsakkoord zal worden gepubliceerd in het Duitse "Bundessteuerblatt" 
+en in het Belgisch Staatsblad.Overeengekomen door de ondergetekende bevoegde autoriteiten op 
+17 maart 2021:Voor de bevoegde autoriteit van België :P. DE VOS,Adviseur-generaal 
+Federale Overheidsdienst Financiën, BelgiëVoor de bevoegde autoriteit van Duitsland :C. 
+DALLWITZ,Adjunt-afdelingshoofd Federaal Ministerie van Financiën, Duitsland   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-07Numac : 2021041191
+

@@ -1,0 +1,118 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/20/2020042418/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-28Numac : 2020042418
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 20 JULI 2020. - Koninklijk besluit tot wijziging van het koninklijk besluit van 4 juni 2020 houdende toekenning van een ouderschapsuitkering ten gunste van de zelfstandige die zijn zelfstandige activiteit gedeeltelijk onderbreekt in het kader van de maatregelen tegen de verspreiding van het coronavirus COVID-19 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, 
+artikel 18bis, § 3, ingevoegd bij de wet van 15 juli 2016;Gelet op het koninklijk besluit 
+van 4 juni 2020 houdende toekenning van een ouderschapsuitkering ten gunste van de zelfstandige die zijn 
+zelfstandige activiteit gedeeltelijk onderbreekt in het kader van de maatregelen tegen de verspreiding 
+van het coronavirus COVID-19;Gelet op het advies van het Algemeen Beheerscomité voor het Sociaal 
+Statuut der Zelfstandigen, gegeven op 25 juni 2020;Gelet op het advies van de Inspecteur van 
+Financiën, gegeven op 22 juni 2020;Gelet op de akkoordbevinding van de Minister van Begroting, 
+gegeven op 25 juni 2020;Gelet op het artikel 8 van de wet van 15 december 2013 houdende diverse 
+bepalingen inzake administratieve vereenvoudiging, is dit besluit vrijgesteld van een regelgevingsimpactanalyse 
+gezien de hoogdringendheid die gemotiveerd wordt door de COVID-19-pandemie;Gelet op de hoogdringendheid, 
+gemotiveerd door de COVID-19-pandemie;Gelet op het advies nr. 67.694/1 van de Raad van State, 
+gegeven op 6 juli 2020, met toepassing van artikel 84, § 1, eerste lid, 3°,  van de wetten op 
+de Raad van State, gecoördineerd op 12 januari 1973;Gelet op de dringende noodzakelijkheid 
+gemotiveerd door het feit dat het coronavirus COVID-19 zich verspreidt op Europees grondgebied en in 
+België en dringende maatregelen worden genomen om het risico voor de volksgezondheid te beperken;Gelet 
+op de beslissingen van de Nationale Veiligheidsraad inzake met name, enerzijds, de essentiële activiteiten 
+en, anderzijds, de heropstart van bepaalde economische activiteiten vanaf 4 mei 2020 gevolgd door de 
+heropstart van andere sectoren vanaf 18 mei en 8 juni 2020, in combinatie met de gefaseerde heropstart 
+van de scholen in mei en juni 2020, was er nood aan een maatregel ten behoeve van de werkende ouders 
+die de dubbele taak moeten uitvoeren van werken en kinderopvang. Dit moest gebeuren zonder dat ze daarbij, 
+wegens de gezondheidsrisico's, beroep doen op de hulp van grootouders, noch, in veel gevallen, op opvang 
+via onder meer de scholen. Er werd dan ook een tijdelijke ouderschapsuitkering ten gunste van zelfstandigen 
+ingevoerd door het koninklijk besluit van 4 juni 2020 houdende toekenning van een ouderschapsuitkering 
+ten gunste van de zelfstandige die zijn zelfstandige activiteit gedeeltelijk onderbreekt in het kader 
+van de maatregelen tegen de verspreiding van het coronavirus COVID-19.Deze maatregel werd reeds 
+een eerste keer verlengd voor de maanden juli en augustus 2020. De niet altijd zo evidente combinatie 
+van werken en het opvangen van (jonge) kinderen dringt zich eveneens verder op tijdens de maand september 
+2020. Na 6 maanden zonder school of een regelmatig ritme, zal het voor (jonge) kinderen niet evident 
+zijn om zich opnieuw aan te passen aan een schoolomgeving. Zodoende is aangepaste begeleiding door hun 
+ouders noodzakelijk.In deze gecompliceerde en onzekere context van heropstart, is het dan ook 
+passend om de initiële maatregel voor steun aan zelfstandige ouders tijdens de maand september 2020 te 
+verlengen.Voor deze zelfstandigen, die ouder zijn van één of meerdere kinderen jonger dan 12 
+jaar, of van één of meerdere kinderen met een beperking, die beslist hebben om hun zelfstandige activiteiten 
+niet te onderbreken of die te hervatten, en die daardoor dus de tijdelijke crisismaatregel overbruggingsrecht 
+(of de tijdelijke maatregel overbruggingsrecht ter ondersteuning van de heropstart) beoogd door de wet 
+van 23 maart 2020 niet (meer) genieten, moet het bijgevolg eveneens mogelijk zijn om aanspraak te maken 
+op een uitkering in september indien hun zelfstandige activiteiten in september beïnvloed worden door 
+de zorgen die zij moeten geven aan hun kind of kinderen.De voorgestelde maatregel beoogt een 
+uitkering toe te kennen van 532,24 euro per maand of een uitkering van 875 euro in geval van een eenoudergezin.Vanaf 
+juli 2020 wordt het bedrag van de uitkering voor alleenstaande ouders en ouders van gehandicapte kinderen 
+verhoogdOp de voordracht van de Minister van Sociale Zaken en de Minister van Zelfstandigen 
+en op het advies van de in Raad vergaderde Ministers,Hebben Wij besloten en besluiten Wij :Artikel 
+1. Artikel 4 van het koninklijk besluit van 4 juni 2020 houdende toekenning van een ouderschapsuitkering 
+ten gunste van de zelfstandige die zijn zelfstandige activiteit gedeeltelijk onderbreekt in het kader 
+van de maatregelen tegen de verspreiding van het coronavirus COVID-19, wordt vervangen als volgt:"Art. 
+4. Het bedrag van de uitkering bedraagt 532,24 euro.In afwijking van het vorige lid, bedraagt 
+het bedrag van de uitkering:1) 875,00 euro voor de zelfstandige die uitsluitend samenwoont 
+met één of meerdere kinderen die hij ten laste heeft, en dit voor de onderbrekingen bedoeld in artikel 
+2, § 3, die zich situeren in de periode van 1 mei 2020 tot en met 30 juni 2020;2) 638,69 
+euro voor de zelfstandige die zorg verleent aan een gehandicapt kind bedoeld in artikel 2, § 3, 
+laatste lid, en dit voor de onderbrekingen bedoeld in artikel 2, § 3, die zich situeren in de 
+periode van 1 juli 2020 tot en met 30 september 2020;3) 1050,00 euro voor een zelfstandige 
+die uitstuitend samenwoont met één of meerdere kinderen, al dan niet bedoeld in artikel 2, § 3, 
+laatste lid, die hij ten laste heeft, en dit voor de onderbrekingen bedoeld in artikel 2, § 3, 
+die zich situeren in de periode van 1 juli 2020 tot en met 30 september 2020.".Art. 2.  In 
+artikel 9 van hetzelfde koninklijk besluit, laatst gewijzigd door het koninklijk besluit van 26 juni 
+2020, worden de woorden "in de periode van 1 mei 2020 tot en met 31 augustus 2020" worden vervangen door 
+de woorden "in de periode van 1 mei 2020 tot en met 30 september 2020".Art. 3. Dit besluit 
+heeft uitwerking met ingang van op 30 juni 2020.Art. 4. De minister bevoegd voor Sociale Zaken 
+en de minister bevoegd voor Zelfstandigen zijn, ieder wat hem betreft, belast met de uitvoering van dit 
+besluit.Gegeven te Brussel, 20 juli 2020.FILIPVan Koningswege :De 
+Minister van Sociale Zaken,M. DE BLOCKDe Minister van Zelfstandigen,D. 
+DUCARME   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-28Numac : 2020042418
+

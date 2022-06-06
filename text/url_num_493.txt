@@ -1,0 +1,68 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/decreet/2021/04/02/2021030915/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021030915
+VLAAMSE OVERHEID 
+ 2 APRIL 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19 (1) 
+Het VLAAMS PARLEMENT heeft aangenomen 
+en Wij, REGERING, bekrachtigen hetgeen volgt:Decreet houdende instemming met het samenwerkingsakkoord 
+van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige 
+Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie 
+betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19Artikel 
+1. Dit decreet regelt een gemeenschapsaangelegenheid.Art. 2. Instemming wordt verleend met 
+het samenwerkingsakkoord van 12 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse 
+Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest 
+en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties 
+tegen COVID-19.Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden 
+bekendgemaakt.Brussel, 2 april 2021.De minister-president van de Vlaamse Regering,J. 
+JAMBONDe Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding,W. 
+BEKE_______Nota(1) Zitting 2020-2021Documenten: - Ontwerp van 
+decreet : 708 - Nr. 1  - Tekst aangenomen door de plenaire vergadering : 708 - Nr. 2 Handelingen 
+- Bespreking en aanneming: Vergadering van 31 maart 2021.  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021030915
+

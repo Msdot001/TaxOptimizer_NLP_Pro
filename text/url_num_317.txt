@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-21Numac : 2020204243
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+  
+Resultaat van de vergelijkende selectie van Franstalige Junior medewerkers internationale fiscaliteit 
+(m/v/x) (niveau A1) voor de FOD Financiën. - Selectienummer: AFG20033 Deze selectie werd afgesloten 
+op 23/09/2020. Er zijn 11 laureaten. De lijst is 1 jaar geldig.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-21Numac : 2020204243
+

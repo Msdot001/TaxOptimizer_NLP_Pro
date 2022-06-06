@@ -1,0 +1,125 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/25/2021200989/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021200989
+WAALSE OVERHEIDSDIENST 
+ 25 FEBRUARI 2021. - Besluit van de Waalse Regering tot wijziging van het besluit van de Waalse Regering van 29 juni 2006 betreffende de verlaagde tarieven van de successie- en de schenkingsrechten, meer bepaald bij overdracht van ondernemingen 
+De Waalse Regering,Gelet op de bijzondere wet van 
+8 augustus 1980 tot hervorming der instellingen, zoals gewijzigd, inzonderheid op artikel 20;Gelet 
+op het Wetboek der successierechten, inzonderheid op de artikelen 59, 2°, 60, 60bis, § 1bis, eerste 
+lid, 3°, en 60bis, § 3, eerste lid, 4° en 5°; Gelet op het Wetboek der registratie-, 
+hypotheek- en griffierechten, inzonderheid op de artikelen 140, 140bis, § 2, eerste lid, 3°, en 
+140quinquies, § 1, eerste lid, 4° en 5°;Gelet op het besluit van de Waalse Regering 
+van 29 juni 2006 betreffende de verlaagde tarieven van de successie- en de schenkingsrechten, meer bepaald 
+bij overdracht van ondernemingen;Gelet op het advies van de Inspecteur van Financiën, gegeven 
+op 10 juli 2020;Gelet op de instemming van de Minister van Begroting, gegeven op 24 september 
+2020;Gelet op het rapport van 15 september 2020, opgesteld overeenkomstig artikel 3, 2°, van 
+het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie van de 
+Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op advies nr. 68.095/4 van de Raad van 
+State, gegeven op 26 oktober 2020, overeenkomstig artikel 84, § 1, eerste lid, 2°, van de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1273;Gelet op het advies van de  »Conseil 
+de la Fiscalité et des Finances de Wallonie » (Raad van de fiscaliteit en de financiën van Wallonië), 
+gegeven op 13 november 2020;Op de voordracht van de Minister van Financiën;Na beraadslaging,Besluit 
+:Artikel 1. In artikel 1 van het besluit van de Waalse Regering van 29 juni 2006 betreffende 
+de verlaagde tarieven van de successie- en de schenkingsrechten, meer bepaald bij overdracht van ondernemingen, 
+worden de woorden  »Onroerende en Milieufiscaliteit van het Operationeel Directoraat-generaal Fiscaliteit 
+van de Waalse Overheidsdienst » vervangen door de woorden  » Vermogensverrichtingen van de Waalse Overheidsdienst 
+Fiscaliteit; ». Art. 2. In artikel 2 van hetzelfde besluit: 1° in paragraaf 1 worden 
+de woorden  »Onroerende en Milieufiscaliteit van het Operationeel Directoraat-generaal Fiscaliteit van 
+de Waalse Overheidsdienst » vervangen door de woorden  »Vermogensverrichtingen van de Waalse Overheidsdienst 
+Fiscaliteit »;2° in paragraaf 2 worden de woorden  »Onroerende en Milieufiscaliteit van het 
+Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst » vervangen door de woorden 
+ »Vermogensverrichtingen van de Waalse Overheidsdienst Fiscaliteit »;3° in paragraaf 2, 1°, 
+worden de woorden  »van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+» vervangen door de woorden  »van de Waalse Overheidsdienst Fiscaliteit »;4° in paragraaf 2, 
+2°, worden de woorden  »van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+» vervangen door de woorden  »van de Waalse Overheidsdienst Fiscaliteit »;5° in paragraaf 2, 
+2°, a) worden de woorden  »Bijzondere Fiscaliteit van het Operationeel Directoraat-generaal Fiscaliteit 
+van de Waalse Overheidsdienst » vervangen door de woorden  »Vestiging en Controle van de Waalse Overheidsdienst 
+Fiscaliteit »; 6° in paragraaf 2, 2°, b) worden de woorden  »Invordering van het Operationeel 
+Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst » vervangen door de woorden  »Invordering 
+en Inning van de Waalse Overheidsdienst Fiscaliteit »;7° in paragraaf 2, 2°, c) worden de woorden 
+ »Voertuigenfiscaliteit van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+» vervangen door de woorden  »Operationele Ondersteuning van de Waalse Overheidsdienst Fiscaliteit ». 
+Art. 3. In artikel 7 van hetzelfde besluit: 1° in het eerste lid, worden de woorden 
+ »bij het bestuur » vervangen door de woorden  »bij het Departement Geschillen en Juridische Ondersteuning 
+van de Waalse Overheidsdienst Fiscaliteit »;2° het tweede lid wordt vervangen door :  »De inspecteur-generaal 
+van het Departement Geschillen en Juridische Ondersteuning van de Waalse Overheidsdienst Fiscaliteit 
+beslist over het beroep bij beslissing die binnen zes maanden na ontvangst van het beroep ter kennis 
+wordt gebracht van de voortzetters.  ». Art. 4. In artikel 8bis van hetzelfde besluit: 1° 
+in paragraaf 1 worden de woorden  »Onroerende en Milieufiscaliteit van het Operationeel Directoraat-generaal 
+Fiscaliteit van de Waalse Overheidsdienst » vervangen door de woorden  »Vermogensverrichtingen van de 
+Waalse Overheidsdienst Fiscaliteit »; 2° in paragraaf 2 worden de woorden  »Onroerende en Milieufiscaliteit 
+van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst » vervangen door 
+de woorden  »Vermogensverrichtingen van de Waalse Overheidsdienst Fiscaliteit »;3° in paragraaf 
+2, 1°, worden de woorden  »van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+» vervangen door de woorden  »van de Waalse Overheidsdienst Fiscaliteit »;4° in paragraaf 2, 
+2°, worden de woorden  »van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+» vervangen door de woorden  »van de Waalse Overheidsdienst Fiscaliteit »;5° in paragraaf 2, 
+2°, a) worden de woorden  »het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst 
+ » vervangen door de woorden  »het Departement Vestiging en Controle van de Waalse Overheidsdienst Fiscaliteit 
+»; 6° in paragraaf 2, 2°, b) worden de woorden  »Invordering van het Operationeel Directoraat-generaal 
+Fiscaliteit van de Waalse Overheidsdienst » vervangen door de woorden  »Invordering en Inning van de 
+Waalse Overheidsdienst Fiscaliteit »;7° in paragraaf 2, 2°, c) worden de woorden  »Voertuigenfiscaliteit 
+van het Operationeel Directoraat-generaal Fiscaliteit van de Waalse Overheidsdienst » vervangen door 
+de woorden  »Operationele Ondersteuning van de Waalse Overheidsdienst Fiscaliteit ». Art. 5. 
+In artikel 10ter van hetzelfde besluit: 1° in het eerste lid, worden de woorden  »bij de administratie 
+» vervangen door de woorden  »bij het Departement Geschillen en Juridische Ondersteuning van de Waalse 
+Overheidsdienst Fiscaliteit »;2° het tweede lid wordt vervangen door :  »De inspecteur-generaal 
+van het Departement Geschillen en Juridische Ondersteuning van de Waalse Overheidsdienst Fiscaliteit 
+beslist over het beroep bij beslissing die binnen zes maanden na ontvangst van het beroep ter kennis 
+wordt gebracht van de voortzetters.  ». Art. 6. De artikelen 12 tot 17 worden opgeheven. Art. 
+7. Dit besluit is van toepassing op beroepen die met ingang van 1 juli 2021 worden ingesteld.Beroepen 
+die tot en met 30 juni 2021 worden ingesteld, worden verder behandeld volgens de procedure die vóór de 
+inwerkingtreding van dit besluit van toepassing was.Artikel 1 - De Minister bevoegd voor Financiën 
+is belast met de uitvoering van dit besluit.Namen, 25 februari 2021.Voor de Waalse 
+Regering : De Minister-President,E. DI RUPODe Minister van Begroting en 
+Financiën, Luchthavens en Sportinfrastructuren,J.-L. CRUCKE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021200989
+

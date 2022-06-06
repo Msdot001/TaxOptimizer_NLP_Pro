@@ -1,0 +1,118 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/03/24/2020015663/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015663
+FEDERAAL AGENTSCHAP VOOR GENEESMIDDELEN EN GEZONDHEIDSPRODUCTEN  
+ 24 MAART 2020. - Koninklijk besluit houdende exportverbod van griepvaccins, in het kader van de COVID-19 pandemie 
+FILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, 
+Onze Groet.Gelet op de wet van 25 maart 1964 op de geneesmiddelen, artikel 12septies, eerste 
+lid;Gelet op het advies van de Inspecteur van financiën, gegeven op 28 augustus 2020;Gelet 
+op het verzoek om spoedbehandeling, gemotiveerd door de omstandigheid dat de hieronder omschreven gefaseerde 
+aflevering van griepvaccins, reeds aanvang dient te vinden vanaf 15 september 2020;Dat het 
+door onderhavig besluit op te leggen exportverbod aldus voor deze datum dient in te gaan;Dat 
+het derhalve onmogelijk is om, op heden, de termijn van 30 dagen te doorlopen;Dat het exportverbod, 
+zoals omschreven en gemotiveerd in onderhavig besluit, evenwel essentieel is om de volksgezondheid te 
+vrijwaren, zie hieromtrent ook het advies van de Hoge Gezondheidsraad nr. 9581 m.b.t. "Vaccinatie tegen 
+seizoensgebonden griep - winterseizoen 2020-2021";Zoals omschreven, wordt een exportverbod 
+opgelegd voor de Belgische verpakkingen van drie verschillende soorten griepvaccins;Gelet op 
+het advies 68.055/3van de Raad van State, gegeven op 25 september 2020, met toepassing van artikel 84, 
+§ 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende 
+dat de vaccinatie tegen de seizoensgebonden griep 2020-2021 in de context van de COVID-19 pandemie van 
+belang is en rekening houdende met de beperkte beschikbaarheid van de vaccins, heeft het FAGG een TaskForce 
+opgericht met de verschillende bevoegde overheden en betrokken partijen. Deze taskforce adviseerde om 
+deze vaccinatie van 2020-2021 in twee fases te laten doorgaan. Een aanpak die wordt ondersteund door 
+de ministers van Volksgezondheid (federaal niveau en gefedereerde entiteiten);Dat het van cruciaal 
+belang is om zo veel mogelijk personen die het risico lopen op complicaties te vaccineren om overbelasting 
+van het gezondheidssysteem te voorkomen en de bezettingsgraad in de ziekenhuizen zo laag mogelijk te 
+houden, aangezien de kans bestaat dat het griepseizoen samenvalt met een COVID-19-piek;Dat, 
+daarnaast, de vaccinatie van personen werkzaam in de gezondheidssector belangrijk is om niet alleen patiënten 
+indirect te beschermen, maar ook om hun beschikbaarheid te verzekeren in het geval van een nieuwe COVID-19 
+golf;Dat, tenslotte, de vaccinatie van personen tussen 50 en 64 jaar het zal toelaten de werkdruk 
+voor de eerstelijnsgeneeskunde te verminderen;Dat dit alles voortvloeit uit het advies nr. 
+9581 van de Hoge Gezondheidsraad (verder "HGR") m.b.t. "Vaccinatie tegen seizoensgebonden griep - winterseizoen 
+2020-2021", alwaar de HGR het belang van de griepvaccinatie als volgt benadrukt: "Dit jaar wenst de HGR 
+meer dan ooit personen uit categorie A aan te bevelen om zich te laten vaccineren om op die manier de 
+bezetting van ziekenhuisbedden potentieel te verminderen indien het griepseizoen zou samenvallen met 
+een piek van COVID-19. Ook wordt benadrukt dat het vaccineren van personeel werkzaam in de gezondheidssector 
+van belang is om niet enkel patiënten indirect te beschermen maar ook om zichzelf te beschermen en de 
+eigen beschikbaarheid te waarborgen in het geval van een nieuwe golf van COVID-19. In dezelfde context 
+is het bovendien wenselijk om ook de nadruk te leggen op het vaccineren van personen tussen 50 en 65 
+jaar tegen seizoensgriep (categorie B)."Dat het belang voor de volksgezondheid van de vaccinatie 
+van minstens de door de HGR opgelijste prioritaire groepen derhalve buiten kijf staat. Het vaccineren 
+van de hogervermelde risicogroepen is essentieel, teneinde de Belgische gezondheidszorg optimaal voor 
+te bereiden op het verdere verloop van de COVID-19 pandemie;Dat de betrokken overheden een 
+advies in die zin hebben uitgebracht op 26 augustus 2020, aangaande de gefaseerde vaccinatie, waarbij 
+de gefaseerde vaccinatie werd aanbevolen;Dat evenwel moet worden vastgesteld dat, gelet op 
+de expliciete oproep van de HGR tot vaccinatie van minstens de risicogroepen en de inschatting dat een 
+grotere groep personen tot vaccinatie zal overgaan, de kans reëel is dat er voor de Belgische markt onvoldoende 
+griepvaccins beschikbaar zullen zijn om zowel de hogervermelde risicogroepen, als de rest van de bevolking 
+te bevoorraden;Dat België namelijk over 2,9 miljoen vaccins tegen de seizoensgriep zal kunnen 
+beschikken, wat meer is dan de voorbije jaren. Deze hoeveelheid zal voldoende zijn om de vaccinatie van 
+de door de HGR vastgestelde doelgroepen te dekken, voor zover het vaccinatiepercentage vergelijkbaar 
+is met het vorige seizoen en voor zover deze vaccins niet afvloeien naar andere landen - zie hieromtrent 
+uitgebreider het hogervermelde advies nr. 9581 van de HGR. De HGR baseert haar advies op het guidance 
+document: Priority risk groups for influenza vaccination van het Europees Centrum voor Ziektepreventie 
+en -bestrijding (ECDC) getoetst aan het standpunt van de experten;Dat, overwegende het hogervermelde 
+belang van de vaccinatie, minstens van de risicogroepen, voor de volksgezondheid, de verwachte hogere 
+vaccinatiegraad (zie advies nr. 9581 HGR, waarin de HGR hiertoe oproept) en het beperkt aantal beschikbare 
+vaccins, er dient te worden vermeden dat de beperkte voorraad vaccins zou worden uitgevoerd naar andere 
+lidstaat, in het kader van parallelexport;Dat het derhalve in het belang is van de volksgezondheid, 
+om de voorraad vaccins bestemd voor de Belgische markt, ter beschikking te houden van de patiënten in 
+België en derhalve de uitvoer ervan te verbieden;Op de voordracht van de Minister van Volksgezondheid, 
+Hebben Wij besloten en besluiten Wij :Artikel 1. Voor de toepassing van dit besluit, 
+wordt verstaan onder "uitvoer" : het verkopen of leveren van geneesmiddelen aan personen gevestigd in 
+een andere EU-lidstaat, met inbegrip van groothandelaars, ziekenhuizen of personen gemachtigd om geneesmiddelen 
+af te leveren aan het publiek, of het transporteren van geneesmiddelen naar een locatie buiten België.Art. 
+2. De uitvoer van de geneesmiddelen met de volgende VHB-nummers, is verboden :1°  BE456924;2° 
+ BE5141423°  BE501511Art. 3. Dit besluit treedt in werking op de datum van de publicatie 
+ervan in het Belgisch Staatsblad, en treedt buiten werking op 28 februari 2021.Art. 4. De minister 
+bevoegd voor Volksgezondheid is belast met de uitvoering van dit besluit.Gegeven te Brussel, 
+24 maart 2020. FILIPVan Koningswege :De Minister van Volksgezondheid,M. 
+DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015663
+

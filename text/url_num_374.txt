@@ -1,0 +1,106 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2015/09/23/2020016318/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-12-15Numac : 2020016318
+FEDERALE OVERHEIDSDIENST JUSTITIE 
+ 23 SEPTEMBER 2015. - Koninklijk besluit houdende wijziging van het koninklijk besluit van 22 december 2003 tot uitvoering van Titel XIII, Hoofdstuk 6 "Voogdij over niet-begeleide minderjarige vreemdelingen" van de Programmawet van 24 december 2002, wat de uitzonderlijke en tijdelijke toekenning van toelagen voor de uitoefening van de voogdij betreft. - Duitse vertaling 
+De hierna volgende tekst is 
+de Duitse vertaling van het koninklijk besluit van 23 september 2015 houdende wijziging van het koninklijk 
+besluit van 22 december 2003 tot uitvoering van Titel XIII, Hoofdstuk 6 "Voogdij over niet-begeleide 
+minderjarige vreemdelingen" van de Programmawet van 24 december 2002, wat de uitzonderlijke en tijdelijke 
+toekenning van toelagen voor de uitoefening van de voogdij betreft (Belgisch Staatsblad van 13 oktober 
+2015).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST JUSTIZ23. SEPTEMBER 2015 - Königlicher Erlass zur Abänderung des Königlichen 
+Erlasses vom 22. Dezember 2003 zur Ausführung von Titel XIII Kapitel 6 - "Vormundschaft über unbegleitete 
+minderjährige Ausländer" - des Programmgesetzes vom 24. Dezember 2002, was die außerordentliche 
+und zeitweilige Gewährung von Zuschüssen für die Ausübung der Vormundschaft betrifftPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!In Erwägung des Programmgesetzes 
+vom 24. Dezember 2002, des Titels XIII Kapitel 6 - "Vormundschaft über unbegleitete minderjährige Ausländer" 
+-, zuletzt abgeändert durch das Gesetz vom 12. Mai 2014;Aufgrund des Gesetzes vom 22. Mai 2003 
+zur Organisation des Haushaltsplans und der Buchführung des Föderalstaates, der Artikel 121 bis 124;Aufgrund 
+des Königlichen Erlasses vom 22. Dezember 2003 zur Ausführung von Titel XIII Kapitel 6 - "Vormundschaft 
+über unbegleitete minderjährige Ausländer" - des Programmgesetzes vom 24. Dezember 2002, des Artikels 
+7bis;Aufgrund der Stellungnahme des Finanzinspektors vom 9. September 2015;Aufgrund 
+des Einverständnisses des Ministers des Haushalts vom 10. September 2015;Aufgrund der am 12. 
+Januar 1973 koordinierten Gesetze über den Staatsrat, des Artikels 3 § 1;Aufgrund der 
+Dringlichkeit;In der Erwägung, dass der erhöhte Zustrom von Asylsuchenden auch eine beträchtliche 
+Zunahme der Anzahl unbegleiteter minderjähriger Ausländer mit sich bringt und dass es notwendig ist, 
+alle möglichen Mittel zu nutzen, unbegleiteten minderjährigen Ausländern schnellstmöglich einen Vormund 
+zuzuweisen, um den gesetzlichen Verpflichtungen in dieser Hinsicht nachzukommen und den Schutz und die 
+Vertretung unbegleiteter minderjähriger Ausländer zu gewährleisten;In der Erwägung, dass es 
+unbedingt notwendig ist, dass die Vereinigungen, mit denen der Vormundschaftsdienst in Anwendung von 
+Artikel 3 § 3 des vorerwähnten Programmgesetzes vom 24. Dezember 2002 ein Vereinbarungsprotokoll 
+abgeschlossen hat, zusätzliche Mittel erhalten, die eine sehr kurzfristige Anwerbung von Vormunden ermöglichen, 
+die berufsmäßig Vormundschaften ausüben;In der Erwägung, dass es sich um Maßnahmen 
+handelt, die den Erfordernissen des derzeitigen hohen Zustroms von Asylsuchenden entsprechen und daher 
+nicht struktureller Art sind, dass es aber darüber hinaus gegenwärtig nicht möglich ist, die Dauer des 
+derzeitigen Zustroms vorherzusagen und daher einen bestimmten Zeitraum vorzusehen, in dem diese zusätzlichen 
+Mittel gewährt werden müssen, und dass daher eine laufende Beurteilung der Lage erforderlich ist, um 
+zu entscheiden, ob diese außergewöhnliche Maßnahme aufrechterhalten werden soll;Auf 
+Vorschlag des Ministers der Justiz und aufgrund der Stellungnahme der Minister, die im Rat darüber beraten 
+haben,Haben Wir beschloßen und erlassen Wir:Artikel 1 - Artikel 7bis des Königlichen 
+Erlasses vom 22. Dezember 2003 zur Ausführung von Titel XIII Kapitel 6 - "Vormundschaft über unbegleitete 
+minderjährige Ausländer" - des Programmgesetzes vom 24. Dezember 2002, eingefügt durch den Königlichen 
+Erlass vom 9. Januar 2005 und abgeändert durch den Königlichen Erlass vom 7. Dezember 2007, wird durch 
+einen Paragraphen 3 mit folgendem Wortlaut ergänzt:" § 3 - Der König kann im Falle außergewöhnlicher 
+Umstände Vereinigungen, mit denen der Vormundschaftsdienst im Rahmen des vorliegenden Erlasses Vereinbarungsprotokolle 
+abgeschlossen hat, einen außerordentlichen und zeitweiligen Zuschuss von insgesamt 390.000 EUR 
+gewähren, damit diese Vereinigungen außergewöhnlichen Anforderungen im Rahmen der Ausübung der 
+Vormundschaft über unbegleitete minderjährige Ausländer gerecht werden.Die Zuweisung wird auf 
+der Grundlage der Anzahl auszuübender Vormundschaften beurteilt.Der Minister der Justiz bestimmt 
+die Modalitäten für die Zuweisung und Verwendung dieser Zuschüsse.Unbeschadet der vorhergehenden 
+Bestimmungen finden die Modalitäten von Artikel 7bis §§ 1 und 2 des vorerwähnten Erlasses 
+vom 22. Dezember 2003 keine Anwendung auf diese Zuschüsse.Diese Zuschüsse werden dem Haushaltsplan 
+des FÖD Justiz, Programm 12, Zuweisung 40.23.33.00.03 hinzugefügt.Die Vereinigungen sind verpflichtet, 
+dem FÖD Justiz alle Belege über die im Rahmen des betreffenden Zuschusses entstandenen Ausgaben zu übermitteln.Nicht 
+nachgewiesene Ausgaben werden zurückgefordert."Art. 2 - Vorliegender Erlass wird wirksam mit 
+15. September 2015.Art. 3 - Der für Justiz zuständige Minister ist mit der Ausführung des vorliegenden 
+Erlasses beauftragt.Gegeben zu Brüssel, den 23. September 2015PHILIPPEVon 
+Königs wegen:Der Minister der JustizK. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-12-15Numac : 2020016318
+

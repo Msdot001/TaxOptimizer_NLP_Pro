@@ -1,0 +1,188 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/02/03/2020043063/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-05Numac : 2020043063
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 3 FEBRUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de bevoegdheden van de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders betreft inzake de slachtoffers van terrorisme. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de wet van 3 februari 2019 tot wijziging van de wet 
+van 1 augustus 1985 houdende fiscale en andere bepalingen wat de bevoegdheden van de commissie voor financiële 
+hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders betreft inzake de slachtoffers 
+van terrorisme (Belgisch Staatsblad van 8 februari 2019).Deze vertaling is opgemaakt door de 
+Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST 
+JUSTIZ3. FEBRUAR 2019 - Gesetz zur Abänderung des Gesetzes vom 1. August 1985 zur Festlegung 
+steuerrechtlicher und anderer Bestimmungen hinsichtlich der Befugnisse der Kommission für finanzielle 
+Hilfe zugunsten von Opfern vorsätzlicher Gewalttaten und von Gelegenheitsrettern in Bezug auf Terroropfer 
+PHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die 
+Abgeordnetenkammer hat das Folgende angenommen und Wir sanktionieren es:KAPITEL 1 - Allgemeine 
+BestimmungArtikel 1 - Vorliegendes Gesetz regelt eine in Artikel 78 der Verfassung erwähnte 
+Angelegenheit. KAPITEL 2 - Abänderungen des Gesetzes vom 1. August 1985 zur Festlegung steuerrechtlicher 
+und anderer BestimmungenArt. 2 - Artikel 30 des Gesetzes vom 1. August 1985 zur Festlegung 
+steuerrechtlicher und anderer Bestimmungen, zuletzt abgeändert durch das Gesetz vom 18. Juli 2017, wird 
+wie folgt abgeändert:1. In § 2 werden die Absätze 6 und 8 aufgehoben.2. Ein 
+§ 2bis mit folgendem Wortlaut wird eingefügt:" § 2bis - Der Präsident der Kommission 
+übt seine Funktion vollzeitig aus.Er wird von Rechts wegen durch sein Gericht abgeordnet.Er 
+bezieht ein Gehalt, das dem Gehalt eines Ersten Generalanwalts beim Kassationshof entspricht, sowie die 
+damit verbundenen Erhöhungen und Vergünstigungen und die in Artikel 357 § 4 des Gerichtsgesetzbuches 
+erwähnte Prämie.Er nimmt seinen Platz in der Rangliste wieder ein, sobald er sein Mandat niederlegt.Dem 
+Präsidenten steht bei der Ausübung seiner Aufgaben ein stellvertretender Präsident bei.Bei 
+Verhinderung des Präsidenten nimmt der stellvertretende Präsident dessen Aufgaben wahr.Bei 
+Verhinderung dieser beiden Magistrate nimmt ein vom Präsidenten bestimmter Vizepräsident oder, in dessen 
+Ermangelung, der dienstälteste Vizepräsident ihre Aufgaben wahr."3. Ein § 2ter mit folgendem 
+Wortlaut wird eingefügt:" § 2ter - Die in der Bearbeitung der Angelegenheiten der in 
+Artikel 42bis erwähnten Opfer von Terrorakten spezialisierten Kammern bilden eine getrennte Abteilung 
+der Kommission "Terrorismusabteilung".Die anderen Kammern bilden die "Allgemeine Abteilung" 
+genannte Abteilung der Kommission.Gemäß Artikel 18 § 1 Absatz 1 und 2 des Gesetzes 
+vom 18. Juli 2017 zur Schaffung des Status der nationalen Solidarität, zur Gewährung einer Wiedergutmachungspension 
+und zur Erstattung der medizinischen Versorgung infolge von Terrorakten werden Anträge auf Zuerkennung 
+des Status der nationalen Solidarität und Anträge auf eine Wiedergutmachungspension bei der Kommission 
+eingereicht."4. Ein § 2quater mit folgendem Wortlaut wird eingefügt:" § 
+2quater - Der Kommission steht ein Sekretariat zur Seite, das von einem Sekretär geleitet wird und ferner 
+zusammengesetzt ist aus einem Sekretär-Abteilungsleiter für die Allgemeine Abteilung, einem Sekretär-Abteilungsleiter 
+für die Terrorismusabteilung und aus mindestens so vielen beigeordneten Sekretären wie es Kammern gibt, 
+minus zwei; der Stellenplan des Sekretariats der Kommission muss mindestens aus achtzehn Personen bestehen. 
+Sie werden vom Minister der Justiz bestimmt. Die Hälfte der Personen gehört der französischen Sprachrolle, 
+die andere Hälfte der niederländischen Sprachrolle an.Den Erfordernissen des Dienstes entsprechend 
+kann der Sekretär in Absprache mit dem Sekretär-Abteilungsleiter der Allgemeinen Abteilung und dem Sekretär-Abteilungsleiter 
+der Terrorismusabteilung beschließen, beigeordnete Sekretäre von einer Abteilung in eine andere 
+Abteilung abzuordnen."5. Paragraph 3 Absatz 1 wird wie folgt ersetzt:"Die Kammern 
+entscheiden über die in den Artikeln 31bis, 37 und 37bis erwähnten Ersuchen um finanzielle, ergänzende 
+und außergewöhnliche Hilfe."Art. 3 - In Artikel 42bis desselben Gesetzes, eingefügt durch 
+das Gesetz vom 1. April 2007 und abgeändert durch das Gesetz vom 31. Mai 2016, werden zwischen Absatz 
+2 und Absatz 3 zwei Absätze mit folgendem Wortlaut eingefügt:"Die im vorliegenden Abschnitt 
+erwähnten Ersuchen werden von den spezialisierten Kammern bearbeitet.Unbeschadet anderslautender 
+Bestimmungen handeln diese spezialisierten Kammern gemäß den Bestimmungen von Abschnitt 2".Art. 
+4 - In Kapitel 3 Abschnitt 4 desselben Gesetzes wird Unterabschnitt 2 mit folgendem Wortlaut eingefügt: 
+"Sonderbestimmungen im Rahmen der Gewährung einer finanziellen Hilfe zugunsten von Terroropfern".Art. 
+5 - In Unterabschnitt 2, eingefügt durch Artikel 4, wird ein Artikel 42ter mit folgendem Wortlaut eingefügt:"Art. 
+42ter - In Abweichung von Artikel 30 §  1 entscheidet die Kommission im Fall eines Terrorakts 
+über die Ersuchen um Gewährung eines Vorschusses, einer finanziellen Hilfe oder einer ergänzenden Hilfe."Art. 
+6 - In denselben Unterabschnitt 2 wird ein Artikel 42quater mit folgendem Wortlaut eingefügt:"Art. 
+42quater - § 1 - Im Fall eines Terrorakts tagt der Kammerpräsident allein über alle in Artikel 
+42ter erwähnten Ersuchen. Gegen die Beschlüsse des Kammerpräsidenten kann gemäß den in § 
+2 erwähnten Bedingungen Berufung eingelegt werden. Eine aus anderen Mitgliedern zusammengesetzte Kammer 
+der Kommission entscheidet über diese Berufung. Durch das Einlegen der Berufung wird die Kammer mit dem 
+Rechtsstreit befasst. § 2 - Der Antragsteller und der Minister der Justiz können binnen 
+einem Monat nachdem ihnen der Beschluss des Kommissionspräsidenten notifiziert worden ist, Berufung gegen 
+diesen Beschluss einlegen.Die Berufungsurkunde wird beim Sekretariat der Kommission hinterlegt 
+oder per Einschreibesendung verschickt. Sie wird vom Antragsteller oder von seinem Rechtsanwalt unterzeichnet. 
+Sie kann auch auf elektronischem Wege gemäß den vom König festgelegten Modalitäten hinterlegt werden.Zur 
+Vermeidung des Verfalls der Berufung müssen die Anfechtungsgründe, die gegen den Beschluss geltend gemacht 
+werden, in der Urkunde genau angegeben werden.In der Berufungsurkunde wird Folgendes vermerkt:1. 
+Tag, Monat und Jahr,2. Name, Vornamen, Beruf, Wohnsitz und Staatsangehörigkeit des Opfers, 
+des Antragstellers und gegebenenfalls des gesetzlichen Vertreters,3. Datum und Listennummer 
+des Beschlusses, gegen den Berufung eingelegt wird.Die Begründungsunterlagen der Berufung sind 
+dem Antrag beizufügen."Art. 7 - In denselben Unterabschnitt 2 wird ein Artikel 42sexies mit 
+folgendem Wortlaut eingefügt:"Art. 42sexies - Im Fall eines Terrorakts können Opfer oder Gelegenheitsretter 
+Anspruch erheben auf Rechtsanwaltskosten bis zu einem Höchstbetrag von 12.000 EUR anstelle der in Artikel 
+32 § 1 Nr. 6, § 2 Nr. 5 und §  3 Nr. 3 vorgesehenen Verfahrensentschädigung.Dieser 
+Betrag kann durch einen im Ministerrat beratenen Königlichen Erlass erhöht werden."Art. 8 - 
+In denselben Unterabschnitt 2 wird ein Artikel 42octies mit folgendem Wortlaut eingefügt:"Art. 
+42octies - Ersuchen um Gewährung eines Vorschusses, einer finanziellen oder einer ergänzenden Hilfe im 
+Fall eines Terrorakts erfolgen durch Antragschrift, deren Muster vom König festgelegt wird und die im 
+Sekretariat der Kommission hinterlegt oder per Einschreibebrief dorthin geschickt wird. Es wird vom Antragsteller 
+oder von seinem Rechtsanwalt unterzeichnet. Es kann auch auf elektronischem Wege gemäß den vom 
+König festgelegten Modalitäten hinterlegt werden.Anträge auf Zuerkennung des Statuts der nationalen 
+Solidarität und Anträge auf eine Wiedergutmachungspension, erwähnt in Artikel 18 § 1 des Gesetzes 
+vom 18. Juli 2017 zur Schaffung des Status der nationalen Solidarität, zur Gewährung einer Wiedergutmachungspension 
+und zur Erstattung der medizinischen Versorgung infolge von Terrorakten, können in der gleichen Antragschrift 
+erfolgen.In der Antragschrift wird Folgendes vermerkt:1. Tag, Monat und Jahr,2. 
+Name, Vornamen, Beruf, Wohnsitz und Staatsangehörigkeit des Opfers, des Antragstellers und gegebenenfalls 
+des gesetzlichen Vertreters.Im Fall eines im Ausland verübten Terrorakts müssen die Staatsangehörigkeit 
+und/oder der gewöhnliche Wohnort zum Zeitpunkt des Terrorakts ebenfalls vermerkt werden,3. 
+Datum, Ort und genaue Beschreibung des Terrorakts, der Explosion oder der rettenden Handlung,4. 
+Umstände, unter denen sich der Personenschaden ereignet hat,5. Beschreibung des erlittenen 
+Personenschadens,6. andere Gründe, über die der Antragsteller verfügt, um eine Entschädigung 
+zu erhalten,7. Abschätzung der verschiedenen Bestandteile des Schadens, für den um eine Hilfe 
+ersucht wird, und Gesamtbetrag der beantragten Hilfe,8. gegebenenfalls Antrag auf Wiedergutmachungspension, 
+der automatisch einen Antrag auf Zuerkennung des Status der nationalen Solidarität impliziert,9. 
+gegebenenfalls Antrag auf Zuerkennung des Status der nationalen Solidarität.Die Antragschrift 
+endet mit folgenden Worten: "Ich erkläre auf Ehre, dass vorliegende Erklärung richtig und vollständig 
+ist."Der Antragschrift werden die Begründungsunterlagen für die verschiedenen Bestandteile 
+des Schadens, für den um Hilfe ersucht wird, beigefügt, darunter die ärztlichen Atteste und die medizinischen 
+Berichte."Art. 9 - In denselben Unterabschnitt 2 wird ein Artikel 42novies mit folgendem Wortlaut 
+eingefügt:"Art. 42novies - Im Fall eines Terrorakts findet Artikel 34bis Absatz 6 keine Anwendung."Art. 
+10 - In denselben Unterabschnitt 2 wird ein Artikel 42decies mit folgendem Wortlaut eingefügt:"Art. 
+42decies - § 1 - Der Antragsteller und der Minister der Justiz oder sein Beauftragter werden vom 
+Kammerpräsidenten oder von den Kammern der Kommission angehört, wenn sie dies schriftlich beantragen 
+oder wenn der Präsident oder die Kammern dies für notwendig erachten. Sie können sich von ihrem Rechtsanwalt 
+beistehen oder vertreten lassen. Der Antragsteller kann sich ebenfalls vom Vertreter einer öffentlichen 
+Einrichtung oder einer vom König zu diesem Zweck zugelassenen Vereinigung beistehen lassen. 
+§ 2 - In Abweichung von § 1 werden im Rahmen des Verfahrens zur Gewährung eines Vorschusses 
+weder der Antragsteller noch der Minister der Justiz oder sein Beauftragter vom Kammerpräsidenten angehört."Art. 
+11 - In denselben Unterabschnitt 2 wird ein Artikel 42undecies mit folgendem Wortlaut eingefügt:"Art. 
+42undecies - § 1 - Im Fall eines Terrorakts können der Antragsteller und der Minister der Justiz 
+gemäß Artikel 42quater Berufung gegen die Beschlüsse des Kammerpräsidenten einlegen. 
+§ 2 - Der Antragsteller und der Minister der Justiz können gemäß Artikel 14 § 2 der 
+koordinierten Gesetze über den Staatsrat beim Staatsrat Kassationsbeschwerde gegen die Entscheidungen 
+der Kammern der Kommission einlegen."Art. 12 - In denselben Unterabschnitt 2 wird ein Artikel 
+42duodecies mit folgendem Wortlaut eingefügt:"Art. 42duodecies - § 1 - Im Fall eines 
+Terrorakts werden die Beschlüsse des Präsidenten und die Entscheidungen der Kammern der Kommission dem 
+Antragsteller per Einschreibebrief und dem Rechtsanwalt des Antragstellers und dem Minister der Justiz 
+per gewöhnliche Post binnen acht Tagen ab Verkündung notifiziert. Die Beschlüsse und die Entscheidungen 
+können auch auf elektronischem Wege gemäß den vom König festgelegten Modalitäten übermittelt werden. 
+§ 2 - In der Notifizierung einer Entscheidung an den Antragsteller wird der Inhalt von Artikel 
+42decies § 2 vermerkt. Bei einem Beschluss wird der Inhalt der Artikel 42quater und 42undecies 
+§ 1 vermerkt."Art. 13 - In denselben Unterabschnitt 2 wird ein Artikel 42terdecies mit 
+folgendem Wortlaut eingefügt:"Art. 42terdecies - Im Fall eines Terrorakts findet Artikel 36 
+keine Anwendung.Unbeschadet der Anwendung der Artikel 31, 32, 33 § 1 und 42quinquies 
+kann die Kommission einen Vorschuss gewähren, wenn jede Verzögerung bei der Gewährung der Hilfe dem Antragsteller 
+einen beträchtlichen Schaden zufügen könnte.Der Vorschuss wird pro Terrorakt und pro Antragsteller 
+für einen Schaden über 500 EUR gewährt und ist auf einen Betrag von 125.000 EUR begrenzt.Handelt 
+es sich um einen Terrorakt, wird stets Dringlichkeit vermutet."KAPITEL 3 - ÜbergangsbestimmungArt. 
+14 - Artikel 7 des vorliegenden Gesetzes findet Anwendung, auch wenn eine Akte bereits vor Inkrafttreten 
+des vorliegenden Gesetzes eingereicht und von der Kommission abgeschlossen worden ist. Antragsteller, 
+deren Akte bereits vor Inkrafttreten des vorliegenden Gesetzes abgeschlossen worden ist, müssen binnen 
+einem Jahr nach Inkrafttreten des vorliegenden Gesetzes einen Antrag einreichen.KAPITEL 4 - 
+InkrafttretenArt. 15 - Vorliegendes Gesetz tritt am Tag seiner Veröffentlichung im Belgischen 
+Staatsblatt in Kraft.Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem 
+Staatssiegel versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, 
+den 3. Februar 2019PHILIPPEVon Königs wegen:Der Minister der JustizK. 
+GEENSMit dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-05Numac : 2020043063
+

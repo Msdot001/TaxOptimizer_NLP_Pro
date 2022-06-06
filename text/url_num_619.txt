@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/08/29/2021031732/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021031732
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 29 AUGUSTUS 2019. - Koninklijk besluit tot aanpassing van sommige federale fiscale bepalingen aan het Wetboek van vennootschappen en verenigingen en aan het koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en verenigingen en houdende diverse bepalingen. - Duitse vertaling van uittreksels 
+De hierna volgende tekst is de Duitse vertaling van de artikelen 35 en 36 van 
+het koninklijk besluit van 29 augustus 2019 tot aanpassing van sommige federale fiscale bepalingen aan 
+het Wetboek van vennootschappen en verenigingen en aan het koninklijk besluit van 29 april 2019 tot uitvoering 
+van het Wetboek van vennootschappen en verenigingen en houdende diverse bepalingen (Belgisch Staatsblad 
+van 13 september 2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling 
+in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN29. AUGUST 2019 
+- Königlicher Erlass zur Anpassung bestimmter föderaler steuer rechtlicher Bestimmungen an das Gesetzbuch 
+der Gesellschaften und Vereinigungen und den Königlichen Erlass vom 29. April 2019 zur Ausführung des 
+Gesetzbuches der Gesellschaften und Vereinigungen und zur Festlegung verschiedener Bestimmungen(...)KAPITEL 
+4 - Abänderungen im Bereich der Registrierungs-, Hypotheken- und Kanzleigebühren(...)Art. 
+35 - In Artikel 4 des Königlichen Erlasses vom 7. Dezember 2016 zur Regelung der entmaterialisierten 
+Vorlage von privatschriftlichen Mietverträgen für die Registrierungsformalität werden die Wörter "Artikel 
+1 § 4 des Gesetzes vom 8. Dezember 1992 über den Schutz des Privatlebens hinsichtlich der Verarbeitung 
+personenbezogener Daten" durch die Wörter "Artikel 4 Nr. 7 der Verordnung (EU) 2016/679 des Europäischen 
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener 
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG" ersetzt.Art. 36 - 
+Artikel 8 desselben Erlasses wird wie folgt abgeändert:a) In Nr. 1 Buchstabe b) Punkt 1 werden 
+die Wörter "ihr Gesellschaftsname" durch die Wörter "ihr Name" ersetzt.b) In Nr. 1 Buchstabe 
+b) Punkt 2 werden die Wörter "ihr Gesellschaftssitz" durch die Wörter "ihr satzungsmäßiger Sitz" 
+ersetzt.(...)Gegeben zu Brüssel, den 29. August 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021031732
+

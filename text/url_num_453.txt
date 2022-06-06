@@ -1,0 +1,121 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/26/2021020531/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-18Numac : 2021020531
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 26 JUNI 2020. - Koninklijk besluit nr. 39 tot wijziging van het koninklijk besluit van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling en tot vaststelling van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze ziekten moet voldoen wegens COVID-19. - Duitse vertaling 
+De hierna volgende tekst is de Duitse 
+vertaling van het koninklijk besluit van 26 juni 2020 nr. 39 tot wijziging van het koninklijk besluit 
+van 28 maart 1969 houdende vaststelling van de lijst van beroepsziekten die aanleiding geven tot schadeloosstelling 
+en tot vaststelling van de criteria waaraan de blootstelling aan het beroepsrisico voor sommige van deze 
+ziekten moet voldoen wegens COVID-19 (Belgisch Staatsblad van 8 juli 2020), bekrachtigd bij de wet van 
+24 december 2020 (Belgisch Staatsblad van 15 januari 2021).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST STRATEGIE UND UNTERSTÜTZUNG UND FÖDERALER ÖFFENTLICHER DIENST SOZIALE SICHERHEIT26. 
+JUNI 2020 - Königlicher Erlass Nr. 39 zur Abänderung des Königlichen Erlasses vom 28. März 1969 zur Festlegung 
+der Liste der zu entschädigenden Berufskrankheiten und zur Festlegung der Kriterien, denen die Exposition 
+gegenüber dem Berufsrisiko für bestimmte dieser Krankheiten genügen muss, aufgrund von COVID-19PHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Gesetzes 
+vom 27. März 2020 zur Ermächtigung des Königs, Maßnahmen zur Bekämpfung der Ausbreitung des Coronavirus 
+COVID-19 zu ergreifen (II), des Artikels 5, § 1 Nr. 5;Aufgrund der am 3. Juni 1970 koordinierten 
+Gesetze über die Vorbeugung von und die Entschädigung für Berufskrankheiten;Aufgrund des Königlichen 
+Erlasses vom 28. März 1969 zur Festlegung der Liste der zu entschädigenden Berufskrankheiten und zur 
+Festlegung der Kriterien, denen die Exposition gegenüber dem Berufsrisiko für bestimmte dieser Krankheiten 
+genügen muss;Aufgrund von Artikel 6 Absatz 2 des Gesetzes vom 27. März 2020 zur Ermächtigung 
+des Königs, Maßnahmen zur Bekämpfung der Ausbreitung des Coronavirus COVID-19 zu ergreifen (II), 
+besteht für vorliegenden Erlass aufgrund der durch die COVID-19-Pandemie begründeten Dringlichkeit keine 
+Pflicht, die erforderlichen Stellungnahmen einzuholen;In Erwägung der Stellungnahme des Geschäftsführenden 
+Ausschusses für Berufskrankheiten von Fedris vom 13. Mai 2020;Aufgrund der Stellungnahmen der 
+Finanzinspektoren vom 25. Mai 2020 und 27. Mai 2020;Aufgrund des Einverständnisses des Ministers 
+des Haushalts vom 5. Juni 2020;Aufgrund des Protokolls Nr. 224/3 des Gemeinsamen Ausschusses 
+für alle öffentlichen Dienste vom 19. Juni 2020;Aufgrund von Artikel 8 § 2 Nr. 2 des 
+Gesetzes vom 15. Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung 
+ist vorliegender Erlass aufgrund der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr und der daraus 
+entstehenden Dringlichkeit von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund 
+des Gutachtens Nr. 67.608/1 des Staatsrates vom 19. Juni 2020, abgegeben in Anwendung von Artikel 4 Absatz 
+3 des Gesetzes vom 27. März 2020 zur Ermächtigung des Königs, Maßnahmen zur Bekämpfung der Ausbreitung 
+des Coronavirus COVID-19 zu ergreifen (I);In der Erwägung, dass es im Zuge der mit der COVID-19-Pandemie 
+einhergehenden Krise dringend erforderlich ist, Maßnahmen in Zusammenhang mit dem erheblichen Gesundheitsrisiko 
+für Lohnempfänger beziehungsweise Bedienstete im öffentlichen Dienst zu ergreifen, die beruflich in Unternehmen 
+tätig sind, die den Schlüsselsektoren und wesentlichen Diensten angehören, und für die eine Infizierung 
+mit COVID-19 derzeit nicht als Berufskrankheit anerkannt werden kann, es sei denn im offenen System;Auf 
+Vorschlag des Ministers des Öffentlichen Dienstes, des Ministers der Sicherheit und des Innern und der 
+Ministerin der Sozialen Angelegenheiten und aufgrund der Stellungnahme der Minister, die im Rat darüber 
+beraten haben,Haben Wir beschloßen und erlassen Wir:Artikel 1 - In Artikel 
+1 des Königlichen Erlasses vom 28. März 1969 zur Festlegung der Liste der zu entschädigenden Berufskrankheiten 
+und zur Festlegung der Kriterien, denen die Exposition gegenüber dem Berufsrisiko für bestimmte dieser 
+Krankheiten genügen muss, zuletzt abgeändert durch den Königlichen Erlass vom 22. Januar 2013, wird zwischen 
+der Codenummer "1.404.03" und der Codenummer "1.6" die folgende Codenummer eingefügt:"1.404.04 
+- Jede durch SARS-CoV-2 verursachte Krankheit bei Arbeitnehmern, die zwischen dem 18. März 2020 und dem 
+17. Mai 2020 einschließlich beruflich in Unternehmen tätig waren, die den Schlüsselsektoren und 
+wesentlichen Diensten, wie in der Anlage zum Ministeriellen Erlass vom 23. März 2020 zur Festlegung von 
+Dringlichkeitsmaß- nahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 erwähnt, angehören, 
+sofern das Auftreten der Krankheit im Zeitraum vom 20. März 2020 bis einschließlich 31. Mai 2020 
+festgestellt wird."Art. 2 -  Die Anlage zu demselben Erlass, ersetzt durch den Königlichen 
+Erlass vom 9. Dezember 2019, wird wie folgt ergänzt:"Code 1.404.04 - SARS-CoV-2Dem 
+Berufsrisiko einer Krankheit 1.404.04 sind ausgesetzt:Arbeitnehmer, die zwischen dem 18. März 
+2020 und dem 17. Mai 2020 einschließlich beruflich in Unternehmen tätig waren, die den Schlüsselsektoren 
+und wesentlichen Diensten, wie in der Anlage zum Ministeriellen Erlass vom 23. März 2020 zur Festlegung 
+von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus COVID-19 erwähnt, angehören, 
+sofern:- es durch die Arbeitsbedingungen oder die Art der ausgeübten beruflichen Tätigkeiten 
+in der Regel unmöglich ist, im Kontakt mit anderen Personen einen Abstand von 1,5 m einzuhalten,- 
+zwischen dem Auftreten der Krankheit und dem Datum der letzten tatsächlichen Arbeitsleistung des Arbeitnehmers 
+außerhalb seines Wohnsitzes nicht mehr als 14 Tage vergangen sind,- und sofern zwischen 
+dem Auftreten der Krankheit und dem Datum, an dem das Unternehmen, in dem der Arbeitnehmer beruflich 
+tätig war, nicht mehr in der Anlage zu vorerwähntem Ministeriellen Erlass vom 23. März 2020 aufgeführt 
+war, nicht mehr als 14 Tage vergangen sind."Art. 3 - Die Artikel 36 Absatz 2 und 52 Absatz 
+4 der am 3. Juni 1970 koordinierten Gesetze über die Vorbeugung von und die Entschädigung für Berufskrankheiten 
+sind nicht anwendbar im Rahmen einer Anerkennung unter dem Code 1.404.04.Art. 4 - Vorliegender 
+Erlass wird wirksam mit 18. März 2020.Art. 5 -  Der für den öffentlichen Dienst zuständige 
+Minister, der für Inneres zuständige Minister und der für die sozialen Angelegenheiten zuständige Minister 
+sind, jeder für seinen Bereich, mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 26. Juni 2020PHILIPPEVon Königs wegen:Der Minister des 
+Öffentlichen DienstesD. CLARINVALDer Minister der Sicherheit und des InnernP. 
+DE CREMDie Ministerin der Sozialen AngelegenheitenM. DE BLOCK   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-18Numac : 2021020531
+

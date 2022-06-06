@@ -1,0 +1,123 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/12/2020041816/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020041816
+GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE VAN BRUSSEL-HOOFDSTAD  
+ 12 JUNI 2020. - Bijzonderemachtenbesluit nr. 2020/010 van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie betreffende het toekennen aan de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag van de mogelijkheid om in het kader van de COVID-19 gezondheidscrisis operationele taken inzake zorgverlening te vervullen 
+Verslag aan de Verenigde Vergadering van de Gemeenschappelijke 
+GemeenschapscommissieHet bijzonderemachtenbesluit nr. 2020/010 beantwoordt aan een behoefte 
+naar een efficiënt beheer van de COVID-19 gezondheidscrisis. Het bijzonderemachtenbesluit wijzigt de 
+ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst voor Gezondheid, Bijstand 
+aan Personen en Gezinsbijslag op het volgende punt:Iriscare krijgt de mogelijkheid om, in het 
+kader van de COVID-19 gezondheidscrisis, operationele taken te vervullen inzake zorgverlening.Onder 
+operationele taken inzake zorgverlening wordt onder meer verstaan:1. Mobiele teams van zorgverleners 
+oprichten om hulp te bieden aan zorginstellingen, rusthuizen, etc. waar dat nodig zou blijken in geval 
+van een crisissituatie ten gevolge van een uitbraak van het COVID-19 virus en/of ten gevolge van een 
+tekort aan zorgpersoneel;2. Een schakelzorgcentrum oprichten om de capaciteit in de ziekenhuizen 
+te vrijwaren in geval van een nieuwe piek van de COVID-19 epidemie.Naar analogie met de definitie 
+van schakelzorgcentrum, terug te vinden in artikel 30, 2°,  van het koninklijk besluit nr. 20 van 13 
+mei 2020 `houdende tijdelijke maatregelen in de strijd tegen de COVID-19 pandemie en ter verzekering 
+van de continuïteit van zorg in de verplichte verzekering voor geneeskundige verzorging', verstaan we 
+onder de term `schakelzorgcentrum' een centrum dat tijdelijk patiënten huisvest die zijn doorverwezen 
+na opname in een ziekenhuis of doorverwezen door een triage- en afnamecentrum of door een dienst spoedgevallen, 
+en die niet direct kunnen terugkeren naar hun gewone leefsituatie.De toepassing van het bijzonderemachtenbesluit 
+is beperkt in de tijd, overeenkomstig overweging 5.2.4. van het advies 67.142/AV van 25 maart 2020 van 
+de Raad van State. De nieuwe bepaling zal buiten werking treden op 1 januari 2021, datum die werd gekozen 
+in het licht van een eventuele tweede golf van de pandemie. 12 JUNI 2020. - 
+Bijzonderemachtenbesluit nr. 2020/010 van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie 
+betreffende het toekennen aan de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag 
+van de mogelijkheid om in het kader van de COVID-19 gezondheidscrisis operationele taken inzake zorgverlening 
+te vervullenHet Verenigd College van de Gemeenschappelijke Gemeenschapscommissie,Gelet 
+op de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan het Verenigd College van 
+de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis COVID-19, artikel 2, 
+§ 1;Gelet op de ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire 
+Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag;Gelet op het akkoord van de 
+leden van het Verenigd College bevoegd voor de Begroting, gegeven op 12 juin 2020;Gelet op 
+het advies 67.511/3 van de Raad van State, gegeven op 8 juni 2020 met toepassing van artikel 84, § 
+1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, gevraagd bij 
+hoogdringendheid;Overwegende dat het coronavirus COVID-19 op 11 maart 2020 door de WHO bestempeld 
+werd als een pandemie;Overwegende dat de Nationale Veiligheidsraad maatregelen heeft genomen 
+om de verspreiding van het virus onder de bevolking in te dijken;Overwegende dat de Nationale 
+Veiligheidsraad van 24 april 2020 bovendien, op basis van een advies van de Groep van Experts belast 
+met de Exit Strategie (GEES), beslist heeft geleidelijk, vanaf 3 mei, en als de omstandigheden het toelaten, 
+een aantal maatregelen af te bouwen, maar dat het virus nog altijd op het grondgebied aanwezig is en 
+gevaarlijk blijft;Overwegende dat de strikte inperkingsmaatregelen zeker van kracht blijven 
+tot en met 3 mei, en dat ongeacht de afbouwfase waarin we ons in de toekomst zouden bevinden bepaalde 
+maatregelen van kracht blijven, zoals het beperken van contacten tussen mensen, het respecteren van veilige 
+afstanden en goede hygiënische reflexen, waaronder het bedekken van mond en neus in de publieke ruimte 
+en op het openbaar vervoer in het bijzonder;Overwegende dat opflakkeringen van het virus niet 
+uitgesloten zijn tijdens de afbouwfase, en dat het derhalve noodzakelijk is en blijft de capaciteit van 
+de ziekenhuizen maximaal te vrijwaren of de zorginstellingen bij te staan, bijvoorbeeld door middel van 
+de oprichting van schakelzorgcentra of het uitzenden van mobiele zorgteams;Overwegende dat 
+het evenwel noodzakelijk is de opdrachten van deze Dienst tijdelijk aan te passen teneinde het mogelijk 
+te maken dat Iriscareoperationele taken kan vervullen inzake zorgverlening;Overwegende dat 
+op grond van artikel 2 van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan het 
+Verenigd College van de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis 
+COVID-19, het Verenigd College bevoegd is om alle noodzakelijke maatregelen te nemen om situaties te 
+voorkomen en te behandelen die een probleem vormen binnen het strikte kader van de COVID-19 pandemie 
+en de gevolgen ervan, en die dringend moeten worden geregeld op straffe van ernstig gevaar;Overwegende 
+dat bij dringende noodzaak het Verenigd College kan verzaken aan de adviesverplichting vervat in artikel 
+22, § 3, van de ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst 
+voor Gezondheid, Bijstand aan Personen en Gezinsbijslag;Overwegende dat het verzoek om spoedbehandeling 
+aan de Raad van State gemotiveerd is vanuit het gegeven dat de COVID-19 gezondheidscrisis niet achter 
+de rug is en dringende maatregelen vergt om de zorgverstrekkingen te vrijwaren, de bevolking te beschermen 
+en de openbare dienst te garanderen;Op voordracht van de leden van het Verenigd College bevoegd 
+voor Welzijn en Gezondheid;Na beraadslaging,Besluit :Artikel 1. In artikel 
+7 van de ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst voor Gezondheid, 
+Bijstand aan Personen en Gezinsbijslag wordt tussen het eerste en het tweede lid een nieuw lid ingevoegd, 
+luidend als volgt:"De Dienst wordt gemachtigd om in het kader van de COVID-19 gezondheidscrisis 
+operationele taken inzake zorgverlening te vervullen."Art. 2. Dit besluit treedt in werking 
+de dag van de bekendmaking ervan in het Belgisch Staatsblad.Artikel 7, tweede lid, van de ordonnantie 
+van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst voor Gezondheid, Bijstand aan 
+Personen en Gezinsbijslag wordt opgeheven op 1 januari 2021.Art. 3.  De Leden van het Verenigd 
+College bevoegd voor Welzijn en Gezondheid worden belast met de uitvoering van dit besluit.Brussel, 
+12 juni 2020.Voor het Verenigd College :De Voorzitter van het Verenigd College, belast 
+met de coördinatie van het beleid van het Verenigd College,R. VERVOORTDe Leden van 
+het Verenigd College bevoegd voor Welzijn en Gezondheid,E. VAN DEN BRANDT   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-25Numac : 2020041816
+

@@ -1,0 +1,76 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-14Numac : 2021021387
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 24 JUNI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot aanwijzing van nieuwe leden van de selectiecommissie voor de toewijzing van een mandaat van directeur/directrice-diensthoofd A4 Back Office van de Gewestelijke Overheidsdienst Brussel Fiscaliteit 
+De brusselse hoofdstedelijke 
+regering,Gelet op de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse Instellingen, 
+inzonderheid op artikel 40;Gelet op het besluit van de Brusselse Hoofdstedelijke Regering van 
+21 maart 2018 houdende het administratief statuut en de bezoldigingsregeling van de ambtenaren van de 
+gewestelijke overheidsdiensten van Brussel, inzonderheid op artikel 446;Gelet op het Besluit 
+van de Brusselse Hoofdstedelijke Regering van 25 maart 2021 tot aanwijzing van de leden van de selectiecommissie 
+voor de toewijzing van een mandaat van directeur/directrice-diensthoofd A4 Back Office van de Gewestelijke 
+Overheidsdienst Brussel Fiscaliteit;Gelet op het feit dat mevrouw Isabelle MONTAIGNE (FR) niet 
+langer beschikbaar is om te zetelen in deze selectiecommissie en dat het derhalve nodig is om haar te 
+vervangen;Gelet op het feit dat mevrouw Florence COUTELLIER (FR) beschikt over ervaring inzake 
+human resources als consultante en opleidster sedert 20 jaar bij Progress Consulting;Op voordracht 
+van de Minister van Openbaar Ambt,Na beraadslaging,Besluit :Artikel 1. 
+Worden aangewezen als nieuwe leden van de selectiecommissie voor de toewijzing van een betrekking van 
+directeur/directrice-diensthoofd A4 Back Office van de Gewestelijke Overheidsdienst Brussel Fiscaliteit:Mevrouw 
+Florence COUTELLIER (FR) in de plaats van mevrouw Isabelle MONTAIGNE (FR)Art. 2. Geen enkel 
+lid mag zetelen indien hij zich in een situatie bevindt die zijn onpartijdigheid in het gedrang kan brengen.Art. 
+3. De Minister bevoegd voor het Openbaar Ambt wordt belast met de uitvoering van dit besluit.Art. 
+4. Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.Brussel, 
+24 juni 2021.Voor de Brusselse Hoofdstedelijke Regering,R. VERVOORTMinister-President 
+van de Brusselse Hoofdstedelijke Regering, bevoegd voor de Territoriale Ontwikkeling en Stadsvernieuwing, 
+Toerisme, de Promotie van het Imago van Brussel en Biculturele Zaken van Gewestelijk Belang.S. 
+GATZMinister bevoegd voor Financiën, Begroting, Openbaar Ambt, de Promotie van Meertaligheid 
+en van het Imago van Brussel.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-14Numac : 2021021387
+

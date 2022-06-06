@@ -1,0 +1,58 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-27Numac : 2021033639
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie voor Beleidsexpertise -en -ondersteuning. - Dienst Reglementering. - Rentevoet 
+voor het kalenderjaar 2022 in uitvoering van artikel 414, § 1, derde lid, van het Wetboek van 
+de inkomstenbelastingen 1992. - BerichtDe rentevoet, bedoeld in artikel 414, § 1, tweede 
+lid, van het Wetboek van de inkomstenbelastingen 1992 bedraagt voor het kalenderjaar 2022 vier procent. 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-27Numac : 2021033639
+

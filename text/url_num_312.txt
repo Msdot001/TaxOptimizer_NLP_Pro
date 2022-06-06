@@ -1,0 +1,187 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/07/16/2020031402/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-13Numac : 2020031402
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 16 JULI 2019. - Koninklijk besluit met betrekking tot de attesten voor de belastingvermindering voor premies voor een rechtsbijstandsverzekering. - Duitse vertaling 
+De hierna volgende tekst is 
+de Duitse vertaling van het koninklijk besluit van 16 juli 2019 met betrekking tot de attesten voor de 
+belastingvermindering voor premies voor een rechtsbijstandsverzekering (Belgisch Staatsblad van 29 juli 
+2019).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN16. JULI 2019 - Königlicher Erlass über die Bescheinigungen für 
+die Steuerermäßigung für RechtsschutzversicherungsprämienBERICHT AN DEN KÖNIGSire,durch 
+das Gesetz vom 22. April 2019 zur Erleichterung des Zugangs zu einer Rechtsschutzversicherung ist eine 
+Steuerermäßigung für Rechtsschutzversicherungsprämien eingeführt worden, die alle in Kapitel 2 
+des vorerwähnten Gesetzes erwähnten Bedingungen erfüllt.Diese neue Steuerermäßigung wird 
+auf der Grundlage einer Bescheinigung gewährt, die jährlich vom Versicherer ausgestellt werden muss (Artikel 
+14549 § 2 Absatz 1 des Einkommensteuergesetzbuches 1992 (EStGB 92)). In Ausführung 
+von Artikel 14549 § 2 Absatz 2 des EStGB 92 ist der Inhalt dieser Bescheinigung 
+nunmehr in einem neuen Artikel 6318/17 des KE/EStGB 92 festgelegt (Artikel 1 dieses 
+Erlasses).Obwohl die Steuerermäßigung erst ab dem Steuerjahr 2020 gewährt wird und die 
+Bescheinigungen für diese Ermäßigung den Steuerpflichtigen erst 2020 ausgestellt werden müssen, 
+ist es dennoch wichtig, dass der Erlass, in dem der Inhalt der Bescheinigungen festgelegt ist, im Rahmen 
+der laufenden Angelegenheiten verabschiedet wird. Versicherungsunternehmen müssen nämlich schnellstmöglich 
+wissen, welche Angaben in der Bescheinigung vermerkt und der Verwaltung übermittelt werden müssen, sodass 
+sie die erforderlichen Anpassungen - zum Beispiel an ihren EDV-Anwendungen - vornehmen können. Nur so 
+kann gewährleistet werden, dass Steuerpflichtige und die Verwaltung rechtzeitig über die richtigen Informationen 
+für die Erklärung für das Steuerjahr 2020 verfügen werden.In der Bescheinigung, die der Versicherer 
+dem Versicherungsnehmer jährlich ausstellen muss, wird bestätigt, dass der Versicherungsvertrag alle 
+Bedingungen für einen Anspruch auf die Steuerermäßigung erfüllt. In der Bescheinigung muss ebenfalls 
+der Betrag der Prämie angegeben werden, die im betreffenden Besteuerungszeitraum gezahlt wird (Artikel 
+6318/17 Absatz 1 des KE/EStGB 92). Das Muster dieser Bescheinigung muss noch festgelegt 
+werden (Artikel 6318/17 Absatz 2 des KE/EStGB 92).Dem Gutachten des Staatsrates 
+in Bezug auf die Anpassung von Artikel 1 ist Rechnung getragen worden.Versicherer müssen von 
+ihnen ausgestellte Bescheinigungen ebenfalls dem FÖD Finanzen jährlich elektronisch übermitteln (Artikel 
+323/1 § 1 Absatz 3 des EStGB 92, so wie er durch das Gesetz vom 22. April 2019 zur Erleichterung 
+des Zugangs zu einer Rechtsschutzversicherung eingefügt worden ist). Der Königliche Erlass vom 9. Februar 
+2017 zur Ausführung von Artikel 323/1 des Einkommensteuergesetzbuches 1992 im Hinblick auf den elektronischen 
+Austausch von Daten in Bezug auf Hypothekenanleihen und individuelle Lebensversicherungen wird ebenfalls 
+entsprechend angepasst (Artikel 2 und 3 dieses Erlasses).Die Datenschutzbehörde schlägt in 
+ihrer Stellungnahme Nr. 120/2019 vom 19. Juni 2019 vor, den für die Verarbeitung Verantwortlichen und 
+die Frist für die Aufbewahrung der verarbeiteten Daten im Erlass festzulegen.In Artikel 2 des 
+Gesetzes vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung personenbezogener 
+Daten durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner Aufträge ist bestimmt, dass der 
+Föderale Öffentliche Dienst Finanzen für die Verarbeitung verantwortlich ist. Dies gilt auch für die 
+Verarbeitung von personenbezogenen Daten, die in Anwendung von Artikel 323/1 des EStGB 92 der Steuerverwaltung 
+mitgeteilt werden.Im Hinblick auf die Festlegung der Aufbewahrungsfrist wird in den Königlichen 
+Erlass vom 9. Februar 2017 ein neuer Artikel 4/1 eingefügt. Die Formulierung in Bezug auf die Aufbewahrungsfrist 
+ist von der Formulierung in Bezug auf die Aufbewahrungsfristen in den Artikeln 5, 11 und 11/1 des Gesetzes 
+vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung personenbezogener Daten 
+durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner Aufträge inspiriert. Die Verwaltung 
+bewahrt diese Daten nicht länger auf, als es für die Zwecke, für die sie verarbeitet werden, erforderlich 
+ist, wobei die maximale Aufbewahrungsfrist ein Jahr nach endgültiger Beendigung beziehungsweise Ausschöpfung 
+der gerichtlichen, administrativen und außergerichtlichen Verfahren und Rechtsmittel in Bezug auf 
+die Ausstellung von Bescheinigungen oder die Gewährung der Steuervorteile, in deren Rahmen die Bescheinigungen 
+ausgestellt werden, nicht überschreiten darf. Die Aufbewahrungsfrist gilt nicht nur für Bescheinigungen, 
+die für Rechtsschutzversicherungsprämien ausgestellt werden, sondern auch für Bescheinigungen, die für 
+individuelle Lebensversicherungen und Hypothekendarlehen ausgestellt werden.Genau wie die Steuerermäßigung 
+für Rechtsschutzversicherungsprämien ist dieser Erlass ab dem Steuerjahr 2020 anwendbar. Artikel 6, in 
+dem die Frist für die Aufbewahrung der von der Verwaltung verarbeiteten personenbezogenen Daten festgelegt 
+ist, ist ebenfalls auf die ab dem Steuerjahr 2017 ausgestellten Bescheinigungen anwendbar. Auf diese 
+Weise wird für die personenbezogenen Daten, die für die Steuerjahre 2017 bis einschließlich 2019 
+der Verwaltung bereits mitgeteilt worden sind, ebenfalls eine maximale Aufbewahrungsfrist festgelegt.Soweit, 
+Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO16. JULI 2019 - Königlicher Erlass 
+über die Bescheinigungen für die Steuerermäßigung für RechtsschutzversicherungsprämienPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 
+1992:- des Artikels 14549 § 2 Absatz 2, eingefügt durch das Gesetz 
+vom 22. April 2019,- des Artikels 323/1 § 2, eingefügt durch das Gesetz vom 18. Dezember 
+2016;Aufgrund des KE/EStGB 92;Aufgrund des Königlichen Erlasses vom 9. Februar 2017 
+zur Ausführung von Artikel 323/1 des Einkommensteuergesetzbuches 1992 im Hinblick auf den elektronischen 
+Austausch von Daten in Bezug auf Hypothekenanleihen und individuelle Lebensversicherungen;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 29. April 2019;Aufgrund des Einverständnisses der 
+Ministerin des Haushalts vom 4. Juni 2019;Aufgrund der Stellungnahme Nr. 120/2019 der Datenschutzbehörde 
+vom 19. Juni 2019;Aufgrund des Gutachtens Nr. 66.322/3 des Staatsrates vom 28. Juni 2019 in 
+Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über 
+den Staatsrat;Auf Vorschlag des Vizepremierministers und Ministers der FinanzenHaben 
+Wir beschloßen und erlassen Wir:KAPITEL 1 - Abänderung des KE/EStGB 92Artikel 
+1 - In Kapitel 1 des KE/EStGB 92 wird ein Abschnitt 25undecies/7, der Artikel 6318/17 
+umfasst, mit folgendem Wortlaut eingefügt:"Abschnitt 25undecies/7 - Steuerermäßigung 
+für Rechtsschutzversicherungsprämien (Einkommensteuergesetzbuch 1992, Artikel 14549 
+§ 2 Absatz 2)Art. 6318/17 - Versicherer, die eine Rechtsschutzversicherung 
+im Sinne von Artikel 14549 § 1 des Einkommensteuergesetzbuches 1992 abschließen, 
+müssen Versicherungsnehmern jährlich vor dem 1. März des Jahres nach dem Jahr der Zahlung der Prämien 
+eine Bescheinigung ausstellen, in der:- der Betrag der Prämien angegeben ist, die im Laufe 
+des Jahres, für das die Bescheinigung ausgestellt wird, gezahlt worden sind und für die Steuerermäßigung 
+in Betracht kommen,- gemäß Artikel 14549 § 2 Absatz 1 des Einkommensteuergesetzbuches 
+1992 bestätigt wird, dass der Vertrag alle Bedingungen von Kapitel 2 des Gesetzes vom 22. April 2019 
+zur Erleichterung des Zugangs zu einer Rechtsschutzversicherung erfüllt.Das Muster der in Absatz 
+1 erwähnten Bescheinigung wird vom Minister der Finanzen oder von seinem Beauftragten festgelegt."KAPITEL 
+2 - Abänderungen des Königlichen Erlasses vom 9. Februar 2017 zur Ausführung von Artikel 323/1 des Einkommensteuergesetzbuches 
+1992 im Hinblick auf den elektronischen Austausch von Daten in Bezug auf Hypothekenanleihen und individuelle 
+LebensversicherungenArt. 2 -  In der Überschrift des Königlichen Erlasses vom 9. Februar 2017 
+zur Ausführung von Artikel 323/1 des Einkommensteuergesetzbuches 1992 im Hinblick auf den elektronischen 
+Austausch von Daten in Bezug auf Hypothekenanleihen und individuelle Lebensversicherungen werden die 
+Wörter "und individuelle Lebensversicherungen" durch die Wörter ", individuelle Lebensversicherungen 
+und Rechtsschutzversicherungen" ersetzt.Art. 3 -  Artikel 1 desselben Erlasses, dessen heutiger 
+Text § 1 bilden wird, wird durch einen Paragraphen 2 mit folgendem Wortlaut ergänzt:" 
+§ 2 - In Ausführung von Artikel 323/1 § 2 des Einkommensteuergesetzbuches 1992 müssen Versicherungsunternehmen, 
+die im Hinblick auf den Erhalt der Steuerermäßigung für Rechtsschutzversicherungsprämien wie in 
+Artikel 14549 desselben Gesetzbuches erwähnt eine Bescheinigung ausstellen, von ihnen 
+ausgestellte Bescheinigungen 281.63 der Verwaltung elektronisch übermitteln.Die in vorhergehendem 
+Absatz erwähnte elektronische Übermittlung muss vor dem 1. März des Jahres nach dem Kalenderjahr, auf 
+das die Bescheinigungen 281.63 sich beziehen, und zum ersten Mal vor dem 1. März 2020 erfolgen."Art. 
+4 - In denselben Erlass wird ein Artikel 3/1 mit folgendem Wortlaut eingefügt:"Art. 3/1 - Die 
+Daten, die Versicherer in Bezug auf Rechtsschutzversicherungsverträge übermitteln müssen, deren Prämien 
+zur Steuerermäßigung wie in Artikel 14549 des Einkommensteuergesetzbuches 1992 
+erwähnt berechtigen können, sind Folgende:- Nummer der Bescheinigung,- Name, Vorname 
+und Adresse des Versicherungsnehmers,- nationale Nummer des Versicherungsnehmers,- 
+Referenznummer des Vertrags und eventuelle diesbezügliche Änderungen,- Betrag der Prämien, 
+die im Laufe des Jahres, für das die Bescheinigung ausgestellt wird, gezahlt worden sind,- 
+Bestätigung, dass der Vertrag alle Bedingungen von Kapitel 2 des Gesetzes vom 22. April 2019 zur Erleichterung 
+des Zugangs zu einer Rechtsschutzversicherung erfüllt."Art. 5 - In Artikel 4 desselben Erlasses 
+werden die Wörter "der Bescheinigungen 281.61 und 281.62" durch die Wörter "der Bescheinigungen 281.61, 
+281.62 und 281.63" ersetzt.Art. 6 - In denselben Erlass wird ein Artikel 4/1 mit folgendem 
+Wortlaut eingefügt:"Art. 4/1 - Unbeschadet der Aufbewahrung, die erforderlich ist für die weitere, 
+in Artikel 89 der Verordnung 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum 
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und 
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) erwähnte Verarbeitung zu im öffentlichen 
+Interesse liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken oder zu 
+statistischen Zwecken, bewahrt die Verwaltung die personenbezogenen Daten, die in den Bescheinigungen 
+aufgenommen sind, die ihr in Ausführung von Artikel 323/1 des Einkommensteuergesetzbuches 1992 elektronisch 
+übermittelt werden, nicht länger auf, als es für die Zwecke, für die sie verarbeitet werden, erforderlich 
+ist, wobei die maximale Aufbewahrungsfrist ein Jahr nach endgültiger Beendigung beziehungsweise Ausschöpfung 
+der gerichtlichen, administrativen und außergerichtlichen Verfahren und Rechtsmittel in Bezug auf 
+die Ausstellung von Bescheinigungen oder die Gewährung der Steuervorteile, in deren Rahmen die Bescheinigungen 
+ausgestellt werden, nicht überschreiten darf."Art. 7 -  Artikel 5 desselben Erlasses wird wie 
+folgt ersetzt:"Art. 5 - Vorliegender Erlass ist anwendbar auf:- Bescheinigungen, 
+die im Hinblick auf den Erhalt eines Steuervorteils wie in den Artikeln 1451 Nr. 2 und 
+3, 14524 § 3, 14537 bis 14542, 14546ter 
+bis 14546quinquies, 526 § 2 und 539 des Einkommensteuergesetzbuches 1992 erwähnt 
+in Bezug auf Zahlungen ab dem Steuerjahr 2017 ausgestellt werden müssen,- Bescheinigungen, 
+die im Hinblick auf den Erhalt der Steuerermäßigung wie in Artikel 14549 des vorerwähnten 
+Gesetzbuches erwähnt in Bezug auf Zahlungen ab dem Steuerjahr 2020 ausgestellt werden müssen."KAPITEL 
+3 - Inkrafttreten und SchlussbestimmungArt. 8 - Vorliegender Erlass tritt am 1. September 2019 
+in Kraft und ist anwendbar auf die ab dem Steuerjahr 2020 ausgestellten Bescheinigungen, mit Ausnahme 
+von Artikel 6, der auf die ab dem Steuerjahr 2017 ausgestellten Bescheinigungen anwendbar ist.Art. 
+9 -  Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 16. Juli 2019PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-13Numac : 2020031402
+

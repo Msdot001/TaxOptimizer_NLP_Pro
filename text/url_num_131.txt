@@ -1,0 +1,166 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/03/17/2020021095/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020021095
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 17 MAART 2019. - Koninklijk besluit tot wijziging van de koninklijke besluiten nrs. 4, 15, 24, 31, 41 en 56 met betrekking tot de belasting over de toegevoegde waarde, met het oog op de automatisering van de uitvoerbare titel inzake de belasting over de toegevoegde waarde. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 17 maart 2019 tot wijziging 
+van de koninklijke besluiten nrs. 4, 15, 24, 31, 41 en 56 met betrekking tot de belasting over de toegevoegde 
+waarde, met het oog op de automatisering van de uitvoerbare titel inzake de belasting over de toegevoegde 
+waarde (Belgisch Staatsblad van 8 april 2019).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN17. 
+MÄRZ 2019 - Königlicher Erlass zur Abänderung der Königlichen Erlasse Nr. 4, 15, 24, 31, 41 und 56 über 
+die Mehrwertsteuer im Hinblick auf die Automatisierung des Vollstreckungstitels im Bereich der MehrwertsteuerPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund der Verfassung, 
+des Artikels 108;Aufgrund des Gesetzes vom 26. November 2018 zur Abänderung des Mehrwertsteuergesetzbuches 
+hinsichtlich der Automatisierung des Vollstreckungstitels im Bereich der Mehrwertsteuer;Aufgrund 
+des Mehrwertsteuergesetzbuches, des Artikels 53duodecies, eingefügt durch das Gesetz vom 30. Juli 2018, 
+des Artikels 54 Absatz 2, eingefügt durch das Gesetz vom 28. Dezember 1992, des Artikels 55 § 
+3, ersetzt durch das Gesetz vom 7. März 2002 und abgeändert durch das Gesetz vom 20. Dezember 2002, des 
+Artikels 59 § 2 Absatz 3, ersetzt durch das Programmgesetz vom 27. Dezember 2006, des Artikels 
+76 § 1, ersetzt durch das Gesetz vom 26. November 2009 und abgeändert durch das Gesetz vom 25. 
+April 2014, des Artikels 76 § 2, eingefügt durch das Gesetz vom 26. November 2009, des Artikels 
+80, ersetzt durch das Gesetz vom 22. Dezember 1989 und zuletzt abgeändert durch das Gesetz vom 26. November 
+2009, und des Artikels 84 Absatz 3, eingefügt durch das Gesetz vom 4. August 1986;Aufgrund 
+des Königlichen Erlasses Nr. 4 vom 29. Dezember 1969 in Bezug auf Erstattungen im Bereich der Mehrwertsteuer;Aufgrund 
+des Königlichen Erlasses Nr. 15 vom 3. Juni 1970 zur Regelung des in Artikel 59 § 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Schätzungsverfahrens;Aufgrund des Königlichen Erlasses Nr. 24 vom 29. Dezember 
+1992 über die Zahlung der Mehrwertsteuer;Aufgrund des Königlichen Erlasses Nr. 31 vom 2. April 
+2002 über die Modalitäten für die Anwendung der Mehrwertsteuer in Bezug auf Umsätze von nicht in Belgien 
+ansässigen Steuerpflichtigen; Aufgrund des Königlichen Erlasses Nr. 41 vom 30. Januar 1987 
+zur Festlegung des Betrags der gestaffelten steuerrechtlichen Geldbußen im Bereich der Mehrwertsteuer;Aufgrund 
+des Königlichen Erlasses Nr. 56 vom 9. Dezember 2009 über die Erstattung der Mehrwertsteuer an Steuerpflichtige, 
+die in einem anderen Mitgliedstaat als dem Mitgliedstaat der Erstattung ansässig sind;Aufgrund 
+der Stellungnahme des Finanzinspektors vom 11. Oktober 2018;Aufgrund des Einverständnisses 
+des Ministers des Haushalts vom 30. November 2018;Aufgrund des Antrags auf Begutachtung binnen 
+einer Frist von 30 Tagen, der am 3. Dezember 2018 beim Staatsrat eingereicht worden ist, in Anwendung 
+von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;In 
+der Erwägung, dass kein Gutachten binnen der gesetzten Frist übermittelt worden ist;Aufgrund 
+von Artikel 84 § 4 Absatz 2 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;Auf 
+Vorschlag des Vizepremierministers und Ministers der FinanzenHaben Wir beschloßen und 
+erlassen Wir:Artikel 1 - In Artikel 6 des Königlichen Erlasses Nr. 4 vom 29. Dezember 1969 
+in Bezug auf Erstattungen im Bereich der Mehrwertsteuer, zuletzt abgeändert durch den Königlichen Erlass 
+vom 24. Januar 2015, wird das Wort "Zinsen" jeweils durch das Wort "Verzugszinsen" ersetzt.Art. 
+2 - Artikel 81 § 3 desselben Erlasses, ersetzt durch den Königlichen Erlass vom 
+14. April 1993 und zuletzt abgeändert durch den Königlichen Erlass vom 15. Februar 2016, wird wie folgt 
+abgeändert:a) In Absatz 1 wird das Wort "Zinsen" durch das Wort "Verzugszinsen" ersetzt.b) 
+In Absatz 2 werden die Wörter "zu einer in Artikel 85 des Gesetzbuches erwähnten Zwangsbeitreibung geführt 
+hat, deren Ausführung nicht durch ein in Artikel 89 des Gesetzbuches vorgesehenes Gerichtsverfahren" 
+durch die Wörter "in einem in Artikel 85 des Gesetzbuches erwähnten Einnahme- und Beitreibungsregister 
+aufgenommen wurde, dessen Vollstreckung nicht durch eine in Artikel 89 des Gesetzbuches vorgesehene Klage" 
+ersetzt.c) In Absatz 4 werden die Wörter "zu einer in Artikel 85 des Gesetzbuches erwähnten 
+Zwangsbeitreibung geführt hat, deren Ausführung durch ein in Artikel 89 des Gesetzbuches vorgesehenes 
+Gerichtsverfahren" durch die Wörter "in einem in Artikel 85 des Gesetzbuches erwähnten Einnahme- und 
+Beitreibungsregister aufgenommen wurde, dessen Vollstreckung durch eine in Artikel 89 des Gesetzbuches 
+vorgesehene Klage" ersetzt.Art. 3 - In Artikel 82 Absatz 1 desselben Erlasses, 
+ersetzt durch den Königlichen Erlass vom 14. April 1993, wird das Wort "Zinsen" durch das Wort "Verzugszinsen" 
+ersetzt.Art. 4 - Artikel 83 desselben Erlasses, ersetzt durch den Königlichen 
+Erlass vom 14. April 1993 und zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 2015, wird 
+wie folgt abgeändert:1. In Absatz 2 wird das Wort "Zinsen" durch das Wort "Verzugszinsen" ersetzt.2. 
+In Absatz 3 werden die Wörter "zu einer in Artikel 85 des Gesetzbuches erwähnten Zwangsbeitreibung geführt 
+hat, deren Ausführung nicht durch ein in Artikel 89 des Gesetzbuches vorgesehenes Gerichtsverfahren" 
+durch die Wörter "in einem in Artikel 85 des Gesetzbuches erwähnten Einnahme- und Beitreibungsregister 
+aufgenommen wurde, dessen Vollstreckung nicht durch eine in Artikel 89 des Gesetzbuches vorgesehene Klage" 
+ersetzt.3. In Absatz 5 werden die Wörter "zu einer in Artikel 85 des Gesetzbuches erwähnten 
+Zwangsbeitreibung geführt hat, deren Ausführung durch ein in Artikel 89 des Gesetzbuches vorgesehenes 
+Gerichtsverfahren" durch die Wörter "in einem in Artikel 85 des Gesetzbuches erwähnten Einnahme- und 
+Beitreibungsregister aufgenommen wurde, dessen Vollstreckung durch eine in Artikel 89 des Gesetzbuches 
+vorgesehene Klage" ersetzt.Art. 5 - In Artikel 12 § 2 desselben Erlasses, ersetzt durch 
+den Königlichen Erlass vom 14. April 2009, werden die Wörter "unter 7 EUR" durch die Wörter "von höchstens 
+12,50 EUR" ersetzt.Art. 6 - In Artikel 13 Absatz 1 desselben Erlasses, zuletzt abgeändert durch 
+den Königlichen Erlass vom 30. April 2013, wird das Wort "Zinsen" durch das Wort "Verzugszinsen" ersetzt.Art. 
+7 - In Artikel 14 desselben Erlasses, ersetzt durch den Königlichen Erlass vom 16. Juni 2003 und abgeändert 
+durch den Königlichen Erlass vom 30. April 2013, wird das Wort "Zinsen" jeweils durch das Wort "Verzugszinsen" 
+ersetzt, werden die Wörter "Ein Gerichtsverfahren" durch die Wörter "Eine Klage" ersetzt und wird das 
+Wort "eingeleitet" durch das Wort "eingereicht" ersetzt.Art. 8 - In Artikel 13 Absatz 2 des 
+Königlichen Erlasses Nr. 15 vom 3. Juni 1970 zur Regelung des in Artikel 59 § 2 des Mehrwertsteuergesetzbuches 
+vorgesehenen Schätzungsverfahrens werden die Wörter "per Zwangsbefehl" durch die Wörter "auf der Grundlage 
+eines Einnahme- und Beitreibungsregisters" ersetzt.Art. 9 - In Artikel 18 Absatz 1 desselben 
+Erlasses, abgeändert durch den Königlichen Erlass vom 19. Dezember 2010, werden die Wörter "per Zwangsbefehl" 
+durch die Wörter "auf der Grundlage eines Einnahme- und Beitreibungsregisters" ersetzt.Art. 
+10 - In Artikel 1 Nr. 3 des Königlichen Erlasses Nr. 24 vom 29. Dezember 1992 über die Zahlung der Mehrwertsteuer, 
+abgeändert durch den Königlichen Erlass vom 30. April 2013, werden die Wörter "der gemäß Artikel 
+91 § 1 des Gesetzbuches geschuldete Zins" durch die Wörter "gemäß Artikel 91 § 1 
+des Gesetzbuches geschuldete Verzugszinsen" ersetzt.Art. 11 - In Artikel 5 desselben Erlasses, 
+zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 2015, wird das Wort "Zinsen" jeweils durch 
+das Wort "Verzugszinsen" ersetzt.Art. 12 - In Artikel 6 Absatz 1 desselben Erlasses, abgeändert 
+durch den Königlichen Erlass vom 30. April 2013, wird das Wort "Zinsen" durch das Wort "Verzugszinsen" 
+ersetzt.Art. 13 - In Artikel 9 desselben Erlasses, zuletzt abgeändert durch den Königlichen 
+Erlass vom 30. April 2013, wird das Wort "Zinsen" durch das Wort "Verzugszinsen" ersetzt.Art. 
+14 - In Artikel 10 Nr. 3 desselben Erlasses, abgeändert durch den Königlichen Erlass vom 30. April 2013, 
+werden die Wörter "der gemäß Artikel 91 § 1 des Gesetzbuches geschuldete Zins" durch die 
+Wörter "gemäß Artikel 91 §  1 des Gesetzbuches geschuldete Verzugszinsen" ersetzt.Art. 
+15 - In Artikel 19 Absatz 1 desselben Erlasses, abgeändert durch den Königlichen Erlass vom 30. April 
+2013, wird das Wort "Zinsen" durch das Wort "Verzugszinsen" ersetzt.Art. 16 - In Artikel 3 
+Absatz 3 des Königlichen Erlasses Nr. 31 vom 2. April 2002 über die Modalitäten für die Anwendung der 
+Mehrwertsteuer in Bezug auf Umsätze von nicht in Belgien ansässigen Steuerpflichtigen wird das Wort "Zinsen" 
+durch das Wort "Verzugszinsen" ersetzt.Art. 17 - Artikel 2 des Königlichen Erlasses Nr. 41 
+vom 30. Januar 1987 zur Festlegung des Betrags der gestaffelten steuerrechtlichen Geldbußen im 
+Bereich der Mehrwertsteuer, abgeändert durch den Königlichen Erlass vom 30. März 1994, für nichtig erklärt 
+durch den Entscheid des Staatsrates Nr. 57.134 vom 20. Dezember 1995, wird aufgehoben.Art. 
+18 - In Tabelle A Abschnitt 1 Rubrik I der Anlage zu demselben Erlass wird das Wort "Aufschubzinses" 
+jeweils durch das Wort "Verzugszinses" ersetzt.Art. 19 - In Tabelle G Abschnitt 1 Rubrik I 
+der Anlage zu demselben Erlass, zuletzt abgeändert durch den Königlichen Erlass vom 9. Juli 2012, wird 
+das Wort "Aufschubzinses" jeweils durch das Wort "Verzugszinses" ersetzt.Art. 20 - In Tabelle 
+G Abschnitt 2 Rubrik VIII der Anlage zu demselben Erlass, zuletzt abgeändert durch den Königlichen Erlass 
+vom 20. Juli 2000, wird das Wort "Aufschubzinses" jeweils durch das Wort "Verzugszinses" ersetzt.Art. 
+21 - In Artikel 20 des Königlichen Erlasses Nr. 56 vom 9. Dezember 2009 über die Erstattung der Mehrwertsteuer 
+an Steuerpflichtige, die in einem anderen Mitgliedstaat als dem Mitgliedstaat der Erstattung ansässig 
+sind, zuletzt abgeändert durch den Königlichen Erlass vom 24. Januar 2015, wird das Wort "Zinsen" jeweils 
+durch das Wort "Verzugszinsen" ersetzt.Art. 22 - In Artikel 22 desselben Erlasses wird das 
+Wort "Zinsen" durch das Wort "Aufschubzinsen" ersetzt.Art. 23 - Vorliegender Erlass ist nicht 
+anwendbar auf Zwangsbeitreibungen, auch Zwangsbefehle genannt, die vor dem Datum seines Inkrafttretens 
+notifiziert oder zugestellt werden.Art. 24 - Vorliegender Erlass tritt am selben Datum in Kraft 
+wie das Gesetz vom 26. November 2018 zur Abänderung des Mehrwertsteuergesetzbuches hinsichtlich der Automatisierung 
+des Vollstreckungstitels im Bereich der Mehrwertsteuer.Art. 25 - Der für Finanzen zuständige 
+Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 
+17. März 2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-06-05Numac : 2020021095
+

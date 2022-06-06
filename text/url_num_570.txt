@@ -1,0 +1,191 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/27/2021041993/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-03Numac : 2021041993
+WAALSE OVERHEIDSDIENST 
+ 27 MEI 2021. - Besluit van de Waalse Regering tot wijziging van sommige bepalingen van het Waals reglementair wetboek van Sociale actie en Gezondheid betreffende de financiering van de operatoren in de sector van de sociale actie in het kader van de gezondheidscrisis COVID-19 
+De Waalse Regering,Gelet 
+op het Wetboek van Sociale Actie en Gezondheid, inzonderheid op de artikelen 47, vervangen bij het decreet 
+van 20 februari 2014, artikel 47/3, ingevoegd bij het decreet van 20 februari 2014, artikel 56, gewijzigd 
+bij het decreet van 20 februari 2014, artikel 56/7, gewijzigd bij het decreet van 23 maart 2017, artikel 
+114, gewijzigd bij het decreet van 28 april 2016, artikel 115, gewijzigd bij de decreten van 20 februari 
+2014 en 28 april 2016, artikel 149/17, ingevoegd bij het decreet van 1 maart 2018, en artikel 154/4, 
+ingevoegd bij het decreet van 27 maart 2014 en gewijzigd bij het decreet van 8 november 2018;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 5 mei 2021;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 6 mei 2021;Gelet op het rapport opgesteld op 23 april 
+2021 overeenkomstig artikel 4, 2°,  van het decreet van 3 maart 2016 houdende uitvoering van de resoluties 
+van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en 
+tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen voor de aangelegenheden 
+geregeld krachtens artikel 138 van de Grondwet;Gelet op het advies van het inter-Franstalig 
+overlegorgaan, gegeven op 12 mei 2021;Gelet op advies nr. 69.361/4 van de Raad van State, gegeven 
+op 17 mei 2021, overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de van de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973;Gelet op de dringende noodzakelijkheid;Gelet 
+op het reglementair deel van het Waals Wetboek van Sociale Actie en Gezondheid, inzonderheid op de artikelen 
+12/1, 12/2, 29 tot 36, 38/1 tot 38/15, 93 tot 124, 235/9 tot 235/12, 237/6 en 237/7, 251 en 251/1;Gelet 
+op de overlegvergaderingen tussen de Regeringen van de deelgebieden en de bevoegde federale autoriteiten, 
+in het Overlegcomité, dat sinds begin maart 2020 bijeenkomt;Gelet op het ministerieel besluit 
+van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te 
+beperken, zoals laatst gewijzigd bij het ministerieel besluit van 26 maart 2021;Gelet op de 
+ontwikkeling van de gezondheidscrisis COVID-19 en de maatregelen die door de verschillende bestuursniveaus 
+zijn genomen, en met name de maatregelen die aan het einde van de vergadering van het overlegcomité van 
+24 maart 2021 zijn genomen, om de verspreiding ervan te beperken;Gelet op artikel 191 van het 
+EU-Verdrag waarin het voorzorgsbeginsel vastgeschreven is in het kader van het beheer van een internationale 
+sanitaire crisis en de actieve voorbereiding op het potentieel voorvallen van deze crisissen; dat dit 
+beginsel inhoudt dat, wanneer er een ernstig risico zich naar alle waarschijnlijkheid kan voordoen, de 
+publieke overheden dringende en voorlopige maatregelen dienen te nemen;Gelet op de verklaring 
+van WHO in verband met de kenmerken van het coronavirus COVID-19, in het bijzonder de sterke besmettelijkheid 
+en het sterfelijkheidsrisico;Overwegende dat WHO op 11 maart 2020 het coronavirus COVID-19 
+als een pandemie gelabeld heeft;Overwegende dat WHO op 16 maart 2020 zijn dreigingsniveau voor 
+het coronavirus COVID-19, die de wereldeconomie destabiliseert en zich snel over de wereld spreidt, naar 
+de hoogste graad heeft opgetrokken;Gelet op de verspreiding van het coronavirus COVID-19 op 
+Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid en het gezondheidsrisico 
+dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt;Overwegende inderdaad dat 
+de federale regering er in maart 2021 aan herinnerde dat het dagelijkse gemiddelde van de nieuwe bevestigde 
+besmettingen met het COVID-19 coronavirus in België zeer sterk was gestegen tot 4331 positieve bevestigde 
+gevallen op 26 maart 2021 en dat in totaal 2492 aan het COVID-19coronavirus lijdende patiënten in de 
+Belgische ziekenhuizen werden verzorgd; dat op diezelfde datum in totaal 651 patiënten in de eenheden 
+voor intensieve zorgen werden verzorgd;Dat een vermindering van de aantallen nog steeds noodzakelijk 
+is om uit deze gevaarlijke epidemiologische situatie te geraken;Overwegende dat de huidige 
+epidemiologische situatie opnieuw noopt tot een drastische beperking van de sociale contacten en de toegestane 
+activiteiten;Overwegende derhalve dat de federale regering heeft herhaald dat telewerk verplicht 
+is, behalve wanneer de activiteit het niet toelaat;Overwegende dat het gevaar zich over het 
+grondgebied van het gehele land verspreidt; dat het in het algemeen belang is dat er samenhang gegeven 
+wordt aan de getroffen maatregelen om de openbare orde in stand te houden, zodat de doeltreffendheid 
+ervan hoogst mogelijk is;Overwegende dat de rechtstreekse en onrechtstreekse gevolgen van de 
+crisis een beheer en een snelle respons op gewestelijk niveau vereisen;Overwegende dat de crisis, 
+en met name de gevolgen ervan voor de werkorganisatie, de sectoren en de regelingen inzake sociale actie, 
+evenals de daarbij nagestreefde doelstellingen, in gevaar kan brengen en met name een aanzienlijke impact 
+kan hebben op de financiering van de operatoren in de sector van de sociale actie in het kader van het 
+beheer van de crisis COVID-19; Overwegende dat de voorziene maatregelen onontbeerlijk zijn 
+om de tewerkstelling in deze sectoren en de instandhouding van de sociale prestaties die uit deze regelingen 
+voortvloeien, te garanderen;Overwegende dat het voor de inachtneming van het continuïteitsbeginsel 
+van de dienstverlening door de overheid passend is de regels aan te passen voor de organisatie van de 
+openbare diensten belast met de regelingen vallend onder het sociale actiebeleid met respect voor de 
+rechten van de rechthebbenden;Gelet de rechtsonzekerheid waarin de erkende en gesubsidieerde 
+diensten en instellingen zich momenteel bevinden met betrekking tot de hoogte van de financiering waarop 
+zij recht hebben, gezien de aanzienlijke variatie in hun activiteiten als gevolg van de gezondheidscrisis 
+COVID-19;Overwegende dat het risico als gevolg van deze juridische en financiële onzekerheid 
+is dat deze actoren hun niveau van dienstverlening en de kwaliteit van de zorg die zij aan de begunstigden 
+verlenen, kunnen verlagen;Overwegende dat er derhalve op moet worden toegezien dat de subsidies 
+aan de operatoren worden toegekend en het respect voor de rechten van de rechthebbenden, bepaald in het 
+kader van de regelingen vallend onder het sociale actiebeleid, worden geëerbiedigd om de onvermijdelijke 
+gevolgen van de COVID-19-epidemie uit te vlakken en de daaruit mogelijks voortvloeiende buitenkanseffecten 
+uit te sluiten; Overwegende dat het dringend is om deze maatregelen uit te voeren om het ermee 
+beoogde doel te bereiken en dat elke vertraging bij de aanneming van deze maatregelen het effect ervan 
+waarschijnlijk zal verminderen; Overwegende dat de instandhouding van het dienstenaanbod en 
+de kwaliteit van de zorg in het kader van de gezondheidscrisis COVID-19 bijzonder onmisbaar is;Overwegende 
+dat het gezien al deze elementen dringend is dat de financieringsmaatregelen van de operatoren in de 
+sector van de sociale actie snel worden aangepast;Overwegende dat de dringende noodzakelijkheid 
+ingegeven wordt door het feit dat het ontworpen besluit bepalingen bevat met betrekking tot het jaar 
+2021;Dat ook al hebben sommige bepalingen betrekking op subsidies die in 2022 zijn toegekend, 
+zij bovendien een dringend karakter hebben omdat deze subsidies zullen worden vastgesteld volgens de 
+activiteitenparameters voor het jaar 2020 of 2021, waarbij deze activiteitenparameters momenteel aan 
+de gang zijn en voor sommige daarvan al zijn voltooid;Dat de operatoren in de sectoren van 
+sociale actie tot slot absoluut zekerheid over hun lot voor het jaar 2021 moeten verwerven, daar genoemde 
+operatoren, indien het voor hen nodig zou zijn om specifieke maatregelen te nemen wegens de invloed van 
+de gezondheidscrisis op hun toekomstige financiering, daar nu al op moeten kunnen anticiperen;Overwegende 
+dat de dringende noodzakelijkheid verantwoord is;Dat deze uitzonderlijke maatregelen zo nodig 
+en in geval van verlenging of verergering van de hierboven genoemde uitzonderlijke gezondheidsomstandigheden 
+zullen worden herzien of verlengd;Dat het daartoe dienstig is aan de Minister die bevoegd is 
+voor sociale actie, de bevoegdheid te delegeren om de werking van de voorgenomen maatregelen te verlengen 
+ingeval de sanitaire omstandigheden die verband houden met de sanitaire crisis van de COVID-19 na 1 oktober 
+2021 blijven voortbestaan;Overwegende dat dit besluit op 1 april 2021 in werking moet treden 
+om een onderbreking van de reeds toegestane aanpassingen te voorkomen;Op de voordracht van 
+de Minister van Sociale Actie;Na beraadslaging,Besluit : HOOFDSTUK I. - 
+Algemene bepalingenArtikel 1. Dit besluit regelt, overeenkomstig artikel 138 van de Grondwet, 
+een materie bedoeld in artikel 128 ervan.Art. 2. Voor de toepassing van dit besluit mag het 
+bedrag van de subsidie geenszins hoger zijn dan de daadwekelijk door de begunstigde gedragen kostprijs, 
+voor hetgeen gesubsidieerd wordt.HOOFDSTUK II. - Maatregelen betreffende de diensten voor sociale 
+insluitingArt. 3. In afwijking van artikel 29, eerste lid, 2°,  van het reglementair Deel van 
+het Waalse wetboek van Sociale Actie en Gezondheid, hierna "CRWASS" genoemd, is de erkende dienst, om 
+het gebruik van de subsidie voor het jaar 2021 te rechtvaardigen en de subsidie voor het jaar 2022 te 
+berekenen, voor een voltijdse werknemer vrijgesteld van de verplichting om tussen 1 april 2021 en 30 
+september 2021 een activiteitsvolume gewijd aan groepswerk van minstens negentien uur per week te rechtvaardigen, 
+op voorwaarde dat de activiteit van de maatschappelijk werker van achtendertig uur per week gerechtvaardigd 
+is in toepassing van artikel 51, 2°  tot 6°,  van het Waalse wetboek van Sociale Actie en Gezondheid, 
+hierna "CWASS" genoemd.HOOFDSTUK III. - Maatregelen betreffende opvangtehuizen en gemeenschapshuizenArt. 
+4. In afwijking van artikel 116 van het "CRWASS" is de bezettingsgraad van een opvangtehuis en gemeenschapshuis 
+voor het jaar 2021berekend, waarbij de periode van 1 april tot en met 30 september 2021 niet meegerekend 
+wordt.HOOFDSTUK IV. - Maatregelen betreffende de sociale kruideniers en sociale restaurantsArt. 
+5. In afwijking van artikel 38/5, tweede lid, 7°,  van het "CWASS" wordt het aantal punten dat in toepassing 
+van artikel 38/10, § 1, 2°,  3°  en 4°,  van het "CRWASS" wordt toegekend, bepaald over de periode 
+van twaalf maanden tussen 1 maart 2019 en 29 februari 2020, voor elke erkenningsaanvraag die tussen 1 
+april 2021 en 30 september 2021 wordt ingediend.In afwijking van het vorig lid wordt, indien 
+de dienst tussen 1 maart 2019 en 29 februari 2020 niet open was omdat hij nog niet was opgericht, en 
+hij dus geen activiteit tijdens die periode kan rechtvaardigen, een gemiddelde genomen van de maanden 
+tijdens welke de dienst open was.Art. 6. In afwijking van artikel 38/12 van het "CRWASS" worden 
+de in artikel 38/10, § 1, 2°  tot 4°,  vastgestelde coëfficiënten voor de periode van 1 april 
+2021 tot 30 september 2021 niet in aanmerking genomen in het kader van een herziening van het besluit 
+tot erkenning van een dienst.HOOFDSTUK V. - Maatregelen betreffende de diensten en voorzieningen 
+voor de begeleiding van partnergeweld en gendergerelateerd geweldArt. 7. In afwijking van artikel 
+235/10 van het "CRWASS" wordt het bedrag van de subsidie voor het jaar 2022 met betrekking tot de activiteit 
+van de dienst in 2021 en het saldo van de subsidie voor het jaar 2021 berekend op basis van het aantal 
+aan opdrachten toegewezen uren, indien het aldus verkregen bedrag groter is dan het op basis van alle 
+maanden van het jaar 2021 verkregen bedrag, op voorwaarde dat de activiteiten worden georganiseerd voor 
+ten minste 25% van het aantal uren dat tussen 1 oktober en 31 december 2021 vereist is.HOOFDSTUK 
+VI. - Maatregelen betreffende de plaatselijke initiatieven voor de integratie van vreemdelingenArt. 
+8. In afwijking van artikel 251, § 1, van het "CRWASS" wordt de omvang van de collectieve activiteiten 
+waarmee rekening wordt gehouden bij de vaststelling van het saldo van de subsidie voor het jaar 2021 
+berekend op basis van het aantal geplande modules voor de periode van april tot en met september 2021 
+en op basis van het aantal afgeronde modules voor de maanden oktober tot en met december 2021.In 
+afwijking van artikel 237/6, lid 4, en artikel 237/7, lid 4, van het "CRWASS", kunnen operatoren tot 
+30 september 2021 afwijken van het minimumaantal van 5 deelnemers per groep.In afwijking van 
+artikel 251/1 van het "CRWASS" wordt de omvang van de collectieve activiteiten waarmee rekening wordt 
+gehouden bij de vaststelling van het saldo van de subsidie voor het jaar 2021 berekend op basis van het 
+aantal geplande modules voor de periode van april tot en met september 2021 en op basis van het aantal 
+afgeronde modules voor de maanden oktober tot en met december 2021. Subsidies die op basis van de begroting 
+van het jaar 2020 worden toegekend en waarvan de periode ten minste de maanden april tot en met september 
+2021 bestrijkt, worden op dezelfde wijze geïmmuniseerd als subsidies die op basis van de begroting van 
+het jaar 2021 worden toegekend.HOOFDSTUK VII. - SlotbepalingenArt. 9. De in dit besluit 
+genoemde termijnen en periodes kunnen door de minister van Sociale Actie worden verlengd indien de met 
+de gezondheidscrisis COVID-19 verband houdende gezondheidsomstandigheden na 1 oktober 2021 blijven voortbestaan.Art. 
+10. Dit besluit treedt in werking op 1 april 2021.Namen, 27 mei 2021.De Minister-President,E. 
+DI RUPODe Minister van Werk, Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. 
+MORREALE .   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-03Numac : 2021041993
+

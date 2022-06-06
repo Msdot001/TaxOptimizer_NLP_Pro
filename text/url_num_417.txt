@@ -1,0 +1,115 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/02/12/2021040589/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-02-18Numac : 2021040589
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 12 FEBRUARI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 6 februari 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende 
+tekst is de Duitse vertaling van het ministerieel besluit van 12 februari 2021 houdende wijziging van 
+het ministerieel besluit van 6 februari 2021 houdende wijziging van het ministerieel besluit van 28 oktober 
+2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch 
+Staatsblad van 12 februari 2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse 
+vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST INNERES12. FEBRUAR 
+2021 - Ministerieller Erlass zur Abänderung des Ministeriellen Erlasses vom 6. Februar 2021 zur Abänderung 
+des Ministeriellen Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur 
+Eindämmung der Ausbreitung des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund 
+der Verfassung, des Artikels 23;Aufgrund des Gesetzes vom 31. Dezember 1963 über den Zivilschutz, 
+des Artikels 4;Aufgrund des Gesetzes vom 5. August 1992 über das Polizeiamt, der Artikel 11 
+und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit, der Artikel 181, 
+182 und 187;Aufgrund des Ministeriellen Erlasses vom 6. Februar 2021 zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. 
+Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender 
+Erlass von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 11. Februar 2021;Aufgrund des Einverständnisses des Staatssekretärs 
+für Haushalt vom 11. Februar 2021;Aufgrund der am 12. Februar 2021 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 5. Februar 2021 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu verdeutlichen;In 
+Erwägung der Konzertierungen zwischen den Regierungen der föderierten Teilgebiete und den zuständigen 
+föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. und 27. März 2020, am 15. und 24. 
+April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 2020, am 10., 15., 23. und 27. 
+Juli 2020, am 20. August 2020 und am 23. September 2020 zusammengetreten ist;In Erwägung der 
+Gutachten der GEES und der GEMS und der Stellungnahmen der RAG und des CELEVAL;In Erwägung 
+der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Königlichen Erlasses 
+vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen auf kommunaler und 
+provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure bei Krisenereignissen 
+und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler Ebene erfordern;In 
+Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der föderalen Phase hinsichtlich 
+der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus COVID-19;In Erwägung 
+des "Leitfadens für die Öffnung der Geschäfte", der auf der Website des Föderalen Öffentlichen Dienstes 
+Wirtschaft zur Verfügung gestellt wird;In Erwägung der Protokolle, die von den zuständigen 
+Ministern in Konzertierung mit den betreffenden Sektoren bestimmt werden;In Erwägung der Erklärung 
+der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich der hohen 
+Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 von der WHO vorgenommenen 
+Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die WHO am 16. März 
+2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das die Weltwirtschaft 
+destabilisiert und sich rasch in der Welt ausbreitet;In der Erwägung, dass der Konzertierungsausschuss 
+am 5. Februar 2021 beschlossen hat, dass Sonnenbänke mit Personal ab dem 1. März 2021 wieder öffnen können, 
+und zwar unter Einhaltung der Modalitäten des anwendbaren Protokolls; dass zu diesem Zweck im Ministeriellen 
+Erlass vom 28. Oktober 2020 eine Unterscheidung zwischen Sonnenbänken mit Personal und Selbstbedienungssonnenbänken 
+ohne Personal ab dem 13. Februar 2021 eingefügt wurde; dass ein Umkehrschluss den falschen Eindruck erwecken 
+könnte, dass sowohl Sonnenbänke mit Personal als auch Sonnenstudios mit Personal ihre Tätigkeit bereits 
+ab dem 13. Februar 2021 wieder aufnehmen können; dass aus diesem Grund eine technische Abänderung des 
+Ministeriellen Erlasses vom 6. Februar 2021 zur Abänderung des Ministeriellen Erlasses vom 28. Oktober 
+2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 erforderlich ist;Aufgrund der Dringlichkeit,Erlässt:Artikel 1 
+- In Artikel 3 Nr. 7 des Ministeriellen Erlasses vom 6. Februar 2021 zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 werden zwischen dem Wort "Schönheitssalons" und den Wörtern ", nichtmedizinische 
+Fußpflegeinstitute" die Wörter "einschließlich Sonnenbänke mit Personal und Sonnenstudios 
+mit Personal" eingefügt.Art. 2 - In Artikel 7 desselben Erlasses werden die Wörter "Artikel 
+3 Nr. 5 und 7" durch die Wörter "Artikel 3 Nr. 1, 5 und 7" ersetzt.Art. 3 - Vorliegender Erlass 
+tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft.Brüssel, den 12. Februar 
+2021A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-02-18Numac : 2021040589
+

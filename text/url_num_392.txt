@@ -1,0 +1,253 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/01/12/2021020165/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-01-18Numac : 2021020165
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 12 JANUARI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+12 januari 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 12 januari 
+2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES12. JANUAR 2021 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund der Verfassung, des Artikels 
+23;Aufgrund des Gesetzes vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund 
+des Gesetzes vom 5. August 1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes 
+vom 15. Mai 2007 über die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. 
+Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender 
+Erlass von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 11. Januar 2021;Aufgrund des Einverständnisses des Staatssekretärs 
+für Haushalt vom 12. Januar 2021;Aufgrund der am 12. Januar 2021 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 8. Januar 2021 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu erneuern 
+und andere anzupassen;In Erwägung der Konzertierungen zwischen den Regierungen der föderierten 
+Teilgebiete und den zuständigen föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. 
+und 27. März 2020, am 15. und 24. April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 
+2020, am 10., 15., 23. und 27. Juli 2020, am 20. August 2020 und am 23. September 2020 zusammengetreten 
+ist;In Erwägung der Gutachten der GEES und der GEMS und der Stellungnahmen der RAG und des 
+CELEVAL;In Erwägung der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In 
+Erwägung des Artikels 191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip 
+der Vorsorge im Rahmen der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung 
+auf einen möglichen Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen 
+Behörden bei der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende 
+und vorläufige Schutzmaßnahmen ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe 
+c) der Verordnung (UE) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz 
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung 
+der Richtlinie 95/46/EG;In Erwägung des Gesetzes vom 24. Januar 1977 über den Schutz der Gesundheit 
+der Verbraucher im Bereich der Lebensmittel und anderer Waren;Aufgrund des Gesetzes vom 4. 
+August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit und seiner Ausführungserlasse;In 
+Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten 
+Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste 
+und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten 
+Personen auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 
+2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung 
+des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der 
+föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus 
+COVID-19;In Erwägung des "Leitfadens für die Öffnung der Geschäfte", der auf der Website des 
+Föderalen Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt wird;In Erwägung des "Allgemeinen 
+Leitfadens zur Eindämmung der Ausbreitung von COVID-19 am Arbeitsplatz", der auf der Website des Föderalen 
+Öffentlichen Dienstes Beschäftigung, Arbeit und Soziale Konzertierung zur Verfügung gestellt wird;In 
+Erwägung des "Leitfadens für eine sichere Wiederaufnahme des Gaststättengewerbes zur Eindämmung der Ausbreitung 
+von COVID-19", der auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt 
+wird;In Erwägung der Protokolle, die von den zuständigen Ministern in Konzertierung mit den 
+betreffenden Sektoren bestimmt werden;In Erwägung der Empfehlung (EU) des Rates der Europäischen 
+Union vom 7. August 2020 zur Änderung der Empfehlung 2020/912 zur schrittweisen Aufhebung der vorübergehenden 
+Beschränkung nicht unbedingt notwendiger Reisen in die EU;In Erwägung der Empfehlung (EU) 2020/1475 
+des Rates vom 13. Oktober 2020 für eine koordinierte Vorgehensweise bei der Beschränkung der Freizügigkeit 
+aufgrund der COVID-19-Pandemie;In Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften 
+des Coronavirus COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In 
+Erwägung der am 11. März 2020 von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In 
+der Erwägung, dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 
+ausgerufen hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In 
+Erwägung der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich 
+gemacht hat, dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen 
+der Epidemie führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In 
+Erwägung der Erklärung des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er darauf hingewiesen 
+hat, dass die Situation in Europa sehr besorgniserregend ist und dass die Übertragung und die Übertragungsquellen 
+in den Häusern, an geschlossenen öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen 
+nicht korrekt befolgen, stattfinden beziehungsweise zu finden sind;In Erwägung der Erklärung 
+des Generaldirektors der WHO vom 26. Oktober 2020, in der er deutlich gemacht hat, dass die höchsten 
+Fallzahlen von COVID-19 in der Woche vom 19. Oktober 2020 verzeichnet worden sind und dass alle Anstrengungen 
+unternommen werden müssen, um die Mitarbeiter des Gesundheitspflegesektors zu schützen; dass Schulen 
+und Unternehmen offen bleiben können, dafür aber Kompromisse eingegangen werden müssen; dass der Generaldirektor 
+bestätigt, dass das Virus durch schnelles und gezieltes Handeln unterdrückt werden kann;In 
+Erwägung der Erklärungen des Generaldirektors der WHO vom 30. Dezember 2020 und vom 5. Januar 2021, in 
+denen er betont hat, wie wichtig es ist, die Maßnahmen bis zur Impfung der Bevölkerung fortzusetzen; 
+in Erwägung der Erklärung von Dr. Hans Henri P. Kluge, Regionaldirektor der WHO für Europa, vom 7. Januar 
+2021, in der er zur Vorsicht mahnt, bevor zur Aufhebung der geltenden Maßnahmen übergangen wird;In 
+Erwägung der Risikoanalyse des Europäischen Zentrums für die Prävention und die Kontrolle von Krankheiten 
+(ECDC) vom 20. Dezember 2020 über die "rasche Zunahme einer SARS-CoV-2-Variante mit mehreren Spitzen 
+von Proteinmutationen, die im Vereinigten Königreich beobachtet wurden" und vom 29. Dezember 2020 "in 
+Bezug auf die Ausbreitung neuer besorgniserregender SARS-CoV-2-Varianten in der EU/im EWR"; dass das 
+ECDC in dieser Analyse den Mitgliedstaaten rät, "Leitlinien zur Vermeidung nicht unbedingt notwendiger 
+Reisen und sozialer Aktivitäten in Erwägung zu ziehen";In der Erwägung, dass auch andere Mitgliedstaaten 
+der Europäischen Union mit einem Anstieg der Zahl der Infektionsfälle konfrontiert sind; dass besonders 
+drastische Maßnahmen ergriffen werden, um die weitere Ausbreitung des Virus zu vermeiden, indem 
+zwischenmenschliche Kontakte reduziert werden;In der Erwägung, dass eine unkontrollierte und 
+exponentielle Ausbreitung der Epidemie vermieden werden muss; dass das gesamte nationale Hoheitsgebiet 
+von der Gefahr betroffen ist; dass es von Bedeutung ist, dass für die ergriffenen Maßnahmen zur 
+Aufrechterhaltung der öffentlichen Ordnung ein Höchstmaß an Kohärenz gegeben ist, wodurch ihre 
+Effizienz maximiert wird; dass die lokalen Behörden jedoch die Möglichkeit haben, bei einer Zunahme der 
+Epidemie auf ihrem Gebiet strengere Maßnahmen zu ergreifen;In der Erwägung, dass für 
+unser Land seit dem 13. Oktober 2020 auf nationaler Ebene Alarmstufe 4 (sehr hohe Alarmstufe) gilt;In 
+der Erwägung, dass der Tagesdurchschnitt der neuen Fälle von Ansteckung mit dem Coronavirus COVID-19 
+in Belgien in den letzten sieben Tagen auf 1816 bestätigte positive Fälle am 11. Januar 2021 wieder gestiegen 
+ist;In der Erwägung, dass am 11. Januar 2021 insgesamt 1.955 COVID-19-Patienten in belgischen 
+Krankenhäusern behandelt wurden; dass am selben Tag insgesamt 371 Patienten auf Intensivstationen lagen;In 
+Erwägung des jüngsten leichten Anstiegs der Zahl der neuen Infektionsfälle und der Belegung der Krankenhausbetten; 
+dass der Druck auf die Krankenhäuser und die Kontinuität der Versorgung, die nicht mit COVID-19 zusammenhängt, 
+nach wie vor sehr hoch ist und dass die Gefahr für die Volksgesundheit fortbesteht; dass Krankenhäuser 
+immer noch mit krankheitsbedingten Personalengpässen zu kämpfen haben und dass dies zu einem Personalmangel 
+im Gesundheitspflegesektor führen kann; dass verhindert werden muss, die Aufnahme von Patienten auf dem 
+Staatsgebiet unter Druck zu setzen;In der Erwägung, dass die epidemiologische Situation nach 
+wie vor ernst und prekär ist; dass die Inzidenz am 11. Januar 2021 im 14-Tage-Mittel immer noch 207,9 
+pro 100.000 Einwohner beträgt; dass die Reproduktionsrate, basierend auf der Zahl der neuen Infektionsfälle, 
+weiterhin unter 1 liegt, jedoch wieder angestiegen ist; dass eine weitere Verringerung der Zahlen erforderlich 
+ist, um einen Ausweg aus dieser gefährlichen epidemiologischen Situation zu finden; dass noch umfangreiche 
+und weitreichende Maßnahmen erforderlich bleiben, um sie unter Kontrolle zu halten;In 
+der Erwägung, dass weiterhin Ungewissheit über die Auswirkungen der Feiern zum Jahresende, der Rückkehr 
+von Reisenden und des Schulanfangs auf die Zahl der Ansteckungen besteht; dass ein erneutes Wiederaufflammen 
+des Virus auf belgischem Staatsgebiet durch eine zu schnelle Lockerung der Maßnahmen vermieden 
+werden muss; dass aus diesem Grund die zuvor getroffenen Maßnahmen verlängert werden müssen; dass 
+jedoch bereits festzustellen ist, dass die Positivitätsrate bei getesteten Reiserückkehrern zunimmt und 
+je nach Land beträchtlich sein kann;In der Erwägung, dass aufgrund der aktuellen epidemiologischen 
+Situation immer noch eine drastische Beschränkung der sozialen Kontakte und der erlaubten Aktivitäten 
+erforderlich ist, um eine weitere Zunahme der Zahlen zu vermeiden;In der Erwägung, dass die 
+Wartezeiten für Führerscheinausbildungen und -prüfungen und für Ausbildungen zum Steuern von Flugzeugen 
+zunehmen; dass dies schädliche Folgen für Personen hat, die aus beruflichen Gründen dringend einen Führerschein 
+oder eine Qualifikation erhalten müssen; dass diese Ausbildungen und Prüfungen daher wieder erlaubt werden;In 
+der Erwägung, dass Schnee große Gruppen von Menschen zur Ausübung des Wintersports lockt; dass 
+folglich viele Menschen auf den Ski- und Langlaufpisten zusammenkommen; dass es nicht möglich ist, die 
+Menschenmengen an diesen Orten zu kontrollieren, und dass die Einhaltung der Regeln des Social Distancing 
+nicht gewährleistet werden kann; dass dies zu einem erhöhten Risiko der Übertragung des Virus führt; 
+dass die Skipisten, Langlaufpisten und Skizentren aus diesem Grund geschlossen bleiben müssen;In 
+Erwägung der Punkte 19 b) und 19 h) der Empfehlung (EU) 2020/1475 des Rates müssen Beschäftigte im Verkehrssektor 
+und Seeleute als wesentliche Arbeitnehmer und Dienstleistungserbringer angesehen werden;In 
+der Erwägung, dass das Erfordernis, dass Beschäftigte im Verkehrssektor und Seeleute an den Grenzübergangsstellen 
+oder nach der Grenze systematisch getestet werden müssen, zu unnötigen Warteschlangen führen und sich 
+negativ auf die Wartezeiten beim Überschreiten der Grenzen auswirken würde; dass Beschäftigte im Verkehrssektor 
+und Seeleute daher nicht verpflichtet werden müssen, sich einem COVID-19-Test zu unterziehen;Aufgrund 
+der Dringlichkeit,Erlässt:Artikel 1 - Artikel 3 des Ministeriellen Erlasses vom 28. 
+Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 wird wie folgt abgeändert:1. In § 1 Absatz 1 werden folgende Wörter aufgehoben: 
+"in den Sektoren Bau, Reinigung, Landwirtschaft und Gartenbau, wie in Artikel 20 § 2 des Königlichen 
+Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick auf die Gewährleistung der Zahlung 
+der Mehrwertsteuer und in Artikel 1 Nr. 1 des Königlichen Erlasses Nr. 22 vom 15. September 1970 über 
+die Sonderregelung für Landwirte in Sachen Mehrwertsteuer erwähnt, sowie Tätigkeiten im Fleischsektor, 
+wie in Artikel 2 des Königlichen Erlasses vom 27. Dezember 2007 zur Ausführung von Artikel 53 des Gesetzbuches 
+über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen und nichtsteuerlichen Forderungen 
+und der Artikel 12, 30bis und 30ter des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 
+28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer und von Artikel 6ter des Gesetzes vom 
+4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung ihrer Arbeit erwähnt,".2. 
+In § 2 Absatz 1 werden folgende Wörter aufgehoben: "in den Sektoren Bau, Reinigung, Landwirtschaft 
+und Gartenbau, wie in Artikel 20 § 2 des vorerwähnten Königlichen Erlasses Nr. 1 vom 29. Dezember 
+1992 und in Artikel 1 Nr. 1 des vorerwähnten Königlichen Erlasses Nr. 22 vom 15. September 1970 erwähnt, 
+oder Tätigkeiten im Fleischsektor, wie in Artikel 2 des vorerwähnten Königlichen Erlasses vom 27. Dezember 
+2007 erwähnt,".3. Paragraph 3 wird wie folgt ersetzt:"Ein im Ausland lebender oder 
+ansässiger Lohnempfänger oder Selbständiger, der zeitweilig von einem Arbeitgeber oder Nutzer beschäftigt 
+wird, um in Belgien Tätigkeiten auszuführen, muss den Nachweis des negativen Ergebnisses eines Tests 
+erbringen, der frühestens 72 Stunden vor Aufnahme seiner Tätigkeit beziehungsweise Aktivität in Belgien 
+durchgeführt wurde, wenn er länger als 48 Stunden auf belgischem Staatsgebiet bleibt. Dieses negative 
+Ergebnis kann von den Gefahrenverhütungsberater-Arbeitsärzten und von allen Diensten und Einrichtungen 
+überprüft werden, die mit der Überwachung der Einhaltung der Verpflichtungen im Rahmen der Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 beauftragt sind."Art. 2 - Derselbe 
+Erlass wird durch einen Artikel 3bis mit folgendem Wortlaut ergänzt:"Personen, die sich an 
+einer Arbeitsstätte befinden, müssen die von den zuständigen Behörden festgelegten Verpflichtungen zur 
+Eindämmung der Ausbreitung des Coronavirus COVID-19 einhalten.An den Arbeitsstätten können 
+die Gefahrenverhütungsberater-Arbeitsärzte und alle Dienste und Einrichtungen, die mit der Überwachung 
+der Einhaltung der im Rahmen der Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 auferlegten Verpflichtungen beauftragt sind, die betreffenden Personen auffordern, den Nachweis 
+zu erbringen, dass sie die von den zuständigen Behörden festgelegten Verpflichtungen einhalten.Für 
+die Anwendung des vorliegenden Artikels versteht man unter "Arbeitsstätten" die in Artikel 16 Nr. 10 
+Sozialstrafgesetzbuches bestimmten Arbeitsstätten."Art. 3 - [Abänderung des französischen Textes]Art. 
+4 - In Artikel 7 desselben Erlasses wird § 2 aufgehoben.Art. 5 - In Artikel 8 § 
+4 Absatz 1 desselben Erlasses werden die Wörter "Dienstleistungen durch in der Anlage zum vorliegenden 
+Erlass erwähnte Handelsgeschäfte, private und öffentliche Betriebe und Dienste, die für den Schutz der 
+lebenswichtigen Bedürfnisse der Nation und der Bedürfnisse der Bevölkerung notwendig sind." durch einen 
+Doppelpunkt ersetzt und durch folgende Wörter ergänzt:"- Dienstleistungen durch in der Anlage 
+zum vorliegenden Erlass erwähnte Handelsgeschäfte, private und öffentliche Betriebe und Dienste, die 
+für den Schutz der lebenswichtigen Bedürfnisse der Nation und der Bedürfnisse der Bevölkerung notwendig 
+sind,- Dienstleistungen für Führerscheinausbildungen und -prüfungen und für Ausbildungen zum 
+Steuern von Flugzeugen mit dem Ziel einer beruflichen Qualifikation, unter Einhaltung der im anwendbaren 
+Protokoll vorgesehenen Modalitäten."Art. 6 - In Artikel 15bis desselben Gesetzes wird Absatz 
+3 aufgehoben.Art. 7 - Artikel 21 desselben Erlasses wird wie folgt abgeändert:1. 
+Paragraph 2bis wird aufgehoben.2. In Paragraph 3 Absatz 1 werden die Wörter "1, 2 und 2bis" 
+durch die Wörter "1 und 2" ersetzt.3. Paragraph 7 wird durch einen Absatz 2 mit folgendem Wortlaut 
+ergänzt:"In Abweichung von Absatz 1 müssen folgende Kategorien von Reisenden kein negatives 
+Testergebnis vorweisen:1. sofern sie im Rahmen ihrer Funktion nach Belgien reisen:- 
+Arbeitnehmer des Verkehrssektors oder Verkehrsdienstleister, einschließlich Lastwagenfahrer, die 
+Güter zur Verwendung auf dem Staatsgebiet befördern, und solche, die nur auf der Durchfahrt sind,- 
+Seeleute,- "Border Force Officers" des Vereinigten Königreichs,- Grenzgänger,2. 
+Schüler aus Nachbarländern, die im Rahmen des Pflichtunterrichts nach Belgien reisen,3. Personen, 
+die im Rahmen der grenzüberschreitenden Mitelternschaft nach Belgien reisen."Art. 8 - Artikel 
+22 Absatz 1 desselben Erlasses wird wie folgt ersetzt:"Im Rahmen der Bekämpfung des Coronavirus 
+COVID-19 kann das Landesamt für soziale Sicherheit als Auftragsverarbeiter für alle Dienste und Einrichtungen, 
+die mit der Bekämpfung der Ausbreitung des Coronavirus COVID-19 beauftragt sind, und alle Dienste und 
+Einrichtungen, die mit der Überwachung der Einhaltung der im Rahmen der Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 auferlegten Verpflichtungen beauftragt sind, 
+im Hinblick auf die Unterstützung der Rückverfolgung und Überprüfung von Clustern und Personengemeinschaften 
+Gesundheitsdaten in Bezug auf das Coronavirus COVID-19 sowie Kontakt-, Identifizierungs-, Beschäftigungs- 
+und Aufenthaltsdaten von Arbeitnehmern und Selbständigen sammeln, kombinieren und verarbeiten, auch durch 
+Datamining und Datamatching."Art. 9 - Artikel 28 desselben Erlasses wird wie folgt ersetzt:"Die 
+durch vorliegenden Erlass vorgeschriebenen Maßnahmen sind bis zum 1. März 2021 einschließlich 
+anwendbar."Art. 10 - Vorliegender Erlass tritt am Tag seiner Veröffentlichung im Belgischen 
+Staatsblatt in Kraft.Brüssel, den 12. Januar 2021A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-01-18Numac : 2021020165
+

@@ -1,0 +1,102 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/03/27/2020040752/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-02Numac : 2020040752
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 27 MAART 2020. - Koninklijk besluit tot vastlegging van het model van het aangifteformulier inzake personenbelasting voor het aanslagjaar 2020 (1) 
+FILIP, Koning der Belgen,Aan allen 
+die nu zijn en hierna wezen zullen, Onze Groet.Gelet op het Wetboek van de inkomstenbelastingen 
+1992, artikel 307, § 1, vervangen bij de wet van 25 december 2017;Gelet op de wetten 
+op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet op de dringende 
+noodzakelijkheid;Overwegende dat :-het model van het aangifteformulier inzake personenbelasting 
+voor het aanslagjaar 2020 zo spoedig mogelijk moet worden vastgelegd teneinde de vestiging en de invordering 
+van die belasting niet te vertragen;- het model van aangifte is zo opgemaakt dat het kan worden 
+gescand. Door de scanning kan de uitvoerende administratie bevoegd voor de vestiging van de belasting 
+onmiddellijk de door de belastingplichtige aangegeven inkomsten en andere gegevens verwerken in de berekeningsprogramma's 
+inzake de personenbelasting;- de scanning van een formulier slechts voldoende zekerheid biedt 
+indien het aantal te scannen bladzijden en gegevens tot een strikt minimum wordt beperkt. Om die reden 
+zal het aangifteformulier voor het aanslagjaar 2020, bestaan uit de volgende onderdelen :a) 
+voor belastingplichtigen die uitsluitend een deel 1 invullen :1°  een onderdeel met als opschrift 
+"Voorbereiding van de aangifte - deel 1" dat aangepast is in functie van de eigen fiscale regels van 
+het Gewest waarin de belastingplichtige gelokaliseerd is en dat alle nodige vermeldingen bevat die het 
+de belastingplichtige mogelijk maken het in 2°  vermelde onderdeel correct in te vullen;2° 
+ het aangifteformulier (deel 1 en 2) dat zal worden gescand en dat een samenvatting vormt van de gegevens 
+uit het voorbereidend formulier - deel 1. Enkel dit onderdeel moet worden teruggezonden naar de dienst 
+die voorkomt op het genoemde aangifteformulier;b) voor belastingplichtigen die zowel deel 1 
+als deel 2 invullen :1°  een onderdeel met als opschrift "Voorbereiding van de aangifte - deel 
+1" dat aangepast is in functie van de eigen fiscale regels van het Gewest waarin de belastingplichtige 
+gelokaliseerd is en dat alle nodige vermeldingen bevat die het de belastingplichtige mogelijk maken het 
+in 3°  vermelde onderdeel correct in te vullen;2°  een onderdeel met als opschrift "Voorbereiding 
+van de aangifte - deel 2" dat alle nodige vermeldingen bevat die het de belastingplichtige mogelijk maken 
+het in 3°  vermelde onderdeel correct in te vullen;3°  het aangifteformulier (deel 1 en 2) 
+dat zal worden gescand en dat een samenvatting vormt van de gegevens uit het voorbereidend formulier 
+- deel 1 en deel 2. Enkel dit onderdeel moet worden teruggezonden naar de dienst die voorkomt op het 
+genoemde aangifteformulier;- dit besluit dus dringend moet worden getroffen;Op de 
+voordracht van de Vice-Eerste Minister en Minister van Financiën,Hebben Wij besloten en besluiten 
+Wij :Artikel 1. Het model van het aangifteformulier inzake personenbelasting voor het aanslagjaar 
+2020 wordt in de bijlage van dit besluit vastgelegd.Dit formulier bestaat uit drie onderdelen 
+:1°  een onderdeel met als opschrift "Voorbereiding van de aangifte - deel 1" dat aangepast 
+is in functie van de eigen fiscale regels van het Gewest waarin de belastingplichtige gelokaliseerd is 
+en dat alle nodige vermeldingen bevat om het in 3°  vermelde onderdeel correct in te vullen;2° 
+ een onderdeel met als opschrift "Voorbereiding van de aangifte - deel 2" dat alle nodige vermeldingen 
+bevat om het in 3°  vermelde onderdeel correct in te vullen;3°  een onderdeel met als opschrift 
+"Aangifte in de personenbelasting (deel 1 en 2)" dat moet worden teruggezonden naar de dienst die voorkomt 
+op het genoemde aangifteformulier.Art. 2. De minister die bevoegd is voor Financiën, is belast 
+met de uitvoering van dit besluit.Gegeven te Brussel, 27 maart 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO_______Nota(1) 
+Verwijzingen naar het Belgisch Staatsblad :Wetboek van de inkomstenbelastingen 1992, gecoördineerd 
+bij koninklijk besluit van 10 april 1992, Belgisch Staatsblad van 30 juli 1992.Wet van 25 december 
+2017, Belgisch Staatsblad van 29 december 2017.Wetten op de Raad van State, gecoördineerd bij 
+koninklijk besluit van 12 januari 1973, Belgisch Staatsblad van 21 maart 1973. Voor de raadpleging van de tabel, zie beeld  Gezien om te worden 
+gevoegd bij Ons besluit van 27 maart 2020.FILIPVan Koningswege :De Vice-Eerste 
+Minister en Minister van Financiën,A. DE CROO Voor 
+de raadpleging van de tabel, zie beeld  Vu pour être annexé à Notre arrêté 
+du 27 mars 2020.PHILIPPEPar le Roi :Le Vice-Premier Ministre et Ministre 
+des Finances,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-02Numac : 2020040752
+

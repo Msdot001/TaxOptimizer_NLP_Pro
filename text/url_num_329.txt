@@ -1,0 +1,89 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/21/2020204468/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-03Numac : 2020204468
+WAALSE OVERHEIDSDIENST
+ 21 OKTOBER 2020. - Besluit van de Waalse Regering betreffende het tijdelijk verbod tot het opleggen van restricties in de toegang tot de publieke waterdistributie wegens de spoedeisende maatregelen genomen om de verspreiding van het coronavirus COVID-19 te beperken. 
+De Waalse Regering,Gelet 
+op Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, inzonderheid op de artikelen D.2, 28°, 
+D.202, D.232 en de artikelen R.270bis-7 tot R.270bis-13;Gelet op het rapport van 18 oktober 
+2020 opgesteld overeenkomstig artikel 3, 2°, van het decreet van 11 april 2014 houdende uitvoering van 
+de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft 
+plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet 
+op de dringende noodzakelijkheid, waardoor het onmogelijk is het advies van de afdeling wetgeving van 
+de Raad van State af te wachten wegens met name de maatregelen aangenomen bij het besluit van de federale 
+Minister van Veiligheid en Binnenlandse Zaken van 18 oktober 2020 op grond van de dagelijks evoluerende 
+epidemiologische resultaten, de noodzakelijke verhoging van het verbruikte watervolume per gebruiker, 
+waaronder de gezinnen, en de onmiddellijke noodzaak om de gebruikers in staat te stellen de nodige watervolumes 
+te gebruiken voor de inachtneming van de maatregelen ter preventie van de verspreiding van het coronavirus 
+COVID-19; bijgevolg is het onontbeerlijk onverwijld de nodige maatregelen te nemen; Overwegende 
+dat de uitzonderlijke gezondheidscrisis in verband met COVID-19 die heden België treft en de huidige 
+en komende maatregelen genomen om de verspreiding van het virus onder de bevolking te beperken, de beperking 
+van eenieders verplaatsingen oplegt en voor zover mogelijk telewerk verplicht; dat deze maatregel leidt 
+tot meer waterverbruik bij de gezinnen;Overwegende dat de hygiënemaatregelen, opgelegd in deze 
+crisisperiode, eveneens tot een hoger waterverbruik leiden;Overwegende dat heden dringend in 
+een toegang van allen, te allen tijde, tot kwaliteitsvol water in de benodigde hoeveelheden voorzien 
+moet worden;Overwegende dat deze in deze crisisperiode nog belangrijker toegang tot water zonder 
+enige vorm van vertraging verzekerd moet worden; Op de voordracht van de Minister van Leefmilieu;Na 
+beraadslaging,Besluit : Artikel 1. Voor zover het personeel beschikbaar is, voor 
+zover het mogelijk is toegang tot een meter te bekomen mits inachtneming van de social-distancingregels, 
+opgelegd door de federale overheid, en onverminderd de voorrang die de acties moeten krijgen voor de 
+continuïteit van de publieke waterdistributie dienen de waterverdelers bedoeld in artikel D.2, 28°, van 
+het Waterwetboek de waterbegrenzers die krachtens artikel R.270bis-13 van het Waterwetboek gemonteerd 
+werden, weg te halen. Art. 2. Waterbegrenzers als bedoeld in artikel R.270bis-13 van het Waterwetboek 
+mogen niet geplaatst worden. Art. 3. Onderbrekingen in de publieke waterdistributie voor huishoudelijke 
+doeleinden als bedoeld in artikel R.270bis-7 van het Waterwetboek worden verboden, behoudens onderbrekingen 
+voor technische of veiligheidsnoden. Art. 4. Dit besluit treedt in werking op 1 november 2020 
+voor een geldigheidsduur van één jaar. Art. 5. Van dit besluit wordt aan elke verdeler die 
+in het Waals Gewest de publieke waterdistributie verzorgt, kennis gegeven. Art. 6. De Minister 
+van Leefmilieu is belast met de uitvoering van dit besluit. Namen, 21 oktober 2020.Voor 
+de Regering: De Minister-President,E. DI RUPODe Minister van Leefmilieu, 
+Natuur, Bossen, Landelijke Aangelegenheden en Dierenwelzijn,C. TELLIER   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-03Numac : 2020204468
+

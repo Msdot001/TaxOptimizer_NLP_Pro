@@ -1,0 +1,108 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021041100
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 1 SEPTEMBER 2020. - Omzendbrief nr. 685. - Richtlijnen in het kader van de bijzondere COVID-19-maatregelen voor de personeelsleden van het federaal openbaar ambt inzake de organisatie van het werk. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van de omzendbrief nr. 685 van de Minister van Ambtenarenzaken 
+van 1 september 2020 - Richtlijnen in het kader van de bijzondere COVID-19-maatregelen voor de personeelsleden 
+van het federaal openbaar ambt inzake de organisatie van het werk (Belgisch Staatsblad van 7 september 
+2020).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST STRATEGIE UND UNTERSTÜTZUNG1. SEPTEMBER 2020 - Rundschreiben Nr. 685 - 
+Richtlinien im Rahmen der besonderen COVID-19-Maßnahmen für Personalmitglieder des föderalen öffentlichen 
+Dienstes in Sachen ArbeitsorganisationAn die föderalen öffentlichen Dienste und die Dienste, 
+die ihnen unterstehen, an das Ministerium der Landesverteidigung und an die Einrichtungen öffentlichen 
+Interesses, die dem föderalen administrativen öffentlichen Dienst unterstehen, so wie er in Artikel 1 
+des Gesetzes vom 22. Juli 1993 zur Festlegung bestimmter Maßnahmen in Bezug auf den öffentlichen 
+Dienst bestimmt istSehr geehrte Kolleginnen und Kollegen,Sehr geehrte Damen und Herren,in 
+Erwägung der Dringlichkeit, begründet durch die Tatsache, dass sich das Coronavirus COVID-19 auf dem 
+europäischen Gebiet und in Belgien ausbreitet und dass dringende Maßnahmen ergriffen werden, um 
+das Risiko für die Volksgesundheit zu verringern;In der Erwägung, dass zur Verringerung des 
+Risikos für die Volksgesundheit unter anderem folgende Maßnahmen getroffen worden sind: "Homeoffice", 
+die Einführung des "Quarantäne-Zertifikats" für Arbeitnehmer, die sich möglicherweise in einer Inkubationszeit 
+für das COVID-19-Virus befinden, und für eine große Anzahl Arbeitnehmer, die geschützt werden müssen, 
+weil sie aufgrund ihrer medizinischen Situation zu einer Risikogruppe gehören, sowie die Einführung der 
+"Quarantäne" für die Rückkehr von nicht unbedingt notwendigen Reisen, wie touristischen Reisen, gemäß 
+den vom FÖD Auswärtige Angelegenheiten mitgeteilten Farbcodes;In Erwägung der Notwendigkeit, 
+die Konsequenzen für das Personal des föderalen administrativen öffentlichen Dienstes zu verdeutlichen 
+und zu präzisieren,müssen folgende Richtlinien angeführt werden:1. In Sachen Arbeitsorganisation:Es 
+wird auf die Richtlinien verwiesen, die erwähnt sind in Artikel 2 des Ministeriellen Erlasses vom 30. 
+Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19, zuletzt abgeändert durch den Ministeriellen Erlass vom 28. Juli 2020 oder durch jede andere 
+Bestimmung, durch die vorerwähnter Artikel 2 ersetzt oder abgeändert wird und deren Anwendungsbereich 
+dem Anwendungsbereich des vorliegenden Rundschreibens entspricht.2. In Sachen Quarantäne-Zertifikat:Wenn 
+sich ein Personalmitglied aufgrund eines Quarantäne-Zertifikats nicht zu seinem Arbeitsplatz begeben 
+kann, erbringt es seine Leistungen im Homeoffice. Wenn die Funktion des Personalmitglieds nicht im Homeoffice 
+ausgeübt werden kann, wird das Personalmitglied dem leitenden Beamten zur Verfügung gestellt. Der leitende 
+Beamte oder sein Beauftragter betraut das Personalmitglied mit Aufgaben, die möglichst mit seiner Funktion 
+zusammenhängen und die es an seinem Wohnort erledigen muss. Gegebenenfalls können Mitglieder des technischen 
+Personals im Rahmen ihres allgemeinen Kompetenzniveaus mit administrativen Aufgaben betraut werden. Andernfalls 
+werden die Personalmitglieder für die Zeiträume, in denen ihnen keine Aufgaben zugewiesen werden, freigestellt.Ein 
+Personalmitglied, das von einer nicht unbedingt notwendigen Reise aus dem Ausland zurückkehrt und ein 
+Quarantäne-Zertifikat erhält, befindet sich jedoch in der unter Nummer 3 beschriebenen Situation.3. 
+Im Falle einer obligatorischen oder empfohlenen Quarantäne:Wenn ein Personalmitglied von einer 
+nicht unbedingt notwendigen Reise zurückkehrt und eine Quarantäne gemäß den vom FÖD Auswärtige 
+Angelegenheiten mitgeteilten Empfehlungen oder Verpflichtungen einhalten muss, sind folgende Regeln zu 
+beachten, wobei zwischen 2 Hypothesen zu unterscheiden ist:- Wenn bei seiner Abreise zu einer 
+nicht unbedingt notwendigen Auslandsreise die Regel galt, dass bei der Rückkehr eine obligatorische oder 
+empfohlene Quarantänezeit einzuhalten sei, erbringt das Personalmitglied seine Leistungen im Homeoffice, 
+sofern der leitende Beamte oder sein Beauftragter es aufgrund der dienstlichen Erfordernisse für notwendig 
+erachtet, dass das Personalmitglied während der Quarantänezeit seine Leistungen erbringt. Wenn die Funktion 
+des Personalmitglieds nicht im Homeoffice ausgeübt werden kann oder der leitende Beamte oder sein Beauftragter 
+kein Homeoffice gewährt, nimmt das Personalmitglied Urlaub (Jahresurlaub, Ausgleichsurlaub, anderen Urlaub), 
+um den Zeitraum der Quarantäne abzudecken,- Wenn bei seiner Abreise zu einer nicht unbedingt 
+notwendigen Auslandsreise die Regel galt, dass bei der Rückkehr keine obligatorische oder empfohlene 
+Quarantänezeit einzuhalten sei, sind die in Nummer 2 Absatz 1 vorgesehenen Regeln anwendbar.Die 
+Beweislast dafür, dass zum Zeitpunkt der Abreise in den geltenden Regeln keine obligatorische oder empfohlene 
+Quarantäne bei der Rückkehr aus dem Ausland vorgesehen war, obliegt dem Personalmitglied.Vorliegendes 
+Rundschreiben findet keine Anwendung auf Geschäftsreisen; für Geschäftsreisen wird auf Nummer 1 verwiesen.Vorliegendes 
+Rundschreiben tritt am 1. September 2020 in Kraft.Der Minister des Öffentlichen DienstesD. 
+CLARINVAL   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021041100
+

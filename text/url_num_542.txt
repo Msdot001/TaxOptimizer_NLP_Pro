@@ -1,0 +1,102 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/02/2021202180/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021202180
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 2 MEI 2021. - Koninklijk besluit tot wijziging van het koninklijk besluit van 22 augustus 2020 tot tijdelijke afwijking van sommige termijnen in de procedure van de verificatie van de uitgaven opgenomen in artikel 164 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering omwille van het COVID-19-virus 
+FILIP, Koning der Belgen, Aan allen die nu zijn en 
+hierna wezen zullen, Onze Groet.Gelet op de besluitwet van 28 december 1944 betreffende de 
+maatschappelijke zekerheid der arbeiders, artikel 7, § 1, derde lid, i, vervangen bij de wet van 
+14 februari 1961, en § 2, laatst gewijzigd bij de wet van 8 april 2003;Gelet op het 
+koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;Gelet op het 
+koninklijk besluit van 22 augustus 2020 tot tijdelijke afwijking van sommige termijnen in de procedure 
+van de verificatie van de uitgaven opgenomen in artikel 164 van het koninklijk besluit van 25 november 
+1991 houdende de werkloosheidsreglementering omwille van het COVID-19-virus;Gelet op de wet 
+van 25 april 1963 betreffende het beheer van de instellingen van openbaar nut voor sociale zekerheid 
+en sociale voorzorg, artikel 15;Gelet op het advies van de inspecteur van Financiën, gegeven 
+op 31 maart 2021;Gelet op de akkoordbevinding van de Staatssecretaris voor Begroting, gegeven 
+op 21 april 2021;Gelet op het advies 69.262/1 van de Raad van State, gegeven op 27 april 2021, 
+met toepassing van artikel 84, § 1, eerste lid, 3°, van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Gelet op de hoogdringendheid;Gelet op het uitzonderlijk grote 
+aantal uitkeringsaanvragen en betalingen aan tijdelijk werklozen wegens de gezondheidsmaatregelen omwille 
+van het COVID-19-virus;Gelet op het feit dat door het grote aantal en het gebruik van de elektronische 
+techniek voorzien in het artikel 6 van het koninklijk besluit van 22 juni 2020 betreffende diverse tijdelijke 
+maatregelen in de werkloosheidsreglementering omwille van het COVID-19-virus en tot wijziging van de 
+artikelen 12 en 16 van het koninklijk besluit van 30 maart 2020 tot aanpassing van de procedures in het 
+kader van tijdelijke werkloosheid omwille van het COVID-19-virus en tot wijziging van artikel 10 van 
+het koninklijk besluit van 6 mei 2019 tot wijziging van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van 
+het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en tot invoeging 
+van de artikelen 36sexies, 63bis en 124bis in hetzelfde besluit de uitkeringsaanvragen door de uitbetalingsinstellingen 
+in de tijd zijn gespreid en in sommige gevallen slechts geruime tijd na de betaling bij de Rijksdienst 
+voor Arbeidsvoorziening zijn ingediend, waardoor in die gevallen de uitkeringskaart die het recht op 
+uitkeringen bevestigt pas op een later tijdstip dan normaal het geval zou zijn geweest kon worden opgemaakt;Dat 
+het zonder het bestaan van een uitkeringskaart niet mogelijk is over te gaan tot de verificatie van de 
+door de uitbetalingsinstellingen gedane uitgaven;Dat het om die redenen voor de Rijksdienst 
+voor Arbeidsvoorziening problematisch blijft om ook de uitgaven verricht door de uitbetalingsinstellingen 
+in de maanden juli, augustus, september, oktober en november 2020 binnen de normaal voorziene termijnen 
+ten gronde te verifiëren, zodat een verlenging van deze termijnen, en daaraan gekoppeld een verlenging 
+van de termijnen voor de mogelijke herindiening door de uitbetalingsinstellingen van de verworpen uitgaven 
+noodzakelijk is;Dat het niet verlengen van deze termijnen tot gevolg zou hebben dat, indien 
+de uitgaven niet binnen de bestaande termijn kunnen worden geverifieerd, de door de uitbetalingsinstellingen 
+verrichte uitgaven zouden moeten worden beschouwd als globaal en definitief goedgekeurd, zelfs indien 
+deze ten onrechte zouden zijn gebeurd;Dat het nemen van deze maatregel hoogdringend is, aangezien 
+lopende de verificatieprocedure de normaal voorziene termijnen voor de verificatie van de uitgaven verricht 
+door de uitbetalingsinstellingen in de maanden juli, augustus, september, oktober en november 2020 en 
+de termijnen voor de mogelijke herindiening door de uitbetalingsinstellingen van de verworpen uitgaven 
+niet meer gerespecteerd zullen kunnen worden;Op de voordracht van de Minister van Werk,Hebben 
+Wij besloten en besluiten Wij :Artikel 1. In artikel 1, eerste lid, van het koninklijk besluit 
+van 22 augustus 2020 tot tijdelijke afwijking van sommige termijnen in de procedure van de verificatie 
+van de uitgaven opgenomen in artikel 164 van het koninklijk besluit van 25 november 1991 houdende de 
+werkloosheidsreglementering omwille van het COVID-19-virus worden de woorden "maart, april, mei en juni 
+2020" vervangen door de woorden "maart tot en met november 2020".Art. 2. De bepalingen van 
+dit besluit treden in werking de dag waarop dit besluit in het Belgisch Staatsblad wordt bekendgemaakt. 
+Art. 3. De minister bevoegd voor Werk is belast met de uitvoering van dit besluit.Gegeven 
+te Brussel, 2 mei 2021. FILIPVan Koningswege : De Minister van Werk,P.-Y. 
+DERMAGNE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021202180
+

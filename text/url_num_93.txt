@@ -1,0 +1,123 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/07/2020020868/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-14Numac : 2020020868
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 7 MEI 2020. - Besluit van de Regering van de Franse Gemeenschap houdende bijzondere machten nr. 8 betreffende de steun aan universitaire ziekenhuizen in het kader van de COVID-19-gezondheidscrisis 
+De Regering 
+van de Franse Gemeenschap,Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der 
+instellingen, de artikelen 5, § 1, I, 1°  en 20° ;Gelet op het decreet van 19 juli 2017 
+betreffende de verblijfkosten en de financiering van sommige zware apparaten van de medisch-technische 
+diensten in universitaire ziekenhuizen;Gelet op het decreet van 17 maart 2020 tot toekenning 
+van bijzondere machten aan de Regering in het kader van de COVID-19-gezondheidscrisis, artikel 1, § 
+1, g);Gelet op het advies van de Inspecteur van Financiën, gegeven op 17 april 2020;Gelet 
+op de akkoordbevinding van de Minister van Begroting van 7 april 2020;Gelet op de "gendertest" 
+van 5 april 2020 uitgevoerd overeenkomstig artikel 4, tweede lid, 1°,  van het decreet van 7 januari 
+2016 houdende integratie van de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap;Gelet 
+op het advies 67.278/4 van de Raad van State, uitgebracht op 27 april 2020, met toepassing van artikel 
+84, § 1, eerste lid, 3°,  van de op 12 januari 1973 gecoördineerde wetten op de Raad van State;Overwegende 
+de pandemie in verband met de verspreiding van het COVID-19 en de daaruit voortvloeiende grootschalige 
+gezondheidscrisis, inzonderheid in België;Overwegende dat het decreet van 17 maart 2020 tot 
+toekenning van bijzondere machten aan de Regering in het kader van de COVID-19-gezondheidscrisis de Regering 
+de bevoegdheid verleent om alle nuttige maatregelen te nemen om elke situatie die een probleem zou opleveren 
+te voorkomen en te behandelen binnen het strikte kader van de COVID-19-pandemie en de gevolgen ervan, 
+die dringend moeten worden geregeld op straffe van ernstig gevaar ;Overwegende het bijzonder 
+decreet van 3 april 2014 betreffende de bevoegdheden van de Franse Gemeenschap waarvan de uitoefening 
+wordt overgedragen naar het Waalse Gewest en de Franse Gemeenschapscommissie;Overwegende het 
+besluit van bijzondere machten nr. 2 van de Regering van de Franse Gemeenschap van 7 april 2020, genomen 
+ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering 
+in het kader van de gezondheidscrisis van COVID-19 met betrekking tot de oprichting van een nood- en 
+steunfonds;Overwegende het aantal dagelijkse ziekenhuisopnames van door Covid-19 getroffen 
+patiënten in universitaire ziekenhuizen;Overwegende de toename van deze ziekenhuisopnames die 
+aanzienlijke en onvoorziene kosten met zich meebrengen voor de universitaire ziekenhuizen en inzonderheid 
+voor de afdelingen intensieve zorgen en de afdelingen die verantwoordelijk zijn voor de organisatie van 
+het doorverwijzen van patiënten bij de opname;Overwegende de mobilisatie van universitaire 
+ziekenhuislaboratoria voor het uitvoeren van COVID-coronavirusopsporingstests;Overwegende de 
+dringende noodzaak om universitaire ziekenhuizen een uitzonderlijke subsidie toe te kennen om hen in 
+staat te stellen de extra kosten voor de bestrijding van het COVID-19 te dragen;Op de voordracht 
+van de Minister van Universitaire Ziekenhuizen;Na beraadslaging,Besluit : Artikel 
+1. Dit besluit heeft tot doel de voorwaarden vast te stellen voor de toekenning van uitzonderlijke subsidies 
+aan de in artikel 2 bedoelde universitaire ziekenhuizen in het kader van de COVID-19-crisis.Art. 
+2. Dit besluit is van toepassing op de volgende universitaire ziekenhuizen :1°  het Centre 
+Hospitalier Universitaire de Liège ;2°  de Cliniques Universitaires Saint-Luc in Sint-Lambrechts-Woluwe 
+;3°  de Cliniques Universitaires de Mont-Godinne;4°  het Erasmusziekenhuis in Anderlecht.Art. 
+3. Met toepassing van de artikelen 2, 3 en 6 van het besluit van bijzondere machten nr. 2 van de Regering 
+van de Franse Gemeenschap van 7 april 2020, genomen ter uitvoering van het decreet van 17 maart 2020 
+tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van COVID-19 
+met betrekking tot de oprichting van een nood- en steunfonds, geeft de Regering de minister bevoegd voor 
+de universitaire ziekenhuizen de opdracht een uitzonderlijke subsidie ten belope van 7.831.250 euro toe 
+te kennen, verdeeld over de in artikel 2 bedoelde universitaire ziekenhuizen overeenkomstig de door haar 
+vastgestelde voorwaarden en met inachtneming van de in artikel 4 gestelde voorwaarden.Art. 
+4. De in artikel 3 bedoelde uitzonderlijke subsidie wordt toegekend op voorwaarde dat de uitgevoerde 
+uitgaven de volgende kosten dekken in verband met het beheer van de COVID-19-coronaviruscrisis:1° 
+ de kosten voor de inrichting van extra ruimtes of de aanpassing van bestaande ruimtes voor de opvang, 
+het doorverwijzen of de ziekenhuisopname van patiënten die aan COVID-19 lijden;2°  de kosten 
+voor de aankoop of huur van medische en niet-medische apparatuur voor de uitrusting en de conditionering 
+van bijkomende of omgebouwde ruimtes voor de opvang en de ziekenhuisopname van patiënten die aan het 
+COVID-19 lijden of voor de versterking van de apparatuur van de analyselaboratoria of de apotheek;3° 
+ wanneer een universitair ziekenhuis subsidies ontvangt van andere overheidsniveaus in België, worden 
+deze bedragen in aanmerking genomen bij de toekenning van de subsidie, die niet hetzelfde doel kan dekken.Art. 
+5.  § 1. De subsidie als bedoeld in artikel 3 wordt verdeeld over de in artikel 1 genoemde universitaire 
+ziekenhuizen naar rata van de overnachtingen van patiënten die aan COVID-19 lijden sinds 1 januari 2020 
+tot de datum van ondertekening van dit besluit. Deze verhouding wordt verkregen door het gecumuleerde 
+aantal overnachtingen van patiënten die aan COVID-19 lijden in elk universitair ziekenhuis gedurende 
+bovengenoemde periode te delen door het totale aantal overnachtingen van patiënten die aan COVID-19 lijden 
+in alle in artikel 2 bedoelde universitaire ziekenhuizen gedurende dezelfde periode. § 
+2 De universitaire ziekenhuizen geven aan de Administratie alle bewijsstukken terug die aantonen dat 
+het gebruik van de uit hoofde van de in artikel 3 bedoelde subsidie ontvangen bedragen aan de in artikel 
+4 gestelde voorwaarden voldoet. Indien aan de hand van de bewijsstukken niet kan worden aangetoond dat 
+aan deze voorwaarden is voldaan, worden de ongerechtvaardigde bedragen terugbetaald overeenkomstig de 
+nadere regels vastgesteld in het besluit tot toekenning van subsidies.Art. 6. De minister van 
+Universitaire Ziekenhuizen is belast met de uitvoering van dit besluit.Art. 7. Dit besluit 
+treedt in werking de dag waarop het wordt ondertekend.Brussel, 7 mei 2020.De Minister-President,P.-Y. 
+JEHOLETDe Minister van Begroting, Ambtenarenzaken, Gelijke kansen en het toezicht op WBE,Fr. 
+DAERDENDe Minister van Hoger Onderwijs, Onderwijs voor sociale promotie, Universitaire Ziekenhuizen, 
+Hulpverlening aan de Jeugd, Justitiehuizen, Jeugd, Sport en de Promotie van Brussel,V. GLATIGNY 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-14Numac : 2020020868
+

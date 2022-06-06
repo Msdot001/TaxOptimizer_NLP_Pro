@@ -1,0 +1,109 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-11-04Numac : 2021033490
+FEDERALE OVERHEIDSDIENST BELEID EN ONDERSTEUNING 
+ 27 AUGUSTUS 2021. - Omzendbrief nr. 685bis. - Richtlijnen in het kader van de bijzondere COVID-19-maatregelen voor de personeelsleden van het federaal openbaar ambt inzake de organisatie van het werk - Wijziging van omzendbrief nr. 685 van 1 september 2020. - Duitse vertaling 
+De hierna volgende tekst is 
+de Duitse vertaling van de omzendbrief nr. 685bis van de Minister van Ambtenarenzaken van 27 augustus 
+2021 - Richtlijnen in het kader van de bijzondere COVID-19-maatregelen voor de personeelsleden van het 
+federaal openbaar ambt inzake de organisatie van het werk - Wijziging van omzendbrief nr. 685 van 1 september 
+2020 (Belgisch Staatsblad van 31 augustus 2021).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST POLITIK 
+UND UNTERSTÜTZUNG27. AUGUST 2021 - Rundschreiben Nr. 685bis - Richtlinien im Rahmen der besonderen 
+COVID-19-Maßnahmen für Personalmitglieder des föderalen öffentlichen Dienstes in Sachen Arbeitsorganisation 
+- Abänderung des Rundschreibens Nr. 685 vom 1. September 2020An die föderalen öffentlichen 
+Dienste und die Dienste, die ihnen unterstehen, an das Ministerium der Landesverteidigung und an die 
+Einrichtungen öffentlichen Interesses, die dem föderalen administrativen öffentlichen Dienst angehören, 
+so wie er in Artikel 1 des Gesetzes vom 22. Juli 1993 zur Festlegung bestimmter Maßnahmen in Bezug 
+auf den öffentlichen Dienst bestimmt istSehr geehrte Kolleginnen und Kollegen,Sehr 
+geehrte Damen und Herren,in der Erwägung, dass eine neue Phase in der Bewältigung der Coronavirus-Pandemie 
+begonnen hat und dass die Maßnahmen in Bezug auf die Arbeitsorganisation innerhalb des föderalen 
+administrativen öffentlichen Dienstes an diese neuen Gegebenheiten angepasst werden müssen,in 
+Erwägung der Notwendigkeit, die Konsequenzen für die Personalmitglieder des föderalen administrativen 
+öffentlichen Dienstes zu verdeutlichen und zu präzisieren,möchte ich Sie bitten, den Personalmitgliedern 
+der in Ihrem Verantwortungsbereich liegenden Dienste folgende Richtlinien in Bezug auf die Arbeitsorganisation 
+zu erteilen.Es wird auf die Richtlinien verwiesen, die erwähnt sind in Kapitel 2 des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 in seiner letzten Fassung oder wie zuletzt abgeändert durch jede andere Bestimmung, 
+durch die vorerwähntes Kapitel 2 ersetzt oder abgeändert wird und deren Anwendungsbereich dem Anwendungsbereich 
+des vorliegenden Rundschreibens entspricht.Seit dem 27. Juni 2021 wurde Homeoffice für alle 
+Unternehmen, Vereinigungen und Dienste gleich welcher Größe dringend empfohlen, und zwar für alle 
+Personalmitglieder, deren Funktion sich dazu eignet. Die Arbeit im Homeoffice ist also nicht mehr Pflicht 
+und wird gemäß den bestehenden Vereinbarungen ausgeübt. Dies schließt daher nicht mehr die 
+Möglichkeit aus, Rückkehrzeiten oder physische Versammlungen zu organisieren. Es ist völlig klar, dass 
+alle möglichen Vorbeugungsmaßnahmen am Arbeitsplatz beachtet werden müssen.Der Konzertierungsausschuss 
+von Freitag, dem 20. August 2021, hat eine Reihe von Lockerungen angekündigt, die ebenfalls für die föderalen 
+Dienste gelten.Gleichzeitig wurde angekündigt, dass einige dieser Lockerungen noch nicht für 
+die Brüsseler Region gelten würden. Konkret bedeutet dies für die Dienste, die sich in der Region Brüssel-Hauptstadt 
+befinden, Folgendes:* Homeoffice bleibt dringend empfohlen.* In öffentlich zugänglichen 
+Bereichen bleibt das Bedecken von Mund und Nase mit einer Mundschutzmaske Pflicht.* In Zusammenhang 
+mit der Organisation von Veranstaltungen, Rückkehrtagen usw. bleiben die Regeln, die im vorerwähnten 
+Ministeriellen Erlass vom 28. Oktober 2020 in der Fassung vor seiner am 1. September 2021 in Kraft tretenden 
+Abänderung festgelegt sind, anwendbar.Ab dem 1. September 2021 gelten außerdem folgende 
+Regeln:* Wenn ein Personalmitglied aus gesundheitlichen Gründen nicht an seinen physischen 
+Arbeitsplatz zurückkehren kann, kann es eine spontane Konsultation bei seinem arbeitsmedizinischen Dienst 
+(für die FÖD handelt es sich um Empreva) beantragen. Der Arbeitsarzt beurteilt dann, welche Vorbeugungsmaßnahmen 
+für das betreffende Personalmitglied erforderlich und gegebenenfalls zusätzlich zu ergreifen sind.* 
+Im Gegensatz zu den Bestimmungen des vorigen Punktes muss ein Personalmitglied, dem eine Quarantäne- 
+oder Isolierungsmaßnahme auferlegt worden ist (weil es einen Hochrisikokontakt gehabt hat oder 
+aus dem Ausland zurückkehrt) keine Konsultation beim Arbeitsarzt beantragen. In diesem Fall bleiben die 
+Bestimmungen der Punkte 2 und 3 des Rundschreibens Nr. 685 vom 1. September 2020 unverändert anwendbar.* 
+Lebt ein Personalmitglied mit einer Person mit hohem Gesundheitsrisiko zusammen, so ergreift es die erforderlichen 
+Vorbeugungsmaßnahmen, einschließlich auf dem Arbeitsweg und an seinem physischen Arbeitsplatz.Vorliegendes 
+Rundschreiben ersetzt das Rundschreiben Nr. 685 und tritt am 1. September 2021 in Kraft. Diese Richtlinien 
+gelten ab diesem Datum für alle Personalmitglieder, einschließlich der Personalmitglieder, die 
+vor dem 1. September 2021 ein Quarantäne-Zertifikat mit dem Vermerk eines Abwesenheitszeitraums über 
+den 1. September 2021 hinaus eingereicht haben.Personalmitglieder, die aufgrund gesundheitlicher 
+Probleme nicht an ihren physischen Arbeitsplatz zurückkehren können, müssen sich so schnell wie möglich 
+an ihren arbeitsmedizinischen Dienst wenden. Personalmitglieder, die mit einer Person mit hohem Gesundheitsrisiko 
+zusammenleben, müssen unverzüglich mit ihrem Dienstleiter Kontakt aufnehmen, um die erforderlichen Vorkehrungen 
+für ihre Rückkehr zu treffen.Die Ministerin des Öffentlichen DienstesP. DE SUTTER 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-11-04Numac : 2021033490
+

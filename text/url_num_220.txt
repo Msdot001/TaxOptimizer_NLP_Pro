@@ -1,0 +1,499 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/19/2020202922/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-06Numac : 2020202922
+WAALSE OVERHEIDSDIENST 
+ 19 JUNI 2020. - Besluit van de Waalse Regering betreffende diverse bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19 
+Verslag aan de Regering en artikelsgewijze 
+bespreking HOOFDSTUK I. - Begripsomschrijvingen Artikel 1. In dat artikel worden 
+verschillende definities gegeven om de reikwijdte van het besluit te helpen begrijpen.Artikel 
+1, 1°De opleidingscentra van het IFAPME-net, in het besluit "erkende opleidingscentra" genoemd, 
+zijn opgericht als een vereniging zonder winstoogmerk en moeten, om te worden erkend als onderdeel van 
+het IFAPME-net, een voorafgaande erkenning hebben gekregen. Artikel 1, 2° tot 4°Dat 
+artikel behoeft geen bijzondere bespreking.Artikel 1 5°Dat artikel voert het begrip 
+"kandidaat voor een alternerende opleiding" in, dat betrekking heeft op de leerling die cursussen volgt 
+( ofwel algemene kennis en beroepskennis of geïntegreerde kennis) en die een contract alternerend leren 
+wenst te sluiten.Artikel 1, 6°Dat artikel voert het begrip "essentiële vaardigheden" 
+in, dat de vaardigheden beoogt die met het oog op de professionele integratie door elke leerling moeten 
+worden verworven om zijn opleiding te kunnen voortzetten of om een minimumniveau van beheersing van de 
+leerresultaten te verwerven. Artikel 1, 7°Dit artikel behoeft geen verdere bespreking.HOOFDSTUK 
+II. - Wijzigingen in het besluit van de Waalse Regering van 31 augustus 2000 betreffende de doorlopende 
+evaluatie en de examens in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingen 
+Art. 2. Voor elk opleidingsjaar worden examens en proeven georganiseerd door de erkende opleidingscentra 
+voor regelmatige cursisten, namelijk cursisten die ten minste twee derde van de tijdens het opleidingsjaar 
+georganiseerde lessen daadwerkelijk hebben gevolgd.Gelet op de COVID-19-pandemie en de gevolgen 
+daarvan voor de organisatie van de cursussen (met name de opschorting/gedeeltelijke organisatie van face-to-face 
+cursussen en de invoering van een voorziening van afstandsopleiding en -opvolging), moest het begrip 
+"regelmatige cursist" voor het opleidingsjaar 2019-2020 worden verduidelijkt en betreft het de cursist 
+die ten minste twee derde van de tot 13 maart 2020 georganiseerde lessen heeft gevolgd.Art. 
+3. Dat artikel bepaalt de mogelijkheid voor erkende opleidingscentra om afstandsexamens te organiseren. 
+Art. 4. Dat artikel wijzigt het evaluatie-besluit in die zin dat het de erkende opleidingscentra 
+de bevoegdheid geeft om de eindeleertijdsevaluatie te organiseren voor elke kandidaat voor een alternerende 
+opleiding. Art. 5. Als gevolg van de COVID-19-pandemie kon voor de laatste jaren van het leerproces 
+geen cursus worden georganiseerd zoals oorspronkelijk gepland vanaf 14 maart 2020.In dat artikel 
+worden daarom de vakken gespecificeerd waarover evaluaties kunnen worden uitgevoerd en de mogelijkheid 
+om, face-tot-face of door middel van afstandsonderwijs, nieuwe vakken op het gebied van essentiële vaardigheden 
+te verstrekken.Art. 6. Gelet op de COVID-19-pandemie en de gevolgen daarvan voor de organisatie 
+van de cursussen (met name de opschorting/gedeeltelijke organisatie van face-to-face cursussen en de 
+invoering van een voorziening van afstandsopleiding en -opvolging) zijn de cursusplanning voor de laatste 
+leerjaren en de examenperiodes (zowel voor de eerste als voor de tweede zittijd) beïnvloed.Dat 
+artikel bepaalt de periodes voor de organisatie van de examens voor het opleidingsjaar 2019-2020.Art. 
+7. In dat artikel worden de leerlingen gespecificeerd die door het erkende opleidingscentrum worden ingeschreven 
+voor het C-examen aan het einde van het leerproces.Art. 8. Dat artikel betreft de organisatie 
+van de C-examens aan het einde van het leerproces en de samenstelling van de C-examencommissie voor het 
+opleidingsjaar 2019-2020.Art. 9. Dat artikel bepaalt dat de vergadering van de vormingswerkers 
+en de vergadering van de toezichthoudende commissie aan het einde van het leerproces zowel face-to-face 
+als op afstand kunnen plaatsvinden.Aangezien de periodes voor de organisatie van de examens 
+zijn aangepast, worden de uiterste data voor het houden van de vergadering van de Raad van vormingswerkers 
+en de vergadering van de toezichthoudende commissie ook aangepast. Art. 10. Gelet op de COVID-19-pandemie 
+en de gevolgen daarvan voor de organisatie van de cursussen (met name de opschorting/gedeeltelijke organisatie 
+van face-to-face cursussen en de invoering van een voorziening van afstandsopleiding en -opvolging) zijn 
+de cursusplanning voor de leercursussen en de examenperiodes (zowel voor de eerste als voor de tweede 
+zittijd) beïnvloed.In dat artikel worden daarom de vakken gespecificeerd waarover evaluaties 
+kunnen worden uitgevoerd en de mogelijkheid om nieuwe vakken voor afstandscursussen te verstrekken. Dat 
+artikel bepaalt de periodes voor de organisatie van de examens voor het opleidingsjaar 2019-2020.Art. 
+11. Dat artikel bepaalt dat de vergadering van de vormingswerkers aan het einde van het leerproces zowel 
+face-to-face als op afstand kan worden gehouden. Aangezien de periodes voor de organisatie 
+van de examens zijn aangepast, wordt ook de uiterste datum voor het houden van de vergadering van de 
+Raad van vormingswerkers aangepast. Art. 12. Dat artikel bepaalt dat de vergadering van de 
+toezichthoudende commissie aan het einde van het leerproces zowel face-to-face als op afstand kan gehouden 
+worden. Aangezien de periodes voor de organisatie van de examens zijn aangepast, wordt de uiterste 
+datum voor het houden van de vergadering van de toezichthoudende commissie ook aangepast. Art. 
+13. Als gevolg van de COVID-19-pandemie is het niet mogelijk geweest om de cursussen tot ondernemingshoofd 
+voor de laatste jaren van de opleiding te organiseren zoals oorspronkelijk gepland.In dat artikel 
+worden daarom de vakken gespecificeerd waarover evaluaties kunnen worden uitgevoerd en de mogelijkheid 
+om, face-tot-face of door middel van afstandsonderwijs, nieuwe vakken op het gebied van essentiële vaardigheden 
+te verstrekken.Voorts wordt aangegeven dat in sommige afdelingen waarvan de lijst door het 
+Instituut vastgesteld wordt, de evaluaties zijn verplicht.Art. 14. Gelet op de COVID-19-pandemie 
+en de gevolgen daarvan voor de organisatie van de cursussen (met name de opschorting/gedeeltelijke organisatie 
+van face-to-face cursussen en de invoering van een voorziening van afstandsopleiding en -opvolging) zijn 
+de cursusplanning voor de laatste jaren van de opleiding tot ondernemingshoofd en de examenperiodes (zowel 
+voor de eerste als voor de tweede zittijd) beïnvloed.Dat artikel bepaalt de periodes voor de 
+organisatie van de examens voor het opleidingsjaar 2019-2020.Art. 15. Vanwege de opschorting 
+van de stages in de laatste jaren van de opleiding tot ondernemingshoofd na de COVID-19-pandemie, voorziet 
+dat artikel in het schrappen van de eis om voor het opleidingsjaar 2019-2020 voldoende praktijkervaring 
+op te doen om te worden ingeschreven voor het C-examen.Art. 16. Dat artikel betreft de organisatie 
+van de C-examens en de samenstelling van de C- examencommissies voor de laatste jaren van de opleiding 
+tot ondernemingshoofd voor het opleidingsjaar 2019-2020.Art. 17. Dat artikel bepaalt dat de 
+vergadering van de vormingswerkers en de vergadering van de toezichthoudende commissie voor de laatste 
+jaren van de opleiding tot ondernemingshoofd zowel face-to-face als op afstand kunnen gehouden worden. 
+Aangezien de periodes voor de organisatie van de examens zijn aangepast, worden ook de uiterste 
+data voor het houden van de vergadering van de Raad van vormingswerkers en de vergadering van de toezichthoudende 
+commissie aangepast. Art. 18. Gelet op de COVID-19-pandemie en de gevolgen daarvan voor de 
+organisatie van de cursussen (met name de opschorting/gedeeltelijke organisatie van face-to-face cursussen 
+en de invoering van een voorziening van afstandsopleiding en -opvolging) zijn de cursusplanning voor 
+de opleiding tot ondernemingshoofd en de examenperiodes (zowel voor de eerste als voor de tweede zittijd) 
+beïnvloed.Dat artikel bepaalt de periodes voor de organisatie van de examens voor het opleidingsjaar 
+2019-2020.Art. 19. Als gevolg van de COVID-19-pandemie is het niet mogelijk geweest om de opleidingen 
+tot ondernemingshoofd te organiseren zoals aanvankelijk gepland vanaf 14 maart 2020.In dat 
+artikel worden daarom de vakken gespecificeerd waarover evaluaties kunnen worden uitgevoerd en de mogelijkheid 
+om nieuwe vakken voor afstandscursussen te verstrekken.Art. 20. Dat artikel bepaalt dat de 
+vergadering van de vormingswerkers en de vergadering van de toezichthoudende commissie voor de tussenliggende 
+jaren van de opleiding tot ondernemingshoofd zowel face-to-face als op afstand kunnen worden gehouden.Aangezien 
+de evaluatieperiodes zijn aangepast, worden de uiterste data voor het houden van de vergadering van de 
+Raad van vormingswerkers en de vergadering van de toezichthoudende commissie ook aangepast. HOOFDSTUK 
+III. - Wijzigingen in het besluit van de Waalse Regering van 31 augustus 2000 betreffende de vormingscursussen 
+in de permanente vorming van de middenstand en de kleine en middelgrote ondernemingenArt. 21. 
+Dat artikel bepaalt dat de cursussen op afstand of face-tot-face kunnen worden georganiseerd met inachtneming 
+van de vereiste gezondheidsmaatregelen.Art. 22. Dat artikel bepaalt dat met betrekking tot 
+de leercursussen, het erkende opleidingscentrum voor het opleidingsjaar 2019-2020 tussen 17 augustus 
+en 30 september 2020 aanvullende face-to-face cursussen zal organiseren over de door het instituut vastgestelde 
+essentiële vaardigheden, om de leerlingen in staat te stellen hun leertijd in de volgende jaren voort 
+te zetten of zich voor te bereiden op hun C-examen, met inachtneming van de vereiste gezondheidsmaatregelen. 
+In dat artikel wordt ook vastgesteld dat voor het derde leerjaar, de algemene cursussen op 
+afstand worden gehandhaafd, behalve voor leerlingen met moeilijkheden, voor wie de cursussen face-to-face 
+worden gegeven in het erkende opleidingscentrum.De cursussen beroepskennis en geïntegreerde 
+kennis zullen gedeeltelijk face-to-face en op afstand worden gegeven.Art. 23. Met betrekking 
+tot de opleidingen tot ondernemingshoofd bepaalt dat artikel dat het erkende opleidingscentrum voor het 
+opleidingsjaar 2019-2020 tussen 17 augustus en 30 september 2020 aanvullende face-to-face cursussen zal 
+organiseren over de door het instituut vastgestelde essentiële vaardigheden, om de cursisten in staat 
+te stellen hun leertijd in de volgende jaren voort te zetten of zich voor te bereiden op hun C-examen, 
+met inachtneming van de vereiste gezondheidsmaatregelen.Dat artikel bepaalt ook dat voor het 
+laatste leerjaar, de beheerscursussen op afstand worden gehandhaafd, behalve voor cursisten met moeilijkheden, 
+voor wie de cursussen face-to-face worden gegeven in het erkende opleidingscentrum.De cursussen 
+beroepskennis en geïntegreerde kennis zullen gedeeltelijk face-to-face en op afstand worden gegeven.HOOFDSTUK 
+IV. - Wijzigingen in het besluit van de Waalse Regering van 16 juli 1998 betreffende de stageovereenkomst 
+in het kader van de permanente vorming van de middenstand en de kleine en middelgrote ondernemingenArt. 
+24. In dat artikel wordt bepaald dat voor de stageovereenkomsten, de overgang naar de hogere schaal pas 
+kan worden gemaakt na de beslissing van de raad van vormingswerkers wanneer het opleidingsjaar 2019-2020 
+na 30 september 2020 afloopt.HOOFDSTUK V. - Inwerkingtreding Art. 25. Dat artikel 
+bepaalt dat de artikelen 5, 10, 13 en 19 van aard zijn om met terugwerkende kracht op 14 maart 2020 toegepast 
+te worden.De andere artikelen van dit besluit treden in werking de dag waarop het in het Belgisch 
+Staatsblad wordt bekendgemaakt.De artikelen van dit besluit zijn van toepassing tot 31 december 
+2020.Advies van de Raad van State nr. 67.418/2 van 25 juni 2020Afdeling 
+WetgevingOp 15 mei 2020 werd de Raad van State, afdeling wetgeving, door de Vice-Minister-President 
+van de Waalse Regering en Minister van Economie, Buitenlandse Handel, Onderzoek, Innovatie, Digitale 
+Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra van het Waalse 
+Gewest verzocht binnen een termijn van vijf werkdagen advies uit te brengen over een ontwerp-besluit 
+van de Waalse Regering 'betreffende diverse bepalingen betreffende de organisatie van de doorlopende 
+evaluatie, de examens en cursussen alsook de stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 
+2019-2020 wegens COVID-19'.Het ontwerp werd door de tweede kamer onderzocht op 25 juni 2020. 
+De kamer was samengesteld uit Pierre Vandernoot, voorzitter van de kamer, Patrick Ronvaux en Christine 
+Horevoets, Staatsraden, en Béatrice Drapier, griffierVerslag werd uitgebracht door Roger Wimmer, 
+eerste auditeur.Het advies met onderstaande tekst werd uitgebracht op 25 mei 2020. Volgens 
+artikel 84, § 1, eerste lid, 3°, van de wetten 'op de Raad van State', gecoördineerd op 12 januari 
+1973, dienen in de adviesaanvraag in het bijzonder de motieven te worden opgegeven die het dringend karakter 
+verantwoorden.Het schrijven luidt als volgt: "Overwegende dat WHO op 11 maart 2020 
+het coronavirus COVID-19 als een pandemie gelabeld heeft;Gelet op de verklaring van WHO over 
+de kenmerken van het coronavirus COVID-19, met name de hoge besmettelijkheid, het mortaliteitsrisico 
+en het aantal opgespoorde gevallen; Gelet op de verspreiding van het coronavirus COVID-19 op 
+Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid en het gezondheidsrisico 
+dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt;Gelet op het ministerieel 
+besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, dat met name tot doel heeft de verplaatsingen en de sociale contacten te beperken;Gelet 
+op de impact van de gezondheidscrisis op de erkende opleidingscentra van het "Institut wallon de formation 
+en alternance et des indépendants et petites et moyennes entreprises" die hun face-to-face opleidingen 
+hebben moeten stopzetten;Overwegende dat opleidingsactiviteiten vandaag uitsluitend op basis 
+van face-to-face leerprocessen worden georganiseerd en gesubsidieerd;Overwegende dat het Instituut 
+de continuïteit van de dienstverlening heeft gewaarborgd door in de erkende opleidingscentra een voorziening 
+van afstandsopleiding en -opvolging op te zetten;Gelet op de gedeeltelijke hervatting van de 
+face-to-face cursussen vanaf 18 mei 2020, met inachtneming van de gezondheidsmaatregelen vereist door 
+de Nationale Veiligheidsraad;Gelet op het feit dat het einde van het opleidingsjaar en de daarmee 
+samenhangende evaluaties binnenkort zullen aflopen;Overwegende dat het gelijkheidsbeginsel 
+en de rechtszekerheid moeten worden gewaarborgd en dat maatregelen moeten worden genomen om ervoor te 
+zorgen dat geen enkele leerling belemmerd wordt in de uitoefening van zijn rechten of in de uitvoering 
+van zijn verplichtingen wegens de impacten van de gezondheidscrisis".Daar de adviesaanvraag 
+is ingediend op grond van artikel 84, § 1, lid 1, 3°, van de wetten 'op de Raad van State', gecoördineerd 
+op 12 januari 1973, beperkt de afdeling wetgeving haar onderzoek tot de rechtsgrond van het ontwerp, 
+tot de bevoegdheid van de steller van de akte en tot het voltooien van de voorafgaandelijke vormvereisten, 
+overeenkomstig artikel 84, § 3, van voornoemde gecoördineerde wetten.Op deze drie punten 
+geeft het ontwerp aanleiding tot volgende bemerkingen.VOORAFGAANDE VORMVEREISTENHet 
+advies van de Raad van State wordt gelijktijdig met het eensluidend advies van het College van de Franse 
+Gemeenschapscommissie gevraagd.Indien het ontwerp als gevolg van deze laatste raadpleging op 
+andere punten dan de louter formele en los van de in dit advies behandelde punten zou worden gewijzigd, 
+zou het opnieuw aan de afdeling Wetgeving moeten worden voorgelegd.ALGEMENE OPMERKINGVerscheidene 
+bepalingen van het ontwerp verwijzen naar "de gezondheidsmaatregelen die door de Nationale Veiligheidsraad 
+zijn vereist".Deze maatregelen zijn in feite de maatregelen die in formele vorm zijn gegoten 
+bij het ministerieel besluit van 23 maart 2020 'houdende dringende maatregelen om de verspreiding van 
+het coronavirus COVID-19 te beperken'.Het is aan dit ministerieel besluit en aan de besluiten 
+die het in voorkomend geval zullen vervangen, dat deze verwijzing moet worden gemaakt.BIJZONDERE 
+OPMERKINGENAANHEF1. Het ontwerp vindt rechtsgrond in de artikelen 5, § 1, 
+4°, en 8, § 1, 4°, en § 2, 1°, van het samenwerkingsakkoord gesloten op 20 februari 1995 
+door de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest i.v.m. de permanente 
+vorming van de middenstand en de kleine en middelgrote ondernemingen en de voogdij over het Instituut 
+voor permanente vorming van de middenstand en de kleine en middelgrote ondernemingen, gewijzigd bij de 
+aanhangsels van 4 juni 2003 en 27 maart 2014.In de aanhef moet daarom lid 2 worden aangepast 
+en moeten de leden 1 en 3 worden weggelaten.2. Volgens de artikelen 5, § 1, 4°, en 8, 
+§ 1, 4°, van voormeld samenwerkingsakkoord bepaalt de Waalse Regering de voorwaarden voor de organisatie 
+van de cursussen, de doorlopende evaluatie en de examens op eensluidend advies van het College van de 
+Franse Gemeenschapscommissie.In lid 9 van de aanhef moeten, in de Franse ontwerpversie, de 
+woorden "l'avis du Collège" worden vervangen door de woorden "l'avis conforme du Collège". 3. 
+Lid 10 van de aanhef moet worden aangevuld met de woorden "overeenkomstig artikel 84, § 1, eerste 
+lid, 3°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973".BESCHIKKEND 
+GEDEELTEArtikel 1In 1° moeten, in de Franse ontwerpversie, de woorden "visés par 
+l'article 2, 10°" vervangen worden door de woorden "visés par l'article 2, 12°".Artikel 4Artikel 
+4 is de enige bepaling van het ontwerp die beoogt een bestaand besluit te wijzigen.Ook al volgt 
+uit artikel 25 van het ontwerp dat punt 4° ingevoegd bij artikel 4 in artikel 5, § 1, van het 
+besluit van de Waalse regering van 31 augustus 2000 "betreffende de doorlopende evaluatie en de examens 
+in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingen" (hierna: het 
+"evaluatie-besluit"), op 31 december 2020 uit het rechtsstelsel zal verdwijnen, zou het duidelijker zijn 
+om, net als de andere bepalingen van het ontwerp, artikel 4 autonoom op te stellen en het Centrum voor 
+de permanente vorming voor de Middenstand en de kleine en middelgrote ondernemingen de bevoegdheid te 
+geven om ook de eindeleertijdsevaluatie voor "kandidaten voor een alternerende opleiding" te organiseren, 
+naast de bevoegdheden die bedoeld Centrum heeft krachtens artikel 5, § 1, van het evaluatie-besluit.De 
+definitie die aan dit laatste begrip wordt gegeven bij artikel 1, 5°, van het ontwerp zal bijgevolg gelden 
+voor het aldus ontworpen artikel 4, wat niet het geval zou zijn indien het nieuwe punt 4° zou worden 
+ingevoegd in artikel 5, § 1, van het evaluatie-besluit, zoals voorzien in de betrokken bepaling.Artikelen 
+5 en 101. Artikel 5 bepaalt dat de evaluaties van de algemene kennis, beroepskennis en geïntegreerde 
+kennis bedoeld in artikel 6 van het evaluatie-besluit, namelijk de eindeleertijdsevaluatie worden georganiseerd 
+over de vakken die tot 13 maart 2020 face-to-face werden verstrekt. Dezelfde regel is geformuleerd in 
+artikel 10 met betrekking de evaluaties tijdens het leerproces, zoals bedoeld in artikel 16 van het evaluatie-besluit.Vanaf 
+18 mei 2020 kunnen nieuwe vakken verstrekt worden. Ze kunnen het voorwerp uitmaken van summatieve evaluaties 
+voor wat betreft de vakken die betrekking hebben op door het Instituut vastgestelde essentiële vaardigheden, 
+als het gaat om de eindeleertijdsevaluaties terwijl de nieuwe vakken die op afstand worden gegeven, niet 
+kunnen worden geëvalueerd als het gaat om vakken gegeven tijdens het leerproces.In de artikelen 
+5 en 10 van het ontwerp wordt in lid 2 bepaald dat de in deze bepalingen bedoelde evaluaties "met instemming 
+van het Instituut" kunnen worden geannuleerd.Artikel 2 van het evaluatie-besluit, dat gemeenschappelijk 
+is voor lopende evaluaties en voor eindeleertijdsevaluaties, bepaalt echter dat "het Instituut zowel 
+de organisatie van de doorlopende evaluatie als die van het examen waarvoor het pedagogisch en administratief 
+toezicht uitoefent, coördineert".In artikel 3 van hetzelfde besluit wordt bepaald dat "het 
+Centrum voor [permanente vorming] zowel de evaluatie als het examen organiseert en toeziet op het goede 
+verloop daarvan, de regelmatigheid ervan en de toepassing van het in de artikelen 11 en 32 bedoelde organisatieschema".Bij 
+lezing van de artikelen 5 en 10 van het ontwerp kan, aangezien de instemming van het Instituut vereist 
+is, worden afgeleid dat het de erkende opleidingscentra zijn die het recht hebben om de in deze bepalingen 
+bedoelde evaluaties te annuleren.Dit zal duidelijk moeten worden gemaakt in het beschikkend 
+gedeelte.2. Het beschikkend gedeelte zal ook moeten worden aangevuld om de voorwaarden vast 
+te stellen waaronder de proeven kunnen worden geannuleerd, teneinde de gelijkheid tussen de cursisten 
+te garanderen.Hoewel het in principe, zoals duidelijk blijkt uit artikel 2, de taak van het 
+Instituut is om de organisatie van de doorlopende evaluatie te coördineren, zodat de uniformiteit tussen 
+de verschillende erkende opleidingscentra op het gebied van dergelijke evaluaties wordt gewaarborgd, 
+moet deze uniformiteit ook kunnen worden gewaarborgd in geval van annulering van de proeven.3. 
+Deze twee opmerkingen gelden ook voor de artikelen 13 en 19 van het ontwerp.Artikel 5Zoals 
+hierboven in de toelichting bij de artikelen 5 en 10 is uiteengezet, kunnen vanaf 18 mei 2020 nieuwe 
+vakken aan het einde van het leerproces, hetzij face-to-face, hetzij op afstand, worden gegeven wanneer 
+zij betrekking hebben op essentiële vaardigheden die door het Instituut zijn vastgesteld. Deze vakken 
+kunnen het voorwerp uitmaken van summatieve evaluaties.Om de gelijkheid tussen de leerlingen 
+te garanderen, moet ervoor worden gezorgd dat er maatregelen worden genomen om ervoor te zorgen dat zij 
+effectief en onder goede leeromstandigheden cursussen op afstand kunnen volgen en dat de cursussen, indien 
+dergelijke maatregelen niet kunnen worden genomen, face-to-face kunnen worden gegeven, met inachtneming 
+van de voorwaarden die zijn vastgesteld bij het ministerieel besluit van 23 maart 2020.Dezelfde 
+opmerking geldt voor artikel 13 van het ontwerp.Artikel 9In de Franse ontwerpversie 
+moeten de woorden " Le conseil de formateurs visé " worden vervangen door de woorden " La réunion du 
+conseil des formateurs visée ".Een soortgelijke opmerking geldt voor de artikelen 11, 12, 17, 
+eerste lid, en 20, eerste lid.Artikelen 22 en 23Het tweede lid van de artikelen 22 
+en 23 bepaalt dat de cursussen waarnaar zij verwijzen "op afstand" worden gehandhaafd, behalve voor leerlingen 
+of cursisten "met moeilijkheden".Deze formulering geeft geen duidelijk antwoord op de vraag 
+of de niet-handhaving van deze cursussen voor leerlingen of cursisten met moeilijkheden betekent dat 
+ze niet worden gegeven of dat ze face-to-face worden gegeven.Het beschikkend gedeelte zal op 
+dit punt worden verduidelijkt om interpretatie- en toepassingsproblemen te voorkomen.Artikel 
+22In het eerste lid van de Franse ontwerpversie moeten de woorden " examen pratique de fin 
+de stade " worden vervangen door de woorden " examen C " (zie in die zin artikel 23, eerste lid, van 
+het ontwerp).Artikelen 25 en 261. In artikel 25, lid 1, en artikel 26 wordt bepaald 
+dat de artikelen 2 tot en met 23 uitwerking hebben op 18 mei 2020 en dat artikel 24 uitwerking heeft 
+op 14 maart 2020.2. Er wordt op gewezen dat bestuurshandelingen krachtens een algemeen rechtsbeginsel 
+in de regel geen terugwerkende kracht hebben. Terugwerkende kracht kan evenwel gerechtvaardigd zijn indien 
+de wet die toestaat. Indien ze niet bij de wet wordt toegestaan, is ze alleen aanvaardbaar bij wijze 
+van uitzondering, inzonderheid wanneer dat nodig is voor de continuïteit van de openbare dienst of voor 
+de regularisatie van een rechtstoestand of een feitelijke toestand en voor zover de vereisten inzake 
+rechtszekerheid vervuld zijn en de individuele rechten geëerbiedigd worden.Wat de artikelen 
+2 tot en met 23 betreft, zijn alleen de artikelen 5, 10, 13 en 19, voor zover zij bepalen dat nieuwe 
+vakken met terugwerkende kracht vanaf 18 mei 2020 kunnen worden verstrekt, bestemd om met terugwerkende 
+kracht toegepast te worden.De steller van het ontwerp dient zich ervan te vergewissen dat de 
+rechtvaardiging voor de terugwerkende kracht van deze bepalingen binnen een van de bovengenoemde hypothesen 
+valt.3. Bovendien is het onnodig artikel 24 te laten terugwerken tot 14 maart 2020.Overeenkomstig 
+artikel 13, § 2, vierde lid, van het besluit van de Waalse Regering van 16 juli 1998 betreffende 
+de stageovereenkomst in het kader van de permanente vorming van de middenstand en de kleine en middelgrote 
+ondernemingen, waarvan artikel 24 van het ontwerp wil afwijken, wordt de maandelijkse basistoelage immers 
+verhoogd vanaf 1 augustus vóór de overgang naar het volgende jaar.4. Uit bovenstaande opmerkingen 
+volgt dat artikel 25 moet worden aangepast en dat artikel 26 moet worden weggelaten. SLOTOPMERKINGEN1. 
+Aan het einde van het beschikkend gedeelte dient een nieuw artikel te worden ingevoegd, luidend als volgt: 
+"De Minister bevoegd voor alternerende opleiding en zelfstandigen en kleine en middelgrote 
+ondernemingen is belast met de uitvoering van dit besluit".2. Het verslag aan de Regering bevat, 
+na enkele inleidende overwegingen van algemene aard, geen artikelsgewijze bespreking, maar geeft slechts 
+de tekst van de ontwerpartikelen weer.Het verslag aan de Regering zal worden aangevuld met 
+een artikelsgewijze bespreking.De Griffier,Béatrice DrapierDe Voorzitter,Pierre 
+Vandernoot 19 JUNI 2020. - Besluit van de Waalse Regering betreffende diverse 
+bepalingen betreffende de organisatie van de doorlopende evaluatie, de examens en cursussen alsook de 
+stageovereenkomsten van het IFAPME-net voor het opleidingsjaar 2019-2020 wegens COVID-19 De 
+Waalse Regering,Gelet op het samenwerkingsakkoord gesloten op 20 februari 1995 door de Franse 
+Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest i.v.m. de permanente vorming van de 
+middenstand en de kleine en middelgrote ondernemingen en de voogdij over het Instituut voor permanente 
+vorming van de middenstand en de kleine en middelgrote ondernemingen, gewijzigd bij de aanhangsels van 
+4 juni 2003 en 27 maart 2014;Gelet op het besluit van de Waalse Regering van 31 augustus 2000 
+betreffende de doorlopende evaluatie en de examens in de permanente vorming voor de middenstand en de 
+kleine en middelgrote ondernemingen.Gelet op het besluit van de Waalse Regering van 31 augustus 
+2000 betreffende de vormingscursussen in de permanente vorming van de middenstand en de kleine en middelgrote 
+ondernemingen;Gelet op het besluit van de Waalse Regering van 16 juli 1998 betreffende de stageovereenkomst 
+in het kader van de permanente vorming van de middenstand en de kleine en middelgrote ondernemingen;Gelet 
+op het verslag van 11 mei 2020 opgesteld overeenkomstig artikel 3, 2°, van het decreet van 11 april 2014 
+houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 
+1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke 
+beleidslijnen; Gelet op het gunstig advies van het beheerscomité van het "Institut wallon de 
+formation en alternance et des indépendants et petites et moyennes entreprises" (Waals instituut voor 
+alternerende opleiding, zelfstandigen en kleine en middelgrote ondernemingen), gegeven op 5 mei 2020 
+na een elektronische raadpleging;Gelet op het eensluidend advies van het College van de Franse 
+Gemeenschapscommissie, gegeven op 20 mei 2020 overeenkomstig de artikelen 5, § 1, 4°, en 8, § 
+1, 4°, van het samenwerkingsakkoord gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, 
+de Franse Gemeenschap en het Waalse Gewest i.v.m. de permanente vorming van de middenstand en de kleine 
+en middelgrote ondernemingen en de voogdij over het Instituut voor permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingen;Gelet op advies 67.418/2 van de Raad van State, gegeven 
+op 25 mei 2020, overeenkomstig artikel 84, § 1, eerste lid, 3°, van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973; Gelet op de dringende noodzakelijkheid gemotiveerd als volgt: 
+Overwegende dat WHO op 11 maart 2020 het coronavirus COVID-19 als een pandemie gelabeld heeft;Gelet 
+op de verklaring van WHO over de kenmerken van het coronavirus COVID-19, met name de hoge besmettelijkheid, 
+het mortaliteitsrisico en het aantal opgespoorde gevallen;Gelet op de verspreiding van het 
+coronavirus COVID-19 op Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid 
+en het gezondheidsrisico dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt; Gelet 
+op het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken, dat met name tot doel heeft de verplaatsingen en de sociale contacten 
+te beperken;Gelet op de impact van de gezondheidscrisis op de erkende opleidingscentra van 
+het "Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises" 
+die de face-to-face cursussen hebben moeten stopzetten;Overwegende dat opleidingsactiviteiten 
+vandaag uitsluitend op basis van face-to-face leerprocessen worden georganiseerd en gesubsidieerd;Overwegende 
+dat het Instituut de continuïteit van de dienstverlening heeft gewaarborgd door in de erkende opleidingscentra 
+een voorziening van afstandsopleiding en -opvolging op te zetten;Gelet op de gedeeltelijke 
+hervatting van de face-to-face cursussen vanaf 18 mei 2020, met inachtneming van de gezondheidsmaatregelen 
+bedoeld in het voormelde ministerieel besluit van 23 maart 2020;Gelet op het feit dat het einde 
+van het opleidingsjaar en de daarmee samenhangende evaluaties binnenkort zullen aflopen;Overwegende 
+dat het gelijkheidsbeginsel en de rechtszekerheid moeten worden gewaarborgd en dat maatregelen moeten 
+worden genomen om ervoor te zorgen dat geen enkele leerling belemmerd wordt in de uitoefening van zijn 
+rechten of in de uitvoering van zijn verplichtingen wegens de impacten van de gezondheidscrisis;Op 
+de voordracht van de Minister bevoegd voor "IFAPME";Na beraadslaging,Besluit : HOOFDSTUK 
+I. - BegripsomschrijvingenArtikel 1. Voor de toepassing van dit besluit wordt verstaan onder: 
+1° "erkende opleidingscentra" : de opleidingscentra bedoeld in artikel 2, 12°, van het decreet 
+van 17 juli 2003 tot oprichting van een "Institut wallon de formation en alternance et des indépendants 
+et des petites et moyennes entreprises" (Waals instituut voor alternerende vorming, zelfstandigen en 
+kleine en middelgrote ondernemingen);2° "evaluatie-besluit": het besluit van de Waalse Regering 
+van 31 augustus 2000 betreffende de doorlopende evaluatie en de examens in de permanente vorming voor 
+de middenstand en de kleine en middelgrote ondernemingen;3° "cursus-besluit": het besluit van 
+de Waalse Regering van 31 augustus 2000 betreffende de vormingscursussen in de permanente vorming van 
+de middenstand en de kleine en middelgrote ondernemingen;4° "Instituut": het Instituut opgericht 
+krachtens het decreet van 17 juli 2003 tot oprichting van een "Institut wallon de formation en alternance 
+et des indépendants et des petites et moyennes entreprises";5° "kandidaat voor een alternerende 
+opleiding": leerling die de cursussen algemene kennis en de cursussen beroepskennis of de cursussen geïntegreerde 
+kennis in een erkend opleidingscentrum volgt en die een alternerend contract wenst te sluiten;6° 
+"essentiële vaardigheden": vaardigheden die door elke leerling moeten worden verworven om zijn opleiding 
+te kunnen voortzetten of om een minimumniveau van beheersing van de leerresultaten te verwerven met het 
+oog op professionele integratie;7° "stageovereenkomst-besluit" : het besluit van de Waalse 
+Regering van 16 juli 1998 betreffende de stageovereenkomst in het kader van de permanente vorming van 
+de middenstand en de kleine en middelgrote ondernemingen;8° "vereiste gezondheidsmaatregelen": 
+de maatregelen bedoeld in het ministerieel besluit van 23 maart 2020 houdende dringende maatregelen om 
+de verspreiding van het coronavirus COVID-19 te beperken of in elk ander besluit dat het vervangt.HOOFDSTUK 
+II. - Wijzigingen in het besluit van de Waalse Regering van 31 augustus 2000 betreffende de doorlopende 
+evaluatie en de examens in de permanente vorming voor de middenstand en de kleine en middelgrote ondernemingenArt. 
+2. Voor het opleidingsjaar 2019-2020 is de in artikel 1, 6°, van het evaluatie-besluit bedoelde regelmatige 
+cursist, de cursist die ten minste 2/3 van de cursussen georganiseerd tot 13 maart 2020 heeft gevolgd.Art. 
+3. De in artikel 4, tweede lid, van het evaluatie-besluit bedoelde examens kunnen op afstand worden georganiseerd. 
+De organisatie van de examens van het erkende opleidingscentrum geschiedt met inachtneming 
+van de vereiste gezondheidsmaatregelen.Art. 4. Artikel 5, paragraaf 1, van het evaluatie-besluit 
+wordt vervangen als volgt: " § 1. Het Centrum organiseert de eindeleertijdsevaluatie 
+voor : 1° de leerling die verbonden is door een contract alternerend leren. De evaluatie vindt 
+plaats in de loop van het jaar waarin het contract alternerend leren eindigt;2° de regelmatige 
+cursist die de leercursussen volgt en die, zonder aan de in 1° bedoelde voorwaarde te voldoen, een praktijkvorming 
+volgt die gelijkwaardig is aan die van het contract alternerend leren. De evaluatie vindt plaats in de 
+loop van het jaar waarin deze opleiding eindigt;3° de afgewezen regelmatige cursist die voor 
+31 januari van het evaluatiejaar een schriftelijke aanvraag indient bij het Centrum;4° de kandidaat 
+voor een alternerende opleiding zoals bedoeld in artikel 1, 5°, van dit besluit.".Art. 5. De 
+evaluaties van de algemene kennis, beroepskennis en geïntegreerde kennis bedoeld in artikel 6 van het 
+evaluatie-besluit worden georganiseerd over de vakcursussen die tot 13 maart 2020 face-to-face werden 
+verstrekt. Nieuwe vakcursussen die betrekking hebben op door het Instituut vastgestelde essentiële vaardigheden 
+kunnen worden verstrekt, hetzij face-to-face, hetzij op afstand, en er kunnen summatieve evaluaties worden 
+georganiseerd.In het geval van afstandscursussen neemt het erkende opleidingscentrum maatregelen 
+om de toegang tot deze cursussen voor alle betrokken leerlingen te waarborgen. Art. 6. In afwijking 
+van artikel 7 van het evaluatie-besluit: a) worden de eerste en tweede zittijd voor de A-, 
+B- en I-examens tussen 1 juni 2020 en 30 september 2020 georganiseerd;b) wordt de zittijd voor 
+de C-examens en de evaluaties van de eenheden van leerresultaten tussen 1 juni 2020 en 30 november 2020 
+georganiseerd.Art. 7. In afwijking van artikel 8, § 2, van het evaluatie-besluit schrijft 
+het erkende opleidingscentrum voor het C-examen in : 1° de regelmatige cursist die het laatste 
+cursusjaar heeft gevolgd;2° de regelmatige cursist bedoeld in artikel 5, § 1, 3° van 
+het evaluatie-besluit;3° de kandidaat voor een alternerende opleiding die ten minste 2/3 van 
+de cursussen georganiseerd tot 13 maart 2020 heeft gevolgd. Art. 8. Voor het opleidingsjaar 
+2019-2020 kan de samenstelling van de in artikel 10 van het evaluatie-besluit bedoelde C-examencommissie 
+door het Instituut aangepast worden. De C-examens worden georganiseerd in overeenstemming met 
+de opleidingsnormen of met aanpassingen vereist door het Instituut en voortvloeiend uit de opschorting 
+of annulering van cursussen of de naleving van de vereiste gezondheidsmaatregelen.Art. 9. De 
+in artikel 13 van het evaluatie-besluit bedoelde vergadering van de raad van vormingswerkers wordt face-tot-face 
+of op afstand gehouden. Wat het diploma waarmede de opleiding wordt afgesloten betreft, beslist de raad 
+over het succes, over de tweede zittijd of, op basis van een gedetailleerd met redenen omkleed advies, 
+over het falen van de leerling. Na de in het eerste lid bedoelde raad van vormingswerkers vergadert 
+de in artikel 19 van het evaluatie-besluit bedoelde toezichthoudende commissie face-to-face of op afstand, 
+en dit, uiterlijk op 15 december 2020.Art. 10. De evaluaties van de algemene kennis, beroepskennis 
+en geïntegreerde kennis bedoeld in artikel 16 van het evaluatie-besluit worden georganiseerd over de 
+vakcursussen die tot 13 maart 2020 face-to-face werden verstrekt. De afstandscursussen kunnen nieuwe 
+vakken omvatten maar ze mogen niet geëvalueerd worden. In het geval van afstandscursussen neemt 
+het erkende opleidingscentrum maatregelen om de toegang tot deze cursussen voor alle betrokken leerlingen 
+te waarborgen.In afwijking van artikel 16 van het evaluatie-besluit worden de eerste en de 
+tweede zittijd voor de A-, B- en I-examens tussen 1 juni 2020 en 30 september 2020 georganiseerd.Art. 
+11. De in artikel 18 van het evaluatie-besluit bedoelde vergadering van de raad van vormingswerkers wordt 
+face-tot-face of op afstand georganiseerd. De Raad van vormingswerkers beslist over de toelating 
+van de leerling in het hogere studiejaar met of zonder aanbeveling, of over de weigering van zijn overgang 
+naar het hogere studiejaar op basis van een gedetailleerd met redenen omkleed advies. Hij vergadert 
+uiterlijk op 30 november 2020.Art. 12. De vergadering van de in artikel 19 van het evaluatie-besluit 
+bedoelde toezichthoudende commissie wordt face-to-face of op afstand georganiseerd.In afwijking 
+van dezelfde bepaling vergadert ze uiterlijk op 15 december 2020.Art. 13. De evaluaties van 
+de beheerskennis, beroepskennis en geïntegreerde kennis bedoeld in artikel 27 van het evaluatie-besluit 
+worden georganiseerd over de vakcursussen die tot 13 maart 2020 face-to-face werden verstrekt. Nieuwe 
+vakcursussen die betrekking hebben op door het Instituut vastgestelde essentiële vaardigheden kunnen 
+worden verstrekt, hetzij face-to-face, hetzij op afstand, en ze kunnen het voorwerp uitmaken van summatieve 
+evaluaties.In het geval van afstandscursussen neemt het erkende opleidingscentrum maatregelen 
+om de toegang tot deze cursussen voor alle betrokken cursisten te waarborgen. In sommige afdelingen 
+waarvan de lijst door het Instituut vastgesteld wordt, zijn de evaluaties verplicht.Art. 14. 
+In afwijking van artikel 28 van het evaluatie-besluit: a) worden de eerste en tweede zittijd 
+voor de A-, B- en I-examens tussen 1 juni 2020 en 30 september 2020 georganiseerd;b) wordt 
+de zittijd voor de C-examens en de evaluaties van de eenheden van leerresultaten tussen 1 juni 2020 en 
+30 november 2020 georganiseerd. Art. 15. In afwijking van artikel 29, § 2, van het evaluatie-besluit 
+kan het erkende opleidingscentrum, wegens de opschorting van de stages na de COVID-19-crisis, voor het 
+opleidingsjaar 2019-2020 de cursist inschrijven voor het C-examen zonder enige vereiste van voldoende 
+praktijkervaring.Art. 16. Voor het opleidingsjaar 2019-2020 kan de samenstelling van de in 
+artikel 31 van het evaluatie-besluit bedoelde C-examencommissie door het Instituut aangepast worden. 
+De C-examens worden georganiseerd in overeenstemming met de opleidingsnormen of met aanpassingen 
+vereist door het Instituut en voortvloeiend uit de opschorting of annulering van cursussen of de naleving 
+van de vereiste gezondheidsmaatregelen.Art. 17. De in artikel 34 van het evaluatie-besluit 
+bedoelde vergadering van de raad van vormingswerkers wordt face-to-face of op afstand georganiseerd. 
+Wat het diploma waarmede de opleiding wordt afgesloten betreft, beslist de raad over het succes, over 
+de tweede zittijd of, op basis van een gedetailleerd met redenen omkleed advies, over het falen van de 
+leerling. Na de in het eerste lid bedoelde raad van vormingswerkers vergadert de in artikel 
+19 van het evaluatie-besluit bedoelde toezichthoudende commissie face-to-face of op afstand, en dit, 
+uiterlijk op 15 december 2020.Art. 18. In afwijking van artikel 36 van het evaluatie-besluit 
+worden de eerste en tweede zittijd voor de A-, B- en I-examens tussen 1 juni 2020 en 30 september 2020 
+georganiseerd.Art. 19. De beoordelingen van de beheerskennis, beroepskennis en geïntegreerde 
+kennis bedoeld in artikel 37 van het evaluatie-besluit worden georganiseerd over de vakcursussen die 
+tot 13 maart 2020 face-to-face werden verstrekt. De afstandscursussen kunnen nieuwe vakken omvatten maar 
+ze mogen niet geëvalueerd worden. In het geval van afstandscursussen neemt het erkende opleidingscentrum 
+maatregelen om de toegang tot deze cursussen voor alle betrokken cursisten te waarborgen.In 
+sommige afdelingen waarvan de lijst door het Instituut vastgesteld wordt, zijn de evaluaties verplicht.Art. 
+20. De in artikel 40 van het evaluatie-besluit bedoelde vergadering van de raad van vormingswerkers wordt 
+face-to-face of op afstand georganiseerd.De Raad van vormingswerkers beslist over de toelating 
+van de leerling in het hogere studiejaar met of zonder aanbeveling, of over de weigering van zijn toegang 
+tot het hogere studiejaar op basis van een gedetailleerd met redenen omkleed advies. Hij vergadert 
+uiterlijk op 30 november 2020.Na de in het eerste lid bedoelde raad van vormingswerkers vergadert 
+de in artikel 19 van het evaluatie-besluit bedoelde toezichthoudende commissie face-to-face of op afstand, 
+en dit, uiterlijk op 15 december 2020.HOOFDSTUK III. - Wijzigingen in het besluit van de Waalse 
+Regering van 31 augustus 2000 betreffende de vormingscursussen in de permanente vorming van de middenstand 
+en de kleine en middelgrote ondernemingenArt. 21. De in het cursus-besluit bedoelde cursussen 
+kunnen op afstand of face-to-face georganiseerd worden. De organisatie van de cursussen in 
+het erkende opleidingscentrum geschiedt met inachtneming van de vereiste gezondheidsmaatregelen.Art. 
+22. Met inachtneming van de vereiste gezondheidsmaatregelen zal het erkende opleidingscentrum voor het 
+opleidingsjaar 2019-2020 en met betrekking tot de leercursussen tussen 17 augustus en 30 september 2020 
+aanvullende face-to-face cursussen organiseren over de door het instituut vastgestelde essentiële vaardigheden, 
+om de leerlingen in staat te stellen hun leertijd in de volgende jaren voort te zetten of zich voor te 
+bereiden op hun C-examen. Voor het derde leerjaar worden de algemene cursussen op afstand gehandhaafd, 
+behalve voor leerlingen met moeilijkheden, voor wie de cursussen face-to-face worden verstrekt in het 
+erkende opleidingscentrum.De cursussen beroepskennis en geïntegreerde kennis zullen gedeeltelijk 
+face-to-face en op afstand worden gegeven.Art. 23. Met inachtneming van de vereiste gezondheidsmaatregelen 
+zal het erkende opleidingscentrum voor het opleidingsjaar 2019-2020 en met betrekking tot de cursussen 
+voor een opleiding tot ondernemingshoofd tussen 17 augustus en 30 september 2020 aanvullende face-to-face 
+cursussen organiseren over de door het instituut vastgestelde essentiële vaardigheden, om de cursisten 
+in staat te stellen hun leertijd in de volgende jaren voort te zetten of zich voor te bereiden op hun 
+C-examen.Voor het laatste leerjaar worden de beheerscursussen op afstand gehandhaafd, behalve 
+voor cursisten met moeilijkheden, voor wie de cursussen face-tot-face worden gegeven in het erkende opleidingscentrum.De 
+cursussen beroepskennis en geïntegreerde kennis zullen gedeeltelijk face-tot-face en op afstand worden 
+gegeven.HOOFDSTUK IV. - Wijzigingen in het besluit van de Waalse Regering van 16 juli 1998 
+betreffende de stageovereenkomst in het kader van de permanente vorming van de middenstand en de kleine 
+en middelgrote ondernemingenArt. 24. In afwijking van artikel 13, § 2, van het stageovereenkomst-besluit 
+kan, wanneer het opleidingsjaar 2019-2020 afloopt na 30 september 2020, de overgang naar de hogere schaal 
+pas worden gemaakt na de beslissing van de raad van vormingswerkers.HOOFDSTUK V. - InwerkingtredingArt. 
+25. Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt met 
+uitzondering van de artikelen 5, 10, 13 en 19 die uitwerking hebben op 14 maart 2020 tot 31 december 
+2020.Art. 26. De Minister bevoegd voor alternerende opleiding en zelfstandigen en kleine en 
+middelgrote ondernemingen is belast met de uitvoering van dit besluit.Namen, 19 juni 2020.Voor 
+de Regering: De Minister-President,E. DI RUPODe Minister van Economie, 
+Buitenlandse Handel, Onderzoek, Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het 
+"IFAPME", en de Vaardigheidscentra,W. BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-06Numac : 2020202922
+

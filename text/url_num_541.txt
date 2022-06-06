@@ -1,0 +1,222 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/05/02/2021202178/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021202178
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 2 MEI 2021. - Koninklijk besluit tot verlenging van diverse maatregelen genomen op vlak van werkloosheid in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19 en tot wijziging van het koninklijk besluit van 20 januari 2021 betreffende het toekennen van een toeslag voor werknemers die in 2020 tijdelijk werkloos werden gesteld 
+FILIP, Koning der Belgen, Aan allen die 
+nu zijn en hierna wezen zullen, Onze Groet.Gelet op de Grondwet, artikel 108;Gelet 
+op de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, artikel 
+7, § 1, derde lid, i, vervangen bij de wet van 14 februari 1961, § 1septies, ingevoegd 
+bij wet van 25 april 2014, en § 1octies, ingevoegd bij wet van 25 april 2014;Gelet op 
+de wet van 9 juni 2020 tot invoering van een recht op uitkeringen bij tijdelijke werkloosheid van gepensioneerden 
+van 65 jaar omwille van het COVID-19-virus, artikel 4;Gelet op de wet van 15 juli 2020 tot 
+verbetering van de toestand van de werknemers in de culturele sector, artikel 7;Gelet op het 
+koninklijk besluit van 25 november 1991 houdende de werkloosheids-reglementering;Gelet op het 
+koninklijk besluit van 16 september 1991 tot vaststelling van de vergoedingen voor administratiekosten 
+van de uitbetalingsinstellingen belast met de uitbetaling van werkloosheidsuitkeringen;Gelet 
+op het koninklijk besluit van 7 december 1992 betreffende de toekenning van werkloosheidsuitkeringen 
+in geval van conventioneel brugpensioen;Gelet op het koninklijk besluit van 3 mei 2007 tot 
+regeling van het stelsel van werkloosheid met bedrijfstoeslag;Gelet op het koninklijk besluit 
+van 30 maart 2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van 
+het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging 
+van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde 
+besluit;Gelet op het koninklijk besluit van 23 april 2020 tot het tijdelijk versoepelen van 
+de voorwaarden waaronder werklozen, al dan niet met bedrijfstoeslag, kunnen worden tewerkgesteld in vitale 
+sectoren en tot het tijdelijk bevriezen van de degressiviteit van de volledige werkloosheidsuitkeringen;Gelet 
+op het koninklijk besluit van 22 juni 2020 betreffende diverse tijdelijke maatregelen in de werkloosheidsreglementering 
+omwille van het COVID-19-virus en tot wijziging van de artikelen 12 en 16 van het koninklijk besluit 
+van 30 maart 2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van 
+het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging 
+van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde 
+besluit;Gelet op het koninklijk besluit van 4 juni 2020 tot verlenging van de maatregelen op 
+vlak van tewerkstelling in de vitale sectoren ten gevolge van de COVID-19-pandemie;Gelet op 
+het koninklijk besluit van 15 juli 2020 tot verlenging van de maatregelen genomen op vlak van werkloosheid 
+in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19 (I);Gelet op 
+het koninklijk besluit van 13 september 2020 tot wijziging van artikel 7 van het koninklijk besluit van 
+23 april 2020 tot het tijdelijk versoepelen van de voorwaarden waaronder werklozen, al dan niet met bedrijfstoeslag, 
+kunnen worden tewerkgesteld in vitale sectoren en tot het tijdelijk bevriezen van de degressiviteit van 
+de volledige werkloosheidsuitkeringen;Gelet op het koninklijk besluit van 27 september 2020 
+tot verlenging van de maatregelen genomen op vlak van werkloosheid in het kader van de strijd tegen de 
+verspreiding van het coronavirus COVID-19;Gelet op het koninklijk besluit van 13 december 2020 
+tot wijziging van artikel 7 van het koninklijk besluit van 23 april 2020 tot het tijdelijk versoepelen 
+van de voorwaarden waaronder werklozen, al dan niet met bedrijfstoeslag, kunnen worden tewerkgesteld 
+in vitale sectoren en tot het tijdelijk bevriezen van de degressiviteit van de volledige werkloosheidsuitkeringen;Gelet 
+op het koninklijk besluit van 13 december 2020 tot verlenging van de maatregelen genomen op vlak van 
+werkloosheid in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19;Gelet 
+op het koninklijk besluit van 22 december 2020 tot uitbreiding en verlenging van de maatregelen genomen 
+op vlak van werkloosheid in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19;Gelet 
+op het koninklijk besluit van 22 december 2020 tot verlenging van de maatregelen genomen door de wet 
+van 15 juli 2020 tot verbetering van de toestand van de werknemers in de culturele sector;Gelet 
+op het koninklijk besluit van 20 januari 2021 betreffende het toekennen van een toeslag voor werknemers 
+die in 2020 tijdelijk werkloos werden gesteld;Gelet op het koninklijk besluit van 12 februari 
+2021 tot verlenging van de maatregelen genomen op vlak van werkloosheid in het kader van de strijd tegen 
+de verspreiding van het coronavirus COVID-19;Gelet op het advies van het beheerscomité van 
+de Rijksdienst voor Arbeidsvoorziening, gegeven op 25 februari 2021;Gelet op het advies van 
+de inspecteur van Financiën, gegeven op 1 maart 2021;Gelet op het akkoord van de Staatssecretaris 
+voor Begroting, gegeven op 20 april 2021;Gelet op artikel 8, § 2, 1° en 2°, van de wet 
+van 15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging is dit besluit 
+uitgezonderd van de regelgevingsimpactanalyse;Gelet op advies 69.263/1 van de Raad van State, 
+gegeven op 28 april 2021, met toepassing van artikel 84, § 1, eerste lid, 3°, van de gecoördineerde 
+wetten op de Raad van State;Gelet op de dringende noodzakelijkheid gemotiveerd door het feit 
+dat het coronavirus COVID-19 zich nog steeds verspreidt op Europees grondgebied en er in België dringende 
+maatregelen worden genomen om het risico voor de volksgezondheid te beperken;Dat het nodig 
+is om op te treden in de werkloosheidsreglementering, teneinde het mogelijk te maken om te reageren op 
+de toename van de tijdelijke en de volledige werkloosheid als gevolg van de coronavirus COVID-19-epidemie 
+of -pandemie en de gevolgen ervan op te vangen en teneinde snel maatregelen te kunnen nemen;Dat 
+de voormelde wetten van 9 juni 2020 tot invoering van een recht op uitkeringen bij tijdelijke werkloosheid 
+van gepensioneerden van 65 jaar omwille van het COVID-19-virus en van 15 juli 2020 tot verbetering van 
+de toestand van de werknemers in de culturele sector, evenals de voormelde koninklijke besluiten van 
+30 maart 2020, 23 april 2020, 22 juni 2020 en 20 januari 2021, onder meer maatregelen bevatten om het 
+inkomen van de tijdelijk werklozen en de volledig werklozen in deze periode op peil te houden, om de 
+procedures voor het aanvragen van uitkeringen als tijdelijk werkloze vereenvoudigen en om tijdelijk werkloze 
+werknemers en werklozen met bedrijfstoeslag toe te leiden naar een tijdelijke tewerkstelling in vitale 
+sectoren;Dat de situatie van dien aard blijft dat het verantwoord is om voor de betrokken tijdelijk 
+en volledig werkloze werknemers verder in deze maatregelen te voorzien tot 30 juni 2021;Dat 
+er ook voor de maanden april 2021 tot en met juni 2021 nood aanwezig blijft om de tewerkstelling in de 
+vitale sectoren te garanderen en dat deze maatregelen aldus bijdragen tot een blijvende economische productie 
+en de continuïteit van de dienstverlening waar dit onontbeerlijk is;Dat het verantwoord is 
+de door het voormelde koninklijk besluit van 20 januari 2021 aan sommige tijdelijk werklozen toegekende 
+toeslag onder dezelfde voorwaarden eveneens toe te kennen aan de volledig werkloze erkende havenarbeiders 
+en zeevissers, aangezien hun arbeidssituatie en de wijze waarop zij aanspraak maken op werkloosheidsuitkeringen 
+analoog is aan deze van met een doorlopende arbeidsovereenkomst tewerkgestelde werknemers;Dat 
+het nemen van deze maatregelen dringend is teneinde de betrokken werklozen de nodige rechtszekerheid 
+te bieden;Dat het eveneens aangewezen is te voorzien in de verlenging van de maatregel om de 
+continuïteit van de werking van de Rijksdienst voor Arbeidsvoorziening te garanderen op het vlak van 
+het nemen van beslissingen tot ontzegging, uitsluiting of schorsing van het recht op uitkeringen, nu 
+duidelijk is dat de daartoe bestaande procedure ingevolge dwingende adviezen of beperkende maatregelen 
+om de verspreiding van het coronavirus te vermijden ook na 30 april 2021 nog niet zal kunnen worden nageleefd 
+of nog niet zal aangewezen zijn;Op de voordracht van de Minister van Werk,Hebben 
+Wij besloten en besluiten Wij : Artikel 1. In artikel 16 van het koninklijk besluit van 30 
+maart 2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van het 
+COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging 
+van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde 
+besluit, gewijzigd bij koninklijke besluiten van 22 juni 2020, 15 juli 2020 en 22 december 2020, worden 
+de volgende wijzigingen aangebracht : 1° in het tweede lid, wordt het cijfer "8," geschrapt 
+en worden de woorden "maart 2021" vervangen door de woorden "juni 2021";2° in het derde lid 
+worden de woorden "maart 2021" vervangen door de woorden "juni 2021";3° in het vierde lid wordt 
+de datum "31 maart 2021" vervangen door de datum "30 juni 2021";4° in het vijfde lid worden 
+de woorden "maart 2021" vervangen door de woorden "juni 2021";5° tussen het vijfde en het zesde 
+lid wordt het als volgt luidende lid ingevoegd: "In afwijking van het eerste lid is artikel 
+8 van dit besluit van toepassing op de aanvraag om, de procedure betreffende en de toekenning van de 
+werkloosheidsuitkeringen die betrekking hebben op de maanden februari tot augustus 2020 en oktober 2020 
+tot maart 2021.". Art. 2.  In artikel 4 van het koninklijk besluit van 23 april 2020 tot het 
+tijdelijk versoepelen van de voorwaarden waaronder werklozen, al dan niet met bedrijfstoeslag, kunnen 
+worden tewerkgesteld in vitale sectoren en tot het tijdelijk bevriezen van de degressiviteit van de volledige 
+werkloosheidsuitkeringen, gewijzigd bij de koninklijke besluiten van 15 juli 2020, 27 september 2020, 
+13 december 2020 en 12 februari 2021, wordt de datum "28 februari 2021" vervangen door de datum "30 juni 
+2021".Art. 3.  In artikel 5 van hetzelfde besluit van 23 april 2020, gewijzigd bij de koninklijke 
+besluiten van 15 juli 2020, 27 september 2020, 13 december 2020 en 12 februari 2021, worden in het eerste 
+lid de woorden "met elf maanden" vervangen door de woorden "met vijftien maanden" en wordt in het tweede 
+en derde lid de datum "28 februari 2021" telkens vervangen door de datum "30 juni 2021". Art. 
+4.  In artikel 7 van het hetzelfde koninklijk besluit van 23 april 2020, gewijzigd bij de koninklijke 
+besluiten van 4 juni 2020, 15 juli 2020, 13 september 2020 en 13 december 2020, worden in de tweede zin 
+de woorden "31 maart 2021" vervangen door de woorden "30 juni 2021". Art. 5.  In artikel 1 
+van het koninklijk besluit van 22 juni 2020 betreffende diverse tijdelijke maatregelen in de werkloosheidsreglementering 
+omwille van het COVID-19-virus en tot wijziging van de artikelen 12 en 16 van het koninklijk besluit 
+van 30 maart 2020 tot aanpassing van de procedures in het kader van tijdelijke werkloosheid omwille van 
+het COVID-19-virus en tot wijziging van artikel 10 van het koninklijk besluit van 6 mei 2019 tot wijziging 
+van de artikelen 27, 51, 52bis, 58, 58/3 en 63 van het koninklijk besluit van 25 november 1991 houdende 
+de werkloosheidsreglementering en tot invoeging van de artikelen 36sexies, 63bis en 124bis in hetzelfde 
+besluit, gewijzigd bij de koninklijke besluiten van 15 juli 2020 en 22 december 2020, wordt de datum 
+"31 maart 2021" vervangen door de datum "30 juni 2021". Art. 6.  In artikel 2 van hetzelfde 
+koninklijk besluit van 22 juni 2020, gewijzigd bij de koninklijke besluiten van 15 juli 2020 en 22 december 
+2020, wordt de datum "31 maart 2021" vervangen door de datum "30 juni 2021". Art. 7.  In artikel 
+4 van hetzelfde koninklijk besluit van 22 juni 2020, gewijzigd bij de koninklijke besluiten van 15 juli 
+2020 en 22 december 2020, wordt de datum "31 maart 2021" vervangen door de datum "30 juni 2021". Art. 
+8. In artikel 5 van hetzelfde koninklijk besluit van 22 juni 2020, gewijzigd bij de koninklijke besluiten 
+van 15 juli 2020 en 22 december 2020, wordt de datum "30 april 2021" vervangen door de datum "31 augustus 
+2021". Art. 9. In artikel 14 van het koninklijk besluit van 15 juli 2020 tot verlenging van 
+de maatregelen genomen op vlak van werkloosheid in het kader van de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (I), gewijzigd bij koninklijk besluit van 22 december 2020, wordt de datum "31 
+maart 2021" vervangen door de datum "30 juni 2021". Art. 10. In artikel 2 van de wet van 15 
+juli 2020 tot verbetering van de toestand van de werknemers in de culturele sector, gewijzigd bij het 
+koninklijk besluit van 22 december 2020, wordt de datum "31 maart 2021" vervangen door de datum "30 juni 
+2021". Art. 11.  In artikel 4, eerste en tweede lid, van dezelfde wet van 15 juli 2020, gewijzigd 
+bij het koninklijk besluit van 22 december 2020, wordt de datum "31 maart 2021" driemaal vervangen door 
+de datum "30 juni 2021". Art. 12. In artikel 5 van dezelfde wet van 15 juli 2020, gewijzigd 
+bij het koninklijk besluit van 22 december 2020, wordt de datum "31 maart 2021" vervangen door de datum 
+"30 juni 2021". Art. 13. In artikel 6, tweede lid, van dezelfde wet van 15 juli 2020, gewijzigd 
+bij het koninklijk besluit van 22 december 2020, wordt de datum "1 april 2021" vervangen door de datum 
+"1 juli 2021". Art. 14. In artikel 8, eerste lid, van dezelfde wet van 15 juli 2020, gewijzigd 
+bij het koninklijk besluit van 22 december 2020, wordt de datum "1 april 2021" vervangen door de datum 
+"1 juli 2021". Art. 15. In artikel 1 van het koninklijk besluit van 20 januari 2021 betreffende 
+het toekennen van een toeslag voor werknemers die in 2020 tijdelijk werkloos werden gesteld worden de 
+volgende wijzigingen aangebracht : 1° de bepalingen onder 2°/1 worden ingevoegd, luidende : 
+"2°/1 de volledig werkloze: de werknemer bedoeld in artikel 28, § 3, van het werkloosheidsbesluit, 
+met uitzondering van de werknemer van wie op basis van de regels die bij collectieve arbeidsovereenkomst 
+zijn vastgelegd, werd vastgesteld dat hij verminderd arbeidsgeschikt is voor het beroep dat hij normaal 
+uitoefent;";2° de bepalingen onder 4°/1 worden ingevoegd, luidende : "4°/1 Z: het 
+aantal volle uitkeringen in het zesdagenstelsel dat de volledig werkloze in de periode van maart 2020 
+tot november 2020 heeft genoten in toepassing van de artikelen 74 en 100 van het werkloosheidsbesluit. 
+De halve uitkeringen in toepassing van artikel 74 worden opgeteld, waarbij twee halve uitkeringen gelijk 
+zijn aan één volle uitkering;".Art. 16. In artikel 2 van hetzelfde koninklijk besluit 20 januari 
+2021 wordt een paragraaf 3/1 ingevoegd, luidende : " § 3/1. De werknemer die tijdens 
+de periode van maart 2020 tot november 2020 minstens 53 volle uitkeringen als volledig werkloze heeft 
+genoten, heeft recht op een toeslag bij de werkloosheidsuitkeringen voor de laatste maand van 2020 waarvoor 
+hij op het ogenblik van de eerste betaling van de toeslag al volledige werkloosheidsuitkeringen heeft 
+genoten, waarvan het bedrag wordt verkregen door toepassing van de volgende formule : (Z - 
+52) * 10Het bedrag mag evenwel niet lager zijn dan 150 euro.". Art. 17. In artikel 
+3, tweede lid, van hetzelfde koninklijk besluit 20 januari 2021, worden de woorden "of volledig" ingevoegd 
+tussen het woord "tijdelijk" en het woord "werkloze". Art. 18. In artikel 5 van hetzelfde koninklijk 
+besluit van 20 januari 2021 wordt een tweede lid ingevoegd, luidende : "De betalingen van deze 
+voorlopige toeslag worden beschouwd als bijkomende ingediende gevallen, bovenop de gevallen die zijn 
+vastgelegd in artikel 2 van het koninklijk besluit van 16 september 1991 tot vaststelling van de vergoedingen 
+voor administratiekosten van de uitbetalingsinstellingen belast met de uitbetaling van werkloosheidsuitkeringen.". 
+Art. 19. In artikel 6, tweede lid, van hetzelfde koninklijk besluit van 20 januari 2021 worden 
+de woorden "of volledig" ingevoegd tussen het woord "tijdelijk" en het woord "werkloze". Art. 
+20. Dit besluit heeft uitwerking met ingang van 31 maart 2021.In afwijking van het eerste lid, 
+hebben de artikelen 2 en 3 uitwerking vanaf 28 februari 2021.In afwijking van het eerste lid, 
+hebben de artikelen 15, 16, 17, 18 en 19 uitwerking vanaf 1 december 2020. Art. 21. De minister 
+bevoegd voor Werk is belast met de uitvoering van dit besluit.Gegeven te Brussel, 2 mei 2021. 
+FILIPVan Koningswege : De Minister van Werk,P.-Y. DERMAGNE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-07Numac : 2021202178
+

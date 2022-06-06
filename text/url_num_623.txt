@@ -1,0 +1,529 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/24/2021042531/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021042531
+BRUSSELS HOOFDSTEDELIJK GEWEST 
+ 24 JUNI 2021. - Besluit van de Brusselse Hoofdstedelijke Regering tot uitvoering van de ordonnantie van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure 
+De Brusselse Hoofdstedelijke 
+Regering,Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, artikel 
+20;Gelet op de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse Instellingen, 
+artikel 8;Gelet op de ordonnantie van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure, 
+de artikelen 6, 8, 17, 19, 22, 25, 31, 42, 51, 68, 69, 72, 80, 107, 109, 115, 118, 119, 120, 121, 122, 
+123 en 145;Gelet op de gelijke kansentest die overeenkomstig artikel 2 van de ordonnantie van 
+4 oktober 2018 tot invoering van de gelijkekansentest werd uitgevoerd op 15 januari 2019 ;Gelet 
+op het advies van de Inspectie van Financiën, gegeven op 18 maart 2019;Gelet op het akkoord 
+van de Minister van Begroting van het Brussels Hoofdstedelijk Gewest van 2 april 2019;Gelet 
+op het advies nr. 66.164/4 van de Raad van State, gegeven op 19 juni 2019, met toepassing van artikel 
+3, § 1 en artikel 84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Overwegende de geformuleerde opmerking door de Raad van State in zijn advies 
+66.164/4, waarbij de Regering wordt uitgenodigd om overeenkomstig artikel 36, lid 4 van de verordening 
+(EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van 
+natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer 
+van die gegevens en tot intrekking van Richtlijn 95/46/EG, het advies van de Gegevensbeschermingsautoriteit 
+te vragen;Overwegende dat deze opmerking van de Raad van State over bepaalde artikelen zonder 
+voorwerp is geworden als gevolg van het feit dat deze artikelen zijn weggelaten uit het voorontwerp van 
+besluit dat het huidige besluit is geworden, waarbij deze artikelen werden opgenomen in de besluiten 
+van de Brusselse Hoofdstedelijke Regering van 26 maart 2020 waarover de Gegevensbeschermingsautoriteit 
+het advies 24/2020 van 13 maart 2020 uitbracht;Overwegende dat artikel 55 van dit besluit, 
+in de mate waarin dit artikel er zich toe beperkt om artikel 121 van de Codex uit te voeren zonder bijkomende 
+preciseringen aan te brengen met betrekking tot mogelijkse behandeling van persoonsgegevens uitgevoerd 
+door de gewestelijke fiscale administratie, geen betrekking heeft op een verwerking van persoonsgegevens 
+in de zin van artikel 36, paragraaf 4 van de verordening (EU) 2016/679 van het Europees Parlement en 
+de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking 
+van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 
+95/46/EG;Overwegende dat de wetgeving betreffende dergelijke verwerkingen rechtstreeks is vervat 
+in de bepalingen op grond van de belastingen waarvan de procedureregels bij de ordonnantie van 6 maart 
+2019 betreffende de Brusselse Codex Fiscale Procedure zijn vastgesteld;Overwegende dat er bijgevolg 
+geen reden is om het advies van de Gegevensbeschermingsautoriteit te vragen voor de opstelling van dit 
+besluit;Overwegende de organieke ordonnantie van 23 februari 2006 houdende de bepalingen die 
+van toepassing zijn op de begroting, de boekhouding en de controle;Op voorstel van de Minister 
+van Financiën en Begroting, na beraadslaging,Besluit :TITEL 1. - Algemene bepalingenArtikel 
+1. Dit besluit wordt aangehaald als: besluit Brusselse Codex Fiscale Procedure.Art. 2. In het 
+kader van de toepassing van dit besluit dienen de hiernavolgende bepalingen als volgt te worden begrepen:1° 
+ de Codex: de ordonnantie van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure;2° 
+ de Minister: de minister bevoegd voor Financiën;3°  de gewestelijke fiscale administratie 
+: de Gewestelijke Overheidsdienst Brussel Fiscaliteit.TITEL 2. - Fiscale procedure HOOFDSTUK 
+1. - AangiftesArt. 3. Het aangifteformulier wordt ter beschikking gesteld van de belastingplichtige 
+door de gewestelijke fiscale administratie:- ofwel per gewone briefwisseling;- ofwel 
+per elektronische weg via het platform aangeduid door de gewestelijke fiscale administratie.Art. 
+4. De aangifte wordt gedaan op een formulier waarvan het model door de Minister werd vastgesteld. Zij 
+moet worden teruggestuurd aan de gewestelijke fiscale administratie:- als de verzending gebeurde 
+per gewone briefwisseling, aan het adres vermeld op het formulier ;- als de verzending gebeurde 
+op de manier bedoeld in artikel 8, § 2, van de Codex, via het platform aangeduid door de gewestelijke 
+fiscale administratie.HOOFDSTUK 2. - Vestiging van de belastingAfdeling 1. - KohierenArt. 
+5. De aanslagen worden op naam van de betrokken belastingplichtigen ingekohierd.Aanslagen ten 
+laste van overleden belastingplichtigen worden ingekohierd op hun naam voorafgegaan van het woord "Nalatenschap".Als 
+het voorwerp van een belasting in onverdeeldheid toebehoort aan meerdere eigenaars, wordt de belasting 
+ingekohierd op naam van één of meer mede-eigenaars, gevolgd door de woorden "in onverdeeldheid".Art. 
+6. Voor de berekening van de belastingen en hun toebehoren wordt de belastbare basis in euro vastgesteld 
+en afgerond tot de bovenste cent of tot de lagere cent naargelang het duizendste van een euro het getal 
+vijf al dan niet bereikt.Art. 7. De verschillende belastingen, met inbegrip van de opcentiemen, 
+worden in elke fase van de berekening in euro vastgesteld en afgerond tot de bovenste cent of tot de 
+lagere cent naargelang het duizendste van een euro het getal vijf al dan niet bereikt.Afdeling 
+2. - AanslagbiljetArt. 8.  § 1. Wanneer de belastingplichtige uitdrukkelijk akkoord 
+gaat met de werkwijze uiteengezet in artikel 19, tweede lid van de Codex, dan wordt zijn aanslagbiljet 
+en zijn eventuele herinneringen ter beschikking gesteld via het platform aangeduid door de gewestelijke 
+fiscale administratie. § 2. De belastingplichtige die uitdrukkelijk akkoord gaat met 
+de in paragraaf 1 vermelde werkwijze is ertoe gehouden om een persoonlijk e-mailadres te verstrekken 
+via het platform aangeduid door de gewestelijke fiscale administratie.Het in het eerste lid 
+bedoelde e-mailadres wordt door de gewestelijke fiscale administratie aangewend om een informatieve boodschap 
+te versturen die melding maakt dat er een document bedoeld in artikel 19 van de Codex beschikbaar is 
+op het platform ter beschikking gesteld door de gewestelijke fiscale administratie. § 
+3. Na datum van herroeping van het akkoord of de datum van overlijden worden de documenten bedoeld in 
+artikel 19 van de Codex terug onder gesloten omslag aan de belastingplichtige overgemaakt.Art. 
+9.  § 1. In geval van gezamenlijke heffing, moet het akkoord bedoeld in artikel 8, § 1, 
+gegeven worden door elke echtgenoot of wettelijk samenwonende.In het geval bedoeld in het eerste 
+lid, ontvangt elke echtgenoot of wettelijk samenwonende het aanslagbiljet en de eventuele herinneringen. 
+§ 2. De louter elektronische terbeschikkingstelling van het aanslagbiljet en de eventuele herinneringen, 
+wordt in het geval van gezamenlijke heffing beëindigd wanneer :1°  beide echtgenoten of wettelijk 
+samenwonenden zijn overleden;2°  één echtgenoot of wettelijk samenwonende zijn akkoord herroept;3° 
+ de echtgenoten of wettelijk samenwonenden feitelijk gescheiden zijn;4°  de scheiding is overgeschreven 
+in de registers van de burgerlijke stand na 1 januari van het aanslagjaar;5°  De wettelijke 
+samenwoning ten einde komt bij toepassing van artikel 1476 van het Burgerlijk Wetboek na 1 januari van 
+het aanslagjaar.Vanaf dit moment wordt het aanslagbiljet en de eventuele herinneringen uitsluitend 
+onder gesloten omslag aan de belastingplichtige overgemaakt.Afdeling 3. - HoofdelijkhedenArt. 
+10. De belastingplichtige die, overeenkomstig artikel 25 van de Codex, moet overgaan tot een kennisgeving 
+aan de bevoegde agent kan deze kennisgeving uitvoeren per gewone briefwisseling of per e-mail op het 
+door de gewestelijke fiscale administratie bepaalde adres.HOOFDSTUK 3. - Betaling van de belastingArt. 
+11. De belastingen en hun toebehoren moeten worden betaald op de bankrekening meegedeeld door de bevoegde 
+agent.Behoudens tegenbewijs gelden als bewijs van betaling voor overschrijvingen, de rekeninguittreksels 
+en erbij horende stukken.Art. 12. De betaling van de belastingen en hun toebehoren hebben uitwerking:1° 
+ voor de betalingsmiddelen bedoeld in artikel 11, op de datum waarop de bankrekening van de gewestelijke 
+fiscale administratie werd gecrediteerd;2°  voor de in artikel 35, tweede lid van de Codex 
+vermelde betalingen, op datum van afgifte van de fondsen in handen van de gerechtsdeurwaarder.HOOFDSTUK 
+4. - InvorderingAfdeling 1. - ZekerhedenArt. 13. De in artikel 42 van de Codex bedoelde 
+waarborg wordt door de bevoegde agent vastgelegd. Het bedrag moet gelijk zijn aan het vermoedelijke bedrag 
+van de verplichtingen over één jaar die aan de betrokken natuurlijke of rechtspersoon kunnen worden opgelegd. 
+Het voormelde bedrag wordt evenwel berekend na aftrek van de netto verkoopwaarde van zijn goederen die 
+het pand van het Gewest vormen en die gelegen zijn:a) in België;b) in een land waarmee 
+België een overeenkomst heeft gesloten tot regeling van wederzijdse bijstand inzake de invordering van 
+de belastingen waaraan de belanghebbende is onderworpen;c) in een land dat onder de toepassing 
+valt van Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzijdse bijstand inzake 
+de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten, en andere maatregelen.De 
+waarborg mag evenwel in geen geval minder dan 750 euro bedragen.Art. 14. De te verstrekken 
+waarborg bestaat hetzij uit een zakelijke zekerheid in de vorm van een borgtocht in geld of in overheidsfondsen 
+of van een hypotheekvestiging, hetzij uit een persoonlijke borgstelling.De bevoegde agent mag 
+andere wijzen van waarborgstelling aanvaarden.Indien nodig mogen de voormelde wijzen gelijktijdig 
+worden aangewend om de totale zekerheid te verstrekken.Art. 15. De onroerende goederen die 
+als hypothecaire waarborg worden aangeboden, moeten in België gelegen zijn.Betreft het gebouwd 
+onroerend goed, dan wordt vóór de aanneming van de hypothecaire aanwending bewijs gegeven van voldoende 
+verzekering tegen brand. In de akte moet worden vermeld dat de regelmatige betaling van de verzekeringspremie 
+jaarlijks zal worden bewezen op straffe van verval van de aanneming.In alle gevallen wordt 
+bewijs gegeven van de eigendom en van de hypothecaire staat van het onroerend goed en wordt de waarde 
+daarvan, op kosten van de belastingplichtige, vastgelegd door alle middelen die voldoening schenken, 
+onder meer door een schatting van een algemeen als bevoegd erkende deskundige, als de bevoegde agent 
+dit eist.Art. 16. Borgtochten in geld worden gestort of overgeschreven op de rekening op naam 
+van de Deposito- en Consignatiekas. In alles, en inzonderheid met betrekking tot de interest die aan 
+de deponent verschuldigd is, worden zij met deposito's bij de Deposito- en Consignatiekas gelijkgesteld.Art. 
+17. Gedematerialiseerde effecten ingeschreven op een effectenrekening bij een vereffeningsinstelling 
+of een erkende rekeninghouder die gemachtigd is dergelijke effecten bij te houden worden geblokkeerd 
+door de bevoegde agent; in die rekening wordt een vermelding aangebracht dat deze effecten niet zonder 
+geschreven toestemming van de bevoegde agent mogen worden vervreemd of te gelde gemaakt.Art. 
+18. De persoonlijke borg moet volgens de Belgische wet bekwaam zijn om verbintenissen aan te gaan en 
+aangenomen worden door de bevoegde agent.Art. 19. Als de zakelijke zekerheid of de solvabiliteit 
+van de persoonlijke borg wegens enige oorzaak zoals waardevermindering van de tot zekerheid dienende 
+onroerende goederen of overheidsfondsen of merkelijke vermindering van het fortuin van de borg onvoldoende 
+wordt geacht, is de belastingplichtige op het eerste verzoek van de bevoegde agent gehouden een nieuwe 
+zakelijke zekerheid of een nieuwe persoonlijke borg te stellen.Afdeling 2. - VervolgingenOnderafdeling 
+1. - Algemene bepalingenArt. 20. De bepalingen betreffende de inhoud en de betekening van exploten 
+zijn van toepassing op de akten van gerechtelijke vervolgingen inzake gewestelijke belastingen.Onderafdeling 
+2. - Rechtstreekse vervolgingenArt. 21. De rechtstreekse vervolgingen omvatten:1° 
+ het dwangbevel;2°  het uitvoerend beslag op roerend goed;3°  het beslag op tak- 
+en wortelvaste vruchten;4°  het uitvoerend beslag op zeeschepen en binnenschepen;5° 
+ het uitvoerend beslag op onroerend goed.Die vervolgingen zijn gerechtelijk en hun geldigverklaring 
+behoort tot de bevoegdheid van de gewone rechtbanken.Art. 22. Ingeval een belastingplichtige 
+zijn belastingen niet heeft voldaan binnen de termijnen van artikel 32 van de Codex, doet de bevoegde 
+agent hem een dwangbevel betekenen tot betaling binnen 24 uren, op straffe van tenuitvoerlegging door 
+beslag.Art. 23. Als gevolg van de betekening van een dwangbevel gedane gedeeltelijke betalingen 
+verhinderen niet de voortzetting van de vervolgingen.Art. 24. Als de termijn bedoeld in artikel 
+22,verstreken is, gaat de bevoegde agent over tot uitvoerend beslag op roerend goed.Art. 25. 
+Tegenover belastingplichtigen die door wegneming van roerende voorwerpen of anderszins pogen de waarborgen 
+van het Gewest te doen verdwijnen of gewoon te verminderen, kan de bevoegde agent rechtstreeks uitvoerend 
+beslag op roerend goed doen leggen zonder voorafgaande betekening van een dwangbevel.In dat 
+geval behelst het exploot van inbeslagneming het dwangbevel vóór beslag en bevat het de gronden voor 
+het niet vooraf betekenen van een dwangbevel.Art. 26. Het is de bevoegde agenten verboden, 
+rechtstreeks of onrechtstreeks enig voorwerp, waarvan zij de verkoop bewerkstelligen, te kopen of voor 
+zich te doen kopen op straffe van nietigheid van de verkoop en van ontzetting uit hun ambt.Art. 
+27. Als geen andere schuldeisers beslag of verzet hebben gedaan, wordt de bruto-opbrengst van de verkoop 
+gestort in handen van de gewestelijke fiscale administratie.De gerechtsdeurwaarder trekt evenwel 
+eerst de vervolgingskosten af die hem toekomen.Als andere schuldeisers beslag of verzet hebben 
+gedaan, voert de gerechtsdeurwaarder de evenredige verdeling uit op de wijze, bepaald in de artikelen 
+1627 tot en met 1638 van het Gerechtelijk Wetboek.Art. 28. De gewestelijke fiscale administratie 
+rekent de hem gestorte sommen aan volgens de regels, vermeld in artikel 36 van de Codex en betaalt aan 
+de belastingplichtige het eventuele overschot terug.Onderafdeling 3. - Onrechtstreekse vervolgingenArt. 
+29.  § 1. De bevoegde agent kan, bij een aangetekende brief, uitvoerend beslag onder derden leggen 
+op de aan een belastingplichtige verschuldigde of toebehorende sommen en zaken, tot beloop van het bedrag, 
+geheel of gedeeltelijk, dat door deze laatste verschuldigd is uit hoofde van de belastingen en hun toebehoren.Dat 
+beslag heeft uitwerking vanaf de overhandiging van het stuk aan de geadresseerde. § 
+2. Vanaf de datum van de inwerkingtreding van het akkoord dat hiervoor tussen de derde-beslagene en de 
+gewestelijke fiscale administratie wordt gesloten, kan de bevoegde agent het in de eerste paragraaf bedoelde 
+beslag onder derden leggen door middel van een procedure waarbij informaticatechnieken gebruikt worden.Het 
+akkoord blijft van toepassing zolang de derde-beslagene het niet uitdrukkelijk bij een aangetekende brief 
+heeft opgezegd. De opzegging gaat in vanaf de eerste dag van de derde maand volgend op de ontvangst van 
+de kennisgeving ervan door de gewestelijke fiscale administratie.In de gevallen waarin gebruik 
+wordt gemaakt van de mogelijkheid bedoeld in het eerste lid, heeft het beslag onder derden uitwerking 
+vanaf de datum van ontvangstmelding van het beslag onder derden door de derde-beslagene.Wanneer 
+eenzelfde beslag onder derden achtereenvolgens wordt gelegd volgens de procedures voorzien respectievelijk 
+in het eerste lid en de eerste paragraaf, eerste lid, zal het beslag onder derden gelegd overeenkomstig 
+de eerste paragraaf, eerste lid, slechts primeren indien de overhandiging van het stuk aan de geadresseerde 
+zoals bepaald in de eerste paragraaf, tweede lid, de datum van ontvangstmelding van het beslag door de 
+derde-beslagene zoals bepaald in het derde lid, voorafgaat.De informatie opgenomen in de eerste 
+en tweede paragraaf bedoelde kennisgeving van het beslag, is dezelfde, ongeacht of ze wordt meegedeeld 
+door middel van een procedure waarbij informaticatechnieken wordt gebruikt of door een aangetekende brief.De 
+oorsprong en de integriteit van de inhoud van de in de tweede paragraaf bedoelde kennisgeving van het 
+beslag moeten, in geval van verzending door middel van een procedure waarbij informaticatechnieken worden 
+gebruikt, worden verzekerd door middel van aangepaste beveiligingstechnieken.Opdat de kennisgeving 
+van het beslag op geldige wijze als beslag onder derden zou gelden, moet een digitaal certificaat worden 
+gebruikt.Ongeacht de toegepaste techniek, wordt er gegarandeerd dat enkel de gerechtigde personen 
+toegang hebben tot de middelen waarmee het digitaal certificaat wordt gecreëerd.De gevolgde 
+procedures moeten bovendien toelaten dat de natuurlijke persoon die verantwoordelijk is voor de verzending 
+correct kan worden geïdentificeerd en dat het tijdstip van de verzending correct kan worden vastgesteld. 
+§ 3. Het beslag onder derden wordt eveneens bij aangetekende brief aan de belastingplichtige aangezegd. 
+Indien de belastingplichtige geen gekende woonplaats meer heeft, geschiedt de aanzegging van het beslag 
+bij aangetekende brief aan de procureur des Konings te Brussel.De belastingplichtige kan tegen 
+het beslag onder derden bij aangetekende brief verzet aantekenen bij de bevoegde agent binnen de vijftien 
+dagen te rekenen vanaf de zevende dag die volgt op de afgifte van de aanzegging van het beslag bij de 
+aanbieder van de universele postdienst. De belastingplichtige moet binnen dezelfde termijn bij aangetekende 
+brief de derde-beslagene inlichten.Wanneer het beslag slaat op inkomsten bedoeld in de artikelen 
+1409, §§ 1 en 1bis, en 1410 van het Gerechtelijk Wetboek, bevat de aanzegging, op straffe 
+van nietigheid, het aangifteformulier voor kind ten laste volgens het model, vermeld in artikel 1409ter, 
+§ 1, eerste lid van het Gerechtelijk Wetboek. § 4. Het in paragrafen 1 en 2 bedoelde 
+beslag onder derden geeft aanleiding tot het opmaken en het verzenden, door de bevoegde agent, van een 
+bericht van beslag zoals bedoeld in artikel 1390 van het Gerechtelijk Wetboek. § 5. 
+Onder voorbehoud van het bepaalde in paragrafen 1, 2 en 3, zijn op dit beslag de bepalingen toepasselijk 
+van de artikelen 1539, 1540, 1542, eerste en tweede lid, en 1543 van het Gerechtelijk Wetboek, met dien 
+verstande dat:1°  de derde-beslagene zijn verklaring van de sommen of zaken die het voorwerp 
+zijn van het beslag eveneens door middel van een procedure waarbij informaticatechnieken gebruikt worden 
+aan de bevoegde agent kan doen indien het beslag onder derden volgens de procedure bepaald in de tweede 
+paragraaf, eerste lid, werd gelegd; in dit geval is de datum van de verklaring van de sommen of zaken 
+die het voorwerp zijn van het beslag de ontvangstdatum meegedeeld door de gewestelijke fiscale administratie;2° 
+ de derde-beslagene er overeenkomstig artikel 1543 van het Gerechtelijk Wetboek toe gehouden is op overlegging 
+van een afschrift van de aanzegging van het beslag, afgifte te doen van het bedrag van het in de derde 
+paragraaf, eerste lid, bedoelde beslag. Wanneer het beslag onder derden wordt gelegd volgens de in de 
+tweede paragraaf, eerste lid, voorziene procedure, wordt de overlegging van een afschrift van de aanzegging 
+van het beslag geacht te zijn vervuld door de mededeling aan de derde-beslagene van de datum van de afgifte 
+van de aanzegging van het beslag bij de aanbieder van de universele postdienst. In dat geval gebeurt 
+de mededeling eveneens door middel van een procedure waarbij informaticatechnieken gebruikt worden;3° 
+ de afgifte van het bedrag van het beslag geschiedt in handen van de bevoegde agent. § 
+6. De kosten voor de aangetekende brieven beoogd in de voorafgaande paragrafen zijn ten laste van de 
+belastingplichtige. § 7. De belastingplichtige wordt op de hoogte gebracht van de bestemming 
+van de betalingen en van het saldo na de betalingen. § 8. Met als enig doel de bepalingen, 
+bedoeld in dit artikel, uit te voeren, kan de beslagen belastingplichtige worden geïdentificeerd aan 
+de hand van:1°  het identificatienummer, vermeld in artikel III.17 van het Wetboek van economisch 
+recht; of2°  het rijksregisternummer; of3°  het identificatienummer, vermeld in artikel 
+8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale 
+zekerheid.Art. 30. Het uitvoerend beslag onder derden moet geschieden door middel van een gerechtsdeurwaardersexploot 
+op de wijze bepaald in de artikelen 1539 tot en met 1544 van het Gerechtelijk Wetboek, wanneer blijkt 
+:1°  dat de belastingplichtige zich verzet tegen het in artikel 29, §§ 1 en 2, 
+bedoelde beslag;2°  dat de derde-beslagene zijn schuld tegenover de belastingplichtige betwist;3° 
+ dat de sommen en zaken het voorwerp zijn van een verzet of beslag onder derden vóór het in artikel 29, 
+§§ 1 en 2, bedoelde beslag gedaan door andere schuldeisers;4°  dat de zaken te 
+gelde moeten worden gemaakt.In deze gevallen blijft het door de bevoegde agent, overeenkomstig 
+artikel 29, §§ 1 en 2, gelegd beslag onder derden zijn bewarend effect behouden wanneer 
+de bevoegde agent een uitvoerend beslag onder derden bij gerechtsdeurwaardersexploot legt in de handen 
+van derden zoals bepaald bij artikel 1539 van het Gerechtelijk Wetboek, binnen een maand na :- 
+ofwel de afgifte bij de aanbieder van de universele postdienst van het verzet van de belastingplichtige 
+als bepaald bij artikel 29, § 3, tweede lid, of van de verklaring als bepaald bij artikel 1452 
+van het Gerechtelijk Wetboek;- ofwel de ontvangstmelding van deze verklaring indien zij werd 
+verzonden door middel van een procedure waarbij informaticatechnieken gebruikt worden zoals bepaald bij 
+artikel 29, § 5.Onderafdeling 4. - Met de vervolgingen belaste personenArt. 
+31. De vervolgingen inzake de gewestbelastingen worden ingesteld door gerechtsdeurwaarders of de bevoegde 
+agenten.Zij betekenen in die hoedanigheid de dwangbevelen en doen de beslagleggingen en de 
+verkopingen.Uit hoofde van de uitoefening van de vervolgingen inzake de gewestbelastingen, 
+mogen gerechtsdeurwaarders geen aanspraak maken op hogere of andere rechten of kosten dan die welke in 
+artikel 33 vastgesteld zijn, op straffe van terugbetaling, schadevergoeding en interesten.Art. 
+32. In geen geval en onder geen enkel voorwendsel, mogen de bevoegde agenten, op straffe van ontzetting, 
+enigerlei som van de belastingplichtigen aannemen, noch als loon, noch ten betaling van belastingen.De 
+belastingplichtige die aan hen geld zou toevertrouwen, stelt zich eraan bloot tweemaal te moeten betalen.Onderafdeling 
+5. - VervolgingskostenArt. 33. De vervolgingskosten worden bepaald volgens de regels die gelden 
+voor de akten van de gerechtsdeurwaarders in burgerlijke en handelszaken.Art. 34. De vervolgingskosten 
+vallen ten laste van de belastingplichtigen.Die kosten komen volledig toe aan de gerechtsdeurwaarders. 
+Ze komen aan het Gewest toe, voor vervolgingen die door de bevoegde agenten zijn gedaan.Art. 
+35. Ter vereffening worden niet aanvaard :1°  kosten van akten die niet met de oorspronkelijke 
+stukken gestaafd zijn;2°  kosten die het gevolg zijn van vervolgingen die willekeurig, zonder 
+dwangbevel of in een met deze reglementering strijdige orde gedaan zijn;3°  kosten gedaan tegen 
+kennelijk onvermogende belastingplichtigen.HOOFDSTUK 5. - Informatieverplichtingen van derdenArt. 
+36. De bevoegde agent is gemachtigd om overtredingen op te sporen en om, zelfs alleen, processen-verbaal 
+inzake gewestelijke belastingen op te stellen.Art. 37. Het attest vermeld in artikel 68 van 
+de Codex wordt uitgereikt nadat de belanghebbende natuurlijke of rechtspersoon een aanvraag, in drie 
+exemplaren heeft ingediend. De aanvraag en het attest worden opgesteld volgens het model vastgesteld 
+door de directeur-generaal van de gewestelijke fiscale administratie.Het attest wordt uitgereikt 
+binnen 8 dagen na de indiening van de aanvraag.Art. 38. Per krediet, lening of voorschot, waarvoor 
+een voordeel inzake economische expansie is aangevraagd, moeten de kredietinstellingen en -inrichtingen, 
+alsook de administraties, openbare instellingen of organisaties die subsidies toekennen voor een bedrag 
+hoger dan 2.000 euro vermeld in artikel 68 van de Codex, in principe, in het bezit zijn van slechts één 
+attest.De datum van de uitreiking van dat attest mag niet vroeger zijn dan één maand vóór de 
+datum van de aanvraag tot verkrijging van het voordeel, noch later dan deze datum.Er moet evenwel 
+een nieuw attest worden voorgelegd wanneer de beslissing tot toekenning van het voordeel niet is genomen 
+binnen zes maanden te rekenen van de datum van het attest.Art. 39. Een exemplaar van het attest 
+vermeld in artikel 68 van de Codex wordt door de bevoegde agent gezonden aan de overheid vermeld in de 
+aanvraag van het attest.Als uit het attest blijkt dat het bedrag van één of meerdere belastingen, 
+al dan niet de toebehoren, verschuldigd is door de natuurlijke persoon of rechtspersoon die een voordeel 
+inzake economische expansie heeft aangevraagd, bepaalt de beslissing tot toekenning van het voordeel 
+dat de kredietinstelling of -inrichting, of de administraties, openbare instellingen of organisaties 
+die subsidies toekennen voor een bedrag hoger dan 2.000 euro de fondsen niet geheel mag vrijgeven tenzij 
+de belanghebbende zijn belastingschuld heeft betaald.Art. 40.  § 1. Als uit het uitgereikte 
+attest dat aan de kredietinstelling of -inrichting, of de administraties, openbare instellingen of organisaties 
+die subsidies toekennen voor een bedrag hoger dan 2.000 euro wordt overgelegd blijkt dat een bedrag als 
+belastingen of hun toebehoren verschuldigd in hoofde van de natuurlijke persoon of rechtspersoon aan 
+wie een krediet, lening of voorschot is verleend waarvoor een voordeel inzake economische expansie is 
+aangevraagd, worden de fondsen die afkomstig zijn van het krediet, de lening of het voorschot ten belope 
+van dat bedrag niet vrijgegeven, op voorwaarde dat de belanghebbende natuurlijke persoon of rechtspersoon 
+een attest overlegt waarin de bevoegde agent verklaart dat die belastingen en toebehoren betaald zijn.Met 
+instemming van de belastingplichtige mag de kredietinstelling of -inrichting deze fondsen evenwel rechtstreeks 
+overmaken aan het bevoegde ontvangkantoor. § 2. In het geval vermeld in artikel 38, 
+derde lid, moet de kredietinstelling of -inrichting met de gegevens van het nieuwe attest slechts rekening 
+houden in zover de fondsen nog niet zijn vrijgegeven vóór het verstrijken van de in die bepaling vermelde 
+termijn van zes maanden.HOOFDSTUK 6. - SanctiesAfdeling 1. - Verlies van het recht 
+op vertegenwoordigingArt. 41. In het kader van de procedure bedoeld in artikel 80 van de Codex, 
+kan de lasthebber zich door een advocaat laten bijstaan.Proces-verbaal van het verhoor, zoals 
+bedoeld in artikel 80, tweede lid van de Codex, wordt opgesteld. Het proces-verbaal wordt na lezing, 
+ondertekend door de bevoegde agent en de lasthebber. Hun handtekening wordt voorafgegaan door de handgeschreven 
+vermelding: "Gelezen en goedgekeurd". Indien de belanghebbende weigert om te ondertekenen, dan wordt 
+daarvan melding gemaakt in het proces-verbaal met precisering van de redenen van weigering.Een 
+gewaarmerkte kopie van het proces-verbaal wordt ter kennis gebracht aan de lasthebber binnen de acht 
+dagen na deze datum.Afdeling 2. - Administratieve sanctiesArt. 42. De persoon aan 
+wie een administratieve boete werd opgelegd in toepassing van Titel 2, Hoofdstuk 6, Afdeling 2 van de 
+Codex kan schriftelijk zijn opmerkingen overmaken overeenkomstig de procedure van het prejudiciair beroep 
+bedoeld in artikel 101 van de Codex.In het kader van het prejudiciair beroep kan, indien de 
+persoon dit wenst, in het voorkomend geval via zijn vertegenwoordiger of met de hulp van de gekozen persoon 
+om te assisteren, gevraagd worden om gehoord te worden. Binnen de 30 dagen vanaf de ontvangst van het 
+beroep door de gewestelijke fiscale administratie, bezorgt deze aan de overtreder de datum en plaats 
+van de gevraagde hoorzitting.TITEL 3. - Samenwerking tussen het Gewest en de gemeentenHOOFDSTUK 
+1. - Gemeentelijke opcentiemen op de gewestelijke belastingenArt. 43.  § 1. Het college 
+van burgemeester en schepenen van de gemeente die de dienst van de gemeentelijke opcentiemen wenst te 
+laten overnemen door het Gewest dient hiervoor de directeur-generaal van de gewestelijke fiscale administratie 
+hiervan in kennis te stellen vóór 30 juni van het jaar dat voorafgaat aan het betrokken aanslagjaar waarvoor 
+de gemeente wil dat de dienst wordt overgenomen. Deze kennisgeving wordt gedaan per aangetekend schrijven.De 
+kennisgeving bedoeld in het eerste lid bevat:1°  een kopie van de beslissing van de gemeenteraad 
+zoals bedoeld in artikel 107, § 2, eerste lid, 4°,  van de Codex;2°  een dossier dat 
+toelaat aan de gewestelijke fiscale administratie om een eerste onderzoek te verrichten om erop toe te 
+zien dat de voorwaarden bepaald in artikel 107, § 2 van de Codex vervuld zullen zijn op het moment 
+van inkohiering. § 2. Na het ontvangst van de kennisgeving bedoeld in paragraaf 1, nodigt 
+de gewestelijke fiscale administratie de betrokken gemeente uit om hem te informeren over de modaliteiten 
+van de overname van de dienst van de gemeentelijke opcentiemen.Indien de gemeente de aanvraag 
+schriftelijk doet, kan deze informatie ook gebeuren middels verzending van toelichtende stukken naar 
+de gemeente.Art. 44. In geval van de overname van de dienst door de gewestelijke fiscale administratie, 
+stelt de gemeente alles in het werk om de overname van de dienst door de gewestelijke fiscale administratie 
+te vergemakkelijken.Wanneer een betwisting met betrekking tot de vaststelling, de inning of 
+de invordering van de gemeentelijke opcentiemen voor een gerechtelijke instantie wordt gebracht, brengt 
+de gewestelijke fiscale administratie de gemeente hiervan op de hoogte. De gewestelijke fiscale administratie 
+maakt aan de gemeente een kopie van alle uitspaken van de gerechtelijke instanties over.Art. 
+45.  § 1. Als de gemeenteraad één van zijn reglementen bedoeld in artikel 107, § 2, eerste 
+lid, 3°,  van de Codex, intrekt of, in het algemeen, in geval van de aanname door de gemeente van iedere 
+handeling die een invloed kan hebben op de dienst van de gemeentelijke opcentiemen, dan dient de gemeente, 
+dit onmiddellik mee te delen aan de gewestelijke fiscale administratie. § 2. De voormelde 
+mededeling wordt gevolgd door de kennisgeving, per aangetekende brief, gericht aan de directeur-generaal 
+van de gewestelijke fiscale administratie, van de beslissing tot intrekking of van de akte bedoeld in 
+de eerste paragraaf. De gemeente is belast met deze kennisgeving.Deze kennisgeving dient te 
+worden gedaan binnen de 10 werkdagen vanaf de dag waarop de beslissing tot intrekking of de akte bedoeld 
+in de eerste paragraaf werd aangenomen.Art. 46. De kohieren van de gemeentelijke opcentiemen 
+op de gewestelijke belastingen bedoeld in artikel 107 van de Codex, worden vastgesteld volgens de modaliteiten 
+bepaald door de directeur-generaal van de gewestelijke fiscale administratie.De opcentiemen 
+worden verbonden aan de kohieren van het begrotingsjaar dat loopt op datum waarop ze uitvoerbaar worden 
+verklaard; de belastingtarieven in verband met de respectieve aanslagjaren zijn van toepassing.HOOFDSTUK 
+2. - De overname van de dienst van de gemeentelijke belastingenArt. 47.  § 1. Overeenkomstig 
+artikel 109, § 1 van de Codex, stelt de gemeente de gewestelijke fiscale administratie in kennis 
+van de beslissing van de gemeenteraad om de onderhandelingsprocedure op te starten voor het akkoordprotocol. 
+Deze kennisgeving wordt gedaan per aangetekend schrijven gericht aan de directeur-generaal van de gewestelijke 
+fiscale administratie.Deze kennisgeving bevat een kopie van de beslissing van de gemeenteraad 
+om de onderhandelingsprocedure op te starten en, in het voorkomend geval, een kopie van het gemeentelijk 
+reglement die de belasting heeft ingesteld waarvoor de overname van de dienst is vooropgesteld.Deze 
+kennisgeving wordt gedaan uiterlijk op 30 juni van het jaar vóór het desbetreffende aanslagjaar vanaf 
+wanneer de dienst van de gemeentelijke belasting zal worden verzekerd door de gewestelijke fiscale administratie, 
+de poststempel geldt als datum. § 2. Het akkoordprotocol wordt gesloten ten laatste 
+op de laatste dag van de vierde maand die voorafgaat aan het begin van de belastbare periode vanaf wanneer 
+de dienst van de gemeentelijke belasting zal worden verzekerd door de gewestelijke fiscale administratie.Het 
+akkoordprotocol wordt ondertekend, voor wat betreft de gemeente, door het bevoegde orgaan op grond van 
+de nieuwe gemeentewet van 24 juni 1988 en, voor wat betreft de gewestelijke fiscale administratie, door 
+de Minister en door de directeur-generaal van de gewestelijke fiscale administratie. § 
+3. Eenmaal het akkoordprotocol werd gesloten in overeenstemming met de in paragraaf 2 bedoelde modaliteiten, 
+stelt de gemeente de gewestelijke fiscale administratie in kennis van haar beslissing om de dienst, van 
+de in het akkoordprotocol bedoelde gemeentelijke belasting, over te dragen naar de gewestelijke fiscale 
+administratie. Deze kennisgeving wordt gedaan per aangetekend schrijven gericht aan de directeur-generaal 
+van de gewestelijke fiscale administratie.Deze kennisgeving bevat een kopie van de beslissing 
+van de gemeenteraad om de dienst van de gemeentelijke belasting naar de gewestelijke fiscale administratie 
+over te dragen, alsook een kopie van het gemeentelijk reglement die de gemeentelijke belasting vaststelt 
+waarvoor de overname van de voormelde dienst is bedoeld.Deze kennisgeving wordt gedaan uiterlijk 
+op de laatste dag van de maand die voorafgaat aan het begin van het belastbaar tijdperk vanaf wanneer 
+de dienst van de gemeentelijke belasting zal worden verzekerd door de gewestelijke fiscale administratie, 
+de poststempel geldt als datum. § 4. De beslissing van de Minister om een einde te stellen 
+aan de overname van de dienst van een gemeentelijke belasting bedoeld in artikel 109, § 4 van 
+de Codex, wordt ter kennis gegeven per aangetekend schrijven gericht aan de betrokken gemeente.De 
+beslissing van de gemeenteraad om een einde te stellen aan de overname van de dienst van een gemeentelijke 
+belasting bedoeld in artikel 109, § 5, eerste lid van de Codex, wordt ter kennis gegeven door 
+de gemeente. Deze beslissing wordt ter kennis gegeven per aangetekend schrijven gericht aan de Minister 
+alsook aan de directeur-generaal van de gewestelijke fiscale administratie.Art. 48.  § 
+1. Als de gemeenteraad één van zijn reglementen, bedoeld in artikel 47, § 3, tweede lid, en § 
+4, tweede lid, intrekt en, in het algemeen, in geval van aanname door de gemeente van iedere handeling 
+die een invloed kan hebben op de dienst van de gemeentelijke belasting door de gewestelijke fiscale administratie, 
+dan dient de gemeente, dit onmiddellijk mee te delen aan de gewestelijke fiscale administratie. 
+§ 2. De voormelde mededeling wordt gevolgd door de kennisgeving door de gemeente per aangetekend 
+schrijven gericht aan de directeur-generaal van de gewestelijke fiscale administratie, van de beslissing 
+tot intrekking of van de akte zoals bedoeld in de eerste paragraaf.Deze kennisgeving dient 
+te worden gedaan binnen de 10 werkdagen vanaf de dag waarop de beslissing tot intrekking of de handeling 
+zoals bedoeld in de eerste paragraaf werden aangenomen.HOOFDSTUK 3. - De overname van de dienst 
+van de gemeentelijke premiesArt. 49.  § 1. Overeenkomstig artikel 115, § 1 van 
+de Codex, stelt de gemeente de gewestelijke fiscale administratie in kennis van de beslissing van de 
+gemeenteraad om de onderhandelingsprocedure op te starten voor een akkoordprotocol. Deze kennisgeving 
+wordt gedaan per aangetekend schrijven gericht aan de directeur-generaal van de gewestelijke fiscale 
+administratie.Deze kennisgeving bevat een kopie van de beslissing van de gemeenteraad om de 
+onderhandelingsprocedure op te starten en, in het voorkomend geval, een kopie van het gemeentelijk reglement 
+die de premie heeft ingesteld waarvoor de overname van de dienst is vooropgesteld door de gewestelijke 
+fiscale administratie.Deze kennisgeving wordt gedaan uiterlijk op 30 juni van het jaar vóór 
+het desbetreffende jaar vanaf wanneer de dienst van de gemeentelijke premie zal worden verzekerd door 
+de gewestelijke fiscale administratie, de poststempel geldt als datum. § 2. Het akkoordprotocol 
+wordt ondertekend, voor wat betreft de gemeente, door het bevoegde orgaan op grond van de nieuwe gemeentewet 
+van 24 juni 1988 en, voor wat betreft de gewestelijke fiscale administratie, door de Minister en door 
+de directeur-generaal. § 3. Eenmaal het akkoordprotocol werd gesloten in overeenstemming 
+met de in paragraaf 2 bedoelde modaliteiten, brengt de gemeente de gewestelijke fiscale administratie 
+in kennis van haar beslissing om de dienst, van de in het akkoordprotocol bedoelde gemeentelijke premie, 
+over te dragen naar de gewestelijke fiscale administratie. Deze kennisgeving wordt gedaan per aangetekend 
+schrijven gericht aan de directeur-generaal van de gewestelijke fiscale administratie.Deze 
+kennisgeving bevat een kopie van de beslissing van de gemeenteraad om de dienst van de gemeentelijke 
+premie naar de gewestelijke fiscale administratie over te dragen, alsook een kopie van het gemeentelijk 
+reglement die de gemeentelijke premie vaststelt waarvoor de overname van de voormelde dienst is bedoeld. 
+§ 4. De beslissing van de Minister om een einde te stellen aan de overname van de dienst van een 
+gemeentelijke premie zoals bedoeld in artikel 115, § 4, eerste lid van de Codex, wordt ter kennis 
+gegeven per aangetekend schrijven gericht aan de betrokken gemeente.De beslissing van de gemeenteraad 
+om een einde te stellen aan de overname van de dienst van een gemeentelijke premie zoals bedoeld in artikel 
+115, § 5, eerste lid van de Codex, wordt ter kennis gegeven door de gemeente. Deze beslissing 
+wordt ter kennis gegeven per aangetekend schrijven gericht aan de Minister alsook aan de directeur-generaal 
+van de gewestelijke fiscale administratie.Art. 50.  § 1. Als de gemeenteraad één van 
+zijn reglementen, bedoeld in artikel 49, § 3, tweede lid, intrekt of, in het algemeen, in geval 
+van de aanname door de gemeente van iedere handeling die een invloed kan hebben op de dienst van de gemeentelijke 
+premie door de gewestelijke fiscale administratie, dan dient de gemeente, dit onmiddellijk mee te delen 
+aan de gewestelijke fiscale administratie. § 2. De voormelde mededeling wordt gevolgd 
+door de kennisgeving, per aangetekend schrijven door de gemeente gericht aan de directeur-generaal van 
+de gewestelijke fiscale administratie, van de beslissing tot intrekking of van de akte bedoeld in de 
+eerste paragraaf.Deze kennisgeving dient te worden gedaan binnen de 10 werkdagen vanaf de dag 
+waarop de beslissing tot intrekking of de akte zoals bedoeld in de eerste paragraaf werden aangenomen.HOOFDSTUK 
+4. - De gedwongen invordering van bedragen verschuldigd aan de gemeentenArt. 51. Overeenkomstig 
+artikel 118, § 1, vierde lid van de Codex, kunnen de bedragen die verschuldigd zijn aan de gemeenten 
+worden ingevorderd overeenkomstig de bepalingen van Titel 2, Hoofdstuk 4 van dit besluit, alsook van 
+Titel 2, Hoofdstuk 4 van de Codex en van afdeling 3 van Hoofdstuk 5 van titel 2 van de Codex.Art. 
+52.  § 1. Overeenkomstig artikel 118, § 2, tweede lid van de Codex, stelt de gemeente de 
+gewestelijke fiscale administratie in kennis van de beslissing van de gemeenteraad om de onderhandelingsprocedure 
+op te starten voor het akkoordprotocol. Deze kennisgeving wordt gedaan per aangetekend schrijven gericht 
+aan de directeur-generaal van de gewestelijke fiscale administratie.Deze kennisgeving bevat 
+een kopie van de beslissing van de gemeenteraad om de onderhandelingsprocedure op te starten. 
+§ 2. Het akkoordprocotol wordt ondertekend, voor wat betreft de gemeente, door het bevoegde orgaan 
+op grond van de nieuwe gemeentewet van 24 juni 1988 en, voor wat betreft de gewestelijke fiscale administratie, 
+door de Minister en door de directeur-generaal van de gewestelijke fiscale administratie. § 
+3. Eenmaal het akkoordprotocol werd gesloten in overeenstemming met de in paragraaf 2 bedoelde modaliteiten, 
+stelt de gemeente de gewestelijke fiscale administratie in kennis van haar beslissing om de gedwongen 
+invordering van de bedragen die aan de gemeente verschuldigd zijn toe te vertrouwen aan de gewestelijke 
+fiscale administratie. Deze kennisgeving wordt gedaan per aangetekend schrijven gericht aan de directeur-generaal 
+van de gewestelijke fiscale administratie.Deze kennisgeving bevat een kopie van de beslissing 
+van de gemeenteraad om de gedwongen invordering van de bedragen die aan de gemeente verschuldigd zijn 
+toe te vertrouwen aan de gewestelijke fiscale administratie. § 4. De beslissing van 
+de Minister om een einde te stellen aan de overname van de gedwongen invordering van de bedragen die 
+verschuldigd zijn aan de gemeente, zoals bedoeld in artikel 118, § 5, eerste lid van de Codex, 
+wordt ter kennis gegeven per aangetekend schrijven gericht aan de gemeenteraad van de betrokken gemeente.De 
+beslissing van de gemeenteraad om een einde te stellen aan de overname, door de gewestelijke fiscale 
+administratie, van de gedwongen invordering van de bedragen die verschuldigd zijn aan de gemeente zoals 
+bedoeld in artikel 118, § 6, eerste lid van de Codex, wordt ter kennis gegeven door de gemeente. 
+Deze beslissing wordt ter kennis gegeven per aangetekend schrijven gericht aan de Minister alsook aan 
+de directeur-generaal van de gewestelijke fiscale administratie.TITEL 4. - Werking van de gewestelijke 
+fiscale administratieHOOFDSTUK 1. - Wederzijdse bijstand tussen lidstaten inzake invorderingArt. 
+53.  § 1. Geen administratieve boete kan worden opgelegd door toepassing van artikel 119, § 
+3 van de Codex wanneer de betrokken persoon zijn zwijgrecht en het niet deelnemen aan zelfincriminatie 
+inroept, zoals afgeleid uit artikel 6 van het Verdrag tot bescherming van de Rechten van de Mens en de 
+Fundamentele Vrijheden, ondertekend op 4 november 1950, te Rome. § 2. De schaal van 
+administratieve geldboetes wordt vastgesteld als volgt:- 1ste inbreuk: 10.000 euro;- 
+2de inbreuk: 25.000 euro;- volgende inbreuken: 50.000 euro.In afwijking van het eerste 
+lid, als de overtreder bewijst dat de inbreuk manifest niet toe te schrijven is aan de kwader trouw of 
+de intentie tot ontwijking van de belasting of het belemmeren van zijn invordering, wordt de boete vastgesteld 
+overeenkomstig de volgende schaal:- 1ste inbreuk: 125 euro;- 2de inbreuk: 1.000 euro;- 
+volgende inbreuken : 1.500 euro.In afwijking van het eerste en het tweede lid, als de overtreder 
+bewijst dat de inbreuk het gevolg is van omstandigheden onafhankelijk van zijn wil, wordt de boete geannuleerd. 
+§ 3. Er is een tweede inbreuk of volgende inbreuk als, op het moment waarop een nieuwe inbreuk 
+is gepleegd door een overtreder, de overtreder in kennis werd gesteld van de administratieve boete die 
+de voorgaande inbreuk heeft gesanctioneerd.Voor de toepassing van het eerste lid wordt geacht, 
+op weerlegbare wijze, dat de overtreder kennis heeft genomen van een administratieve boete, de zevende 
+dag die volgt op de datum van de verzending van de beslissing, zoals blijkt uit de kennisgevingsbrief 
+van de beslissing tot oplegging van de administratieve boete. § 4. De beslissing waarbij 
+de voornoemde boete wordt opgelegd, wordt per aangetekend schrijven verstuurd aan de overtreder.De 
+beslissing vermeldt de naam en het rekeningnummer van het Gewest op dewelke de betaling dient te worden 
+uitgevoerd.HOOFDSTUK 2. - Elektronisch beheerArt. 54. De geadresseerde van de documenten 
+uitgaande van de gewestelijke fiscale administratie kan kiezen om deze documenten uitsluitend te ontvangen 
+via een platform aangeduid door de gewestelijke fiscale administratie.Deze keuze moet worden 
+meegedeeld via het platform aangeduid door de gewestelijke fiscale administratie.De geadresseerde 
+kan, op elk moment, deze verklaring intrekken of kan vragen voor het gebruik van nieuwe contactgegevens. 
+Deze intrekking of deze vraag is evenwel enkel tegenstelbaar aan de gewestelijke fiscale administratie 
+vanaf de één-en-dertigste dag die volgt op de datum van het ontvangstbewijs afkomstig van de gewestelijke 
+fiscale administratie.Art. 55. Het in artikel 121 van de Codex bedoelde elektronisch dossierbeheer 
+gebeurt via de informatica-applicaties geïmplementeerd bij de gewestelijke fiscale administratie.De 
+beveiliging van de registratie, de bewaring, het hergebruik en de verzending van persoonsgegevens verkregen 
+door de gewestelijke fiscale administratie gebeurt in overeenstemming met de Verordening 2016/679/EU 
+van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen 
+in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en 
+tot intrekking van Richtlijn 95/46/EG.Art. 56. De gewestelijke fiscale administratie mag, overeenkomstig 
+artikel 122 van de Codex, documenten elektronisch ondertekenen met behulp van de e-ID, of gelijkaardige 
+toepassingen van de persoon die het document ondertekent.De gewestelijke fiscale administratie 
+mag de belastingplichtige de mogelijkheid bieden om documenten te ondertekenen met een elektronische 
+handtekening. Deze handtekening gebeurt bij wijze van de e-ID, of gelijkaardige toepassingen van de betrokken 
+belastingplichtigeDe procedures voor bovengenoemde elektronische handtekeningen zullen worden 
+ingebouwd in de informatica-applicaties bedoeld in vorig artikel.De elektronische handtekening 
+moet niet gecertificeerd zijn om geldig te zijn in het kader van het functioneren van de gewestelijke 
+fiscale administratie, tenzij de elektronische handtekening ernstige aanwijzingen bevat van identiteitsdiefstal 
+of vervalsing.Art. 57. Indien een artikel van dit besluit voorziet in de verzending bij aangetekende 
+zending, dan kan de Minister in de mogelijkheid van verzending per elektronisch aangetekende zending 
+voorzien.TITEL 5. - Wijzigings- en inwerkingtredingsbepalingenArt. 58. In de artikelen 
+6 en 7 van het besluit van de Brusselse Hoofdstedelijke Regering van 22 februari 2018 tot uitvoering 
+van de ordonnantie van 23 november 2017 houdende wetgevende aanpassingen met het oog op de overname van 
+de dienst onroerende voorheffing door het Brussels Hoofdstedelijk Gewest, worden de woorden "drieënnegentig 
+dagen" vervangen door de woorden "186 dagen".Art. 59. Dit besluit heeft uitwerking met ingang 
+van 1 januari 2019.In afwijking van het eerste lid, hebben artikel 37, Hoofdstuk 4 van Titel 
+2 en Hoofdstuk 6 van Titel 2 en de Titel 4 uitwerking met ingang van 19 maart 2019.In afwijking 
+van de voorgaande leden treedt artikel 10 in werking op de dag van de bekendmaking in het Belgisch Staatsblad 
+van dit besluit.Brussel, 24 juni 2021.Voor de Brusselse Hoofdstedelijke Regering 
+:De Minister-President,R. VERVOORTDe Minister van Financiën,S. 
+GATZ   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-07-05Numac : 2021042531
+

@@ -1,0 +1,74 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/01/2021041208/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021041208
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 1 APRIL 2021. - Besluit van de Regering van de Franse Gemeenschap tot verlenging van de geldigheidsduur van de maatregelen tot aanpassing van de redenen van afwezigheid van de kinderen en tot herziening van de financiële bijdrage van de ouders aan de opvangmilieus in het kader van de crisis COVID-19 
+De 
+Regering van de Franse Gemeenschap,Gelet op het decreet van 21 februari 2019 tot versteviging 
+van de kwaliteit en de toegankelijkheid van de opvang voor jonge kinderen in de Franse Gemeenschap, artikel 
+7, eerste lid, 2° ;Gelet op het besluit van de regering van de Franse Gemeenschap van 2 mei 
+2019 houdende de vergunnings- en subsidieregeling voor kinderdagverblijven, diensten voor kinderopvang 
+en zelfstandige (mede)onthaalouders;Gelet op het advies van de Inspecteur van Financiën, uitgebracht 
+op 23 maart 2021;Gelet op de akkoordbevinding van de minister van Begroting van 1 april 2021;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1, eerste lid;Gelet 
+op de dringendheid, voortvloeiend uit de noodzaak om, rekening houdende met de sanitaire normen en de 
+door de minister van Binnenlandse Zaken genomen inperkingsmaatregelen, zo spoedig mogelijk duidelijkheid 
+te scheppen in de betrekkingen tussen de ouders en de opvangmilieus door bepaalde steunmaatregelenuit 
+te verlengen;Op de voordracht van de minister van Kinderen;Na beraadslaging,Besluit 
+: Artikel 1. In artikel 129/2 van het besluit van de regering van de Franse Gemeenschap van 
+2 mei 2019 houdende de vergunnings- en subsidieregeling voor kinderdagverblijven, diensten voor kinderopvang 
+en zelfstandige (mede)onthaalouders, worden de woorden "op 28 februari 2021" vervangen door de woorden 
+"op 30 juni 2021".Art. 2. In artikel 123/3, § 1, 2°,  wordt de zin aangevuld als volgt: 
+"Voor de periode van 29 maart tot en met 18 april 2021 kan de gezondheidsrechtvaardiging worden geattesteerd 
+door eenvoudig het in het eerste lid bedoelde formulier in te dienen".Art. 3. Dit besluit heeft 
+uitwerking op 1 maart 2021.Art. 4. De Minister van Kind is belast met de uitvoering van dit 
+besluit.Brussel, 1 april 2021.De minister-president,P.-Y. JEHOLETDe 
+minister van Kind, Gezondheid, Cultuur, Media en Vrouwenrechten,B. LINARD   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-09Numac : 2021041208
+

@@ -1,0 +1,59 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021040857
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene administratie van de PatrimoniumdocumentatieMededeling met betrekking tot de correctiefactor 
+voorzien in artikel 478 van het Wetboek op de inkomstenbelastingen 1992Overeenkomstig artikel 
+478, alinea 3 van het Wetboek op de inkomstenbelastingen 1992, deelt de Algemene administratie van de 
+Patrimoniumdocumentatie van de Federale Overheidsdienst Financiën de correctiefactor mee, die is vastgesteld 
+volgens de methode uiteengezet in voornoemd artikel 478, alinea 3.Voor het jaar 2021 is de 
+correctiefactor: 15,018.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-08Numac : 2021040857
+

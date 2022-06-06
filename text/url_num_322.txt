@@ -1,0 +1,119 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/21/2020010447/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-30Numac : 2020010447
+WAALSE OVERHEIDSDIENST 
+ 21 OKTOBER 2020. - Besluit van de Waalse Regering houdende oprichting van een Waalse cel COVID-19 
+De 
+Waalse Regering,Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, 
+zoals gewijzigd, artikel 87, § 3;Gelet op het decreet van 15 december 2011 houdende 
+organisatie van de begroting en van de boekhouding van de diensten van de Waalse Regering, zoals gewijzigd;Gelet 
+op het decreet van 19 november 2015 houdende instemming met het samenwerkingsakkoord tussen het Waalse 
+Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie inzake kosteloze detacheringen in de 
+ministeriële kabinetten; Gelet op het besluit van de Waalse Regering van 14 september 2019 
+betreffende de ministeriële kabinetten van de Waalse Regering, het Secretariaat van de Waalse Regering 
+en het "SePAC", zoals gewijzigd;Gelet op het besluit van de Waalse Regering van 8 juni 2017 
+houdende organisatie van de controle en de interne audit inzake de begroting, de boekhouding en de administratieve 
+en begrotingscontrole van de diensten van de Waalse Regering, de administratieve diensten met een zelfstandige 
+boekhouding, de gewestelijke ondernemingen, de instellingen en de Ombudsdienst van het Waalse Gewest;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 19 oktober 2020;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 21 oktober 2020;Gelet op het rapport van 20 oktober 
+2020 opgesteld overeenkomstig artikel 3, 2°  van het decreet van 11 april 2014 houdende uitvoering van 
+de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft 
+plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1; Gelet 
+op de dringende noodzakelijkheid;Overwegende dat de verschillende actoren die de crisis moesten 
+beheren, bij aanvang van de epidemie, in de eerste maanden van 2020, geconfronteerd werden met een totaal 
+onuitgegeven situatie, veelvuldige uitdagingen en een kolossale werklast;Overwegende dat de 
+COVID-19 epidemie in de loop van de maand oktober 2020 een aanzienlijke omvang heeft genomen en dat het 
+te verwachten valt dat de gezondheidscrisis in de komende weken verergert;Overwegende dat de 
+volgende maanden alweer uiterst ernstige uitdagingen te wachten staan;Overwegende dat het fundamenteel 
+is om snel, doeltreffend en gestructureerd in te spelen op complexe vragen waarvoor een onmiddellijk 
+handelen in overkoepelende en gezondheidsgerelateerde bevoegdheden vereist is;Overwegende dat 
+het noodzakelijk en dringend is om de Regering vanaf nu in staat te stellen het gewestelijk antwoord 
+op deze crisis te versterken en te coördineren in haar beleidsgeorienteerde aspecten op maatschappelijk 
+en gezondheidsvlak, via de oprichting van een Waalse cel voor de coördinatie van het gezondheidscrisisbeleid;Overwegende 
+dat de dwingende factoren die uit de gezondheidscrisis COVID-19 voortvloeien op de noodzaak hebben gewezen 
+om een specifieke cel op te richten die volledig gefocust is op de pandemie zodat een consistent en doeltreffend 
+beleid kan worden gevoerd met de gezamenlijke actoren, ook uit de andere deelgebieden;Overwegende 
+dat deze cel noodzakelijkerwijs samengesteld wordt uit, met name, competentieprofielen voor de beheersing 
+van een sanitaire crisis;Overwegende dat deze structuur eveneens dringend in werking dient 
+te worden gesteld om de doelstellingen van de Waalse Regering inzake bestrijding van de pandemie na te 
+komen;Overwegende dat, daarvoor, de Minister-President en de Minister van Gezondheid op nuttige 
+wijze met raad omringd dienen te worden;Overwegende dat er een regelgevende grondslag gegeven 
+dient te worden voor de terbeschikkingstelling van personeelOverwegende dat de dringende noodzakelijkheid 
+verantwoord is;Op de voordracht van de Minister-President en de Minister van Gezondheid;Na 
+beraadslaging,Besluit : Artikel 1. Er wordt binnen de Waalse regering een Waalse 
+cel COVID-19 voor de gezondheidscrisis opgericht, hierna "de cel" genoemd.Ze staat rechtstreeks 
+onder het functionele gezag van de Minister-President. Ze brengt verslag uit aan de Minister-President, 
+de Minister van Gezondheid of de Waalse Regering in haar geheel.De Waalse Regering beslist 
+bij besluit over de einddatum van de opdracht.Art. 2. De cel is belast met de volgende strategische 
+en politieke opdrachten:1°  de Minister-President, de Minister van Gezondheid en de Regering 
+strategische oriëntaties en aanvullende en anticiperende maatregelen in het kader van het beheer van 
+de COVID-19 crisis voorstellen;2°  in samenwerking en overleg met de bevoegde diensten voorstellen 
+formuleren om het bestuur, de structuren en de processen van het beheer van de gezondheidscrises te vereenvoudigen 
+en te optimaliseren;3°  elke relevante aanpassing van de werking van de structuren voorstellen 
+onder het gezag van de Waalse Regering.De Minister-President, de Minister van Volksgezondheid 
+of de Waalse Regering kunnen de cel bijkomende opdrachten toevertrouwen.Art. 3. De cel is een 
+politiek instantie. Ze is geen administratie, maar wel een openbare dienst. Haar personeel mag in de 
+loop van de ambtstermijn niet het statuut van in vast verband benoemde ambtenaar verwerven en is ook 
+niet onderworpen aan de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Het is onderworpen 
+aan een administratieve stand sui generis.Art. 4.  § 1. Het personeel van de cel omvat:- 
+personeelsleden van niveau 1, van universitair niveau of daarmee gelijkgesteld;- medewerkers;- 
+deskundigen. § 2. Onder het personeel van niveau 1 omvat de cel: een coördinator, een 
+crisismanager, een communicatiemedewerker, dertien strategische adviseurs. § 3 Onder 
+de medewerkers van de cel bevinden zich: drie secretarissen en een logistiek medewerker. § 
+4. De cel wordt geleid door de coördinator.Art. 5. De cel is onderworpen aan het besluit van 
+de Waalse Regering van 14 september 2019 betreffende de ministeriële kabinetten van de Waalse Regering, 
+het Secretariaat van de Waalse Regering en het "SePAC", overeenkomstig artikel 56 van het besluit.Art. 
+6. De Minister-President en de Minister van Gezondheid zijn belast met de uitvoering van dit besluit.Art. 
+7. Dit besluit treedt in werking de dag waarop het ondertekend wordt.Namen, 21 oktober 2020.Voor 
+de Waalse Regering : De Minister-President,E. DI RUPODe Minister van Werk, 
+Vorming, Gezondheid, Sociale Actie, Gelijke Kansen en Vrouwenrechten,Ch. MORREALE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-30Numac : 2020010447
+

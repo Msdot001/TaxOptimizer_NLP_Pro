@@ -1,0 +1,97 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/01/11/2020041207/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020041207
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 11 JANUARI 2019. - Wet houdende maatregelen van bestrijding van de belastingfraude en -ontwijking inzake roerende voorheffing. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van 
+de wet van 11 januari 2019 houdende maatregelen van bestrijding van de belastingfraude en-ontwijking 
+inzake roerende voorheffing (Belgisch Staatsblad van 22 januari 2019).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN11. JANUAR 2019 - Gesetz zur Festlegung von Maßnahmen zur Bekämpfung der 
+Steuerhinterziehung und -umgehung hinsichtlich des MobiliensteuervorabzugsPHILIPPE, Konig der 
+Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das 
+Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt eine in 
+Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - Artikel 262 des Einkommensteuergesetzbuches 
+1992, zuletzt abgeändert durch das Gesetz vom 25. Dezember 2017, wird wie folgt abgeändert:a) 
+Nummer 4 wird wie folgt ersetzt:"4. Einkünfte aus Kapitalvermögen und beweglichen Gütern, Lose 
+in Bezug auf Anleihepapiere und in Artikel 90 Absatz 1 Nr. 11 erwähnte Einkünfte, die unrechtmäßig 
+unter Vorabzugsbefreiung bezogen wurden oder für die der Vorabzug dem Empfänger der Einkünfte unberechtigterweise 
+erstattet wurde,".b) Der Artikel wird durch eine Nummer 7 mit folgendem Wortlaut ergänzt:"7. 
+Dividenden ausländischer Herkunft, die ohne Beteiligung eines in Belgien ansässigen Vermittlers im Ausland 
+von einem in Belgien ansässigen Steuerpflichtigen vereinnahmt oder bezogen wurden, dessen Gesellschaftszweck 
+ausschließlich oder hauptsächlich in der Verwaltung und Anlage von Geldern besteht, die mit dem 
+Ziel gesammelt werden, gesetzliche oder ergänzende Pensionen auszuzahlen."Art. 3 - Artikel 
+266 Absatz 4 desselben Gesetzbuches, eingefügt durch das Gesetz vom 1. Dezember 2016, wird durch folgenden 
+Satz ergänzt:"Die Tatsache, dass ein Empfänger von Dividenden, dessen Gesellschaftszweck ausschließlich 
+oder hauptsächlich in der Verwaltung und Anlage von Geldern besteht, die mit dem Ziel gesammelt werden, 
+gesetzliche oder ergänzende Pensionen auszuzahlen, die Wertpapiere, aus denen die Dividenden hervorgehen, 
+nicht während eines ununterbrochenen Zeitraums von mindestens sechzig Tagen in Volleigentum gehalten 
+hat, stellt eine widerlegbare Vermutung dar, dass die Rechtshandlung oder die Gesamtheit von Rechtshandlungen, 
+mit der die Dividenden verbunden sind, unangemessen ist."Art. 4 - In Artikel 281 desselben 
+Gesetzbuches, abgeändert durch die Gesetze vom 10. März 1999 und 15. Dezember 2004, werden die Wörter 
+"der Empfänger zur Ausübung seiner Berufstätigkeit nutzt, wird nur unter der Bedingung angerechnet, dass 
+der Steuerpflichtige zum Zeitpunkt der Zuerkennung oder Ausschüttung der Dividenden" durch die Wörter 
+"der Empfänger zur Ausübung seiner beruflichen Tätigkeit nutzt, wird nur unter der Bedingung angerechnet, 
+dass der Steuerpflichtige am Datum der Identifizierung der Dividendenberechtigten" ersetzt.Art. 
+5 - In dasselbe Gesetzbuch wird ein Artikel 281/1 mit folgendem Wortlaut eingefügt:"Art. 281/1 
+- Kein Mobiliensteuervorabzug wird angerechnet in Bezug auf Dividenden, wenn der Empfänger, dessen Gesellschaftszweck 
+ausschließlich oder hauptsächlich in der Verwaltung und Anlage von Geldern besteht, die mit dem 
+Ziel gesammelt werden, gesetzliche oder ergänzende Pensionen auszuzahlen, die Wertpapiere, aus denen 
+die Dividenden hervorgehen, nicht während eines ununterbrochenen Zeitraums von mindestens sechzig Tagen 
+in Volleigentum gehalten hat.Absatz 1 ist nicht anwendbar auf Dividenden, für die der Empfänger 
+nachgewiesen hat, dass sie nicht mit einer Rechtshandlung oder einer Gesamtheit von Rechtshandlungen 
+verbunden sind, die unangemessen ist und bei der der wesentliche Zweck oder einer der wesentlichen Zwecke 
+darin besteht, die Anrechnung des Mobiliensteuervorabzugs auf diese Dividenden zu erlangen."Art. 
+6 - Vorliegendes Gesetz tritt am Tag seiner Veröffentlichung im Belgischen Staatsblatt in Kraft.Wir 
+fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das 
+Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 11. Januar 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020041207
+

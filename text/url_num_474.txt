@@ -1,0 +1,174 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/03/29/2021020715/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021020715
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 29 MAART 2021. - Koninklijk besluit tot wijziging van de koninklijke besluiten nrs. 1, 4, 24 en 41 met betrekking tot de belasting over de toegevoegde waarde en houdende ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie 
+VERSLAG AAN DE KONINGSire,Het ontwerp 
+van koninklijk besluit waarvoor ik de eer heb om het ter ondertekening voor te leggen aan Uwe Majesteit, 
+maakt deel uit van de maatregelen bestemd om ter hulp te komen aan de btw-belastingplichtigen in verband 
+de COVID-19-pandemie.HOOFDSTUK 1 - Afschaffing van de betaling van voorschottenArtikel 
+53octies, § 1, vierde lid van het Wetboek van de belasting over de toegevoegde waarde delegeert 
+aan de Koning de bevoegdheid om te bepalen dat de belasting verschuldigd voor de handelingen verricht 
+tijdens het laatste aangiftetijdvak van het kalenderjaar moet worden voldaan voor het verstrijken van 
+dat jaar.Bij dit koninklijk besluit worden de bepalingen van het btw KB nr. 1 van 29 december 
+1992 inzake de decembervoorschotten door kwartaalaangevers (art. 19, § 1) en door maandaangevers 
+(art. 19, § 2) opgeheven.In het btw-aangifteformulier werd het vak 91 gecreëerd met 
+het oog op het aangeven van de handelingen verricht in ofwel de periode 1 oktober - 20 december (kwartaalaangevers) 
+ofwel de periode 1 december - 20 december (maandaangevers). Belastingplichtigen die opteerden voor het 
+voldoen van de werkelijk verschuldigde btw van de voorgaande aangifteperiode (3de kwartaal of november) 
+vermeldden niets in dit vak. Aangezien dit vak 91 zijn nut verliest, gezien de bovenvermelde wettelijke 
+opheffing, wordt het aangifteformulier inzake btw (bijlage 1, KB nr. 1) aangepast, en bijgevolg ook de 
+omschrijving van de roosters (bijlage II, KB nr. 1).Door de afschaffing van de verplichting 
+om voorschotten te betalen, verliezen uiteraard de bepalingen inzake de wijze waarop deze betaald moet 
+worden alsook de verschuldigdheid van een boete gelijk aan de nalatigheidsinterest wegens niet-betaling 
+van de maand- en/of decembervoorschotten hun werking en worden eveneens opgeheven.HOOFDSTUK 
+2 - Minimumbedragen voor teruggaafWanneer volgens de gegevens van de periodieke btw-aangifte 
+bedoeld in artikel 53, § 1, eerste lid, 2°,  van het Wetboek van de belasting over de toegevoegde 
+waarde het eindresultaat een door de Staat verschuldigd bedrag is (een btw-tegoed), wordt dat bedrag 
+in principe naar het volgende aangiftetijdvak overgedragen.Op uitdrukkelijk verzoek van de 
+belastingplichtige is dat bedrag evenwel vatbaar voor teruggaaf.Het koninklijk besluit nr. 
+4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde (hierna: 
+het koninklijk besluit nr. 4) bepaalt onder andere de wijze waarop deze aanvraag moet gebeuren, de periode 
+waarop de aanvraag betrekking kan hebben en ook het minimumbedrag dat het btw-tegoed moet bereiken om 
+voor teruggaaf vatbaar te zijn.Die minimumbedragen zijn op dit moment vastgelegd op:- 
+245 euro indien om teruggaaf wordt verzocht in de periodieke aangifte die betrekking heeft op het laatste 
+aangiftetijdvak van het kalenderjaar (artikel 81, § 2, 1°,  van het koninklijk besluit nr. 4);- 
+615 euro indien om teruggaaf wordt verzocht in de periodieke aangifte met betrekking tot elk van de eerste 
+drie kalenderkwartalen door een kwartaalaangever (artikel 81, § 2, 2°,  van het koninklijk besluit 
+nr. 4);- 1.485 euro indien om teruggaaf wordt verzocht in de laatste periodieke maandaangifte 
+van een kalenderkwartaal door een maandaangever (artikel 81, § 2, 2°,  van het koninklijk besluit 
+nr. 4);- 245 euro indien om teruggaaf wordt verzocht in de periodieke maandaangifte door een 
+maandaangever die over een vergunning beschikt voor maandelijkse teruggaven (artikel 81, § 2, 
+3°,  van het koninklijk besluit nr. 4);- 245 euro indien om teruggaaf wordt verzocht in de 
+periodieke maandaangifte die valt binnen de vierentwintig maanden van de datum van aanvang van de economische 
+activiteit door een maandaangever-"starter" (artikel 81, § 2, 4°,  van het koninklijk besluit 
+nr. 4).De aanhoudende coronacrisis en de verplichte tijdelijke sluitingen van verschillende 
+economische sectoren als gevolg daarvan, hebben reeds geleid tot ernstige economische gevolgen voor die 
+bedrijven.Eén van de voornaamste bezorgdheden van de bedrijven is het gebrek aan liquiditeit 
+dat veroorzaakt wordt door de verminderde omzet ten gevolge van deze crisis.Om de liquiditeit 
+van de ondernemingen te ondersteunen, verlaagt dit koninklijk besluit de voormelde minimumbedragen tot 
+het niveau dat wordt gehanteerd in het koninklijk besluit nr. 56 van 9 december 2009 met betrekking tot 
+de teruggaaf inzake belasting over de toegevoegde waarde aan belastingplichtigen gevestigd in een andere 
+lidstaat dan de lidstaat van teruggaaf.Artikel 7 van dit ontwerp verlaagt daartoe de minimumbedragen 
+opgenomen in artikel 81 van het koninklijk besluit nr. 4 naar:- 50 euro indien om teruggaaf 
+wordt verzocht in de periodieke aangifte die betrekking heeft op het laatste aangiftetijdvak van het 
+kalenderjaar;- 400 euro indien om teruggaaf wordt verzocht in de periodieke aangifte met betrekking 
+tot elk van de eerste drie kalenderkwartalen door een kwartaalaangever;- 400 euro indien om 
+teruggaaf wordt verzocht in de laatste periodieke maandaangifte van een kalenderkwartaal door een maandaangever;- 
+50 euro indien om teruggaaf wordt verzocht in de periodieke maandaangifte door een maandaangever die 
+over een vergunning beschikt voor maandelijkse teruggaven;- 50 euro indien om teruggaaf wordt 
+verzocht in de periodieke maandaangifte die valt binnen de vierentwintig maanden van de datum van aanvang 
+van economische activiteit door de maandaangever-starter.Opdat de betrokken belastingplichtigen 
+zo spoedig mogelijk en nog voor het eerste kalenderkwartaal van 2021 kunnen genieten van de verlaagde 
+teruggavedrempels, bepaalt artikel 8 van dit koninklijk besluit dat deze wijzigingen op 1 april 2021 
+in werking zullen treden. Ten gevolge daarvan zullen belastingplichtigen al in hun periodieke aangifte 
+met betrekking tot het eerste kwartaal van 2021 of in de periodieke aangifte met betrekking tot de laatste 
+maand van dat kwartaal, btw-tegoeden kunnen terugvragen die onder de huidige drempel maar boven de nieuwe 
+drempel liggen.Opdat de teruggaaf van dergelijke btw-tegoeden door de betrokken belastingplichtigen 
+effectief zou kunnen worden aangevraagd, is het essentieel dat zij op het moment van de indiening van 
+de periodieke aangifte weten dat zij dat btw-tegoed voortaan kunnen terugvragen en daartoe de nodige 
+formaliteiten vervullen. Overeenkomstig artikel 81, § 4, van het koninklijk besluit nr. 4 moet 
+daartoe immers met name een uitdrukkelijke vermelding worden aangebracht in de betrokken aangifte. Om 
+ervoor te zorgen dat de belastingplichtigen tijdig van deze maatregel op de hoogte zouden zijn, zal door 
+de FOD Financiën tijdig een informatiecampagne worden opgezet.Ik heb de eer te zijn,Sire,Van 
+Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De Minister van Financiën,V. 
+VAN PETEGHEM29 MAART 2021. - Koninklijk besluit tot wijziging van de koninklijke 
+besluiten nrs. 1, 4, 24 en 41 met betrekking tot de belasting over de toegevoegde waarde en houdende 
+ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemieFILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op het Wetboek van de belasting 
+over de toegevoegde waarde, de artikelen 53octies, § 1, vierde lid, vervangen bij de wet van 17 
+december 2012, en 76, § 1, vervangen bij de wet van 26 november 2009 en gewijzigd bij de wet van 
+25 april 2014;Gelet op het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot 
+de regeling voor de voldoening van de belasting over de toegevoegde waarde;Gelet op het koninklijk 
+besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde 
+waarde;Gelet op het koninklijk besluit nr. 24 van 29 december 1992 met betrekking tot de voldoening 
+van de belasting over de toegevoegde waarde;Gelet op het koninklijk besluit nr. 41 van 30 januari 
+1987 tot vaststelling van het bedrag van de proportionele fiscale geldboeten op het stuk van de belasting 
+over de toegevoegde waarde;Gelet op het advies van de Inspecteur van Financiën, gegeven op 
+23 februari 2021;Gelet op de akkoordbevinding van de Staatssecretaris voor Begroting, gegeven 
+op 26 februari 2021;Gelet op advies nr. 68.937/3 van de Raad van State, gegeven op 25 maart 
+2021, met toepassing van artikel 84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973;Gelet op de regelgevingsimpactanalyse uitgevoerd overeenkomstig 
+de artikelen 6 en 7 van de wet van 15 december 2013 houdende diverse bepalingen inzake administratieve 
+vereenvoudiging;Op de voordracht van de Minister van Financiën,Hebben Wij besloten 
+en besluiten Wij :HOOFDSTUK 1. - Afschaffing van de betaling van voorschottenArtikel 
+1. Artikel 19 van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor 
+de voldoening van de belasting over de toegevoegde waarde, vervangen bij het koninklijk besluit van 16 
+februari 2017, wordt opgeheven.Art. 2. In hetzelfde besluit wordt de bijlage I, vervangen bij 
+het koninklijk besluit van 16 februari 2017, vervangen door de bijlage I gevoegd bij dit besluit.Art. 
+3. In hetzelfde besluit wordt de bijlage II, vervangen bij het koninklijk besluit van 16 februari 2017, 
+vervangen door de bijlage II gevoegd bij dit besluit.Art. 4. In artikel 1 van het koninklijk 
+besluit nr. 24 van 29 december 1992 met betrekking tot de voldoening van de belasting over de toegevoegde 
+waarde, laatstelijk gewijzigd bij het koninklijk besluit van 7 november 2019, wordt de bepaling onder 
+4°  opgeheven.Art. 5. In artikel 5, § 1, 2°,  a) van hetzelfde besluit, laatstelijk 
+gewijzigd bij het koninklijk beluit van 17 maart 2019 worden de woorden "in artikel 1, 1°  tot 3°  " 
+vervangen door de woorden "in artikel 1".Art. 6. In afdeling 1, I, van tabel G van de bijlage 
+bij het koninklijk besluit nr. 41 van 30 januari 1987 tot vaststelling van het bedrag van de proportionele 
+fiscale geldboeten op het stuk van de belasting over de toegevoegde waarde, laatstelijk gewijzigd bij 
+het koninklijk besluit van 17 maart 2019, worden de volgende wijzigingen aangebracht:a) in 
+de inleidende zin worden de woorden "of van de voorschotten" opgeheven;b) in punt 1 worden 
+de woorden "en voorschotten" opgeheven;c) punt 2, B) wordt opgeheven.HOOFDSTUK 2. 
+- Minimumbedragen voor teruggaafArt. 7. In artikel 81, § 2, eerste lid, van het koninklijk 
+besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde 
+waarde, laatstelijk gewijzigd bij het koninklijk besluit van 29 augustus 2019, worden de volgende wijzigingen 
+aangebracht:a) in de bepaling onder 1°  worden de woorden "245 EUR" vervangen door de woorden 
+"50 euro";b) in de bepaling onder 2°,  worden de woorden "615 EUR of 1.485 EUR" vervangen door 
+de woorden "400 euro";c) in de inleidende zin van de bepaling onder 3°  worden de woorden "245 
+euro" vervangen door de woorden "50 euro";d) in de bepaling onder 4°  worden de woorden "245 
+euro" vervangen door de woorden "50 euro".Art. 8. Artikel 7 treedt in werking op 1 april 2021.Art. 
+9. De minister bevoegd voor Financiën is belast met de uitvoering van dit besluit.Gegeven te 
+Brussel, 29 maart 2021.FILIPVan Koningswege :De Minister van Financiën,V. 
+VAN PETEGHEMBijlage I bij het koninklijk besluit van 29 maart 2021 Voor de raadpleging van de tabel, zie beeld  Gezien om gevoegd 
+te worden bij ons besluit van 29 maart 2021.FILIPVan Koningswege :De Minister 
+van Financiën,V. VAN PETEGHEMBijlage II bij het koninklijk besluit 
+van 29 maart 2021 Voor de raadpleging van de tabel, zie beeld
+ Gezien om gevoegd te worden bij ons besluit van 29 maart 2021.FILIPVan 
+Koningswege :De Minister van Financiën,V. VAN PETEGHEM   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-31Numac : 2021020715
+

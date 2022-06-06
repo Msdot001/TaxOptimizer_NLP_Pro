@@ -1,0 +1,121 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/06/13/2020015593/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015593
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 13 JUNI 2019. - Koninklijk besluit tot wijziging van artikel 46quater, van het KB/WIB 92, met betrekking tot de toepassingsmodaliteiten inzake het sociaal passief ingevolge het eenheidsstatuut. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 13 juni 2019 tot wijziging 
+van artikel 46quater, van het KB/WIB 92, met betrekking tot de toepassingsmodaliteiten inzake het sociaal 
+passief ingevolge het eenheidsstatuut (Belgisch Staatsblad van 4 juli 2019).Deze vertaling 
+is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN13. JUNI 2019 - Königlicher Erlass zur Abänderung von Artikel 46quater 
+des KE/EStGB 92 hinsichtlich der Anwendungsmodalitäten in Bezug auf die Sozialverbindlichkeiten aufgrund 
+des EinheitsstatutsBERICHT AN DEN KÖNIGSire,durch den Erlass, den ich die 
+Ehre habe, Eurer Majestät zur Unterschrift vorzulegen, wird Artikel 46quater einziger Absatz des KE/EStGB 
+92 angepasst, in dem die Anwendungsmodalitäten in Bezug auf die Sozialverbindlichkeiten aufgrund des 
+Einheitsstatuts in Anwendung von Artikel 67quater des EStGB 92 ausführlich beschrieben sind.Der 
+einleitende Satz wird durch eine Formulierung ersetzt, durch die der Minister der Finanzen oder sein 
+Beauftragter ermächtigt wird, die Modalitäten (EDV-Anwendungen, Datum der Übermittlung usw.) festzulegen, 
+gemäß denen die vom Steuerpflichtigen verlangten Informationen der Verwaltung des FÖD Finanzen 
+jährlich elektronisch erteilt werden müssen.Der erste Gedankenstrich wird abgeändert, damit 
+für den Fall, dass ein Arbeitnehmer der Liste über keine nationale Nummer verfügt, seine Identifizierung 
+dennoch anhand der Bis-Erkennungsnummer, die von der Zentralen Datenbank der sozialen Sicherheit zugeteilt 
+wird, festgestellt werden kann.Damit alle nötigen Überprüfungen für die Kontrolle der Steuerbefreiung 
+für Sozialverbindlichkeiten stattfinden können, ist es schließlich notwendig, den pro Arbeitnehmer 
+beantragten Betrag der Steuerbefreiung für Sozialverbindlichkeiten sowie bei Dienstaustritt eines Arbeitnehmers 
+dieser Liste das Datum seines Dienstaustritts und den Betrag, der aufgrund von Artikel 67quater Absatz 
+8 des EStGB 92 in die Gewinne und Profite des Besteuerungszeitraums aufgenommen wird, der Liste mit erforderlichen 
+Informationen hinzuzufügen.Infolge des Gutachtens Nr. 65.878/3 des Staatsrates vom 6. Mai 2019 
+wurde eine Stellungnahme der Datenschutzbehörde beantragt. Diese Stellungnahme wurde am 5. Juni 2019 
+abgegeben und daraufhin ist der Begriff "Datum des Dienstaustritts" durch den Begriff "Enddatum des Arbeitsvertrags" 
+im Text des Entwurfs ersetzt worden.Da die Abänderungen von Artikel 67quater des EStGB 92, 
+die durch das Gesetz vom 11. Februar 2019 angebracht worden sind, am 1. Januar 2019 in Kraft treten, 
+bleibt das Inkrafttreten des vorliegenden Erlasses auch der 1. Januar 2019 aufgrund der Tatsache, dass 
+es sich hauptsächlich um administrative Verpflichtungen handelt.Soweit, Sire, die Tragweite 
+des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der ehrerbietige 
+und getreue DienerEurer Majestät zu sein.Der Vizepremierminister und Minister der 
+FinanzenA. DE CROO13. JUNI 2019 - Königlicher Erlass zur Abänderung 
+von Artikel 46quater des KE/EStGB 92 hinsichtlich der Anwendungsmodalitäten in Bezug auf die Sozialverbindlichkeiten 
+aufgrund des EinheitsstatutsPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, 
+Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 67quater, eingefügt 
+durch das Gesetz vom 26. Dezember 2013 und abgeändert durch die Gesetze vom 18. Dezember 2015 und 11. 
+Februar 2019;Aufgrund des KE/EStGB 92;Aufgrund der Stellungnahme des Finanzinspektors 
+vom 7. März 2019;Aufgrund des Einverständnisses des Ministers des Haushalts vom 20. März 2019;Aufgrund 
+der Dringlichkeit, begründet durch die Tatsache, dass:- es notwendig ist, vorliegenden Königlichen 
+Erlass gleichzeitig mit Artikel 67quater des EStGB 92 - wie er durch das Gesetz vom 11. Februar 2019 
+abgeändert worden ist -, der die Rechtsgrundlage des Erlasses bildet, in Kraft treten zu lassen, damit 
+die betreffenden Steuerpflichtigen unverzüglich über die Anwendungsmodalitäten dieser Abänderungs-bestimmungen 
+informiert werden,- in Artikel 3 des vorerwähnten Gesetzes das Inkrafttreten der Abänderungen 
+von Artikel 67quater des EStGB 92 auf den 1. Januar 2019 festgelegt ist,- die Bestimmungen 
+des vorliegenden Erlasses daher auch am 1. Januar 2019 in Kraft treten sollten und es daher nicht möglich 
+ist, die Annahme des vorliegenden Erlasses auf einen späteren Zeitpunkt zu verlegen, ohne Gefahr zu laufen, 
+dass die Verteilung der Steuerbefreiung für Sozialverbindlichkeiten aufgrund des Einheitsstatuts nicht 
+in allen Fällen anwendbar ist, wodurch es Nachteile für den Haushalt im Vergleich zu den Prognosen für 
+das Jahr 2019 gibt;Aufgrund des Gutachtens Nr. 65.878/3 des Staatsrates vom 6. Mai 2019, abgegeben 
+in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der koordinierten Gesetze über den Staatsrat;Aufgrund 
+der Stellungnahme Nr. 111/2019 der Datenschutzbehörde vom 5. Juni 2019;Auf Vorschlag des Vizepremierministers 
+und Ministers der FinanzenHaben Wir beschloßen und erlassen Wir:Artikel 1 - 
+Artikel 46quater einziger Absatz des KE/EStGB 92, eingefügt durch den Königlichen Erlass vom 25. April 
+2014, wird wie folgt abgeändert:- Der einleitende Satz wird durch folgenden Satz ersetzt:"Um 
+die in Artikel 67quater des Einkommensteuergesetzbuches 1992 vorgesehene Steuerbefreiung zu erhalten, 
+sind Steuerpflichtige zur jährlichen elektronischen Übermittlung einer namentlichen Liste der eingestellten 
+Arbeitnehmer gemäß den vom Minister der Finanzen oder von seinem Beauftragten festgelegten Modalitäten 
+verpflichtet, unter Angabe für jeden Arbeitnehmer:".- Im ersten Gedankenstrich werden die Wörter 
+"und gegebenenfalls der nationalen Nummer" durch die Wörter "und gegebenenfalls der nationalen Nummer 
+oder der Bis-Erkennungsnummer, die von der Zentralen Datenbank der sozialen Sicherheit zugeteilt wird" 
+ersetzt.- Zwischen dem dritten und vierten Gedankenstrich werden drei Gedankenstriche mit folgendem 
+Wortlaut eingefügt:"- des Betrags der Steuerbefreiung,- gegebenenfalls des Enddatums 
+des Arbeitsvertrags,- gegebenenfalls des Betrags, der gemäß Artikel 67quater Absatz 8 
+desselben Gesetzbuches in die Gewinne und Profite des Besteuerungszeitraums aufgenommen wird,".Art. 
+2 - Vorliegender Erlass wird wirksam mit 1. Januar 2019.Art. 3 - Der für Finanzen zuständige 
+Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 
+13. Juni 2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015593
+

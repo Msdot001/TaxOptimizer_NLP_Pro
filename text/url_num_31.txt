@@ -1,0 +1,214 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/03/27/2020040888/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-03Numac : 2020040888
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 27 MAART 2020. - Koninklijk besluit tot de actualisering van het KB/WIB 92 inzake de roerende voorheffing 
+VERSLAG 
+AAN DE KONINGSire,De in dit ontwerp geviseerde bepalingen van artikel 105, eerste 
+lid, 1°  van het KB/WIB 92 luiden momenteel als volgt:"1°  onder "financiële instellingen of 
+ermede gelijkgestelde ondernemingen, behalve die welke vóór 1 januari 1990 in vereffening zijn gesteld":a) 
+de in België gevestigde kredietinstellingen bedoeld in de wet op het statuut van en het toezicht op de 
+kredietinstellingen van 22 maart 1993 evenals de Nationale Bank van België;[...]e) 
+de kapitalisatieondernemingen die onder de toepassing vallen van het koninklijk besluit nr. 43 van 15 
+december 1934 betreffende de controle op de kapitalisatie-ondernemingen;f) de in België gevestigde 
+hypotheekbanken die onder de toepassing vallen van het koninklijk besluit nr. 225 van 7 januari 1936 
+tot reglementering van de hypothecaire leningen en tot inrichting van de controle op de ondernemingen 
+van hypothecaire leningen of onderworpen aan de wet van 4 augustus 1992 op het hypothecair krediet;g) 
+de vennootschappen die uitsluitend of hoofdzakelijk de financiering van verkopen op afbetaling ten doel 
+hebben en onder de toepassing vallen van de wet van 12 juni 1991 op het consumentenkrediet;h) 
+de plaatselijke handelsvennootschappen en de gewestelijke of beroepsverenigingen van deze vennootschappen, 
+die tot uitvoering van het statuut van de Nationale Kas voor Beroepskrediet krediet voor ambachtsoutillage 
+mogen verstrekken;i) de Belgische verzekeringsondernemingen die binnenlandse vennootschappen 
+zijn en de Belgische inrichtingen van buitenlandse verzekeringsondernemingen;j) de Nationale 
+Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen die onder de toepassing vallen 
+van de wet van 2 april 1962 tot oprichting van een Nationale Investeringsmaatschappij en van gewestelijke 
+investeringsmaatschappijen;k) de vennootschappen voor huisvestingskrediet zijnde de Vlaamse 
+Huisvestingsmaatschappij, de Société régionale Wallonne du logement, de Brusselse Gewestelijke Huisvestings-maatschappij, 
+de Vlaamse Landmaatschappij en de door hen erkende maatschappijen, de coöperatieve vennootschappen "Vlaams 
+Woning-fonds van de grote gezinnen", "Woningfonds van de Bond der kroostrijke gezinnen van België", "Fonds 
+du Logement des familles nombreuses de Wallonie" en "Woningfonds van de gezinnen van het Brusselse Gewest", 
+zomede de door het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest of het Waalse Gewest erkende vennootschappen 
+die uitsluitend ten doel hebben leningen toe te staan voor het bouwen, het aankopen of het inrichten 
+van sociale woningen, kleine landeigendommen of daarmede gelijkgestelde woningen, of voor de uitrusting 
+daarvan met geschikt meubilair;".Deze bepalingen bevatten elk op zich verwijzingen naar opgeheven 
+bepalingen op. Hierdoor dringt een actualisatie van deze bepalingen zich op.a) Art. 105, eerste 
+lid, 1°,  a), KB/WIB 92In artikel 105, eerste lid, 1°,  a), KB/WIB 92 wordt op dit ogenblik 
+verwezen naar de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen. 
+Deze verwijzing is evenwel achterhaald, aangezien deze wet ondertussen werd opgeheven en op dit ogenblik 
+wordt vervangen door de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen 
+en beursvennootschappen. Hierdoor beoogt dit ontwerp om de bestaande verwijzing naar de voormelde wet 
+van 22 maart 1993 te vervangen door de verwijzing naar de voormelde wet van 25 april 2014.Art. 
+105, eerste lid, 1°,  e), KB/WIB 92Het koninklijk besluit van 20 maart 2007 tot uitvoering 
+van artikel 27bis van het koninklijk besluit nr. 43 van 15 december 1934 betreffende de controle op de 
+kapitalisatieondernemingen heeft het voormelde koninklijk besluit nr. 43 opgeheven met uitwerking vanaf 
+31 december 2007.Het statuut van de kapitalisatieondernemingen werd dus ruim tien jaar geleden 
+opgeheven en de bij deze opheffing voorziene overgangsbepalingen zijn ondertussen uitgedoofd. Hierdoor 
+is het aangewezen om de verwijzing ernaar op te heffen.Art. 105, eerste lid, 1°,  f) - g), 
+KB/WIB 92Het koninklijk besluit nr. 225 van 7 januari 1936 tot reglementering van de hypothecaire 
+leningen en tot inrichting van de controle op de ondernemingen van hypothecaire leningen, evenals de 
+wet van 4 augustus 1992 op het hypothecair krediet, werden opgeheven bij artikel 53 van de wet van 19 
+april 2014 houdende invoeging van boek VII "Betalings- en kredietdiensten" in het Wetboek van economisch 
+recht, houdende invoeging van de definities eigen aan boek VII en van de straffen voor de inbreuken op 
+boek VII, in de boeken I en XV van het Wetboek van economisch recht en houdende diverse andere bepalingen.Het 
+statuut van de kredietgevers inzake hypothecair krediet werd geïntegreerd in het Wetboek economisch recht. 
+Hierdoor wordt deze bepaling aangepast door te verwijzen naar de in dat Wetboek opgenomen relevante artikelen.De 
+wet van 12 juni 1991 op het consumentenkrediet werd eveneens opgeheven bij artikel 53 van de voornoemde 
+wet van 19 april 2014.Het statuut van de kredietgever inzake consumentenkrediet werd samen 
+met het statuut van de kredietgevers inzake hypothecair krediet geïntegreerd in het Wetboek economisch 
+recht. Hierdoor werd er voor geopteerd om deze ook in het KB/WIB 92 gezamenlijk te behandelen.Art. 
+105, eerste lid, 1°,  h), KB/WIB 92Krachtens artikel 16 van het koninklijk besluit van 23 december 
+1996 tot wijziging van de wet van 17 juni 1991 tot organisatie van de openbare kredietsector en van het 
+bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen 
+en van diverse andere bepalingen, wat betreft de Nationale Kas voor Beroepskrediet, zijn de kredietverenigingen 
+die toegetreden zijn tot het net van het beroepskrediet niet meer onderworpen aan de toezichtsbevoegdheid 
+van het prudentiële type van de NV Beroepskrediet. Deze bevoegdheid wordt sindsdien uitsluitend uitgeoefend 
+door de Autoriteit voor Financiële Diensten en Markten (FSMA). Deze verenigingen vallen dus onder het 
+toepassingsgebied van de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen 
+en beursvennootschappen. Deze bepaling is bijgevolg overbodig geworden waardoor deze kan worden opgeheven.Art. 
+105, eerste lid, 1°,  j), KB/WIB 92Er wordt voorgesteld om, de verwijzing naar de Nationale 
+Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen, te actualiseren, rekening houdend 
+enerzijds met het gewijzigd opschrift van de wet van 2 april 1962 betreffende de Federale Participatie- 
+en Investeringsmaatschappij en anderzijds met de bevoegdheid van het Vlaams decreet van 7 mei 2004 betreffende 
+de investeringsmaatschappijen.Art. 105, eerste lid, 1°,  k), KB/WIB 92Het landschap 
+van de sociale huisvesting is sinds de laatste aanpassing van artikel 105 KB/WIB 92 grondig gewijzigd, 
+waardoor een actualisatie van deze bepaling noodzakelijk is.Vooreerst zijn enkele van de in 
+deze bepaling vermelde vennootschappen of instellingen van naam veranderd. Zo werd de Vlaamse Huisvestingsmaatschappij 
+omgevormd tot de Vlaamse Maatschappij voor Sociaal Wonen, en werden de namen van het Vlaams Woningfonds 
+van de grote gezinnen en de Société régionale wallonne du Logement eenvoudig afgekort tot respectievelijk 
+het Vlaams Woningfonds en de Société wallonne du Logement.Vervolgens werd in deze bepaling 
+nog het Woningfonds van de Bond der kroostrijke gezinnen van België vermeld, die ten gevolge van de regionalisering 
+van de huisvestingsbevoegdheid ondertussen is opgegaan in haar gewestelijke rechtsopvolgers. Hierdoor 
+is het niet meer nodig om deze nog expliciet te vermelden.Daarnaast heeft het Waalse Gewest 
+ook een nieuwe vennootschap van publiek recht opgericht, met name de Société wallonne du Crédit social, 
+die tot doel heeft om sociale hypothecaire en andere kredieten te verlenen. Het is dan ook noodzakelijk 
+om deze nieuw opgerichte vennootschap expliciet te vermelden.Bovendien moet in deze bepaling 
+ook rekening gehouden worden met enkele beleidsmatige wijzigingen. Zo werd de Vlaamse Wooncode aangepast 
+zodat de nieuwe lokale huisvestingsmaatschappijen sinds deze aanpassing door de Vlaamse Regering worden 
+erkent en dus niet meer door de Vlaamse Maatschappij voor Sociaal Wonen. In het Vlaamse Gewest werd vervolgens 
+ook de bevoegdheid gedelegeerd aan de energiehuizen om te voorzien in energieleningen ten gunste van 
+bepaalde sociale groepen. Ook in het Waalse Gewest werkt de nieuwe Société wallonne du Crédit social 
+nauw samen met lokale partners die op eigen initiatief kredieten kunnen afsluiten. Aangezien deze ook 
+thuis horen in het toepassingsgebied van deze bepaling is het nodig om de omschrijving hieraan aan te 
+passen.Teneinde de leesbaarheid van deze bepaling te vergroten, wordt een onderscheid gemaakt 
+tussen enerzijds de vennootschappen of entiteiten die beogen sociale huisvesting te realiseren en anderzijds 
+vennootschappen of entiteiten die tot doel hebben om te voorzien in een aanbod van sociale leningen.Art. 
+116, KB/WIB 92In gevolge advies 66.916/3 van de Raad van State wordt de in het ontwerp voorgestelde 
+wijziging aan artikel 116, 2°,  KB/WIB 92, geschrapt teneinde het budget-neutrale karakter van dit koninklijk 
+besluit te behouden. Vervolgens werd in navolging van dit advies achtereenvolgens het advies van de Inspecteur 
+van Financiën en de akkoordbevinding van de minister van Begroting gevraagd en verkregen.Dit 
+is, Sire, de draagwijdte van het ontwerp van besluit dat U wordt voorgelegd.Ik heb de eer te 
+zijn,Sire,Van Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,De 
+Vice-Eerste Minister en Minister van Financiën,A. DE CROOADVIES 66.916/3 
+van 13 februari 2020 over een ontwerp van koninklijk besluit `tot actualisering van het KB/WIB 92 inzake 
+de roerende voorheffing'Op 16 januari 2020 is de Raad van State, afdeling Wetgeving, door de 
+Minister van Financiën verzocht binnen een termijn van dertig dagen een advies te verstrekken over een 
+ontwerp van koninklijk besluit `tot actualisering van het KB/WIB 92 inzake de roerende voorheffing'.Het 
+ontwerp is door de derde kamer onderzocht op 11 februari 2020. De kamer was samengesteld uit Jo Baert, 
+kamervoorzitter, Jeroen Van Nieuwenhove en Koen Muylle, staatsraden, Jan Velaers en Bruno Peeters, assessoren, 
+en Astrid Truyens, griffier.Het verslag is uitgebracht door Frédéric Vanneste, eerste auditeur.De 
+overeenstemming tussen de Franse en de Nederlandse tekst van het advies is nagezien onder toezicht van 
+Jo Baert, kamervoorzitterHet advies, waarvan de tekst hierna volgt, is gegeven op 13 februari 
+2020.Bij het om advies voorgelegde ontwerp van koninklijk besluit zijn enkel de volgende opmerkingen 
+te maken.1. In een van de consideransen in de aanhef van het ontwerp wordt gesteld "dat dit 
+besluit op zich geen enkele budgettaire weerslag heeft". Het ontwerp geeft echter uitvoering aan artikel 
+266 van het Wetboek van de Inkomstenbelastingen 1992 (hierna: WIB 92), dat handelt over het verzaken 
+aan de inning van de roerende voorheffing. Alvast voor zover het ertoe strekt om in artikel 116, 2°, 
+ van het koninklijk besluit van 27 augustus 1993 `tot uitvoering van het Wetboek van de inkomstenbelastingen 
+1992' (hierna: KB/WIB 92) verwijzingen toe te voegen naar de artikelen 285 en 288 van het WIB 92, en 
+aldus de verzaking aan de inning van de roerende voorheffing met betrekking tot de in de artikelen 17 
+en 90, eerste lid, 6°  en 11°,  van het WIB 92 vermelde inkomsten, andere dan dividenden van Belgische 
+oorsprong, ook van toepassing te maken op aan institutionele beveks en institutionele bevaks verleende 
+of toegekende inkomsten, heeft het een financiële weerslag. Krachtens de artikelen 5 en 14 van het koninklijk 
+besluit van 16 november 1994 `betreffende de administratieve en begrotingscontrole' zal het derhalve 
+moeten worden onderworpen aan het advies van de inspecteur van Financiën en aan de voorafgaande akkoordbevinding 
+van de minister tot wiens bevoegdheid de Begroting behoort. Van het vervullen van die vormvereisten zal 
+bovendien melding moeten worden gemaakt in de aanhef.2. De aanhef telt vier leden waarin een 
+verantwoording wordt gegeven voor het nemen van het besluit, terwijl bij het ontwerp ook een verslag 
+aan de Koning is gevoegd. Dat verzwaart onnodig de aanhef en is bovendien weinig zinvol, aangezien die 
+verantwoording uit dat verslag dient te blijken (1). De in de aanhef opgenomen overwegingen dienen dan 
+ook geschrapt te worden.De griffier,A. TruyensDe voorzitter,J. 
+Baert_______Nota(1) Beginselen van de wetgevingstechniek - Handleiding 
+voor het opstellen van wetgevende en reglementaire teksten, Raad van State, 2008, nr. 39, te raadplegen 
+op de internetsite van de Raad van State (www.raadvst-consetat.be).27 MAART 
+2020. - Koninklijk besluit tot actualisering van het KB/WIB 92 inzake de roerende voorheffingFILIP, 
+Koning der Belgen,Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet 
+op het Wetboek van de inkomstenbelastingen 1992, artikel 266;Gelet op het KB/WIB 92;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 28 februari 2020;Gelet op de akkoordbevinding 
+van de minister van Begroting, gegeven op 20 maart 2020;Gelet op het advies nr. 66.916/3 van 
+de Raad van State gegeven op 13 februari 2020 met toepassing van artikel 84, §  1, eerste lid, 
+2°,  van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Op de voordracht 
+van de Vice-Eerste Minister en de Minister van Financiën,Hebben Wij besloten en besluiten Wij 
+:Artikel 1. In artikel 105, eerste lid, 1°,  van het KB/WIB 92, worden de volgende wijzigingen 
+aangebracht:1) in de bepaling onder a) worden de woorden "de wet op het statuut en het toezicht 
+op de kredietinstellingen van 22 maart 1993" vervangen door de woorden "de wet van 25 april 2014 op het 
+statuut van en het toezicht op kredietinstellingen en beursvennootschappen";2) de bepaling 
+onder e) wordt opgeheven;3) de bepaling onder f) wordt vervangen als volgt:"f) de 
+in België gevestigde kredietgevers inzake hypothecair krediet en krediegevers inzake consumentenkrediet 
+die bij toepassing van boek VII, titel 4, hoofdstuk 4, afdeling 2 en 3, van het Wetboek economisch recht, 
+gemachtigd zijn om het bedrijf van kredietgever inzake consumentenkrediet of van kredietgever inzake 
+hypothecair krediet op het Belgisch grondgebied uit te oefenen;";4) de bepaling onder g) wordt 
+opgeheven;5) de bepaling onder h) wordt opgeheven;6) de bepaling onder j) wordt vervangen 
+als volgt:"j) de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen 
+die onder de wet van 2 april 1962 betreffende de Federale Participatie- en Investeringsmaatschappij en 
+de gewestelijke investeringsmaatschappijen vallen, zomede die welke onder het Vlaams decreet van 7 mei 
+2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid vallen;";7) de bepaling 
+onder k) wordt vervangen als volgt:"k) de hierna volgende vennootschappen voor huisvestingskrediet:- 
+de Vlaamse Maatschappij voor Sociaal Wonen, de Société wallonne du Logement, de Brusselse Gewestelijke 
+Huisvestingsmaatschappij, de Vlaamse Landmaatschappij en de door hen of de door de bevoegde regering 
+erkende lokale sociale huisvestingsmaatschappijen;- het Vlaams Woningfonds, de Société wallonne 
+du Crédit social, de Fonds du Logement des Familles nombreuses de Wallonie en het Woningfonds van het 
+Brussels Hoofdstedelijk Gewest, zomede de door het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest 
+of het Waalse Gewest erkende vennootschappen of instellingen die tot doel hebben leningen toe te staan 
+voor de aankoop van een bouwgrond, voor de aankoop, het bouwen, het verbouwen, het renoveren of het inrichten 
+van een gezinswoning, alsmede voor de uitrusting daarvan met geschikt meubilair of voor de uitvoering 
+van energiebesparende maatregelen;";Art. 2. De minister bevoegd voor Financiën is belast met 
+de uitvoering van dit besluit.Gegeven te Brussel, 27 maart 2020.FILIPVan 
+Koningswege :De Vice-Eerste Minister en Minister van Financiën,A. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-03Numac : 2020040888
+

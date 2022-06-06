@@ -1,0 +1,746 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/04/24/2021031495/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-21Numac : 2021031495
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 24 APRIL 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Addendum 
+In 
+het Belgisch Staatsblad nr. 116 van zondag 25 april 2021, bladzijde 37775, wordt het officiële advies 
+van de Raad van State toegevoegd.RAAD VAN STATEafdeling WetgevingAdvies 
+69.253/AV van 23 april 2021 over een ontwerp van ministerieel besluit `houdende wijziging van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken 'Op 16 april 2021 is de Raad van State, afdeling Wetgeving, door de Minister van 
+Binnenlandse Zaken, Institutionele Hervormingen en Democratische Vernieuwing verzocht binnen een termijn 
+van vijf werkdagen, verlengd tot acht werkdagen(*)een advies te verstrekken over een ontwerp van ministerieel 
+besluit `houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken'.Het ontwerp is door de algemene 
+vergadering onderzocht op 22 april 2021. De algemene vergadering was samengesteld uit Jacques JAUMOTTE, 
+voorzitter van de Raad van State, Marnix VAN DAMME,Pierre VANDERNOOT, Martine BAGUET en Wilfried 
+VAN VAERENBERGH, kamervoorzitters, Chantal BAMPS, Jeroen VAN NIEUWENHOVE, Luc CAMBIER, Bert THYS, Bernard 
+BLERO, Wouter PAS, Koen MUYLLE, Patrick RONVAUX en Christine HOREVOETS, staatsraden, Jan VELAERS, Sébastien 
+VAN DROOGHENBROECK, Christian BEHRENDT en Johan PUT, assessoren, en Gregory DELANNAY, hoofdgriffier.Het 
+verslag is uitgebracht door Xavier DELGRANGE, eerste auditeur-afdelingshoofd, Jonas RIEMSLAGH, auditeur, 
+Cedric JENART en Anne Stéphanie RENSON, adjunct-auditeurs.De overeenstemming tussen de Franse 
+en de Nederlandse tekst van het advies is nagezien onder toezicht van Jacques JAUMOTTE, voorzitter van 
+de Raad van State.Het advies, waarvan de tekst hierna volgt, is gegeven op 23 april 2021.Overeenkomstig 
+artikel 84, § 3, eerste lid, van de gecoördineerde wetten op de Raad van State, heeft de afdeling 
+Wetgeving zich moeten beperken tot het onderzoek van de bevoegdheid van de steller van de handeling, 
+van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten is voldaan.I. 
+STREKKING VAN HET ONTWERP1.1. Het voor advies voorgelegde ontwerp van ministerieel besluit 
+strekt tot wijziging van het ministerieel besluit van 28 oktober 2020 `houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken'.Het doel van het ontwerp is tweeledig.Enerzijds 
+worden bepaalde maatregelen in het ministerieel besluit van 28 oktober 2020 gewijzigd. Het betreft in 
+hoofdzaak versoepelingen van bestaande maatregelen.Anderzijds wordt het temporele toepassingsgebied 
+van het aldus gewijzigde besluit (artikel 28) verlengd tot en met 31 mei 2021 (artikel 7 van het ontwerp).1.2. 
+De wijzigingen aan de zogenaamde coronamaatregelen kunnen als volgt worden samengevat.De in 
+artikel 5, tweede lid, 14°,  van het ministerieel besluit van 28 oktober 2020 vervatte regel dat er in 
+beginsel individueel gewinkeld moet worden, wordt vervangen door de regel dat een consument in beginsel 
+mag worden vergezeld door één persoon van hetzelfde huishouden (artikel 1 van het ontwerp).Het 
+verbod op het uitoefenen van zogenaamde contactberoepen (artikel 8, § 4, van het ministerieel 
+besluit van 28 oktober 2020) wordt, zij het onder voorwaarden, opgeheven voor wat betreft "de schoonheidssalons, 
+de bemande zonnebanken, de bemande zonnecentra, de niet medische pedicurezaken, de nagelsalons, de massagesalons, 
+de kapperszaken, de barbiers en de tatoeage- en piercingsalons" en op het verbod inzake dienstverlening 
+aan en in huis wordt een uitzondering voor diensten voor haarverzorging toegevoegd (artikel 2 van het 
+ontwerp).De regeling inzake het aanbieden van goederen aan consumenten via een systeem van 
+bestellen en afhalen, van leveren, of via een systeem op afspraak in artikel 8bis van het ministerieel 
+besluit van 28 oktober 2020 wordt opgeheven (artikel 3 van het ontwerp).De drempel voor de 
+algemene beperking op samenscholingen (artikel 15 van het ministerieel besluit van 28 oktober 2020) wordt 
+verhoogd van vier naar tien personen, kinderen tot en met 12 jaar niet meegeteld (artikel 4 van het ontwerp).Van 
+de regels vervat in het te wijzigen besluit kan worden afgeweken in het kader van zogenaamde proef en 
+pilootprojecten. Deze regeling geldt ten aanzien van "de door de bevoegde ministers, in afstemming met 
+de betrokken lokale overheden, de federale minister van Binnenlandse Zaken en de federale minister van 
+Volksgezondheid geselecteerde proef en pilootprojecten die worden georganiseerd op basis van het protocol 
+dat zal worden bepaald door de bevoegde ministers en de federale Minister van Volksgezondheid houdende 
+een kader, kalender en stappenplan voor de organisatie van proef en pilootprojecten, zowel binnen als 
+buiten, overeenkomstig de beslissing van het Overlegcomité ter zake" (artikel 8 van het ontwerp - nieuwe 
+tweede lid van artikel 29 van het ministerieel besluit van 28 oktober 2020).Daarnaast worden 
+enkele wijzigingen met een veeleer technisch karakter aangebracht. De tijdelijke `raamregeling' op treinen 
+met een toeristische bestemming (artikel 19bis van het ministerieel besluit van 28 oktober 2020) wordt 
+opgeheven (artikel 5 van het ontwerp) en de regeling inzake het toezicht door de ambtenaren van de Algemene 
+Directie Economische Inspectie van de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie 
+(artikel 27, § 4, eerste en tweede lid, van het ministerieel besluit van 28 oktober 2020) wordt 
+uitgebreid met een verwijzing naar artikel 5 van het te wijzigen besluit (artikel 6 van het ontwerp).1.3. 
+Het te nemen besluit treedt in werking op 26 april 2021 (artikel 9 van het ontwerp).II. ONTVANKELIJKHEID2. 
+Volgens artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 
+12 januari 1973, moeten in de adviesaanvraag de redenen worden opgegeven tot staving van het spoedeisende 
+karakter ervan.De spoedeisendheid van de adviesaanvraag wordt volgens de adviesaanvrager gemotiveerd 
+door "de noodzakelijkheid om maatregelen te overwegen die gegrond zijn op epidemiologische resultaten 
+die van dag op dag evolueren en waarvan de laatste de maatregelen hebben gerechtvaardigd, dat het zodoende 
+dringend is om bepaalde maatregelen aan te passen, te nemen en te verlengen, zodat die op 26 april 2021 
+in werking kunnen treden. De maatregelen werden beslist tijdens het Overlegcomité dat is bijeengekomen 
+op 14 april 2021 en werden goedgekeurd op de Ministerraad van 15 april 2021".Deze motivering 
+kan worden aanvaard.III. VOORAFGAANDE OPMERKING3. Dit advies is gegeven door de algemene 
+vergadering van de afdeling Wetgeving van de Raad van State binnen een termijn van vijf werkdagen, verlengd 
+tot acht werkdagen met toepassing van artikel 84, §  1, eerste lid, 3°,  van de gecoördineerde 
+wetten op de Raad van State. De aldus toebemeten termijn verstrijkt op woensdag 28 april 2021.Aangezien 
+het ministerieel besluit van 28 oktober 2020 `houdende dringende maatregelen om de verspreiding van het 
+coronavirus COVID-19 te beperken' van toepassing is tot en met 25 april 2021 (artikel 28 van het besluit) 
+en deze ontworpen wijzigingstekst in werking moet treden op maandag 26 april 2021, heeft de algemene 
+vergadering het opportuun geacht dit advies te geven zonder te wachten tot de laatste dag van de toebemeten 
+termijn, en zelfs integendeel het advies te geven binnen de initiële termijn van vijfwerkdagen.In 
+die omstandigheden wil de algemene vergadering van de afdeling Wetgeving van de Raad van State de aandacht 
+te vestigen op het feit dat, binnen de vooropgestelde termijn van vijf werkdagen voor de behandeling 
+van de adviesaanvraag en het geven van het advies, het onderzoek dat zij aldus uitgevoerd heeft, strikt 
+beperkt gebleven is tot de wijzigingsbepalingen die haar voorgelegd zijn, alsook tot de vooropgestelde 
+toepassingstermijn van het ministerieel besluit van 28 oktober 2020, in zoverre die periode betrekking 
+heeft op de wijzigingen die in het ministerieel besluit in kwestie aangebracht zijn en aldus niet over 
+het volledig besluit, zoals het verlengd wordt door artikel 7 van het ontwerp.IV. ALGEMENE 
+OPMERKINGENA. RECHTSGROND4. Luidens de aanhef van het ontwerp wordt rechtsgrond gezocht 
+in:- artikel 4 van de wet van 31 december 1963 `betreffende de civiele bescherming';- 
+de artikelen 11 en 42 van de wet van 5 augustus 1992 `op het politieambt';- de artikelen 181, 
+182 en 187 van de wet van 15 mei 2007 `betreffende de civiele veiligheid'.Het gaat om dezelfde 
+rechtsgronden als die waarnaar verwezen wordt in de aanhef van het ministerieel besluit van 28 oktober 
+2020 zelf, alsook in de verschillende ministeriële besluiten tot wijziging van dat besluit.(1)In 
+het eerste lid van de aanhef wordt tevens verwezen naar artikel 23 van de Grondwet. Hoewel die bepaling, 
+die onder meer een positieve verplichting inzake de bescherming van de gezondheid in hoofde van de overheid 
+bevat(2), deel uitmaakt van de juridische context waarin het voorliggende ontwerpbesluit tot stand komt, 
+biedt zij als dusdanig geen rechtsgrond aan de minister om een dergelijk besluit te nemen.(3)5. 
+Aan de gemachtigde van de minister is gevraagd om toe te lichten welke ingeroepen bepalingen concreet 
+rechtsgrond bieden voor de verschillende onderdelen van het ontwerp. Een dergelijk overzicht werd niet 
+gegeven. Het antwoord van de gemachtigde kwam er integendeel op neer dat de aangehaalde wetsbepalingen 
+samen rechtsgrond bieden voor het geheel van de maatregelen.Volledigheidshalve kan verder worden 
+opgemerkt dat, anders dan het geval was in advies 68.936/AV over het voorontwerp van `pandemiewet', in 
+onderhavig dossier in beginsel niet moet worden onderzocht in welke mate delegaties door de wetgever 
+aan de minister mogelijk zijn. Daarover zijn weliswaar prejudiciële vragen gesteld aan het Grondwettelijk 
+Hof.(4) Zolang het Hof zich daarover niet heeft uitgesproken en desgevallend een ongrondwettigheid heeft 
+vastgesteld, blijven de desbetreffende wetsbepalingen van kracht. Bij het onderzoek van een ontwerpbesluit 
+wordt in beginsel uitgegaan van de bepalingen die de wetgever tot stand heeft gebracht, al moeten die 
+uiteraard nog worden geïnterpreteerd.6. Artikel 4 van de wet van 31 december 1963 `betreffende 
+de civiele bescherming' luidt als volgt:"De Minister tot wiens bevoegdheid Binnenlandse Zaken 
+behoren, organiseert de middelen en lokt de maatregelen uit welke voor geheel 's lands grondgebied nodig 
+zijn voor de civiele bescherming. Hij coördineert de voorbereiding en de toepassing van die maatregelen 
+zowel bij de verschillende ministeriële departementen als bij de openbare lichamen.Die coördinatie 
+heeft ook betrekking op alle maatregelen in verband met het aanwenden van de middelen van de Natie, die 
+reeds in vredestijd moeten worden genomen met het oog op de civiele bescherming in oorlogstijd.De 
+Minister oefent zijn bevoegdheid uit ten aanzien van de vraagstukken met betrekking tot de civiele bescherming 
+die in internationale organisaties worden behandeld, en naar aanleiding van de op dat gebied dienstige 
+internationale uitwisselingen."7. Artikel 11 van de wet van 5 augustus 1992 `op het politieambt' 
+luidt als volgt:"Onverminderd de bevoegdheden die hun zijn toegekend door of krachtens de wet, 
+oefenen de minister van Binnenlandse Zaken en de gouverneur de bevoegdheden van de burgemeester of van 
+de gemeentelijke instellingen in subsidiaire orde uit wanneer deze, al dan niet vrijwillig, hun verantwoordelijkheden 
+niet nakomen, wanneer de verstoring van de openbare orde zich uitstrekt over het grondgebied van verscheidene 
+gemeenten of, wanneer, ook al is de gebeurtenis of de situatie slechts in een enkele gemeente gelokaliseerd, 
+het algemeen belang hun tussenkomst vereist.De bij het eerste lid bedoelde bevoegdheden betreffen 
+maatregelen van bestuurlijke politie in de zin van artikel 3, 1°,  behalve diegene die het voorwerp uitmaken 
+van artikel 42 van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd 
+op twee niveaus."Artikel 3, 1°,  van de wet op de politieambt, waarnaar uitdrukkelijk wordt 
+verwezen in artikel 11 van dezelfde wet, definieert de "politiemaatregelen" als elke juridische of materiële 
+uitvoerbare handeling van bestuurlijke of gerechtelijke politie die voor de burgers een aanwijzing, een 
+verplichting of een verbod inhoudt.De verwijzing in datzelfde artikel 11 van de wet van 5 augustus 
+1992 naar de door de burgemeester of de gemeentelijke instellingen uitgeoefende bevoegdheden moet bovendien 
+begrepen worden als een verwijzing naar de relevante bepalingen ter zake van de Nieuwe Gemeentewet, in 
+het bijzonder haar artikelen 119, 134 en 135.Artikel 42 van dezelfde wet luidt als volgt:"Wanneer 
+hij in gevaar gebracht wordt bij het vervullen van zijn opdracht of wanneer personen in gevaar zijn, 
+kan ieder lid van het operationeel kader de hulp of bijstand vorderen van de ter plaatse aanwezige personen 
+en in geval van absolute noodzaak kan hij eveneens de hulp of bijstand vorderen van enig ander nuttig 
+persoon.De gevorderde hulp of bijstand mag de persoon die ze verleent niet in gevaar brengen."8. 
+De artikelen 181, 182 en 187 van de wet van 15 mei 2007 `betreffende de civiele veiligheid' luiden tot 
+slot als volgt:"Art. 181. § 1. De minister of zijn afgevaardigde kan, bij interventies 
+in het kader van de opdrachten vermeld in artikel 11, in afwezigheid van beschikbare openbare diensten 
+en bij gebrek aan voldoende middelen, de personen en zaken die hij nodig acht, opvorderen.Dezelfde 
+bevoegdheid wordt verleend aan de burgemeester, alsook aan de zonecommandant en, bij delegatie van deze 
+laatste, aan de officieren tijdens interventies van deze diensten in het kader van hun opdrachten.De 
+Koning legt de procedure en de nadere regels van de opvordering vast. § 2. Dragen de 
+kosten verbonden aan de opvordering van personen en zaken en vergoeden deze kosten aan de rechthebbenden:1° 
+ de Staat, wanneer het de minister of zijn afgevaardigde is die overgaat tot de opvordering;2° 
+ de gemeente wanneer het de burgemeester is die overgaat tot de opvordering;3°  de zone wanneer 
+het de zonecommandant of de officieren zijn die overgaan tot de opvordering.De kosten zijn 
+niet verschuldigd wanneer ze voortvloeien uit de herstelling van de schade die veroorzaakt werd aan de 
+opgevorderde personen en zaken en voortvloeien uit ongevallen die plaatsvonden in de loop van of door 
+het feit van de uitvoering van de operaties met het oog waarop de opvordering plaatsvond, wanneer het 
+ongeval opzettelijk veroorzaakt werd door het slachtoffer. § 3. Tijdens de duur van 
+de prestaties, worden de arbeidsovereenkomst en het leercontract geschorst ten voordele van de werknemers 
+die deel uitmaken van deze diensten of die opgevorderd werden.Art. 182. De minister of zijn 
+gemachtigde kan in geval van dreigende omstandigheden de bevolking, ter verzekering van haar bescherming, 
+verplichten zich te verwijderen van plaatsen of streken, die bijzonder blootgesteld, bedreigd of getroffen 
+zijn, en degenen die bij deze maatregelen betrokken zijn een voorlopige verblijfplaats aanwijzen; om 
+dezelfde reden kan hij iedere verplaatsing of elk verkeer van de bevolking verbieden.Dezelfde 
+bevoegdheid wordt toegekend aan de burgemeester.(...)Art. 187. Weigering of verzuim 
+zich te gedragen naar de maatregelen die met toepassing van artikelen 181, § 1, en 182 zijn bevolen, 
+wordt in vredestijd gestraft met gevangenisstraf van acht dagen tot drie maanden, en met geldboete van 
+zesentwintig euro tot vijfhonderd euro, of met één van die straffen alleen.In oorlogstijd of 
+in daarmede gelijkgestelde perioden wordt weigering of verzuim zich te gedragen naar de maatregelen die 
+met toepassing van artikel 185 zijn bevolen gestraft met gevangenisstraf van drie maanden tot zes maanden 
+en met geldboete van vijfhonderd euro tot duizend euro, of met één van de straffen alleen.De 
+minister of, in voorkomend geval, de burgemeester of de zonecommandant, kan bovendien de genoemde maatregelen 
+ambtshalve doen uitvoeren, op kosten van de weerspannige of in gebreke gebleven personen."In 
+artikel 11 van de wet van 15 mei 2007, waarnaar verwezen wordt in artikel 181, § 1, van dezelfde 
+wet, worden de verschillende algemene opdrachten van de operationele diensten van de civiele veiligheid 
+als volgt opgesomd:" § 1. [...]:1°  de redding van en de bijstand aan personen 
+in bedreigende omstandigheden en de bescherming van hun goederen;2°  de dringende geneeskundige 
+hulpverlening zoals bepaald in artikel 1 van de wet van 8 juli 1964 betreffende de dringende geneeskundige 
+hulpverlening;3°  de bestrijding van brand en ontploffing en hun gevolgen;4°  de 
+bestrijding van vervuiling en van het vrijkomen van gevaarlijke stoffen met inbegrip van radioactieve 
+stoffen en ioniserende straling;5°  de logistieke ondersteuning. § 2 Maken 
+integraal deel uit van de opdrachten opgesomd in § 1, 1°,  3°,  5°,  de proactie, de preventie, 
+de preparatie, de uitvoering en de evaluatie.In de zin van deze paragraaf, worden begrepen 
+onder:1°  proactie: alle maatregelen om de risico's te inventariseren en te analyseren;2° 
+ preventie: alle maatregelen om het zich voordoen van de risico's te beperken of de gevolgen van het 
+zich voordoen te minimaliseren;3°  preparatie: alle maatregelen om te garanderen dat de dienst 
+klaar is om het hoofd te bieden aan een reëel incident;4°  uitvoering: alle maatregelen die 
+genomen worden wanneer er zich daadwerkelijk een incident voordoet;5°  evaluatie: alle maatregelen 
+om de proactie, preventie, preparatie en uitvoering te verbeteren via lessen getrokken uit het incident."9. 
+De concrete draagwijdte van de verschillende zonet vermelde rechtsgronden, heeft, wat de bevoegdheid 
+van de federale overheid op zich betreft, het voorwerp gemaakt van een algemene analyse door de algemene 
+vergadering van de afdeling Wetgeving van de Raad van State in het voornoemde advies 68.936/AV gegeven 
+op 7 april 2021 over een voorontwerp van `pandemiewet'.De kwestie van het bestaan, in die verschillende 
+teksten, van een toereikende rechtsgrond voor het vaststellen, bij ministeriële besluiten, van de huidige 
+maatregelen in de strijd tegen de COVID-19-pandemie geeft momenteel aanleiding tot controverse zowel 
+in de doctrine als in de rechtspraak, wat oorzaak is van enige rechtsonzekerheid, met name op het vlak 
+van de rechtspraak van de gewone hoven en rechtbanken. Zo kan gewezen worden op een vonnis van de correctionele 
+rechtbank van Charleroi(5) en op een arrest van het hof van beroep van Bergen,(6) waarin geoordeeld werd 
+dat de bestaande ministeriële besluiten niet ter zijde geschoven dienden te worden. De Franstalige rechtbank 
+van eerste aanleg van Brussel daarentegen heeft in een beschikking van 31 maart 2021, uitgesproken in 
+kort geding, geoordeeld dat de ministeriële besluiten van 18 en 28 oktober 2020 geen toereikende rechtsgrond 
+hebben.(7) De Belgische Staat heeft evenwel hoger beroep ingesteld tegen die beschikking.Het 
+is in die context dat de minister bevoegd voor Binnenlandse Zaken het initiatief genomen heeft om het 
+hierboven vermelde voorontwerp van `pandemiewet' uit te werken, welk voorontwerp ertoe strekt een duidelijk 
+en coherent juridisch kader te voorzien teneinde in de toekomst beter om te kunnen gaan met "epidemische 
+noodsituaties", in de zin zoals gedefinieerd in dat voorontwerp van wet.10.1. Over de zo-even 
+aangehaalde wetsbepalingen heeft de algemene vergadering van de afdeling Bestuursrechtspraak, in het 
+kader van een vordering tot schorsing bij uiterst dringende noodzakelijkheid, in de context van de COVID-19-pandemie 
+onder meer ook het volgende opgemerkt(8):"10. (...) Krachtens artikel 4, eerste lid, van de 
+wet van 31 december 1963, die zowel in oorlogstijd als in vredestijd geldt, organiseert de minister van 
+Binnenlandse Zaken de middelen en lokt de maatregelen uit welke voor geheel 's lands grondgebied nodig 
+zijn voor de civiele bescherming. Zij coördineert de voorbereiding en de toepassing van die maatregelen 
+zowel bij de verschillende ministeriële departementen als bij de openbare lichamen.De `civiele 
+bescherming' beoogt niet alleen de bescherming en het voortleven van de bevolking, evenals de vrijwaring 
+van 's Lands patrimonium in oorlogstijd te verzekeren doch eveneens hulp en bijstand te verlenen in vredestijd 
+in geval van rampspoedige gebeurtenissen, catastrofen en schadegevallen zoals branden, overstromingen 
+en andere dergelijke rampen (Parl. St., Senaat, 1961-1962, 338, 2). Onder dergelijke catastrofen lijken 
+ook besmettingen met een levend virus te kunnen worden begrepen, zoals te dezen de besmetting met SARS-CoV-2 
+die leidt tot COVID-19. Dat ook besmettingen met een levensbedreigend virus door de noodplanning worden 
+gevat, lijkt ook steun te vinden in het koninklijk besluit van 31 januari 2003 dat, zoals hiervoor is 
+gebleken, in zijn aanhef verwijst naar diverse crisissituaties waaronder besmettelijke ziekten.Volgens 
+artikel 3 van de wet van 15 mei 2007 omvat de `civiele veiligheid' alle civiele maatregelen en middelen 
+nodig voor het volbrengen van de opdrachten vermeld in de wet om te allen tijde personen en hun goederen 
+en leefomgeving te hulp te komen en te beschermen. Onder `civiele maatregelen' worden de maatregelen 
+verstaan die noch van politionele, noch van militaire aard zijn (artikel 3 juncto artikel 1, § 
+2, 7°,  van de wet van 15 mei 2007). In geval van dreigende omstandigheden kan de minister of zijn gemachtigde 
+`de bevolking, ter verzekering van haar bescherming, verplichten zich te verwijderen van plaatsen of 
+streken, die bijzonder blootgesteld, bedreigd of getroffen zijn, en degenen die bij deze maatregelen 
+betrokken zijn een voorlopige verblijfplaats aanwijzen; om dezelfde reden kan hij iedere verplaatsing 
+of elk verkeer van de bevolking verbieden' (artikel 182 van de wet van 15 mei 2007). Weigering of verzuim 
+zich te gedragen naar de maatregelen die met toepassing van (onder meer) artikel 182 zijn bevolen, wordt 
+in vredestijd gestraft met gevangenisstraf van acht dagen tot drie maanden, en met een geldboete van 
+zesentwintig euro tot vijfhonderd euro, of met één van die straffen alleen (artikel 187, eerste lid). 
+De minister of, in voorkomend geval, de burgemeester of de zonecommandant, kan bovendien de genoemde 
+maatregelen ambtshalve doen uitvoeren, op kosten van de weerspannige of in gebreke gebleven personen 
+(artikel 187, laatste lid).11. Daarnaast oefenen de minister van Binnenlandse Zaken en de gouverneur 
+op grond van de wet van 5 augustus 1992 ook bevoegdheden inzake bestuurlijke politie uit. Krachtens artikel 
+11 van die wet oefenen zij immers, en zulks onverminderd de bevoegdheden die hun zijn toegekend door 
+of krachtens de wet (zoals, te dezen, de bevoegdheden inzake civiele veiligheid), de bevoegdheden van 
+de burgemeester in subsidiaire orde uit (onder meer) `wanneer de verstoring van de openbare orde zich 
+uitstrekt over het grondgebied van verscheidene gemeenten of, wanneer, ook al is de gebeurtenis of de 
+situatie slechts in een enkele gemeente gelokaliseerd, het algemeen belang hun tussenkomst vereist'. 
+Die bevoegdheden betreffen - behalve diegene die het voorwerp uitmaken van artikel 42 van de wet van 
+7 december 1998 `tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus' 
+- maatregelen van bestuurlijke politie in de zin van artikel 3, 1°,  van diezelfde wet. Onder (politie)maatregel 
+in de zin van artikel 3, 1°,  van de wet van 5 augustus 1992 wordt verstaan `elke juridische of materiële 
+uitvoerbare handeling van bestuurlijke of gerechtelijke politie die voor de burgers een aanwijzing, een 
+verplichting of een verbod inhoudt'.Er dient vastgesteld dat het op grond van artikel 135, 
+§ 2, tweede lid, 5°,  van de Nieuwe Gemeentewet tot de taak van de gemeenten behoort om, ten behoeve 
+van de inwoners, te voorzien in een goede politie, met name over de zindelijkheid, de gezondheid, de 
+veiligheid en de rust op openbare wegen en plaatsen en in openbare gebouwen. Meer bepaald wordt de volgende 
+zaak van politie aan de waakzaamheid en het gezag van de gemeenten toevertrouwd, `5°  het nemen van passende 
+maatregelen om rampen en plagen, zoals brand, epidemieën en epizoötieën te voorkomen en het verstrekken 
+van de nodige hulp om ze te doen ophouden'. In subsidiaire orde `wanneer de verstoring van de openbare 
+orde zich uitstrekt over het grondgebied van verscheidene gemeenten of, wanneer, ook al is de gebeurtenis 
+of de situatie slechts in een enkele gemeente gelokaliseerd, het algemeen belang hun tussenkomst vereist' 
+komt die taak en de erbij horende uitoefening van politionele bevoegdheid de minister van Binnenlandse 
+Zaken toe (artikel 11 van de wet van 5 augustus 1992). (...)"In hetzelfde arrest van 30 oktober 
+2020 werd vervolgens opgemerkt dat de aangevochten maatregelen, namelijk de "verplichte sluiting van 
+de horeca, met uitzondering van randactiviteiten" voor een maand, "lijkt te kunnen worden ingepast in 
+de bij artikel 11 van de wet van 5 augustus 1992 rechtstreeks aan de minister toegewezen bevoegdheid 
+zodat aan het algemeen rechtsbeginsel vervat in artikel 105 van de Grondwet op zich lijkt te zijn voldaan". 
+Tevens werd geoordeeld dat "in de opgelegde sluiting een verplaatsingsverbod [lijkt] te kunnen worden 
+gezien in de zin van artikel 182 van de wet van 15 mei 2007 krachtens hetwelk de minister in geval van 
+dreigende omstandigheden de bevolking, ter verzekering van haar bescherming, kan verplichten zich te 
+verwijderen van plaatsen, die bijzonder blootgesteld, bedreigd of getroffen zijn en zelfs, wat het geval 
+is bij een (gehele) lockdown, om dezelfde reden iedere verplaatsing of elk verkeer van de bevolking kan 
+verbieden".(9)10.2. In enkele latere arresten, steeds uitgesproken in het kader van een vordering 
+tot schorsing bij uiterst dringende noodzakelijkheid, is, onder verwijzing naar dit arrest van 30 oktober 
+2020, in gelijkluidende zin geoordeeld met betrekking tot de sluiting van de horeca(10) en de sluiting 
+van bepaalde kansspelinrichtingen(11).10.3. In een ander arrest van 30 oktober 2020 oordeelde 
+de algemene vergadering van de afdeling Bestuursrechtspraak, eveneens in het kader van een vordering 
+tot schorsing bij uiterst dringende noodzakelijkheid, dat een middel waarin werd aangevoerd dat de minister, 
+mede in het licht van het in artikel 14 van de Grondwet vervatte legaliteitsbeginsel in strafzaken, haar 
+bevoegdheden te buiten was gegaan met het vaststellen van een tijdelijke avondklok niet ernstig was.(12)Daarbij 
+merkte de Raad van State op dat "de bepalingen van de wet van 31 december 1963 betreffende opvordering 
+van personen en goederen, de maatregelen ter evacuatie van bepaalde plaatsen of de isolatiemaatregelen" 
+zijn overgeheveld naar titel XI van de wet van 15 mei 2007 en dat in de memorie van toelichting over 
+die bepalingen van de wet van 31 december 1963 werd gesteld dat tot "de bijzondere rampen waarin de voormelde 
+zeer ruime bevoegdheid aan de minister wordt gegeven (...) onder meer de gevallen waarin `er gevaar voor 
+radioactiviteit of voor besmetting bestaat' (Parl.St. Senaat 1961-1962, stuk 338, 5)" behoren.(13)10.4. 
+Uit wat voorafgaat en uit de bestaande rechtsgronden die de minister bevoegd voor Binnenlandse Zaken 
+uitdrukkelijk de bevoegdheid verlenen om ter zake op te treden, lijkt te kunnen worden afgeleid, uiteraard 
+onder voorbehoud van een eventuele grondwettigheidtoetsing van de delegatie aan de minister die het Grondwettelijk 
+Hof dienaangaande zou moeten uitvoeren(14) en onder voorbehoud van een finaal oordeel door de afdeling 
+Bestuursrechtspraak van de Raad van State of van het Hof van cassatie over de draagwijdte van de rechtsgrond 
+van het ministerieel besluit van 28 oktober 2020, dat de tussenkomst van de minister bevoegd voor Binnenlandse 
+zaken in het kader van de coronapandemie in beginsel aanvaard mag worden op basis hetzij van de ene of 
+de andere vermelde rechtsgrond, hetzij een combinatie van deze verschillende rechtsgronden, onder meer 
+telkens de genomen maatregel kan gekwalificeerd worden als een plaats- of verplaatsingsverbod, waarbij 
+het mits naleving van een of meerdere voorwaarden of modaliteiten alsnog toegelaten is zich op een bepaalde 
+plaats te bevinden of zich naar een bepaalde plaats te begeven.11. Op grond van het bovenstaande 
+kan worden aangenomen dat de ontworpen wijzigingen vervat in de artikelen 1 tot 5 en 8 van het ontwerp 
+kunnen worden geacht voldoende rechtsgrond te vinden in de aanhef van het ontworpen ministerieel besluit 
+opgenomen verscheidene wetsbepalingen. De meeste ervan mogen met name worden beschouwd als een regeling 
+waarbij de betrokkenen worden verplicht "zich te verwijderen van plaatsen of streken" of waarbij "iedere 
+verplaatsing of elk verkeer van de bevolking" wordt verboden, zij het dat het telkens gaat om een plaats- 
+of verplaatsingsverbod waar een complex stelsel van voorwaarden aan wordt gekoppeld: artikel 1 van het 
+ontwerp regelt de voorwaarden voor het winkelen met meer dan één persoon; artikel 2 betreft de verplichte 
+sluiting dan wel mogelijke opening van bepaalde handelszaken waarbij de afstand van 1,5 meter tussen 
+de dienstverlener en de consument niet kan worden gegarandeerd, alsook de dienstverlening aan en in huis; 
+artikel 4 betreft de mate waarin personen, op het grondgebied, kunnen samenkomen; artikel 3 en artikel 
+5 van het ontwerp heffen regels met een vergelijkbare strekking op.12. Artikel 8 van het ontwerp 
+voert de mogelijkheid in om, onder bepaalde voorwaarden, af te wijken van de in het ministerieel besluit 
+van 28 oktober 2020 vervatte regels in het kader van proef- en pilootprojecten. In zoverre de regels 
+waarvan kan worden afgeweken op grond van de ontworpen bepaling rechtsgrond vinden in de bepalingen die 
+in het aanhef opgesomd worden, bieden die wetsbepalingen ook rechtsgrond voor artikel 8 van het ontwerp. 
+In zoverre de afwijking betrekking heeft (of kan hebben) op andere onderdelen van het ministerieel besluit 
+van 28 oktober 2020, moet in beginsel rechtsgrond worden gezocht in de wetsbepalingen die ook rechtsgrond 
+kunnen bieden voor de bepalingen in kwestie.13. Artikel 6 van het ontwerp wijzigt in artikel 
+27, §  4, van het ministerieel besluit van 28 oktober 2020 de verwijzing naar andere bepalingen 
+van dat besluit, zodat de ambtenaren van de Algemene Directie Economische Inspectie van de Federale Overheidsdienst 
+Economie, K.M.O., Middenstand en Energie bijkomend bevoegd worden gemaakt voor de opsporing en vaststelling 
+van inbreuken op de artikelen 5 en 8, § 1, van het ministerieel besluit van 28 oktober 2020.De 
+gemachtigde lichtte de doelstelling van deze bepaling als volgt toe:"Artikel 6 van het ontwerp 
+omvat een uitbreiding van de controlebevoegdheid van de Algemene Directie Economische Inspectie, die 
+ook zal kunnen optreden naar aanleiding van meldingen die ze ontvangt van consumenten of ondernemingen 
+jegens de in die bepaling genoemde inrichtingen. (...) De Economische Inspectie controleert o.a. op de 
+naleving van maatregelen voortvloeiende uit het MB (en desgevallend op geconcretiseerde maatregelen voortvloeiende 
+uit de sectorprotocollen)."De vraag rijst evenwel aan welke wetsbepaling de minister bevoegd 
+voor Binnenlandse Zaken de bevoegdheid ontleent om, naast de politieambtenaren van de lokale en federale 
+politie, ambtenaren van het algemeen bestuur de bevoegdheid te verlenen inzake de opsporing en vaststelling 
+van inbreuken op het ministerieel besluit van 28 oktober 2020.Die bevoegdheid lijkt, wat betreft 
+de Algemene Directie Economische Inspectie, alvast niet te kunnen worden afgeleid uit boek XV ("Rechtshandhaving") 
+van het Wetboek van economisch recht. Zo wordt bij artikel XV.2 van dat wetboek de minister bevoegd voor 
+Economie (en niet de minister bevoegd voor Binnenlandse Zaken) gemachtigd om ambtenaren aan te stellen 
+voor de "opsporing en vaststelling van inbreuken op de bepalingen van dit Wetboek, van zijn uitvoeringsbesluiten 
+en van de verordeningen van de Europese Unie waarvoor dit boek in sancties voorziet, met uitzondering 
+van de bepalingen opgenomen in Boek IV en de uitvoeringsbesluiten ervan". Ook de bepalingen over de bijzondere 
+bevoegdheden van die ambtenaren in de artikelen XV.10/1 en volgende van het Wetboek van economisch recht 
+bevatten geen mogelijkheid om ze bevoegd te maken voor de opsporing en vaststelling van bepalingen van 
+het ministerieel besluit van 28 oktober 2020. Overeenkomstig artikel XV.10 van het Wetboek van economisch 
+recht kan de Koning bij een besluit vastgesteld na overleg in de Ministerraad, aan de voornoemde ambtenaren 
+bijkomende specifieke bevoegdheden toekennen om inbreuken op te sporen en vast te stellen, mits dat koninklijk 
+besluit binnen 18 maanden na de inwerkingtreding ervan wordt bekrachtigd bij wet. Van die mogelijkheid 
+kan evenwel geen gebruik worden gemaakt in het ontworpen ministerieel besluit, tenzij eerst een koninklijk 
+besluit wordt uitgewerkt ter uitvoering van de laatstgenoemde wetsbepaling.Artikel 4 van de 
+wet van 31 december 1963 bepaalt weliswaar dat de minister bevoegd voor Binnenlandse Zaken de voorbereiding 
+en de toepassing coördineert van de maatregelen inzake civiele bescherming die nodig zijn voor het geheel 
+van 's lands grondgebied, zowel bij de verschillende ministeriële departementen als bij de openbare lichamen. 
+De Raad van State meent echter te moeten betwijfelen of op een dergelijke algemene bepaling kan worden 
+gesteund om aan ambtenaren van die ministeriële departementen de bevoegdheid te verlenen tot de opsporing 
+en vaststelling van inbreuken op het ministerieel besluit van 28 oktober 2020.Het is dan ook 
+raadzaam om een meer zekere rechtsgrond hiervoor te creëren. Te dien aanzien kan erop worden gewezen 
+dat artikel 8, 4°,  van het voorontwerp van `pandemiewet' bepaalt dat het toezicht op de naleving van 
+de maatregelen die ter uitvoering van de artikelen 4 en 5 van die aan te nemen wet worden genomen, wordt 
+verzekerd door onder meer die Algemene Directie Economische Inspectie.B. BEVOEGDHEID14. 
+De algemene vergadering van de afdeling Wetgeving heeft recentelijk in haar voornoemde advies 68.936/AV 
+van 7 april 2021, het volgende in herinnering gebracht:"De bevoegdheid tot bestrijding van 
+een epidemische noodsituatie is geen bevoegdheid die als zodanig exclusief aan één overheid de federale, 
+de gemeenschaps of de gewestelijke - is toegewezen. Zoals de Raad van State, afdeling Wetgeving reeds 
+eerder(15) en ook nog tijdens de huidige COVID-19-pandemie(16) in herinnering heeft gebracht, is `elke 
+overheid verantwoordelijk voor de bestrijding van een volksgezondheidscrisis binnen de grenzen van haar 
+eigen materiële bevoegdheden.(17)'(...) In de strijd tegen een epidemische noodsituatie kan 
+de federale overheid maatregelen nemen in het kader van haar bevoegdheden inzake:- het gezondheidsbeleid;- 
+de handhaving van de openbare orde, meer bepaald de handhaving van de gezondheid in het openbaar (sanitaire 
+politie);- de civiele bescherming en civiele veiligheid;- de controle van de buitengrenzen;- 
+sanitaire maatregelen in het kader van andere federale bevoegdheden".In casu vallen verschillende 
+maatregelen die het voorliggende ontwerp beoogt te versoepelen, binnen het toepassingsgebied van de federale 
+bevoegdheden inzake sanitaire politie, civiele bescherming en/of civiele veiligheid.In dat 
+verband heeft de algemene vergadering van de afdeling Wetgeving in haar advies 68.936/AV het volgende 
+gepreciseerd:"Op grond van haar ruime bevoegdheid inzake sanitaire politie, civiele bescherming 
+en de civiele veiligheid heeft de federale overheid in het verleden maatregelen uitgevaardigd die een 
+ingrijpende weerslag hebben op beleidsdomeinen die tot de bevoegdheid van de gemeenschappen en/of de 
+gewesten behoren. Zo heeft de federale overheid, in het verleden, in de strijd tegen een epidemische 
+noodsituatie maatregelen genomen zoals het sluiten van onderwijsinstellingen, het verbieden van culturele 
+evenementen of het slechts openhouden van de scholen of het slechts toestaan van de culturele evenementen 
+onder bepaalde sanitaire voorwaarden (aantal deelnemers, mondmaskerplicht en sociale afstandsvereiste, 
+enz.). Alhoewel deze maatregelen een duidelijk sanitaire dimensie hebben, kunnen ze, omwille van hun 
+ingrijpende impact op beleidsdomeinen van andere overheden, slechts door de federale overheid worden 
+genomen wanneer het belangrijkste aspect ervan, gelet op hun inzet, kan geacht worden betrekking te hebben 
+op de sanitaire politie, de civiele bescherming en/of civiele veiligheid, waarvoor de federale overheid 
+is bevoegd. Het komt de Raad van State voor dat dit laatste slechts het geval zal zijn, wanneer aan drie 
+voorwaarden is voldaan.In de eerste plaats moet de federale overheid bij de uitoefening van 
+haar bevoegdheden steeds het evenredigheidsbeginsel eerbiedigen. Dit algemeen beginsel, dat samenhangt 
+met de in artikel 143, §  1, van de Grondwet voorgeschreven federale loyauteit(18), is in deze 
+aangelegenheid des te meer van belang daar de federale bevoegdheden inzake de handhaving van de openbare 
+orde (sanitaire politie), de civiele bescherming en de civiele veiligheid zo ruim zijn dat ze, uit hun 
+aard, een ingrijpende weerslag kunnen hebben op domeinen die tot de bevoegdheid van andere overheden 
+behoren. Een verantwoorde uitoefening van deze bevoegdheden, in overeenstemming met het evenredigheidsbeginsel, 
+veronderstelt dat aan de beslissing van de federale overheid een zorgvuldige, op wetenschappelijke inzichten 
+gebaseerde, afweging voorafgaat tussen enerzijds de redelijkerwijze te verwachten resultaten van de overwogen 
+maatregel in de strijd tegen een epidemische noodsituatie en anderzijds de weerslag ervan op de beleidsdomeinen 
+die aan de gemeenschappen en de gewesten toebehoren. Het komt de Raad van State voor dat de draagwijdte 
+die het evenredigheidsbeginsel heeft in het leerstuk over de beperkingsvoorwaarden van grondrechten, 
+mutatis mutandis, ook hier geldt. Het beginsel impliceert dat `de overheid in het licht van de aard van 
+de feiten waarop zij steunt, van de ernst van die feiten en van de omstandigheden van de zaak dient aan 
+te tonen dat de maatregel die zij overweegt te nemen een noodzakelijke, passende en evenredige maatregel 
+is: wat dat betreft, komt het er heel in het bijzonder op aan zich ervan te vergewissen dat er een voldoende 
+rechtstreeks en nauw verband is tussen enerzijds de toedracht en de omstandigheden van de zaak en anderzijds 
+de verstoring van de openbare orde die men met de voorgenomen politiemaatregel wil voorkomen opdat de 
+maatregel(19) kan worden verantwoord.'(20)Een tweede voorwaarde is dat de federale overheid, 
+die zich voorneemt een maatregel te nemen die een rechtstreekse weerslag heeft op domeinen die tot de 
+materiële bevoegdheid van de deelstaten behoren, vooraf overleg dient te plegen met die andere overheden(21). 
+Hoewel een dergelijk overleg niet mag leiden tot een afstand of overdracht van bevoegdheid, is het onontbeerlijk 
+om de gevolgen van de genomen maatregelen voor de beleidsdomeinen die tot de bevoegdheidssfeer van de 
+gemeenschappen en de gewesten behoren correct te kunnen inschatten en zich zo een juist beeld te vormen 
+van het al dan niet evenredig karakter van de genomen maatregelen. Een dergelijk overleg is een voorwaarde 
+die moet vervuld zijn om met het evenredigheidsbeginsel in overeenstemming te kunnen zijn.Deze 
+verplichting om overleg te plegen sluit overigens niet uit dat de federale overheid, gelet op de verwevenheid 
+van de bevoegdheden, het overleg voert in het overlegcomité, opgericht bij de artikelen 31 en 31/1 van 
+de gewone wet van 9 augustus 1980 `tot hervorming der instellingen' en over de te nemen maatregelen een 
+consensus nastreeft.Het kan evenwel gebeuren dat, in spoedeisende situaties(22), dit overleg 
+niet kan plaatsvinden, omdat anders de doeltreffendheid van de te nemen maatregelen aangetast zou worden. 
+Wanneer dat het geval is, moet de federale overheid kunnen verantwoorden waarom het niet mogelijk is 
+dat overleg te plegen en moet ze, vervolgens, dat overleg aanvatten zodra de omstandigheden dat toelaten.De 
+federale overheid moet er ten slotte, als derde voorwaarde, ook over waken dat zij zich strikt beperkt 
+tot hetgeen kan worden ingepast in haar bevoegdheden inzake sanitaire politie, civiele bescherming of 
+civiele veiligheid en daarbij niet overgaat tot het louter uitoefenen van de materiële bevoegdheden van 
+een andere overheid. Het komt de federale overheid niet toe om, in het kader van de bestrijding van een 
+epidemische noodsituatie op grond van de bevoegdheden inzake bestuurlijke politie, civiele bescherming 
+en/of civiele veiligheid, maatregelen te nemen zonder sanitaire dimensie. Zo kan de federale overheid 
+bv. een mondmaskerplicht en een sociale afstandsvereiste opleggen in scholen en musea, voor zover dat 
+een evenredige en noodzakelijke maatregel is (randnummer 33), en - in uiterste omstandigheden - zelfs 
+beslissen deze te sluiten(23). Ze kan daarbij evenwel niet aan de gemeenschappen alternatieve regelingen 
+voor het onderwijs en voor cultuurbeleving opleggen, zoals bv. de verplichting om afstandsonderwijs aan 
+te bieden of om in een online-museum-aanbod te voorzien, of omgekeerd - deze uitsluiten. Dergelijke maatregelen 
+kunnen immers niet als sanitaire maatregelen worden beschouwd".15. In casu leidt het onderzoek 
+van de drie bovengenoemde vereisten tot de volgende opmerkingen:- wat het vereiste van materiële 
+evenredigheid betreft, blijkt uit de aanhef van het voorliggende ontwerpbesluit dat het werd voorafgegaan 
+door een analyse van de recente wetenschappelijke gegevens(24);- wat het vereiste inzake overleg 
+betreft, dit is in acht genomen aangezien uit het dossier dat aan de Raad van State is voorgelegd, blijkt 
+dat er op 14 april 2021 in het overlegcomité een overleg is georganiseerd;- tot slot passen 
+de versoepelingsmaatregelen waarin het voorliggende ontwerp voorziet, in het kader van wat als sanitaire 
+maatregelen kan worden gekwalificeerd.16. In het bijzonder met betrekking tot de proef- en 
+pilootprojecten uit artikel 8 van het ontwerp rijst de vraag of de federale overheid daarvoor bevoegd 
+is in het kader van haar bevoegdheden inzake civiele veiligheid, civiele bescherming en sanitaire politie.Er 
+kan worden aangenomen dat die proef- en pilootprojecten voor de federale overheid waardevolle informatie 
+opleveren voor de evaluatie en eventuele bijsturing van de maatregelen die vervat zijn in het ministerieel 
+besluit van 28 oktober 2020, maar dat betekent nog niet, zoals de Raad van State heeft uiteengezet in 
+voornoemde advies 68.936/AV, dat de federale overheid aan de gemeenschappen (en de gewesten) "alternatieve 
+regelingen voor het onderwijs en voor cultuurbeleving [kan] opleggen".(25)De stellers van het 
+ontwerp zijn zich allicht bewust van de mogelijkheid dat die proef- en pilootprojecten verweven kunnen 
+zijn met bevoegdheden van de gemeenschappen en de gewesten, aangezien in artikel 8 van het ontwerp gewag 
+wordt gemaakt van "de bevoegde ministers"(26) die die projecten mee selecteren en mee het protocol bepalen 
+met een kader, kalender en stappenplan voor de organisatie van die proef- en pilootprojecten. Bovendien 
+wordt verwezen naar de overeenstemming hiervan met "de beslissing van het Overlegcomité ter zake". Er 
+is ook sprake van zulke "beslissing" in het ontworpen artikel 8, § 4, eerste lid, 4°,  van het 
+ministerieel besluit (artikel 2 van het ontwerp).Op de vraag wat de juridische draagwijdte 
+is van de laatstgenoemde "beslissing", antwoordde de gemachtigde als volgt:"Deze toevoeging 
+moet verzekeren dat de protocollen worden opgesteld op basis van de genomen beslissingen van het Overlegcomité 
+van 5 februari 2021 waar de specifieke modaliteiten voor het heropenen van de contactberoepen uitdrukkelijk 
+werden toegelicht en het Overlegcomité van 19 maart 2021 en 14 april 2021 waar de mogelijkheid voor het 
+organiseren van pilootprojecten werd besproken."Deze "beslissingen" van het Overlegcomité hebben 
+evenwel geen bindende juridische waarde(27) en kunnen evenmin tot gevolg hebben dat de federale overheid 
+haar zo-even geschetste bevoegdheden te buiten gaat door proef- en pilootprojecten te organiseren waarvoor 
+de gemeenschappen of de gewesten bevoegd zijn.(28) Het is wel mogelijk dat de federale overheid meewerkt 
+aan die organisatie, specifiek vanuit het oogpunt van haar bevoegdheden, onder meer door voor die proef- 
+en pilootprojecten vrijstelling te verlenen van maatregelen vervat in het ministerieel besluit van 28 
+oktober 2020 en met de bedoeling om op basis van de bevindingen van die proef- en pilootprojecten die 
+maatregelen te evalueren en bij te sturen. Tevens kan de federale overheid eigen proef- en pilootprojecten 
+organiseren binnen haar materiële bevoegdheden.In de zo-even geschetste bevoegdheidsconforme 
+interpretatie kan de ontworpen bepaling doorgang vinden.C. VORMVEREISTEN17. Aangezien 
+de wettelijke bepalingen die een rechtsgrond opleveren voor het voorliggende ontwerp de minister bevoegd 
+voor Binnenlandse Zaken niet machtigen om af te wijken van de verplichte voorafgaande vormvereisten, 
+dienen deze hoe dan ook vervuld te worden.18. Aangezien de wettelijke bepalingen die de rechtsgrond 
+vormen van het ontwerp niet vereisen dat dat ontwerp vastgesteld wordt op basis van overleg binnen de 
+Ministerraad, volgt uit artikel 6, §  1, van de wet van 15 december 2013 `houdende diverse bepalingen 
+inzake administratieve vereenvoudiging' dat het in beginsel niet verplicht is in verband daarmee een 
+impactanalyse uit te voeren. Daaruit en uit artikel 10 van het koninklijk besluit van 21 december 2013 
+`houdende uitvoering van titel 2, hoofdstuk 2, van de wet van 15 december 2013 houdende diverse bepalingen 
+inzake administratieve vereenvoudiging' volgt dat er geen reden is om in de aanhef een lid te wijden 
+aan een eventuele grond tot vrijstelling van de verplichting om een impactanalyse uit te voeren.Het 
+zesde lid van de aanhef moet bijgevolg vervallen.V. ONDERZOEK VAN DE TEKSTAlgemene 
+opmerking inzake de inperking van grondrechten - evenredigheid/gelijkheid19. De afdeling Bestuursrechtspraak 
+van de Raad van State heeft in haar arrest nr. 249.904 van 24 februari 2021, nv Derby, het volgende geoordeeld 
+:"Les parties requérantes ne contestent pas que l'arrêté ministériel attaqué poursuit un objectif 
+de santé publique et qu'il s'agit là d'un objectif légitime. Ainsi que le relève le préambule de l'arrêté 
+attaqué, la pression sur les hôpitaux et sur la continuité des soins non COVID-19 demeure élevée, le 
+risque pour la santé publique persiste et des compromis doivent être faits. La prolongation de la mesure 
+de fermeture des bureaux de paris s'inscrit donc dans un ensemble de mesures qui emportent des restrictions 
+à la liberté de mouvement du public et aux entreprises. Ces mesures sont prises afin de protéger la santé 
+de la population dans des circonstances dangereuses. Elles ont toutes pour objectif de ralentir et de 
+rendre gérable la résurgence et la propagation exponentielle du coronavirus, compte tenu également de 
+l'apparition et de la circulation de variants. De la sorte, l'arrêté ministériel attaqué consacre un 
+nouveau point d'équilibre déterminé par la partie adverse, en tenant compte de l'évolution de la situation 
+sanitaire et notamment de l'évolution du nombre d'infections, des hospitalisations, du taux de positivité 
+et du taux de reproduction, afin de continuer à limiter la propagation du virus. S'il prévoit ainsi quelques 
+assouplissements progressifs, notamment pour les professions de contact non médicales ou les activités 
+extérieures, il impose et maintient encore de nombreuses autres restrictions afin d'atteindre cet équilibre. 
+En ce sens, toutes les mesures prévues par l'arrêté ministériel du 28 octobre 2020, tel que modifié notamment 
+par l'arrêté ministériel attaqué, forment un tout indivisible et indissociable.L'arrêté ministériel 
+attaqué participe clairement à la stratégie de la partie adverse fondée sur un équilibre permanent à 
+trouver entre, d'une part la prévention de nouvelles contaminations, la protection du fonctionnement 
+des hôpitaux et du secteur de la santé, et d'autre part, la sauvegarde de l'économie belge et le bien-être 
+général de la population. La partie adverse a opté, depuis plusieurs mois, pour une réouverture progressive 
+de certains secteurs au regard des exigences sanitaires et économiques. Le Ministre de l'Intérieur dispose 
+d'un large pouvoir d'appréciation discrétionnaire pour rechercher un équilibre entre des intérêts distincts 
+et souvent conflictuels, afin de parvenir à une décision qui sert l'intérêt général et il n'appartient 
+pas au Conseil d'Etat de substituer son appréciation à celle du Ministre sur la stratégie à suivre dans 
+le cadre de la gestion d'une pandémie.(...)S'agissant du principe de proportionnalité, 
+il convient de rappeler que l'arrêté ministériel attaqué consacre un nouveau point d'équilibre tenant 
+compte de l'évolution de la situation sanitaire et notamment de l'évolution du nombre d'infections, des 
+hospitalisations, du taux de positivité et du taux de reproduction afin de continuer à limiter la propagation 
+du virus et que si l'arrêté attaqué prévoit quelques assouplissements progressifs notamment pour les 
+professions de contact non médicales ou les activités extérieures, il impose et maintient encore de nombreuses 
+autres restrictions afin d'atteindre cet équilibre. Toutes les mesures prévues par l'arrêté ministériel 
+du 28 octobre 2020, tel que modifié notamment par l'arrêté ministériel attaqué, forment donc un tout 
+indivisible et indissociable et c'est au regard de cet ensemble qu'il convient d'apprécier la proportionnalité 
+des mesures.Les parties requérantes ne contestent pas que l'arrêté ministériel attaqué poursuit 
+un objectif de santé publique et qu'il s'agit là d'un objectif légitime. S'il est exact que la santé 
+publique doit s'entendre aussi bien de la santé physique que de la santé mentale, il ressort du préambule 
+de l'arrêté attaqué que la partie adverse a bien eu égard, dans le cadre de son appréciation de la proportionnalité 
+de l'ensemble de ces mesures, à la problématique de la santé mentale puisqu'elle décide de procéder progressivement 
+à la réouverture des professions de contact non médicales dont les prestations de service pourront précisément 
+contribuer au bien-être mental des citoyens. Contrairement à ce que soutiennent les parties requérantes, 
+la partie adverse n'a, dès lors, pas, lors de son appréciation, négligé la santé mentale des citoyens".Bij 
+het voorliggende ontwerp worden een aantal maatregelen die opgelegd waren bij het ministerieel besluit 
+van 28 oktober 2020 versoepeld, maar worden ook verschillende beperkingen gehandhaafd. Op die wijze wordt 
+met het voorliggende ontwerp ernaar gestreefd een nieuw evenwicht te vinden tussen enerzijds het voorkomen 
+van nieuwe besmettingen en het beschermen van de werking van de ziekenhuizen en van de gezondheidssector, 
+en anderzijds het vrijwaren van de Belgische economie en het algemeen welzijn van de bevolking.De 
+adviesaanvrager zal in het licht van het grondwettelijk gewaarborgde gelijkheidsbeginsel in staat moeten 
+zijn om aan te tonen dat de onderscheiden behandelde categorieën van personen, met name in artikel 2 
+van het ontwerp, in een redelijk verband staan met de nagestreefde doelstellingen via objectieve en pertinente 
+middelen.Algemene opmerking inzake het gebruik van `protocollen'20.1. Verschillende 
+bepalingen uit het ontwerp bevatten verwijzingen naar protocollen (ontworpen artikelen 8, § 4, 
+eerste lid, 2°,  3°  en 4°,  8, § 4, tweede lid, 2°  en 29, tweede lid).Artikel 1, 3°, 
+ van het ministerieel besluit van 28 oktober 2020 definieert een protocol als "het document bepaald door 
+de bevoegde minister in overleg met de betrokken sector dat de regels bevat die de ondernemingen en verenigingen 
+van de bedoelde sector dienen toe te passen bij de uitoefening van hun activiteiten."20.2. 
+Het antwoord van de gemachtigde op de vraag wat de juridische waarde is van deze protocollen is ambivalent:"De 
+protocollen en gidsen vormen een indicatief beoordelingskader. De protocollen en gidsen kunnen enkel 
+verordenende maatregelen, zoals bepaald in het MB, concretiseren, maar zijn zelf niet verordenend.Artikel 
+29 van het huidige ministerieel besluit bepaalt dat bepalingen van een protocol of gids die minder strikt 
+zijn dan de regels van het ministerieel besluit buiten toepassing worden gelaten. Voor proef- en pilootprojecten 
+kan hier van worden afgeweken op grond van de nieuw ontworpen bepaling."Hoewel de gemachtigde 
+de verordenende kracht van de protocollen ontkent, blijkt dat deze wel verordenende bepalingen `kunnen 
+concretiseren'. Bovendien valt niet in te zien waarom het ontworpen artikel 29, eerste lid, van het ministerieel 
+besluit van 28 oktober 2020 bepalingen van protocollen (of gidsen) buiten toepassing zou moeten laten 
+indien deze toch niet abstract en algemeen verbindend zouden zijn. Vooral de mogelijkheid in het ontworpen 
+artikel 29, tweede lid, van het ministerieel besluit van 28 oktober 2020 om aan de hand van protocollen 
+af te wijken van bepalingen uit het ministerieel besluit voor proef- en pilootprojecten toont aan dat 
+er toch een verordenende waarde uitgaat van deze protocollen. Ook elders stelt de gemachtigde dat "de 
+Economische Inspectie controleert [...] op de naleving van maatregelen voortvloeiende uit het MB (en 
+desgevallend op geconcretiseerde maatregelen voortvloeiende uit de sectorprotocollen)". Er dient eindelijk 
+ook worden opgemerkt dat de in het ontworpen artikel 8, § 4, eerste lid, 2°,  3°  en 4°,  en tweede 
+lid, 2°  (artikel 2 van het ontwerp) bepaalde uitzonderingen aan het verbod om bepaalde dienstenprestaties 
+te verrichten worden vergezeld van een referentie aan "de naleving van de modaliteiten voorzien in het 
+toepasselijke protocol" en dat de definitie zelf van het begrip "protocol" in artikel 1, 3°,  van het 
+ministeriel besluit van 28 oktober 2020 melding maakt van de "toe te passen regels".20.3. Die 
+ambivalentie dient te worden opgeheven. Van tweeën immers één: ofwel hebben de protocollen geen verordend 
+karakter maar dan zijn de concretiseringen die ze inhouden niet bindend, kunnen de protocollen niet afwijken 
+van het ministerieel besluit, en kan de naleving ervan niet worden gecontroleerd en gehandhaafd door 
+het instellen van een strafvordering bij niet-naleving ervan; ofwel zijn de protocollen wel verordenend 
+en zijn de maatregelen die ze inhoudend wel bindend, doch dan dienen deze maatregelen te worden opgenomen 
+in besluiten van de daartoe bevoegde overheid.Aanhef21. Gelet op de essentiële informatieve 
+waarde van de aanhef bij het voorgelegde ontwerp, moet deze worden nagelezen op relevantie en actualiteit.(29)Artikel 
+122. In het tweede lid van het ontworpen artikel 5 van het ministerieel besluit van 28 oktober 
+2020 wordt de bepaling onder 14°  vervangen als volgt: "14°  een consument mag worden vergezeld door 
+één persoon van hetzelfde huishouden of door het duurzaam onderhouden nauw contact bedoeld in artikel 
+15bis. De minderjarigen van het eigen huishouden of de personen die nood hebben aan begeleiding kunnen 
+worden begeleid door één volwassene."23.1. Nog los van eventuele bewijsproblemen over wie een 
+duurzaam onderhouden nauw contact zoals bedoeld in artikel 15bis van het ministerieel besluit van 28 
+oktober 2020 uitmaakt, moet de verhouding tussen de eerste en tweede zinsnede verduidelijkt worden.Minderjarigen 
+of personen die nood hebben aan begeleiding kunnen ook consumenten zijn.Indien ook zij slechts 
+kunnen begeleid worden door één volwassene van hetzelfde huishouden of door een volwassen duurzaam onderhouden 
+nauw contact, is de tweede zinsnede overbodig.Indien de volwassen begeleider kan toegevoegd 
+worden aan de gezel van hetzelfde huishouden of door een duurzaam onderhouden nauw contact, dient dit 
+verduidelijkt te worden in het dispositief van de ontworpen bepaling.23.2. Meer algemeen rijst 
+de vraag hoe de in artikel 1, 2°,  van het ontwerp voorziene versoepeling zich verhoudt tot andere bepalingen 
+van het te wijzigen ministerieel besluit. Zo bepaalt artikel 13, tweede lid, van dat besluit met betrekking 
+tot markten dat er "individueel [wordt] gewinkeld en gedurende een periode van maximum 30 minuten".Hieromtrent 
+ondervraagd verklaarde de gemachtigde het volgende:"Dit is een terechte bedenking. Deze discrepantie 
+is ongewild ontstaan.We stellen voor om volgend bijkomend artikel aan het ontwerp toe te voegen:Artikel 
+X. In artikel 13 van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  het tweede 
+lid wordt vervangen als volgt: `De bezoekers worden toegelaten gedurende een periode van maximum 30 minuten.';2° 
+ het derde lid wordt vervangen als volgt: `Een bezoeker mag worden vergezeld door één persoon van hetzelfde 
+huishouden of door het duurzaam onderhouden nauw contact bedoeld in artikel 15bis. De minderjarigen van 
+het eigen huishouden of de personen die nood hebben aan begeleiding kunnen worden begeleid door één volwassene.'Het 
+lijkt allicht bovendien raadzaam om een analoge wijziging door te voeren voor de winkelcentra (art. 9 
+MB)."Onder voorbehoud van hetgeen is opgemerkt onder randnummer 23.1 kan hiermee worden ingestemd.Artikel 
+724. Artikel 7 van het ontwerp verlengt de maatregelen in het te wijzigen besluit tot en met 
+31 mei 2021.Hieromtrent ondervraagd verklaarde de gemachtigde het volgende:"De maatregelen 
+worden steeds geëvalueerd in het licht van de epidemiologische resultaten die van dag op dag evolueren. 
+Op het Overlegcomité van 14 april 2021 werd er gecommuniceerd over de geplande stapsgewijze versoepelingen 
+vanaf 8 mei 2021 op voorwaarde dat de leeftijdsgroep 65+ een vaccinatiegraad van meer dan 80 procent 
+heeft bereikt en mits de toestand op de afdeling intensieve zorgen verbeterd is. Op 23 april 2021 is 
+er reeds een nieuw Overlegcomité gepland om de epidemiologische situatie te evalueren en indien nodig 
+de maatregelen aan te passen."In zoverre de overheid er zich toe engageert om er steeds over 
+te waken dat de vastgestelde maatregelen voldoen aan de vereisten inzake evenredigheid in het licht van 
+de actuele toestand, kan met deze werkwijze worden ingestemd.De Hoofdgriffier,   Gregory 
+DelannayDe Voorzitter van de Raad van State,Jacques Jaumotte_______Nota's(*) 
+Deze verlenging vloeit voort uit artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van 
+State, gecoördineerd op 12 januari 1973, waarin wordt bepaald dat de termijn van vijf werkdagen verlengd 
+wordt tot acht werkdagen in het geval waarin het advies gegeven wordt door de algemene vergadering met 
+toepassing van artikel 85.(1) Tot op heden is bij de afdeling Wetgeving nota bene nog geen 
+adviesaanvraag ingediend in verband met die verschillende ministeriële besluiten, of in verband met ministeriële 
+besluiten die reeds voorheen ter zake zijn vastgesteld.(2) Adv.RvS 68.936/AV van 7 april 2021 
+over een voorontwerp van wet `betreffende de maatregelen van bestuurlijke politie tijdens een epidemische 
+noodsituatie' (hierna `pandemiewet'), opm. 5.(3) Een verwijzing naar een dergelijke bepaling 
+moet worden ingeleid door "overwegende" in plaats van "gelet op". Beginselen van de wetgevingstechniek 
+- Handleiding voor het opstellen van wetgevende en reglementaire teksten, www.raadvst-consetat.be, aanbeveling 
+40.(4) Zie o.a. de zaken 7543 en 7544 ingediend op 9 maart 2021.(5) Rb. Henegouwen, 
+9 februari 2021, 20C001830, p. 31-34 : « S'il est acquis que le principe de légalité des incriminations 
+et des peines implique que le pouvoir législatif est le pouvoir naturel pour prendre des mesures restrictives 
+des droits et libertés individuels, les délégations à d'autres pouvoirs sont largement admises. Il convient 
+également de relever que la délégation à un Ministre seul peut se justifier eu égard à l'urgence de la 
+situation. [...] Il résulte des développements qui précèdent qu'il n'y a pas lieu d'écarter l'application 
+de l'arrêté ministériel du 23 mars 2020 portant des mesures d'urgence pour limiter la propagation du 
+coronavirus COVID-19. Les poursuites exercées par le Ministère public sur la base de cet arrêté doivent, 
+partant, être déclarées recevables ».(6) Bergen, 8 februari 2021, 2020/H/361, p. 8: "Il résulte 
+de la lecture conjointe des dispositions précitées que l'imposition de mesures de confinement destinées 
+à protéger la population face à une situation de danger sanitaire inopiné relève des pouvoirs conférés 
+au ministre de l'Intérieur par la loi du 15 mai 2007. La véritable limite à ce cadre d'habilitation consiste 
+dans la proportionnalité des mesures prises par rapport à la catastrophe subie ou à la menace encourue. 
+En l'espèce, les interdictions de sortie (sauf cas autorisés) et de rassemblement, ou encore l'obligation 
+de respect de la distanciation sociale peuvent être analysées comme des modalités relatives ou atténuées 
+de confinement (en ce sens, KUTY F., Les implications pénales de la sécurité civile - Les infractions 
+à la réglementation tendant à limiter la propagation du virus Covid-19 (1ère partie), J.T., Chronique 
+judiciaire, 2020, p. 298) et sont en lien avec les risques alors encourus, notamment de propagation du 
+virus et de saturation des hôpitaux, que l'arrêté ministériel entendait contrer. [...] En conséquence, 
+il ressort de ce qui précède que les arrêtés ministériels dont le ministère public sollicite l'application 
+ont bien été pris en exécution de la loi d'habilitation du 15 mai 2007, adoptée pour fournir une réponse 
+urgente et temporaire à des situations de catastrophes soudaines ou imminentes."(7) Rb. Brussel 
+(Fr.), beschikking, 31 maart 2021, nr. 2021/14/C: "[...] il apparaît que la situation liée à la pandémie 
+de la Covid 19 n'est pas, prima facie, visée par la loi du 15 mai 2007 [...]. La loi du 15 mai 2007 vise 
+des situations bien spécifiques qui ne recouvrent pas la situation de gestion d'une pandémie [...] Il 
+s'avère que la fermeture des divers établissements (culturels, festifs, sportifs, récréatifs, événementiel, 
+horeca, des professions de contact), la suspension de l'obligation scolaire, la limitation des rassemblements 
+public ou privé, la limitation de circuler depuis et vers la Belgique échappent, prima facie, aux notions 
+que le language courant nous impose, des termes `réquisition et évacuation' et, partant, au cadre restrictif 
+et prévisible de l'habilitation prévue par la loi du 15 mai 2007"(n °  66 p. 23); `Si l'urgence des premiers 
+temps de l'épidémie aurait pu expliquer qu'il faille s'appuyer sur la loi du 15 mai 2007, il ne paraît 
+plus justifier de s'en prévaloir plusieurs mois après l'émergence de la crise sanitaire [...]' (n°  67 
+- p. 24); `Par identité de motifs et pour autant que de besoin, les mêmes constats d'illégalité apparente 
+peuvent être posés pour les autres dispositions à l'appui desquelles l'arrêté ministériel du 28 octobre 
+2020 et ses arrêtés subséquents ont été édictés' (n°  73 - p. 25).(8) RvS (AV) 30 oktober 2020, 
+nr. 248.818, nv Umami, 10-11. Zie in dezelfde zin, nog steeds over de sluiting van de horeca, na een 
+omstandige motivering, RvS 4 februari 2021, nr. 249.723, bv Mainego e.a.(9) RvS (AV) 30 oktober 
+2020, nr. 248.818, nv Umami, 11.(10) RvS 13 november 2020, nr. 248.918, bv Mainego; RvS 4 februari 
+2021, nr. 249.723, bv Mainego e.a.(11) RvS 24 februari 2021, nr. 249.904, nv Derby e.a.(12) 
+RvS (AV) 30 oktober 2020, nr. 248.819, Verelst e.a., 25-30.(13) RvS (AV) 30 oktober 2020, nr. 
+248.819, Verelst e.a., 28.(14) Zie thans de verschillende prejudiciële vragen aanhangig bij 
+het Grondwettelijk Hof (supra, randnummer 4).(15) Voetnoot 19 van het voormelde advies: Adv. 
+RvS 53.932/AV van 27 augustus 2013 over een voorstel dat heeft geleid tot de bijzondere wet van 6 januari 
+2014 `met betrekking tot de Zesde Staatshervorming' (Parl.St. Senaat 2012-13, nr. 5-2232/1).(16) 
+Voetnoot 20 van het voornoemde advies: voornoemde adv. RvS 67.142/AV van 25 maart 2020, opm. 6.(17) 
+Voetnoot 21 van het voornoemde advies: voornoemde adv. RvS 53.932/AV; Zie ook: adv. RvS 53.018/VR van 
+13 mei 2013 over een ontwerp van koninklijk besluit `houdende de gezondheidscontrole van het internationale 
+verkeer', opmerking 9; adv. RvS 66.387/1/V van 29 augustus 2019 over een ontwerp dat heeft geleid tot 
+het koninklijk besluit van 11 december 2019 `betreffende de modaliteiten inzake het manipuleren en bewaren 
+van poliovirussen van type 2', opmerking 7.5; GwH 15 februari 2009, nr. 2/2009, B.5.2.(18) 
+Voetnoot 74 van het geciteerde advies: Het beginsel van de federale loyauteit houdt voor elke overheid 
+de verplichting in om bij het uitoefenen van de eigen bevoegdheden het evenwicht van de federale constructie 
+in haar geheel niet te verstoren en de belangen van de andere entiteiten niet te schaden. De federale 
+loyauteit betreft meer dan de loutere uitoefening van bevoegdheden: zij geeft aan in welke geest dat 
+moet geschieden. (GwH 18 maart 2021, nr. 47/2021, overw. B.11; zie ook: J. Vanpraet, "De algemene beginselen 
+van de bevoegdheidsverdeling", in B. Seutin en G. van Haegendoren (eds.), De transversale bevoegdheden 
+in het federale België, Brugge, die Keure, 2017, 53, nr. 75).(19) Voetnoot 75 van het geciteerde 
+advies: Voetnoot 4 in de geciteerde tekst: Ter zake bestaat een vaste en uitvoerige rechtspraak, in het 
+bijzonder over maatregelen van algemene bestuurlijke politie die door gemeenteoverheden genomen zijn: 
+zie bijvoorbeeld RvS 21 april 2006, nr. 157.849, bvba. "La Démarche"; 23 april 2010, nr. 203.235, cv 
+Trocadero; 24 maart 2017, nr. 237.779, Amilcar c.s.(20) Voetnoot 76 van het geciteerde advies: 
+Adv. RvS 63.791/2/V van 6 augustus 2018 over een voorontwerp van wet `betreffende de gemeentelijke bestuurlijke 
+handhaving', alg. opm. 1, b).(21) Voetnoot 77 van het geciteerde advies: Zie GwH, 18 maart 
+2021, nr. 47/2021, overw. B.15: "Zoals in B.11 is vermeld, verplicht het beginsel van de federale loyauteit 
+elke wetgever erover te waken dat de uitoefening van zijn eigen bevoegdheid de uitoefening, door de andere 
+wetgevers, van hun bevoegdheden niet onmogelijk of overdreven moeilijk maakt. Wanneer de aangelegenheid 
+die hij wenst te regelen dermate verweven is met de aangelegenheid die onder de bevoegdheid van een andere 
+wetgever valt, kan hij zijn bevoegdheid slechts uitoefenen na vooraf die andere wetgever te hebben geraadpleegd." 
+Zie eveneens CC, 21 december 2017, nr. 145/2017, overw. B. 60.2.(22) Voetnoot 78 van het geciteerde 
+advies: Verwezen wordt naar randnummers 66 en 67 hieronder in verband met de gevallen waarin zich noodsituaties 
+zouden kunnen voordoen waarin heel snel maatregelen genomen moeten worden ter bestrijding van een epidemische 
+noodsituatie, zoals die welke beoogd worden in het voorontwerp.(23) Voetnoot 79 van het geciteerde 
+advies: Reeds in voornoemde advies 67.142/AV van 25 maart 2020 heeft de algemene vergadering van de afdeling 
+Wetgeving gesteld dat de Koning op grond van de hem toegekende bijzondere machten bevoegd was tot "het 
+sluiten van scholen of universiteiten".(24) Zie de leden 33 en volgende van de aanhef van het 
+voorliggende voorontwerp:"Overwegende dat ons land sinds 13 oktober 2020 op nationaal niveau 
+in alarmniveau 4 (zeer hoge alertheid) zit;Overwegende dat het daggemiddelde van de nieuwe 
+vastgestelde besmettingen met het coronavirus COVID 19 in België over de voorbije zeven dagen een lichte 
+daling kende tot 3.436 bevestigde positieve gevallen op 15 april 2021;Overwegende dat op 14 
+april 2021 in totaal 3.049 patiënten getroffen door COVID-19 worden behandeld in de Belgische ziekenhuizen; 
+dat op diezelfde datum in totaal 941 patiënten worden behandeld op de diensten van de intensieve zorg;Overwegende 
+dat de incidentie op 15 april 2021 over een periode van 14 dagen 468 op 100.000 inwoners bedraagt; dat 
+het reproductiegetal op basis van de nieuwe hospitalisaties 0,95 bedraagt;Overwegende dat de 
+bezettingsgraad van de ziekenhuizen, in het bijzonder van de diensten van de intensieve zorg, zeer hoog 
+blijft; dat de druk op de ziekenhuizen en op de continuïteit van de niet-COVID-19-zorg nog steeds reëel 
+is en dat dit een aanzienlijk negatief effect heeft op de volksgezondheid; dat de ziekenhuizen zijn overgeschakeld 
+naar fase 2A van het ziekenhuisnoodplan; Overwegende dat de situatie zeer precair blijft en dat moet 
+worden voorkomen dat het aantal besmettingen en hospitalisaties opnieuw toeneemt;Overwegende 
+dat de variant B.1.1.7 dominant is geworden in België; dat deze variant besmettelijker is en daardoor 
+het virus nog vlotter kan circuleren onder de bevolking; dat het daarom noodzakelijk is om bepaalde maatregelen 
+te verlengen;Overwegende dat de vaccinatiecampagne van start is gegaan en dat dit al een duidelijk 
+effect heeft op de besmettingen van de 65-plussers; dat het aantal ziekenhuisopnames en overlijdens van 
+bewoners van woonzorgcentra daardoor lijkt af te nemen;Overwegende dat het van belang is dat 
+er een maximale coherentie bestaat bij het nemen van maatregelen voor de handhaving van de openbare orde, 
+teneinde de efficiëntie ervan te maximaliseren; dat deze maatregelen dienen te gelden voor het ganse 
+grondgebied; dat de lokale overheden evenwel de mogelijkheid hebben om, rekening houdend met de epidemiologische 
+toestand op hun grondgebied, strengere maatregelen te nemen voor zover die proportioneel en in de tijd 
+beperkt zijn".(25) Adv. RvS 68.936/AV, opmerking 35.(26) Het valt niet uit te sluiten 
+dat daarmee wordt verwezen naar ministers van de gemeenschaps en gewestregeringen (zie bijvoorbeeld artikel 
+20, derde lid, van het ministerieel besluit van 28 oktober 2020).(27) Adv.RvS 68.188/4 van 
+27 oktober 2020 over een ontwerp dat heeft geleid tot het besluit van de Waalse Regering van 6 november 
+2020 `portant exécution de l'article 47/15bis du Code wallon de l'Action sociale et de la Santé' (algemene 
+opmerkingen), alsook (wat betreft de Nationale Veiligheidsraad) adv.RvS 67.543/4 van 11 juni 2020 over 
+een ontwerp dat heeft geleid tot het besluit van de Waalse Regering van 16 juli 2020 `portant sur les 
+mesures d'urgence en matière de taxis, location de voitures avec chauffeur et services assimilés' (opmerking 
+bij artikel 1).(28) Het zou dan ook verkieslijk zijn om in artikelen 2 en 8 van het ontwerp 
+te verwijzen naar "het overleg" of "de afspraken" in het Overlegcomité.(29) Zo is het onduidelijk 
+waarom de eerste overweging luidt: "Overwegende het overleg tussen de regeringen van de deelstaten en 
+de bevoegde federale overheden binnen de Nationale Veiligheidsraad, die is bijeengekomen op 10, 12, 17 
+en 27 maart 2020, op 15 en 24 april 2020, op 6, 13, 20 en 29 mei 2020, op 3, 24 en 30 juni 2020, op 10, 
+15, 23 en 27 juli 2020, op 20 augustus 2020, alsook op 23 september 2020;", zonder dat deze bijeenkomsten 
+rechtstreeks relevant zijn voor het ministerieel besluit van 28 oktober 2020 en zonder nadien naar de 
+bijeenkomsten van het overlegcomité te verwijzen.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-21Numac : 2021031495
+

@@ -1,0 +1,129 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/18/2020042438/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-08-12Numac : 2020042438
+GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE VAN BRUSSEL-HOOFDSTAD  
+ 18 JUNI 2020. - Bijzonderemachtenbesluit van het Verenigd College nr. 2020/011 tot wijziging van de ordonnantie van 13 december 2019 houdende de algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2020 in het kader van de gezondheidscrisis COVID-19 
+Het Verenigd College,Gelet 
+op de ordonnantie van 21 november 2006 houdende de bepalingen die van toepassing zijn op de begroting, 
+de boekhouding en de controle, zoals tot op heden gewijzigd, en inzonderheid het artikel 28 ;Gelet 
+op ordonnantie van 13 december 2019 houdende de Algemene Uitgavenbegroting van de Gemeenschappelijke 
+Gemeenschapscommissie voor het begrotingsjaar 2020;Gelet op de ordonnantie van 19 maart 2020 
+om bijzondere machten toe te kennen aan het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie 
+in het kader van de gezondheidscrisis COVID-19, en inzonderheid het artikel 2;Gelet op de akkoordbevinding 
+van de leden van het Verenigd College, bevoegd voor de Financiën en de Begroting, gegeven op 18 juin 
+2020;Overwegende de kwalificatie door de WHO van het coronavirus COVID-19 als een pandemie 
+op datum van 11 maart 2020;Overwegende dat de huidige en toekomstige maatregelen om de verspreiding 
+van het virus onder de bevolking in te dijken, in het bijzonder de zogenaamde "social distancing-maatregelen" 
+waartoe de Nationale Veiligheidsraad op 12, 17 en 28 maart 2020 besloten heeft, van die aard zijn dat 
+zij elke soort activiteit in het tweetalig gebied Brussel-Hoofdstad vertragen, de goede werking van de 
+verschillende overheidsdiensten aantasten, de sociaaleconomische activiteit van de Gemeenschappelijke 
+Gemeenschapscommissie verzwakken en de kwetsbare bevolking in een grotere onzekerheid brengen;Overwegende 
+dat krachtens artikel 2 van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan 
+het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis 
+COVID-19, het Verenigd College alle passende maatregelen kan nemen om, onder bedreiging van ernstig gevaar, 
+elke situatie die een probleem vormt te voorkomen en met spoed aan te pakken binnen het strikte kader 
+van de COVID-19-pandemie en de gevolgen ervan, met name bij de aanpassing van ordonnanties betreffende 
+de domeinen die de impact van de crisis ondervinden en die onder de bevoegdheden van de Gemeenschappelijke 
+Gemeenschapscommissie vallen of het aanpakken van de sociaaleconomische gevolgen van de pandemie;Overwegende 
+dat, in deze uitzonderlijke omstandigheden, en met het oog op het verzekeren van de continuïteit van 
+de openbare dienstverlening en de uitvoering van de essentiële opdrachten, niet enkel voor de Gemeenschappelijke 
+Gemeenschapscommissie, maar ook voor alle sociaaleconomische actoren en voor alle Brusselaars, het van 
+belang is het Verenigd College toe te laten beraadslagingen van budgettaire aard te nemen die machtiging 
+verlenen tot het vastleggen, vereffenen en betalen van uitgaven boven de limiet van de begrotingskredieten 
+of, bij ontstentenis van kredieten, ten belope van het door de beraadslaging vastgesteld bedrag;Overwegende 
+dat, ingevolge deze uitzonderlijke dringendheid in deze periode van COVID-19, werd er afgewijkt van het 
+artikel 25 §  2, van de ordonnantie van 21 november 2006 houdende de bepalingen die van toepassing 
+zijn op de begroting, de boekhouding en de controle, dat vereist dat de door de beraadslagingen bedoelde 
+machtigingen, het voorwerp uitmaken van een ontwerp van ad hoc begrotingsordonnantie waarbij de nodige 
+kredieten worden geopend;Overwegende dat, ingevolge deze uitzonderlijke dringendheid in deze 
+periode van COVID-19, het absoluut noodzakelijk is geworden om af te wijken van het artikel 28 van de 
+ordonnantie van 21 november 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding 
+en de controle, opdat de kredieten voorzien op basisallocatie 08.001.99.01.0100 verdeeld kunnen worden 
+tussen basisallocaties van de opdrachten 02, 03, 04, 05, 06 en 07 van de uitgavenbegroting 2020 van de 
+diensten van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie;Overwegende 
+dat de wettelijk of reglementair vereiste adviezen niet moeten worden ingewonnen, gelet op artikel 2, 
+§ 4 van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan het Verenigd 
+College van de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis Covid-19, 
+wordt het advies van de Inspectie van Financiën niet gevraagd;Overwegende dat het advies van 
+de Raad van State niet gevraagd moet worden, gelet op artikel 3, § 1, van de wetten op de Raad 
+van State, gecoördineerd op 12 januari 1973;Overwegende dat de dringendheid wordt gemotiveerd 
+door de absolute noodzaak om de verschillende maatregelen te kunnen financieren die de Gemeenschappelijke 
+Gemeenschapscommissie neemt tijdens deze periode van pandemie, krachtens de ordonnantie van 19 maart 
+2020 om bijzondere machten toe te kennen aan het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie 
+in het kader van de gezondheidscrisis Covid-19;Overwegende dat de uitvoering van de maatregelen 
+een onmiddellijke afwijking vereist van de toepassing van artikel 28 van de ordonnantie van 21 november 
+2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle;Overwegende 
+dat de dringendheid wordt gemotiveerd door het feit dat de Gemeenschappelijke Gemeenschapscommissie zijn 
+kernopdrachten moet kunnen blijven vervullen ondanks de huidige omstandigheden die verband houden met 
+de gezondheidscrisis ten gevolge van COVID-19 en het bijgevolg van fundamenteel belang is de nodige wijzigingen 
+aan te brengen in het artikel 28 van de ordonnantie van 21 november 2006 houdende de bepalingen die van 
+toepassing zijn op de begroting, de boekhouding en de controle om haar toe te laten snel te reageren 
+op de situaties waarmee zij zal worden geconfronteerd en om de noodzakelijke beslissingen te nemen met 
+de vereiste snelheid en flexibiliteit om aan de behoeften tegemoet te komen;Op de voordracht 
+van de Voorzitter van het Verenigd College;Na beraadslaging,Besluit :Artikel 
+1. Dit besluit regelt een aangelegenheid als bedoeld in artikel 135 van de Grondwet.Art. 2. 
+Een sectie 3bis wordt als volgt geïntroduceerd in de ordonnantie van 13 december 2019 houdende de algemene 
+Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2020 :Sectie 
+3bis - Bijzonder bepaling in verband met de gezondheidscrisis ten gevolge van COVID-19Art. 
+3. Een artikel 19bis wordt als volgt in de bovengenoemde sectie 3bis geïntroduceerd :"In afwijking 
+van artikel 28 van de ordonnantie van 21 november 2006 houdende de bepalingen die van toepassing zijn 
+op de begroting, de boekhouding en de controle, kunnen de kredieten die door beraadslaging worden voorzien 
+op de basisallocatie 08.001.99.01.0100 verdeeld worden tussen de basisallocaties van de opdrachten 02, 
+03, 04, 05, 06 en 07 van de uitgavenbegroting van de diensten van het Verenigd College."Art. 
+4. De maatregelen die worden getroffen in toepassing van de artikelen 2 en 3 van dit besluit worden bevestigd 
+in het kader van de stemming van de ordonnantie houdende de eerste aanpassing van de Algemene Uitgavenbegroting 
+van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2020 of uiterlijk binnen de termijn 
+bedoeld in artikel 4, eerste lid, van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen 
+aan het Verenigd College van de Gemeenschappelijke Gemeenschaps-commissie in het kader van de gezondheidscrisis 
+Covid-19.Art. 5. Dit besluit treedt in werking op de datum van zijn goedkeuring door het Verenigd 
+College.Brussel, 18 juni 2020.Voor het Verenigd College,De Leden van het 
+Verenigd College, bevoegd voor de Gezinsbijslagen, Begroting, Openbaar Ambt en Externe betrekkingen,B. 
+CLERFAYTS. GATZ   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-08-12Numac : 2020042438
+

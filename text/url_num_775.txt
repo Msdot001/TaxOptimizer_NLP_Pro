@@ -1,0 +1,423 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2022/03/10/2022020546/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020546
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 10 MAART 2022. - Koninklijk besluit houdende de nodige maatregelen inzake de door de Europese Unie gecoördineerde reisbeperkingen ten gevolge van de coronavirus COVID-19 pandemie. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 10 maart 2022 houdende de 
+nodige maatregelen inzake de door de Europese Unie gecoördineerde reisbeperkingen ten gevolge van de 
+coronavirus COVID-19 pandemie (Belgisch Staatsblad van 11 maart 2022).Deze vertaling is opgemaakt 
+door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST INNERES10. MÄRZ 2022 - Königlicher Erlass über die erforderlichen Maßnahmen in 
+Bezug auf die von der Europäischen Union koordinierten Reisebeschränkungen infolge der Pandemie des Coronavirus 
+COVID-19PHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund 
+der Verfassung, der Artikel 37 und 108;Aufgrund der Verordnung (EU) Nr. 2016/399 des Europäischen 
+Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen 
+durch Personen (Schengener Grenzkodex), der Artikel 6 Absatz 1 und 14;Aufgrund der Internationalen 
+Gesundheitsvorschriften vom 23. Mai 2005, des Artikels 23;Aufgrund des Gesetzes vom 15. Dezember 
+1980 über die Einreise ins Staatsgebiet, den Aufenthalt, die Niederlassung und das Ausweisen von Ausländern, 
+des Artikels 3, ersetzt durch das Gesetz vom 24. Februar 2017 und abgeändert durch das Gesetz vom 8. 
+Mai 2019, und des Artikels 43, ersetzt durch das Gesetz vom 24. Februar 2017 und abgeändert durch das 
+Gesetz vom 8. Mai 2019;Aufgrund der Befreiung von der Auswirkungsanalyse, die in Artikel 8 
+§ 2 Nr. 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen 
+administrative Vereinfachung erwähnt ist;Aufgrund der Stellungnahme des Finanzinspektors vom 
+9. März 2022;Aufgrund des Einverständnisses der Staatssekretärin für Haushalt vom 9. März 2022;Aufgrund 
+der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund 
+der Dringlichkeit;In der Erwägung, dass es nicht möglich ist, das Gutachten der Gesetzgebungsabteilung 
+des Staatsrates innerhalb einer verkürzten Frist von fünf Werktagen (die auf acht Werktage ausgeweitet 
+werden kann, wenn der Begutachtungsantrag der Generalversammlung vorgelegt wird, was in der Praxis eine 
+Frist von etwa zwei Wochen bedeutet) abzuwarten, insbesondere aufgrund der Notwendigkeit, die Reisebeschränkungen 
+nach dem Ende der in Artikel 2 Nr. 3 des Gesetzes vom 14. August 2021 über verwaltungspolizeiliche Maßnahmen 
+in einer epidemischen Notsituation erwähnten epidemischen Notsituation aufrechtzuerhalten; dass zwischen 
+dem Ablauf der Reisebeschränkungen in Anwendung dieses Gesetzes und dem Inkrafttreten des vorliegenden 
+Erlasses keine Lücke entstehen darf;In Erwägung der Europäischen Konvention zum Schutz der 
+Menschenrechte und Grundfreiheiten, des Artikels 2, der das Recht auf Leben schützt;In Erwägung 
+des Vertrags über die Arbeitsweise der Europäischen Union, des Artikels 191, in dem das Prinzip der Vorsorge 
+im Rahmen der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen 
+möglichen Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei 
+der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige 
+Schutzmaßnahmen ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) und 
+e) der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz 
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung 
+der Richtlinie 95/46/EG;In Erwägung der Verfassung, des Artikels 23;In Erwägung der 
+Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt 
+notwendiger Reisen in die EU und möglichen Aufhebung dieser Beschränkung, zuletzt abgeändert durch die 
+Empfehlung (EU) 2022/290 des Rates vom 22. Februar 2022 zur Änderung der Empfehlung (EU) 2020/912 des 
+Rates zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und möglichen Aufhebung 
+dieser Beschränkung;In Erwägung der Empfehlung des Rates vom 21. Januar 2021 für einen einheitlichen 
+Rahmen für den Einsatz und die Validierung von Antigen-Schnelltests und die gegenseitige Anerkennung 
+der Ergebnisse von COVID-19-Tests in der EU;In Erwägung der Verordnung (EU) 2021/953 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der 
+Freizügigkeit während der COVID-19-Pandemie;In Erwägung der Verordnung (EU) 2021/954 des Europäischen 
+Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung 
+interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von 
+einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) für Drittstaatsangehörige mit rechtmäßigem 
+Aufenthalt oder Wohnsitz im Hoheitsgebiet der Mitgliedstaaten während der COVID-19-Pandemie;In 
+Erwägung der delegierten Verordnung (EU) 2021/2288 der Kommission vom 21. Dezember 2021 zur Änderung 
+des Anhangs der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates hinsichtlich des Anerkennungszeitraums 
+von Impfzertifikaten, die im Format des digitalen COVID-Zertifikats der EU ausgestellt werden und den 
+Abschluss der ersten Impfserie bescheinigen;In Erwägung der Empfehlung (EU) 2022/107 des Rates 
+vom 25. Januar 2022 für eine koordinierte Vorgehensweise zur Erleichterung der sicheren Ausübung der 
+Freizügigkeit während der COVID-19-Pandemie und zur Ersetzung der Empfehlung (EU) 2020/1475;In 
+Erwägung des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten 
+Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste 
+und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten 
+Personen auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 
+2020 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung 
+des Zusammenarbeitsabkommens vom 24. März 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission 
+über die Übermittlung notwendiger Daten an die föderierten Teilgebiete, die lokalen Behörden oder die 
+Polizeidienste zur Durchsetzung der verpflichteten Quarantäne oder der verpflichteten Tests von Reisenden 
+aus dem Ausland, die bei ihrer Ankunft in Belgien einer verpflichteten Quarantäne oder Untersuchung unterliegen;In 
+Erwägung des Gesetzes vom 8. April 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 24. 
+März 2021;In Erwägung des Zusammenarbeitsabkommens vom 31. Mai 2021 zwischen dem Föderalstaat, 
+der Flämischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der Wallonischen Region und der Gemeinsamen 
+Gemeinschaftskommission über besondere Verarbeitungen personenbezogener Daten zur Rückverfolgung und 
+Untersuchung von Clustern und Personengemeinschaften, zur Durchsetzung der Quarantäne- und Testpflicht 
+sowie zur Überwachung der Einhaltung von Maßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 am Arbeitsplatz durch die zuständigen Sozialinspektoren;In Erwägung des Gesetzes vom 
+20. Juni 2021 zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 31. Mai 2021;In Erwägung 
+des Zusammenarbeitsabkommens vom 14. Juli 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Französischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der Gemeinsamen Gemeinschaftskommission, 
+der Wallonischen Region und der Französischen Gemeinschaftskommission über die Verarbeitung von Daten 
+im Zusammenhang mit dem digitalen EU-COVID-Zertifikat, dem COVID Safe Ticket, dem PLF und der Verarbeitung 
+personenbezogener Daten von Lohnempfängern und Selbständigen, die im Ausland leben oder wohnen und in 
+Belgien Tätigkeiten ausüben;In Erwägung des Gesetzes vom 20. Juli 2021 zur Billigung des vorerwähnten 
+Zusammenarbeitsabkommens vom 14. Juli 2021;In Erwägung des Gesetzes vom 10. März 2022 zur Aufhebung 
+der Aufrechterhaltung der epidemischen Notsituation in Bezug auf die Pandemie des Coronavirus COVID-19;In 
+Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus COVID-19, insbesondere 
+hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung der am 11. März 2020 
+von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In der Erwägung, 
+dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen 
+hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In Erwägung 
+der Konzertierung vom 4. März 2022 im Konzertierungsausschuss;In der Erwägung, dass es notwendig 
+ist, obwohl die epidemische Situation derzeit unter Kontrolle ist, die Reisebeschränkungen aufrechtzuerhalten, 
+um sowohl die Zahl der Ansteckungen als auch die Ausbreitung neuer Varianten auf belgischem Staatsgebiet 
+unter Kontrolle zu halten;In der Erwägung, dass trotzdem immer noch Maßnahmen gegenüber 
+Personen, die sich in die Europäische Union oder auf das belgische Staatsgebiet begeben, zum Schutz der 
+Bevölkerung und zur Beherrschung des Drucks auf das Gesundheitspflegesystem, einschließlich der 
+Primärpflege, erforderlich sind;In Erwägung der vom Coronavirus COVID-19 ausgehenden Gesundheitsgefahr 
+für die Bevölkerung und der daraus entstehenden Dringlichkeit;In der Erwägung, dass das Coronavirus 
+COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und die Atemwege befällt; dass das Coronavirus 
+COVID-19 von Mensch zu Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar 
+auf alle möglichen Verbreitungsarten durch Mund und Nase erfolgt;In der Erwägung, dass die 
+Empfehlung (EU) 2022/107 des Rates vom 25. Januar 2022 für eine koordinierte Vorgehensweise zur Erleichterung 
+der sicheren Ausübung der Freizügigkeit während der COVID-19-Pandemie und zur Ersetzung der Empfehlung 
+(EU) 2020/1475 einen personenbasierten Ansatz für Reisen während der COVID-19-Pandemie befürwortet, was 
+bedeutet, dass der Impf-, Test- oder Genesungsstatus des Reisenden Ausschlag geben sollte; dass ein solcher 
+Ansatz die geltenden Regelungen vereinfacht und Reisenden mehr Klarheit und Vorhersehbarkeit bietet; 
+dass daher Personen ab dem Alter von 12 Jahren, die aus einem anderen Land nach Belgien reisen und ihren 
+Hauptwohnort nicht in Belgien haben, über ein Impf-, Test- oder Genesungszertifikat verfügen müssen; 
+dass Ausnahmen beibehalten werden, unter anderem, um Fahrten im Rahmen des täglichen Lebens in Grenzgebieten 
+nicht zu behindern;In der Erwägung, dass der internationale Reiseverkehr zur Ausbreitung bekannter 
+und unbekannter Varianten des Virus und zur Annahme neuer Gesundheitsvorschriften führen kann; dass daher 
+bestimmte Personen über ein Impf- oder Genesungszertifikat verfügen müssen, um im Rahmen nicht unbedingt 
+notwendiger Reisen nach Belgien reisen zu dürfen; dass aus solchen Zertifikaten hervorgeht, dass eine 
+Person gegen das Coronavirus COVID-19 geimpft oder davon genesen ist, was einen sicheren Personenverkehr 
+ermöglicht;In Erwägung der Hindernisse, auf die öffentliche Behörden stoßen, die verantwortlich 
+sind für Aufnahmen im Rahmen der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates 
+vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für 
+die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten 
+Antrags auf internationalen Schutz zuständig ist, und im Rahmen von bilateralen Abkommen;In 
+der Erwägung, dass zur angemessenen Überwachung und Rückverfolgung von Reisenden aus Drittländern, die 
+nicht erwähnt sind in Anhang I der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 und für deren 
+Reise ein Beförderer in Anspruch genommen wird, ein Passenger Locator Form (PLF) ausgefüllt werden muss; 
+dass dieses Formular als Grundlage dient, um erforderlichenfalls die notwendige Kontaktrückverfolgung 
+und Gesundheitsüberwachung durch die zuständigen Dienste zu gewährleisten; dass dieses Formular elektronisch 
+ausgefüllt werden muss, um insbesondere zu vermeiden, dass es zu einer Verzögerung beim Erhalt eines 
+Testcodes für einen PCR-Test und der notwendigen Mitteilung über die zu befolgenden Gesundheitsmaßnahmen 
+kommt; dass der Beförderer verpflichtet ist zu überprüfen, ob alle Passagiere vor dem Einsteigen die 
+elektronische Fassung des PLF ausgefüllt haben; dass der Flughafenbetreiber dies bei der Ankunft auf 
+belgischem Staatsgebiet ebenfalls überprüfen muss;Auf Vorschlag des Ministers der Volksgesundheit, 
+der Ministerin des Innern und des Staatssekretärs für Asyl und Migration und aufgrund der Stellungnahme 
+der Minister, die im Rat darüber beraten haben,Haben Wir beschloßen und erlassen Wir:Artikel 
+1 - Für die Anwendung des vorliegenden Erlasses versteht man unter:1. "Beförderer:- 
+öffentlich- oder privatrechtliche Luftfahrtunternehmen,- öffentlich- oder privatrechtliche 
+Seetransportunternehmen,- Transportunternehmen im Binnenschiffsverkehr,- öffentlich- 
+oder privatrechtliche Bahn- oder Busunternehmen für die Beförderung aus einem Land außerhalb der 
+Europäischen Union und des Schengen-Raums,2. "Grenzgängern": Arbeitnehmer, die eine Tätigkeit 
+als Lohnempfänger in einem Land der Europäischen Union oder des Schengen-Raums ausüben und in einem anderen 
+Land der Europäischen Union oder des Schengen-Raums wohnen, in das diese Arbeitnehmer in der Regel jeden 
+Tag oder mindestens einmal pro Woche zurückkehren,3. "Drittland": Land, das weder der Europäischen 
+Union noch dem Schengen-Raum angehört,4. "digitalem EU-COVID-Zertifikat": ein Zertifikat, wie 
+in der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen 
+Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung 
+von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat 
+der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie und der 
+Verordnung (EU) 2021/954 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen 
+für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen 
+und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) für Drittstaatsangehörige 
+mit rechtmäßigem Aufenthalt oder Wohnsitz im Hoheitsgebiet der Mitgliedstaaten während der COVID-19-Pandemie 
+erwähnt,5. "Impfzertifikat": ein digitales COVID-Impfzertifikat der EU über die Impfung mit 
+einem gemäß der Verordnung (EG) Nr. 726/2004 in der EU zugelassenen Impfstoff gegen COVID-19 oder 
+mit einem COVID-19-Impfstoff, für den das Verfahren zur Aufnahme in das Emergency Use Listing der Weltgesundheitsorganisation 
+(WHO) abgeschlossen ist, oder ein Zertifikat über die Impfung mit einem solchen Impfstoff, das in einem 
+Land, das nicht zur Europäischen Union gehört, ausgestellt wurde und das von der Europäischen Kommission 
+auf der Grundlage von Durchführungsrechtsakten oder von Belgien auf der Grundlage bilateraler Abkommen 
+als gleichwertig angesehen wird, und mit dem bescheinigt wird, dass alle in der Packungsbeilage angegebenen 
+Dosen seit mindestens zwei Wochen verabreicht sind und dass nach Abschluss der ersten Impfserie nicht 
+mehr als 270 Tage vergangen sind, oder mit dem bescheinigt wird, dass nach Abschluss der ersten Impfserie 
+eine Auffrischungsdosis verabreicht worden ist.In Ermangelung eines Gleichwertigkeitsbeschlusses 
+der Europäischen Kommission wird auch ein Impfzertifikat akzeptiert, das in einem Land, das nicht zur 
+Europäischen Union gehört, ausgestellt wurde und das mindestens folgende Informationen auf Niederländisch, 
+Französisch, Deutsch oder Englisch enthält:- Daten, aus denen hervorgeht, wer die geimpfte 
+Person ist (Name, Geburtsdatum und/oder Erkennungsnummer),- Daten, die belegen, dass ein gemäß 
+der Verordnung (EG) Nr. 726/2004 in der EU zugelassener Impfstoff gegen COVID-19 oder ein COVID-19-Impfstoff, 
+für den das Verfahren zur Aufnahme in das Emergency Use Listing der Weltgesundheitsorganisation (WHO) 
+abgeschlossen ist, verabreicht worden ist,- Angaben, mit denen bescheinigt wird, dass alle 
+in der Packungsbeilage angegebenen Dosen seit mindestens zwei Wochen verabreicht sind und dass seit dem 
+Datum der letzten Dosis der ersten Impfserie nicht mehr als 270 Tage vergangen sind, oder Angaben, mit 
+denen bescheinigt wird, dass nach Abschluss der ersten Impfserie eine Auffrischungsdosis verabreicht 
+worden ist,- Markenname und Name des Herstellers oder des Inhabers der Genehmigung für das 
+Inverkehrbringen jedes verabreichten Impfstoffs. Wird einer der beiden Namen nicht angegeben, muss auch 
+die Chargennummer angegeben werden,- Datum der Verabreichung jeder verabreichten Dosis des 
+Impfstoffs oder Gesamtzahl Impfdosen und Bezeichnung des letzten Impfstoffs und Datum der letzten Verabreichung,- 
+Name des Landes, der Provinz oder der Region, wo das Impfzertifikat ausgestellt wurde,- Aussteller 
+des Impfzertifikats,6. "Testzertifikat": ein digitales EU-COVID-Zertifikat oder ein anderes 
+Zertifikat auf Niederländisch, Französisch, Deutsch oder Englisch, in dem angegeben ist, dass entweder 
+binnen 72 Stunden vor der Ankunft auf belgischem Staatsgebiet ein NAAT-Test (Nucleic Acid Amplification 
+Test) mit negativem Ergebnis in einem offiziellen Labor durchgeführt wurde oder binnen 24 Stunden vor 
+der Ankunft auf belgischem Staatsgebiet ein RAT-Test (Rapid Antigen Test) - der in der aktualisierten 
+gemeinsamen Liste von Antigen-Schnelltests für die Diagnose von COVID-19 aufgeführt ist, die auf der 
+Grundlage der Empfehlung des Rates vom 21. Januar 2021 für einen einheitlichen Rahmen für den Einsatz 
+und die Validierung von Antigen-Schnelltests und die gegenseitige Anerkennung der Ergebnisse von COVID-19-Tests 
+in der EU erstellt wurde - mit negativem Ergebnis von einer Fachperson durchgeführt wurde,7. 
+"Genesungszertifikat": ein digitales COVID-Genesungszertifikat der EU oder ein Genesungszertifikat, das 
+in einem Land, das nicht zur Europäischen Union gehört, ausgestellt wurde und das von der Europäischen 
+Kommission auf der Grundlage von Durchführungsrechtsakten oder von Belgien auf der Grundlage bilateraler 
+Abkommen als gleichwertig angesehen wird und aus dem hervorgeht, dass nicht mehr als 180 Tage vergangen 
+sind seit dem Datum des positiven Ergebnisses des NAAT-Tests oder des positiven Ergebnisses eines RAT-Tests, 
+der in der aktualisierten gemeinsamen Liste von Antigen-Schnelltests für die Diagnose von COVID-19 aufgeführt 
+ist, die auf der Grundlage der Empfehlung des Rates vom 21. Januar 2021 für einen einheitlichen Rahmen 
+für den Einsatz und die Validierung von Antigen-Schnelltests und die gegenseitige Anerkennung der Ergebnisse 
+von COVID-19-Tests in der EU, erstellt wurde,8. "Passenger Locator Form": das PLF, wie in Titel 
+VIII des Zusammenarbeitsabkommens vom 14. Juli 2021 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, 
+der Französischen Gemeinschaft, der Deutschsprachigen Gemeinschaft, der Gemeinsamen Gemeinschaftskommission, 
+der Wallonischen Region und der Französischen Gemeinschaftskommission über die Verarbeitung von Daten 
+im Zusammenhang mit dem digitalen EU-COVID-Zertifikat, dem COVID Safe Ticket, dem PLF und der Verarbeitung 
+personenbezogener Daten von Lohnempfängern und Selbständigen, die im Ausland leben oder wohnen und in 
+Belgien Tätigkeiten ausüben, erwähnt.Art. 2 -  § 1 - Nicht unbedingt notwendige Reisen 
+nach Belgien sind verboten für Personen, die nicht die Staatsangehörigkeit eines Landes der Europäischen 
+Union oder des Schengen-Raums besitzen und ihren Hauptwohnort in einem Drittland haben, das nicht erwähnt 
+ist in Anhang I der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung 
+nicht unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung dieser Beschränkung.Die 
+in der Anlage zum vorliegenden Erlass bestimmten Reisen gelten als unbedingt notwendig und sind somit 
+erlaubt.Für Reisen, die gemäß Absatz 2 erlaubt sind, muss der Reisende im Besitz einer 
+Bescheinigung über die unbedingt notwendige Reise sein. Diese Bescheinigung wird von der belgischen diplomatischen 
+oder konsularischen Vertretung ausgestellt, wenn nachgewiesen wird, dass die Reise unbedingt notwendig 
+ist.Wird ein Beförderer eingesetzt, ist dieser verpflichtet zu überprüfen, ob die in Absatz 
+3 erwähnten Reisenden vor dem Einsteigen im Besitz dieser Bescheinigung sind. Fehlt diese Bescheinigung, 
+muss der Beförderer das Einsteigen untersagen.In Abweichung von Absatz 3 ist eine Bescheinigung 
+nicht erforderlich, wenn sich der unbedingt notwendige Charakter der Reise aus den offiziellen Dokumenten 
+im Besitz des Reisenden ergibt.In Ermangelung einer solchen Bescheinigung über die unbedingt 
+notwendige Reise oder bei falschen, irreführenden oder unvollständigen Informationen in dieser Bescheinigung 
+und wenn sich der unbedingt notwendige Charakter der Reise auch aus den offiziellen Dokumenten im Besitz 
+des Reisenden nicht ergibt, kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener Grenzkodex 
+oder Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, 
+die Niederlassung und das Ausweisen von Ausländern verweigert werden. § 2 - Die in § 
+1 erwähnten Maßnahmen gelten weder für Reisende, die im Besitz eines Impf- oder Genesungszertifikats 
+sind, noch für Personen bis zum Alter von 17 Jahren einschließlich, die mit einer Begleitperson 
+reisen, die im Besitz eines Impf- oder Genesungszertifikats ist.Wird ein Beförderer eingesetzt, 
+ist dieser verpflichtet zu überprüfen, ob die in Absatz 1 erwähnten Reisenden und Begleitpersonen vor 
+dem Einsteigen im Besitz eines Impf- oder Genesungszertifikats sind. Fehlt dieses Impf- oder Genesungszertifikat, 
+muss der Beförderer das Einsteigen untersagen.In Ermangelung eines solchen Impf- oder Genesungszertifikats 
+oder bei falschen, irreführenden oder unvollständigen Informationen in diesem Impf- oder Genesungszertifikat, 
+kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener Grenzkodex oder Artikel 43 des 
+Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, die Niederlassung 
+und das Ausweisen von Ausländern verweigert werden. § 3 - Unbeschadet der Paragraphen 
+1 und 2 ist es Personen, die sich zu irgendeinem Zeitpunkt während der letzten 14 Tage auf dem Staatsgebiet 
+eines Drittlandes aufgehalten haben, das auf der Website "info-coronavirus.be" des Föderalen Öffentlichen 
+Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt als Gebiet mit sehr hohem Risiko 
+ausgewiesen ist, verboten, sich direkt oder indirekt auf das belgische Staatsgebiet zu begeben, sofern 
+sie nicht die belgische Staatsangehörigkeit besitzen oder ihren Hauptwohnort nicht in Belgien haben, 
+mit Ausnahme der folgenden erlaubten unbedingt notwendigen Reisen:1. berufsbedingte Reisen 
+des Transportpersonals, des Frachtpersonals und der Seeleute, der Besatzungen von Schleppern und Lotsenbooten 
+und des Industriepersonals, das in Offshore-Windparks beschäftigt ist, sofern sie im Besitz einer Bescheinigung 
+ihres Arbeitgebers sind,2. Reisen von Diplomaten, Reisen des Personals internationaler Organisationen 
+und Reisen der durch internationale Organisationen eingeladenen Personen, deren physische Präsenz für 
+ein ordnungsgemäßes Funktionieren dieser Organisationen erforderlich ist, in der Ausübung ihrer 
+Funktion, sofern sie über eine von der belgischen diplomatischen oder konsularischen Vertretung ausgestellte 
+Bescheinigung über die unbedingt notwendige Reise verfügen,3. Reisen des Ehepartners oder des 
+Lebenspartners von Personen, die die belgische Staatsangehörigkeit besitzen oder ihren Hauptwohnort in 
+Belgien haben, sofern sie unter demselben Dach wohnen, und Reisen ihrer Kinder, die unter demselben Dach 
+wohnen, sofern sie eine von der belgischen diplomatischen oder konsularischen Vertretung ausgestellte 
+Bescheinigung über die unbedingt notwendige Reise besitzen. Lebenspartner müssen ebenfalls den stabilen 
+und dauerhaften Charakter der Beziehung plausibel nachweisen,4. Durchreisen außerhalb 
+des Schengen-Raums und der Europäischen Union,5. Durchreisen in Belgien aus Drittländern, die 
+als Gebiet mit sehr hohem Risiko eingestuft sind, in das Land der Staatsangehörigkeit oder des Hauptwohnortes, 
+sofern dieses Land in der Europäischen Union oder im Schengen-Raum liegt,6. Reisen aus zwingenden 
+humanitären Gründen, sofern sie über eine von der belgischen diplomatischen oder konsularischen Vertretung 
+ausgestellte und vom Ausländeramt gebilligte Bescheinigung über zwingende humanitäre Gründe verfügen,7. 
+Reisen von Personen, deren physische Präsenz für die nationale Sicherheit unerlässlich ist, sofern sie 
+über eine von der belgischen diplomatischen oder konsularischen Vertretung ausgestellte und vom Ausländeramt 
+gebilligte Bescheinigung über die unbedingt notwendige Reise verfügen.Wird ein Beförderer eingesetzt, 
+ist dieser verpflichtet zu überprüfen, ob die in Absatz 1 erwähnten Personen vor dem Einsteigen im Besitz 
+dieser Bescheinigung oder eines Nachweises über die genehmigte Durchreise sind. Fehlt diese Bescheinigung 
+oder der Nachweis über die genehmigte Durchreise, muss der Beförderer das Einsteigen untersagen.In 
+Ermangelung einer solchen Bescheinigung oder bei falschen, irreführenden oder unvollständigen Informationen 
+in dieser Bescheinigung kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener Grenzkodex 
+oder Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, 
+die Niederlassung und das Ausweisen von Ausländern verweigert werden.Wenn ein Drittland gemäß 
+Absatz 1 als Gebiet mit sehr hohem Risiko ausgewiesen ist, tritt das Verbot, in belgisches Staatsgebiet 
+einzureisen, zu dem auf der Website "info-coronavirus.be" angegebenen Zeitpunkt und frühestens 24 Stunden 
+nach der Veröffentlichung auf dieser Website in Kraft.Art. 3 -  § 1 - Für Reisen nach 
+Belgien von einem Drittland aus, das nicht erwähnt ist in Anhang I der Empfehlung (EU) 2020/912 des Rates 
+vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und die 
+mögliche Aufhebung dieser Beschränkung, und bei denen ein Beförderer in Anspruch genommen wird, ist der 
+Reisende verpflichtet, vor der Reise die elektronische Fassung des auf der Website des Föderalen Öffentlichen 
+Dienstes Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt veröffentlichten Passagier-Lokalisierungsformulars 
+auszufüllen und dem Beförderer vor dem Einsteigen vorzulegen.Der Beförderer ist verpflichtet 
+zu überprüfen, dass alle Passagiere vor dem Einsteigen die elektronische Fassung des Passagier-Lokalisierungsformulars 
+ausgefüllt haben. Fehlt dieses Formular, muss der Beförderer das Einsteigen untersagen. Bei Ankunft auf 
+dem belgischen Staatsgebiet überprüft der Flughafenbetreiber erneut, ob die elektronische Fassung des 
+Passagier-Lokalisierungsformulars gemäß den Anweisungen der zuständigen Behörde ausgefüllt wurde. 
+§ 2 - Der Reisende ist verpflichtet, den Nachweis über die Einreichung des ausgefüllten Passagier-Lokalisierungsformulars 
+mit sich zu führen, und zwar während der gesamten Reise bis zum Endbestimmungsort in Belgien und während 
+der folgenden 48 Stunden. § 3 - In Ausführung des vorliegenden Artikels anhand des elektronischen 
+Passagier-Lokalisierungsformulars gesammelte personenbezogene Daten können in der Datenbank I - erwähnt 
+in Artikel 1 § 1 Nr. 6 des Zusammenarbeitsabkommens vom 25. August 2020 zwischen dem Föderalstaat, 
+der Flämischen Gemeinschaft, der Wallonischen Region, der Deutschsprachigen Gemeinschaft und der Gemeinsamen 
+Gemeinschaftskommission in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von 
+den zuständigen föderierten Teilgebieten oder von den zuständigen Agenturen bestimmten Kontaktzentren, 
+Gesundheitsinspektionsdienste und mobilen Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit 
+dem Coronavirus COVID-19 infizierten Personen auf der Grundlage einer Datenbank bei Sciensano - registriert 
+werden und für die in Artikel 3 des vorerwähnten Zusammenarbeitsabkommens festgelegten Verarbeitungszwecke 
+verarbeitet und ausgetauscht werden.Art. 4 - Personen ab dem Alter von 12 Jahren, die in belgisches 
+Staatsgebiet einreisen und ihren Hauptwohnort nicht in Belgien haben, müssen über ein Impf-, Test- oder 
+Genesungszertifikat verfügen. Gegebenenfalls ist der Beförderer verpflichtet zu überprüfen, dass diese 
+Personen vor dem Einsteigen ein Impf-, Test- oder Genesungszertifikat vorweisen. Fehlt ein Impf-, Test- 
+oder Genesungszertifikat, muss der Beförderer das Einsteigen untersagen.In Ermangelung eines 
+Impf-, Test- oder Genesungszertifikats oder bei falschen, irreführenden oder unvollständigen Informationen 
+in diesem Zertifikat kann die Einreise gemäß Artikel 14 des Schengener Grenzkodex oder Artikel 
+43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, die Niederlassung 
+und das Ausweisen von Ausländern verweigert werden.Die Verpflichtung, über ein Impf-, Test- 
+oder Genesungszertifikat zu verfügen, gilt nicht für Reisende, bei deren Reise kein Beförderer in Anspruch 
+genommen wird und deren Aufenthalt in Belgien 48 Stunden nicht übersteigt oder deren vorheriger Aufenthalt 
+außerhalb Belgiens nicht länger als 48 Stunden gedauert hat. Diese Ausnahme gilt nicht für Personen, 
+die sich zu irgendeinem Zeitpunkt während der letzten 14 Tage vor ihrer Ankunft in Belgien auf dem Staatsgebiet 
+eines Drittlandes aufgehalten haben, das gemäß Artikel 2 § 3 Absatz 1 als Gebiet mit sehr 
+hohem Risiko ausgewiesen ist.Art. 5 - Die in Artikel 4 vorgesehene Verpflichtung gilt nicht 
+für Reisen, die von den folgenden Kategorien von Personen unternommen werden:1. sofern sie 
+im Rahmen ihrer Funktion nach Belgien reisen:- Arbeitnehmer des Verkehrssektors oder Verkehrsdienstleister, 
+einschließlich Lastwagenfahrern, die Güter zur Verwendung auf dem Staatsgebiet befördern, und solchen, 
+die nur auf der Durchfahrt sind,- Seeleute, Besatzungen von Schleppern und Lotsenbooten und 
+Industriepersonal, das in Offshore-Windparks beschäftigt ist,- Grenzgänger,2. Schüler, 
+Studenten und Praktikanten, die im Rahmen ihres grenzüberschreitenden Studiums oder eines grenzüberschreitenden 
+Praktikums mindestens einmal wöchentlich nach Belgien reisen,3. Personen, die im Rahmen der 
+grenzüberschreitenden Mitelternschaft nach Belgien reisen,4. Personen, die zwischen Belgien 
+und einem anderen EU-Mitgliedstaat überstellt werden im Rahmen der Verordnung (EU) Nr. 604/2013 des Europäischen 
+Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung 
+des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem 
+Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist, oder im Rahmen bilateraler 
+Vereinbarungen, wenn zwischen Belgien und den anderen EU-Mitgliedstaaten diesbezüglich die erforderlichen 
+Gegenseitigkeitsvereinbarungen getroffen worden sind.Die in Absatz 1 vorgesehenen Ausnahmen 
+gelten nicht für Personen, die sich zu irgendeinem Zeitpunkt während der letzten 14 Tage vor ihrer Ankunft 
+in Belgien auf dem Staatsgebiet eines Drittlandes aufgehalten haben, das gemäß Artikel 2 § 
+3 Absatz 1 als Gebiet mit sehr hohem Risiko ausgewiesen ist.Art. 6 - Für die Anwendung des 
+vorliegenden Erlasses gelten Andorra, Monaco, San Marino und der Vatikan als Länder der Europäischen 
+Union.Art. 7 - Die durch vorliegenden Erlass vorgeschriebenen Maßnahmen sind bis zum 
+31. Juli 2022 einschließlich anwendbar.Art. 8 - Vorliegender Erlass tritt am Tag seiner 
+Veröffentlichung im Belgischen Staatsblatt in Kraft.Art. 9 - Der für die Volksgesundheit zuständige 
+Minister, der für Inneres zuständige Minister und der für die Einreise ins Staatsgebiet, den Aufenthalt, 
+die Niederlassung und das Ausweisen von Ausländern zuständige Minister sind, jeder für seinen Bereich, 
+mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 10. März 2022PHILIPPEVon 
+Königs wegen:Der Minister der VolksgesundheitF. VANDENBROUCKEDie Ministerin 
+des InnernA. VERLINDENDer Staatssekretär für Asyl und MigrationS. MAHDIAnlage 
+zum Königlichen Erlass vom 10. März 2022Liste der unbedingt notwendigen Reisen von Drittländern 
+nach Belgien für Reisende, die nicht die Staatsangehörigkeit eines Landes der Europäischen Union oder 
+des Schengen-Raums besitzen und ihren Hauptwohnort in einem Drittland haben, das nicht erwähnt ist in 
+Anhang I der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht 
+unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung dieser BeschränkungFür die 
+Anwendung von Artikel 2 § 1 des vorliegenden Erlasses werden folgende Reisen als unbedingt notwendig 
+betrachtet:1. berufsbedingte Reisen von Gesundheitsfachkräften, Forschern im Bereich der Gesundheit 
+und Fachkräften in der Altenpflege,2. berufsbedingte Reisen von Grenzgängern,3. berufsbedingte 
+Reisen von Saisonarbeitern im Landwirtschafts- und Gartenbausektor,4. berufsbedingte Reisen 
+des Transportpersonals,5. Reisen von Diplomaten, des Personals internationaler Organisationen 
+und Einrichtungen und der durch internationale Organisationen und Einrichtungen eingeladenen Personen, 
+deren physische Präsenz für ein ordnungsgemäßes Funktionieren dieser Organisationen und Einrichtungen 
+erforderlich ist, berufsbedingte Reisen des Militärpersonals, der Ordnungskräfte, des Zollpersonals, 
+der Nachrichtendienste, der Magistrate, des humanitären Personals und des Personals des Zivilschutzes 
+in der Ausübung ihrer Funktion,6. Durchreisen außerhalb des Schengen-Raums und der Europäischen 
+Union,7. Reisen aus zwingenden familiären Gründen, nämlich:- Reisen, die durch eine 
+Familienzusammenführung im Sinne des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, 
+den Aufenthalt, die Niederlassung und das Ausweisen von Ausländern gerechtfertigt sind,- Besuche 
+bei einem Ehe- oder Lebenspartner, der nicht unter demselben Dach wohnt, sofern der stabile und dauerhafte 
+Charakter der Beziehung plausibel nachgewiesen werden kann,- Reisen im Rahmen der Mitelternschaft 
+(einschließlich Behandlungen im Rahmen der medizinisch assistierten Fortpflanzung),- 
+Reisen im Rahmen eines Begräbnisses beziehungsweise einer Einäscherung von Verwandten ersten und zweiten 
+Grades,- Reisen im Rahmen einer standesamtlichen oder religiösen Eheschließung von Verwandten 
+ersten und zweiten Grades,8. berufsbedingte Reisen von Seeleuten,9. Reisen aus humanitären 
+Gründen (einschließlich Reisen aus zwingenden medizinischen Gründen oder zur Fortführung einer 
+dringenden medizinischen Behandlung und um älteren Menschen, Minderjährigen, Personen mit Behinderung 
+oder schutzbedürftigen Personen beizustehen),10. Reisen aus Studiengründen, einschließlich 
+Reisen von Schülern, Studenten und Praktikanten, die im Rahmen ihres Studiums eine Ausbildung absolvieren, 
+und von Forschen mit einer Aufnahmevereinbarung,11. Reisen von hochqualifizierten Personen, 
+wenn ihre Arbeit wirtschaftlich notwendig ist und nicht aufgeschoben werden kann, einschließlich 
+Reisen von Berufssportlern, die als Spitzensportler anerkannt sind, von Berufsfachkräften des Kultursektors, 
+sofern sie über eine kombinierte Erlaubnis verfügen, und von Journalisten, in der Ausübung ihrer beruflichen 
+Tätigkeit.Reisen von Personen, die nach Belgien kommen, um eine Tätigkeit als Lohnempfänger 
+auszuüben, einschließlich Au-Pair-Jugendlichen, unabhängig von der Dauer dieser Tätigkeit, sofern 
+ihnen dies von der zuständigen Region gestattet worden ist (Arbeitserlaubnis oder Nachweis, dass die 
+Bedingungen für eine Befreiung erfüllt sind),Reisen von Personen, die nach Belgien kommen, 
+um eine Tätigkeit als Selbständiger auszuüben, unabhängig von der Dauer dieser Tätigkeit, sofern ihnen 
+dies von der zuständigen Region gestattet worden ist (gültige Berufskarte oder Nachweis, dass die Bedingungen 
+für eine Befreiung erfüllt sind),12. Reisen des Ehepartners oder Lebenspartners von Personen, 
+die die Staatsangehörigkeit eines Landes der Europäischen Union oder des Schengen-Raums besitzen, wenn 
+er diese begleitet und sofern sie unter demselben Dach wohnen, und Reisen ihrer Kinder, die unter demselben 
+Dach wohnen. Lebenspartner müssen ebenfalls den stabilen und dauerhaften Charakter der Beziehung plausibel 
+nachweisen.Gesehen, um Unserem Erlass vom 10. März 2022 beigefügt zu werdenGegeben 
+zu Brüssel, den 10. März 2022PHILIPPEVon Königs wegen:Der Minister der 
+VolksgesundheitF. VANDENBROUCKEDie Ministerin des InnernA. VERLINDENDer 
+Staatssekretär für Asyl und MigrationS. MAHDI   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-03-23Numac : 2022020546
+

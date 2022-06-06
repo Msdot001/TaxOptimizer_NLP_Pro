@@ -1,0 +1,156 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/11/12/2020016061/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-11-17Numac : 2020016061
+WAALSE OVERHEIDSDIENST
+ 12 NOVEMBER 2020. - Besluit van de Waalse Regering betreffende de toekenning van een specifieke toekenning ten gunste van de inrichtingen die per beslissing zijn gesloten in het kader van de crisis in verband met het coronavirus COVID-19 
+De Waalse Regering,Gelet op het decreet van 11 maart 
+2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen, inzonderheid 
+op de artikelen 10 en 19;Gelet op het rapport van 26 oktober 2020 opgesteld overeenkomstig 
+artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie 
+van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 28 oktober 2020;Gelet op de instemming van de Minister van Begroting, gegeven op 
+29 oktober 2020;Gelet op advies 68.212/2 van de Raad van State, gegeven op 4 november 2020, 
+overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Gelet op de dringende noodzakelijkheid;Gelet op het ministerieel 
+besluit van 18 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken, gewijzigd bij het ministerieel besluit van 23 oktober 2020 en opgeheven bij het ministerieel 
+besluit van 28 oktober 2020;Gelet op het ministerieel besluit van 28 oktober 2020 houdende 
+dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, gewijzigd bij het 
+ministerieel besluit van 1 november 2020;Gelet op de sluitingsverplichting voor de inrichtingen 
+in de horeca-sector en de andere eet- en drankgelegenheden;Gelet op de beslissing van de Waalse 
+Regering van 23 oktober 2020;Gelet op de opschorting van de uitoefening van binnensporten in 
+de sportinfrastructuren op Waals grondgebied, in de privé-sportstructuren in zowel de commerciële als 
+de verenigingssector, tot 19 november 2020, behalve voor de kinderen tot 12 jaar;Overwegende 
+dat de ondernemingen getroffen door deze nieuwe sluitingsmaatregelen hun omzet fors zien dalen, of zelfs 
+helemaal verdwijnen, en dat hierdoor het inkomen van de ondernemers en van hun werknemers in het gedrang 
+komt;Overwegende dat deze steun onder meer tot doel heeft om een golf van faillissementen te 
+voorkomen onder de ondernemingen die prangende liquiditeitsproblemen ondervinden ten gevolge van de crisis;Overwegende 
+dat wanbetalingen ten gevolge van liquiditeitsproblemen een domino-effect in de economie zouden kunnen 
+veroorzaken, hetgeen ten alle koste voorkomen moet worden;Overwegende dat deze problemen en 
+effecten op zeer korte termijn voelbaar zullen zijn en dat het dus niet verantwoord is om enige vertraging 
+op te lopen in het uitvoeren van de steunmaatregel;Overwegende dat het fundamenteel is dat 
+deze steun onverwijld wordt gestort;Op de voordracht van de Minister van Economie;Na 
+beraadslaging,Besluit : Artikel 1. Voor de toepassing van dit besluit wordt verstaan 
+onder:1°  decreet: het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten 
+gunste van kleine en middelgrote ondernemingen;2°  Minister: de Minister van Economie;3° 
+ onderneming: de zeer kleine, kleine of middelgrote onderneming bedoeld in artikel 3, §§ 
+3 en 5, van het decreet, evenals de natuurlijke persoon die een activiteit in hoofd- of bijberoep uitoefent 
+en die, rekening houdend met zijn beroepsinkomsten, sociale bijdragen dient te betalen;4°  
+NACE-BEL-code: de activiteitennomenclatuur uitgewerkt door het Nationaal Instituut voor de Statistiek 
+(NACE-BEL 2008) in ééngemaakt Europees verband, opgelegd bij Verordening (EEG) nr. 3037/90 van 9 oktober 
+1990 van de Raad betreffende de statistieke nomenclatuur van de economische activiteiten in de Europese 
+Gemeenschap, gewijzigd bij Verordening (EEG) nr. 761/93 van de Commissie van 24 maart 1993, bij Verordening 
+(EG) nr. 29/2002 van 19 december 2001, bij Verordening (EG) nr. 1882/2003 van het Europese Parlement 
+en van de Raad van 29 september 2003 en bij Verordening (EG) nr. 1893/2006 van het Europese Parlement 
+en van de Raad van 20 december 2006;5°  Administratie: de Waalse Overheidsdienst Economie, 
+Tewerkstelling en Onderzoek;6°  webplatform: de webtoepassing bedoeld in artikel 1, § 
+ 1, eerste lid, 6°,  van het decreet van 21 december 2016 houdende de toekenning van steun via een in 
+het Waalse Gewest geïntegreerd steunportfolio aan projectontwikkelaars en kleine en middelgrote ondernemingen, 
+ter vergoeding van de diensten ter bevordering van het ondernemerschap of de groei, en strekkende de 
+oprichting van een databank van authentieke bronnen die verbonden is met die geïntegreerde portefeuille, 
+die toegankelijk is op https://indemnitecovid.wallonie.be ;7°  het personeelsbestand: het gemiddeld 
+aantal werknemers, in 2019 tewerkgesteld via een arbeidsovereenkomst in de gezamenlijke bedrijfszetels 
+van de onderneming die overeenstemmen met de arbeidseenheden (JAE), berekend op grond van de multifunctionele 
+aangiften bij de Kruispuntbank van de Sociale Zekerheid voor de vier kwartalen van 2019.Art. 
+2. De specifieke tegemoetkoming wordt toegekend overeenkomstig Verordening (EU) nr. 1407/2013 van de 
+Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag 
+betreffende de werking van de Europese Unie op de-minimissteun, hierna Verordening 1407/2013 genoemd.Art. 
+3. De Minister kent volgens de door hem bepaalde nadere regels een specifieke tegemoetkoming toe aan 
+de onderneming die in het Waals Gewest voor 19 oktober 2020 eigenaar was van een vestigingseenheid als 
+bedoeld in artikel I.2, 16°,  van Boek I van het Wetboek van economisch recht en waarvan de activiteit 
+valt onder één van de NACE BEL-codes vemerld in één van de sectoren of deelsectoren bedoeld in volgende 
+subklassen:1) 56.101 van de NACE-BEL-code;2) 56.102 van de NACE-BEL-code;3) 
+56.301 van de NACE-BEL-code;4) 56.309 van de NACE-BEL-code;5) 93.110 van de NACE-BEL-code;6) 
+93.121 tot en met 93.129 van de NACE-BEL-code;7) 93.130 van de NACE-BEL-code;8) 93.191 
+tot en met 93.199 van de NACE-BEL-code;9) 93.212 van de NACE-BEL-code.De in het eerste 
+lid bedoelde specifieke tegemoetkoming kan slechts eenmaal per onderneming ingeschreven in de Kruispuntbank 
+van Ondernemingen worden toegekend, overeenkomstig boek III, Titel 2, hoofdstuk 1, van het Wetboek van 
+Economisch recht.Uitgesloten van de specifieke tegemoetkoming als bedoeld in lid 1 wordt de 
+onderneming die een premie kreeg, toegekend door een ander deelgebied in het kader van de COVID-19-crisis 
+of die een specifieke tegemoetkoming kreeg overeenkomstig het besluit van de Waalse Regering van 12 november 
+2020 betreffende de toekenning van een financiële tegemoetkoming in het kader van de crisis in verband 
+met het coronavirus COVID-19.De Minister kan sectoren of deelsectoren als bedoeld onder lid 
+1 toevoegen in zoverre zij een sluiting kregen opgelegd krachtens een federale of gewestelijke maatregel 
+genomen ter bestrijding van de Covid-19 epidemie.Art. 4. De specifieke tegemoetkoming bedraagt:1° 
+ 3.000 euro als het personeelsbestand 0 bedraagt;2°  5.000 euro als het personeelsbestand hoger 
+is dan 0 en lager is dan 5;3°  7.000 euro als het personeelsbestand gelijk is aan of hoger 
+is dan 5 en lager dan 10;4°  9.000 euro als het personeelsbestand gelijk is aan of hoger is 
+dan en lager dan 10.Art. 5. De onderneming dient haar aanvraag voor een specifieke tegemoetkoming 
+via het webplatform bij de Administratie in, van 16 november 2020 tot en met 15 december 2020.Bij 
+het indienen van het dossier op het webplatform moet de onderneming met name de volgende informatie verstrekken 
+:1°  haar nummer van de Kruispuntbank van Ondernemingen;2°  de NACE BEL code voor 
+de activiteit waarvoor de onderneming de specifieke tegemoetkoming aanvraagt;3°  een verklaring 
+op erewoord die op het webplatform ingevuld moet worden;4°  het rekeningnummer van de onderneming.De 
+onderneming verklaart met name via de in het tweede lid, 3°,  bedoelde verklaring op erewoord dat zij 
+de plafonds zoals bepaald in Verordening 1407/2013 niet overschrijdt, namelijk 200.000 euro over de laatste 
+drie belastingjaren en dat zij valt onder een activiteit vermeld in één van de NACE BEL codes bedoeld 
+in artikel 3, lid 1.Het bedrag van de specifieke tegemoetkoming wordt door de Administratie 
+overeenkomstig artikel 4 berekend op grond van de gegevens die haar zijn medegedeeld via de authentieke 
+bronnen of door de onderneming in het geval dat deze onder een bijzonder stelsel van de belasting op 
+de toegevoegde waarde valt.De Administratie kan eveneens gebruik maken van de databanken die 
+authentieke bronnen vormen om alle gegevens te verkrijgen die nodig zijn voor het onderzoek van het dossier.Art. 
+6. De beslissing over de ontvankelijkheid, de betaling, de controle en invordering van de specifieke 
+tegemoetkomingen wordt genomen door elk personeelslid van niveau A zoals omschreven in het besluit van 
+de Waalse Regering van 18 december 2003 houdende de Waalse Ambtenarencode, aangewezen door de directrice-generaal 
+van de Administratie.Art. 7. De Administratie gaat na, of de aanvraag voor een financiële tegemoetkoming 
+ontvankelijk is.Wanneer het dossier niet ontvankelijk is, schort de Administratie de aanvraag 
+voor een financiële tegemoetkoming op en stelt zij de onderneming daarvan in kennis, die haar aanvraag 
+kan vervolledigen en laten onderwerpen aan een nieuw onderzoek naar de ontvankelijkheid.Als 
+het dossier niet wordt aangevuld en onderworpen aan een nieuw ontvankelijkheidsonderzoek binnen een termijn 
+van één maand te rekenen van de datum van opschorting, dan wordt de steunaanvraag definitief vernietigd.Indien 
+de aanvraag aan de gestelde voorwaarden voldoet, wordt de onderneming er elektronisch van in kennis gesteld 
+dat de financiële tegemoetkoming wordt toegekend.Art. 8. Dit besluit treedt in werking de dag 
+waarop het in het Belgisch Staatsblad bekendgemaakt wordt.Art. 9. De Minister van Economie 
+is belast met de uitvoering van dit besluit.Namen, 12 november 2020.Voor de Regering:De 
+Minister-President,E. DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie, Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-11-17Numac : 2020016061
+

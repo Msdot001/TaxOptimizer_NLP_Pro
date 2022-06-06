@@ -1,0 +1,689 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/06/26/2020041990/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-01Numac : 2020041990
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID EN FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 26 JUNI 2020. - Koninklijk besluit nr. 46 tot uitvoering van artikel 5, § 1, 5°  van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers 
+VERSLAG 
+AAN DE KONINGSire,Het ontwerpbesluit dat wij de eer hebben voor te leggen ter ondertekening 
+aan Uwe Majesteit beoogt:- het weer invoeren van de tijdelijke aanpassing van de arbeidsduur, 
+zoals die van toepassing was in de periode 2009-2011 teneinde een instrument aan de ondernemingen te 
+bieden om de vermindering van werk op te vangen en de loonkosten te doen dalen, zonder daarom over te 
+moeten gaan tot naakte ontslagen.Deze maatregelen maken het voorwerp uit van hoofdstuk 1.- 
+het invoeren van het Corona-tijdskrediet, een formule tot vermindering van de arbeidsprestaties waaraan 
+een uitkering is verbonden;Deze maatregel maakt het voorwerp uit van hoofdstuk 2.- 
+het toelaten, bij ondernemingen in moeilijkheden of ondernemingen in herstructurering, en onder bepaalde 
+voorwaarden, dat werknemers vanaf 55 jaar een halftijdse of 1/5de landingsbaan aanvatten;Deze 
+maatregel maakt het voorwerp uit van hoofdstuk 3.- het mogelijk maken van de erkenning als 
+onderneming in moeilijkheden of als onderneming in herstructurering zonder dat het noodzakelijk is een 
+collectieve arbeidsovereenkomst in het kader van de werkloosheid met bedrijfstoeslag (SWT) af te sluiten;Deze 
+maatregel maakt het voorwerp uit van hoofdstuk 4.- het invoeren van een regeling om de overgang 
+te faciliteren van de tijdelijke werkloosheid wegens overmacht als gevolg van het coronavirus COVID-19 
+naar de bestaande systemen van economische werkloosheid voor werklieden en bedienden.Het hoofdstuk 
+5 is van toepassing op een werkgever die niet langer in de voorwaarden verkeert om zich te beroepen op 
+de schorsing van de uitvoering van de arbeidsovereenkomst wegens tijdelijke overmacht omwille van het 
+coronavirus COVID-19. In dergelijke situatie kan de werkgever beroep doen op de bestaande stelsels van 
+economische werkloosheid voor arbeiders of bedienden (artikel 51 en artikel 77/1 en volgende van de wet 
+van 3 juli 1978 betreffende de arbeidsovereenkomsten), die tijdelijk, tot eind 2020, worden aangepast 
+om een vlottere toegang tot die stelsels mogelijk te maken.In het systeem van economische werkloosheid 
+voor werklieden wordt het tot eind 2020 mogelijk om de uitvoering van de arbeidsovereenkomst voor ten 
+hoogste acht weken (i.p.v. vier weken) volledig te laten schorsen. Een regeling van gedeeltelijke arbeid 
+kan tot eind 2020 worden ingevoerd voor een duur van ten hoogste achttien weken (i.p.v. drie maanden). 
+Andere regels binnen dit stelsel van economische werkloosheid blijven ongewijzigd van toepassing.Wat 
+de bedienden betreft, zullen werkgevers tot eind 2020 beroep kunnen doen op het stelsel van economische 
+werkloosheid voor bedienden (hoofdstuk II/I van Titel III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten) 
+zonder te moeten beantwoorden aan de normale preliminaire voorwaarden voor de toegang tot dit systeem,met 
+name de criteria om te kunnen worden beschouwd als onderneming in moeilijkheden. Wel moet de werkgever 
+kunnen aantonen dat hij in het kwartaal voorafgaand aan de invoering van de economische werkloosheid, 
+een substantiële daling van ten minste 10% van de omzet of de productie heeft gekend in vergelijking 
+met hetzelfde kwartaal van 2019. Bovendien moet hij de bedienden die in economische werkloosheid worden 
+geplaatst twee vormingsdagen per maand aanbieden. De vereiste van het bestaan van een cao of ondernemingsplan 
+die in de betaling van een supplement voorziet, blijft in deze context behouden.Het maximum 
+aantal weken waarin de bedienden in economische werkloosheid kunnen worden geplaatst, wordt tot eind 
+2020 verhoogd. Het maximum van zestien kalenderweken per kalenderjaar (in geval van een volledige schorsing) 
+of zesentwintig kalenderweken per kalenderjaar (in geval van regeling van gedeeltelijke arbeid) wordt 
+verhoogd met 8 weken. Deze maatregelen maken het voorwerp uit van hoofdstuk 5.De 
+opmerkingen van de afdeling Wetgeving van de Raad van State in zijn advies nr. 67.654 van 25 juni 2020 
+werden in overweging genomen.Zoals aangegeven door de Raad van State in zijn advies 67.654 
+van 25 juni 2020 wordt de toepassing van de maatregelen in de eerste vier hoofdstukken beperkt tot de 
+ondernemingen met een erkenning als onderneming in moeilijkheden of herstructureringen die ten vroegste 
+aanvangt vanaf 1 maart 2020 aangezien de maatregelen tegen de verspreiding van het coronavirus vanaf 
+die maand een belangrijke impact begonnen te hebben op de activiteiten binnen de ondernemingen.De 
+maatregelen zijn van toepassing op de ondernemingen die erkend zijn als onderneming in moeilijkheden 
+of in herstructurering waarvan de erkenning aanvangt voor 1 januari 2021. De economische gevolgen zijn 
+niet beperkt tot de voorbije periode van zeer strikte maatregelen op vlak van social distancing die vooral 
+impact hadden op de tijdelijke werkloosheid. Het is pas in de tweede jaarhelft dat verwacht wordt dat 
+de grootste jobverliezen zullen plaatsvinden. Het zijn deze ontslagen die de maatregelen beogen te beperken.HOOFDSTUK 
+1. -  Tijdelijke arbeidsduurvermindering in het kader van de COVID-19 pandemieArtikelen 1 tot 
+en met 3In dit hoofdstuk wordt de tijdelijke aanpassing van de arbeidsduur opnieuw ingevoerd, 
+zoals die van toepassing was in de periode 2009-2011. Arbeidsduurvermindering kan een instrument zijn 
+voor de ondernemingen om de vermindering van werk op te vangen en de loonkosten te doen dalen, zonder 
+daarom over te moeten gaan tot naakte ontslagen. De betrokken werknemers worden als voltijdse werknemers 
+beschouwd. De arbeidsduurvermindering moet ook collectief voor het geheel van het personeel, of een categorie 
+van het personeel, worden ingevoerd.Een forfaitaire RSZ-vermindering wordt gegeven in geval 
+van een tijdelijke arbeidsduurvermindering. De periode van de forfaitaire vermindering loopt vanaf invoering 
+van de tijdelijke arbeidsduurvermindering en neemt een einde wanneer de tijdelijke arbeidsduurvermindering 
+een einde neemt.De tijdelijke arbeidsduurvermindering kan worden toegepast gedurende een jaar. 
+De begin- en einddatum van de periode van arbeidsduurvermindering moeten gelegen zijn binnen de periode 
+van erkenning als onderneming in herstructurering of als onderneming in moeilijkheden.HOOFDSTUK 
+2. - Corona-tijdskredietArtikelen 4 tot en met 8Om werkgevers toe te laten de arbeidsprestaties 
+van hun werknemers te verminderen zonder dat hun werknemers een te groot inkomensverlies zouden moeten 
+lijden, regelt dit hoofdstuk een speciale formule tot vermindering van de arbeidsprestaties waaraan een 
+uitkering is verbonden. Het gaat hier om een herneming van een maatregel die bestond in de jaren 2009-2011 
+om het hoofd te bieden aan de crisis en losstaat van deze die bestaan in toepassing van of krachtens 
+de herstelwet van 22 januari 1985 houdende sociale bepalingen.Wordt een overeenkomst gesloten 
+door werkgever en werknemer overeenkomstig deze regeling, dan ontvangt de werknemer die zijn arbeidsprestaties 
+vermindert, een uitkering om gedeeltelijk zijn inkomensverlies op te vangen. Deze uitkering is dezelfde 
+als deze vastgelegd voor het gewone tijdskrediet.Het corona-tijdkrediet kan individueel per 
+werknemer worden toegepast voor een periode van één tot maximaal zes maanden. Deze periode moet volledig 
+liggen binnen de periode waarin de werkgever erkend is als onderneming in herstructurering of als onderneming 
+in moeilijkheden en deze periode van erkenning ten vroegste aanvangt op 1 maart 2020 en ten laatste op 
+31 december 2020.HOOFDSTUK 3.- LandingsbanenArtikelen 9 en 10Dit hoofdstuk 
+laat toe dat werknemers vanaf 55 jaar een halftijdse of 1/5de landingsbaan aanvatten, onder de voorwaarde 
+dat hij een beroepsverleden heeft van 25 jaar en dat de landingsbaan een aanvang neemt in de periode 
+van erkenning als onderneming in moeilijkheden of als onderneming in herstructurering, waarvan de datum 
+van aanvang gelegen is ten vroegste op 1 maart 2020 en ten laatste op 31 december 2020.Bijkomend 
+wordt in een afwijking van de minimale periode van landingsbaan voorzien, zodat een landingsbaan gedurende 
+één maand mogelijk is.HOOFDSTUK 4. - Erkenning als onderneming in herstructurering of in moeilijkhedenArtikel 
+11Dit hoofdstuk zorgt ervoor dat een erkenning als onderneming in moeilijkheden of als onderneming 
+in herstructurering mogelijk is zonder het afsluiten van een collectieve arbeidsovereenkomst in het kader 
+van de werkloosheid met bedrijfstoeslag (SWT). Deze erkenningen gelden dan vanzelfsprekend enkel en alleen 
+voor de toepassing van de maatregelen bedoeld in de hoofstukken 1, 2 en 3 van dit besluit. Een onderneming 
+die wenst gebruik te maken van de modaliteiten voorzien in het koninklijk besluit van 3 mei 2007, dient 
+daarvoor wel degelijk nog een cao te sluiten in het kader van SWT.HOOFDSTUK 5. - Tijdelijke 
+aanpassing, bij wijze van overgangsmaatregel, van de regeling inzake economische werkloosheid voor ondernemingen 
+die niet meer in de voorwaarden verkeren om beroep te doen op tijdelijke werkloosheid wegens overmacht 
+die het gevolg is van de COVID-19-epidemieArtikel 12Dit artikel legt het toepassingsgebied 
+vast van de overgangsregeling. De maatregel is van toepassing op de werkgevers die niet meer in de voorwaarden 
+verkeren om zich ten aanzien van hun werknemers te beroepen op de schorsing van de uitvoering van de 
+arbeidsovereenkomst wegens tijdelijke overmacht omwille van het coronavirus COVID-19.Artikel 
+13Dit artikel brengt een aantal tijdelijke aanpassingen aan, tot eind 2020, in het bestaande 
+stelsel van schorsing van de uitvoering van de arbeidsovereenkomst voor werklieden bij gebrek aan werk 
+wegens economische oorzaken (artikel 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten), 
+ook wel beter bekend als de tijdelijke economische werkloosheid voor arbeiders.In afwijking 
+van de bestaande regels zal het tot eind 2020 mogelijk zijn om, bij ontstentenis van een sectoraal K.B., 
+de uitvoering van de arbeidsovereenkomst volledig te schorsen gedurende acht weken (in plaats van de 
+huidige vier weken). De regeling van gedeeltelijke arbeid die minder dan drie arbeidsdagen per week of 
+minder dan één arbeidsweek per twee weken omvat zal kunnen worden ingevoerd voor een maximale duur van 
+18 weken (in plaats van de huidige drie maanden).Aan de overige regels en voorwaarden van artikel 
+51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten wordt niet geraakt. Zij blijven dus 
+onverminderd van toepassing.Artikel 14Dit artikel brengt een aantal tijdelijke aanpassingen 
+aan, tot eind 2020, in het bestaande stelsel van schorsing van de uitvoering van de arbeidsovereenkomst 
+voor bedienden bij gebrek aan werk wegens economische oorzaken (hoofdstuk II/I van Titel III van de wet 
+van 3 juli 1978 betreffende de arbeidsovereenkomsten), ook wel beter bekend als de tijdelijke economische 
+werkloosheid voor bedienden.In afwijking van de bestaande regels, zal de toegang tot dit stelsel 
+tot eind 2020 niet beperkt worden tot de ondernemingen in moeilijkheden. Wel moet de werkgever kunnen 
+aantonen dat hij in het kwartaal voorafgaand aan de invoering van de economische werkloosheid, een substantiële 
+daling van ten minste 10% van de omzet of de productie heeft gekend in vergelijking met hetzelfde kwartaal 
+van 2019. Bovendien moet hij de bedienden die in economische werkloosheid worden geplaatst twee vormingsdagen 
+per maand aanbieden.Daarnaast blijft ook de vereiste bestaan dat een onderneming die gebruik 
+maakt van dit stelsel moet gebonden zijn door een collectieve arbeidsovereenkomst of door een ondernemingsplan 
+die worden neergelegd ter griffie van de Algemene Directie Collectieve Arbeidsbetrekkingen van de Federale 
+Overheidsdienst Werkgelegenheid, Arbeid en Sociaal Overleg. De cao of het ondernemingsplan moeten het 
+bedrag van het supplement vermelden dat overeenkomstig artikel 77/4, § 7 van de wet van 3 juli 
+1978 moet worden betaald aan de bediende in tijdelijke economische werkloosheid. In geval gebruik wordt 
+gemaakt van een ondernemingsplan, dient in dit plan te worden aangetoond dat de onderneming in het voorafgaande 
+kwartaal een substantiële daling van ten minste 10% van de omzet of de productie heeft gekend in vergelijking 
+met hetzelfde kwartaal van 2019. Tevens moet de werkgever in het ondernemingsplan zich ertoe verbinden 
+de bedienden op wie de regeling van volledige schorsing van de uitvoering van de overeenkomst of de regeling 
+van gedeeltelijke arbeid wordt toegepast, twee vormingsdagen per maand aan te bieden. Een kopie van dit 
+plan dient ook onverwijld te worden overgemaakt aan de ondernemingsraad of bij gebrek daaraan, aan de 
+vakbondsafvaardiging.Aangezien het tot eind 2020 niet nodig is erkend te zijn als onderneming 
+in moeilijkheden om gebruik te kunnen maken van het stelsel van tijdelijke economische werkloosheid voor 
+bedienden, is het ook niet vereist om tijdens deze periode ondernemingsplannen per aangetekende brief 
+op te sturen naar de Directeur-generaal van de Algemene Directie Collectieve Arbeidsbetrekkingen teneinde 
+deze te laten voorleggen aan de Commissie "Ondernemingsplannen".De rol als administratieve 
+autoriteit van de Commissie "Ondernemingsplannen" bestaat hoofdzakelijk uit het controleren of de onderneming 
+die een ondernemingsplan indient, beantwoordt aan één van de criteria om te worden erkend als zijnde 
+een onderneming in moeilijkheden.Gelet op het feit dat de criteria om te worden erkend als 
+een onderneming in moeilijkheden, tijdelijk niet van toepassing zijn, wordt de tussenkomst van de Commissie 
+"Ondernemingsplannen" en de bijhorende administratieve procedure, beschreven in artikel 77/1, § 
+3 van de wet van 3 juli 1978, eveneens tijdelijk opgeschort.In het belang van de rechtszekerheid 
+dienen de ondernemingsplannen, net zoals de desbetreffende collectieve arbeidsovereenkomsten, wel te 
+worden neergelegd ter griffie van de Algemene Directie van de Collectieve Arbeidsbetrekkingen, zoals 
+trouwens voorzien is in artikel 77/1, § 2, derde lid, van de wet van 3 juli 1978.Daar 
+de ondernemingsplannen tijdelijk niet meer worden voorgelegd aan de Commissie "Ondernemingsplannen", 
+kan deze Commissie geen afwijking meer toestaan op het bedrag van het loonsupplement en wordt dus ook 
+tijdelijk afgeweken van artikel 77/1, § 6 van de wet van 3 juli 1978.HOOFDSTUK 6 -  
+SlotbepalingenArtikel 15Artikel 15 bepaalt de datum van inwerkingtreding en buitenwerkingtreding 
+van de verschillende hoofdstukken van dit besluit.Artikel 16Artikel 16 wijst de ministers 
+aan die belast zijn met de uitvoering van het besluit.Ik heb de eer te zijn,Sire,Van 
+Uwe Majesteit,de zeer eerbiedige en zeer getrouwe dienaar,La Ministre des Affaires 
+sociales,M. DE BLOCKDe Minister van Werk,N. MUYLLERAAD 
+VAN STATEafdeling WetgevingAdvies 67.654/1 van 25 juni 2020 over een ontwerp van 
+koninklijk besluit nr. .... `tot uitvoering van artikel 5, § 1, 5°  van de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (II) tot ondersteuning van de werkgevers en de werknemers'Op 18 juni 
+2020 is de Raad van State, afdeling Wetgeving, door de Minister van Werk verzocht binnen een termijn 
+van vijf werkdagen een advies te verstrekken over een ontwerp van koninklijk besluit nr. .... `tot uitvoering 
+van artikel 5, § 1, 5°  van de wet van 27 maart 2020 die machtiging verleent aan de Koning om 
+maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning 
+van de werkgevers en de werknemers'. Het ontwerp is door de eerste kamer onderzocht op 23 juni 
+2020. De kamer was samengesteld uit Marnix VAN DAMME, kamervoorzitter, Wilfried VAN VAERENBERGH en Chantal 
+BAMPS, staatsraden, en Wim GEURTS, griffier.De verslagen zijn uitgebracht door Barbara SPEYBROUCK, 
+eerste auditeur en Katrien DIDDEN, adjunct-auditeur. De overeenstemming tussen de Franse en 
+de Nederlandse tekst van het advies is nagezien onder toezicht van Chantal BAMPS, staatsraad. 
+Het advies, waarvan de tekst hierna volgt, is gegeven op 25 juni 2020.1. Met toepassing van 
+artikel 4, eerste lid, van de wet van 27 maart 2020 `die machtiging verleent aan de Koning om maatregelen 
+te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I)', waarin verwezen wordt 
+naar artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd op 12 
+januari 1973, heeft de afdeling Wetgeving zich moeten beperken tot het onderzoek van de bevoegdheid van 
+de steller van de handeling, van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten 
+is voldaan.STREKKING EN RECHTSGROND VAN HET ONTWERP2. Het om advies voorgelegde ontwerp 
+van koninklijk besluit strekt ertoe tijdelijk, in het kader van de wet van 27 maart 2020 `die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (II)'(1), diverse maatregelen tot ondersteuning van de werkgevers en werknemers in te voeren.3. 
+Uit het eerste lid van de aanhef van het ontwerp blijkt dat voor de ontworpen regeling rechtsgrond wordt 
+gezocht in artikel 5, §  1, van de wet van 27 maart 2020 (II).Artikel 2 van de wet van 
+27 maart 2020 (II) bepaalt dat teneinde het België mogelijk te maken te reageren op de coronavirus COVID-19 
+epidemie of pandemie en de gevolgen ervan op te vangen, de Koning, bij een besluit vastgesteld na overleg 
+in de Ministerraad, de in artikel 5, § 1, 1°  tot 8°,  van de wet bedoelde maatregelen kan nemen 
+en dat deze maatregelen zo nodig een terugwerkende kracht kunnen hebben, die echter niet verder kan teruggaan 
+dan 1 maart 2020.Met het oog op de in artikel 2, eerste lid, van de wet van 27 maart 2020 (II) 
+vermelde doelstellingen, machtigt artikel 5, § 1, 5°,  van die wet de Koning om inzonderheid maatregelen 
+te nemen om aanpassingen door te voeren in het arbeidsrecht en het socialezekerheidsrecht, met het oog 
+op de bescherming van de werknemers en van de bevolking, de goede organisatie van de ondernemingen en 
+de overheid, met vrijwaring van de economische belangen van het land en de continuïteit van de kritieke 
+sectoren.Over deze machtigingen werd in de toelichting bij het voorstel dat heeft geleid tot 
+de wet van 27 maart 2020 (II) gespecificeerd dat zich in het arbeidsrecht en het socialezekerheidsrecht 
+situaties kunnen voordoen waarbij het bestaande wettelijk kader niet toelaat de omwille van de volksgezondheid 
+ingegeven maatregelen te verzoenen met de noodzaak van een blijvende economische productie of dienstverlening, 
+zowel in de private sector als in de publieke sector, bijvoorbeeld omwille van het opgelegd telewerk 
+of van de wijzigingen in het uurrooster(2) .Bijgevolg ontleent de ontworpen regeling inzonderheid 
+rechtsgrond aan artikel 5, § 1, 5°,  van de wet van 27 maart 2020 (II).ONDERZOEK VAN 
+DE TEKSTALGEMENE OPMERKING4.1. De ontworpen regeling inzake de tijdelijke arbeidsduurvermindering 
+in het kader van de COVID-19 pandemie (hoofdstuk 1), corona-tijdskrediet (hoofdstuk 2) en landingsbanen 
+(hoofdstuk 3) wordt voorbehouden aan ondernemingen waarvan de erkenning als onderneming in herstructurering 
+of als onderneming in moeilijkheden(3) aanvangt voor 1 januari 2021.Op de vraag om de keuze 
+voor 1 januari 2021 als uiterste datum toe te lichten, antwoordde de gemachtigde wat volgt:"Zoals 
+ook blijkt uit de vooruitzichten van het planbureau wordt verwacht dat de economie zich zal herstellen 
+vanaf 2021. Het is natuurlijk moeilijk in te schatten wat de juiste duur zal zijn van het herstel".4.2. 
+Voor de afbakening van het toepassingsgebied van de maatregelen voorzien in de hoofdstukken 1 tot 3 wordt 
+evenwel enkel een eindpunt van de aanvang van de erkenning vastgelegd, maar geen beginpunt. Hoewel de 
+maatregelen conform artikel 15, eerste lid, van het ontwerp slechts in werking treden op 1 juli 2020, 
+is het niet uitgesloten dat werknemers van ondernemingen waarvan de periode van erkenning is aangevangen 
+vóór het begin van de coronacrisis, maar waarvan de periode van erkenning na 1 juli 2020 nog lopende 
+is(4) ook gebruik kunnen maken van de maatregelen.Gevraagd of, bij wijze van voorbeeld, een 
+onderneming die erkend werd vanaf 1 augustus 2019 ook onder het toepassingsgebied kan vallen, antwoordde 
+de gemachtigde:"Het is inderdaad niet uitgesloten dat een onderneming met een erkenning vanaf 
+1 augustus 2019 nog gebruik zou maken van de maatregelen vanaf 1 juli 2020. Het is evenwel zo dat voor 
+het bekomen van een erkenning een herstructureringsplan dient te worden opgemaakt dat wordt voorgelegd 
+aan de ondernemingsraad. Het is dit plan dat dan, na bemiddeling met de werknemersorganisaties, wordt 
+uitgevoerd, onder meer met de maatregelen die mogelijk zijn op basis van het koninklijk besluit van 3 
+mei 2007 tot regeling van het stelsel van werkloosheid met bedrijfstoeslag. In geval die onderneming 
+alsnog gebruik zou maken van de maatregelen die voorzien worden in het voorliggend koninklijk besluit, 
+dan gaat het om nieuwe bijkomende maatregelen omdat er een bijkomende nood is aan maatregelen om ontslagen 
+te vermijden, en dit met betrokkenheid van de werknemers, naar gelang de maatregel, collectief (hoofdstuk 
+1) of individueel (hoofdstukken 2 en 3)".Uit de aan de Raad van State voorgelegde tekst kan 
+evenwel niet worden opgemaakt dat een onderneming die reeds is erkend vanaf 1 augustus 2019 een nieuw 
+herstructureringsplan zou moeten indienen waarin een bijkomende nood aan maatregelen ten gevolge van 
+de coronacrisis wordt aangetoond teneinde aanspraak te kunnen maken op de toepassing van de maatregelen 
+voorzien in het voorliggende ontwerp.Gevraagd wat precies het aanvangspunt is van de periode 
+van erkenning (betreft dit de datum van de beslissing van de minister tot erkenning of kan de minister 
+een andere datum als aanvangspunt vastleggen?), antwoordde de gemachtigde:"Met `het aanvangspunt 
+van de periode van erkenning' wordt bedoeld de begindatum van de periode van erkenning en niet de datum 
+van de beslissing van de Minister.Bij een herstructureringsdossier met een collectief ontslag 
+begint de periode van erkenning op de datum van de aankondiging van het collectief ontslag (aan de ondernemingsraad 
+) tot maximaal 2 jaar na de datum van de betekening.Bij een dossier tot erkenning van een onderneming 
+als zijnde in moeilijkheden (zonder collectief ontslag) of in herstructurering op basis van een percentage 
+economische werkloosheid (20 %) bedraagt de maximale erkenning 1 jaar vanaf de begindatum van de erkenning. 
+Bij ondernemingen zonder collectief ontslag die de maatregelen wensen te maximaliseren dient rekening 
+gehouden te worden met de doorlooptijd van een dossier. De beoogde maatregelen gaan niet in op de datum 
+van aanvraag en kunnen ten vroegste worden toegepast na ontvangst van de ministeriële goedkeuring".Naar 
+aanleiding van de vraag of er beroep kan worden gedaan op de ontworpen regeling indien de erkenning wordt 
+aangevraagd voor 1 januari 2021, maar de beslissing wordt genomen na 1 januari 2021, gaf de gemachtigde 
+de volgende toelichting:"Bij ondernemingen zonder collectief ontslag vermeldt de werkgever 
+in zijn erkenningsaanvraag de datum waarop hij voorstelt dat de erkenning ingaat. In de praktijk wordt 
+hiermee doorgaans rekening gehouden.Dit hoeft echter geen automatisme te zijn.De 
+datum van de aanvraag tot erkenning valt niet noodzakelijk samen met de begindatum van de erkenning. 
+Zeker in het geval dat de datum van erkenning een impact kan hebben op het al dan niet van toepassing 
+zijn van de voorgestelde maatregelen, zal de begindatum van de erkenning uitdrukkelijk moeten worden 
+gemotiveerd. Is deze motivering niet aanvaardbaar, dan kan de Minister, na advies van de adviescommissie, 
+een andere datum van erkenning beslissen dan deze voorgesteld door de werkgever.In geval van 
+een collectief ontslag kan de datum van erkenning niet voorafgaan aan de datum van aankondiging van het 
+collectief ontslag".Tot slot voegt de gemachtigde hieraan toe dat uit artikel 18, § 
+1, tweede lid, van het koninklijk besluit van 3 mei 2007 kan worden afgeleid dat de vaste begindatum 
+enkel geldt voor ondernemingen die een collectief ontslag hebben aangekondigd, waaruit a contrario volgt 
+dat voor ondernemingen zonder collectief ontslag er geen vaste begindatum geldt.Uit het antwoord 
+van de gemachtigde blijkt dat het aanvangspunt van de erkenning niet noodzakelijk samenvalt met de datum 
+van de beslissing van de minister tot erkenning. Voor een herstructurering met collectief ontslag geldt 
+het bepaalde in artikel 18, § 1, tweede lid, van het koninklijk besluit van 3 mei 2007, waarbij 
+de erkenningsperiode aanvangt op de dag van de mededeling door de werkgever van zijn voornemen over te 
+gaan tot collectief ontslag, terwijl voor de overige ondernemingen (zonder collectief ontslag) de werkgever 
+in de aanvraag de datum vermeldt waarop hij voorstelt dat de erkenning ingaat.Wat deze laatste 
+ondernemingen betreft bevestigt de gemachtigde dat in de praktijk doorgaans rekening wordt gehouden met 
+het door de werkgever geformuleerde voorstel, maar dat dit echter geen automatisme hoeft te zijn, waaruit 
+kan worden afgeleid dat deze werkwijze niet is vastgelegd in een reglementaire bepaling, maar, zoals 
+de gemachtigde zelf aangeeft, dat deze a contrario wordt afgeleid uit artikel 18, § 1, tweede 
+lid, van het koninklijk besluit van 3 mei 2007.In zoverre door de gemachtigde wordt aangevoerd 
+dat voor een herstructurering met collectief ontslag een maximumperiode van 2 jaar erkenning wordt gehanteerd, 
+terwijl voor andere ondernemingen slechts een erkenning van 1 jaar wordt toegepast, dient te worden opgemerkt 
+dat een dergelijke regeling niet voorkomt in de ontworpen bepalingen.4.3. Het grondwettelijk 
+beginsel van gelijkheid en niet-discriminatie vereist dat het gecreëerde onderscheid tussen gevallen 
+die wel en niet onder het toepassingsgebied vallen, op een objectief criterium berust en redelijk verantwoord 
+is. Het bestaan van een dergelijke verantwoording moet worden beoordeeld rekening houdend met het doel 
+en de gevolgen van de betwiste maatregel en met de aard van de ter zake geldende beginselen; het beginsel 
+van gelijkheid en niet-discriminatie is geschonden wanneer vaststaat dat er geen redelijk verband van 
+evenredigheid bestaat tussen de aangewende middelen en het beoogde doel(5) .Het toepassingsgebied 
+van de ontworpen regeling creëert een verschil in behandeling tussen ondernemingen waarvan de erkenning 
+aanvangt voor 1 januari 2021 als onderneming in herstructurering of als onderneming in moeilijkheden 
+en die beroep kunnen doen op de maatregelen voorzien in de hoofdstukken 1 tot 3, enerzijds, en de ondernemingen 
+die pas na deze datum in die hoedanigheid erkend worden en bijgevolg geen beroep kunnen doen op de ontworpen 
+maatregelen.Bovendien dient te worden benadrukt dat het criterium van "de aanvang van de erkenning 
+voor 1 januari 2021" voor de ondernemingen zonder collectief ontslag niet vastligt en niet wettelijk 
+wordt bepaald, maar enkel afhankelijk is van het al dan niet aanvaarden van de motivering van de door 
+de werkgever gesuggereerde aanvangsdatum door de minister, waarbij de gebruikte scharnierdatum berust 
+op feitelijke gegevens(6) .Hoewel de ontworpen regeling tot doel heeft de gevolgen van de COVID 
+19 pandemie voor werkgevers en werknemers op te vangen, is het niet uitgesloten dat ondernemingen met 
+een erkenning die dateert van vóór deze pandemie en bijhorende crisis, wel gebruik kunnen maken van de 
+maatregelen, terwijl ondernemingen die pas na 1 januari 2021 erkend worden, maar waarvan de moeilijkheden 
+wél hun oorsprong vinden in de COVID-19-crisis, geen toegang hebben tot deze maatregelen. Aldus komt 
+het door de stellers van het ontwerp gehanteerde criterium van onderscheid in het licht van het gelijkheidsbeginsel 
+niet pertinent voor.4.4. Specifiek met betrekking tot het toepassingsgebied van het corona-tijdskrediet, 
+wordt door de gemachtigde het volgende gesuggereerd:"De maatregel kan maximaal lopen vanaf 
+de aankondiging van een collectief ontslag tot maximaal twee jaar na datum van betekening van het collectief 
+ontslag. Niet bij elke erkenning wordt een duurtijd van twee jaar voorzien.Zoals bepaald in 
+artikel 5, tweede lid, moet de volledige periode van het corona tijdskrediet volledig binnen deze erkenningsperiode 
+vallen.Het zou kunnen worden overwogen het besluit zo aan te passen dat enkel ondernemingen 
+met een erkenning die ingaat vanaf 1 maart 2020 of later, in aanmerking te laten komen voor de maatregelen".De 
+suggestie om het toepassingsgebied verder te beperken tot ondernemingen die werden erkend vanaf 1 maart 
+2020 tot en met 31 december 2020, kan door de stellers van de tekst worden overwogen voor de hoofdstukken 
+1 tot 3 om aan de supra onder randnummer 4.3. vastgestelde bezwaren tegemoet te komen. In ieder geval 
+zal voor de keuze van het begin- en eindpunt van de erkenning die het toepassingsgebied van de maatregelen 
+zal bepalen, een objectieve en redelijke verantwoording moeten kunnen worden gegeven om in overeenstemming 
+te kunnen worden geacht met het grondwettelijke gelijkheidsbeginsel en verdient het aanbeveling om op 
+dat punt een afdoende verantwoording op te nemen in het verslag aan de Koning.BIJZONDERE OPMERKINGENAanhef5. 
+Gelet op hetgeen sub 3 in verband met de rechtsgrond is opgemerkt dient in het eerste lid van de aanhef 
+meer specifiek te worden verwezen naar artikel 5, § 1, 5°,  van de wet van 27 maart 2020 (II).Artikel 
+16.1. In het ontworpen artikel 353bis/7/1 van de programmawet (I) van 24 december 2002 wordt 
+bepaald dat de regeling van tijdelijke arbeidsduurvermindering in het kader van de COVID-19 pandemie 
+van toepassing is op de werkgever bedoeld in artikel 335, derde lid, van dezelfde wet, op wie een erkenning 
+als onderneming in herstructurering of als onderneming in moeilijkheden van toepassing is, zoals bedoeld 
+in artikel 4 van het te nemen besluit.Het toepassingsgebied van de ontworpen regeling, waarin 
+initieel wordt verwezen naar artikel 335, derde lid, van de programmawet (I) van 24 december 2002 dat 
+betrekking heeft op werkgevers die vallen onder de wet van 5 december 1968 `betreffende de collectieve 
+arbeidsovereenkomsten en de paritaire comités' of onder de wet van 21 maart 1991 `betreffende de hervorming 
+van sommige economische overheidsbedrijven', wordt evenwel verengd tot die werkgevers op wie een erkenning 
+als onderneming in herstructurering of als onderneming in moeilijkheden van toepassing is, waarvan het 
+begin van de erkenning aanvangt voor 1 januari 2021.In zoverre in de bepaling wordt verwezen 
+naar artikel 4 van het ontwerp dient te worden opgemerkt dat in tegenstelling tot het eerste lid van 
+artikel 4 van het ontwerp dat betrekking heeft op het corona-tijdskrediet, dat enkel van toepassing is 
+voor werkgevers die vallen onder de voormelde wet van 5 december 1968, het tweede en derde lid van dat 
+artikel waarin wordt bepaald wat moet worden beschouwd als erkenning als onderneming in herstructurering 
+respectievelijk als onderneming in moeilijkheden, wel relevant lijken te zijn voor de afbakening van 
+het toepassingsgebied van de tijdelijke arbeidsduurvermindering.Omwille van de duidelijkheid 
+en de rechtszekerheid verdient het bijgevolg aanbeveling in het ontworpen artikel 353bis/7/1 van de programmawet 
+(I) van 24 december 2002 naar artikel 4, tweede en derde lid, te verwijzen.Voorts rijst de 
+vraag of het niet meer aangewezen is de bepalingen van artikel 4, tweede en derde lid, van het ontwerp, 
+in een nieuw artikel onder hoofdstuk 4 van het ontwerp ("Erkenning als onderneming in herstructurering 
+of in moeilijkheden") in te voegen, nu deze bepalingen niet enkel gelden voor hoofdstuk 2 maar eveneens 
+van toepassing zijn voor de hoofdstukken 1 en 3.6.2. In het ontworpen artikel 353bis/7/3 van 
+de programmawet (I) van 24 december 2002 wordt bepaald dat de werkgevers bedoeld in artikel 335, derde 
+lid, van dezelfde wet die overgaan tot een tijdelijke aanpassing van de arbeidsduur, een doelgroepvermindering 
+genieten volgens de voorwaarden bepaald in of krachtens deze onderafdeling.In de ontworpen 
+bepaling is geen sprake van een verenging tot die werkgevers op wie een erkenning als onderneming in 
+herstructurering of als onderneming in moeilijkheden van toepassing is, waarvan het begin van de erkenning 
+aanvangt voor 1 januari 2021, zodat het toepassingsgebied van deze bepaling ruimer lijkt te zijn dan 
+dat van het ontworpen artikel 353bis/7/1 van de programmawet (I) van 24 december 2002. Hierover ondervraagd, 
+antwoordde de gemachtigde:"Nee, aangezien de bepalingen in artikel 353bis/7/1 deel uitmaken 
+van de voorwaarden die gesteld worden volgens artikel 353bis/7/3.Mocht dit onduidelijk zijn 
+dan zou artikel 353bis/7/3 kunnen aangepast worden zodat wordt verwezen naar artikel 353bis/7/1".De 
+suggestie van de gemachtigde kan worden bijgetreden.6.3. Het ontworpen artikel 353bis/7/5, 
+eerste, tweede en vierde lid, bevat de bepalingen betreffende het vastleggen van de tijdelijke aanpassing 
+van de arbeidsduur en de tijdelijke invoering van de vierdagenweek. Dit moet worden vastgesteld bij een 
+op het niveau van de onderneming gesloten collectieve arbeidsovereenkomst dan wel bij een wijziging van 
+het arbeidsreglement, waarbij de minimale inhoud van de collectieve arbeidsovereenkomst en de na te leven 
+procedures worden bepaald door de Koning en waarbij de desbetreffende voorschriften eveneens gelden bij 
+de vaststelling in een arbeidsreglement.In de laatste zin van het vierde lid wordt bepaald 
+dat "(d)e collectieve arbeidsovereenkomst (...)geen bepaling (mag) bevatten waardoor zij (m.n. de periode 
+van de tijdelijke aanpassing van de arbeidsduur en van de tijdelijke invoering van de vierdagenweek) 
+stilzwijgend verlengd kan worden".Gevraagd waarom deze bepaling enkel betrekking heeft op de 
+collectieve arbeidsovereenkomst en niet op de wijziging van het arbeidsreglement, antwoordde de gemachtigde 
+dat het ontworpen artikel 353bis/7/5 zou kunnen worden uitgebreid tot de wijziging van het arbeidsreglement.Het 
+verdient aanbeveling de tekst van de ontworpen bepaling in deze zin aan te passen.Artikel 47. 
+Artikel 4, eerste lid, van het ontwerp, bepaalt dat het corona-tijdskrediet van toepassing is op de werkgevers 
+die onder toepassing vallen van de wet van 5 december 1968 `betreffende de collectieve arbeidsovereenkomsten 
+en de paritaire comités', op wie een erkenning als onderneming in herstructurering of als onderneming 
+in moeilijkheden van toepassing is, waarvan de periode van de erkenning aanvangt voor 1 januari 2021.Het 
+verdient aanbeveling om in het verslag aan de Koning te verduidelijken dat het om cumulatieve voorwaarden 
+gaat.Bijgevolg kunnen, omwille van de duidelijkheid en de rechtszekerheid, in de Nederlandse 
+tekst van artikel 4, eerste lid, van het ontwerp de komma's, die aanleiding kunnen geven tot verwarring 
+en kunnen laten uitschijnen dat het om een opsomming zou gaan, het best worden geschrapt.Artikel 
+58. De gemachtigde bevestigt dat het tijdskrediet "voor een periode die niet korter mag zijn 
+dan één maand en die zes maanden niet mag overschrijden", zoals bepaald in het eerste lid, niet in één 
+aaneengesloten periode dient te worden opgenomen, maar mag verdeeld worden over verschillende periodes. 
+Ook wat de hernieuwing van de overeenkomst betreft, zoals voorzien in het derde lid, bevestigt de gemachtigde 
+dat deze hernieuwing niet onmiddellijk hoeft aan te sluiten op een voorgaande periode. Bij elke hernieuwing 
+zal een nieuwe overeenkomst worden gemaakt.In het belang van de duidelijkheid en de rechtszekerheid 
+verdient het aanbeveling dit expliciet in de tekst tot uitdrukking te brengen.DE GRIFFIER, 
+  Wim GEURTSDE VOORZITTER,Marnix VAN DAMME_______Nota's(1) 
+Hierna: de wet van 27 maart 2020 (II).(2) Parl.St. Kamer 2019-20, nr. 55-1104/001, 6-7.(3) 
+Het gaat om de erkenning verleend door de Minister van Werk op basis van artikel 18 van het koninklijk 
+besluit van 3 mei 2007 `tot regeling van het stelsel van werkloosheid met bedrijfstoeslag' voor de onderneming 
+in herstructurering als bedoeld in artikel 15 van dit koninklijk besluit of de onderneming in moeilijkheden 
+als bedoeld in artikel 14 van hetzelfde koninklijk besluit (artikel 4, tweede en derde lid, van het ontwerp).(4) 
+De erkenning geldt immers voor maximaal 2 jaar (artikel 18, § 1, van het koninklijk besluit van 
+3 mei 2007).(5) Vaste rechtspraak van het Grondwettelijk Hof. Zie bv. GwH 17 juli 2014, nr. 
+107/2014, B.12; GwH 25 september 2014, nr. 141/2014, B.4.1; GwH 30 april 2015, nr. 50/2015, B.16; GwH 
+18 juni 2015, nr. 91/2015, B.5.1.; GwH 16 juli 2015, nr. 104/2015, B.6.(6) Dit houdt in dat 
+dergelijke onderneming die reeds nu haar erkenning heeft, en die voortloopt na 1 juli 2020, hoe dan ook 
+op de maatregelen beroep kan doen en de onderneming die na 1 januari 2021 een aanvraag indient met het 
+oog op aanvang van de erkenning vóór 1 januari 2021 dit uitdrukkelijk dient te motiveren om aanspraak 
+te kunnen maken op de maatregelen.26 JUNI 2020. - Koninklijk besluit nr. 46 
+tot uitvoering van artikel 5, § 1, 5°  van de wet van 27 maart 2020 die machtiging verleent aan 
+de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) 
+tot ondersteuning van de werkgevers en de werknemers (1)FILIP, Koning der Belgen, 
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.Gelet op de wet van 27 maart 2020 
+die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van 
+het coronavirus COVID-19 (II), de artikel 5, § 1, 5° ;Gelet op de herstelwet van 22 
+januari 1985 houdende sociale bepalingen;Gelet op de programmawet (I) van 24 december 2002;Gelet 
+op het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 
+2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van 
+tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking;Gelet 
+op het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet 
+van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen 
+van de sociale zekerheidsbijdragen;Gelet op het koninklijk besluit van 3 mei 2007 tot regeling 
+van het stelsel van werkloosheid met bedrijfstoeslag;Overwegende de wet van 5 december 1968 
+betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;Overwegende de arbeidswet 
+van 16 maart 1971;Overwegende de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;Overwegende 
+het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 10 juni 2020;Gelet op de akkoordbevinding 
+van de Minister van Begroting, gegeven op 17 juni 2020;Gelet op het artikel 8 van de wet van 
+15 december 2013 houdende diverse bepalingen inzake administratieve vereenvoudiging, is dit besluit vrijgesteld 
+van een regelgevingsimpactanalyse;Gelet op het advies nr. 67.654 van de Raad van State, gegeven 
+op 25 juin 2020, met toepassing van artikel 4, derde lid, van de wet van 27 maart 2020 die machtiging 
+verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus 
+COVID-19 (I);Op de voordracht van de Minister van Sociale Zaken en de Minister van Werk en 
+op het advies van Onze in Raad vergaderde Ministers,Hebben Wij besloten en besluiten Wij :HOOFDSTUK 
+1. -  Tijdelijke arbeidsduurvermindering in het kader van de COVID-19 pandemieArtikel 1. In 
+titel IV, hoofdstuk 7, afdeling 3, van de programmawet (I) van 24 december 2002 wordt een onderafdeling 
+8/1 ingevoegd die de artikelen 353bis/7/1 tot en met 353bis/7/8 bevat, luidende:"Onderafdeling 
+8/1. Tijdelijke arbeidsduurvermindering in het kader van de COVID-19 pandemie.Art. 353bis/7/1. 
+Deze onderafdeling is van toepassing op de werkgever bedoeld in artikel 335, derde lid, op wie een erkenning 
+als onderneming in herstructurering of als onderneming in moeilijkheden van toepassing is, zoals bedoeld 
+in artikel 4, tweede en derde lid, van het koninklijk besluit nr. 46 van 26 juin 2020 tot uitvoering 
+van artikel 5, § 1, 5°  van de wet van 27 maart 2020 die machtiging verleent aan de Koning om 
+maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (II) tot ondersteuning 
+van de werkgevers en de werknemers, waarvan het begin van de erkenning ten vroegste aanvangt op 1 maart 
+2020 en ten laatste op 31 december 2020.Art. 353bis/7/2. Het begrip "arbeidsduur" in de zin 
+van deze onderafdeling dient te worden verstaan zoals het gedefinieerd wordt in artikel 348, eerste lid.Voor 
+de toepassing van deze onderafdeling wordt rekening gehouden met de arbeidsduur die is vastgesteld hetzij 
+bij collectieve arbeidsovereenkomst gesloten overeenkomstig de wet van 5 december 1968 betreffende de 
+collectieve arbeidsovereenkomsten en de paritaire comités, hetzij in het arbeidsreglement.De 
+Koning kan nadere regelen bepalen voor de berekening van de arbeidsduur.Art. 353bis/7/3. De 
+werkgevers bedoeld in artikel 353bis/7/1, die overgaan tot een tijdelijke aanpassing van de arbeidsduur, 
+genieten een doelgroepvermindering volgens de voorwaarden bepaald in of krachtens deze onderafdeling.De 
+Koning bepaalt de nadere regelen betreffende deze aanpassing van de arbeidsduur.Art. 353bis/7/4. 
+De werkgever geniet vanaf het kwartaal van invoering van het stelsel van tijdelijke aanpassing van de 
+arbeidsduur in de onderneming en tot het kwartaal waarin de tijdelijke aanpassing van de arbeidsduur 
+loopt, een forfaitaire doelgroepvermindering per kwartaal waarvan het forfaitaire bedrag afhangt van 
+de procentuele aanpassing van de arbeidsduur, op voorwaarde dat de arbeidsduur met een vierde of met 
+een vijfde wordt verminderd.Het forfaitaire bedrag van deze doelgroepvermindering ligt hoger 
+ingeval de tijdelijke aanpassing van de arbeidsduur gecombineerd wordt met de tijdelijke invoering van 
+de vierdagenweek in de onderneming.Het forfaitaire bedrag van deze doelgroepvermindering wordt 
+toegekend per betrokken werknemer.De Koning bepaalt wat moet worden verstaan onder invoering 
+van de vierdagenweek voor de toepassing van deze bepaling.De Koning bepaalt de voorwaarden 
+en de procedure die moeten worden nageleefd en het dossier en de documenten die moeten worden voorgelegd 
+om de doelgroepvermindering te verkrijgen.Art. 353bis/7/5. De tijdelijke aanpassing van de 
+arbeidsduur en de invoering van de vierdagenweek moeten worden vastgesteld bij een op het niveau van 
+de onderneming gesloten collectieve arbeidsovereenkomst of, wanneer er binnen de onderneming geen vakbondsafvaardiging 
+is, bij een wijziging van het arbeidsreglement, en moeten van toepassing zijn op het geheel van de werknemers 
+van de onderneming of op een specifieke categorie van werknemers van de onderneming. De collectieve arbeidsovereenkomsten 
+of de bepalingen in het arbeidsreglement vermelden uitdrukkelijk dat ze gesloten, respectievelijk opgenomen 
+worden in het kader van onderafdeling 8/1 - Tijdelijke arbeidsduurvermindering in het kader van de COVID-19 
+pandemie - titel IV, hoofdstuk 7, afdeling 3, van de programmawet (I) van 24 december 2002.De 
+Koning bepaalt de minimale inhoud van de bedoelde collectieve arbeidsovereenkomst en de na te leven procedures. 
+Deze voorschriften zijn eveneens van toepassing wanneer de tijdelijke aanpassing van de arbeidsduur en 
+de tijdelijke invoering van de vierdagenweek in het arbeidsreglement zijn opgenomen.De tijdelijke 
+aanpassing van de arbeidsduur en van de tijdelijke invoering van de vierdagenweek, kunnen ingevoerd worden 
+voor een periode van maximum één jaar, waarvan zowel de begin- als einddatum vallen binnen de periode 
+van erkenning als onderneming in herstructurering of als onderneming in moeilijkheden, waarvan de begindatum 
+van de erkenning 1 januari 2021 voorafgaat. De begindatum van de aanpassing van de arbeidsduur en de 
+invoering van de vierdagenweek mag de begindatum van de inwerkingtreding van deze onderafdeling, niet 
+voorafgaan.De minimale inhoud bedoeld in het tweede lid bevat op zijn minst de duidelijke vermelding 
+van de begin- en einddatum van de tijdelijke aanpassing van de arbeidsduur en, in voorkomend geval, van 
+de tijdelijke invoering van de vierdagenweek, en voorziet in een looncompensatie. De collectieve arbeidsovereenkomst, 
+of desgevallend het arbeidsreglement, mag geen bepaling bevatten waardoor zij stilzwijgend verlengd kan 
+worden.De looncompensatie bedoeld in het vierde lid, mag niet tot gevolg hebben dat het brutoloon 
+van de werknemer hoger is dan het brutoloon waarop hij recht had vóór de invoering van de tijdelijke 
+aanpassing van de arbeidsduur. Hierbij wordt geen rekening gehouden met de aanpassing van de lonen aan 
+de index en aan de baremieke loonsverhogingen.Deze looncompensatie is loon in de zin van artikel 
+2 van de wet van 12 april 1965 betreffende de bescherming van het loon van de werknemers en van artikel 
+23 van de wet van 29 juni 1981 houdende algemene beginselen van de sociale zekerheid voor werknemers, 
+waarop sociale zekerheidsbijdragen worden berekend.Art. 353bis/7/6. Voor de voltijds tewerkgestelde 
+werknemers die betrokken zijn bij de tijdelijke aanpassing van de arbeidsduur zoals bepaald in deze onderafdeling, 
+is artikel 28, § 4, van de arbeidswet van 16 maart 1971 eveneens van toepassing bij overschrijding 
+van het wekelijks aantal arbeidsuren die voortvloeien uit het werkrooster dat in het arbeidsreglement 
+is opgenomen.Art. 353bis/7/7. De Rijksdienst voor Sociale Zekerheid is gemachtigd de voordelen 
+die krachtens deze onderafdeling werden toegekend, terug te vorderen bij inbreuk door de werkgever op 
+de bepalingen inzake de arbeidsduur van de arbeidswet van 16 maart 1971 of op de bepalingen van deze 
+onderafdeling.Deze terugvordering gebeurt voor elk kwartaal en per werknemer waarop de inbreuk 
+betrekking heeft.De terugvordering is enkel mogelijk indien de inbreuk heeft geleid hetzij 
+tot een minnelijke schikking met de werkgever, hetzij tot een administratieve geldboete, hetzij tot een 
+veroordeling door een strafrechtbank.Art. 353bis/7/8. Wanneer gedurende de periode van tijdelijke 
+aanpassing van de arbeidsduur bedoeld in deze onderafdeling, de werkgever de arbeidsovereenkomst beëindigt 
+zoals bedoeld in artikel 39 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, wordt onder 
+"lopend loon" begrepen het loon waarop de werknemer op het ogenblik van de beëindiging aanspraak had 
+kunnen maken indien zijn arbeidsduur niet was aangepast.".Art. 2. In titel III van het koninklijk 
+besluit 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 
+2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van 
+de sociale zekerheidsbijdragen wordt een hoofdstuk VIII/1, dat de artikelen 28/6/1, 28/6/2, 28/6/3, 28/6/4 
+en 28/6/5 ingevoegd, luidende:"HOOFDSTUK VIII/1. - Tijdelijke arbeidsduurvermindering in het 
+kader van de COVID-19 pandemieArt. 28/6/1. Dit hoofdstuk is van toepassing op werkgevers bedoeld 
+in artikel 335, derde lid, van de wet van 24 december 2002, op wie een erkenning als onderneming in herstructurering 
+of als onderneming in moeilijkheden van toepassing is, waarvan de periode van de erkenning ten vroegste 
+aanvangt op 1 maart 2020 en ten laatste op 31 december 2020.Art. 28/6/2. Een doelgroepvermindering 
+voor tijdelijke arbeidsduurvermindering wordt als volgt toegekend:1°  een bedrag G4 vanaf het 
+kwartaal van invoering van het stelsel van tijdelijke aanpassing van de arbeidsduur in de onderneming 
+en tot het kwartaal waarin de tijdelijke aanpassing van de arbeidsduur een einde neemt, indien de arbeidsduur 
+werd verminderd met een vijfde;2°  een bedrag G5 vanaf het kwartaal van invoering van het stelsel 
+van tijdelijke arbeidsduurvermindering in de onderneming en tot het kwartaal waarin de tijdelijke arbeidsduurvermindering 
+een einde neemt, indien de arbeidsduur werd verminderd met een vierde;3°  een bedrag G1 indien 
+de tijdelijke aanpassing van de arbeidsduur bedoeld onder 1°  gecombineerd wordt met een tijdelijke invoering 
+van de vierdagenweek;4°  een bedrag G6 indien de tijdelijke aanpassing van de arbeidsduur bedoeld 
+onder 2°  gecombineerd wordt met een tijdelijke invoering van de vierdagenweek.De doelgroepverminderingen 
+worden toegekend voor de tewerkstellingen tijdens de periode van de tijdelijke aanpassing van de arbeidsduur.De 
+verminderingen bedoeld in het eerste lid, 3°  en 4°  zijn enkel toepasbaar voor voltijdse werknemers.Art. 
+28/6/3. In de aangiften voor de sociale zekerheid voor de kwartalen waarin de bij artikel 353bis/7/4 
+van de wet van 24 december 2002 bedoelde doelgroepverminderingen worden toegekend, moet de werkgever 
+melding maken van:1°  de werknemers waarop het ingevoerde stelsel en de bijdragevermindering 
+betrekking hebben;2°  de datum van inwerkingtreding van het stelsel alsook de datum waarop 
+het buiten werking treedt;3°  de wekelijkse arbeidsduur van de voltijdse werknemers die van 
+toepassing is vóór en na de invoering van de aanpassing van de arbeidsduur.Art. 28/6/4. § 
+1. De collectieve arbeidsovereenkomst bedoeld in artikel 353bis/7/5 van de wet van 24 december 2002 moet 
+uitdrukkelijk vermelden dat ze gesloten is in onderafdeling 8/1. "Tijdelijke arbeidsduurvermindering 
+in het kader van de COVID-19 pandemie" van afdeling 3, van hoofdstuk 7, van titel IV, van de programmawet 
+(I) van 24 december 2002.De collectieve arbeidsovereenkomst moet duidelijk de begin- en einddatum 
+van de tijdelijke aanpassing van de arbeidsduur en, in voorkomend geval, van de tijdelijke invoering 
+van de vierdagenweek vermelden. De collectieve arbeidsovereenkomst mag geen bepaling bevatten die een 
+stilzwijgende verlenging mogelijk maakt.De collectieve arbeidsovereenkomst moet voorzien in 
+een tijdelijke vermindering van de arbeidsduur met hetzij één vijfde, hetzij één vierde van de arbeidsduur 
+die van kracht was vóór haar inwerkingtreding.De looncompensatie voorzien bij artikel 353bis/7/5, 
+vierde lid, van de wet van 24 december 2002 moet minstens drie vierden belopen van het bedrag van de 
+forfaitaire vermindering bedoeld in artikel 28/3 van dit besluit.Bij invoering van de vierdagenweek 
+vermeldt de collectieve arbeidsovereenkomst duidelijk de wekelijkse arbeidsregeling waarbij het begrip 
+"vierdagenweek" moet voldoen aan de definitie in artikel 25. De periode van de invoering van de vierdagenweek 
+moet in de periode van de tijdelijke aanpassing van de arbeidsduur vallen.Binnen de maand die 
+volgt op de ondertekening van de collectieve arbeidsovereenkomst bezorgt de werkgever daarvan een kopie 
+aan het bevoegd directiehoofd van de Algemene Directie Toezicht op de Sociale Wetten van de Federale 
+Overheidsdienst Werkgelegenheid, Arbeid en Sociaal Overleg. § 2. In geval de tijdelijke 
+aanpassing van de arbeidsduur en de tijdelijke invoering van de vierdagenweek worden vastgesteld door 
+een wijziging van het arbeidsreglement, zijn daarop dezelfde voorschriften en minimale inhoud van toepassing 
+als bepaald in paragraaf 1.Art. 28/6/5. De bij artikel 353bis/7/3 van de wet van 24 december 
+2002 bedoelde doelgroepverminderingen worden geacht definitief te zijn toegekend wanneer vaststaat dat 
+de werkgever aan alle daartoe door of krachtens dezelfde wet bepaalde voorwaarden heeft voldaan. Tot 
+op dat ogenblik zijn zij slechts voorlopig toegekend.".Art. 3. De Koning kan de bepalingen 
+ingevoegd bij het artikel 2 opheffen, aanvullen, vervangen en wijzigen.HOOFDSTUK 2. - Corona-tijdskrediet.Art. 
+4. Dit hoofdstuk is van toepassing op de werkgevers die onder toepassing vallen van de wet van 5 december 
+1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités op wie een erkenning als 
+onderneming in herstructurering of als onderneming in moeilijkheden van toepassing is waarvan de periode 
+van de erkenning ten vroegste aanvangt op 1 maart 2020 en ten laatste op 31 december 2020.Wordt 
+beschouwd als erkenning als onderneming in herstructurering, de erkenning verleend door de Minister van 
+Werk op basis van artikel 18 van het koninklijk besluit van 3 mei 2007 tot regeling van het stelsel van 
+werkloosheid met bedrijfstoeslag, voor de onderneming in herstructurering als bedoeld in artikel 15 van 
+voormeld koninklijk besluit van 3 mei 2007.Wordt beschouwd als erkenning als onderneming in 
+moeilijkheden, de erkenning verleend door de Minister van Werk op basis van artikel 18 van het koninklijk 
+besluit van 3 mei 2007 tot regeling van het stelsel van werkloosheid met bedrijfstoeslag, voor de onderneming 
+in moeilijkheden als bedoeld in artikel 14 van voormeld koninklijk besluit van 3 mei 2007.Art. 
+5. De werkgever kan aan elke voltijds tewerkgestelde werknemer voorstellen om zijn arbeidsprestaties 
+te verminderen met 1/5 of tot een halftijdse betrekking voor een periode die niet korter mag zijn dan 
+één maand en die zes maanden niet mag overschrijden.Bovendien moet de periode van de vermindering 
+van de arbeidsprestaties volledig gesitueerd zijn binnen de periode van erkenning als onderneming in 
+herstructurering of als onderneming in moeilijkheden, waarvan de periode van erkenning aanvangt voor 
+1 januari 2021.Gaat de werknemer akkoord, dan moet deze overeenkomst tot tijdelijke vermindering 
+van zijn voltijdse arbeidsprestaties schriftelijk worden vastgesteld zoals voorgeschreven door artikel 
+11bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Deze overeenkomst kan worden hernieuwd, 
+zonder echter de in het eerste lid bepaalde maximale periode te mogen overschrijden. Deze hernieuwde 
+periode hoeft niet onmiddellijk aan te sluiten bij de voorgaande periode.Voor wat betreft de 
+vermindering van de arbeidsprestaties tot een halftijdse betrekking wordt als voltijds tewerkgestelde 
+werknemer beschouwd, de werknemer tewerkgesteld met arbeidsprestaties van ten minste 3/4 van een voltijdse 
+betrekking in de onderneming.Art. 6. De verminderde arbeidsduur, zoals overeengekomen ingevolge 
+artikel 5, moet gemiddeld worden gerespecteerd over de periode vastgesteld in de geschreven overeenkomst 
+zoals bedoeld in artikel 5, overeenkomstig de modaliteiten vastgesteld in artikel 26bis, § 1, 
+van de arbeidswet van 16 maart 1971.Art. 7. Wanneer gedurende de periode van vermindering van 
+de arbeidsprestaties, bedoeld in artikel 5, de werkgever de arbeidsovereenkomst beëindigt zoals bedoeld 
+in artikel 39 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, wordt onder "lopend loon" 
+begrepen het loon waarop de werknemer op het ogenblik van de beëindiging aanspraak had kunnen maken indien 
+hij, naargelang het geval, voltijds was blijven werken of zijn arbeidsprestaties van tenminste 3/4 van 
+een voltijdse betrekking niet had verminderd.Art. 8.  § 1. Een uitkering wordt toegekend 
+aan de voltijds tewerkgestelde werknemer die met zijn werkgever overeenkomt om zijn arbeidsprestaties 
+te verminderen met 1/5 of tot een halftijdse betrekking overeenkomstig artikel 5.Op deze uitkering 
+zijn de uitvoeringsmaatregelen van toepassing van artikel 103quater van de herstelwet van 22 januari 
+1985 houdende sociale bepalingen, die betrekking hebben op gelijkaardige regimes tot vermindering van 
+de arbeidsprestaties. Deze uitkering wordt toegekend overeenkomstig artikelen 4 en 6 van het koninklijk 
+besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende 
+verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van tijdskrediet, loopbaanvermindering 
+en vermindering van de arbeidsprestaties tot een halftijdse betrekking en volgens de bepalingen in hoofdstukken 
+IV en V van dat besluit.De periode van de vermindering van de arbeidsprestaties opgenomen in 
+het kader van dit hoofdstuk, wordt niet in aanmerking genomen voor de maximale periode van opname van 
+het tijdskrediet zoals bepaald in het voornoemde koninklijk besluit van 12 december 2001.Deze 
+uitkering heeft dezelfde hoedanigheid als de uitkeringen die worden toegekend in het kader van hoofdstuk 
+IV, afdeling 5, van voornoemde herstelwet van 22 januari 1985 § 2. In geval van toekenning 
+van een bijkomende vergoeding door de werkgever mag de som van het brutoloon, van de uitkering bedoeld 
+in dit artikel, van het eventuele supplement bij deze uitkering op basis van een gewestelijke regeling 
+en van de bijkomende vergoeding toegekend door de werkgever niet hoger zijn dan het brutoloon waarop 
+de werknemer recht had vóór de invoering van de tijdelijke vermindering van de arbeidsprestaties. Hierbij 
+wordt geen rekening gehouden met de aanpassing van de lonen aan de index en aan de baremieke loonsverhogingen.HOOFDSTUK 
+3. - Landingsbanen.Art. 9. Het bijkomend recht op onderbrekingsuitkeringen zonder maximumduur 
+in toepassing van artikel 6 van het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk 
+IV van de wet van 10 augustus 2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven 
+betreffende het stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties 
+tot een halftijdse betrekking, wordt eveneens toegekend aan de voltijdse werknemers van 55 jaar en ouder 
+die hun arbeidsprestaties verminderen tot een halftijdse betrekking of verminderen met een vijfde in 
+toepassing van CAO nr. 103, wanneer:1°  de aanvangsdatum van de vermindering van de arbeidsprestaties 
+gelegen is in de periode van erkenning van de onderneming door de Minister bevoegd voor Werk, als onderneming 
+in herstructurering of onderneming in moeilijkheden in toepassing van de regelgeving met betrekking tot 
+de werkloosheid met bedrijfstoeslag, voor zover de periode van erkenning ten vroegste aanvangt op 1 maart 
+2020 en ten laatste op 31 december 2020, en;2°  de werknemer die onderbrekingsuitkeringen aanvraagt 
+en die, op het ogenblik van de schriftelijke kennisgeving aan de werkgever 25 jaar beroepsverleden als 
+loontrekkende in de zin van artikel 10, § 3 van CAO nr. 103, zoals gewijzigd door de CAO nr. 103ter, 
+kunnen rechtvaardigen.Art. 10. In afwijking van de collectieve arbeidsovereenkomst nr. 103 
+van 27 juni 2012 gesloten binnen de Nationale Arbeidsraad tot invoering van een stelsel van tijdskrediet, 
+loopbaanonderbreking en landingsbanen, is de minimumperiode van de landingsbaan beperkt tot één maand 
+voor de werknemer die recht heeft op onderbrekingsuitkeringen in toepassing van artikel 9.HOOFDSTUK 
+4. - Erkenning als onderneming in herstructurering of in moeilijkheden.Art. 11. Voor de toepassing 
+van de maatregelen bedoeld in de hoofdstukken 1, 2 en 3, kan de Minister van Werk in toepassing van artikel 
+18 van het koninklijk besluit van 3 mei 2007 tot regeling van het stelsel van werkloosheid met bedrijfstoeslag 
+een onderneming erkennen als onderneming in herstructurering of als onderneming in moeilijkheden zonder 
+dat de voorwaarde bedoeld in artikel 17, § 2, 2°  van voormelde koninklijk besluit van 3 mei 2007 
+vervuld moet zijn.HOOFDSTUK 5. - Tijdelijke aanpassing, bij wijze van overgangsmaatregel, van 
+de regeling inzake economische werkloosheid voor ondernemingen die niet meer in de voorwaarden verkeren 
+om beroep te doen op tijdelijke werkloosheid wegens overmacht die het gevolg is van de COVID-19-epidemie.Art. 
+12. Dit hoofdstuk is van toepassing op de werkgever die niet meer in de voorwaarden verkeert om zich 
+ten aanzien van zijn werknemers te beroepen op de schorsing van de uitvoering van de arbeidsovereenkomst 
+wegens tijdelijke overmacht die verband houdt met de uitbraak van het coronavirus COVID-19.Art. 
+13. De in artikel 12 bedoelde werkgever kan de uitvoering van de arbeidsovereenkomst van zijn werklieden 
+laten schorsen of een regeling van gedeeltelijke arbeid invoeren overeenkomstig artikel 51 van de wet 
+van 3 juli 1978 betreffende de arbeidsovereenkomsten.In afwijking van artikel 51, § 
+2, eerste lid, van dezelfde wet, kan bij gebrek aan werk wegens economische oorzaken de uitvoering van 
+de overeenkomst ten hoogste acht weken geheel worden geschorst. Wanneer de volledige schorsing van de 
+uitvoering van de overeenkomst deze maximumduur van acht weken heeft bereikt, moet de werkgever gedurende 
+een volledige arbeidsweek de regeling van volledige arbeid opnieuw invoeren, alvorens een nieuwe volledige 
+schorsing of een regeling van gedeeltelijke arbeid kan ingaan. In afwijking van artikel 51, 
+§ 3, eerste lid, van dezelfde wet, kan de regeling van gedeeltelijke arbeid worden ingevoerd voor 
+een duur van ten hoogste achttien weken.Art. 14. De in artikel 12 bedoelde werkgever kan de 
+uitvoering van de arbeidsovereenkomst van zijn bedienden laten schorsen of een regeling van gedeeltelijke 
+arbeid invoeren overeenkomstig Titel III, Hoofdstuk II/I van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, 
+op voorwaarde dat hij kan aantonen dat hij in het kwartaal voorafgaand aan de aanvraag tot invoering 
+van één van de regelingen als bedoeld in dat hoofdstuk, een substantiële daling van ten minste 10% van 
+de omzet of de productie heeft gekend in vergelijking met hetzelfde kwartaal van 2019 en dat hij de betrokken 
+bedienden twee vormingsdagen per maand aanbiedt.In afwijking van artikel 77/1, § 2, 
+eerste lid, van dezelfde wet is de regeling voorzien in Titel III, Hoofdstuk II/I van dezelfde wet van 
+toepassing op de ondernemingen die gebonden zijn door een collectieve arbeidsovereenkomst of een ondernemingsplan, 
+als bedoeld in artikel 77/1, § 2, eerste lid, 1°,  2°,  3°  en 4°  van dezelfde wet. In het ondernemingsplan 
+moet worden aangetoond dat de onderneming in het voorafgaande kwartaal een substantiële daling van ten 
+minste 10% van de omzet of de productie heeft gekend in vergelijking met hetzelfde kwartaal van 2019. 
+Tevens moet de werkgever in het ondernemingsplan zich ertoe verbinden de bedienden op wie de regeling 
+van volledige schorsing van de uitvoering van de overeenkomst of de regeling van gedeeltelijke arbeid 
+wordt toegepast, twee vormingsdagen per maand aan te bieden. De werkgever dient onverwijld een kopie 
+van het ondernemingsplan over te maken aan de ondernemingsraad of bij gebreke daarvan, aan de vakbondsafvaardiging.In 
+afwijking van artikel 77/1, § 3, van dezelfde wet, moet het ondernemingsplan bedoeld in artikel 
+77/1, § 2, eerste lid, 2°  en 3°  van dezelfde wet, door de onderneming niet worden overgemaakt 
+aan de Directeur-generaal van de Algemene Directie Collectieve Arbeidsbetrekkingen van de Federale Overheidsdienst 
+Werkgelegenheid, Arbeid en Sociaal Overleg en niet ter goedkeuring worden voorgelegd aan de Commissie 
+"Ondernemingsplannen".In afwijking van artikel 77/1, § 6, van dezelfde wet, kan een 
+ondernemingsplan, bedoeld in artikel 77/1, § 2, eerste lid, 2°  en 3°  van dezelfde wet, niet 
+afwijken van het bedrag van het supplement bedoeld in artikel 77/4, § 7, van dezelfde wet.In 
+afwijking van artikel 77/2 van dezelfde wet, dient de werkgever enkel gebonden te zijn door een collectieve 
+arbeidsovereenkomst of een ondernemingsplan, als bedoeld in artikel 77/1 van dezelfde wet, om gebruik 
+te kunnen maken van de bepalingen van Titel III, Hoofdstuk II/I, afdeling 2 van dezelfde wet.In 
+afwijking van artikel 77/7, eerste lid, van dezelfde wet, wordt het maximum van zestien of zesentwintig 
+kalenderweken per kalenderjaar verhoogd met acht kalenderweken.HOOFDSTUK 6 -  SlotbepalingenArt. 
+15.  De hoofdstukken 1, 2, 3 en 4 treden in werking op 1 juli 2020.Hoofdstuk 5 treedt in werking 
+op 1 september 2020 en treedt buiten werking op 31 december 2020.Art. 16. De minister bevoegd 
+voor Sociale zaken en de minister bevoegd voor Werk zijn, ieder wat hem betreft, belast met de uitvoering 
+van dit besluit.Gegeven te Brussel, 26 juni 2020. FILIPVan Koningswege 
+:La Ministre des Affaires sociales,M. DE BLOCKDe Minister van Werk,N. 
+MUYLLE_______Nota's(1) Wet van 27 maart 2020, Belgisch Staatsblad van 30 
+maart 2020;Herstelwet van 22 januari 1985, Belgisch Staatsblad van 24 januari 1985;Programma-wet 
+(I) van 24 december 2002, Belgisch Staatsblad van 31 december 2002;Koninklijk besluit van 12 
+december 2001, Belgisch Staatsblad van 18 december 2001;Koninklijk besluit van 16 mei 2003, 
+Belgisch Staatsblad van 6 juni 2003;Koninklijk besluit van 3 mei 2007, Belgisch Staatsblad 
+van 8 juni 2007.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-01Numac : 2020041990
+

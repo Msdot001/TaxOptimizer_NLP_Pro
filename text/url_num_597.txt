@@ -1,0 +1,106 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021201447
+FEDERALE OVERHEIDSDIENST WERKGELEGENHEID, ARBEID EN SOCIAAL OVERLEG  
+ 20 APRIL 2021. - Koninklijk besluit waarbij algemeen verbindend wordt verklaard de collectieve arbeidsovereenkomst van 22 oktober 2020, gesloten in het Paritair Subcomité voor de opvoedings- en huisvestingsinrichtingen en -diensten van de Franse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap, betreffende de gelijkstellingen op het gebied van de tijdelijke werkloosheid in het kader van de gezondheidscrisis COVID-19 (1) 
+FILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, 
+Onze Groet.Gelet op de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten 
+en de paritaire comités, inzonderheid op artikel 28;Gelet op het verzoek van het Paritair Subcomité 
+voor de opvoedings- en huisvestingsinrichtingen en -diensten van de Franse Gemeenschap, het Waalse Gewest 
+en de Duitstalige Gemeenschap;Op de voordracht van de Minister van Werk,Hebben Wij 
+besloten en besluiten Wij : Artikel 1. Algemeen verbindend wordt verklaard de als bijlage overgenomen 
+collectieve arbeidsovereenkomst van 22 oktober 2020, gesloten in het Paritair Subcomité voor de opvoedings- 
+en huisvestingsinrichtingen en -diensten van de Franse Gemeenschap, het Waalse Gewest en de Duitstalige 
+Gemeenschap, betreffende de gelijkstellingen op het gebied van de tijdelijke werkloosheid in het kader 
+van de gezondheidscrisis COVID-19.Art. 2. De minister bevoegd voor Werk is belast met de uitvoering 
+van dit besluit.Gegeven te Brussel, 20 april 2021. FILIPVan Koningswege 
+: De Minister van Werk,P.-Y. DERMAGNE _______Nota(1) 
+Verwijzing naar het Belgisch Staatsblad : Wet van 5 december 1968, Belgisch Staatsblad van 
+15 januari 1969. BijlageParitair Subcomité voor de opvoedings- en huisvestingsinrichtingen 
+en -diensten van de Franse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap Collectieve 
+arbeidsovereenkomst van 22 oktober 2020  Gelijkstellingen op het gebied van de tijdelijke werkloosheid 
+in het kader van de gezondheidscrisis COVID-19 (Overeenkomst geregistreerd op 10 december 2020 onder 
+het nummer 162283/CO/319.02)Artikel 1. ToepassingsgebiedDeze collectieve arbeidsovereenkomst 
+is van toepassing op de werkgevers en de werknemers van de opvoedings- en huisvestingsinrichtingen en 
+-diens-ten die ressorteren onder het Paritair Subcomité voor de opvoedings- en huisvestingsinrichtingen 
+en -diensten van de Franse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap en die erkend 
+en/of gesubsidieerd zijn door de Franse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap 
+of de Franse Gemeenschapscommissie, alsook op de werknemers en werkgevers van de opvoedings- en huisvestingsinrichtingen 
+en -diensten die dezelfde activiteiten uitoefenen en die erkend noch gesubsidieerd zijn en waarvan de 
+hoofdactiviteit in het Waalse Gewest wordt verricht.Onder "werknemers" wordt verstaan : het 
+mannelijk en vrouwelijk werklieden- en bediendepersoneel. Art. 2. ContextDeze collectieve 
+overeenkomst wordt gesloten in de context van de COVID-19-crisis. Art. 3. OnderwerpVoor 
+de berekening van het bedrag van de eindejaarstoelage zoals bedoeld door de volgende collectieve overeenkomsten 
+: - Voor de sector "AIS" - Waalse Gewest : collectieve arbeidsovereenkomst van 24 oktober 2019 
+tot toekenning van een eindejaarstoelage, nr. 155890;- Voor de gehandicaptensector - Waalse 
+Gewest : collectieve arbeidsovereenkomst van 26 september 2019 tot toekenning van een eindejaarstoelage, 
+nr. 155888;- Voor de sector opvang, huisvesting en begeleiding van in sociale moeilijkheden 
+verkerende personen - Waalse Gewest : collectieve arbeidsovereenkomst van 26 september 2019 tot toekenning 
+van een eindejaarstoelage, nr. 155889;- Voor de sector "AAJ - FWB" : collectieve arbeidsovereenkomst 
+van 14 november 1989 tot toekenning van een eindejaarstoelage, nr. 25078;- Voor de sector "SASPE" 
+: collectieve overeenkomst van 27 april 2006 tot toekenning van een eindejaarstoelage, nr. 80204;- 
+Voor de sector van de welzijnszorg in de Duitstalige Gemeenschap : collectieve arbeidsovereenkomst van 
+26 juni 2008 betreffende de betaling van een dertiende maand, nr. 88962;- Voor de sectoren 
+die erkend en/of gesubsidieerd zijn door de Franse Gemeenschapscommissie : collectieve arbeidsovereenkomst 
+van 19 december 2019 tot toekenning van een eindejaarspremie, nr. 157172,worden gelijkgesteld 
+met effectief gewerkte dagen, voor de periode van 1 maart 2020 tot 31 december 2020 inbegrepen, de dagen 
+van arbeidsonderbreking ingevolge tijdelijke werkloosheid wegens overmacht door de pandemie ten gevolge 
+van het coronavirus voor de werknemers die een erkenning van tijdelijke werkloosheid wegens overmacht 
+hebben genoten. Art. 4. SlotbepalingenDeze collectieve arbeidsovereenkomst is gesloten 
+voor een bepaalde duur. Zij treedt in werking op 1 maart 2020 en houdt op van kracht te zijn op 31 december 
+2020.De ondertekenende partijen kunnen via een nieuwe collectieve arbeidsovereenkomst deze 
+termijn verlengen.Overeenkomstig artikel 14 van de wet van 5 december 1968 betreffende de collectieve 
+arbeidsovereenkomsten en de paritaire comités worden, voor wat betreft de ondertekening van deze collectieve 
+arbeidsovereenkomst, de handtekeningen van de personen die deze aangaan namens de werknemersorganisaties 
+enerzijds en namens de werkgeversorganisaties anderzijds, vervangen door de notulen van de vergadering 
+die zijn ondertekend door de voorzitter en de secretaris en goedgekeurd door de leden.Gezien 
+om te worden gevoegd bij het koninklijk besluit van 20 april 2021. De Minister van Werk,P.-Y. 
+DERMAGNE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-24Numac : 2021201447
+

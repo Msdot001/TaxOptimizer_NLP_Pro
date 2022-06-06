@@ -1,0 +1,127 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/07/14/2021033201/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-22Numac : 2021033201
+WAALSE OVERHEIDSDIENST
+ 14 JULI 2021. - Besluit van de Waalse Regering tot uitvoering van artikel 63, § 2, 6°,  van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake Waalse gewestelijke belastingen 
+De Waalse Regering,Gelet op het decreet van 6 mei 1999 betreffende de 
+vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen, artikel 63, § 
+2, 6°,  ingevoegd bij het decreet van 1 oktober 2020;Gelet op het besluit van de Waalse Regering 
+van 16 november 2000 tot uitvoering van het decreet van 6 mei 1999 betreffende de vestiging, de invordering 
+en de geschillen inzake de Waalse gewestelijke belastingen;Gelet op het verslag van 1 oktober 
+2020, opgesteld overeenkomstig artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering 
+van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft 
+plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 2 februari 2021;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 25 februari 2021;Gelet op het advies van de "Conseil 
+de la Fiscalité et des Finances de Wallonie" (Raad van de fiscaliteit en de financiën van Wallonië), 
+gegeven op 26 maart 2021;Gelet op advies nr. 69.267/4 van de Raad van State, gegeven op 19 
+mei 2021, overeenkomstig artikel 84, § 1, eerste lid, 2°,  van de wetten op de Raad van State, 
+gecoördineerd op 12 januari 1973;Overwegende dat Richtlijn (EU) 2018/822 van de Raad van 25 
+mei 2018 Richtlijn (EU) 2011/16 van de Raad van 15 februari 2011 wijzigt door de vaststelling van nieuwe 
+bepalingen ter verbetering van de fiscale transparantie via verplichte automatische uitwisseling van 
+inlichtingen op belastinggebied met betrekking tot grensoverschrijdende constructies;Overwegende 
+dat deze informatie het voorwerp uitmaakt van een melding die de lidstaten volledige en relevante informatie 
+verschaft over mogelijk agressieve regelingen die erop gericht zijn bepaalde belastingplannen uit te 
+voeren en daardoor een risico van uitholling van de belastingopbrengsten met zich meebrengen;Overwegende 
+dat het verplichte karakter van bovengenoemde melding het mogelijk maakt om in geval van inbreuken doeltreffende 
+en afschrikkende sancties op te leggen, rekening houdend met drie elementen, te weten het ontbreken van 
+een melding, een onvolledige of te late melding, en het onderscheid tussen bedrieglijk opzet of opzet 
+om schade te berokkenen, waardoor de vastgestelde inbreuk wordt verzwaard;Overwegende derhalve 
+dat de Regering er alle belang bij heeft een schaal van administratieve boetes vast te stellen volgens 
+de bovengenoemde criteria;Overwegende derhalve dat bij het decreet tot omzetting van richtlijn 
+(EU) 2018/822 twee categorieën inbreuken worden vastgesteld, enerzijds de onvolledige informatieverstrekking 
+en anderzijds het ontbreken of de te late indiening van de genoemde melding;Gelet op het onderscheid 
+dat in bovengenoemd decreet wordt gemaakt met betrekking tot het bestaan van bedrieglijk of schadelijk 
+opzet in verband met de twee categorieën strafbare feiten;Op de voordracht van de Minister 
+van Financiën,Na beraadslaging,Besluit : Artikel 1. Bij dit besluit wordt 
+Richtlijn 2018/822/EU van de Raad van 25 mei 2018 tot wijziging van Richtlijn 2011/16/EU wat betreft 
+verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige 
+grensoverschrijdende constructies, gedeeltelijk omgezet.Art. 2. In artikel 22bis van het besluit 
+van de Waalse Regering van 16 november 2000 tot uitvoering van het decreet van 6 mei 1999 betreffende 
+de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen, laatst gewijzigd 
+bij het besluit van de Waalse Regering van 18 juli 2019, wordt een paragraaf 1quater ingevoegd, luidend 
+als volgt:" § 1quater. Overeenkomstig artikel 63, lid 2, punt 6, van het decreet wordt 
+de schaal van geldboeten die van toepassing zijn op overtredingen waarbij er geen informatie, onvolledige 
+informatie of laattijdige informatie verstrekt wordt, wat betreft de verplichte automatische uitwisseling 
+van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies, 
+als volgt vastgesteld   
+ 
+ Type overtreding 
+Hoogte administratieve geldboete 
+ 
+ A. Geen informatie, 
+onvolledige informatie of laattijdige informatie verstrekken, zonder bedrieglijk opzet of zonder het 
+oogmerk om te schaden. 
+ 
+ - 1ste overtreding 2.500,00 EUR 
+ 
+ - 
+2de overtreding 7.500,00 EUR 
+ 
+ - 3de overtreding 15.000,00 EUR 
+ 
+ -Na 
+de 3e overtreding 25.000,00 EUR B. Geen informatie, onvolledige informatie 
+of laattijdige informatie verstrekken, met bedrieglijk opzet of met het oogmerk om te schaden. 
+ 
+ - 
+1ste overtreding 5.000,00 EUR 
+ 
+ - 2de overtreding 15.000,00 EUR 
+ 
+ - 
+3de overtreding 30.000,00 EUR 
+ 
+ -Na de 3e overtreding 50.000,00 EUR
+  ".Art. 3. De Minister bevoegd voor Financiën is belast met de uitvoering 
+van dit besluit.Namen, 14 juli 2021.Voor de Regering:De Minister-President,E. 
+DI RUPODe Minister van Begroting en Financiën, Luchthavens en Sportinfrastructuren,J.-L. 
+CRUCKE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-22Numac : 2021033201
+

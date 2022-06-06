@@ -1,0 +1,105 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/18/2021031734/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-28Numac : 2021031734
+VLAAMSE OVERHEID 
+ 18 JUNI 2021. - Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, wat betreft de verlenging van de subsidie 
+RechtsgrondenDit 
+besluit is gebaseerd op:- het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd 
+agentschap met rechtspersoonlijkheid Opgroeien regie, artikel 5, § 2, 2°,  a), ingevoegd bij het 
+decreet van 1 maart 2019, en artikel 12, gewijzigd bij de decreten van 1 maart 2019 en 3 mei 2019; - 
+het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, artikel 
+10, 3°,  en artikel 12, § 1, tweede lid, en § 3, ingevoegd bij het decreet van 15 juli 
+2016.VormvereistenDe volgende vormvereisten schrappen zijn vervuld:- Het 
+begrotingsakkoord werd aangevraagd op 3 Juni 2021,- Er is geen advies gevraagd aan de Raad 
+van State, met toepassing van artikel 3, § 1, van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973. Er is een dringende noodzakelijkheid omdat het besluit van de Vlaamse Regering van 
+13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang 
+en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse 
+opvang naar aanleiding van de gevolgen van het COVID-19-virus in artikel 29 bepaalt dat artikel 1 tot 
+en met 24 van het besluit ophouden uitwerking te hebben op 30 juni 2021. Toen dat besluit in november 
+2020 werd goedgekeurd, was er nog geen duidelijkheid over de impact van het COVID-19-virus op de langere 
+termijn en werd de uitwerking van de compensatiesubsidie vanuit voorzichtigheid beperkt in de tijd. Toen 
+was voorzien dat het besluit ophield uitwerking te hebben op 31 maart 2021. Het afgelopen jaar is duidelijk 
+geworden dat voorspellingen over het verloop en de duur van de epidemie onmogelijk zijn. Het is echter 
+niet de bedoeling dat de Vlaamse Regering onnodig lang subsidies in stand houdt. Daarom werd bij besluit 
+van de Vlaamse Regering van 19 maart 2021 de subsidie slechts beperkt verlengd tot 30 juni 2021. Op dit 
+moment gaat de beperking van de epidemie de goede kant uit. Het is de bedoeling dat tegen 11 juli 2021 
+de volledige Vlaamse volwassen bevolking gevaccineerd is. Het is duidelijk dat de vaccinatiecampagne 
+een grote impact heeft op de beperking van de verspreiding van het virus onder de volwassen bevolking. 
+Het aantal besmettingen en ziekenhuisopnames zit in een dalende lijn.Het staat echter ook vast 
+dat kinderen van 0 tot 12 jaar, de doelgroep van de sectoren van kinderopvang en buitenschoolse opvang, 
+in de maanden juli en augustus 2021 (nog) niet gevaccineerd zullen zijn. Verspreiding van het virus binnen 
+die doelgroep zal bijgevolg nog steeds plaatsvinden. In die situaties zal nog steeds overgegaan worden 
+tot gedeeltelijke of volledige sluiting van een (kinder)opvanglocatie als er sprake is van een uitbraak. 
+Dergelijke sluiting heeft directe gevolgen voor de inkomsten en dus de leefbaarheid van de organisatoren. 
+Om de leefbaarheid te garanderen voor de organisatoren die hiermee geconfronteerd worden, is het noodzakelijk 
+dat de subsidie die in het besluit van de Vlaamse Regering van 13 november 2020 werd voorzien, ook in 
+de zomermaanden blijft gelden, zodat minstens de selectieve compensatie kan toegekend worden om sluitingen 
+omwille van Covid-19 op te vangen. Daarnaast is het ook duidelijk op basis van de ervaringen van het 
+afgelopen jaar dat de epidemie soms onverwachte wendingen kent en is het ook noodzakelijk vanuit het 
+voorzichtigheidsprincipe om voor de maanden juli en augustus, de periode waar niet gevaccineerde kinderen 
+in het kader van de opvangcontext veelvuldig met elkaar in wisselende groepen contact zullen hebben met 
+elkaar, het subsidiesysteem te verlengen.Aangezien de huidige regelgeving bepaalt dat de compensatieregeling 
+maar tot eind juni 2021 geldt, is het dringend noodzakelijk om voorliggend besluit goed te keuren, zodat 
+het voor de betrokken sectoren duidelijk is dat ze ook in de periode juli en augustus 2021 op subsidie 
+kunnen rekenen als dat nodig zou zijn. Zelfs een advies op vijf dagen van de Raad van State is niet mogelijk, 
+aangezien ter uitvoering van het voormelde besluit van de Vlaamse Regering van 13 november 2020 de minister 
+een besluit zal moeten nemen voor eind juni 2021 waarin hij bepaalt voor juli en augustus welke subsidie 
+geldt. Initiatiefnemer(s)Dit besluit wordt voorgesteld door de Vlaamse minister van 
+Welzijn, Volksgezondheid, Gezin en Armoedebestrijding.Na beraadslaging,DE VLAAMSE 
+REGERING BESLUIT:Artikel 1. In artikel 29 van het besluit van de Vlaamse Regering van 13 november 
+2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse 
+opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding 
+van de gevolgen van het COVID-19-virus wordt de datum "30 juni 2021" vervangen door de datum "31 augustus 
+2021".Art. 2. Dit besluit treedt in werking op 30 juni 2021.Art. 3. De Vlaamse minister, 
+bevoegd voor opgroeien, is belast met de uitvoering van dit besluit. Brussel, 18 juni 2021.De 
+minister-president van de Vlaamse Regering,J. JAMBONDe Vlaamse minister van Welzijn, 
+Volksgezondheid, Gezin en Armoedebestrijding,W. BEKE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-28Numac : 2021031734
+

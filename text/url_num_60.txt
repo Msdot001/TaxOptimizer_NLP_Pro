@@ -1,0 +1,110 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/23/2020030815/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030815
+MINISTERIE VAN DE FRANSE GEMEENSCHAP
+ 23 APRIL 2020. - Besluit van de Regering van de Franse Gemeenschap tot toekenning van bijzondere machten nr. 3 genomen ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van het COVID-19 met betrekking tot de versteviging van het nood- en steunfonds 
+De Regering van de Franse Gemeenschap,Gelet op het decreet 
+van 20 december 2011 houdende regeling van de begroting en de boekhouding van de Diensten van de Regering 
+van de Franse Gemeenschap, de artikelen 4, § 1, tweede lid, en 27;Gelet op het decreet 
+van 18 december 2019 houdende de uitgavenbegroting voor het begrotingsjaar 2020;Gelet op het 
+decreet van 18 december 2019 houdende de initiële ontvangstenbegroting van de Franse Gemeenschap voor 
+het begrotingsjaar 2020;Gelet op het decreet van 17 maart 2020 tot toekenning van bijzondere 
+bevoegdheden aan de Regering in het kader van de gezondheidscrisis COVID-19, artikel 1, § 1, g);Gelet 
+op het besluit van 7 april 2020 houdende bijzondere machten nr. 2 van de Regering van de Franse Gemeenschap 
+tot oprichting van een nood- en steunfonds, genomen ter uitvoering van het decreet van 17 maart 2020 
+tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis in verband 
+met het COVID-19;Gelet op het advies van de Inspecteur van Financiën van 22 april 2020;Gelet 
+op de akkoordbevinding van de Minister van Begroting van 23 april 2020;Gelet op de "gendertest", 
+op 22 april 2020 uitgevoerd met toepassing van artikel 4, tweede lid, 1°,  van het decreet van 7 januari 
+2016 betreffende de integratie van de genderdimensie in het geheel van de beleidslijnen van de Franse 
+Gemeenschap;Overwegende de kwalificatie door de WHO van het coronavirus COVID-19 als pandemie 
+op 12 maart 2020;Overwegende de verklaring van de WHO over de kenmerken van het COVID-19, inzonderheid 
+het hoge besmettings- en sterfterisico;Overwegende dat het coronavirus COVID-19 door de lucht 
+lijkt te worden overgedragen van de ene persoon naar de andere; dat de overdracht van de ziekte plaats 
+lijkt te vinden via alle mogelijke vormen van emissie via de mond en de neus;Overwegende dat, 
+rekening houdend met het voorgaande, bijeenkomsten in besloten en overdekte ruimten, maar ook in de open 
+lucht, een bijzonder gevaar voor de volksgezondheid inhouden;Overwegende het overleg tussen 
+de regeringen van de deelstaten en de bevoegde federale overheden, in het kader van de Nationale Veiligheidsraad;Overwegende, 
+als gevolg van het resultaat van dit overleg, het verbod op bijeenkomsten, activiteiten van particuliere 
+of openbare aard, van culturele, sociale, feestelijke, folkloristische, sportieve en recreatieve aard, 
+schooluitstapjes en activiteiten in het kader van jeugdbewegingen op en vanuit het nationale grondgebied;Overwegende 
+dat deze en toekomstige inperkingsmaatregelen die zijn genomen om de verspreiding van het virus in de 
+bevolking te beperken, van dien aard zijn dat zij een hele reeks activiteiten beletten, dat zij verhinderen 
+dat wordt voldaan aan de verplichtingen die een voorwaarde zijn voor de toekenning van subsidies en dat 
+zij bijgevolg de levensvatbaarheid van de begunstigden van subsidies in gevaar brengen;Overwegende 
+dat de levensvatbaarheid van degenen die namens de Franse Gemeenschap een opdracht uitvoeren, ongeacht 
+of het gaat om culturele, sportieve, associatieve of andere opdrachten, moet worden gewaarborgd;Overwegende 
+dat de uitgavenbegroting voor het jaar 2020 het niet mogelijk maakt om voldoende middelen in te zetten 
+om de Franse Gemeenschap in staat te stellen financiële steun te verlenen aan actoren waarvan de levensvatbaarheid 
+in het gedrang zou komen als gevolg van de inperkingsmaatregelen, aan actoren die te maken hebben met 
+extra uitgaven die hun levensvatbaarheid in het gedrang brengen en om alle vormen van hulp en bijstand 
+te verlenen aan gezinnen, kinderen en het publiek van de Federatie Wallonië-Brussel;Overwegende 
+dat de Nationale Veiligheidsraad van 15 april 2020 besloten heeft de inperkingsperiode te verlengen van 
+19 april tot 3 mei en massa-evenementen zoals festivals heeft verboden tot 31 augustus 2020;Overwegende 
+dat na deze beslissing nieuwe steun aan verschillende sectoren nodig zal zijn;Overwegende dat 
+de Regering momenteel bevoegd is om begrotingsberaadslagingen en -beslissingen te organiseren tot een 
+cumulatief bedrag van 50 miljoen € in het kader van het nood- en steunfonds voor covid-19, en dat 
+een aanzienlijk deel van dit bedrag reeds is toegewezen voor de ondersteuning van verschillende sectoren;Overwegende 
+dat een verhoging van het voor het noodfonds beschikbare bedrag met 60 %, d.w.z. 30 miljoen euro extra, 
+het mogelijk maakt om nieuwe steun te verlenen;Overwegende dat de Regering op 23 april 2020 
+besloten heeft de aanpassing van de begroting uit te stellen, zodat deze ten vroegste in juli 2020 door 
+het Parlement kan worden goedgekeurd;Overwegende dat het noodzakelijk is om zo spoedig mogelijk, 
+en vóór juli 2020, de nodige kredieten voor dit doel te openen;Op de voordracht van de Minister 
+van Begroting;Na beraadslaging,Besluit :Artikel 1. In het tweede lid van 
+artikel 4 van het decreet van 18 december 2019 houdende de uitgavenbegroting van de Franse Gemeenschap 
+voor het begrotingsjaar 2020, zoals gewijzigd bij het besluit van 7 april 2020 houdende bijzondere machten 
+nr. 2 van de Regering van de Franse Gemeenschap tot oprichting van een nood- en steunfonds, genomen ter 
+uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in 
+het kader van de gezondheidscrisis in verband met het COVID-19, worden de woorden "50.000.001 euro" vervangen 
+door de woorden "80.000.001 euro".Art. 2. Dit besluit treedt in werking de dag waarop het wordt 
+ondertekend.Art. 3. De Minister van Begroting is belast met de uitvoering van dit besluit.Brussel, 
+23 april 2020.Voor de Regering:De Minister-president,P.-Y. JEHOLETDe 
+Minister van Begroting, Ambtenarenzaken, Gelijke Kansen en Toezicht op WBE,Fr. DAERDEN  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-04-28Numac : 2020030815
+

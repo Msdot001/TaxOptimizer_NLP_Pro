@@ -1,0 +1,1226 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/06/04/2021042150/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-21Numac : 2021042150
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 4 JUNI 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Addendum 
+In 
+het Belgisch Staatsblad nr. 156, tweede editie, van vrijdag 4 juni 2021, bladzijde 56940, wordt het officiële 
+advies van de Raad van State toegevoegd.RAAD VAN STATEafdeling WetgevingAdvies 
+69.444/VR van 31 mei 2021 over een ontwerp van ministerieel besluit `houdende wijziging van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken'Op 26 mei 2021 is de Raad van State, afdeling Wetgeving, door de Minister van Binnenlandse 
+Zaken, Institutionele Hervormingen en Democratische Vernieuwing verzocht binnen een termijn van vijf 
+werkdagen verlengd tot acht werkdagen(*)* een advies te verstrekken over een ontwerp van ministerieel 
+besluit `houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken'.Het ontwerp is door de verenigde 
+kamers onderzocht op 31 mei 2021. De verenigde kamers waren samengesteld uit Pierre VANDERNOOT, kamervoorzitter, 
+voorzitter, en Wilfried VAN VAERENBERGH, kamervoorzitter, Jeroen VAN NIEUWENHOVE, Koen MUYLLE, Patrick 
+RONVAUX en Christine HOREVOETS, staatsraden, Jan VELAERS, Sébastien VAN DROOGHENBROECK, Christian BEHRENDT 
+en Johan PUT, assessoren, en Annemie GOOSSENS en Béatrice DRAPIER, griffiers.Het verslag is 
+opgesteld door Xavier DELGRANGE, eerste auditeur-afdelingshoofd, Jonas RIEMSLAGH, auditeur, Cedric JENART 
+en Anne Stéphanie RENSON, adjunct-auditeurs, en uitgebracht door Jonas RIEMSLAGH, auditeur, Cedric JENART 
+en Anne Stéphanie RENSON, adjunct auditeurs.De overeenstemming tussen de Franse en de Nederlandse 
+tekst van het advies is nagezien onder toezicht van Pierre VANDERNOOT en Jeroen VAN NIEUWENHOVE.Het 
+advies, waarvan de tekst hierna volgt, is gegeven op 31 mei 2021.Overeenkomstig artikel 84, 
+§ 3, eerste lid, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, heeft de 
+afdeling Wetgeving zich moeten beperken tot het onderzoek van de bevoegdheid van de steller van de handeling, 
+van de rechtsgrond, alsmede van de vraag of aan de te vervullen vormvereisten is voldaan.I. 
+STREKKING VAN HET ONTWERP1. Het voor advies voorgelegde ontwerp van ministerieel besluit strekt 
+tot wijziging van het ministerieel besluit van 28 oktober 2020 `houdende dringende maatregelen om de 
+verspreiding van het coronavirus COVID-19 te beperken'.Het te nemen besluit treedt in werking 
+op 9 juni 2021.In de nota aan de Ministerraad van 25 mei 2021 wordt de strekking van het ontwerp 
+als volgt uiteengezet:"Op hoofdlijnen treden de volgende maatregelen vanaf 9 juni 2021 in werking, 
+onder de specifieke en uitdrukkelijke voorwaarden zoals bepaald in het ministerieel besluit:- 
+de inrichtingen die behoren tot de culturele, feestelijke, sportieve, recreatieve en evenementensector 
+kunnen openen. De discotheken en dancings blijven echter gesloten voor het publiek, behalve voor wat 
+betreft de organisatie van de activiteiten die toegelaten zijn overeenkomstig het ministerieel besluit;- 
+evenementen, culturele en andere voorstellingen, sportieve wedstrijden en trainingen en congressen kunnen 
+worden bijgewoond door een publiek, met dien verstande dat buiten meer personen toegelaten zijn dan binnen;- 
+samenscholingen op de openbare weg en in de openbare ruimte overdag zijn toegelaten voor een maximum 
+van 10 personen (waarbij men binnen groepen van 4 geen afstand moet bewaren), behoudens de voorziene 
+uitzonderingen; samenscholingen tussen 0.00 uur en 5.00 worden uitgebreid van 3 naar 4 personen, teneinde 
+een helder en duidelijk geheel van regels te verkrijgen; in de private ruimte zijn samenscholingen toegelaten 
+tot 50 personen, behoudens de voorziene uitzonderingen;- burgerlijke huwelijken, begrafenissen 
+en crematies, individuele en collectieve uitoefening van de eredienst en individuele en collectieve uitoefening 
+van de niet-confessionele morele dienstverlening en van activiteiten binnen een filosofisch-levensbeschouwelijke 
+vereniging, en het individueel of collectief bezoek aan een gebouw voor de eredienst of een gebouw voor 
+niet-confessionele morele dienstverlening is toegelaten met een hoger aantal aanwezigen, met dien verstande 
+dat buiten meer personen toegelaten zijn dan binnen;- indoor horeca wordt toegelaten tot 22u00, 
+outdoor horeca mag open blijven tot 23u30; het verbod op de verkoop van alcoholische dranken tussen 22u00 
+en 05u00 wordt opgeheven. Indoor horeca mag slechts open blijven tot 22u00 aangezien de kans op verspreiding 
+van het virus binnen groter is dan buiten. Bij een receptie of banket, in het kader van een professioneel 
+uitgeoefende horeca-activiteit is een maximum van 50 klanten toegestaan, tenzij het een open terras betreft. 
+Recepties en banketten mogen ook thuis worden georganiseerd voor een maximum van 50 personen, op voorwaarde 
+dat deze buiten doorgaan en uiterlijk om 23u30 eindigen. Indien professionele horeca-activiteiten worden 
+uitgeoefend dienen de horeca-regels te worden nageleefd, behalve bij dienstverlening aan huis. In de 
+andere gevallen wordt de naleving van de horeca-regels uiterst sterk aanbevolen.- jaarmarkten, 
+kermissen, braderijen en niet-professionele brocante- en rommelmarkten kunnen voortaan opnieuw plaatsvinden;- 
+de mogelijkheden voor het deelnemen aan activiteiten in georganiseerd verband worden uitgebreid op 9 
+juni en 25 juni 2021;- professionele sportieve wedstrijden en professionele sporttrainingen 
+kunnen plaatsvinden zonder beperking van het aantal deelnemers; een maximum aantal personen mag deelnemen 
+aan niet-professionele sportieve wedstrijden en niet-professionele sporttrainingen (met dien verstande 
+dat buiten meer personen toegelaten zijn dan binnen); niet-professionele sportieve wedstrijden van gevechtsporten 
+zijn verboden, in zoverre er fysieke contacten plaatsvinden tussen de deelnemers;- ondernemingen 
+en verenigingen die goederen of diensten aanbieden aan consumenten mogen groepen van in principe maximum 
+twee personen ontvangen;- huis- aan-huis- en leurdersactiviteiten worden toegelaten, zo ook 
+dienstverlening aan huis en dienstverlening waarbij de afstand van 1,5 meter tussen de dienstverlener 
+en de consument niet kan worden gegarandeerd;- handelsbeurzen, met inbegrip van salons, zijn 
+toegelaten;- een huishouden mag maximaal vier personen tegelijk binnen in huis of in een toeristisch 
+logies ontvangen;- een maximum aantal deelnemers mag zowel statische als dynamische betogingen 
+bijwonen die plaatsvinden op de openbare weg;- ondernemingen, verenigingen en diensten mogen 
+beperkte terugkeermomenten inplannen voor de personen werkzaam in de onderneming voor wie telethuiswerk 
+verplicht is.Aangezien de opvolging van de zorgwekkende varianten van essentieel belang is 
+bij de bestrijding van de pandemie, is de uitzondering om te beschikken over een negatief testresultaat 
+en de verplichting om het PLF-formulier in te vullen en te ondertekenen voor de reizigers waarvan de 
+reis geen gebruik van een vervoerder inhoudt en waarvan het verblijf in België of het voorafgaand verblijf 
+in het buitenland niet langer heeft geduurd dan 48 uur, niet van toepassing op de personen die zich op 
+enig moment tijdens de 14 dagen voor hun aankomst in België op het grondgebied van Brazilië, Zuid-Afrika 
+of India hebben bevonden."II. ONT.V.A.NKELIJKHEID2. Volgens artikel 84, § 
+1, eerste lid, 3°,  van de wetten `op de Raad van State', gecoördineerd op 12 januari 1973, moeten in 
+de adviesaanvraag de redenen worden opgegeven tot staving van het spoedeisende karakter ervan.De 
+spoedeisendheid wordt in de adviesaanvraag als volgt gemotiveerd:"Het verzoek om spoedbehandeling 
+wordt gemotiveerd door de noodzakelijkheid om maatregelen te overwegen die gegrond zijn op epidemiologische 
+resultaten die van dag op dag evolueren en waarvan de laatste de maatregelen hebben gerechtvaardigd die 
+werden beslist tijdens het Overlegcomité dat is bijeengekomen op 11 mei 2021 en die werden goedgekeurd 
+op de Ministerraad van 25 mei 2021. Het is zodoende dringend om op korte termijn bepaalde maatregelen 
+te nemen en anderen aan te passen. De eerste reeks versoepelingen zal in werking treden op 9 juni 2021. 
+Opdat de sectoren zich zouden kunnen voorbereiden, dient het ministerieel besluit evenwel een voldoende 
+aantal dagen voordien officieel te worden gepubliceerd in het Belgisch Staatsblad. Vanuit die optiek 
+zou ik u graag verzoeken om ons het advies te bezorgen in de loop van woensdag 2 juni 2021."Die 
+motivering kan worden aanvaard, zoals ook het geval was in advies 69.253/AV van 23 april 2021(1) en in 
+advies 69.305/AV van 6 mei 2021.(2)Volgens artikel 84, § 1, tweede lid, van de wetten 
+op de Raad van State moet de motivering voor de spoedeisendheid die in de adviesaanvraag voorkomt, woordelijk 
+worden overgenomen in de aanhef. In het achtste lid van de aanhef wordt evenwel slechts het eerste gedeelte 
+overgenomen van de motivering die in de adviesaanvraag is opgenomen. Bijgevolg stemt de motivering die 
+in de aanhef van het ontwerp wordt weergegeven, niet overeen met de motivering in de adviesaanvraag, 
+wat moet worden verholpen.III. VOORAFGAANDE OPMERKING3. De afdeling Wetgeving wordt 
+voor de derde keer geraadpleegd over een aanpassing van een aantal bestaande maatregelen ter bestrijding 
+van het coronavirus, vervat in het ministerieel besluit van 28 oktober 2020 `houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken'.Om de redenen die reeds werden 
+uiteengezet in de adviezen 69.253/AV en 69.305/AV is het door de Raad van State gevoerde onderzoek beperkt 
+tot de actueel voorliggende wijzigingen aan het ministerieel besluit van 28 oktober 2020.(3)Het 
+spreekt, mede gelet op de zeer beperkte adviestermijn, hoe dan ook vanzelf dat het feit dat geen opmerking 
+wordt gemaakt over de ene of de andere bepaling van het ontwerp, niet betekent dat deze bepalingen niet 
+vatbaar zijn voor kritiek of voor verbetering. Het stilzwijgen van de afdeling Wetgeving over die bepalingen 
+kan niet worden aangegrepen om het ontwerpbesluit op de ene of de andere manier uit te leggen.IV. 
+RECHTSGROND4. Luidens de aanhef van het ontwerp wordt rechtsgrond gezocht in:- artikel 
+4 van de wet van 31 december 1963 `betreffende de civiele bescherming';- de artikelen 11 en 
+42 van de wet van 5 augustus 1992 `op het politieambt';- de artikelen 181, 182 en 187 van de 
+wet van 15 mei 2007 `betreffende de civiele veiligheid'.Het gaat om dezelfde rechtsgronden 
+als die waarnaar verwezen wordt in de aanhef van het ministerieel besluit van 28 oktober 2020 zelf, alsook 
+in de verschillende ministeriële besluiten tot wijziging van dat besluit, waaronder het ministerieel 
+besluit van 24 april 2021 waarover de afdeling Wetgeving advies 69.253/AV heeft uitgebracht en het ministerieel 
+besluit van 7 mei 2021 waarover advies 69.305/AV is uitgebracht.Zoals ook in de adviezen 69.253/AV 
+en 69.305/AV werd opgemerkt,(4) valt de vraag in welke mate delegaties door de wetgever aan de minister 
+mogelijk zijn, in beginsel buiten het onderzoek van onderhavige adviesaanvraag. Daarover zijn weliswaar 
+prejudiciële vragen gesteld aan het Grondwettelijk Hof.(5) Zolang het Hof zich daarover niet heeft uitgesproken 
+en desgevallend een ongrondwettigheid heeft vastgesteld, wordt in beginsel uitgegaan van de bepalingen 
+die de wetgever tot stand heeft gebracht, al moeten die uiteraard nog worden geïnterpreteerd.5. 
+Gevraagd om voor elk onderdeel van het ontwerp de wettelijke grondslag aan te duiden, bezorgden de gemachtigden 
+geen overzicht per artikel, maar werd enkel in algemene bewoordingen verwezen naar alle in de aanhef 
+vermelde bepalingen:"De genomen maatregelen zijn politiemaatregelen in de zin van de wet van 
+5 augustus 1992 op het politieambt, maatregelen in de zin van artikel 4 van de wet van 31 december 1963 
+betreffende de civiele bescherming en maatregelen in de zin van de artikelen 181 en 182 van de wet van 
+15 mei 2007 betreffende de civiele veiligheid."6. Met betrekking tot de rechtsgrond heeft de 
+Raad van State in de adviezen 69.253/AV en 69.305/AV onder meer gewezen op:- het belang van 
+het onderscheid tussen de verschillende aangehaalde rechtsgrondbepalingen, met name wat betreft de wettelijke 
+grondslag voor de sanctie in geval van overtreding van de betrokken maatregel;(6)- de "controverse 
+zowel in de doctrine als in de rechtspraak, wat oorzaak is van enige rechtsonzekerheid" met betrekking 
+tot "het bestaan, in die verschillende teksten, van een toereikende rechtsgrond voor het vaststellen, 
+bij ministeriële besluiten, van de huidige maatregelen in de strijd tegen de COVID-19 pandemie";(7)- 
+het gegeven dat in die context de minister bevoegd voor Binnenlandse Zaken het initiatief heeft genomen 
+om een ontwerp van "pandemiewet"(8) tot stand te brengen, dat ertoe strekt een duidelijk en coherent 
+juridisch kader te voorzien teneinde in de toekomst beter om te kunnen gaan met "epidemische noodsituaties", 
+in de zin zoals gedefinieerd in dat wetsontwerp.(9)In het licht van onder meer die elementen 
+heeft de Raad van State in de voormelde adviezen het volgende opgemerkt:"Uit wat voorafgaat 
+en uit de bestaande rechtsgronden die de minister bevoegd voor Binnenlandse Zaken uitdrukkelijk de bevoegdheid 
+verlenen om ter zake op te treden, lijkt te kunnen worden afgeleid, uiteraard onder voorbehoud van een 
+eventuele grondwettigheidstoetsing van de delegatie aan de minister die het Grondwettelijk Hof dienaangaande 
+zou moeten uitvoeren[...] en onder voorbehoud van een finaal oordeel door de afdeling Bestuursrechtspraak 
+van de Raad van State of door het Hof van Cassatie over de draagwijdte van de rechtsgrond van het ministerieel 
+besluit van 28 oktober 2020, dat de tussenkomst van de minister bevoegd voor Binnenlandse zaken in het 
+kader van de coronapandemie in beginsel aanvaard mag worden op basis hetzij van de ene of de andere vermelde 
+rechtsgrond, hetzij een combinatie van deze verschillende rechtsgronden, onder meer telkens de genomen 
+maatregel kan gekwalificeerd worden als een plaats- of verplaatsingsverbod, waarbij het mits naleving 
+van een of meerdere voorwaarden of modaliteiten alsnog toegelaten is zich op een bepaalde plaats te bevinden 
+of zich naar een bepaalde plaats te begeven."(10)Wat betreft de wettelijke grondslag voor de 
+sanctie in geval van overtreding van de betrokken maatregel werd in advies 69.305/AV het volgende uiteengezet:"Er 
+moet worden vastgesteld dat artikel 26 van het te wijzigen ministerieel besluit van 28 oktober 2020 als 
+volgt luidt:`Inbreuken op de bepalingen van de volgende artikelen worden beteugeld met de straffen 
+bepaald door artikel 187 van de wet van 15 mei 2007 betreffende de civiele veiligheid:- artikelen 
+5 tot en met 11, met uitzondering van de bepalingen die betrekking hebben op de relatie tussen de werkgever 
+en de werknemer;- artikel 13, met uitzondering van de bepalingen die betrekking hebben op de 
+relatie tussen de werkgever en de werknemer, en op de verplichtingen van de bevoegde gemeentelijke overheid;- 
+artikelen 14, 15, 15bis, 19, 21 en 25.'De in het eerste lid van artikel 187 van de wet van 
+15 mei 2007 voorziene sanctie geldt in geval van `[w]eigering of verzuim zich te gedragen naar de maatregelen 
+die met toepassing van artikelen 181, § 1, en 182 zijn bevolen'. Aangezien het niet aan de minister 
+toekomt om het toepassingsgebied van die bepaling uit te breiden of te beperken, lijkt de minister zelf 
+van oordeel te zijn dat de onderdelen van het ministerieel besluit van 28 oktober 2020 die in het geciteerde 
+artikel 26 worden opgesomd rechtsgrond vinden in (onder meer) artikel 182 van de wet van 15 mei 2007(11), 
+terwijl de onderdelen die buiten die opsomming vallen geen rechtsgrond kunnen vinden in die wetsbepaling.Hieromtrent 
+ondervraagd verklaarden de gemachtigden het volgende:`De bepalingen die niet worden gesanctioneerd 
+via artikel 26, vinden hun rechtsgrond in artikel 11 van de wet op het politieambt. Deze bepalingen zijn 
+bovendien vaak gelinkt aan andere wetgeving waarvan de naleving door andere instanties wordt gecontroleerd 
+(zoals wetgeving in verband met welzijn op het werk) of die verwijzen naar andere instanties van de Federale, 
+regionale of lokale overheid. Overigens is de naleving van sommige bepalingen die niet werden hernomen 
+in artikel 26, zeer moeilijk controleerbaar en dus ook weinig sanctioneerbaar op het terrein.Een 
+duiding:- artikel 5 tot en met 11 betreffen de voorwaarden waaronder bepaalde handelszaken 
+mogen openen, goederen en diensten kunnen worden geleverd en dergelijke meer. Bij niet naleving van deze 
+regels zal een sanctie conform art. 26 volgen;- art. 12 betreft een bepaling ten aanzien van 
+de lokale overheid, die niet gesanctioneerd kan worden conform art. 26;- artikel 13, met uitzondering 
+van de bepalingen die betrekking hebben op de relatie tussen de werkgever en de werknemer, en op de verplichtingen 
+van de bevoegde gemeentelijke overheid;- artikelen 14, 15, 15bis betreffen verplichtingen in 
+hoofde van de burger, die gesanctioneerd worden conform art. 26;- artikel 16 betreft een bepaling 
+bestemd voor de lokale overheid;- artikel 18 bepaalt de modaliteiten waaronder een evenement 
+zoals bepaald in artikel 15 kan worden georganiseerd. Een overtreding van artikel 18 kan op zich niet 
+gesanctioneerd worden, indien artikel 18 niet wordt gerespecteerd zal dit leiden tot een overtreding 
+van artikel 15'." (12)7. Onder voorbehoud van de zo even aangehaalde elementen en van hetgeen 
+hierna wordt opgemerkt, kan worden aangenomen dat de in het ontwerp vervatte wijzigingen van het ministerieel 
+besluit van 28 oktober 2020 geacht kunnen worden rechtsgrond te vinden in de wetsbepalingen die worden 
+aangehaald in het eerste tot derde lid van de aanhef van het ontwerp. Zij kunnen immers worden beschouwd 
+als een regeling waarbij de betrokkenen worden verplicht "zich te verwijderen van plaatsen of streken" 
+of waarbij "iedere verplaatsing of elk verkeer van de bevolking" wordt verboden, waarbij in vele gevallen 
+aan zo'n plaats- of verplaatsingsverbod verscheidene voorwaarden worden gekoppeld. Er moet dan ook niet 
+worden onderzocht of de ontworpen bepalingen rechtsgrond vinden in andere bepalingen.8.1. Het 
+ontworpen artikel 6, § 2, eerste lid, 1°,  van het ministerieel besluit van 28 oktober 2020 (artikel 
+3 van het ontwerp) legt als voorwaarde voor het professioneel uitoefenen van horeca activiteiten, behoudens 
+in geval van dienstverlening aan huis, onder meer op dat aan de personeelsleden "een passende opleiding" 
+moet worden verstrekt. Het ontworpen artikel 8, § 1, eerste lid, 1°,  (artikel 5 van het ontwerp) 
+en het ontworpen artikel 15, § 4, vijfde lid, 1°,  (artikel 11 van het ontwerp) bevatten een gelijkaardige 
+regeling.Dezelfde ontworpen bepalingen voorzien ook in de verplichting om klanten, bezoekers, 
+aanwezigen, personeelsleden en derden "tijdig en duidelijk zichtbaar over de geldende preventiemaatregelen 
+[te informeren]". Een dergelijke verplichting kan nog worden beschouwd als een voorwaarde met betrekking 
+tot een plaats- of verplaatsingsverbod in de zin van artikel 182 van de wet van 15 mei 2007 `betreffende 
+de civiele veiligheid'.De verplichting in hoofde van de betrokken inrichtingen, uitbaters en 
+organisatoren om hun personeelsleden een passende opleiding te verstrekken, reikt evenwel verder en vertoont 
+een onvoldoende verband met de concrete handeling of activiteit die wordt gereglementeerd met het oog 
+op de beperking van de verspreiding van het coronavirus en heeft als dusdanig geen rechtstreekse impact 
+op de civiele veiligheid. Het gegeven dat de verstrekte opleiding een gunstig effect kan hebben op het 
+naleven van de overige voorwaarden, zoals door de gemachtigden is verklaard, doet geen afbreuk aan die 
+vaststelling.De ontworpen bepalingen kunnen ook niet worden beschouwd als een sanitaire politiemaatregel, 
+zodat ook niet kan worden gesteund op artikel 4 van de wet van 31 december 1963 `betreffende de civiele 
+bescherming' en artikel 11 van de wet van 15 augustus 1992 `op het politieambt'. Evenmin gaat het om 
+een opvorderingsmaatregel als bedoeld in artikel 181 van de wet van 15 mei 2007.8.2. In zoverre 
+de ontworpen bepalingen beschouwd kunnen worden als verplichtingen in hoofde van werkgevers met het oog 
+op het welzijn van de werknemers bij de uitvoering van hun werk, zou ervoor rechtsgrond kunnen worden 
+gevonden in de artikelen 4, 5 en 6 van de wet van 4 augustus 1996 `betreffende het welzijn van de werknemers 
+bij de uitvoering van hun werk', maar aangezien die wetsbepalingen ter zake enkel delegaties aan de Koning 
+bevatten, zouden in dat geval de voornoemde bepalingen inzake de opleiding van personeelsleden enkel 
+doorgang kunnen vinden indien ze worden opgenomen in een koninklijk besluit.(13)Bovendien rijst 
+de vraag of die wetsbepalingen in alle gevallen wel volstaan als rechtsgrond, nu in het ontworpen artikel 
+15, §  4, vijfde lid, 1°,  van het ministerieel besluit van 28 oktober 2020 (artikel 11 van het 
+ontwerp) gewag wordt gemaakt van de term "personeelsleden" in een context waar niet noodzakelijk een 
+arbeidsrechtelijke verhouding voorligt, zoals bij religieuze ceremonies en bij sportieve activiteiten. 
+Indien voor dergelijke situaties geen pertinente rechtsgrondbepalingen voorhanden zijn - hetgeen de Raad 
+van State binnen de beperkte tijd waarover hij beschikt niet zelf kan nagaan - kunnen die bepalingen 
+geen doorgang vinden in zoverre ze op die situaties betrekking hebben.9. Artikel 15, 2°,  4° 
+ en 5°,  van het voorliggende ontwerp strekt tot wijziging van de verplichtingen in verband met het Passenger 
+Locator Form (PLF) die in artikel 21 van het ministerieel besluit van 28 oktober 2020 worden vermeld.Dat 
+artikel 21 voert een verwerking van persoonsgegevens in waarbij het legaliteitsbeginsel dat uit artikel 
+22 van de Grondwet voortvloeit, in acht moet worden genomen. Over de draagwijdte van dat beginsel heeft 
+de algemene vergadering van de afdeling Wetgeving onlangs in advies 68.936/AV van 7 april 2021 het volgende 
+opgemerkt:"Krachtens artikel 22 van de Grondwet geldt voor elke verwerking van persoonsgegevens 
+en, meer in het algemeen, voor elke schending van het recht op het privéleven, dat het formeel legaliteitsbeginsel(14) 
+dient te worden nageleefd.Doordat artikel 22 van de Grondwet aan de bevoegde wetgever de bevoegdheid 
+voorbehoudt om vast te stellen in welke gevallen en onder welke voorwaarden afbreuk kan worden gedaan 
+aan het recht op eerbiediging van het privéleven, waarborgt het aan elke burger dat geen enkele inmenging 
+in dat recht kan plaatsvinden dan krachtens regels die zijn aangenomen door een democratisch verkozen 
+beraadslagende vergadering. Een delegatie aan een andere macht is evenwel niet in strijd met het wettelijkheidsbeginsel 
+voor zover de machtiging voldoende nauwkeurig is omschreven en betrekking heeft op de tenuitvoerlegging 
+van maatregelen waarvan de `essentiële elementen' voorafgaandelijk door de wetgever vastgesteld zijn.(15) 
+Bijgevolg moeten de `essentiële elementen' van de verwerking van persoonsgegevens in de wet 
+zelf worden vastgelegd. In dat verband is de afdeling Wetgeving van oordeel dat ongeacht de aard van 
+de betrokken aangelegenheid, de volgende elementen in beginsel `essentiële elementen'" uitmaken: 1° ) 
+de categorie van verwerkte gegevens; 2° ) de categorie van betrokken personen; 3° ) de met de verwerking 
+nagestreefde doelstelling; 4° ) de categorie van personen die toegang hebben tot de verwerkte gegevens; 
+en 5° ) de maximumtermijn voor het bewaren van de gegevens."(16)In advies 68.978/VR van 16 
+maart 2021 had de afdeling Wetgeving er al op gewezen dat wat de gegevensverwerking in het kader van 
+het Passenger Locator Form betrof het aldus omschreven legaliteitsbeginsel niet helemaal in acht was 
+genomen. In dat advies staat het volgende te lezen:"Die leemte zou dus moeten worden aangevuld 
+door, naargelang van de keuze van de federale overheid, ofwel in de wet ofwel in het samenwerkingsakkoord 
+waaraan instemming wordt verleend, duidelijk alle categorieën van gegevens te preciseren die met het 
+PLF worden verzameld en die in de PLF-gegevensdatabank worden verwerkt".(17)Artikel 7, vijfde 
+lid, van het samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, 
+het Waals Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie `betreffende 
+de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden 
+of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers 
+komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België' 
+luidt als volgt:"De gegevensbank PLF in zijn geheel vindt zijn wettelijke grondslag in het 
+artikel 23 van de International Health Regulations (IHR) van de WGO".Artikel 23 van de Internationale 
+Gezondheidsregeling van de Wereldgezondheidsorganisatie luidt als volgt:"Art. 23.1. Met inachtneming 
+van toepasselijke internationale overeenkomsten en relevante artikelen van deze Regeling kan een Staat 
+die Partij is ten behoeve van de volksgezondheid bij aankomst of vertrek het volgende verlangen:a) 
+ten aanzien van reizigers:i) informatie betreffende de bestemming van de reiziger zodat met 
+hem of haar contact kan worden opgenomen;ii) informatie betreffende de reisroute van de reiziger 
+teneinde vast te stellen of deze in of in de nabijheid van een getroffen gebied heeft gereisd of mogelijk 
+andere contacten met een infectie- of besmettingsbron heeft gehad voorafgaande aan de aankomst, alsmede 
+controle van de gezondheidsdocumenten van de reiziger indien deze ingevolge deze Regeling vereist zijn; 
+en/ofiii) een niet-invasief medisch onderzoek dat het minst belastende onderzoek is waarmee 
+de volksgezondheidsdoelstelling zou worden verwezenlijkt;b) inspectie van bagage, vracht, containers, 
+vervoermiddelen, goederen, postpakketten en stoffelijke resten.2. Op basis van bewijs voor 
+het bestaan van een volksgezondheidsrisico dat is vergaard door middel van de in het eerste lid van dit 
+artikel voorziene maatregelen, of via andere middelen, kunnen Staten die Partij zijn aanvullende gezondheidsmaatregelen 
+toepassen, in overeenstemming met deze Regeling, in het bijzonder, met betrekking tot een verdachte of 
+getroffen reiziger, van geval tot geval bezien, het minst belastende en invasieve medisch onderzoek waarmee 
+de volksgezondheidsdoelstelling van het voorkomen van de internationale verspreiding van ziekte zou worden 
+verwezenlijkt.3. Reizigers worden niet onderworpen aan een medisch onderzoek, vaccinatie, profylaxe 
+of gezondheid[s]maatregel ingevolge deze Regeling zonder hun voorafgaande uitdrukkelijke geïnformeerde 
+toestemming of die van hun ouders of voogden, behalve als voorzien in artikel 31, tweede lid, en in overeenstemming 
+met de wetgeving en internationale verplichtingen van de Staat die Partij is.4. Reizigers die 
+uit hoofde van deze Regeling dienen te worden ingeënt of een profylaxe dienen te ontvangen, dan wel hun 
+ouders of voogden, worden in kennis gesteld van de risico's die met vaccinatie of niet-vaccinatie en 
+met het al dan niet gebruiken van de profylaxe samenhangen in overeenstemming met de wetgeving en internationale 
+verplichtingen van de Staat die Partij is. Staten die Partij zijn, stellen artsen van deze vereisten 
+op de hoogte in overeenstemming met de wetgeving van de Staat die Partij is.5. Medische onderzoeken, 
+medische procedures, vaccinatie of andere profylaxe die het risico van verspreiding van ziekte met zich 
+meebrengen worden uitsluitend uitgevoerd op of toegediend aan een reiziger in overeenstemming met vastgestelde 
+nationale of internationale veiligheidsrichtlijnen en -normen teneinde een dergelijk risico tot een minimum 
+te beperken".Weliswaar maakt die internationaalrechtelijke bepaling het inderdaad mogelijk 
+dat Staten een regeling vaststellen zoals die betreffende het PLF, maar ze kan, zolang er niet bij wet 
+instemming aan is verleend, uiteraard niet worden beschouwd als een internrechtelijke regel die rechtsgrond 
+biedt voor een ministerieel besluit.(18)De afdeling Wetgeving kan dus alleen maar de conclusie 
+uit haar eerdere adviezen herhalen,(19) namelijk dat er momenteel geen wetskrachtige regel bestaat die 
+bepaalt welke gegevens via het PLF moeten worden meegedeeld en in het kader van de PLF-gegevensbank worden 
+verwerkt, dit in tegenstelling tot wat het legaliteitsbeginsel, voortvloeiend uit artikel 22 van de Grondwet, 
+voorschrijft. Uit het voorgaande volgt dus dat de verwerkingen van persoonsgegevens, die het voorliggende 
+ontwerp beoogt te wijzigen, geen rechtsgrond hebben.Tenzij alsnog in een rechtsgrond wordt 
+voorzien, moeten die maatregelen (en hun wijziging) bijgevolg worden weggelaten.V. BEVOEGDHEID10. 
+De afdeling Wetgeving heeft onlangs het volgende opgemerkt in het voornoemde advies 68.936/AV:"De 
+bevoegdheid tot bestrijding van een epidemische noodsituatie is geen bevoegdheid die als zodanig exclusief 
+aan één overheid - de federale, de gemeenschaps- of de gewestelijke - is toegewezen. Zoals de Raad van 
+State, afdeling Wetgeving reeds eerder(20) en ook nog tijdens de huidige COVID-19-pandemie in herinnering 
+heeft gebracht(21), is `elke overheid verantwoordelijk voor de bestrijding van een volksgezondheidscrisis 
+binnen de grenzen van haar eigen materiële bevoegdheden.'(22)(...)In de strijd tegen 
+een epidemische noodsituatie kan de federale overheid maatregelen nemen in het kader van haar bevoegdheden 
+inzake:- het gezondheidsbeleid;- de handhaving van de openbare orde, meer bepaald 
+de handhaving van de gezondheid in het openbaar (sanitaire politie);- de civiele bescherming 
+en civiele veiligheid;- de controle van de buitengrenzen;- sanitaire maatregelen 
+in het kader van andere federale bevoegdheden".(23)In casu vallen de meeste versoepelingsmaatregelen 
+van het voorliggende ontwerp binnen de werkingssfeer van de federale bevoegdheden inzake gezondheidspolitie, 
+civiele bescherming en/of civiele veiligheid.In dat verband heeft de algemene vergadering van 
+de afdeling Wetgeving in hetzelfde advies 68.936/AV het volgende gesteld:"32. Op grond van 
+haar ruime bevoegdheid inzake sanitaire politie, civiele bescherming en de civiele veiligheid heeft de 
+federale overheid in het verleden maatregelen uitgevaardigd die een ingrijpende weerslag hebben op beleidsdomeinen 
+die tot de bevoegdheid van de gemeenschappen en/of de gewesten behoren. Zo heeft de federale overheid, 
+in het verleden, in de strijd tegen een epidemische noodsituatie maatregelen genomen zoals het sluiten 
+van onderwijsinstellingen, het verbieden van culturele evenementen of het slechts openhouden van de scholen 
+of het slechts toestaan van de culturele evenementen onder bepaalde sanitaire voorwaarden (aantal deelnemers, 
+mondmaskerplicht en sociale afstandsvereiste, enz.). Alhoewel deze maatregelen een duidelijk sanitaire 
+dimensie hebben, kunnen ze, omwille van hun ingrijpende impact op beleidsdomeinen van andere overheden, 
+slechts door de federale overheid worden genomen wanneer het belangrijkste aspect ervan, gelet op hun 
+inzet, kan geacht worden betrekking te hebben op de sanitaire politie, de civiele bescherming en/of civiele 
+veiligheid, waarvoor de federale overheid is bevoegd. Het komt de Raad van State voor dat dit laatste 
+slechts het geval zal zijn, wanneer aan drie voorwaarden is voldaan.33. In de eerste plaats 
+moet de federale overheid bij de uitoefening van haar bevoegdheden steeds het evenredigheidsbeginsel 
+eerbiedigen. Dit algemeen beginsel, dat samenhangt met de in artikel 143, § 1, van de Grondwet 
+voorgeschreven federale loyauteit(24), is in deze aangelegenheid des te meer van belang daar de federale 
+bevoegdheden inzake de handhaving van de openbare orde (sanitaire politie), de civiele bescherming en 
+de civiele veiligheid zo ruim zijn dat ze, uit hun aard, een ingrijpende weerslag kunnen hebben op domeinen 
+die tot de bevoegdheid van andere overheden behoren. Een verantwoorde uitoefening van deze bevoegdheden, 
+in overeenstemming met het evenredigheidsbeginsel, veronderstelt dat aan de beslissing van de federale 
+overheid een zorgvuldige, op wetenschappelijke inzichten gebaseerde, afweging voorafgaat tussen enerzijds 
+de redelijkerwijze te verwachten resultaten van de overwogen maatregel in de strijd tegen een epidemische 
+noodsituatie en anderzijds de weerslag ervan op de beleidsdomeinen die aan de gemeenschappen en de gewesten 
+toebehoren. Het komt de Raad van State voor dat de draagwijdte die het evenredigheidsbeginsel heeft in 
+het leerstuk over de beperkingsvoorwaarden van grondrechten, mutatis mutandis, ook hier geldt. Het beginsel 
+impliceert dat `de overheid in het licht van de aard van de feiten waarop zij steunt, van de ernst van 
+die feiten en van de omstandigheden van de zaak dient aan te tonen dat de maatregel die zij overweegt 
+te nemen een noodzakelijke, passende en evenredige maatregel is: wat dat betreft, komt het er heel in 
+het bijzonder op aan zich ervan te vergewissen dat er een voldoende rechtstreeks en nauw verband is tussen 
+enerzijds de toedracht en de omstandigheden van de zaak en anderzijds de verstoring van de openbare orde 
+die men met de voorgenomen politiemaatregel wil voorkomen opdat de maatregel kan worden verantwoord.(25),(26) 
+' 34. Een tweede voorwaarde is dat de federale overheid, die zich voorneemt een maatregel te 
+nemen die een rechtstreekse weerslag heeft op domeinen die tot de materiële bevoegdheid van de deelstaten 
+behoren, vooraf overleg dient te plegen met die andere overheden(27) . Hoewel een dergelijk overleg niet 
+mag leiden tot een afstand of overdracht van bevoegdheid, is het onontbeerlijk om de gevolgen van de 
+genomen maatregelen voor de beleidsdomeinen die tot de bevoegdheidssfeer van de gemeenschappen en de 
+gewesten behoren correct te kunnen inschatten en zich zo een juist beeld te vormen van het al dan niet 
+evenredig karakter van de genomen maatregelen. Een dergelijk overleg is een voorwaarde die moet vervuld 
+zijn om met het evenredigheidsbeginsel in overeenstemming te kunnen zijn.Deze verplichting 
+om overleg te plegen sluit overigens niet uit dat de federale overheid, gelet op de verwevenheid van 
+de bevoegdheden, het overleg voert in het overlegcomité, opgericht bij de artikelen 31 en 31/1 van de 
+gewone wet van 9 augustus 1980 `tot hervorming der instellingen' en over de te nemen maatregelen een 
+consensus nastreeft.Het kan evenwel gebeuren dat, in spoedeisende situaties,(28) dit overleg 
+niet kan plaatsvinden, omdat anders de doeltreffendheid van de te nemen maatregelen aangetast zou worden. 
+Wanneer dat het geval is, moet de federale overheid kunnen verantwoorden waarom het niet mogelijk is 
+dat overleg te plegen en moet ze, vervolgens, dat overleg aanvatten zodra de omstandigheden dat toelaten.35. 
+De federale overheid moet er ten slotte, als derde voorwaarde, ook over waken dat zij zich strikt beperkt 
+tot hetgeen kan worden ingepast in haar bevoegdheden inzake sanitaire politie, civiele bescherming of 
+civiele veiligheid en daarbij niet overgaat tot het louter uitoefenen van de materiële bevoegdheden van 
+een andere overheid. Het komt de federale overheid niet toe om, in het kader van de bestrijding van een 
+epidemische noodsituatie op grond van de bevoegdheden inzake bestuurlijke politie, civiele bescherming 
+en/of civiele veiligheid, maatregelen te nemen zonder sanitaire dimensie. Zo kan de federale overheid 
+bv. een mondmaskerplicht en een sociale afstandsvereiste opleggen in scholen en musea, voor zover dat 
+een evenredige en noodzakelijke maatregel is (randnummer 33), en - in uiterste omstandigheden - zelfs 
+beslissen deze te sluiten(29) . Ze kan daarbij evenwel niet aan de gemeenschappen alternatieve regelingen 
+voor het onderwijs en voor cultuurbeleving opleggen, zoals bv. de verplichting om afstandsonderwijs aan 
+te bieden of om in een online-museum-aanbod te voorzien, of - omgekeerd - deze uitsluiten. Dergelijke 
+maatregelen kunnen immers niet als sanitaire maatregelen worden beschouwd".(30)In casu geven 
+de drie voornoemde vereisten aanleiding tot de volgende opmerkingen:- wat het vereiste inzake 
+materiële evenredigheid betreft, blijkt uit de aanhef van het voorliggende ontwerp dat aan het ontwerp 
+een analyse van de recente wetenschappelijke gegevens is voorafgegaan;(31)- aan het vereiste 
+inzake overleg is voldaan, aangezien uit het dossier dat aan de Raad van State is bezorgd, blijkt dat 
+op 11 mei 2021 een overleg is georganiseerd binnen het Overlegcomité;- ten slotte passen de 
+versoepelingsmaatregelen waarin het voorliggende ontwerp voorziet, in het kader van wat als sanitaire 
+maatregelen kunnen worden beschouwd.Wat betreft meer bepaald de beperking van het geluidsniveau 
+waarin artikel 3 van het ontwerp (ontworpen artikel 6, § 2, 14° ) voorziet, wordt verwezen naar 
+het voornoemde advies 69.305/AV.(32)De andere maatregelen die het ontwerp wil wijzigen, liggen 
+voorts binnen de werkingssfeer van andere materiële bevoegdheden die toekomen aan de federale overheid, 
+zoals die inzake de controle van de buitengrenzen.(33)VI. VORMVEREISTEN11. Aangezien 
+bij de wetsbepalingen die rechtsgrond bieden voor het voorliggende ontwerp de minister bevoegd voor Binnenlandse 
+Zaken niet gemachtigd wordt om af te wijken van de verplichte voorafgaande vormvereisten, moeten die 
+vormvereisten in ieder geval in acht genomen worden.In het bijzonder kunnen met betrekking 
+tot de vormvereisten de volgende opmerkingen worden gemaakt.12. Onder voorbehoud van wat is 
+uiteengezet in opmerking 9, brengt artikel 15, 2°,  4°  en 5°,  van het ontwerp in artikel 21 van het 
+ministerieel besluit van 28 oktober 2020, meer bepaald in de regeling met betrekking tot het Passenger 
+Locator Form, verscheidene wijzigingen aan die betrekking hebben op de verwerking van persoonsgegevens.Artikel 
+36, lid 4, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 `betreffende 
+de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende 
+het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming)', 
+gelezen in samenhang met artikel 57, lid 1, c), overweging 96 van die verordening en artikel 2, tweede 
+lid, van de wet van 30 juli 2018 `betreffende de bescherming van natuurlijke personen met betrekking 
+tot de verwerking van persoonsgegevens', voorziet in een verplichting om de toezichthoudende autoriteit, 
+in dit geval de Gegevensbeschermingsautoriteit bedoeld in de wet van 3 december 2017 `tot oprichting 
+van de Gegevensbeschermingsautoriteit', te raadplegen bij het opstellen van een voorstel voor een door 
+een nationaal parlement vast te stellen wetgevingsmaatregel, of een daarop gebaseerde regelgevingsmaatregel 
+in verband met verwerking.Het advies van de Gegevensbeschermingsautoriteit moet bijgevolg nog 
+worden ingewonnen vooraleer het ontwerp doorgang kan vinden.13. Het ontworpen artikel 6, § 
+2, eerste lid, 11°,  van het ministerieel besluit van 28 oktober 2020 (artikel 3 van het ontwerp) bevat 
+de voorwaarde dat de personeelsleden "een CE gemarkeerd chirurgisch mondmasker" dragen. De ontworpen 
+artikelen 6, § 2, derde lid, (artikel 3 van het ontwerp) en 8, § 1, derde lid, (artikel 
+5 van het ontwerp) verplichten "het gebruik van een CE gemarkeerde luchtkwaliteitsmeter (CO2)".De 
+gemachtigden verklaarden dat zowel de voorwaarde inzake de CE markering van de mondmaskers als het feit 
+dat het om chirurgische mondmaskers moet gaan, zal worden geschrapt.De vereisten inzake de 
+CE markering van de luchtkwaliteitsmeters lijken te moeten worden beschouwd als een technisch voorschrift 
+in de zin van artikel 1, lid 1, f), van richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad 
+van 9 september 2015 `betreffende een informatieprocedure op het gebied van technische voorschriften 
+en regels betreffende de diensten van de informatiemaatschappij'. Het opleggen van het gebruik van CE 
+gemarkeerde toestellen houdt immers het verbod in van het gebruik van andere, regelmatig in de handel 
+gebrachte producten die niet van die markering zijn voorzien.De wachtperiode van (minstens) 
+drie maanden vooraleer het ontworpen besluit kan worden genomen, waarin artikel 6, lid 1, van de richtlijn 
+voorziet, geldt evenwel niet, overeenkomstig lid 7 van dat artikel, als een lidstaat om dringende redenen 
+wegens een ernstige en onvoorziene situatie die verband houdt met de bescherming van (onder meer) de 
+gezondheid van mensen, op zeer korte termijn technische voorschriften moet uitwerken en deze onmiddellijk 
+daarop moet vaststellen en invoeren, zonder dat raadpleging mogelijk is. In dat geval is de mededeling 
+aan de Commissie nog steeds vereist; in de mededeling moet de reden voor de urgentie worden vermeld. 
+De Commissie spreekt zich dan zo spoedig mogelijk uit over de mededeling. Bij de aanmelding bij de Europese 
+Commissie moet bijgevolg de urgentie van de goedkeuring ervan worden uiteengezet ter verantwoording van 
+het niet in acht nemen van de voorgeschreven wachttermijn.14. Indien de aan de Raad van State 
+voorgelegde tekst ten gevolge van het vervullen van de voornoemde vormvereisten nog wijzigingen zou ondergaan,(34) 
+moeten de gewijzigde of toegevoegde bepalingen, ter inachtneming van het voorschrift van artikel 3, § 
+1, eerste lid, van de gecoördineerde wetten `op de Raad van State', aan de afdeling Wetgeving worden 
+voorgelegd.VII. ALGEMENE OPMERKINGENA. Inperking van grondrechten - evenredigheid 
+en gelijkheid15. De algemene vergadering van de afdeling Wetgeving heeft in het voornoemde 
+advies 69.253/AV herinnerd aan het volgende:"De afdeling Bestuursrechtspraak van de Raad van 
+State heeft in haar arrest nr. 249.904 van 24 februari 2021, nv Derby, het volgende geoordeeld:`Les 
+parties requérantes ne contestent pas que l'arrêté ministériel attaqué poursuit un objectif de santé 
+publique et qu'il s'agit là d'un objectif légitime. Ainsi que le relève le préambule de l'arrêté attaqué, 
+la pression sur les hôpitaux et sur la continuité des soins non COVID-19 demeure élevée, le risque pour 
+la santé publique persiste et des compromis doivent être faits. La prolongation de la mesure de fermeture 
+des bureaux de paris s'inscrit donc dans un ensemble de mesures qui emportent des restrictions à la liberté 
+de mouvement du public et aux entreprises. Ces mesures sont prises afin de protéger la santé de la population 
+dans des circonstances dangereuses. Elles ont toutes pour objectif de ralentir et de rendre gérable la 
+résurgence et la propagation exponentielle du coronavirus, compte tenu également de l'apparition et de 
+la circulation de variants. De la sorte, l'arrêté ministériel attaqué consacre un nouveau point d'équilibre 
+déterminé par la partie adverse, en tenant compte de l'évolution de la situation sanitaire et notamment 
+de l'évolution du nombre d'infections, des hospitalisations, du taux de positivité et du taux de reproduction, 
+afin de continuer à limiter la propagation du virus. S'il prévoit ainsi quelques assouplissements progressifs, 
+notamment pour les professions de contact non médicales ou les activités extérieures, il impose et maintient 
+encore de nombreuses autres restrictions afin d'atteindre cet équilibre. En ce sens, toutes les mesures 
+prévues par l'arrêté ministériel du 28 octobre 2020, tel que modifié notamment par l'arrêté ministériel 
+attaqué, forment un tout indivisible et indissociable.L'arrêté ministériel attaqué participe 
+clairement à la stratégie de la partie adverse fondée sur un équilibre permanent à trouver entre, d'une 
+part la prévention de nouvelles contaminations, la protection du fonctionnement des hôpitaux et du secteur 
+de la santé, et d'autre part, la sauvegarde de l'économie belge et le bien-être général de la population. 
+La partie adverse a opté, depuis plusieurs mois, pour une réouverture progressive de certains secteurs 
+au regard des exigences sanitaires et économiques. Le Ministre de l'Intérieur dispose d'un large pouvoir 
+d'appréciation discrétionnaire pour rechercher un équilibre entre des intérêts distincts et souvent conflictuels, 
+afin de parvenir à une décision qui sert l'intérêt général et il n'appartient pas au Conseil d'Etat de 
+substituer son appréciation à celle du Ministre sur la stratégie à suivre dans le cadre la gestion d'une 
+pandémie.(...)S'agissant du principe de proportionnalité, il convient de rappeler 
+que l'arrêté ministériel attaqué consacre un nouveau point d'équilibre tenant compte de l'évolution de 
+la situation sanitaire et notamment de l'évolution du nombre d'infections, des hospitalisations, du taux 
+de positivité et du taux de reproduction afin de continuer à limiter la propagation du virus et que si 
+l'arrêté attaqué prévoit quelques assouplissements progressifs notamment pour les professions de contact 
+non médicales ou les activités extérieures, il impose et maintient encore de nombreuses autres restrictions 
+afin d'atteindre cet équilibre. Toutes les mesures prévues par l'arrêté ministériel du 28 octobre 2020, 
+tel que modifié notamment par l'arrêté ministériel attaqué, forment donc un tout indivisible et indissociable 
+et c'est au regard de cet ensemble qu'il convient d'apprécier la proportionnalité des mesures.Les 
+parties requérantes ne contestent pas que l'arrêté ministériel attaqué poursuit un objectif de santé 
+publique et qu'il s'agit là d'un objectif légitime. S'il est exact que la santé publique doit s'entendre 
+aussi bien de la santé physique que de la santé mentale, il ressort du préambule de l'arrêté attaqué 
+que la partie adverse a bien eu égard, dans le cadre de son appréciation de la proportionnalité de l'ensemble 
+de ces mesures, à la problématique de la santé mentale puisqu'elle décide de procéder progressivement 
+à la réouverture des professions de contact non médicales dont les prestations de service pourront précisément 
+contribuer au bien-être mental des citoyens. Contrairement à ce que soutiennent les parties requérantes, 
+la partie adverse n'a, dès lors, pas, lors de son appréciation, négligé la santé mentale des citoyens'.Bij 
+het voorliggende ontwerp worden een aantal maatregelen die opgelegd waren bij het ministerieel besluit 
+van 28 oktober 2020 versoepeld, maar worden ook verschillende beperkingen gehandhaafd. Op die wijze wordt 
+met het voorliggende ontwerp ernaar gestreefd een nieuw evenwicht te vinden tussen enerzijds het voorkomen 
+van nieuwe besmettingen en het beschermen van de werking van de ziekenhuizen en van de gezondheidssector, 
+en anderzijds het vrijwaren van de Belgische economie en het algemeen welzijn van de bevolking.De 
+adviesaanvrager zal in het licht van het grondwettelijk gewaarborgde gelijkheidsbeginsel in staat moeten 
+zijn om aan te tonen dat de onderscheiden behandelde categorieën van personen, met name in artikel 2 
+van het ontwerp, in een redelijk verband staan met de nagestreefde doelstellingen via objectieve en pertinente 
+middelen."16. Dezelfde algemene opmerking(35) kan, mutatis mutandis, herhaald worden met betrekking 
+tot het voorliggende ontwerp. De steller van het ontwerp zal dus vanuit het oogpunt van de bij de artikelen 
+10 en 11 van de Grondwet gewaarborgde beginselen van gelijkheid en non discriminatie niet alleen de verschillen 
+in behandeling moeten kunnen verantwoorden die het ontwerp instelt tussen vergelijkbare situaties, maar 
+eveneens, en in voorkomend geval, verantwoorden dat het ontwerp situaties die nochtans niet vergelijkbaar 
+zijn, op identieke wijze behandelt.(36) 17.1. Zo kunnen, zonder dat hierbij volledigheid wordt 
+betracht, verscheidene verschillen in behandeling worden belicht die de steller van het ontwerp moet 
+kunnen verantwoorden.17.2. Vooreerst volgt uit het ontworpen artikel 6, § 2, (artikel 
+3 van het ontwerp) dat de bedrijven die behoren tot de horecasector, recepties of banketten mogen organiseren 
+voor maximaal 50 klanten - of meer als het gaat om recepties of banketten die georganiseerd worden op 
+een open terras (ontworpen artikel 6, § 2, vierde lid) - met dien verstande evenwel dat aan de 
+in het ontworpen artikel 6, § 2, eerste lid, vermelde voorwaarden wordt voldaan. Die voorwaarden 
+worden echter niet opgelegd, maar louter aanbevolen, als het gaat om dienstverlening aan huis.Zoals 
+in de aanhef gestipuleerd wordt, kunnen "bijvoorbeeld ook recepties en banketten opnieuw (...) plaatsvinden", 
+moeten "indien professionele horeca-activiteiten worden uitgeoefend, specifieke regels (...) worden nageleefd, 
+behalve bij dienstverlening aan huis" en wordt "de naleving van die specifieke regels in de andere gevallen 
+uiterst sterk (...) aanbevolen".Wanneer het banket of de receptie aan huis plaatsvindt - al 
+dan niet met de medewerking van een horecabedrijf -, zijn de enige toepasselijke voorwaarden die welke 
+geformuleerd worden in het ontworpen artikel 15, § 7, (artikel 11 van het ontwerp): het banket 
+of de receptie mag maximaal 50 aanwezigen tellen, moet buiten plaatsvinden en moet om uiterlijk 23.30 
+uur eindigen.Aldus opgevat, doet het voorliggende ontwerp een verschil in behandeling ontstaan 
+naar gelang de dienstverlening (banket of receptie) die wordt geleverd door een bedrijf van de horecasector 
+al dan niet aan huis plaatsvindt.Op het verzoek een pertinente verantwoording te geven voor 
+het aldus ontstane verschil in behandeling hebben de gemachtigden het volgende geantwoord:"Bij 
+het uitwerken van de maatregelen hebben we getracht een helder en consistent geheel van maatregelen uit 
+te werken, rekening houdend met de epidemiologische situatie, zonder de haalbaarheid en opvolging hiervan 
+uit het oog te verliezen."Uit het antwoord van de gemachtigden kan evenwel niet worden opgemaakt 
+om welke redenen de in acht te nemen regels, in hun geheel, alleen verplicht zijn in het kader van professionele 
+horeca-activiteiten die elders dan aan huis plaatsvinden, aangezien de geleverde diensten (namelijk de 
+organisatie van banketten en recepties) a priori in beide gevallen vergelijkbaar zijn.De steller 
+van het ontwerp moet op meer overtuigende wijze kunnen aantonen dat, voor elk van de toepasselijke voorwaarden, 
+dat verschil in behandeling redelijk verantwoord is.17.3. Bij het ontworpen artikel 8, § 
+1, derde lid, (artikel 5 van het ontwerp) worden de fitnesscentra verplicht een specifieke luchtkwaliteitsmeter 
+te installeren en te gebruiken.Die verplichting geldt eveneens voor de horecasector, overeenkomstig 
+het ontworpen artikel 6, § 2, derde lid, (artikel 3 van het ontwerp).Ze geldt evenwel 
+niet voor de andere inrichtingen voor "indoorsport", noch voor inrichtingen die behoren tot de cultuur-, 
+feest-, recreatie- en evenementensector.Op de vraag een relevante verantwoording te geven voor 
+het aldus ontstane verschil in behandeling hebben de gemachtigden het volgende geantwoord:"Voor 
+wat betreft de fitness geldt dat dit een activiteit betreft waarbij heel veel aërosolen zich verspreiden 
+gezien de aard van de activiteit (die zonder mondmasker doorgang vindt). In de horeca geldt dat de aanwezigen 
+veel praten, eten en drinken (zonder mondmasker) waardoor zich eveneens veel aërosolen zich kunnen verspreiden, 
+zeker gezien daarbij ook alcohol kan worden geconsumeerd.Voor wat betreft bv. de inrichtingen 
+van de cultuursector geldt dat het mondmasker moet gebruikt worden (behalve bij eten of drinken), waardoor 
+de problematiek van de verspreiding van de aërosolen zich daar veel minder stelt."De gemachtigden 
+geven in hun antwoord echter niet aan om welke redenen de beoogde maatregelen alleen van toepassing zijn 
+op de fitnesscentra en niet op andere zalen voor "indoorsport" die geacht zouden kunnen worden zich minstens 
+in een vergelijkbare situatie te bevinden. De gemachtigden preciseren evenmin, behoudens het antwoord 
+in verband met de culturele sector, om welke redenen de beoogde maatregelen enkel van toepassing zijn 
+op de horecasector en niet op andere feest-, recreatie- en evenementensectoren die geacht zouden kunnen 
+worden zich minstens in een vergelijkbare situatie te bevinden.De steller van het ontwerp moet 
+op meer overtuigende wijze kunnen aantonen dat dat verschil in behandeling redelijk verantwoord is.17.4.1. 
+Het ontworpen artikel 15, § 3, (artikel 11 van het ontwerp) bepaalt:" § 3. De 
+professionele sportieve wedstrijden en de professionele sporttrainingen kunnen plaatsvinden zonder beperking 
+van het aantal deelnemers.Een maximum van 50 personen binnen of 100 personen buiten mag deelnemen 
+aan niet-professionele sportieve wedstrijden en niet-professionele sporttrainingen.In afwijking 
+van het tweede lid, zijn de niet-professionele sportieve wedstrijden van gevechtsporten verboden."17.4.2. 
+Daaruit volgt vooreerst dat er geen beperking geldt van het aantal deelnemers aan professionele sportwedstrijden 
+en -trainingen, terwijl dat aantal beperkt is voor niet-professionele sportwedstrijden en -trainingen.Op 
+het verzoek een relevante verantwoording te geven voor het aldus ontstane verschil in behandeling hebben 
+de gemachtigden het volgende geantwoord:"Er worden graduele versoepelingen ingevoerd waarbij 
+het opportuun is om in eerste instantie meer toe te laten voor professionele sporters."Op basis 
+van het antwoord van de gemachtigden is het, in het licht van de gezondheidsdoelstelling, evenwel niet 
+duidelijk welke motieven het bewerkstelligde verschil in behandeling verantwoorden.De steller 
+van het ontwerp moet bijgevolg kunnen aantonen dat dat verschil in behandeling redelijk verantwoord is.17.4.3. 
+Vervolgens blijkt dat de niet-professionele wedstrijden voor gevechtsporten, in tegenstelling tot die 
+voor andere sportdisciplines, verboden zijn.Op het verzoek een relevante verantwoording te 
+geven voor het aldus ontstane verschil in behandeling hebben de gemachtigden het volgende geantwoord:"Gevechtssporten 
+zijn bij uitstek sporten waarbij er zeer intens fysiek contact is, hetgeen nog steeds een hoge mate van 
+besmettingsgevaar inhoudt. Naarmate een hogere graad van vaccinatie bereikt zal worden, zal de uitzondering 
+verdwijnen. Er is een onderscheid met de professionele beoefening van gevechtssporten, omdat professionele 
+sporters aan een zeer uitgebreid en intensief testschema onderworpen worden, zowel voor als na de wedstrijden. 
+Niet-professionele sporten kennen dergelijk schema niet. Daarnaast worden niet-professionele trainingen 
+voor gevechtssporten inderdaad toegelaten, omdat een training zich binnen dezelfde sportvereniging afspeelt 
+en dus binnen dezelfde groep van sporters. Dit in tegenstelling met wedstrijden, waar sporters die tot 
+verschillende clubs behoren, zich met elkaar vermengen, hetgeen een duidelijk groter risico op (ongecontroleerde) 
+verspreiding van besmetting inhoudt, gezien de clubs die met elkaar in competitie treden vaak ook nog 
+geografisch niet tot eenzelfde regio behoren."De gemachtigden geven in hun antwoord evenwel 
+niet aan om welke redenen het beoogde verbod alleen van toepassing is op de gevechtsporten en niet op 
+andere sportdisciplines waarbij er eveneens intens fysiek contact is (rugby of American football bijvoorbeeld) 
+en die geacht zouden kunnen worden zich minstens in een vergelijkbare situatie te bevinden.De 
+steller van het ontwerp moet bijgevolg kunnen aantonen dat dat verschil in behandeling redelijk verantwoord 
+is.17.5. Het ontworpen artikel 15, § 4, vijfde lid, 8°  en 9°  (artikel 11 van het ontwerp) 
+strekt ertoe "fysieke aanrakingen tussen personen" (behalve tussen de leden van eenzelfde huishouden), 
+alsook "fysieke aanrakingen van voorwerpen door verschillende personen" te verbieden tijdens de activiteiten 
+vermeld in paragraaf 4.Een dergelijk verbod wordt evenwel niet opgelegd voor de overige activiteiten 
+die vermeld worden in artikel 15 of in andere artikelen van voorliggend ontwerp.Op het verzoek 
+een afdoende verantwoording te geven voor het verschil in behandeling dat aldus ontstaat, hebben de gemachtigden 
+het volgende geantwoord:"Het verbod van het aanraken van voorwerpen kan worden verantwoord 
+vanuit epidemiologisch standpunt, waarbij het niet aangewezen is dat een voorwerp (bv. een kruis) door 
+alle deelnemers aan een eredienst zou worden aangeraakt.Het verbod op fysieke aanrakingen tussen 
+personen zoals thans ontworpen, zou bijkomend kunnen worden genuanceerd door een verwijzing op te nemen 
+naar de groepen van 4, waarbij dan geldt dat een groep van 4 tijdens een eredienst onderling niet de 
+afstand hoeft te houden."Wat het verbod betreft op fysieke aanrakingen van voorwerpen door 
+verschillende personen, wordt de maatregel in het antwoord van de gemachtigden weliswaar vanuit epidemiologisch 
+standpunt verantwoord, maar in dat antwoord wordt echter niet gepreciseerd om welke redenen dat verbod 
+alleen geldt voor de activiteiten vermeld in paragraaf 4 van artikel 15.De steller van het 
+ontwerp moet bijgevolg kunnen aantonen dat dit verschil in behandeling redelijk verantwoord is.Wat 
+het verbod op fysieke aanrakingen betreft, moet de bepaling in de door de gemachtigden voorgestelde zin 
+herzien worden.17.6. Ten slotte worden in diverse bepalingen van voorliggend ontwerp verschillende 
+grenzen vastgesteld wat betreft het maximumaantal personen dat aan de daarin beoogde activiteiten mag 
+deelnemen. Dat is bijvoorbeeld het geval met de betogingen die op de openbare weg plaatsvinden, waarbij 
+het maximumaantal vastgesteld wordt op 100 deelnemers, terwijl tot 200 personen mogen deelnemen aan activiteiten 
+betreffende erediensten die buiten georganiseerd worden (ontworpen artikel 15, § 4, derde lid), 
+terwijl in artikel 15, § 5, tweede lid, bepaald wordt dat tot 400 personen evenementen, culturele 
+of andere voorstellingen, congressen of nog sportieve wedstrijden en trainingen mogen bijwonen, wanneer 
+die buiten georganiseerd worden.De steller van het ontwerp moet kunnen aantonen dat die situaties 
+in feite niet te vergelijken zijn, of, wanneer ze wel degelijk te vergelijken zijn, dat het tot stand 
+gebrachte verschil in behandeling van die situaties redelijk verantwoord is.B. Uitzonderingen 
+in verband met "de aard van de activiteit".18. Verscheidene bepalingen(37) van voorliggend 
+ontwerp strekken ertoe af te wijken van bepaalde gezondheidsvoorschriften (naleving van de mondmaskerplicht, 
+van de regels inzake social distancing en van het samenkomen in groepen van maximaal vier personen) wanneer 
+dat "onmogelijk is omwille van de aard van de activiteit".Gevraagd om uitleg daarover hebben 
+de gemachtigden de volgende voorbeelden gegeven:"`De aard van de activiteit' wil zeggen dat 
+het niet nodig is om de afstand van 1,5 meter te respecteren of om een mondmasker te dragen indien dit 
+het onmogelijk of bijzonder moeilijk maakt om de activiteit uit te oefenen.Dit heeft betrekking 
+op bijvoorbeeld een zanger of zangeres die tijdens een optreden mag zingen zonder mondmasker of een zwemmer 
+die tijdens het zwemmen geen mondmasker moet dragen.Dit geldt bijvoorbeeld ook voor voetballers 
+die tijdens het spelen van een wedstrijd de afstand van 1,5 meter niet kunnen respecteren. (...)Er 
+kan van het maximum aantal van 4 personen worden afgeweken wanneer er bijvoorbeeld een zaaltje wordt 
+gehuurd om een voetbalmatch te spelen of een scoutsactiviteit te doen. In deze gevallen is het niet de 
+bedoeling dat men groepjes van 4 moet vormen. (...)Men mag afwijken van het maximum aantal 
+van 4 personen indien dit onmogelijk is omwille van de aard van de activiteit. `Tenzij dit onmogelijk 
+is omwille van de aard van de activiteit' laat ruimte voor afwijkingen. Bij een scoutskamp zal dit inderdaad 
+niet mogelijk zijn, maar bv. bij een gegidste wandeling door de stad wel."De voorbeelden die 
+de gemachtigden gegeven hebben en die niet meer omvatten dan het bovenstaande, maken het nog niet mogelijk 
+om de draagwijdte van het begrip "aard van de activiteit" nauwkeurig genoeg af te bakenen.Gelet 
+op het feit dat die draagwijdte medebepalend is voor de vraag of van de sanitaire maatregelen afgeweken 
+kan worden en dat sancties opgelegd kunnen worden ingeval men zich niet aan dat begrip houdt, is het 
+raadzaam een duidelijkere definitie te geven van de gevallen waarvoor de afwijking zou gelden.Het 
+verdient hoe dan ook aanbeveling om die voorbeelden, samen met andere voorbeelden naargelang van de activiteiten 
+in kwestie, in de aanhef op te nemen om zoveel mogelijk te vermijden dat discussies ontstaan over de 
+vraag of van deze of gene voorwaarde afgeweken kan worden wegens de vermeende onmogelijkheid om daaraan 
+te voldoen, gelet op "de aard van de activiteit" in kwestie.C. Het begrip "social distancing"19. 
+In verscheidene bepalingen van het ontwerp wordt het begrip "social distancing"(38) gehanteerd zonder 
+dat het gedefinieerd wordt, terwijl daaraan rechtsgevolgen verbonden zijn, waaronder enkele van de voorwaarden 
+voor de toepassing van de strafbepaling van het ministerieel besluit van 28 oktober 2020, zoals die bij 
+het ontwerp gewijzigd zouden worden. Noch in het te wijzigen besluit, waarin dat dit begrip reeds gebruikt 
+wordt, noch in dit ontwerp wordt daarvan een definitie gegeven.(39)Hoewel in een aantal van 
+die bepalingen gepreciseerd wordt dat onder dit begrip "in het bijzonder het behoud van een afstand van 
+1,5 meter" tussen de betrokken personen of groepen verstaan wordt,(40) blijkt uit een dergelijk dispositief, 
+zoals het geredigeerd is, niet duidelijk dat het begrip "social distancing" alleen door dat criterium 
+gedefinieerd wordt. De onzekerheid vloeit voort uit het feit dat dit criterium niet systematisch in herinnering 
+gebracht wordt en dat daarnaar slechts "in het bijzonder" ("en particulier" in de Franse tekst) verwezen 
+wordt, waardoor de indruk ontstaat dat eventueel nog andere criteria bepalend zouden kunnen zijn voor 
+het begrip "social distancing", terwijl het gebruik van een uitdrukking als "namelijk" die twijfel zou 
+wegnemen.Het ontwerp dient aangevuld te worden met een bepaling waarbij in artikel 1 van het 
+ministerieel besluit van 28 oktober 2020 een definitie van het begrip "social distancing" opgenomen wordt. 
+Afhankelijk van de definitie die aldus in het ministerieel besluit opgenomen zal worden, dient de steller 
+van het ontwerp na te gaan of het bijgevolg raadzaam is om wijzigingen aan te brengen in de passages 
+van de ontworpen bepalingen waarin het begrip "social distancing" gevolgd wordt een verwijzing naar het 
+criterium van de afstand van 1,5 meter tussen de betrokken personen of groepen die dan eventueel overbodig 
+geworden zal zijn, en eveneens in de overeenkomstige passages van de huidige tekst van het ministerieel 
+besluit van 28 oktober 2020 die bij dit ontwerp niet gewijzigd worden.D. Verwijzingen naar 
+protocollen, gidsen, verklaringen en richtlijnen20.1. In de ontworpen artikelen 6, § 
+2, eerste lid, inleidende zin (artikel 3 van het ontwerp), 8, § 1, eerste lid, inleidende zin 
+(artikel 5 van het ontwerp), 15, § 2, tweede lid, inleidende zin (artikel 11 van het ontwerp) 
+en 15, § 4, vijfde lid, inleidende zin (artikel 11 van het ontwerp), wordt gewag gemaakt van regels 
+die moeten worden nageleefd "onverminderd de toepasselijke protocollen". In het ontworpen artikel 15, 
+§ 4, derde lid, 2°,  en § 5, eerste en tweede lid (artikel 11 van het ontwerp) wordt bepaald 
+dat "het toepasselijke protocol" moet worden nageleefd.Op een vraag aangaande de juridische 
+draagwijdte van die protocollen gaven de gemachtigden het volgende antwoord:"De protocollen 
+en gidsen vormen een indicatief beoordelingskader. De protocollen en gidsen kunnen enkel verordenende 
+maatregelen, zoals bepaald in het MB, concretiseren, maar zijn zelf niet verordenend. Iemand kan dus 
+enkel worden gesanctioneerd indien de maatregelen die liggen vervat in het MB niet worden gerespecteerd. 
+(...) Artikel 29 van het huidige ministerieel besluit bepaalt dat bepalingen van een protocol of gids 
+die minder strikt zijn dan de regels van het ministerieel besluit buiten toepassing worden gelaten."20.2. 
+Dergelijke verwijzingen naar protocollen komen reeds op verscheidene plaatsen voor in de huidige tekst 
+van het ministerieel besluit van 28 oktober 2020. In advies 69.253/AV heeft de algemene vergadering van 
+de afdeling Wetgeving reeds het volgende opgemerkt over de juridische draagwijdte van de protocollen:"20.2. 
+(...) Hoewel de gemachtigde de verordenende kracht van de protocollen ontkent, blijkt dat deze wel verordenende 
+bepalingen `kunnen concretiseren'. Bovendien valt niet in te zien waarom het ontworpen artikel 29, eerste 
+lid, van het ministerieel besluit van 28 oktober 2020 bepalingen van protocollen (of gidsen) buiten toepassing 
+zou moeten laten indien deze toch niet abstract en algemeen verbindend zouden zijn. Vooral de mogelijkheid 
+in het ontworpen artikel 29, tweede lid, van het ministerieel besluit van 28 oktober 2020 om aan de hand 
+van protocollen af te wijken van bepalingen uit het ministerieel besluit voor proef- en pilootprojecten 
+toont aan dat er toch een verordenende waarde uitgaat van deze protocollen. Ook elders stelt de gemachtigde 
+dat `de Economische Inspectie controleert [...] op de naleving van maatregelen voortvloeiende uit het 
+MB (en desgevallend op geconcretiseerde maatregelen voortvloeiende uit de sectorprotocollen)'. Er dient 
+[ten slotte] ook [te] worden opgemerkt dat de in het ontworpen artikel 8, § 4, eerste lid, 2°, 
+ 3°  en 4°,  en tweede lid, 2°  (artikel 2 van het ontwerp) bepaalde uitzonderingen aan het verbod om 
+bepaalde dienstenprestaties te verrichten worden vergezeld van een referentie aan `de naleving van de 
+modaliteiten voorzien in het toepasselijke protocol' en dat de definitie zelf van het begrip `protocol' 
+in artikel 1, 3°,  van het ministeriel besluit van 28 oktober 2020 melding maakt van de `toe te passen 
+regels'.20.3. Die ambivalentie dient te worden opgeheven. Van tweeën immers één: ofwel hebben 
+de protocollen geen verorden[en]d karakter maar dan zijn de concretiseringen die ze inhouden niet bindend, 
+kunnen de protocollen niet afwijken van het ministerieel besluit, en kan de naleving ervan niet worden 
+gecontroleerd en gehandhaafd door het instellen van een strafvordering bij niet-naleving ervan; ofwel 
+zijn de protocollen wel verordenend en zijn de maatregelen die ze inhoudend wel bindend, doch dan dienen 
+deze maatregelen te worden opgenomen in besluiten van de daartoe bevoegde overheid."Deze opmerking, 
+die door de algemene vergadering werd herhaald in advies 69.305/AV,(41) geldt ook voor de thans ontworpen 
+bepalingen. Overigens volstaat het niet, zoals de gemachtigden voorhouden, dat de niet-naleving van die 
+protocollen niet tot strafrechtelijke sancties kan leiden, opdat ze daadwerkelijk geen verordenend karakter 
+hebben. Evenmin volstaat artikel 29 van het ministerieel besluit van 28 oktober 2020, dat inhoudt dat 
+bepalingen van een protocol of een gids die minder strikt zijn dan de regels van dit besluit, buiten 
+toepassing worden gelaten, om te kunnen besluiten dat ze niet verordenend zijn. Meer zelfs, verscheidene 
+van de thans ontworpen bepalingen komen erop neer dat die protocollen los van het ministerieel besluit 
+van 28 oktober 2020 een eigen geldingskracht hebben, want anders zou het gebruik van de term "onverminderd" 
+zinloos zijn.De Raad van State moet dan ook vaststellen dat de door hem bekritiseerde ambivalentie 
+nog niet is verholpen, wel integendeel.20.3. Deze opmerkingen gelden evenzeer voor de "Gids 
+voor de opening van de handel",(42) waarnaar wordt verwezen in het ontworpen artikel 13, derde lid, (artikel 
+9 van het ontwerp), alsook voor de "CIRM-capaciteit" waarvan gewag wordt gemaakt in het ontworpen artikel 
+15, § 5, eerste lid, (artikel 11 van het ontwerp - zie daarover ook opmerking 40).21.1. 
+Luidens het ontworpen artikel 2, § 1bis (artikel 1, 2°,  van het ontwerp) mogen de "ondernemingen, 
+verenigingen en diensten voor de personen werkzaam in de onderneming, ongeacht de aard van hun arbeidsrelatie, 
+waarvoor het telethuiswerk verplicht is, terugkeermomenten inplannen op vrijwillige basis, mits naleving 
+van de regels bedoeld in paragraaf 2 en onder de strikte voorwaarden die zijn opgesomd in de verklaring 
+van 7 mei 2021 van de sociale partners van de Hoge Raad voor Preventie en Bescherming op het Werk en 
+de Nationale Arbeidsraad [over de terugkeermomenten voor telewerkers]".Gevraagd naar de juridische 
+waarde van deze verklaring van 7 mei 2021 verduidelijkten de gemachtigden dat het een verklaring betreft 
+van alle sociale partners in de Hoge Raad voor Preventie en Bescherming op het Werk en de Nationale Arbeidsraad,(43) 
+die door de opname van de verwijzing ernaar in het ministerieel besluit van 28 oktober 2020 een "rechtsgrond" 
+zou krijgen.21.2. Een dergelijke verklaring kan echter geen juridisch verbindende kracht krijgen 
+door de loutere (zelfs statische) verwijzing ernaar in een rechtsregel, al was het maar omdat de tekst 
+ervan niet is bekendgemaakt overeenkomstig het algemeen rechtsbeginsel dat is verwoord in artikel 190 
+van de Grondwet.Bovendien is de betrokken verklaring niet geformuleerd als een rechtsregel, 
+zoals onder meer blijkt uit de passage waarin wordt vermeld dat "[d]e sociale partners vragen dat de 
+bevoegde overheden rekening houden met deze bovenvermelde verklaring wanneer ze zouden beslissen om terugkeermomenten 
+toe te laten voor deze werknemers die aan het verplicht telewerk zijn onderworpen". Daarenboven verwijst 
+de verklaring van 7 mei 2021 op haar beurt naar documenten zoals "de generieke gids, eventueel aangevuld 
+met maatregelen van de sectorgids".De steller van het ontwerp moet dan ook de door hem beoogde 
+voorwaarden voor het terugkeermoment opnemen in het ontwerp zelf, veeleer dan te volstaan met een verwijzing 
+naar een verklaring waarin die voorwaarden worden vermeld op een wijze die niet strookt met de formulering 
+van rechtsregels.Wat betreft de vermelding van de "generieke gids" en de "sectorgids" wordt 
+verwezen naar de opmerkingen 20.1 tot 20.3.22.1. Krachtens de ontworpen artikelen 8, § 
+1, eerste lid, 4°,  (artikel 5 van het ontwerp) en 15, § 4, vijfde lid, 4°,  (artikel 11 van het 
+ontwerp) organiseert de inrichting zich zodanig of moet de activiteit respectievelijk zo worden georganiseerd"dat 
+samenscholingen worden vermeden en dat de regels van de social distancing kunnen worden gerespecteerd, 
+eveneens voor wat betreft de personen die buiten de inrichting wachten, desgevallend overeenkomstig de 
+richtlijnen van de bevoegde overheid".Gevraagd naar de juridische waarde van deze richtlijnen, 
+antwoordden de gemachtigden:"Elke bevoegde overheid kan binnen het kader van zijn bevoegdheden 
+welbepaalde (niet-bindende) instructies geven om de activiteiten op zo een manier te organiseren dat 
+samenscholingen worden vermeden en dat de regels van social distancing kunnen worden gerespecteerd eveneens 
+voor wat betreft de personen die buiten de inrichting of de gebouwen wachten. (bijvoorbeeld grondmarkeringen)Weliswaar 
+kunnen de lokale overheden (op basis van artikelen 133 en 135, § 2 van de Nieuwe Gemeentewet van 
+24 juni 1988) (bindende) politiemaatregelen nemen ter vrijwaring van de openbare orde. Art. 135, § 
+2, 5°  preciseert bovendien de bevoegdheid in het kader van het beheersen van epidemieën: `5°  het nemen 
+van passende maatregelen om rampen en plagen, zoals brand, epidemieën en epizoötieën te voorkomen en 
+het verstrekken van de nodige hulp om ze te doen ophouden;'".22.2. Indien het daadwerkelijk 
+gaat om niet-bindende instructies, zoals de gemachtigden lijken voor te houden, rijst de vraag naar de 
+juridische meerwaarde van de verwijzing naar dergelijke richtlijnen in een normatief ministerieel besluit. 
+Meer zelfs, een dergelijke verwijzing kan dan leiden tot rechtsonzekerheid.Indien daarentegen 
+wordt gerefereerd aan bindende politiemaatregelen die lokale overheden kunnen nemen, is de verwijzing 
+ernaar zinloos, omdat die maatregelen uit zichzelf toepasselijk zijn en moeten worden toegepast naast 
+de bepalingen van het ministerieel besluit van 28 oktober 2020.VIII. ONDERZOEK VAN HET ONTWERPDISPOSITIEFArtikel 
+123.1. Het is niet duidelijk wat het toepassingsgebied is van het ontworpen artikel 2, § 
+1 en § 1bis.23.2. Zo bijvoorbeeld is het de bedoeling dat het ontworpen artikel 2, § 
+1, eerste lid van toepassing is op"ondernemingen, verenigingen en diensten, met inbegrip van 
+de handelszaken, private en publieke bedrijven en diensten die noodzakelijk zijn voor de bescherming 
+van de vitale belangen van de Natie en de behoeften van de bevolking bedoeld in de bijlage 1 van dit 
+besluit".Ten opzichte van het huidige artikel 2, § 1, eerste lid, van het ministerieel 
+besluit van 28 oktober 2020 worden dus de volgende woorden toegevoegd: "met inbegrip van de handelszaken, 
+private en publieke bedrijven en diensten die noodzakelijk zijn voor de bescherming van de vitale belangen 
+van de Natie en de behoeften van de bevolking bedoeld in de bijlage 1 van dit besluit".Op een 
+vraag in verband met de draagwijdte van die toevoeging ten opzichte van het huidige artikel 2, § 
+1, eerste lid, van het ministerieel besluit van 28 oktober 2020, hebben de gemachtigden de volgende uitleg 
+verstrekt:"Neen, er is geen verstrenging. Ook in het huidige MB wordt geen onderscheid gemaakt 
+voor het verplichten van telewerk tussen essentiële en niet-essentiële sectoren: telewerk is overal verplicht 
+tenzij dit onmogelijk is omwille van de aard van de functie of de continuïteit van de bedrijfsvoering, 
+de activiteiten of de dienstverlening. Zo staat het ook op de info coronavirus FAQ van het crisiscentrum 
+https://www.info-coronavirus.be/nl/faq/ (werk en economie, eerste vraag).Naar aanleiding van 
+de SIOD-flitscontroles (januari - februari 2021), specifiek gericht op de naleving van de telewerkverplichting 
+kwamen de eerste signalen binnen dat de bestaande formulering/ordening van de alinea's in paragraaf 1 
+van artikel 2 tot interpretatie-discussies leidde. Eind april werd bijzonder duidelijk dat de interpretatie 
+dat ondernemingen en overheidsdiensten die als essentieel worden beschouwd, niet verplicht zouden zijn 
+om de telewerk-verplichting (maximaal) na te leven, aan terrein won; zodat een verduidelijking nodig 
+was. Het betreft dus geen verstrenging maar een verduidelijking."23.3. In de volgende leden 
+van het ontworpen artikel 2, § 1, is er daarentegen enkel nog sprake van "de onderneming" of "het 
+bedrijf" en niet van verenigingen of diensten.Hetzelfde geldt met betrekking tot het ontworpen 
+artikel 2, § 1bis, waarvan het eerste lid van toepassing is op "de ondernemingen, verenigingen 
+en diensten", terwijl in het tweede en het derde lid enkel nog sprake is van "de onderneming".Zoals 
+de tekst telkens is gesteld, is het ook niet duidelijk of alle openbare diensten bedoeld worden.Op 
+een vraag daarover hebben de gemachtigden het volgende geantwoord:"[w]e stellen voor het volgende 
+toe te voegen in §  1bis: `tous les entreprises, associations et services, y compris les commerces, 
+entreprises et services privés et publics qui sont nécessaires à la protection des besoins vitaux de 
+la Nation et des besoins de la population visés à l'annexe 1[ère] au présent arrêté'".Het antwoord 
+van de gemachtigden maakt het evenwel niet mogelijk om uit te maken wat juist het toepassingsgebied is 
+van het ontworpen artikel 2, § 1 en § 1bis.Ter wille van de rechtszekerheid dienen 
+de verschillende leden duidelijker gesteld te worden. Indien nodig, dient er een generieke omschrijving 
+gegeven te worden van de personen voor wie telewerk verplicht is.Hoe dan ook moet de terminologie 
+gebruikt in de Nederlandse tekst van het ontwerp eenvormig gemaakt worden. Zo wordt immers het Franse 
+begrip "entreprise" nu eens met het woord "onderneming(-en)" en dan weer met het woord "bedrij(f)(-ven)" 
+weergegeven.24. Het ontworpen artikel 2, § 1bis, eerste lid, voorziet in de mogelijkheid 
+dat personen voor wie telewerk verplicht is "op vrijwillige basis" terugkeermomenten kunnen inplannen.Op 
+de vraag wat de draagwijdte is van de bewoordingen "op vrijwillige basis" hebben de gemachtigden het 
+volgende geantwoord:"Cela signifie que le travailleur et l'employeur doivent s'accorder sur 
+ce retour, il ne peut être imposé ni par le travailleur ni par l'employeur.Aangezien deze terugkeermomenten 
+in eerste instantie worden georganiseerd om een mogelijkheid te bieden aan werknemers op wie de lange 
+periode van verplicht telewerk mentaal zwaar weegt, is het vrijwillige karakter voor alle werknemers 
+belangrijk.Pas in juli verdwijnt, indien de epidemische situatie het zal toelaten, het verplicht 
+karakter van het telewerk. De maand juni wordt nu dus beschouwd als een overgangsperiode.Vrijwilligheid 
+in hoofde van de werknemer betekent dat hij/zij het aanbod van de werkgever die een terugkeermoment organiseert, 
+kan weigeren".De ontworpen bepaling moet bijgevolg in die zin worden verduidelijkt. Zo zouden 
+de woorden "op vrijwillige basis" bijvoorbeeld vervangen kunnen worden door de woorden "in onderling 
+overleg", waarmee de wederzijdse instemming van beide partijen duidelijker tot uiting wordt gebracht.25. 
+Luidens het ontworpen artikel 2, § 1bis, tweede lid, mag per dag maximaal 20% van de personen 
+werkzaam in de onderneming tegelijk op de arbeidsplaats aanwezig zijn.Het begrip "onderneming" 
+wordt in artikel 1, 1°,  van het ministerieel besluit van 28 oktober 2020 gedefinieerd als "elke natuurlijke 
+of rechtspersoon die op duurzame wijze een economisch doel nastreeft".Op de vraag of bij de 
+toepassing van dat percentage geen rekening gehouden moet worden met ondernemingen met meer vestigingseenheden, 
+hebben de gemachtigden het volgende geantwoord:"Inderdaad. We stellen voor `op de arbeidsplaats' 
+ter vervangen door `per vestigingseenheid'."De ontworpen bepaling dient bijgevolg in die zin 
+aangepast te worden.Artikel 226. Zoals artikel 2, 6°,  van het ontwerp nu is geredigeerd, 
+zijn groepen van meer dan twee personen toegestaan voor zover ze behoren tot hetzelfde huishouden of 
+voor zover het personen betreft die nood hebben aan begeleiding. Er wordt echter niet bepaald dat de 
+begeleider deel kan uitmaken van die groep.Op een vraag hierover hebben de gemachtigden de 
+volgende nieuwe formulering voorgesteld:"Mogelijke herformulering: `De consumenten mogen worden 
+ontvangen in groepen van maximum twee personen, kinderen tot en met 12 jaar niet meegeteld. Groepen van 
+meer dan twee personen zijn toegestaan voor zover ze behoren tot hetzelfde huishouden. De personen die 
+nood hebben aan begeleiding kunnen worden vergezeld door maximum één extra persoon.'."Ter wille 
+van de rechtszekerheid dient de ontworpen bepaling bijgevolg in die zin gewijzigd te worden.27. 
+Bij artikel 2, 5°  en 6°,  van het ontwerp (het ontworpen artikel 5, derde en vierde lid) wordt eveneens 
+voorzien in een afwijking wat betreft de personen die tot hetzelfde "huishouden" behoren. Volgens artikel 
+1, 6°,  van het voornoemde ministerieel besluit van 28 oktober 2020, dat niet gewijzigd wordt door het 
+ontwerp, wordt "huishouden" gedefinieerd als "personen die onder hetzelfde dak wonen".In de 
+aanhef van het voorliggende ontwerp staat evenwel dat"voor de toepassing van dit besluit, onder 
+`huishouden' moet worden begrepen de personen die onder hetzelfde dak wonen; dat hiermee ook wordt gedoeld 
+op de nieuwe gezinsvormen, zoals nieuw samengestelde gezinnen of andere situaties waarbij de betrokkenen 
+strikt genomen niet onafgebroken onder hetzelfde dak wonen".De definitie die aldus in de aanhef 
+wordt gegeven stemt niet overeen met die welke nog steeds vermeld staat in het besluit zelf. Ze is er 
+zelfs mee in tegenspraak, hetgeen tot rechtsonzekerheid leidt.De afdeling Wetgeving heeft in 
+dat verband reeds het volgende opgemerkt in advies 69.305/AV(44) :"Gelet op het feit dat dit 
+begrip medebepalend is voor de vraag of afgeweken kan worden van het eerste lid van het ontworpen artikel 
+6, § 3, en dat sancties opgelegd kunnen worden ingeval men zich niet aan dat begrip houdt, is 
+het raadzaam een duidelijkere definitie te geven van het begrip `huishouden' voor elke vermelding van 
+dat begrip in het ministerieel besluit van 28 oktober 2020, en daarbij eveneens rekening te houden met 
+de gevallen die het gevolg zijn van nieuwe gezinsvormen, zoals nieuw samengestelde gezinnen of andere 
+situaties waarbij de betrokkenen strikt genomen niet onafgebroken onder hetzelfde dak wonen."De 
+vereiste precisering wat betreft het begrip "huishouden" dient in het dispositief van het ministerieel 
+besluit zelf aangebracht te worden. In het bijzonder dient daarin, indien dat de bedoeling is, te worden 
+bepaald of, en in welke mate, het gegeven dat "onafgebroken" onder hetzelfde dak samengewoond wordt, 
+al dan niet een rol speelt.Artikel 328. In het ontworpen artikel 6, § 1, wordt 
+verwezen naar "de inrichtingen die behoren tot de horecasector en andere eet- en drankgelegenheden", 
+wat de mogelijkheid om afhaalmaaltijden en -dranken aan te bieden en te leveren tot ten laatste 23u30. 
+In de erop volgende ontworpen paragraaf 2, dat betrekking heeft op "het professioneel uitoefenen van 
+horeca-activiteiten", wordt enkel nog verwezen naar "de inrichting".De vraag rijst dan ook 
+wat de onderlinge verhouding is van het toepassingsgebied van de twee ontworpen paragrafen en of niet-professionele 
+horeca-activiteiten wel worden bedoeld in de ontworpen paragraaf 2, zoals bijvoorbeeld de kantine van 
+een sportclub. Gaat het in dat laatste geval om "andere eet- en drankgelegenheden"? In dat geval zou 
+de ontworpen paragraaf 2 niet van toepassing zijn. Of gaat het in dat geval toch om horeca-activiteiten, 
+maar dan rijst de vraag of de vermelding van het "professioneel uitoefenen" ervan niet ongelukkig is.29. 
+Het ontworpen artikel 6, § 2, eerste lid, 5°,  bepaalt dat "terrassen en openbare ruimten worden 
+georganiseerd overeenkomstig de voorschriften bepaald door de lokale overheden".Op de vraag 
+of daarmee ook terrassen worden beoogd die zijn opgesteld buiten de openbare ruimten, verklaarden de 
+gemachtigden het volgende:"Enkel terrassen op het publiek domein worden hiermee gevat."Dit 
+moet tot uiting komen in de tekst van het ontwerp.Deze opmerking geldt eveneens voor het ontworpen 
+artikel 8, § 1, eerste lid, 5°,  (artikel 5 van het ontwerp).30. De gemachtigden verklaarden 
+dat de verwijzing naar een "chirurgisch" mondmasker in het ontworpen artikel 6, §  2, eerste lid, 
+11°,  zal worden geschrapt, zodat enkel een "mondmasker" wordt vereist.31. Het ontworpen artikel 
+6, § 2, derde lid, verplicht tot het gebruik van een CE gemarkeerde luchtkwaliteitsmeter (CO2) 
+in de eet- en drankgelegenheden van de horecasector, behalve op een open terras. Dit toestel moet worden 
+geïnstalleerd op een voor de bezoeker duidelijk zichtbare plaats. De gemachtigden verklaarden het volgende 
+over dit vereiste:"Er dient minstens één apparaat per zaak aanwezig te zijn, in de ruimte waar 
+eten en dranken worden geserveerd."In de aanhef wordt dienaangaande het volgende vermeld:"Overwegende 
+dat het gebruik van CE gemarkeerde luchtkwaliteitsmeters (CO2) nodig blijkt om de bevolking te beschermen 
+tegen de verhoogde besmettingsrisico's in bepaalde besloten inrichtingen of ruimtes, in het bijzonder 
+in de fitnesscentra en de besloten ruimten van de eet- en drankgelegenheden in de horecasector, omdat 
+daar, door de aard van de activiteiten die er worden uitgeoefend, bijzonder veel aërosolen zich verspreiden; 
+dat deze meters dienen te worden geïnstalleerd op een centrale plaats, en niet naast een deur, raam of 
+ventilatiesysteem."De steller van het ontwerp moet nagaan of het, in het licht van de pertinentie 
+en de doelmatigheid van de ontworpen bepaling, niet aangewezen is om te voorzien in de verplichting om 
+zo'n toestel te plaatsen in elke afgesloten ruimte van de betrokken inrichting veeleer dan enkel "op 
+een centrale plaats", zoals in de aanhef wordt vermeld. Bovendien moet nagegaan worden hoe het criterium 
+in de ontworpen bepaling ("op een voor de bezoeker duidelijk zichtbare plaats") zich verhoudt tot het 
+criterium vermeld in de aanhef ("op een centrale plaats") en welk criterium opnieuw in het licht van 
+de pertinentie en de doelmatigheid van de ontworpen bepaling voorrang heeft indien een voor de bezoeker 
+duidelijk zichtbare plaats niet de optimale efficiëntie behaalt.Deze opmerking geldt eveneens 
+voor het ontworpen artikel 8, § 1, derde lid, (artikel 5 van het ontwerp).32. Het ontworpen 
+artikel 6, § 2, vierde lid, luidt als volgt:"Tenzij het een open terras betreft, is 
+een receptie of banket enkel toegelaten voor een maximum van 50 klanten."De gemachtigden lichtten 
+de gehanteerde begrippen als volgt toe:"Les deux termes sont utilisés dans leur sens usuel 
+à savoir :- Réception : Réunion de personnes invitées, souvent à caractère mondain.- 
+Banquet : Repas d'apparat, rassemblant de nombreux convives pour célébrer un événement important."De 
+vraag rijst evenwel of de verwijzing naar het "caractère mondain" of het "événement important" niet tot 
+onduidelijkheid en dus tot rechtsonzekerheid, alsook tot moeilijk te verantwoorden ongelijke behandelingen, 
+leidt. Is het werkelijk de bedoeling dat een maaltijd ("repas") voor een niet belangrijk evenement niet 
+kan worden georganiseerd voor een maximum van 50 klanten? De steller van het ontwerp moet de twee gesuggereerde 
+definities dan ook opnieuw onderzoeken en ze desgevallend in een aangepaste versie opnemen in het ontwerp.Deze 
+opmerking geldt eveneens voor het ontworpen artikel 15, § 7 (artikel 11 van het ontwerp), waar 
+deze termen ook voorkomen.33. Op de vraag wat het maximum aantal klanten is wanneer in één 
+horeca inrichting meerdere recepties of banketten worden georganiseerd, antwoordden de gemachtigden als 
+volgt:"Het aantal klanten dat aanwezig is per afgescheiden receptie of banket (het gaat om 
+de activiteit) mag het maximum aantal van 50 klanten niet overschrijden. Er kunnen dus meerdere recepties 
+en banketten worden georganiseerd in dezelfde inrichting zolang het maximum aantal klanten van 50 (per 
+afgescheiden receptie of banket) niet wordt overschreden."Met het oog op de rechtszekerheid 
+is het raadzaam om dit uitdrukkelijk te regelen in de ontworpen bepaling, met inbegrip van de voorwaarde 
+dat het om afgescheiden recepties en banketten moet gaan.Artikel 534. Het ontworpen 
+artikel 8, § 1, eerste lid, 3°,  bevat de volgende voorwaarde:"het bedekken van de mond 
+en neus met een mondmasker in de onderneming of vereniging is verplicht in de voor het publiek toegankelijke 
+ruimtes, en indien de regels van de social distancing niet kunnen worden nageleefd wegens de aard van 
+de uitgeoefende activiteit worden andere persoonlijke beschermingsmiddelen sterk aanbevolen, onverminderd 
+artikel 25".De gemachtigden bevestigden dat het om "twee afzonderlijke regels" gaat, namelijk 
+enerzijds een mondmaskerplicht in publiek toegankelijke ruimtes en anderzijds een loutere aanbeveling 
+om "andere" persoonlijke beschermingsmiddelen te gebruiken "indien de regels van social distancing niet 
+kunnen worden nageleefd".De gemachtigden verklaarden verder dat het gebruik van mondmaskers 
+niet onder "de regels van de social distancing" valt.(45) Het huidige artikel 25 van het ministerieel 
+besluit van 28 oktober 2020 luidt echter als volgt:"Eenieder, met uitzondering van kinderen 
+tot en met 12 jaar, is verplicht om de mond en de neus te bedekken met een mondmasker of elk ander alternatief 
+in stof wanneer het onmogelijk is om de naleving van de regels van social distancing te garanderen, met 
+uitzondering van de gevallen bedoeld in artikel 23, § 2.Eenieder, met uitzondering van 
+kinderen tot en met 12 jaar, is in elk geval verplicht om de mond en de neus te bedekken met een mondmasker 
+of elk ander alternatief in stof op de volgende plaatsen:1°  de winkels en de winkelcentra;2° 
+ de conferentiezalen;3°  de auditoria;4°  de gebouwen der eredienst en de gebouwen 
+bestemd voor de openbare uitoefening van de niet-confessionele morele dienstverlening;5°  de 
+bibliotheken, de spelotheken en de mediatheken;6°  de winkelstraten, de markten, en elke private 
+of publieke druk bezochte plaats, bepaald door de bevoegde lokale overheid en afgebakend met een aanplakking 
+die de tijdstippen preciseert waarop de verplichting van toepassing is;7°  de inrichtingen 
+en plaatsen waar horeca-activiteiten toegelaten zijn, zowel de klanten als het personeel, tenzij gedurende 
+het eten, drinken, of aan tafel zitten;8°  bij verplaatsingen in de publieke en niet-publieke 
+delen van de gerechtsgebouwen, alsook in de zittingszalen bij elke verplaatsing en, in de andere gevallen, 
+overeenkomstig de richtlijnen van de kamervoorzitter;9°  tijdens de evenementen, culturele 
+en andere voorstellingen en professionele sportieve wedstrijden;10°  tijdens de handelsbeurzen, 
+met inbegrip van de salons.Wanneer het dragen van een mondmasker of elk alternatief in stof 
+niet mogelijk is omwille van medische redenen, mag een gelaatsscherm worden gebruikt.De personen 
+die in de onmogelijkheid zijn een mondmasker, een alternatief in stof of een gelaatsscherm te dragen 
+omwille van een beperking, gestaafd door middel van een medisch attest, moeten niet voldoen aan de bepalingen 
+van dit besluit die deze verplichting voorzien." (46)Over de "andere persoonlijke beschermingsmiddelen" 
+verklaarden de gemachtigden het volgende:"Dit kan onder andere de afwijkingsmogelijkheid zijn 
+die wordt beoogd in artikel 25 van het te wijzigen besluit, maar ook andere maatregelen zoals bijvoorbeeld 
+het dragen van handschoenen."Zoals het ontworpen artikel 8, § 1, eerste lid, 3°,  thans 
+is geformuleerd, rijst de vraag naar de verhouding ervan met het huidige artikel 25. Tevens rijst de 
+vraag waarom de regeling inzake het gebruik van een mondmasker of andere persoonlijke beschermingsmiddelen 
+minder streng is wanneer de "regels van social distancing" niet kunnen worden nageleefd dan wanneer die 
+regels net wel kunnen worden nageleefd. In het eerste geval wordt immers slechts een aanbeveling geformuleerd 
+en geen verplichting.De steller van het ontwerp moet de ontworpen bepaling aan een nieuw onderzoek 
+onderwerpen in het licht van deze vaststellingen.35. Op de vraag wat wordt bedoeld met de term 
+"openbare ruimten" in het ontworpen artikel 8, § 1, eerste lid, 5°,  antwoordden de gemachtigden 
+als volgt:"De notie `openbare ruimten' omvat zowel de notie `openbare weg' als de `voor het 
+publiek toegankelijke plaatsen', met inbegrip van plaatsen die `afgesloten en overdekt' zijn."Het 
+is raadzaam om, ter wille van de rechtszekerheid, een definitie uit te werken voor deze term.Artikel 
+1036. De gemachtigden bevestigden, met betrekking tot het ontworpen artikel 14, § 2, 
+dat het verbod van samenscholingen van meer dan vijftig personen in de "private ruimte", ook slaat op 
+samenscholingen in open lucht (op privédomein). Dit moet ter wille van de rechtszekerheid worden verduidelijkt 
+in de tekst van de ontworpen bepaling.37. In het ontworpen artikel 14, § 3, wordt voorzien 
+in de verplichting voor toegelaten samenscholingen om groepen te vormen van maximum vier personen, kinderen 
+tot en met twaalf jaar niet meegeteld. De vraag rijst evenwel of dergelijke groepen dezelfde moeten blijven 
+gedurende de hele activiteit of dat die groepen tijdens eenzelfde activiteit mogen wisselen van samenstelling. 
+De gemachtigden verklaarden dat de groepen niet mogen wisselen van samenstelling.Dit moet, 
+eveneens ter wille van de rechtszekerheid, worden verduidelijkt in de tekst van de ontworpen bepaling.Deze 
+opmerking geldt mutatis mutandis voor de overige bepalingen in het ontwerp waarin gewag wordt gemaakt 
+van de verplichting tot indeling in groepen voor bepaalde activiteiten of evenementen.(47)Artikelen 
+11 en 1338. Op het verzoek om de draagwijdte te verduidelijken van de woorden "in de mate van 
+het mogelijke" die voorkomen in het ontworpen artikel 15, § 2, tweede lid, 3°,  (artikel 11 van 
+het ontwerp) hebben de gemachtigden het volgende geantwoord:"Het naleven van deze maatregel 
+is geen resultaatsverbintenis maar een inspanningsverbintenis. Indien het mogelijk is dienen de maatregelen 
+van social distancing dus wel te worden gerespecteerd maar indien ze niet kunnen worden nageleefd zal 
+dit niet gesanctioneerd worden. Deze bepaling zou kunnen worden verplaatst naar artikel 23."Die 
+precisering zou inderdaad beter op haar plaats zijn in artikel 23 van het te wijzigen besluit.39. 
+Bij de huidige stand van de regelgeving kan de lokale overheid op grond van artikel 16 van voormeld ministerieel 
+besluit van 28 oktober 2020 bepaalde vergunningen afgeven met betrekking tot het opzetten van culturele, 
+sportieve of andere evenementen "die buiten worden georganiseerd" (artikel 15, § 8), van statische 
+betogingen die op de openbare weg plaatsvinden (artikel 15, § 9) of van handelsbeurzen die "buiten 
+worden georganiseerd" (artikel 15, § 10). Dit vergunningsstelsel doet geen bijzondere moeilijkheid 
+rijzen in het licht van artikel 26 van de Grondwet, aangezien het telkens gaat om "bijeenkomsten in de 
+open lucht" in de zin van het tweede lid van dat artikel.De artikelen 15 en 16 van het ministerieel 
+besluit van 28 oktober 2020 worden bij de artikelen 11 en 13 van voorliggend ontwerp gewijzigd, inzonderheid 
+om het vergunningsstelsel toe te passen op het organiseren van bijeenkomsten in binnenruimtes van gebouwen 
+voor erediensten met het oog op het optrekken van het aantal personen dat tegelijk in het gebouw aanwezig 
+mag zijn (ontworpen artikel 15, § 4, vierde lid) alsook op diverse evenementen die binnen georganiseerd 
+worden (ontworpen artikel 15, § 5, eerste lid).Die bijeenkomsten, die in een afgesloten 
+en overdekte plaats gehouden worden, vallen niet meer onder het toepassingsgebied van artikel 26, tweede 
+lid, van de Grondwet en mogen dan ook niet onderworpen worden aan een stelsel van "voorafgaand verlof".(48) 
+Artikel 26, eerste lid, van de Grondwet luidt immers als volgt:"De Belgen hebben het recht 
+vreedzaam en ongewapend te vergaderen, mits zij zich gedragen naar de wetten, die het uitoefenen van 
+dit recht kunnen regelen zonder het echter aan een voorafgaand verlof te onderwerpen."De algemene 
+vergadering van de afdeling Wetgeving heeft in voormeld advies 68.936/AV de volgende opmerking gemaakt 
+bij artikel 5 van het voorontwerp van wet dat toen voorlag, teneinde de draagwijdte te verduidelijken 
+van het grondwettelijk verbod op preventieve maatregelen waarbij de vrijheden ingeperkt worden:"96. 
+De maatregelen bedoeld in artikel 5, § 1, kunnen onder andere bestaan in `verboden, sluitingen 
+of beperkingen' in verschillende domeinen.Er moet evenwel aan herinnerd worden dat die maatregelen 
+in geen enkel geval mogen bestaan in preventieve maatregelen die bij de Grondwet verboden zijn. In dat 
+verband kan worden verwezen naar artikel 19 (vrijheid van meningsuiting)(49), artikel 24, § 1, 
+eerste lid (vrijheid van onderwijs), artikel 25 (vrijheid van drukpers), artikel 26 (vrijheid van vergadering)(50) 
+en artikel 27 (vrijheid van vereniging) van de Grondwet.Volgens de afdeling bestuursrechtspraak 
+van de Raad van State`[kunnen] preventieve maatregelen hierin (...) worden gekenmerkt dat zij 
+bepaalde voorwaarden of formaliteiten opleggen waaraan moet zijn voldaan vooraleer het desbetreffende 
+recht in de praktijk kan worden uitgeoefend, afgezien van de vraag of van de vrijheid misbruik wordt 
+gemaakt of kan worden gemaakt, en dat het niet nakomen van de gestelde voorwaarden op zichzelf een strafbaar 
+feit uitmaakt'(51) .Die maatregelen onderscheiden zich van repressieve maatregelen die uitsluitend 
+van toepassing zijn wanneer de persoon gebruik gemaakt heeft van zijn vrijheid op een door of krachtens 
+de wet verboden wijze.(52)Het Grondwettelijk Hof heeft evenwel een definitie van de preventieve 
+maatregel aangenomen die ingegeven is door het voorwerp van die preventieve maatregel. Bij de beoordeling 
+van de grondwettelijkheid van de besluitwet van 29 december 1945 `houdende verbod tot het aanbrengen 
+van opschriften op den openbaren weg', heeft het Grondwettelijk Hof immers het volgende verduidelijkt:`B.5.1. 
+Uit artikel 1 van de in het geding zijnde besluitwet blijkt dat de mogelijkheid om te afficheren wordt 
+beperkt tot bepaalde plaatsen, namelijk degene die door de gemeente daartoe zijn bestemd en degene waarvoor 
+de eigenaar of de gebruiksgerechtigde vooraf schriftelijk zijn toestemming heeft gegeven. Aldus regelt 
+de besluitwet een aantal modaliteiten wat de affichage betreft, zonder evenwel te voorzien in preventieve 
+maatregelen. Zo wordt de mogelijkheid om te afficheren geenszins afhankelijk gemaakt van een voorafgaande 
+inhoudelijke beoordeling van de boodschap. De in het geding zijnde besluitwet verleent de overheid immers 
+geen enkele bevoegdheid om een meningsuiting, van welke aard ook, a priori te controleren of te verbieden, 
+maar voorziet enkel in sancties a posteriori.(...)B.6.3. Door het afficheren te verbieden 
+op andere plaatsen dan diegene die door de gemeenteoverheid daartoe zijn bestemd of het afficheren enkel 
+toe te staan na een voorafgaande en schriftelijke toestemming van de gebruiksgerechtigde of de eigenaar, 
+strekt de in het geding zijnde besluitwet ertoe de openbare orde te handhaven en de rechten van anderen 
+te beschermen.De in het geding zijnde bepalingen beantwoorden aldus aan een dwingende maatschappelijke 
+noodwendigheid en zijn niet onevenredig met de door de wetgever nagestreefde doelstellingen. Een onbeperkte 
+mogelijkheid om te afficheren op plaatsen die deel uitmaken van het openbaar domein of van privé-eigendommen, 
+zou immers kunnen leiden tot verstoring van de openbare orde, visuele vervuiling, milieuhinder, en aantasting 
+van de eigendomsrechten van derden.De verbodsbepalingen waarin de besluitwet van 29 december 
+1945 voorziet, overschrijden bijgevolg niet de grenzen en de voorwaarden waarin de wetgever de uitoefening 
+van de vrijheid van meningsuiting kan beperken. Van een ongeoorloofde en discriminatoire inbreuk op de 
+vrijheid van meningsuiting is aldus geen sprake.'(53)Daaruit vloeit voort dat wanneer, met 
+name, de toegang tot een school of een plaats van eredienst wordt beperkt of verboden louter op grond 
+van overwegingen die verband houden met de volksgezondheid, zonder enige beoordeling van het onderwijs 
+of de cultuur, zulk een beperking of verbod geen "preventieve maatregel" vormt als bedoeld in de artikelen 
+19 en 24, § 1, van de Grondwet.Bij de vaststelling van de maatregelen waarvan sprake 
+is in artikel 5, § 1, van het voorliggende voorontwerp, dient dan ook onderzocht te worden of 
+deze, gelet op de draagwijdte ervan, geen bij de Grondwet verboden preventieve maatregelen zijn."(54)Om 
+dezelfde redenen kunnen de artikelen 11 en 13 van voorliggend ontwerp, voor zover daarbij een vergunningsstelsel 
+ingevoerd wordt dat toepassing zou vinden op bijeenkomsten die niet "in de open lucht" plaatsvinden, 
+enkel verenigbaar zijn met artikel 26, eerste lid, van de Grondwet als de rol van de administratieve 
+overheid geenszins verder reikt dan het objectief vaststellen van de omstandigheid dat aan de sanitaire 
+voorwaarden zoals die voortvloeien uit de "CERM", of, in voorkomend geval, uit de "CIRM", al dan niet 
+vervuld zijn en daar voor het overige geen enkele andere beoordelingsbevoegdheid aan te pas komt, onder 
+voorbehoud van hetgeen hierna, in opmerking 40, uiteengezet wordt.Die ontworpen bepalingen 
+en artikel 16 van voormeld ministerieel besluit van 28 oktober 2020 moeten aldus herzien worden dat elke 
+onduidelijkheid op dit punt vermeden wordt.40. In voormeld advies 69.305/AV heeft de algemene 
+vergadering van de afdeling Wetgeving het volgende geoordeeld:"In zoverre de CERM en CIRM louter 
+een ondersteunende functie hebben voor de bevoegde lokale overheden, kan met de gehanteerde werkwijze 
+worden ingestemd. Dat betekent niet alleen dat deze instrumenten geen afwijkingen mogen bevatten van 
+het te wijzigen ministerieel besluit, maar ook dat de bevoegde lokale overheid niet zonder meer gebonden 
+is door de uitkomst van de bedoelde modellen."(55)Volgens het ontworpen artikel 15, § 
+5, eerste lid, mogen bepaalde evenementen bijgewoond worden door een "zittend publiek van maximum 75 
+% van de CIRM-capaciteit, zonder 200 personen te overschrijden".Op de vraag of aldus aan de 
+CIRM geen verordenend karakter toegekend wordt, hebben de gemachtigden het volgende geantwoord:"De 
+capaciteit wordt finaal bepaald door de lokale overheid; het betreft derhalve een beslissing van de lokale 
+overheid waarbij zij de CIRM kunnen hanteren als advies-model (die vanuit die optiek dus geen verordenende 
+kracht heeft)."Uit het onderzoek blijkt evenwel dat, in weerwil van de uitleg die aldus verstrekt 
+is, bij de voorliggende teksten uiteindelijk wel degelijk een verordenende draagwijdte toegekend wordt 
+aan de rekenmethodes die vervat zijn in de CIRM; op dit punt wordt verwezen naar de opmerkingen 20.1 
+tot 20.3. Die oplossing, die overigens in overeenstemming is met wat krachtens artikel 26 van de Grondwet 
+vereist is om het grondwettelijk verbod te kunnen ontlopen op het invoeren van een regeling van voorafgaande 
+verloven voor bijeenkomsten die niet in de open lucht gehouden worden,(56) moet evenwel in ondubbelzinnige 
+bewoordingen opgenomen worden in de voorliggende teksten en in de aanhef, wat impliceert dat de CERM 
+en de CIRM daarin gedefinieerd moeten worden en dat daaraan de bekendheid vereist bij artikel 190 van 
+de Grondwet gegeven moet worden, bijvoorbeeld door ze als bijlagen bij het ontworpen besluit te voegen.DE 
+GRIFFIER   DE VOORZITTERBéatrice DRAPIER   Pierre VANDERNOOT_______Nota's* 
+Deze verlenging vloeit voort uit artikel 84, §  1, eerste lid, 3°,  van de wetten op de Raad van 
+State, gecoördineerd op 12 januari 1973, waarin wordt bepaald dat de termijn van vijf werkdagen verlengd 
+wordt tot acht werkdagen in het geval waarin het advies gegeven wordt door de verenigde kamers met toepassing 
+van artikel 85bis.(1) Advies 69.253/AV, op 23 april 2021 gegeven over een 
+ontwerp dat heeft geleid tot het ministerieel besluit van 24 april 2021 `houdende wijziging van het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken' (http://www.raadvst-consetat.be/dbx/adviezen/69253.pdf).(2) Advies 
+69.305/AV, op 6 mei 2021 gegeven over een ontwerp dat heeft geleid tot het ministerieel besluit van 7 
+mei 2021 `houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken' (http://www.raadvst-consetat.be/dbx/adviezen/69305.pdf).(3) 
+Adv.RvS 69.253/AV, opmerking 3; adv.RvS 69.305/AV, opmerking 3.(4) Adv.RvS 
+69.253/AV, opmerking 10.4; adv.RvS 69.305/AV, opmerking 9.4.(5) Zie o.a. de 
+zaken 7543 en 7544 ingediend op 9 maart 2021.(6) Adv.RvS 69.305/AV, opmerkingen 
+9.5 en 9.6.(7) Adv.RvS 69.253/AV, opmerking 9; adv.RvS 69.305/AV, opmerking 
+8.(8) Wetsontwerp `betreffende de maatregelen van bestuurlijke politie tijdens 
+een epidemische noodsituatie' (Parl.St. Kamer 2020-21, nr. 55-1951/001).(9) 
+Adv.RvS 69.253/AV, opmerking 9; adv.RvS 69.305/AV, opmerking 8.(10) Adv.RvS 
+69.253/AV, opmerking 10.4; adv.RvS 69.305/AV, opmerking 9.4.(11) Voetnoot 
+16 van het geciteerde advies: Artikel 181, § 1, van de wet van 15 mei 2007 betreft de mogelijkheid 
+voor de minister om "de personen en zaken die hij nodig acht" op te vorderen. Het actueel voorliggende 
+ontwerp lijkt geen dergelijke maatregelen te bevatten.(12) Adv.RvS 69.305/AV, 
+opmerking 9.5.(13) Vergelijk met adv.RvS 69.305/AV, opmerkingen 10.1 en 10.2.(14) 
+Voetnoot 174 van het geciteerde advies: Wat dit beginsel betreft, zie supra randnummers 70 en v.(15) 
+Voetnoot 175 van het geciteerde advies: Vaste rechtspraak van het Grondwettelijk Hof: zie inzonderheid 
+GwH 18 maart 2010, nr. 29/2010, B.16.1; GwH 20 februari 2020, nr. 27/2020, B.17.(16) 
+Advies 68.936/AV, op 7 april 2021 gegeven over het voorontwerp dat heeft geleid tot het voornoemde ontwerp 
+van wet `betreffende de maatregelen van bestuurlijke politie tijdens een epidemische noodsituatie', 55 
+e.v. (http://www.raadvst-consetat.be/dbx/adviezen/68936.pdf).(17) Adv.RvS 
+68.978/VR van 16 maart 2021 over een voorontwerp dat geleid heeft tot de wet van 8 april 2021 `houdende 
+instemming met het samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, 
+het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende 
+de gegevensoverdracht naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als 
+doel het handhaven van de verplichte quarantaine of testing van de reizigers afkomstig uit buitenlandse 
+zones bij wie een quarantaine of testing verplicht is bij aankomst in België', http://www.raadvst-consetat.be/dbx/adviezen/68978.pdf, 
+opmerking 24.(18) Opdat de Internationale Gezondheidsregeling een wettelijk 
+karakter zou krijgen, volstaat het niet dat ze in het Belgisch Staatsblad is bekendgemaakt en zelfs het 
+voorwerp is geweest van het protocol van 5 november 2018 gesloten tussen de Federale Overheid en de overheden 
+bedoeld in artikelen 128, 130 en 135 van de Grondwet, `tot vaststelling van de generische structuren 
+voor het sectoraal gezondheidsbeheer van crisissen voor de volksgezondheid en hun werkwijze voor de toepassing 
+van het Internationaal Gezondheidsreglement (2005), en Besluit nr. 1082/2013/EU over ernstige grensoverschrijdende 
+bedreigingen van de gezondheid' (B.S. 14 december 2018).(19) Zie, als recentste 
+advies, advies 69.324/VR, op 17 mei 2021 gegeven over een voorontwerp van ordonnantie `houdende instemming 
+met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, 
+het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen 
+van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met 
+het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de 
+naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus 
+COVID-19 tegen te gaan op de arbeidsplaatsen'.(20) Voetnoot 19 van het geciteerde 
+advies: Adv. RvS 53.932/AV van 27 augustus 2013 over een voorstel dat he[ef]t geleid tot de bijzondere 
+wet van 6 januari 2014 `met betrekking tot de Zesde Staatshervorming' (Parl.St. Senaat 2012-13, nr. 5-2232/1).(21) 
+Voetnoot 20 van het geciteerde advies: Voornoem[d] adv. RvS 67.142/AV van 25 maart 2020, opm. 6.(22) 
+Voetnoot 21 van het geciteerde advies: Voornoem[d] adv. RvS 53.932/AV; Zie ook: adv. RvS 53.018/VR van 
+13 mei 2013 over een ontwerp van koninklijk besluit `houdende de gezondheidscontrole van het internationale 
+verkeer', opmerking 9; adv. RvS 66.387/1/V van 29 augustus 2019 over een ontwerp dat heeft [geleid] tot 
+het koninklijk besluit van 11 december 2019 `betreffende de modaliteiten inzake het manipuleren en bewaren 
+van poliovirussen van type 2', opmerking 7.5; GwH 15 februari 2009, nr. 2/2009, B.5.2.(23) 
+Advies 68.936/AV, opmerkingen 10 en 11.(24) Voetnoot 74 van het geciteerde 
+advies: Het beginsel van de federale loyauteit houdt voor elke overheid de verplichting in om bij het 
+uitoefenen van de eigen bevoegdheden het evenwicht van de federale constructie in haar geheel niet te 
+verstoren en de belangen van de andere entiteiten niet te schaden. De federale loyauteit betreft meer 
+dan de loutere uitoefening van bevoegdheden: zij geeft aan in welke geest dat moet geschieden. (GwH 18 
+maart 2021, nr. 47/2021, overw. B.11; zie ook: J. Vanpraet, "De algemene beginselen van de bevoegdheidsverdeling", 
+in B. Seutin en G. van Haegendoren (eds.), De transversale bevoegdheden in het federale België, Brugge, 
+die Keure, 2017, 53, nr. 75).(25) Voetnoot 75 van het geciteerde advies: Voetnoot 
+4 in de geciteerde tekst: Ter zake bestaat een vaste en uitvoerige rechtspraak, in het bijzonder over 
+maatregelen van algemene bestuurlijke politie die door gemeenteoverheden genomen zijn: zie bijvoorbeeld 
+RvS 21 april 2006, nr. 157.849, bvba La Démarche; 23 april 2010, nr. 203.235, cv Trocadero; 24 maart 
+2017, nr. 237.779, Amilcar c.s.(26) Voetnoot 76 van het geciteerde advies: 
+Adv. RvS 63.791/2/V van 6 augustus 2018 over een voorontwerp van wet `betreffende de gemeentelijke bestuurlijke 
+handhaving', alg. opm. 1, b).(27) Voetnoot 77 van het geciteerde advies: Zie 
+GwH, 18 maart 2021, nr. 47/2021, overw. B.15: "Zoals in B.11 is vermeld, verplicht het beginsel van de 
+federale loyauteit elke wetgever erover te waken dat de uitoefening van zijn eigen bevoegdheid de uitoefening, 
+door de andere wetgevers, van hun bevoegdheden niet onmogelijk of overdreven moeilijk maakt. Wanneer 
+de aangelegenheid die hij wenst te regelen dermate verweven is met de aangelegenheid die onder de bevoegdheid 
+van een andere wetgever valt, kan hij zijn bevoegdheid slechts uitoefenen na vooraf die andere wetgever 
+te hebben geraadpleegd." Zie eveneens CC, 21 december 2017, nr. 145/2017, overw. B. 60.2.(28) 
+Voetnoot 78 van het geciteerde advies: Verwezen wordt naar randnummers 66 en 67 hieronder in verband 
+met de gevallen waarin zich noodsituaties zouden kunnen voordoen waarin heel snel maatregelen genomen 
+moeten worden ter bestrijding van een epidemische noodsituatie, zoals die welke beoogd worden in het 
+voorontwerp.(29) Voetnoot 79 van het geciteerde advies: Reeds in voornoemd 
+advies 67.142/AV van 25 maart 2020 heeft de algemene vergadering van de afdeling Wetgeving gesteld dat 
+de Koning op grond van de hem toegekende bijzondere machten bevoegd was tot "het sluiten van scholen 
+of universiteiten".(30) Advies 68.936/AV, opmerkingen 32 tot 35.(31) 
+Zie het tweeëndertigste lid e.v. van de aanhef van het voorliggende ontwerp.(32) 
+Voornoemd advies 69.305/AV, opmerking 12.2.(33) Zie artikel 21 van het ministerieel 
+besluit van 28 oktober 2020 `houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken', waarvan artikel 15 van het ontwerp de toepassing beoogt te verlengen tot en met 31 mei 
+2021. Hierover heeft de algemene vergadering van de afdeling Wetgeving in het voornoemde advies 68.936/AV 
+opgemerkt dat de bevoegdheid van de federale overheid inzake controle van de buitengrenzen inhoudt "dat 
+zij de toegang tot en het vertrek vanuit het grondgebied kan weigeren omwille van de aanwezigheid of 
+de dreiging van besmettelijke ziekten, (...) dat zij niet-essentiële reizen van en naar 
+het buitenland kan verbieden, en dat zij ook voorwaarden kan opleggen in verband met die toegang tot 
+het grondgebied, zoals het invullen van het Passagier Lokalisatie Formulier (Passenger Locator Form = 
+PLF) (...) voor de afreis naar België en het bij zich houden van dat formulier tijdens 
+de afreis naar België (...)."Ook blijkt uit de voornoemde adviezen 68.977/VR, 68.978/VR, 
+68.983/VR, 68.989/VR en 69.000/VR dat de eerder geschetste bevoegdheden van de federale overheid "(....) 
+niet zover [reiken] dat ze bij de regeling van de toegang tot het grondgebied ook verplichtingen zou 
+kunnen opleggen inzake de afzondering of quarantaine van mogelijk besmette personen of inzake het testen 
+van deze personen. Het zijn immers de gemeenschappen die bevoegd zijn voor de opsporing van en de strijd 
+tegen besmettelijke ziekten, zoals COVID-19, als een onderdeel van hun bevoegdheden inzake preventieve 
+gezondheidszorg. Op grond van die bevoegdheid hebben de gemeenschappen recent onder meer een aantal nieuwe 
+regelingen uitgewerkt of bestaande regelingen aangepast met betrekking tot de contactopsporing in de 
+strijd tegen de COVID-19-pandemie en inzake het verplichte testen en in quarantaine gaan van (vermoedelijk) 
+besmette personen." Net zoals de verplichting om het PLF in te vullen, lijkt de verplichting, opgelegd 
+in artikel 21, § 7, om te beschikken over een negatief testresultaat van een test die is afgenomen 
+ten vroegste 72 uur voor het vertrek naar Belgisch grondgebied vanuit een grondgebied dat als rode zone 
+is aangemerkt, te kunnen worden beschouwd als een voorwaarde om het grondgebied te betreden, die onder 
+de bevoegdheid van de federale overheid valt (in dat verband preciseert artikel 21, § 7, effectief 
+dat de vervoerder ertoe gehouden is het instappen te weigeren indien een dergelijk negatief testresultaat 
+niet voorhanden is). De wijzigingen die artikel 15, 3°  tot 5°,  aanbrengt in die verplichting om te 
+beschikken over een negatief testresultaat, lijken bijgevolg tot de bevoegdheid van de federale overheid 
+te behoren.(34) Namelijk andere wijzigingen dan diegene waarvan in dit advies 
+melding wordt gemaakt of wijzigingen die ertoe strekken tegemoet te komen aan hetgeen in dit advies wordt 
+opgemerkt.(35) Zie eveneens het voornoemde advies 69.305/AV.(36) 
+De rechtspraak van het Grondwettelijk Hof ter zake luidt als volgt: "[Het beginsel van gelijkheid en 
+niet-discriminatie] sluit niet uit dat een verschil in behandeling tussen bepaalde categorieën van personen 
+wordt ingesteld, voor zover dat verschil op een objectief criterium berust en het redelijk verantwoord 
+is. Dat beginsel verzet zich overigens ertegen dat categorieën van personen, die zich ten aanzien van 
+de aangevochten maatregel in wezenlijk verschillende situaties bevinden, op identieke wijze worden behandeld, 
+zonder dat daarvoor een redelijke verantwoording bestaat." (vaste rechtspraak, met name GwH 14 december 
+2016, nr. 163/2016).(37) Ontworpen artikel 8, § 1, eerste lid, 3°, 
+ en tweede lid, (artikel 5 van het ontwerp); ontworpen artikel 14, § 3, (artikel 10 van het ontwerp); 
+ontworpen artikel 23, § 2, zesde streepje (artikel 16 van het ontwerp); ontworpen artikel 25, 
+vijfde lid (artikel 17 van het ontwerp).(38) Het ontworpen artikel 6, § 
+2, eerste lid, 2°,  (artikel 3 van het ontwerp), het ontworpen artikel 8, § 1, eerste lid, 3° 
+ en 4°  (artikel 5 van het ontwerp) en het ontworpen artikel 15, §§ 1 en 4, vijfde lid, 
+4°  (artikel 11 van het ontwerp).(39) Er wordt ook verwezen naar opmerking 
+34.(40) Het ontworpen artikel 13, derde lid (artikel 9 van het ontwerp) en 
+het ontworpen artikel 15, § 2, tweede lid, 3°  (artikel 11 van het ontwerp).(41) 
+Adv.RvS 69.305/AV, opmerkingen 21 en 22.(42) De gemachtigden bezorgden de 
+volgende - meest recent versie - van deze gids:- FR: https://economie.fgov.be/sites/default/files/Files/Publications/ 
+files/coronavirus-guide-ouverture-commerces.pdf;- NL: https://economie.fgov.be/sites/default/files/Files/Publications/ 
+files/coronavirus-gids-opening-handel.pdf.(43) https://werk.belgie.be/nl/nieuws/verklaring-van-de-sociale-partners-van-de-hoge-raad-voor-preventie-en-bescherming-op-het(44) 
+Voornoemd advies 69.305/AV, opmerking 23.(45) Over die "regels van de social 
+distancing", zie opmerking 19.(46) Artikel 17 van het ontwerp vult dit artikel 
+aan met een vijfde lid, dat als volgt luidt:"Het mondmasker of elk alternatief in stof mag 
+occasioneel worden afgezet om te eten en te drinken, en wanneer het dragen ervan onmogelijk is omwille 
+van de aard van de activiteit."(47) Ontworpen artikel 5, vierde lid (artikel 
+2, 6°,  van het ontwerp), ontworpen artikel 8, § 1, tweede lid (artikel 5 van het ontwerp), ontworpen 
+artikel 9, 5°  (artikel 6, 1°,  van het ontwerp), ontworpen artikel 13, tweede lid (artikel 9 van het 
+ontwerp), ontworpen artikel 14, § 3 (artikel 10 van het ontwerp), en ontworpen artikel 15, § 
+2, eerste lid, en § 6, (artikel 11 van het ontwerp).(48) Advies 52.523/AV, 
+dat op 8 januari 2013 gegeven is over een wetsvoorstel `modifiant la législation relative à la répression 
+du racisme en vue d'interdire les réunions de groupes racistes et néonazis', `tot wijziging van de racismewetgeving 
+wat het verbod van bijeenkomsten van racistische en neonazistische groeperingen betreft' opmerking 5 
+(http://www.raadvst-consetat.be/dbx/adviezen/52523.pdf)(49) Voetnoot 163 van het aangehaalde 
+advies: In verband met de vrijheid van meningsuiting wordt bij artikel 19 van de Grondwet enkel de "bestraffing 
+van de misdrijven die ter gelegenheid van het gebruikmaken van die vrijhe[id] worden gepleegd" toegestaan. 
+Wat de vrijheid van meningsuiting betreft, heeft het Grondwettelijk Hof geoordeeld dat die grondwetsbepaling 
+er niet aan in de weg staat dat de uitoefening ervan afhankelijk wordt gesteld van bepaalde formaliteiten, 
+die geen voorafgaande inhoudelijke beoordeling van de boodschap inhouden, voor zover het gaat om maatregelen 
+die noodzakelijk zijn voor de bescherming van de doelstellingen die uitdrukkelijk vermeld worden in de 
+internationale verdragsbepalingen tot bescherming van de vrijheid van meningsuiting, zoals de openbare 
+orde en de bescherming van de rechten van anderen (GwH 22 oktober 2003, nr. 136/2003, B.5.1 en B.6.1 
+tot B.6.3). Zie advies RvS 62.325/2/VR van 2 mei 2018 over een voorontwerp dat geleid heeft tot het decreet 
+van de Franse Gemeenschap van 28 juni 2018 `tot wijziging van het decreet van 7 november 2013 tot bepaling 
+van het hogeronderwijslandschap en de academische organisatie van de studies en houdende transparantie 
+van de niet-erkende instellingen' (http://www.raadvst-consetat.be/dbx/adviezen/62325.pdf).(50) 
+Voetnoot 164 van het aangehaalde advies: Zie advies RvS 52.834/2 van 27 februari 2013 over een wetsvoorstel 
+`tot wijziging van artikel 135 van de Nieuwe gemeentewet van 24 juni 1988 teneinde de gemeenten toe te 
+staan de openingstijden van de drankgelegenheden te reglementeren' (http://www.raadvst-consetat.be/dbx/adviezen/52834.pdf): 
+"Wat, ten tweede, de vergaderingen betreft die in een afgesloten en overdekte plaats worden gehouden, 
+maar die voor elkeen vrij toegankelijk zijn, stelt artikel 26 van de Grondwet dat deze mogen worden gehouden 
+"mits [de aanwezige personen] zich gedragen naar de wetten, die het uitoefenen van dit recht kunnen regelen 
+zonder het echter aan een voorafgaand verlof te onderwerpen", voor zover deze vergaderingen "vreedzaam 
+en ongewapend" verlopen. De overheden kunnen de uitoefening van deze vrijheid regelen, ook door middel 
+van eventueel preventieve politiemaatregelen, zonder de vreedzame en ongewapende vergaderingen de voorwaarde 
+van een voorafgaande toelating op te leggen."(51) Voetnoot 165 van het aangehaalde 
+advies: RvS 18 mei 1999, nr. 80.282, Van der Vinck e.a.; zie in diezelfde zin, RvS 7 augustus 2000, nr. 
+89.216, Van Rossen.(52) Voetnoot 166 van het aangehaalde advies: Advies RvS 
+62.325/2/VR van 2 mei 2018 over een voorontwerp dat geleid heeft tot het decreet van de Franse Gemeenschap 
+van 28 juni 2018 `tot wijziging van het decreet van 7 november 2013 tot bepaling van het hogeronderwijslandschap 
+en de academische organisatie van de studies en houdende transparantie van de niet-erkende instellingen' 
+(http://www.raadvst-consetat.be/dbx/adviezen/62325.pdf).(53) Voetnoot 167 
+van het aangehaalde advies: GwH 22 oktober 2003, nr. 136/2003.(54) Voetnoot 
+168 van het aangehaalde advies: Wat het verbod op schorsing van de Grondwet betreft, zie randnummer 8.(55) 
+Voormeld advies 69.305/AV, opmerking 36.2.(56) Zie opmerking 29.   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-21Numac : 2021042150
+

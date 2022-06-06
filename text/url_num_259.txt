@@ -1,0 +1,604 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/07/17/2020042499/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-07-30Numac : 2020042499
+VLAAMSE OVERHEID
+ 17 JULI 2020. - Besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 24 april 2020 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19 crisis, wat betreft de tweede fase van de maatregelen 
+RechtsgrondenDit 
+besluit is gebaseerd op:- het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, 
+artikel 60, artikel 143, gewijzigd bij het decreet van 15 februari 2019, artikel 145, artikel 148, artikel 
+150 en 152, gewijzigd bij het decreet van 15 februari 2019;- het Woonzorgdecreet van 15 februari 
+2019, artikel 55 en 56, gewijzigd bij het decreet van 20 december 2019, en artikel 57;VormvereistenDe 
+volgende vormvereisten zijn vervuld:- Er is geen advies gevraagd aan de Raad van State, met 
+toepassing van artikel 3, § 1, van de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973.Er is een dringende noodzakelijkheid ten gevolge van de evolutie van de corona-pandemie 
+in de woonzorgcentra, centra voor kortverblijf, centra voor dagverzorging en centra voor dagopvang. Deze 
+voorzieningen bevinden zich nog steeds in een precaire situatie zowel wat betreft de COVID19-bestrijding 
+alsook op organisatorisch en financieel vlak. Recent werd besloten dat de opnamestop in woonzorgcentra 
+en centra voor kortverblijf wordt opgeheven maar dat het aangeraden is een verantwoorde leegstand aan 
+te houden om snel naar cohortezorg over te kunnen schakelen. Leegstand heeft echter minderinkomsten tot 
+gevolg in een sector die ook financieel onder druk staat. Financiële duidelijkheid is dringend vereist 
+opdat deze voorzieningen zich correct kunnen organiseren. Ook de personeelsequipe in deze voorzieningen 
+heeft uitzonderlijk gepresteerd en zal nu de extra gepresteerde uren opnemen in compensatierust. De sector 
+moet in deze volle zomerperiode weten welke mogelijkheden er worden voorzien om de personele omkadering 
+in te vullen met vervangers gezien het werkvolume hoog blijft en er nog steeds besmettingsgevaar is bij 
+de bewoners. De centra voor dagverzorging en centra voor dagopvang kunnen ondertussen terug opstarten. 
+Veel voorzieningen zijn echter beperkt bezet. Talrijke centra voor dagverzorging en dagopvang starten 
+op dit moment dan ook nog niet op omdat er geen financiële maatregelen zijn voor de leegstand die in 
+dat geval zou optreden. Dit besluit voorziet hierin en laat deze voorzieningen toe om de dringend noodzakelijke 
+opstart uit te voeren. De voorzieningen organiseren zich momenteel in deze volgende fase van de COVID-19-crisis. 
+Het is daarbij onontbeerlijk te weten welke financiële compensaties en personele maatregelen er worden 
+getroffen ter ondersteuning van de sector. Het is bijgevolg hoogdringend om deze maatregelen dan ook 
+effectief te bekrachtigen en kenbaar te maken.- De Vlaamse minister, bevoegd voor de begroting, 
+heeft zijn akkoord gegeven op 16 juli 2020.MotiveringDit besluit is gebaseerd op 
+volgende motieven:- De woonzorgcentra, centra voor kortverblijf, centra voor dagverzorging 
+en centra voor dagopvang bevinden zich in een nieuwe fase van de COVID-19-crisis, waarbij ze zich organiseren 
+om goede zorg te kunnen verstrekken binnen de huidige context waarin het virus zeker niet verdwenen is. 
+Woonzorgcentra en centra voor kortverblijf voorzien in een verantwoorde leegstand van woongelegenheden 
+opdat bij een nieuwe uitbraak spoedig kan worden omgeschakeld naar een werking op basis van cohortering. 
+Een volledige bezetting in centra voor dagverzorging en centra voor dagopvang zal ook niet langer mogelijk 
+zijn. Die onderbezetting heeft uiteraard een impact op de inkomsten uit de facturatie van de basistegemoetkoming 
+voor zorg en de dagprijs.- Woonzorgcentra en centra voor kortverblijf zullen ook extra personeel 
+moeten voorzien om de medewerkers die gepresteerde meeruren als recuperatie opnemen, te vervangen.- 
+Woonzorgcentra en centra voor kortverblijf moeten makkelijk extern zorgpersoneel kunnen inzetten en ondersteund 
+worden in de extra kosten die dat met zich meebrengt.Juridisch kaderDit besluit sluit 
+aan bij de volgende regelgeving:- het besluit van de Vlaamse Regering van 30 november 2018 
+houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;- 
+het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden 
+en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;- 
+het besluit van de Vlaamse Regering van 13 maart 2020 tot het nemen van tijdelijke maatregelen om de 
+verspreiding van COVID-19 tegen te gaan.InitiatiefnemerDit besluit wordt voorgesteld 
+door de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding.Na beraadslaging,DE 
+VLAAMSE REGERING BESLUIT:Artikel 1. In artikel 1 van het besluit van de Vlaamse Regering van 
+24 april 2020 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra 
+voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19 
+crisis worden de volgende wijzigingen aangebracht:1°  voor punt 1°,  dat punt 1° /4 wordt, 
+worden een punt 1° /1 tot en met 1° /3 ingevoegd, die luiden als volgt:"1° /1 aantal opgenomen 
+bewoners: de som van het gemiddelde aantal bewoners dat aanwezig is in een individueel woonzorgcentrum 
+en centrum voor kortverblijf en het gemiddelde aantal bewoners dat tijdelijk afwezig is voor een bepaalde 
+periode; 1° /2 aantal dagen verminderde bezetting: de verminderde bezetting tijdens een periode 
+vermenigvuldigd met het aantal dagen tijdens die periode;1° /3 aanwezigheidsdagen: het aantal 
+dagen dat de gebruiker effectief in het centrum voor dagverzorging of het centrum voor dagopvang aanwezig 
+is;";2°  in punt 2°  wordt tussen de woorden "basistegemoetkoming voor zorg" en de zinsnede 
+": de geïndexeerde" de zinsnede "op 1 maart 2020" ingevoegd";3°  er worden een punt 2° /1 en 
+een punt 2° /2 ingevoegd, die luiden als volgt:"2° /1 basistegemoetkoming voor zorg op 25 mei 
+2020: de geïndexeerde basistegemoetkoming voor zorg in een centrum voor dagverzorging, die van toepassing 
+is op 25 mei 2020 als vermeld in artikel 459, 1°,  van het besluit van de Vlaamse Regering van 30 november 
+2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;2° 
+/2 basistegemoetkoming voor zorg op 1 augustus 2020: de geïndexeerde basistegemoetkoming voor zorg in 
+een woonzorgcentrum of een centrum voor kortverblijf, die van toepassing is op 1 augustus 2020 als vermeld 
+in artikel 458, 1°,  van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering 
+van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;";4°  punt 4°  wordt 
+opgeheven;5°  er wordt een punt 4° /1 ingevoegd, dat luidt als volgt:"4° /1 COVID-19-maatregelen: 
+de maatregelen vermeld in dit besluit;"6°  er wordt een punt 6° /1 ingevoegd, dat luidt als 
+volgt:"6/1°  gemiddelde aantal gefactureerde uren per dag 2019: het gemiddelde aantal gefactureerde 
+uren per dag in een centrum voor dagopvang dat berekend wordt op basis van de bezettingsgegevens 2019, 
+die ingediend zijn met toepassing van artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling 
+van de subsidiëringswijze van de dagverzorgingscentra, waarbij het totale aantal gefactureerde uren per 
+centrum voor dagopvang voor het jaar 2019 wordt gedeeld door 250. Als er geen bezettingsgegevens 2019 
+zijn, wordt het gemiddelde aantal gefactureerde uren per dag bepaald op 18 uren;";7°  er wordt 
+een punt 7° /1 ingevoegd, dat luidt als volgt:"7/1°  gemiddelde dagbezetting 2019: de gemiddelde 
+dagbezetting van het centrum voor dagverzorging, dat berekend wordt op basis van de bezettingsgegevens 
+2019, die zijn ingediend met toepassing van het ministerieel besluit van 22 april 2015 tot vaststelling 
+van de subsidiëringswijze van de dagverzorgingscentra, en artikel 2 van het ministerieel besluit van 
+22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra voor palliatieve 
+verzorging en op basis van 53/1, eerste lid van bijlage IX bij het besluit van de Vlaamse Regering van 
+24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen 
+en verenigingen van gebruikers en mantelzorgers. Als er geen bezettingsgegevens 2019 zijn, wordt de gemiddelde 
+dagbezetting bepaald op tien gebruikers;";8°  er wordt een punt 8° /1 ingevoegd, dat luidt 
+als volgt:"8/1°  gesloten dagen cohortzorg: de dagen tussen 1 september 2020 tot en met 31 
+december 2020 waarop het centrum voor dagverzorging genoodzaakt is om volledig gesloten te blijven om 
+dienst te doen als cohortafdeling en die het centrum voor dagverzorging doorgeeft via het e-loket van 
+het agentschap;";9°  in punt 10°  en punt 11°  wordt het woord "COVID-19-periode" telkens vervangen 
+door de zinsnede "periode van 13 maart 2020 tot en met 31 juli 2020";10°  er worden een punt 
+11° /1 en een punt 11° /2 ingevoegd, die luiden als volgt:"11° /1 maximaal aantal openingsdagen: 
+het aantal dagen dat het centrum voor dagverzorging of het centrum voor dagopvang geopend kan zijn, rekening 
+houdend met het openingsregime zoals meegedeeld in de bezettingsgegevens 2019, die zijn ingediend ter 
+uitvoering van artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze 
+van de dagverzorgingscentra en artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling 
+van de subsidiëringswijze van de dagverzorgingscentra voor palliatieve verzorging. Als er geen informatie 
+is over het openingsregime in de bezettingsgegevens 2019, wordt het maximale aantal openingsdagen bepaald 
+op vijf dagen per week;11° /2 ondersteuningspersoneel: het personeel dat tewerkgesteld is in 
+de schoonmaakdienst, de logistieke dienst en de keuken, en het personeel voor de begeleiding van wonen 
+en leven;11°  er worden een punt 13°  tot en met 17°  toegevoegd, die luiden als volgt:"13° 
+ referentiebezetting: de individuele gemiddelde bezettingsgraad van een woonzorgcentrum, al dan niet 
+met bijbehorend centrum voor kortverblijf, in de referentieperiode van 1 juli 2018 tot en met 30 juni 
+2019 waarbij het aantal gefactureerde ligdagen tijdens de periode van 1 juli 2018 tot en met 30 juni 
+2019, zoals opgegeven in de elektronische vragenlijst, vermeld in artikel 452 van het besluit van de 
+Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende 
+de Vlaamse sociale bescherming voor de berekening van de basistegemoetkoming voor zorg gedeeld wordt 
+door (het gemiddelde aantal erkende woongelegenheden tijdens de periode van 1 juli 2018 tot en met 30 
+juni 2019 vermenigvuldigd met 365). De individuele bezettingsgraad bedraagt maximaal 1. Voor woonzorgcentra, 
+al dan niet met bijbehorend centrum voor kortverblijf, waarvan de eerste erkenning ingaat vanaf 1 juli 
+2018, is de referentiebezetting gelijk aan de sectorale gemiddelde bezettingsgraad van 0,9419.;14° 
+ referentiegetal verminderde bezetting: het verschil tussen (het gemiddelde aantal erkende woongelegenheden 
+x de referentiebezetting) en (het gemiddelde aantal erkende woongelegenheden x de referentiebezetting 
+verminderd met 10%). Voor een woonzorgcentrum al dan niet met bijbehorend centrum voor kortverblijf dat 
+zwaar getroffen is door de Covid-19-crisis, is dit het verschil tussen (het gemiddelde aantal erkende 
+woongelegenheden x de referentiebezetting) en (het gemiddelde aantal erkende woongelegenheden x de referentiebezetting 
+verminderd met 20%).15°  te financieren verminderde bezetting: de laagste waarde van de verminderde 
+bezetting en het referentiegetal verminderde bezetting;16°  verminderde bezetting: het verschil 
+tussen het resultaat van de volgende formule: (het gemiddelde aantal erkende woongelegenheden x referentiebezetting) 
+en (het aantal opgenomen bewoners). Als het resultaat van het verschil negatief is, wordt het verschil 
+herleid naar 0.";17°  woonzorgcentrum al dan niet met bijbehorend centrum voor kortverblijf 
+dat zwaar getroffen is door de Covid-19-crisis: een woonzorgcentrum al dan niet met bijbehorend centrum 
+voor kortverblijf waarbij het resultaat van de volgende formule groter is dan 0,15: (de som van het aantal 
+overlijdens, tijdens de periode van 18 maart 2020 tot en met 2 juni 2020, gemeld in het eLoket in de 
+"éénmalige bevraging COVID-19 overlijdens bewoners periode 18/03/2020 tot en met 02/06/2020", van bewoners 
+van het woonzorgcentrum al dan niet met bijhorend centrum voor kortverblijf, in het woonzorgcentrum, 
+al dan niet met bijbehorend centrum voor kortverblijf, waarbij het overlijden, een bevestigd of vermoedelijk 
+overlijden ten gevolge van Covid-19 betreft en het aantal overlijdens van bewoners van het woonzorgcentrum 
+al dan niet met bijhorend centrum voor kortverblijf in het ziekenhuis), gedeeld door (de reële bezetting 
+op 18 maart 2020, of de eerste dag na 18 maart waarop de reële bezetting gemeld werd, zoals in het e-loket 
+gemeld in het kader van de COVID-19-registratie)Art. 2. In artikel 2 van hetzelfde besluit 
+wordt tussen de woorden "basistegemoetkoming voor zorg" en de zinsnede "x aantal gesloten dagen" de zinsnede 
+"op 1 maart 2020" ingevoegd".Art. 3. In hetzelfde besluit worden een artikel 3/1 tot en met 
+3/4 ingevoegd, die luiden als volgt:"Art. 3/1. Aan de centra voor dagverzorging die op 25 mei 
+2020 erkend zijn met een bijkomende erkenning, wordt een subsidie toegekend die op de volgende wijze 
+berekend wordt: basistegemoetkoming voor zorg op 25 mei 2020 x ((maximaal aantal openingsdagen vanaf 
+25 mei 2020 tot en met 31 augustus 2020 x individuele bezettingsgraad bijkomende erkenning x gemiddelde 
+aantal verblijfseenheden bijkomende erkenning tijdens de periode van 25 mei 2020 tot en met 31 augustus 
+2020) - het aantal aanwezigheidsdagen van gebruikers ingedeeld in de afhankelijkheidscategorieën F, Fd, 
+D of Fp vanaf 25 mei 2020 tot en met 31 augustus 2020).Art. 3/2. Aan de centra voor dagverzorging 
+die op 25 mei 2020 erkend zijn met een bijkomende erkenning, wordt een subsidie toegekend die op de volgende 
+wijze wordt berekend: basistegemoetkoming voor zorg op 25 mei 2020 x ((aantal openingsdagen vanaf 1 september 
+2020 tot en met 31 december 2020 x individuele bezettingsgraad bijkomende erkenning x gemiddelde aantal 
+verblijfseenheden bijkomende erkenning tijdens de periode van 1 september 2020 tot en met 31 december 
+2020) - het aantal aanwezigheidsdagen van gebruikers ingedeeld in de afhankelijkheidscategorieën F, Fd, 
+D of Fp vanaf 1 september 2020 tot en met 31 december 2020).Art. 3/3. Als het resultaat van 
+de formules, vermeld in artikel 3/1 of artikel 3/2, negatief is, wordt de respectieve subsidie herleid 
+naar 0 euro.Art. 3/4. Aan de centra voor dagverzorging met een bijkomende erkenning die in 
+de periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te 
+blijven om dienst te doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt 
+berekend: basistegemoetkoming voor zorg op 25 mei 2020 x aantal gesloten dagen cohortzorg x individuele 
+bezettingsgraad bijkomende erkenning x gemiddelde aantal verblijfseenheden bijkomende erkenning.".Art. 
+4. In hetzelfde besluit wordt een artikel 4/1 ingevoegd, dat luidt als volgt:"Art. 4/1. In 
+afwijking van artikel 662/6, § 1, § 2 en § 3, van het besluit van de Vlaamse Regering 
+van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale 
+bescherming bepaalt het agentschap voor de centra voor dagverzorging, die volgens het instapmoment, vermeld 
+in artikel 662/3, § 1 van het voormelde besluit, nog recht hebben op een voorschot, vanaf de maand 
+augustus 2020, per centrum voor dagverzorging het bedrag van het voorschot dat het centrum voor dagverzorging 
+voor elke maand per zorgkas ontvangt.Een voorschot voor de maand in kwestie wordt betaald vanaf 
+de maand dat de som van het aantal aanwezigheidsdagen van gebruikers ingedeeld in de afhankelijkheidscategorieën 
+F, Fd, D of Fp, in de periode van 25 mei 2020 tot en met 31 december 2020 vermenigvuldigd met de basistegemoetkoming 
+voor zorg op 1 maart 2020 groter is dan de som van de betaalde voorschotbedragen voor de maanden mei 
+2020, juni 2020 en juli 2020.Het voorschotbedrag per zorgkas wordt bepaald met de volgende 
+formule: gefactureerde dagen in de maand M-1 x basistegemoetkoming voor zorg op 1 augustus 2020 x aandeel 
+van de zorgkas.Elk centrum voor dagverzorging dat een voorschot wil ontvangen voor de maand 
+M, deelt daarvoor de aanwezigheidsdagen sinds 25 mei 2020 tot en met de maand M-1 uiterlijk op de vijftiende 
+van de maand M mee via het e-loket conform artikel 5/7, eerste lid, 2°. Als het centrum voor 
+dagverzorging de gegevens, vermeld in het vierde lid, niet tijdig meedeelt, verliest de voorziening het 
+recht op het voorschot voor de maand M.".Art. 5. In hetzelfde besluit worden een artikel 5/1 
+tot en met 5/11 ingevoegd, die luiden als volgt:"Art. 5/1. Aan de centra voor dagverzorging 
+die op 25 mei 2020 erkend zijn, wordt vanaf 25 mei 2020 tot en met 31 augustus 2020 een subsidie toegekend 
+die op de volgende wijze wordt berekend: ((gemiddelde dagbezetting 2019 x maximaal aantal openingsdagen 
+vanaf 25 mei 2020 tot en met 31 augustus 2020) - het aantal aanwezigheidsdagen van alle gebruikers vanaf 
+25 mei 2020 tot en met 31 augustus 2020) x 18 euro.Art. 5/2. Aan de centra voor dagverzorging 
+die op 25 mei 2020 erkend zijn, wordt vanaf 1 september 2020 tot en met 30 september 2020 een subsidie 
+toegekend die op de volgende wijze wordt berekend: ((gemiddelde dagbezetting 2019 x aantal openingsdagen 
+vanaf 1 september 2020 tot en met 30 september 2020) - het aantal aanwezigheidsdagen van alle gebruikers 
+vanaf 1 september 2020 tot en met 30 september 2020) x 18 euro.Art. 5/3. Aan de centra voor 
+dagverzorging die op 25 mei 2020 erkend zijn, wordt vanaf 1 oktober 2020 tot en met 31 december 2020 
+een subsidie toegekend die op de volgende wijze wordt berekend: ((gemiddelde dagbezetting 2019 x aantal 
+openingsdagen vanaf 1 oktober 2020 tot en met 31 december 2020) - het aantal aanwezigheidsdagen van alle 
+gebruikers vanaf 1 oktober 2020 tot en met 31 december 2020) x 9 euro.Art. 5/4. Als het resultaat 
+van de formules, vermeld in artikel 5/1, 5/2 of 5/3 negatief is, wordt de respectieve subsidie herleid 
+naar 0 euro.Art. 5/5. Aan alle erkende centra voor dagverzorging die in de periode tussen 1 
+september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te 
+doen als cohortafdeling, wordt een subsidie toegekend die op de volgende wijze wordt berekend: gemiddelde 
+dagbezetting 2019 x aantal gesloten dagen cohortzorg x 18 euro.Art. 5/6. Aan alle erkende centra 
+voor dagverzorging die heropstarten voor 1 september 2020, wordt een subsidie als tussenkomst in de bijkomende 
+kosten voor de organisatie van het vervoer toegekend die op de volgende wijze wordt berekend: tussenkomst 
+vervoer x bezetting zware zorg 2019.In het eerste lid wordt verstaan onder1°  bezetting 
+zware zorg 2019: het totale aantal aanwezigheidsdagen in 2019 van gebruikers ingedeeld in de afhankelijkheidscategorieën 
+F, Fd, D of Fp van het centrum voor dagverzorging, dat berekend wordt op basis van de bezettingsgegevens 
+2019, die zijn ingediend ter uitvoering van artikel 2 van het ministerieel besluit van 22 april 2015 
+tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra en artikel 2 van het ministerieel 
+besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra voor 
+palliatieve verzorging en op basis van 53/1, eerste lid, van bijlage IX bij het besluit van de Vlaamse 
+Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling 
+voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers. Voor centra voor dagverzorging 
+die voor het eerst zijn erkend na 1 januari 2019, wordt de bezetting zware zorg 2019 bepaald op 1.700 
+dagen;2°  tussenkomst vervoer: een subsidiebedrag dat de minister bepaalt op basis enerzijds 
+van de gegevens die meegedeeld zijn vermeld in punt 1°  en anderzijds het budget zoals goedgekeurd bij 
+de begrotingsaanpassing voor het jaar 2020 voor de vervoerskosten in centra voor dagverzorging in de 
+periode van 14 maart 2020 tot en met 24 mei 2020.Art. 5/7. Om in aanmerking te komen voor de 
+subsidies, vermeld in artikel 3/1, artikel 3/2, 5/1, 5/2 en 5/3, delen de centra voor dagverzorging aan 
+het agentschap al de volgende gegevens mee:1°  het aantal dagen dat het centrum voor dagverzorging 
+effectief is geopend;2°  de som van het aantal aanwezigheidsdagen van alle gebruikers, ingedeeld 
+per afhankelijkheidscategorie voor de afgelopen periode;3°  in geval van sluiting, al dan niet 
+om dienst te doen als cohortafdeling: de verklaring dat de medewerkers die in het centrum voor dagverzorging 
+tewerkgesteld zijn, hun vastgestelde arbeidstijd verder inzetten in de cohortafdeling of in een door 
+hun werkgever te bepalen alternatieve arbeid in het aanbod dat erkend, vergund of gesubsidieerd wordt 
+in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid.Om in aanmerking te 
+komen voor de subsidies, vermeld in artikel 3/4 en 5/5, delen de centra voor dagverzorging die in de 
+periode tussen 1 september 2020 tot en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven 
+om dienst te doen als cohortafdeling, al de volgende gegevens mee:1°  het aantal dagen in de 
+voorbije maand dat ze dienst hebben gedaan als cohortafdeling;2°  de verklaring dat de medewerkers 
+die in het centrum voor dagverzorging zijn tewerkgesteld, hun vastgestelde arbeidstijd verder inzetten 
+in de cohortafdeling of in een door hun werkgever te bepalen alternatieve arbeid in het aanbod dat erkend, 
+vergund of gesubsidieerd wordt in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid.De 
+centra voor dagverzorging delen de gegevens, vermeld in het eerste lid, mee via het e-loket volgens de 
+volgende fasering:1°  de periode van 25 mei 2020 tot en met 31 juli 2020: uiterlijk op 15 augustus 
+2020;2°  voor elke volgende maand: uiterlijk op de vijftiende van de maand die volgt op de 
+maand in kwestie.De centra voor dagverzorging die in de periode tussen 1 september 2020 tot 
+en met 31 december 2020 genoodzaakt zijn volledig gesloten te blijven om dienst te doen als cohortafdeling, 
+delen de gegevens, vermeld in het tweede lid, uiterlijk op de vijftiende van de maand die volgt op de 
+maand in kwestie, mee via het e-loket.Als de gegevens, vermeld in het eerste en tweede lid, 
+voor een bepaalde maand niet tijdig zijn meegedeeld, verliest de voorziening het recht op de tegemoetkoming 
+voor de maand in kwestie.Art. 5/8. Het recht op de subsidie, vermeld in artikel 5/6, vervalt 
+als het centrum voor dagverzorging de bezettingsgegevens voor het jaar 2019, als vermeld in artikel 2 
+van het ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra 
+en artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze 
+van de dagverzorgingscentra voor palliatieve verzorging, niet voor 1 september 2020 bezorgt aan het agentschap.Art. 
+5/9. Om de werkingssubsidies voor de centra voor dagverzorging, vermeld in hoofdstuk 6 van bijlage 7 
+bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden 
+en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, te 
+bepalen, wordt voor het jaar 2020 rekening gehouden met de gemiddelde bezettingsgraad voor het jaar 2019, 
+die berekend wordt op basis van de bezettingsgegevens die worden bezorgd met toepassing van het artikel 
+2 van ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra 
+en het artikel 2 van ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze 
+van de dagverzorgingscentra voor palliatieve verzorging.Art. 5/10. In afwijking van artikel 
+66 en 67 van bijlage 7 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, 
+de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers 
+en gebruikers komen de erkende centra voor dagverzorging voor het jaar 2020 in aanmerking voor een jaarlijks 
+subsidiebedrag dat berekend wordt op basis van de gemiddelde bezettingsgraad 2019.De centra 
+voor dagverzorging die een gemiddelde bezettingsgraad van minimaal tien gebruikers realiseren, komen 
+in aanmerking voor een subsidiebedrag van 35.000 euro per jaar. De gemiddelde bezettingsgraad is het 
+totale aantal gefactureerde aanwezigheidsdagen per kalenderjaar, gedeeld door 250.De centra 
+voor dagverzorging die een gemiddelde bezettingsgraad van minder dan tien gebruikers maar van minimaal 
+vier hebben, kunnen evenredig aan de gerealiseerde gemiddelde bezettingsgraad een subsidiebedrag ontvangen 
+van 33.200 euro, 31.400 euro, 29.600 euro, 27.800 euro, 26.000 euro of 24.200 euro, naargelang ze een 
+gemiddelde bezettingsgraad hebben van minstens 9, 8, 7, 6, 5 of 4.De bedragen, vermeld in het 
+tweede en derde lid, zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 
+januari 2012.Ongeacht de gerealiseerde gemiddelde bezettingsgraad kunnen dagverzorgingscentra 
+die voor het eerst erkend worden, gedurende de eerste drie jaar waarin ze voor subsidiëring in aanmerking 
+komen, een subsidiebedrag ontvangen dat gelijk kan zijn aan het hoogste subsidiebedrag.Art. 
+5/11. Centra voor dagverzorging die in 2020 voor het vierde jaar voor subsidiëring in aanmerking komen, 
+kunnen in afwijking van artikel 5/10, vijfde lid, het hoogste subsidiebedrag voor 2020 ontvangen, ongeacht 
+de gerealiseerde bezettingsgraad 2019.".Art. 6. Aan artikel 7 van hetzelfde besluit worden 
+volgende wijzigingen aangebracht:1°  aan het eerste lid wordt de zinsnede "en het aantal gecompenseerde 
+dagen wegens niet-bezetting" toegevoegd;2°  er wordt een tweede lid toegevoegd, dat luidt als 
+volgt:"In het eerste lid wordt verstaan onder aantal gecompenseerde dagen wegens niet-bezetting: 
+Het aantal dagen waarvoor aan het centrum voor dagverzorging een subsidie wordt toegekend vermeld in 
+artikel 3/1 tot en met 3/4.".Art. 7. In hetzelfde besluit worden een artikel 8/1 tot en met 
+8/5 ingevoegd, die luiden als volgt:"Art. 8/1. Aan de centra voor dagopvang die op 25 mei 2020 
+erkend zijn, wordt vanaf 25 mei 2020 tot en met 31 augustus 2020 een subsidie toegekend die op de volgende 
+wijze wordt berekend: ((gemiddelde aantal gefactureerde uren per dag 2019 x maximaal aantal openingsdagen 
+vanaf 25 mei 2020 tot en met 31 augustus 2020) - het aantal aanwezigheidsuren van alle gebruikers vanaf 
+25 mei 2020 tot en met 31 augustus 2020) x 3,5 euro.Art. 8/2. Aan de centra voor dagopvang 
+die op 25 mei 2020 erkend zijn, wordt vanaf 1 september 2020 tot en met 30 september 2020 een subsidie 
+toegekend die op de volgende wijze wordt berekend: ((gemiddelde aantal gefactureerde uren per dag 2019 
+x aantal openingsdagen vanaf 1 september 2020 tot en met 30 september 2020) - het aantal aanwezigheidsuren 
+van alle gebruikers vanaf 1 september 2020 tot en met 30 september 2020) x 3,5 euro.Art. 8/3. 
+Aan de centra voor dagopvang die op 25 mei 2020 erkend zijn, wordt vanaf 1 oktober 2020 tot en met 31 
+december 2020 een subsidie toegekend die op de volgende wijze wordt berekend: ((gemiddelde aantal gefactureerde 
+uren per dag 2019 x aantal openingsdagen vanaf 1 oktober 2020 tot en met 31 december 2020) - het aantal 
+aanwezigheidsuren van alle gebruikers vanaf 1 oktober 2020 tot en met 31 december 2020) x 1,75 euro.Art. 
+8/4. Als het resultaat van de formules, vermeld in artikel 8/1, 8/2, of 8/3, negatief is, wordt de respectieve 
+subsidie herleid naar 0 euro.Art. 8/5. Om in aanmerking te komen voor de subsidies, vermeld 
+in artikel 8/1, 8/2 en 8/3, deelt het centrum voor dagopvang aan het agentschap al de volgende gegevens 
+mee:1°  het aantal dagen dat het centrum voor dagopvang effectief is geopend;2°  
+de som van het aantal aanwezigheidsuren van alle gebruikers voor de afgelopen periode.De centra 
+voor dagopvang delen de gegevens, vermeld in het eerste lid, mee via het e-loket volgens de volgende 
+fasering:1°  de periode van 25 mei 2020 tot en met 31 juli 2020: uiterlijk op 15 augustus 2020;2° 
+ voor elke volgende maand: uiterlijk op de vijftiende van de maand die volgt op de maand in kwestie.Als 
+de gegevens, vermeld in het eerste lid, voor een bepaalde maand niet tijdig zijn meegedeeld, verliest 
+de voorziening het recht op de tegemoetkoming voor de maand in kwestie.".Art. 8. Artikel 9 
+van hetzelfde besluit wordt vervangen door wat volgt:"Art. 9. Om de werkingssubsidies voor 
+de centra voor dagopvang, vermeld in artikel 83 tot en met 87 van bijlage 2 bij het besluit van de Vlaamse 
+Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling 
+voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, te bepalen, wordt voor het 
+jaar 2020 rekening gehouden met de gemiddelde bezettingsgraad voor het jaar 2019, berekend op basis van 
+de bezettingsgegevens die bezorgd zijn met toepassing van artikel 2 van het ministerieel besluit van 
+22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra.".Art. 
+9. In hetzelfde besluit wordt een artikel 9/1 ingevoegd, dat luidt als volgt:"Art. 9/1. In 
+afwijking van artikel 85 van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende 
+de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen 
+voor mantelzorgers en gebruikers ontvangen de centra voor dagopvang die zich in 2020 in de eerste vier 
+jaar van de subsidiëring bevinden, het hoogste subsidiebedrag voor 2020, ongeacht de gerealiseerde bezettingsgraad 
+2019.".Art. 10. In artikel 10, eerste lid, van hetzelfde besluit worden de volgende wijzigingen 
+aangebracht:1°  tussen het woord "wordt" en het woord "een" wordt de zinsnede "voor de periode 
+van 13 maart 2020 tot en met 31 juli 2020" ingevoegd;2°  tussen de woorden "basistegemoetkoming 
+voor zorg" en de zinsnede "x (aantal leegstandsdagen" wordt de zinsnede "op 1 maart 2020" ingevoegd".Art. 
+11. Aan artikel 11 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:"Als 
+de gegevens, vermeld in eerste lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op 
+de subsidie, vermeld in artikel 10, voor de mee te delen periode.".Art. 12. In hetzelfde besluit 
+worden een artikel 11/1 tot en met 11/5 ingevoegd, die luiden als volgt:"Art. 11/1. Aan de 
+woonzorgcentra en centra voor kortverblijf die op 31 juli 2020 erkend zijn, wordt voor de periode van 
+1 augustus 2020 tot en met 30 september 2020 een subsidie toegekend die op de volgende wijze wordt berekend: 
+te financieren verminderde bezetting voor de periode van 1 augustus 2020 tot en met 30 september 2020 
+x (basistegemoetkoming voor zorg op 1 augustus 2020 + (dagprijs op 1 mei 2019 x 0,9)) x aantal dagen 
+in de periode.Art. 11/2. Aan de woonzorgcentra en centra voor kortverblijf die op 31 juli 2020 
+erkend zijn wordt voor de periode van 1 oktober 2020 tot en met 31 december 2020 een subsidie toegekend 
+die op de volgende wijze wordt berekend: te financieren verminderde bezetting voor de periode van 1 oktober 
+2020 tot en met 31 december 2020 x (basistegemoetkoming voor zorg op 1 augustus 2020 + (dagprijs op 1 
+mei 2019 x 0,40)) x aantal dagen in de periode.Art. 11/3. Om in aanmerking te komen voor de 
+subsidie, vermeld in artikel 11/1 en 11/2, en de voorschotten, vermeld in artikel 11/5, melden de woonzorgcentra 
+en centra voor kortverblijf voor elke maand, uiterlijk op de vijftiende van de maand die volgt op de 
+maand in kwestie, het aantal opgenomen bewoners in de maand in kwestie via het e-loket van het agentschap.Als 
+de gegevens, vermeld in eerste lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op 
+de subsidie, vermeld in artikel 11/1 en 11/2, voor de maand in kwestie.Art. 11/4. Voor een 
+overlijden of een einde van de opnameovereenkomst vanaf 1 juli 2020 tot en met 31 december 2020 kan er 
+geen dagprijs aan de bewoner of de vertegenwoordiger van de bewoner worden aangerekend voor de dagen 
+waarop de woongelegenheid niet is bewoond tijdens de opzegtermijn doordat de opnameovereenkomst is beëindigd 
+of tijdens de termijn waarover de nabestaanden beschikken om de kamer te ontruimen na overlijden. Onterecht 
+aangerekende bedragen worden aan de bewoner of de vertegenwoordiger van de bewoner terugbetaald.Art. 
+11/5. In afwijking van artikel 662/6, § 1 en § 3, van het besluit van de Vlaamse Regering 
+van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale 
+bescherming bepaalt het agentschap voor de woonzorgcentra en centra voor kortverblijf, die volgens het 
+instapmoment, vermeld in artikel 662/3, § 1, van het voormelde besluit, nog recht hebben op een 
+voorschot, vanaf de maand augustus 2020, per woonzorgcentrum of centrum voor kortverblijf het bedrag 
+van het voorschot dat het woonzorgcentrum of centrum voor kortverblijf voor elke maand per zorgkas ontvangt.Het 
+agentschap bepaalt, voor de voorschotten vanaf de maand augustus 2020, per woonzorgcentrum of centrum 
+voor kortverblijf, het voorschot voor elke maand M dat de zorgvoorziening per zorgkas ontvangt op basis 
+van de volgende formule: het gemiddelde aantal erkende woongelegenheden in maand M x het bedrag van de 
+basistegemoetkoming voor zorg op 1 juli 2020 x 30 x bezettingsgraad M-1 x het aandeel van de zorgkas.De 
+bezettingsgraad M-1, vermeld in het tweede lid, wordt bepaald met de formule: (aantal opgenomen bewoners 
+in maand M-1/gemiddelde aantal erkende woongelegenheden in maand M-1).Het aandeel van de zorgkas 
+wordt bepaald op basis van het aantal leden dat bij de zorgkas in kwestie aangesloten is in de zorgvoorziening 
+in kwestie, vermeld in het tweede lid, ten opzichte van de aangeslotenen bij de andere zorgkassen in 
+de zorgvoorziening, vermeld in het tweede lid, in kwestie.Elk woonzorgcentrum of centrum voor 
+kortverblijf dat een voorschot wil ontvangen voor de maand M, deelt daarvoor het aantal opgenomen bewoners 
+voor de maand M-1 uiterlijk op de vijftiende van de maand M mee via het e-loket conform artikel 11/3.Als 
+het woonzorgcentrum of centrum voor kortverblijf de gegevens, vermeld in het vijfde lid, niet tijdig 
+meedeelt, verliest de voorziening het recht op het voorschot voor de maand M.".Art. 13. Artikel 
+12 van hetzelfde besluit wordt vervangen door wat volgt:"Art. 12. In afwijking van artikel 
+529, § 1, eerste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de 
+uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, mogen woonzorgcentra 
+in 2020 per kwartaal meer dagen factureren dan het maximale aantal dagen rekening houdend met hun erkende 
+capaciteit, zolang dat aantal dagen het maximale aantal dagen voor het volledige jaar 2020 uitgaande 
+van hun erkende capaciteit verminderd met het totale aantal leegstandsdagen tijdens de periode van 13 
+maart 2020 tot en met 31 juli 2020 en met de verminderde bezetting tijdens de periode van 1 augustus 
+2020 tot en met 31 december 2020, niet overschrijdt.".Art. 14. In artikel 13 van hetzelfde 
+besluit, waarvan de bestaande tekst paragraaf 1 zal vormen, worden de volgende wijzigingen aangebracht:1° 
+ in het eerste lid wordt het woord "Covid-19-periode" vervangen door de zinsnede "periode van 13 maart 
+2020 tot en met 30 september 2020";2°  tussen het eerste en het tweede lid wordt een lid ingevoegd, 
+dat luidt als volgt:"Woonzorgcentra en centra voor kortverblijf die te kampen hebben met een 
+tekort aan ondersteuningspersoneel tijdens de periode van 13 maart 2020 tot en met 30 september 2020 
+kunnen een beroep doen op een interimonderneming.";3°  er worden een paragraaf 2 en een paragraaf 
+3 toegevoegd, die luiden als volgt:" § 2. Een zorgkundige of lid van het reactiveringspersoneel 
+als vermeld in paragraaf 1, eerste lid, kan voor een gemiddelde van maximaal 38 uur per week in aanmerking 
+worden genomen voor een financiering van de basistegemoetkoming voor zorg als vermeld in boek 3, deel 
+2, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet 
+van 18 mei 2018 houdende de Vlaamse sociale bescherming. § 3. Het woonzorgcentrum of 
+het centrum voor kortverblijf kan van het agentschap een vergoeding van 32,56 euro per uur ontvangen 
+voor de gepresteerde uren van zorgkundigen die tijdens de periode van 13 maart 2020 tot en met 30 september 
+2020 via een interimonderneming tewerkgesteld zijn.Het woonzorgcentrum of het centrum voor 
+kortverblijf kan van het agentschap een vergoeding van 37,85 euro per uur ontvangen voor de gepresteerde 
+uren van reactiveringspersoneel dat tijdens de periode van 13 maart 2020 tot en met 30 september 2020 
+via een interimonderneming tewerkgesteld is.Het woonzorgcentrum of het centrum voor kortverblijf 
+kan van het agentschap een vergoeding van 26,84 euro ontvangen voor de gepresteerde uren van ondersteuningspersoneel 
+dat tijdens de periode van 13 maart 2020 tot en met 30 september 2020 via een interimonderneming tewerkgesteld 
+is.Om de vergoeding, vermeld in het eerste, tweede of derde lid, te ontvangen, melden de woonzorgcentra 
+en centra voor kortverblijf vóór 19 oktober 2020 al de volgende gegevens via het e-loket:1° 
+ de naam van de zorgkundige, het reactiveringspersoneel of het ondersteuningspersoneel;2°  
+het rijksregisternummer van de personen, vermeld in punt 1° ;3°  de functie van de personen, 
+vermeld in punt 1° ;4°  de interimonderneming;5°  de gepresteerde uren van de personen, 
+vermeld in punt 1°,  tijdens de periode van 13 maart 2020 tot en met 30 september 2020.Als 
+de gegevens, vermeld in het vierde lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht 
+op de vergoeding, vermeld in het eerste tot en met derde lid.Prestaties waarvoor het woonzorgcentrum 
+of centrum voor kortverblijf conform het eerste of tweede lid een vergoeding ontvangt, komen niet in 
+aanmerking voor een financiering van de basistegemoetkoming voor zorg als vermeld in boek 3, deel 2, 
+van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 
+18 mei 2018 houdende de Vlaamse sociale bescherming.".Art. 15. In artikel 14 van hetzelfde 
+besluit worden de volgende wijzigingen aangebracht:1°  aan paragraaf 1, vierde lid, wordt de 
+volgende zinsnede toegevoegd "tijdens de periode van 13 maart 2020 tot en met 30 september 2020";2° 
+ paragraaf 1, vijfde lid wordt vervangen door wat volgt:"Om de vergoeding vermeld in paragraaf 
+1, vierde lid te ontvangen, melden de woonzorgcentra en centra voor kortverblijf vóór 19 oktober 2020 
+al de volgende gegevens via het e-loket:1°  de naam van de verpleegkundige;2°  het 
+rijksregisternummer van de persoon, vermeld in punt 1° ;3°  de gepresteerde uren van de persoon, 
+vermeld in punt 1°,  tijdens de periode van 13 maart 2020 tot en met 31 juli 2020;4°  de gepresteerde 
+uren van de persoon, vermeld in punt 1°,  tijdens de periode van 1 augustus 2020 tot en met 30 september 
+2020;5°  indien van toepassing het statuut of de oorspronkelijke werkgever van de persoon, 
+vermeld in punt 1°. "3°  aan paragraaf 1 wordt een zesde lid toegevoegd, dat luidt als volgt:"Als 
+de gegevens, vermeld in het vijfde lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht 
+op de vergoeding, vermeld in het vierde lid.";4°  in paragraaf 2, tweede lid, wordt het woord 
+"Covid-19-periode" vervangen door de zinsnede "periode van 13 maart 2020 tot en met 30 september 2020";5° 
+ paragraaf 2, derde lid wordt vervangen door wat volgt:"Om de vergoeding vermeld in paragraaf 
+2, tweede lid te ontvangen, melden de woonzorgcentra en centra voor kortverblijf vóór 19 oktober 2020 
+al de volgende gegevens via het e-loket:1°  de naam van de verpleegkundige;2°  het 
+rijksregisternummer van de persoon, vermeld in punt 1° ;3°  de interimonderneming;4° 
+ de gepresteerde uren van de persoon, vermeld in punt 1°,  tijdens de periode van 13 maart 2020 tot en 
+met 31 juli 2020;5°  de gepresteerde uren van de persoon, vermeld in punt 1°,  tijdens de periode 
+van 1 augustus 2020 tot en met 30 september 2020."6°  in paragraaf 2 wordt tussen het derde 
+en het vierde lid een lid ingevoegd, dat luidt als volgt:"Als de gegevens, vermeld in het derde 
+lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op de vergoeding, vermeld in het 
+tweede lid.".Art. 16. In hetzelfde besluit worden een artikel 14/1 tot en met 14/4 ingevoegd, 
+die luiden als volgt:"Art. 14/1. Het woonzorgcentrum of centrum voor kortverblijf kan van het 
+agentschap een vergoeding ontvangen voor de gepresteerde uren tijdens de periode van 13 maart 2020 tot 
+en met 30 september 2020 die het gevolg zijn van contractuitbreidingen of van nieuwe aanwervingen van 
+loontrekkend of statutair personeel die sinds 13 maart 2020 hebben plaatsgevonden.Het woonzorgcentrum 
+of het centrum voor kortverblijf kan van het agentschap een vergoeding van 26,84 euro per uur ontvangen 
+voor de gepresteerde uren als vermeld in het eerste lid, van het ondersteuningspersoneel.Het 
+woonzorgcentrum of het centrum voor kortverblijf kan van het agentschap een vergoeding van 32,56 euro 
+per uur ontvangen voor de gepresteerde uren als vermeld in het eerste lid, van de zorgkundigen.Het 
+woonzorgcentrum of het centrum voor kortverblijf kan van het agentschap een vergoeding van 37,85 euro 
+per uur ontvangen voor de gepresteerde uren als vermeld in het eerste lid, van het reactiveringspersoneel.Het 
+woonzorgcentrum of het centrum voor kortverblijf kan van het agentschap een vergoeding van 47,25 euro 
+per uur ontvangen voor de gepresteerde uren als vermeld in het eerste lid, van de verpleegkundigen.Om 
+de vergoeding, vermeld in het tweede tot en met vijfde lid, te ontvangen, melden de woonzorgcentra en 
+centra voor kortverblijf vóór 19 oktober 2020 al de volgende gegevens via het e-loket:1°  de 
+naam van het personeelslid;2°  het rijksregisternummer van het personeelslid;3°  
+de functie van het personeelslid;4°  de begindatum van de contractuitbreiding of van de nieuwe 
+aanwerving;5°  de gepresteerde uren van het personeelslid tijdens de periode van 13 maart 2020 
+tot en met 30 september 2020.Als de gegevens, vermeld in het zesde lid, niet tijdig zijn meegedeeld, 
+verliest de voorziening het recht op de vergoeding, vermeld in het tweede tot en met vijfde lid.Prestaties 
+waarvoor het woonzorgcentrum of centrum voor kortverblijf conform het derde, vierde of vijfde lid een 
+vergoeding ontvangt, komen niet in aanmerking voor een financiering van de basistegemoetkoming voor zorg 
+als vermeld in boek 3, deel 2, van het besluit van de Vlaamse Regering van 30 november 2018 houdende 
+de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.Art. 
+14/2. Het woonzorgcentrum of centrum voor kortverblijf kan van het agentschap een vergoeding ontvangen 
+voor de gepresteerde uren van jobstudenten die aangeworven zijn tijdens de periode van 13 maart 2020 
+tot en met 30 september 2020.Het woonzorgcentrum of het centrum voor kortverblijf kan van het 
+agentschap een vergoeding van 17,18 euro per uur ontvangen voor de gepresteerde uren als vermeld in het 
+eerste lid, als de jobstudent is tewerkgesteld als ondersteuningspersoneel.Het woonzorgcentrum 
+of het centrum voor kortverblijf kan van het agentschap een vergoeding van 21,71 euro per uur ontvangen 
+voor de gepresteerde uren als vermeld in het eerste lid, als de jobstudent is tewerkgesteld als zorgkundige.Om 
+de vergoeding, vermeld in het tweede of derde lid, te ontvangen, melden de woonzorgcentra en centra voor 
+kortverblijf vóór 19 oktober 2020 al de volgende gegevens via het e-loket:1°  de naam van de 
+jobstudent;2°  het rijksregisternummer van de jobstudent;3°  de functie van de jobstudent;4° 
+ de begindatum van de aanwerving van de jobstudent;5°  de gepresteerde uren van de jobstudent 
+tijdens de periode van 13 maart 2020 tot en met 30 september 2020.Als de gegevens, vermeld 
+in het vierde lid, niet tijdig zijn meegedeeld, verliest de voorziening het recht op de vergoeding, vermeld 
+in het tweede of derde lid.Prestaties waarvoor het woonzorgcentrum of centrum voor kortverblijf 
+een vergoeding conform het derde lid ontvangt, komen niet in aanmerking voor een financiering van de 
+basistegemoetkoming voor zorg als vermeld in boek 3, deel 2, van het besluit van de Vlaamse Regering 
+van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale 
+bescherming.Art. 14/3. De som van de vergoedingen die worden verkregen met toepassing van artikel 
+13, § 3, artikel 14/1 en 14/2 voor de periode van 13 maart 2020 tot en met 31 juli 2020 en van 
+de vergoedingen die worden verkregen met toepassing van artikel 13, § 3, artikel 14, artikel 14/1 
+en artikel 14/2 voor de periode van 1 augustus 2020 tot en met 30 september 2020, is begrensd tot 500 
+euro per erkende woongelegenheid op 30 september 2020.Art. 14/4. § 1. Aan de woonzorgcentra 
+en centra voor kortverblijf wordt voor de periode van 1 juli 2020 tot en met 31 december 2020 een subsidie 
+toegekend die bestemd is voor de bezoldiging van de coördinerend en raadgevend arts.De subsidie 
+vermeld in het eerste lid wordt voor de periode van 1 juli 2020 tot en met 30 september 2020 als volgt 
+berekend: (0,63 euro x (aantal erkende woongelegenheden woonzorgcentrum zonder bijkomende erkenning op 
+30 september 2020 + aantal erkende woongelegenheden centrum voor kortverblijf op 30 september 2020) x 
+referentiebezetting x 92 dagen).De subsidie vermeld in het eerste lid wordt voor de periode 
+van 1 oktober 2020 tot en met 31 december 2020 als volgt berekend: (0,63 euro x (aantal erkende woongelegenheden 
+woonzorgcentrum zonder bijkomende erkenning op 31 december 2020 + aantal erkende woongelegenheden centrum 
+voor kortverblijf op 31 december 2020) x referentiebezetting x 92 dagen). § 2. Om in 
+aanmerking te komen voor de subsidies vermeld in paragraaf 1 dienen al de volgende voorwaarden vervuld 
+te zijn:1°  er is een ondernemingscontract met een coördinerend en raadgevend arts dat start 
+ten laatste op 19 oktober 2020;2°  de prestaties van de coördinerend en raadgevend arts bedragen 
+gemiddeld 2 uur en 20 minuten per week en per dertig opgenomen bewoners. Deze prestaties moeten worden 
+gepresteerd in de gebouwen van het woonzorgcentrum al dan niet met bijbehorend centrum voor kortverblijf;3° 
+ de gegevens van de coördinerend en raadgevend arts worden voor 19 oktober 2020 gemeld in de elektronische 
+vragenlijst, vermeld in artikel 452 van het besluit van de Vlaamse Regering van 30 november 2018 houdende 
+de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.Een exemplaar 
+van het contract waardoor de coördinerend en raadgevend arts verbonden is aan het woonzorgcentrum kan 
+door het agentschap worden opgevraagd. § 3. Het woonzorgcentrum en het centrum voor 
+kortverblijf stort de subsidies vermeld in paragraaf 1 door aan de coördinerend en raadgevend arts wanneer 
+deze naar best vermogen en in samenspraak met de directeur, hoofdverpleegkundige(n) of in voorkomend 
+geval de teamverantwoordelijken instaat voor al de volgende taken:1°  in relatie met het medische 
+korps:a) op geregelde tijdstippen, individuele en collectieve overlegvergaderingen met de behandelende 
+artsen organiseren;b) de continuïteit van de medische zorg coördineren en organiseren;c) 
+de coördinatie van het opmaken en up to date houden van de dossiers van de bewoners die door de behandelende 
+artsen bijgehouden worden;d) de medische activiteiten bij ziektetoestanden die gevaar opleveren 
+voor de bewoners of het personeel coördineren;e) het farmaceutische zorgbeleid coördineren 
+in overleg met de behandelende artsen en de apotheker die de toelevering van de geneesmiddelen doet aan 
+de bewoners in het woonzorgcentrum, of, in voorkomend geval de coördinerende en adviserende apotheker, 
+wat voor de geneesmiddelen ten minste het opstellen en het gebruik van een geneesmiddelenformularium 
+omvat, alsook het oordeelkundige gebruik van specifieke geneesmiddelenklassen en de alternatieve niet-farmacologische 
+aanpak bij de bewoners van het woonzorgcentrum;f) huisartsen die in het woonzorgcentrum werken, 
+actief informeren over het beleid van het woonzorgcentrum met betrekking tot het rationeel voorschrijven 
+van geneesmiddelen;2°  bijscholing en vorming: meewerken aan de organisatie van activiteiten 
+voor bijscholing en vorming in het domein van de gezondheidszorg voor het personeel van het woonzorgcentrum, 
+en voor de betrokken behandelende artsen.Art. 17. Aan artikel 15 van hetzelfde besluit wordt 
+de zinsnede "als de voorziening erkend was op 31 juli 2020" toegevoegd.Art. 18. In artikel 
+16 van hetzelfde besluit wordt tussen de zinsnede "factureringsperiode 2021" en de zinsnede ", in de 
+woonzorgcentra" de zinsnede "en als de voorziening erkend was op 31 juli 2020" ingevoegd.Art. 
+19. In artikel 17 van hetzelfde besluit wordt tussen de zinsnede "factureringsperiode 2021" en de woorden 
+"een bijkomende tegemoetkoming" de zinsnede "en als de voorziening erkend was op 31 juli 2020," ingevoegd.Art. 
+20. In artikel 19 van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  tussen 
+de woorden "in de sector" en de zinsnede ", te delen door" worden de woorden "en het aantal dagen verminderde 
+bezetting tijdens de periode van 1 augustus 2020 tot en met 31 december 2020" ingevoegd;2° 
+ tussen het woord "COVID-19" en de woorden "in de sector" worden de woorden "of het aantal dagen verminderde 
+bezetting" ingevoegd;3°  tussen het woord "woonzorgcentrum" en de zinsnede ", te delen door" 
+worden de woorden "en het aantal dagen verminderde bezetting tijdens de periode van 1 augustus 2020 tot 
+en met 31 december 2020" ingevoegd;4°  tussen de zinsnede "ontslag," en de woorden "en de erkende 
+referentiecapaciteit" wordt de zinsnede "het aantal dagen verminderde bezetting tijdens de periode van 
+1 augustus 2020 tot en met 31 december 2020," ingevoegd;5°  tussen het woord "COVID-19" en 
+de woorden "per woonzorgcentrum" de woorden "of het aantal dagen verminderde bezetting" ingevoegd.Art. 
+21. In hetzelfde besluit wordt een hoofdstuk 5/1, dat bestaat uit artikel 20/1, ingevoegd, dat luidt 
+als volgt:"Hoofdstuk 5/1. Maatregelen voor centra voor kortverblijf die worden uitgebaat in 
+lokalen van centra voor herstelverblijf die daarvoor bestemd zijnArt. 20/1. Om de werkingssubsidies 
+voor de centra voor kortverblijf type 1 die worden uitgebaat in lokalen van centra voor herstelverblijf 
+die daarvoor bestemd zijn, vermeld in artikel 33 tot en met 36 van bijlage 8 bij het besluit van de Vlaamse 
+Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling 
+voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers te bepalen, wordt voor het 
+jaar 2020 rekening gehouden met de gemiddelde bezettingsgraad voor het jaar 2019, die wordt berekend 
+op basis van de bezettingsgegevens die worden bezorgd met toepassing van artikel 2 van het ministerieel 
+besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de centra voor kortverblijf.".Art. 
+22. In artikel 21 van hetzelfde besluit worden de volgende wijzigingen aangebracht:1°  de zinsnede 
+"onder artikel 2, artikel 5, artikel 8, artikel 10, eerste lid en artikel 14" wordt vervangen door de 
+zinsnede ", vermeld in artikel 2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, 
+artikel 8 tot en met artikel 8/4, artikel 10, eerste lid, artikel 11/1 en 11/2, en artikel 13 tot en 
+met 14/3,";2°  het woord "COVID-19-periode" wordt vervangen door het woord "COVID-19-maatregelen";3° 
+ de zinsnede "artikel 3, artikel 11 en artikel 14" wordt vervangen door de zinsnede "artikel 3, artikel 
+5/7, eerste en tweede lid, artikel 8/5, eerste lid, artikel 11, artikel 11/3, eerste lid, artikel 13, 
+§ 3, vierde lid, artikel 14, § 1, vijfde lid, en § 2, derde lid, artikel 14/1, zesde 
+lid, en artikel 14/2, vierde lid".Art. 23. In artikel 22 van hetzelfde besluit worden de volgende 
+wijzigingen aangebracht:1°  de zinsnede "en artikel 14" wordt vervangen door de zinsnede ", 
+artikel 11/1, 11/2, artikel 13, § 2, artikel 14, 14/1, 14/2 en 14/3";2°  de zinsnede 
+"artikel 14 § 1, vijfde lid of artikel 14 § 2, derde lid" wordt vervangen door de zinsnede 
+"artikel 11/3, eerste lid, artikel 13, § 3, vierde lid, artikel 14, § 1, vijfde lid, artikel 
+14, § 2, derde lid, artikel 14/1, zesde lid, of artikel 14/2, vierde lid";3°  de zinsnede 
+"een foutief aantal leegstandsdagen of een foutief aantal gepresteerde uren doorgaf, kan het agentschap 
+op basis van het correct aantal leegstandsdagen of op basis van het correct aantal gepresteerde uren 
+de subsidie herberekenen en het teveel aan uitbetaalde subsidies recupereren bij de betreffende voorziening" 
+wordt vervangen door de zinsnede "een foutief aantal leegstandsdagen of een foutief aantal gepresteerde 
+uren, een foutief aantal opgenomen bewoners, een foutieve functie of een foutieve zorgkwalificatie doorgaf, 
+of indien blijkt dat, in uitvoering van artikel 3/1 tot en met artikel 3/4, artikel 5/1 tot en met artikel 
+5/5 of artikel 8/1 tot en met artikel 8/4 teveel subsidies werden uitbetaald voor een bepaald centrum 
+voor dagverzorging of een bepaald centrum voor dagopvang, doordat de voorziening in uitvoering van artikel 
+5/7 eerste en tweede lid of artikel 8/5 eerste lid, een foutief aantal openingsdagen, een foutief aantal 
+aanwezigheidsdagen, een foutief aantal dagen als cohortafdeling of een foutief aantal aanwezigheidsuren 
+doorgaf, kan het agentschap op basis van het correct aantal leegstandsdagen of op basis van het correct 
+aantal gepresteerde uren of op basis van het correct aantal opgenomen bewoners of op basis van de correcte 
+functie of zorgkwalificatie, of op basis van een correct aantal openingsdagen, aanwezigheidsdagen, dagen 
+als cohortafdeling of aanwezigheidsuren de subsidie herberekenen en het teveel aan uitbetaalde subsidies 
+recupereren bij de betreffende voorziening";4°  er wordt een tweede lid toegevoegd, dat luidt 
+als volgt:"Indien na controle door het agentschap blijkt dat, of indien niet voldaan is aan 
+de voorwaarden vermeld in artikel 14/4, § 2 of indien het bedrag van de subsidies niet of niet 
+volledig wordt doorgestort omdat de taken vermeld in artikel 14/4 § 3 niet naar best vermogen 
+zijn opgenomen, kan het agentschap het teveel aan uitbetaalde subsidies recupereren bij de betreffende 
+voorziening.".Art. 24. In artikel 23 van hetzelfde besluit wordt de zinsnede "vermeld in artikel 
+2, artikel 5, artikel 10, eerste lid en artikel 14" vervangen door de zinsnede ", vermeld in artikel 
+2, artikel 3/1 tot en met artikel 3/4, artikel 5 tot en met artikel 5/5, artikel 10, eerste lid, artikel 
+11/1 en 11/2, en artikel 13 tot en met 14/3,".Art. 25. In artikel 24 van hetzelfde besluit 
+wordt tussen de zinsnede "artikel 8" en het woord "worden" de zinsnede "tot en met artikel 8/4," ingevoegd.Art. 
+26. Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.Art. 
+27. De Vlaamse minister, bevoegd voor het welzijn, de Vlaamse minister, bevoegd voor de gezondheids- 
+en woonzorg, en de Vlaamse minister, bevoegd voor de sociale bescherming, zijn, ieder wat hem of haar 
+betreft, belast met de uitvoering van dit besluit.Brussel, 17 juli 2020.De minister-president 
+van de Vlaamse Regering,J. JAMBONDe Vlaamse minister van Welzijn, Volksgezondheid, 
+Gezin en Armoedebestrijding,W. BEKE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-07-30Numac : 2020042499
+

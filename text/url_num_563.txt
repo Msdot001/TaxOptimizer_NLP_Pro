@@ -1,0 +1,233 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2019/10/14/2021041545/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-28Numac : 2021041545
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 14 OKTOBER 2019. - Koninklijk besluit tot wijziging van het KB/WIB 92 inzake de individuele fiches die pensioeninstellingen in toepassing van artikel 321ter van het Wetboek van de inkomstenbelastingen 1992 via elektronische weg aan de fiscale administratie moeten bezorgen. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 14 oktober 2019 tot wijziging 
+van het KB/WIB 92 inzake de individuele fiches die pensioeninstellingen in toepassing van artikel 321ter 
+van het Wetboek van de inkomstenbelastingen 1992 via elektronische weg aan de fiscale administratie moeten 
+bezorgen (Belgisch Staatsblad van 28 oktober 2019).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN14. 
+OKTOBER 2019 - Königlicher Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Individualkarten, die 
+Pensionseinrichtungen in Anwendung von Artikel 321terdes Einkommensteuergesetzbuches 1992 auf elektronischem 
+Wege der Steuerverwaltung übermitteln müssenBERICHT AN DEN KÖNIGSire,um 
+die Position Belgiens als idealer Standort für paneuropäische Pensionsfonds zu bestätigen, ist durch 
+das Gesetz vom 25. Dezember 2016 in Artikel 230 des Einkommensteuergesetzbuches 1992 (EStGB 92) eine 
+Steuerbefreiung eingefügt worden für Pensionen des zweiten Pfeilers, die von einem belgischen Pensionsfonds 
+oder einem belgischen Versicherungsträger an einen Gebietsfremden ausgeschüttet werden, sofern für diese 
+Pensionen in Belgien kein Steuervorteil für die Prämienzahlungen gewährt wird und die Berufstätigkeit 
+keine in Belgien steuerpflichtigen Einkünfte erzeugt hat (Einfügung von Artikel 230 Absatz 1 Nr. 4bis 
+des EStGB 92).Um zu verhindern, dass Belgien seinen Verpflichtungen in Sachen internationalen 
+Informationsaustausch nicht mehr nachkommen kann, sind Pensionseinrichtungen, die solche steuerfreien 
+Pensionen ausschütten, verpflichtet, der Steuerverwaltung Individualkarten in Bezug auf diese Pensionen 
+zu übermitteln (Einfügung von Artikel 321ter des EStGB 92).Ziel des vorliegenden Königlichen 
+Erlasses ist es, den Inhalt dieser Individualkarte zu bestimmen.BESPRECHUNG DER ARTIKELArtikel 
+1Obwohl die Verwaltung grundsätzlich auch Angaben zu Einkünften, die durch Gesetz von der Steuer 
+befreit sind, in die Karten aufnehmen lassen kann, die in Anwendung von Artikel 92 des KE/EStGB 92 einzureichen 
+sind (zum Beispiel Höhe der Einkünfte aus Flexi-Jobs auf der Karte 281.10), hat der Gesetzgeber für die 
+in Anwendung von Artikel 230 Absatz 1 Nr. 4 des EStGB 92 steuerfreien Pensionen die Pflicht zu einer 
+separaten Karte auferlegt. Die meisten der betroffenen Steuerpflichtigen werden in der Tat nur steuerfreie 
+Einkünfte haben und die Arbeit mit einer separaten Karte ermöglicht außerdem im Rahmen des Informationsaustauschs 
+die Unterscheidung zwischen Informationen, für die der Steuerwohnsitz auf der Grundlage einer Wohnsitzbescheinigung 
+bestimmt wird, und Informationen, für die dies nicht unbedingt der Fall ist. Es wird auch nicht erforderlich 
+sein, in die Karten, die in Anwendung von Artikel 92 des KE/EStGB 92 einzureichen sind, Pensionsleistungen 
+aufzunehmen, die dem FÖD Finanzen elektronisch in Form einer neuen Individualkarte mitgeteilt werden.Der 
+Inhalt der Individualkarte, die Pensionseinrichtungen für die in Anwendung von Artikel 230 Absatz 1 Nr. 
+4bis des EStGB 92 steuerfreien Pensionen einreichen müssen, muss durch Königlichen Erlass bestimmt werden. 
+Dieser Inhalt wird in Kapitel 3 des KE/EStGB 92 in einen Abschnitt 9/1 aufgenommen, der Artikel 181/1 
+enthält. Diese Nummerierung weicht von der vom Staatsrat vorgeschlagenen Nummerierung ab, entspricht 
+aber der Nummerierung der Abschnitte 13, 13/1 und 13bis von Kapitel 3 des KE/EStGB 92.In Artikel 
+321ter Absatz 2 des EStGB 92 sind einige Angaben bestimmt, die diese Karte mindestens enthalten muss:1. 
+Angaben zur Identifizierung des Empfängers und sein Wohnsitz,2. Identität der Arbeitgeber oder 
+Gesellschaften, die Prämien oder Beiträge für die Bildung der Pension gezahlt haben,3. Betrag 
+der steuerfreien Pension.Darüber hinaus muss auch das im Rahmen der Anwendung von Artikel 8 
+Absatz 1 Buchstabe d) der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit 
+der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG ausgearbeitete 
+"Austauschschema Pensionen" berücksichtigt werden. Bestimmte Informationen müssen nach diesem Schema 
+zwingend ausgetauscht werden.Unter Berücksichtigung dieser Elemente wird im Entwurf von Artikel 
+181/1 § 1 des KE/EStGB 92 eine Liste von Angaben festgelegt, die in die Individualkarten aufgenommen 
+werden müssen, die Pensionseinrichtungen Anfang 2018 zum ersten Mal einreichen müssen. Diese Angaben 
+sind in fünf Gruppen unterteilt: Jahr, in dem die Pension gezahlt oder zuerkannt wird, Identifizierung 
+der Pensionseinrichtung, Identifizierung des Empfängers der Einkünfte, Angaben in Bezug auf die Pensionsleistungen 
+selbst und Angaben in Bezug auf die Bildung der Pension.Was den Empfänger der Einkünfte betrifft, 
+wird insbesondere die Adresse des Steuerwohnsitzes erbeten. Diese Adresse muss mindestens die Gemeinde 
+und das Land umfassen. Dieser Steuerwohnsitz muss nicht unbedingt durch eine Wohnsitzbescheinigung nachgewiesen 
+werden. Eines der Ziele hinter der Einführung von Artikel 230 Absatz 1 Nr. 4bis des EStGB 92 war in der 
+Tat zu vermeiden, dass die Verpflichtung, für die Anwendung einer Steuerbefreiung auf der Grundlage eines 
+Abkommens zur Vermeidung der Doppelbesteuerung jährlich eine Wohnsitzbescheinigung vorzulegen, internationale 
+Unternehmen davon abhält, ihre Pensionsverpflichtungen in einer belgischen Pensionseinrichtung unterzubringen. 
+Nichts hindert selbstverständlich eine Pensionseinrichtung daran, vom Empfänger der Einkünfte dennoch 
+eine Wohnsitzbescheinigung zu verlangen, um die Richtigkeit der Angaben zum Steuerwohnsitz sicherzustellen, 
+wenn der Empfänger der Einkünfte seine erste Leistung erhält oder wenn er ins Ausland zieht.Auf 
+der Grundlage des "Austauschschemas Pensionen" muss auch eine Identifikationsnummer mitgeteilt werden. 
+Die in Artikel 230 Absatz 1 Nr. 4bis des EStGB 92 erwähnte Steuerbefreiung gilt nur für Pensionen des 
+zweiten Pfeilers von Arbeitnehmern und Unternehmensleitern. Aufgrund des berufsbezogenen Charakters dieser 
+Pensionen verfügen Pensionseinrichtungen in der Regel auch über eine Steueridentifikationsnummer oder 
+Sozialversicherungsnummer des Arbeitnehmers oder Unternehmensleiters, dessen Pension sie verwalten. Da 
+diese Identifikationsnummer bei der Bildung der Pension an den "Beschäftigungsstaat" und nicht an den 
+Wohnsitzstaat zum Zeitpunkt der Leistung gebunden sein kann, muss auch der Staat, der die Identifikationsnummer 
+vergeben hat, mitgeteilt werden.Was die Leistung betrifft, müssen insbesondere Anlass und Grund 
+der Zahlung angegeben werden. Die verschiedenen Anlässe und Gründe sind dem "Austauschschema Pensionen" 
+entnommen.Unter Leistungen anlässlich der "Pensionierung" versteht man Leistungen nach Erreichen 
+eines bestimmten, in den anwendbaren nationalen Rechtsvorschriften festgelegten Alters, die an die vorherige 
+Berufstätigkeit als Arbeitnehmer oder Unternehmensleiter gebunden sind. Leistungen anlässlich der "Vorruhestandspension" 
+sind ebenfalls Leistungen, die an die vorherige Berufstätigkeit gebunden sind, wobei sie nach Erreichen 
+eines bestimmten (in den anwendbaren nationalen Rechtsvorschriften festgelegten) Alters aber vor dem 
+(in den anwendbaren nationalen Rechtsvorschriften festgelegten) gesetzlichen Pensionsalter bezogen werden. 
+Hinterbliebenenpensionen sind Pensionen, die an Witwern/Witwen, Waisen und anderen "abhängigen" Personen, 
+wie dem hinterbliebenen Ehepartner, gewährt werden.Der Grund für die Auszahlung der Leistung 
+und die Angaben in Bezug auf Unternehmen, die Prämien und Beiträge für die Bildung der Pension gezahlt 
+haben, müssen ebenfalls angegeben werden. Was die Vergangenheit betrifft, so verfügen die Pensionseinrichtungen 
+manchmal nicht über die Angaben in Bezug auf alle Unternehmen, die zur Bildung der Pension beigetragen 
+haben (zum Beispiel bei Fusion oder Übernahme). In diesem Fall wird akzeptiert, dass die Pensionseinrichtung 
+nur die ihr bekannten beitragszahlenden Unternehmen angibt (sofern natürlich nachgewiesen werden kann, 
+dass die Pensionsleistung die Voraussetzungen für die in Artikel 230 Absatz 1 Nr. 4bis des EStGB 92 erwähnte 
+Steuerbefreiung erfüllt).Pensionen, die auf der Grundlage von Artikel 230 Absatz 1 Nr. 4bis 
+des EStGB 92 von der Steuer befreit werden können, müssen nicht auf einer Karte 281.11 angegeben werden. 
+Zahlt eine Pensionseinrichtung eine Pension an einen Gebietsfremden, die in Anwendung von Artikel 230 
+Absatz 1 Nr. 4bis des EStGB 92 nur teilweise von der Steuer befreit werden kann, muss nur der nicht steuerfreie 
+Teil auf einer Karte 281.11 angegeben werden. Auf diese Weise wird vermieden, dass Pensionsleistungen 
+in den ausgetauschten Informationen doppelt aufgenommen werden.Um den Informationsaustausch 
+mit dem Staat, in dem der Steuerpflichtige seinen Wohnsitz hat, effizient organisieren zu können, ist 
+in Artikel 321ter Absatz 1 des EStGB 92 bestimmt, dass die Karten der Steuerverwaltung auf elektronischem 
+Wege übermittelt werden müssen. Im Entwurf von Artikel 181/1 §  2 des KE/EStGB 92 wird der Minister 
+der Finanzen oder sein Beauftragter beauftragt, die praktischen Modalitäten für diese elektronische Einreichung 
+zu bestimmen. So müssen die Karten nach derzeitigem Stand der Dinge genauso wie die Karten 281 im XML-Format 
+erstellt und in eine BOW-Datei konvertiert werden. Die weiteren Modalitäten werden in Absprache mit dem 
+betreffenden Sektor festgelegt.Die Datenschutzbehörde schlägt in ihrer Stellungnahme Nr. 149/2019 
+vom 4. September 2019 vor, den Zweck der Übermittlung der Karten zu erläutern und die Frist für die Aufbewahrung 
+der verarbeiteten Daten im Erlass festzulegen. Im Entwurf von Artikel 181bis des KE/EStGB 92 ist ein 
+§  3 eingefügt worden, um diesen Bemerkungen nachzukommen.In Absatz 1 wird der Rahmen 
+angegeben, in dem die Karten ausgestellt werden, das heißt die Gewährung der Steuerbefreiung und 
+der internationale Informationsaustausch.Die Formulierung in Bezug auf die Aufbewahrungsfrist 
+in Absatz 2 ist von der Formulierung in Bezug auf die Aufbewahrungsfristen in den Artikeln 5, 11 und 
+11/1 des Gesetzes vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung personenbezogener 
+Daten durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner Aufträge inspiriert. Die Verwaltung 
+bewahrt diese Daten nicht länger auf, als es für die Zwecke, für die sie verarbeitet werden, erforderlich 
+ist, wobei die maximale Aufbewahrungsfrist ein Jahr nach endgültiger Beendigung beziehungsweise Ausschöpfung 
+der gerichtlichen, administrativen und außergerichtlichen Verfahren und Rechtsmittel in Bezug auf 
+die Ausstellung der Karten, die Gewährung der Steuerbefreiung oder den internationalen Informationsaustausch 
+nicht überschreiten darf.Infolge der Einfügung dieses Paragraphen 3 wurde auch die Überschrift 
+des vorliegenden Erlasses angepasst.Art. 2Artikel 230 Absatz 1 Nr. 4bis des EStGB 
+92 ist auf die ab dem 1. Januar 2017 gezahlten oder zuerkannten Pensionen anwendbar. Das Inkrafttreten 
+des vorliegenden Erlasses steht damit im Einklang. Die Karten müssen im Prinzip spätestens am Ende des 
+dritten Monats des Jahres nach dem Jahr, in dem diese Pensionen gezahlt oder zuerkannt wurden, eingereicht 
+werden. Für Pensionen, die in den Jahren 2017 und 2018 gezahlt oder zuerkannt wurden, ist dies nicht 
+mehr möglich. Dem Gesetzgeber wird vorgeschlagen, für diese Pensionen eine abweichende Einreichungsfrist 
+vorzusehen. In diesem Zusammenhang wird auf das Gutachten des Staatsrates verwiesen.Art. 3In 
+diesem Artikel wird der für Finanzen zuständige Minister mit der Ausführung dieses Erlasses beauftragt.Soweit, 
+Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO14. OKTOBER 2019 - Königlicher 
+Erlass zur Abänderung des KE/EStGB 92 hinsichtlich der Individualkarten, die Pensionseinrichtungen in 
+Anwendung von Artikel 321ter des Einkommensteuergesetzbuches 1992 auf elektronischem Wege der Steuerverwaltung 
+übermitteln müssenPHILIPPE, Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund 
+der Verfassung, des Artikels 108;Aufgrund des Einkommensteuergesetzbuches 1992, des Artikels 
+321ter, eingefügt durch das Gesetz vom 25. Dezember 2016;Aufgrund des KE/EStGB 92;In 
+der Erwägung, dass es sich um einen bloßen Erlass zur Ausführung von bestehenden Rechtsvorschriften 
+handelt und vorliegender Erlass an sich keine einzige neue budgetäre Auswirkung hat;Aufgrund 
+der Stellungnahme Nr. 149/2019 der Datenschutzbehörde vom 4. September 2019;Aufgrund des Gutachtens 
+Nr. 66.458/1/V des Staatsrates vom 19. September 2019, abgegeben in Anwendung von Artikel 84 § 
+1 Absatz 1 Nr. 1 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;Auf Vorschlag 
+des Ministers der FinanzenHaben Wir beschloßen und erlassen Wir:Artikel 1 - 
+In Kapitel 3 des KE/EStGB 92 wird zwischen Abschnitt 9 und Abschnitt 9bis ein Abschnitt 9/1, der Artikel 
+181/1 umfasst, mit folgendem Wortlaut eingefügt:"Abschnitt 9/1 - Verpflichtungen der Pensionseinrichtungen(Einkommensteuergesetzbuch 
+1992, Artikel 321ter)Art. 181/1 - § 1 - Die Individualkarten, die Pensionseinrichtungen 
+in Anwendung von Artikel 321ter des Einkommensteuergesetzbuches 1992 der mit der Festlegung der Steuer 
+der natürlichen Personen beauftragten Verwaltung übermitteln müssen, enthalten folgende Informationen 
+in Bezug auf jede Pension, die in Anwendung von Artikel 230 Absatz 1 Nr. 4bis des vorerwähnten Gesetzbuches 
+steuerfrei ist:1. Jahr, in dem die Pension gezahlt oder zuerkannt worden ist,2. folgende 
+Informationen über die ausschüttende Einrichtung:a) Namen und Rechtsform,b) Adresse,c) 
+Unternehmensnummer,3. folgende Informationen über den Empfänger der Einkünfte:a) 
+Namen und Vornamen,b) Adresse des Steuerwohnsitzes,c) ausländische Identifikationsnummer:- 
+entweder die Steueridentifikationsnummer- oder die Sozialversicherungsnummer- oder 
+eine andere Identifikationsnummerund Land, in dem die Identifikationsnummer vergeben worden 
+ist,d) Geburtsdatum,4. folgende Informationen über die Leistung:a) einmalige 
+Vertrags- oder Policenummer oder, in deren Ermangelung, einmalige Nummer, mit der der Angeschlossene 
+identifiziert wird,b) Anlass zur Leistung in Form einer der folgenden Bezeichnungen:- 
+"Pension",- "Vorruhestandspension",- "Hinterbliebenenpension",- "Invalidität 
+oder Arbeitsunfähigkeit",- "Sonstiges",c) Grund für die Auszahlung der Leistung in 
+Form einer der folgenden Vermerke:- "Auszahlung bei Endfälligkeit",- "bedingungsloser 
+Rückkauf",- "Rückkauf wegen Invalidität oder aufgrund der medizinischen Situation",- 
+"Rückkauf unter sonstigen Umständen",- "Auszahlung aus anderem Grund",- "Abtretung 
+wegen Erbfall",- "Abtretung wegen Schenkung",- "Abtretung wegen Verkauf",- 
+"Abtretung aus anderem Grund",d) Häufigkeit der Leistung in Form einer der folgenden Vermerke:- 
+"einmalige Kapitalauszahlung",- "Mehrfachauszahlungen",e) Betrag der Leistung:- 
+Gesamtbetrag der Leistung nach Abzug der Pflichtbeiträge zur Sozialversicherung und vor Abzug von Steuern 
+oder Einbehaltung von Vorabzügen,- Währungseinheit, in der der Betrag gezahlt wird,5. 
+folgende Informationen über die Bildung der Pension:a) Namen, Rechtsform und Adresse der Unternehmen 
+und Gesellschaften, die der Pensionseinrichtung Prämien und Beiträge für die Pension gezahlt haben,b) 
+wenn die Pension ganz oder teilweise aus übertragenen Versorgungsrücklagen besteht:- Namen, 
+Rechtsform und Adresse der Pensionseinrichtung, von der die Rücklagen übertragen worden sind,- 
+Namen, Rechtsform und Adresse der Unternehmen und Gesellschaften, die der übertragenden Pensionseinrichtung 
+Prämien und Beiträge für die Pension gezahlt haben,c) wenn es sich um eine Hinterbliebenenpension 
+oder eine Leistung im Todesfall handelt oder wenn ein Teil der Versorgungsansprüche wegen Scheidung auf 
+den anderen Ehepartner übertragen wird: Namen der Person, zu deren Gunsten die Versorgungsansprüche aufgebaut 
+wurden. § 2 - Der Minister der Finanzen oder sein Beauftragter bestimmt die praktischen 
+Modalitäten für die elektronische Einreichung der Karten. § 3 - Die Karten werden im 
+Hinblick auf die Kontrolle der in Artikel 230 Absatz 1 Nr. 4bis des Einkommensteuergesetzbuches 1992 
+erwähnten Steuerbefreiung und auf die Einhaltung der Verpflichtungen in Sachen internationalen Informationsaustausch 
+ausgestellt.Unbeschadet der Aufbewahrung, die erforderlich ist für die weitere, in Artikel 
+89 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz 
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung 
+der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) erwähnte Verarbeitung zu im öffentlichen Interesse 
+liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen 
+Zwecken, bewahrt die Verwaltung die personenbezogenen Daten, die in den Karten aufgenommen sind, nicht 
+länger auf, als es für die Zwecke, für die sie verarbeitet werden, erforderlich ist, wobei die maximale 
+Aufbewahrungsfrist ein Jahr nach endgültiger Beendigung beziehungsweise Ausschöpfung der gerichtlichen, 
+administrativen und außergerichtlichen Verfahren und Rechtsmittel in Bezug auf die Ausstellung 
+der Karten, die Gewährung der Steuerbefreiung oder den internationalen Informationsaustausch nicht überschreiten 
+darf."Art. 2 -  Vorliegender Erlass ist auf die Karten anwendbar, die für die ab dem 1. Januar 
+2017 gezahlten oder zuerkannten Pensionen erstellt werden.Art. 3 - Der für Finanzen zuständige 
+Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 
+14. Oktober 2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-28Numac : 2021041545
+

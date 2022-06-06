@@ -1,0 +1,161 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/20/2021032499/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-27Numac : 2021032499
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 20 MEI 2020. - Koninklijk besluit tot uitvoering van de artikelen 18, 31, 33 en 47 van de wet van 20 december 2019 tot omzetting van Richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies. - Duitse vertaling 
+De 
+hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 20 mei 2020 tot uitvoering 
+van de artikelen 18, 31, 33 en 47 van de wet van 20 december 2019 tot omzetting van Richtlijn (EU) 2018/822 
+van de Raad van 25 mei 2018 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische 
+uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende 
+constructies (Belgisch Staatsblad van 4 juni 2020).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN20. 
+MAI 2020 - Königlicher Erlass zur Ausführung der Artikel 18, 31, 33 und 47 des Gesetzes vom 20. Dezember 
+2019 zur Umsetzung der Richtlinie (EU) 2018/822 des Rates vom 25. Mai 2018 zur Änderung der Richtlinie 
+2011/16/EU bezüglich des verpflichtenden automatischen Informationsaustauschs im Bereich der Besteuerung 
+über meldepflichtige grenzüberschreitende GestaltungenBERICHT AN DEN KÖNIGSire,der 
+Entwurf eines Königlichen Erlasses, den wir die Ehre haben, Eurer Majestät zur Unterschrift vorzulegen, 
+zielt darauf ab, die progressive Skala der administrativen Geldbußen festzulegen, die bei Verstößen 
+gegen die zusätzlichen Meldepflichten anwendbar sind, die Intermediären und relevanten Steuerpflichtigen 
+in Bezug auf grenzüberschreitende Gestaltungen durch das Gesetz vom 20. Dezember 2019 auferlegt worden 
+sind.Um aggressive Steuerpraktiken effektiver zu bekämpfen, sind durch dieses Gesetz zur Umsetzung 
+der Richtlinie (EU) 2018/822 des Rates vom 25. Mai 2018 im Einkommensteuergesetzbuch 1992, im Gesetzbuch 
+der verschiedenen Gebühren und Steuern, im Erbschaftssteuergesetzbuch und im Registrierungs-, Hypotheken- 
+und Kanzleigebührengesetzbuch zwei Kategorien von Sanktionen eingeführt worden.Einerseits droht 
+Intermediären und relevanten Steuerpflichtigen bei unvollständiger Vorlage der gesetzlich vorgeschriebenen 
+Informationen eine Geldbuße von 1.250 bis zu 12.500 EUR. Für solche Verstöße, die in betrügerischer 
+Absicht oder mit der Absicht zu schaden begangen wurden, wird eine Geldbuße von 2.500 bis zu 25.000 
+EUR auferlegt.Andererseits droht denselben Personen bei Nichtvorlage oder verspäteter Vorlage 
+der gesetzlich vorgeschriebenen Informationen eine Geldbuße von 5.000 bis zu 50.000 EUR. Für solche 
+Verstöße, die in betrügerischer Absicht oder mit der Absicht zu schaden begangen wurden, wird eine 
+Geldbuße von 12.500 bis zu 100.000 EUR auferlegt.Die Höhe der Geldbußen wurde unter 
+Berücksichtigung der Ziele der vorerwähnten europäischen Richtlinie festgelegt, die insbesondere auf 
+die Festlegung ausreichend wirksamer und abschreckender Sanktionen ausgerichtet sind.Die unterschiedliche 
+Behandlung der beiden Kategorien von Sanktionen ist dadurch gerechtfertigt, dass die Steuerbehörden unbedingt 
+innerhalb der vorgeschriebenen Fristen über das Vorhandensein einer Rechtsvereinbarung informiert werden 
+müssen. Andernfalls sind sie nicht in der Lage, diese Rechtsvereinbarungen rechtzeitig zu erkennen, und 
+dies würde sie daran hindern, eine mögliche Untersuchung innerhalb der gesetzlichen Fristen durchzuführen.In 
+diesem Rahmen wurde der König ermächtigt, die Skala der administrativen Geldbußen festzulegen und 
+deren Anwendungsmodalitäten zu regeln. Soweit der Gegenstand des vorliegenden Entwurfs eines Königlichen 
+Erlasses, in dem die Progression des Betrags der Geldbußen festgelegt wird, um dem Wiederholungscharakter 
+des begangenen Verstoßes Rechnung zu tragen.In seinem Gutachten Nr. 67.078/3 vom 8. April 
+2020 hat der Staatsrat eine Bemerkung (Punkt 6) in Bezug auf die Möglichkeit vorgebracht, dass die Verwaltung 
+oder das Gericht mildernde Umstände berücksichtigen könnte, um den relativ hohen Betrag der Geldbuße 
+herabzusetzen - zum Beispiel im Falle einer spontanen Berichtigung einer fehlerhaften Angabe in der Meldung 
+- und so die Verhältnismäßigkeit der Sanktion zu gewährleisten. Der Staatsrat verweist in diesem 
+Zusammenhang auf die Rechtsprechung des Verfassungsgerichtshofes, insbesondere auf den Entscheid Nr. 
+8/2019 vom 23. Januar 2019.Der Verfassungsgerichtshof betont nämlich, dass, wenn einem Täter 
+entweder eine strafrechtliche oder eine administrative Geldbuße mit strafrechtlichem Charakter 
+auferlegt werden kann, grundsätzlich immer ein Parallelismus zwischen den Maßnahmen zur Individualisierung 
+der Sanktion bestehen muss: Wenn das Gericht für die gleichen Taten eine geringere strafrechtliche Geldbuße 
+als das gesetzliche Mindestmaß bei Vorliegen mildernder Umstände auferlegen kann, muss das Gericht 
+in einem Zivilverfahren, bei dem die Beschwerde gegen eine Entscheidung zur Auferlegung einer Verwaltungssanktion 
+anhängig ist, grundsätzlich über die gleiche Möglichkeit verfügen.Es ist daher nicht zu bestreiten, 
+dass ein Gericht, das mit einer Beschwerde gegen eine von der Steuerverwaltung auferlegte Verwaltungssanktion 
+in Ausführung der in diesem Entwurf eines Königlichen Erlasses festgelegten Skala befasst wird, auf jeden 
+Fall die Verhältnismäßigkeit der Höhe der Geldbuße überprüfen und falls nötig Rechtfertigungsgründe 
+und mildernde Umstände berücksichtigen könnte.Um jedoch die Einhaltung des Gleichheitsgrundsatzes 
+zu gewährleisten und eine Herabsetzung der in den vom König bestimmten Skalen festgelegten Verwaltungssanktionen 
+nach freiem Ermessen zu vermeiden, ist es ausgeschlossen, dass der sanktionierende Beamte die gleichen 
+Befugnisse wie das Gericht hat. Dieser Beamte ist daher verpflichtet, die im vorliegenden Entwurf eines 
+Königlichen Erlasses festgelegten Beträge der Geldbußen einzuhalten.Soweit, Sire, die 
+Tragweite des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der ehrerbietigeund 
+treue DienerEurer Majestät zu sein.Der Vizepremierminister und Minister der FinanzenA. 
+DE CROO20. MAI 2020 - Königlicher Erlass zur Ausführung der Artikel 18, 31, 
+33 und 47 des Gesetzes vom 20. Dezember 2019 zur Umsetzung der Richtlinie (EU) 2018/822 des Rates vom 
+25. Mai 2018 zur Änderung der Richtlinie 2011/16/EU bezüglich des verpflichtenden automatischen Informationsaustauschs 
+im Bereich der Besteuerung über meldepflichtige grenzüberschreitende GestaltungenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 
+1992, des Artikels 445 § 4 Absatz 3, eingefügt durch das Gesetz vom 20. Dezember 2019 zur Umsetzung 
+der Richtlinie (EU) 2018/822 des Rates vom 25. Mai 2018 zur Änderung der Richtlinie 2011/16/EU bezüglich 
+des verpflichtenden automatischen Informationsaustauschs im Bereich der Besteuerung über meldepflichtige 
+grenzüberschreitende Gestaltungen;Aufgrund des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches, 
+des Artikels 289bis/12 Absatz 3, eingefügt durch das vorerwähnte Gesetz vom 20. Dezember 2019;Aufgrund 
+des Erbschaftssteuergesetzbuches, des Artikels 132 Absatz 3, wieder aufgenommen durch das vorerwähnte 
+Gesetz vom 20. Dezember 2019;Aufgrund des Gesetzbuches der verschiedenen Gebühren und Steuern, 
+des Artikels 2062 Absatz 3, wieder aufgenommen durch das vorerwähnte Gesetz vom 20. Dezember 2019;Aufgrund 
+des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992;Aufgrund des Königlichen 
+Erlasses vom 11. Januar 1940 über die Ausführung des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches;Aufgrund 
+des Königlichen Erlasses vom 31. März 1936 zur allgemeinen Regelung der Erbschaftssteuer;Aufgrund 
+des Königlichen Erlasses vom 3. März 1927 zur Ausführung des Gesetzbuches der verschiedenen Gebühren 
+und Steuern;Aufgrund der Stellungnahme des Finanzinspektors vom 21. Februar 2020;Aufgrund 
+des Einverständnisses des Ministers des Haushalts vom 11. März 2020;Aufgrund des Gutachtens 
+Nr. 67.078/3 des Staatsrates vom 8. April 2020, abgegeben in Anwendung von Artikel 84 § 1 Absatz 
+1 Nr. 2 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat;Auf Vorschlag des Vizepremierministers 
+und Ministers der Finanzen, beauftragt mit der Bekämpfung der Steuerhinterziehung,Haben Wir 
+beschloßen und erlassen Wir:Artikel 1 - In den Königlichen Erlass zur Ausführung des 
+Einkommensteuergesetzbuches 1992 wird ein Artikel 229/6 mit folgendem Wortlaut eingefügt:"Art. 
+229/6 - Die Skala der administrativen Geldbußen für die in Artikel 445 § 4 des Einkommensteuergesetzbuches 
+1992 erwähnten Verstöße wird wie folgt festgelegt:   Art der Verstöße Administrative Geldbuße A. Unvollständige 
+Vorlage der Informationen: 1. Verstoß, der nicht in betrügerischer Absicht 
+oder mit der Absicht zu schaden begangen wurde: - erster Verstoß: 1.250,00 
+EUR - zweiter Verstoß: 2.500,00 EUR - dritter Verstoß: 
+5.000,00 EUR - vierter Verstoß: 10.000,00 EUR - folgende 
+Verstöße: 12.500,00 EUR 2. Verstoß, der in betrügerischer Absicht oder 
+mit der Absicht zu schaden begangen wurde: - erster Verstoß: 2.500,00 
+EUR - zweiter Verstoß: 5.000,00 EUR - dritter Verstoß: 
+10.000,00 EUR - vierter Verstoß: 20.000,00 EUR - folgende 
+Verstöße: 25.000,00 EUR B. Nichtvorlage oder verspätete Vorlage der Informationen: 
+1. Verstoß, der nicht in betrügerischer Absicht oder mit der Absicht zu schaden 
+begangen wurde: - erster Verstoß: 5.000,00 EUR - zweiter 
+Verstoß: 12.500,00 EUR - dritter Verstoß: 31.250,00 EUR - 
+folgende Verstöße: 50.000,00 EUR 2. Verstoß, der in betrügerischer 
+Absicht oder mit der Absicht zu schaden begangen wurde: - erster Verstoß: 
+12.500,00 EUR - zweiter Verstoß: 37.500,00 EUR - folgende 
+Verstöße: 100.000,00 EUR"  Art. 2 - [Abänderung des Königlichen 
+Erlasses vom 11. Januar 1940 über die Ausführung des Registrierungs-, Hypotheken- und Kanzleigebührengesetzbuches]Art. 
+3 - [Abänderung des Königlichen Erlasses vom 31. März 1936 zur allgemeinen Regelung der Erbschaftssteuer]Art. 
+4 - 5 - [Abänderungen des Königlichen Erlasses vom 3. März 1927 zur Ausführung des Gesetzbuches der verschiedenen 
+Gebühren und Steuern]Art. 6 - Vorliegender Erlass tritt am 1. Juli 2020 in Kraft.Art. 
+7 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 20. Mai 2020PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der Finanzen, beauftragt mit der Bekämpfung der SteuerhinterziehungA. DE CROO 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-27Numac : 2021032499
+

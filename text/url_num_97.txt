@@ -1,0 +1,297 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State   Kamer van volksvertegenwoordigers ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/05/07/2020020937/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020020937
+FEDERALE OVERHEIDSDIENST SOCIALE ZEKERHEID  
+ 7 MEI 2020. - Wet houdende uitzonderlijke maatregelen in het kader van de COVID-19-pandemie inzake pensioenen, aanvullende pensioenen en andere aanvullende voordelen inzake sociale zekerheid (1) 
+FILIP, 
+Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze Groet.De Kamer 
+van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen, hetgeen volgt : HOOFDSTUK 
+1. - Inleidende bepalingArtikel 1.  Deze wet regelt een aangelegenheid als bedoeld in artikel 
+74 van de Grondwet.HOOFDSTUK 2. - Uitzonderlijke maatregelen inzake wettelijke pensioenen in 
+het kader van de COVID-19-pandemieArt. 2. Dit hoofdstuk is van toepassing op de volgende uitkeringen 
+en hun bijkomende voordelen:1°  de rust- en overlevingspensioenen bedoeld in artikel 38 van 
+de wet van 5 augustus 1978 houdende economische en budgettaire hervormingen, en artikel 80 van de wet 
+van 3 februari 2003 houdende diverse wijzigingen aan de wetgeving betreffende de pensioenen van de openbare 
+sector;2°  de rust- en overlevingspensioenen voor werknemers bedoeld in het koninklijk besluit 
+nr. 50 van 24 oktober 1967 betreffende het rust- en overlevingspensioen voor werknemers;3° 
+ de rust- en overlevingspensioenen en de pensioenen van uit de echt gescheiden echtgenoot voor zelfstandigen, 
+helpers en meewerkende echtgenoten bedoeld in het koninklijk besluit nr. 72 van 10 november 1967 betreffende 
+het rust- en overlevingspensioen der zelfstandigen;4°  de inkomensgarantie voor ouderen bedoeld 
+in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen;5°  het gewaarborgd 
+inkomen voor bejaarden bedoeld in de wet van 1 april 1969 tot instelling van een gewaarborgd inkomen 
+voor bejaarden.Art. 3.  §  1. Voor de regeling van de cumulatie van de in artikel 2, 
+1°  tot 3°,  bedoelde uitkeringen met inkomsten uit een beroepsactiviteit wordt geen rekening gehouden 
+met de inkomsten voortvloeiend uit een beroepsactiviteit uitgeoefend door de gerechtigde van de uitkering 
+of zijn echtgenoot in de periode vanaf 1 maart 2020, voor zover die inkomsten voortvloeien uit een beroepsactiviteit 
+die aangevat of uitgebreid werd in het kader van de strijd tegen het coronavirus COVID-19 en voor zover 
+deze beroepsactiviteit wordt uitgeoefend in één van de bedrijven van de cruciale sectoren of in de essentiële 
+diensten, zoals opgenomen in de bijlage bij het ministerieel besluit van 23 maart 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. §  2. De inkomsten 
+voortvloeiend uit een beroepsactiviteit uitgeoefend door de gerechtigde of elke andere persoon van wie 
+de bestaansmiddelen en de pensioenen in aanmerking genomen worden voor de in artikel 2, 4°  en 5°,  bedoelde 
+uitkeringen in de periode vanaf 1 maart 2020, worden voor het vaststellen van die uitkeringen als volledig 
+vrijgestelde inkomsten beschouwd, voor zover die inkomsten voortvloeien uit een beroepsactiviteit die 
+aangevat of uitgebreid werd in het kader van de strijd tegen het coronavirus COVID-19 en voor zover deze 
+beroepsactiviteit wordt uitgeoefend in één van de bedrijven van de cruciale sectoren of in de essentiële 
+diensten, zoals opgenomen in de bijlage bij het ministerieel besluit van 23 maart 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken.Art. 4.  §  
+1. Voor de regeling van de cumulatie van de in artikel 2, 1°  tot 3°,  bedoelde uitkeringen met een vervangingsinkomen 
+wordt geen rekening gehouden met de volgende uitkeringen toegekend aan de gerechtigde van de in artikel 
+2, 1°  tot 3°,  bedoelde uitkeringen of zijn echtgenoot:1°  de uitkering wegens tijdelijke 
+werkloosheid wegens overmacht, met inbegrip van elk hierbij toegekend supplement, voor zover deze betrekking 
+heeft op de periode vanaf 1 maart 2020 en de werkloosheid te wijten is aan het coronavirus COVID-19;2° 
+ de uitkering wegens tijdelijke werkloosheid op grond van economische oorzaken, met inbegrip van elk 
+hierbij toegekend supplement, voor zover deze betrekking heeft op de periode vanaf 1 maart 2020 en de 
+werkloosheid te wijten is aan het coronavirus COVID-19;3°  het overbruggingsrecht ten gunste 
+van zelfstandigen bedoeld in hoofdstuk 3 van de wet van 23 maart 2020 tot wijziging van de wet van 22 
+december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering 
+van tijdelijke maatregelen in het kader van COVID-19 ten gunste van zelfstandigen;4°  de primaire 
+ongeschiktheidsuitkering en de invaliditeitsuitkering, voor zover deze betrekking heeft op de periode 
+vanaf 1 maart 2020 en de arbeidsongeschiktheid te wijten is aan het coronavirus COVID-19. § 
+ 2. De in paragraaf 1 bedoelde vervangingsinkomens ontvangen door de gerechtigde of elke andere persoon 
+van wie de bestaansmiddelen en de pensioenen in aanmerking genomen worden voor de in artikel 2, 4°  en 
+5°,  bedoelde uitkeringen, worden voor het vaststellen van die uitkeringen als volledig vrijgestelde 
+inkomsten beschouwd, voor zover deze betrekking hebben op de periode vanaf 1 maart 2020 en toegekend 
+zijn wegens het coronavirus COVID-19. §  3. Voor de toepassing van de paragrafen 1 en 
+2 worden de uitkeringen toegekend krachtens een buitenlandse wetgeving of door een instelling van internationaal 
+publiek recht gelijkgesteld met de in die paragrafen bedoelde uitkeringen, op voorwaarde dat zij van 
+dezelfde aard zijn en voor zover zij betrekking hebben op de periode vanaf 1 maart 2020 en toegekend 
+zijn wegens het coronavirus COVID-19.Art. 5.  §  1. Voor de regeling van de cumulatie 
+van de in artikel 2, 1°  tot 3°,  bedoelde uitkeringen met een vergoeding wordt geen rekening gehouden 
+met de volgende vergoedingen toegekend aan de gerechtigde van de in artikel 2, 1°  tot 3°,  bedoelde 
+uitkeringen of zijn echtgenoot:1°  de inkomenscompensatievergoedingen die door de gewesten 
+aan ondernemingen worden toegekend voor de economische gevolgen die zij ondervinden naar aanleiding van 
+de toepassing van de ministeriële besluiten van 13 maart 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken en van 18 maart 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken;2°  de forfaitaire vergoeding die aan tijdelijk werklozen 
+wordt toegekend, bedoeld in artikel 6, §  1, van het decreet van 3 april 2020 tot afwijking van 
+diverse bepalingen van het Energiedecreet van 8 mei 2009, het decreet van 18 juli 2003 betreffende het 
+integraal waterbeleid, gecoördineerd op 15 juni 2018, en de uitvoeringsbesluiten ervan, en tot dekking 
+van de kosten voor elektriciteitsverbruik, verwarming of waterverbruik voor de eerste maand van tijdelijke 
+werkloosheid ten gevolge van de coronacrisis;3°  de subsidies en vergoedingen toegekend als 
+compensatie voor de afwezigheidsdagen bedoeld in het besluit van de Vlaamse regering van 24 maart 2020 
+tot bestrijding van de negatieve gevolgen van het COVID-19 virus voor de gezinnen en de organisatoren 
+in de kinderopvang en in het besluit van de Vlaamse regering van 1 april 2020 tot bestrijding van de 
+negatieve gevolgen van het Covid-19 virus voor de gezinnen en de organisatoren in de buitenschoolse opvang, 
+in de opvang van zieke kinderen en in de preventieve gezinsondersteuning;4°  elke andere vergoeding 
+toegekend krachtens een wettelijke, decretale of reglementaire bepaling, op voorwaarde dat zij toegekend 
+werd als compensatie voor een verlies aan inkomsten of als vergoeding voor bijkomende kosten te wijten 
+aan het coronavirus COVID-19 en voor zover zij betrekking heeft op de periode vanaf 1 maart 2020. 
+§  2. De in paragraaf 1 bedoelde vergoedingen ontvangen door de gerechtigde of elke andere persoon 
+van wie de bestaansmiddelen en de pensioenen in aanmerking genomen worden voor de in artikel 2, 4°  en 
+5°,  bedoelde uitkeringen, worden voor het vaststellen van die uitkeringen als volledig vrijgestelde 
+inkomsten beschouwd, voor zover deze betrekking hebben op de periode vanaf 1 maart 2020 en toegekend 
+zijn wegens het coronavirus COVID-19. §  3. Voor de toepassing van de paragrafen 1 en 
+2 worden de vergoedingen toegekend krachtens een buitenlandse wetgeving of door een instelling van internationaal 
+publiek recht gelijkgesteld met de in die paragrafen bedoelde vergoedingen, op voorwaarde dat zij van 
+dezelfde aard zijn en voor zover zij betrekking hebben op de periode vanaf 1 maart 2020 en toegekend 
+zijn wegens het coronavirus COVID-19.Art. 6. De in de artikelen 3, 4 en 5 bedoelde periode 
+die een aanvang neemt vanaf 1 maart 2020 neemt een einde op 30 juni 2020.De Koning kan, voor 
+de door hem aangewezen bepalingen van de artikelen 3, 4 en 5, de periode bedoeld in het eerste lid verlengen.Art. 
+7. Dit hoofdstuk heeft uitwerking met ingang van 1 maart 2020.HOOFDSTUK 3. - Uitzonderlijke 
+maatregelen tot behoud van de pensioenopbouw en de risicodekkingen verbonden aan de beroepsactiviteit, 
+van de werknemers in een situatie van tijdelijke werkloosheid wegens overmacht of wegens economische 
+redenen in het kader van de crisis van het coronavirus COVID-19Art. 8. Dit hoofdstuk is van 
+toepassing op:1°  de pensioentoezeggingen bedoeld in artikel 3, §  1, 2°,  van de wet 
+van 28 april 2003 betreffende de aanvullende pensioenen en het belastingstelsel van die pensioenen en 
+van sommige aanvullende voordelen inzake sociale zekerheid alsook in voorkomend geval op de aanvullende 
+verzekeringen bedoeld in hoofdstuk IX van het Koninklijk besluit van 14 november 2003 betreffende de 
+levensverzekeringsactiviteit die hiermee zijn verbonden;2°  de beroepsgebonden ziektekostenverzekeringsovereenkomsten 
+in de zin van artikel 201, §  1, 1°,  van de wet van 4 april 2014 betreffende de verzekeringen;3° 
+ de beroepsgebonden arbeidsongeschiktheids- en invaliditeitsverzekeringsovereenkomsten in de zin van 
+artikel 201, §  1, 2°  en 3°,  van de wet van 4 april 2014 betreffende de verzekeringen;4° 
+ dekkingen inzake arbeidsongeschiktheid en invaliditeit beheerd door een instelling voor bedrijfspensioenvoorziening,ten 
+gunste van werknemers indien de arbeidsovereenkomst van één of meerdere aangeslotenen wordt opgeschort 
+ten gevolge van tijdelijke werkloosheid wegens overmacht of wegens economische redenen in het kader van 
+de crisis van het coronavirus COVID-19 en voor zover het pensioenreglement, het solidariteitsreglement, 
+de pensioenovereenkomst, het reglement of de overeenkomst die van kracht zijn niet voorzien in de voortzetting 
+van de pensioenopbouw en van de risicodekkingen gedurende deze periode van opschorting van de arbeidsovereenkomst.Art. 
+9.  §  1. Onverminderd paragraaf 5 en niettegenstaande andersluidende bepalingen in het pensioenreglement 
+of de pensioenovereenkomst of in elke andere overeenkomsten, geniet de aangeslotene van de pensioentoezegging 
+gedurende de gehele periode van opschorting van zijn arbeidsovereenkomst omwille van tijdelijke werkloosheid 
+wegens overmacht of wegens economische redenen in het kader van de crisis van het coronavirus COVID-19.Wanneer 
+een solidariteitstoezegging is verbonden aan de pensioentoezegging, beslist de inrichter of het behoud 
+van de pensioenopbouw een solidariteitsprestatie vormt.Het behoud van de pensioenopbouw en 
+het behoud van de overlijdensdekking mag geen enkele wijziging impliceren van de contractuele voorwaarden 
+in het kader van de uitvoering van de pensioentoezegging door de pensioeninstelling, met inbegrip van 
+de tarifaire voorwaarden, noch een formaliteit anders dan deze beoogd in dit hoofdstuk.De bijdragen 
+die verschuldigd zijn voor de periode bedoeld in het eerste lid, worden berekend overeenkomstig het pensioenreglement 
+of de pensioenovereenkomst alsof de arbeidsovereenkomst niet werd opgeschort.Niettegenstaande 
+alle andere betalingsmodaliteiten overeengekomen tussen de inrichter en de pensioeninstelling, kan de 
+betaling van deze bijdragen op eenvoudig verzoek van de inrichter worden uitgesteld tot en met uiterlijk 
+30 september 2020, zonder dat een vroegere betaaldatum kan worden opgelegd en zonder dat de niet-betaling 
+van de bijdrage op de vervaldag zoals voorzien in het pensioenreglement of de pensioenovereenkomst een 
+wanbetaling uitmaakt.De inrichter die wenst te genieten van dit uitstel van betaling, informeert 
+de pensioeninstelling hiervan en communiceert alle nuttige informatie over de aangeslotenen die tijdelijk 
+werkloos zijn wegens overmacht of wegens economische redenen in het kader van de crisis van het coronavirus 
+COVID-19.Wanneer de inrichter kiest voor het uitstel van betaling van de bijdragen beoogd in 
+het vijfde lid worden de prestaties van de aangeslotenen en hun begunstigden berekend door rekening te 
+houden met het behoud van de pensioenopbouw en het behoud van de overlijdensdekking gedurende de bedoelde 
+periode van tijdelijke werkloosheid niettegenstaande ieder uitstel van de betaling van de bijdragen, 
+echter rekening houdend met het feit dat, behalve wanneer andere bepalingen worden voorzien in het pensioenreglement 
+of de pensioenovereenkomst of in de overeenkomsten tussen de inrichter en de pensioeninstelling, het 
+enkel vanaf de betaling van de bijdragen is dat de pensioeninstelling wanneer er slechts sprake is van 
+een middelenverbintenis, gehouden is een rendement toe te kennen op de bijdragen gestort in het kader 
+vaneen pensioentoezegging van het type vaste bijdragen zonder rendementsgarantie. § 
+ 2. Onverminderd paragraaf 5 en niettegenstaande iedere andere bepaling van het verzekeringscontract 
+of van elke andere overeenkomsten, geniet de aangeslotene van de dekkingen van de aanvullende verzekeringen 
+van de pensioentoezegging beoogd in §   1 gedurende de gehele periode van opschorting van de arbeidsovereenkomst 
+omwille van de tijdelijke werkloosheid wegens overmacht of wegens economische redenen in het kader van 
+de crisis van het coronavirus COVID-19.Het behoud van de dekkingen beoogd in het eerste lid 
+mag geen enkele wijziging impliceren van de contractuele voorwaarden in het kader van de uitvoering van 
+de verzekeringsovereenkomst door de verkeringsonderneming, met inbegrip van de tarifaire voorwaarden, 
+noch een formaliteit anders dan deze beoogd in dit hoofdstuk.De bijdragen die verschuldigd 
+zijn voor de periode bedoeld in het eerste lid, worden berekend overeenkomstig het verzekeringscontract 
+alsof de arbeidsovereenkomst niet werd opgeschort.Niettegenstaande alle andere betalingsmodaliteiten 
+overeengekomen tussen de werkgever of de rechtspersoon op sectoraal niveau en de verzekeringsonderneming, 
+kan de betaling van deze bijdragen op eenvoudig verzoek van de werkgever of de rechtspersoon op sectoraal 
+niveau worden uitgesteld tot en met uiterlijk 30 september 2020, zonder dat de verzekeringsonderneming 
+een andere, vroegere betaaldatum kan opleggen.De werkgever of de rechtspersoon op sectoraal 
+niveau die wenst te genieten van dit uitstel van betaling, informeert de verzekeringsonderneming hiervan 
+en communiceert alle nuttige informatie over de aangeslotenen die tijdelijk werkloos zijn wegens overmacht 
+of wegens economische redenen in het kader van de crisis van het coronavirus COVID-19.Wanneer 
+de werkgever of de rechtspersoon op sectoraal niveau kiest voor een uitstel van de betaling van de bijdragen 
+beoogd in het vierde lid, worden de prestaties van de aangeslotenen en van hun begunstigden berekend 
+door rekening te houden met het behoud van de risicodekkingen gedurende de bedoelde periode van tijdelijke 
+werkloosheid niettegenstaande iedere uitstel van de betaling van de bijdragen. §  3. 
+Onverminderd paragraaf 5 en niettegenstaande iedere andere bepaling van het reglement, de overeenkomst 
+en/of het verzekeringscontract, geniet de aangeslotene gedurende de gehele periode van opschorting van 
+de arbeidsovereenkomst omwille van de tijdelijke werkloosheid wegens overmacht of wegens economische 
+redenen in het kader van de crisis van het coronavirus COVID-19, van de dekking inzake ziektekosten, 
+arbeidsongeschiktheid en invaliditeit die voor hem golden, evenals in voorkomend geval, voor zijn aangesloten 
+familieleden, aan de vooravond van de opschorting van zijn arbeidsovereenkomst.Het behoud van 
+de dekkingen beoogd in het eerste lid mag geen enkele wijziging impliceren van de contractuele voorwaarden 
+in het kader van de uitvoering van de toezegging van de werkgever of de rechtspersoon op sectoraal niveau 
+door de verzekeringsonderneming of de instelling voor bedrijfspensioenvoorziening, met inbegrip van de 
+tarifaire voorwaarden, noch een formaliteit anders dan deze beoogd in dit hoofdstuk.De bijdragen 
+die verschuldigd zijn voor de periode bedoeld in het eerste lid, worden berekend overeenkomstig het reglement, 
+de overeenkomst en/of het verzekeringscontract alsof de arbeidsovereenkomst niet werd opgeschort.Niettegenstaande 
+alle andere betalingsmodaliteiten overeengekomen tussen de werkgever of de rechtspersoon op sectoraal 
+niveau en de verzekeringsonderneming of de instelling voor bedrijfspensioenvoorziening, kan de betaling 
+van deze bijdragen op eenvoudig verzoek van de werkgever of de rechtspersoon op sectoraal niveau worden 
+uitgesteld tot en met uiterlijk 30 september 2020, zonder dat de verzekeringsonderneming of de instelling 
+voor bedrijfspensioenvoorziening een vroegere betaaldatum kan opleggen dan deze datum.De werkgever 
+of de rechtspersoon op sectoraal niveau die wenst te genieten van dit uitstel van betaling, informeert 
+de verzekeringsonderneming of de instelling voor bedrijfspensioenvoorziening hiervan en communiceert 
+alle nuttige informatie over de aangeslotenen die tijdelijk werkloos zijn wegens overmacht of wegens 
+economische redenen in het kader van de crisis van het coronavirus COVID-19.Wanner de werkgever 
+of de rechtspersoon op sectoraal niveau kiest voor een uitstel van de betaling van de bijdragen beoogd 
+in het vierde lid, worden de prestaties van de aangeslotenen en van hun begunstigden berekend door rekening 
+te houden met het behoud van de risicodekkingen gedurende de bedoelde periode van tijdelijke werkloosheid 
+niettegenstaande ieder uitstel van de betaling van de bijdragen. §  4. De pensioeninstelling, 
+de verzekeringsonderneming of de instelling voor bedrijfspensioenvoorziening informeert de inrichter, 
+de werkgever of de rechtspersoon op sectoraal niveau op een duidelijke en begrijpbare manier:- 
+over de gevolgen van tijdelijke werkloosheid wegens overmacht of wegens economische redenen op het behoud 
+van de pensioenopbouw en de risicodekkingen van zijn pensioentoezegging in voorkomend geval rekening 
+houdend met de solidariteitstoezegging, evenals op de dekkingen inzake gezondheidszorg, arbeidsongeschiktheid 
+en invaliditeit waarbij wordt verduidelijkt in welke mate de pensioenopbouw en de risicodekkingen al 
+dan niet deel uitmaken van éénzelfde toezegging;- over de voortzetting van de pensioenopbouw 
+en van de risicodekkingen overeenkomstig paragrafen 1 tot 3;- over de mogelijkheid voor de 
+inrichter, de werkgever of de rechtspersoon op het sectoraal niveau om te genieten van een uitstel van 
+de betaling van de bijdragen overeenkomstig paragrafen 1 tot 3;- over de mogelijkheid voor 
+de inrichter om, in het kader van een sociaal pensioenstelsel, te beslissen dat de voortzetting beoogd 
+in paragraaf 1, een solidariteitsprestatie vormt voor wat betreft de pensioenopbouw;- over 
+de mogelijkheid voor de inrichter, werkgever of rechtspersoon op sectoraal niveau om overeenkomstig paragraaf 
+5 te vragen de toezegging, zoals deze aan de vooravond van de aanvang van de tijdelijke werkloosheid 
+bestond, te schorsen, met uitzondering van de overlijdensdekking die ten minste moet worden behouden 
+tot en met 30 juni 2020 zoals deze bestond aan de vooravond van de periode van tijdelijke werkloosheid 
+wegens overmacht of wegens economische redenen in het kader van de coronacrisis COVID-19;- 
+over de verplichting van de inrichter, werkgever of rechtspersoon op sectoraal niveau om de betrokken 
+aangeslotenen overeenkomstig §   6 te informeren. §  5. Binnen de 30 dagen die 
+volgen op het ontvangen van de communicatie beoogd in paragraaf 4 of indien, bij de aangeslotenen, de 
+eerste situatie van tijdelijke werkloosheid wegens overmacht of wegens economische redenen in het kader 
+van de crisis van het coronavirus COVID-19 zich later voordoet, binnen de 30 dagen die volgen op de ingang 
+van deze situatie, informeert de inrichter, de werkgever of de rechtspersoon op sectoraal niveau de pensioeninstelling, 
+de verzekeringsonderneming of de instelling voor bedrijfspensioenvoorziening van zijn eventuele beslissing 
+om de toezegging, zoals deze resulteert uit het pensioenreglement, uit de pensioenovereenkomst, uit het 
+reglement of uit de overeenkomst te schorsen tijdens de gehele periode van tijdelijke werkloosheid wegens 
+overmacht of wegens economische redenen in het kader van de crisis van het coronavirus COVID-19.Indien 
+de inrichter van een pensioentoezegging overeenkomstig het eerste lid beslist deze te schorsen, wordt 
+de overlijdensdekking echter, niettegenstaande het eerste lid, behouden tot en met 30 juni 2020 zoals 
+deze bestond aan de vooravond van de periode van tijdelijke werkloosheid wegens overmacht of wegens economische 
+redenen in het kader van de coronacrisis COVID-19 voor zover de aangeslotene tijdelijk werkloos is wegens 
+overmacht of wegens economische redenen in het kader van de crisis van het coronavirus COVID-19 tot en 
+met die datum. In voorkomend geval, kan de inrichter genieten van het uitstel van de betaling van de 
+bijdragen, overeenkomstig dit artikel. §  6. De inrichter, de werkgever of de rechtspersoon 
+op sectoraal niveau informeert, via ieder communicatiemiddel van zijn keuze, de betrokken aangeslotenen 
+over het behoud van de pensioenopbouw en van de risicodekkingen of over de keuze niet te voorzien in 
+dit behoud en de toepassing verder te zetten van het pensioenreglement, de pensioenovereenkomst, het 
+reglement of de overeenkomst onverminderd het behoud van de overlijdensdekking en in voorkomend geval, 
+over de concrete gevolgen van het behoud op de persoonlijke bijdragen van de werknemer met inbegrip van 
+de modaliteiten van de inhouding op het loon van de werknemer en de eventuele spreiding van deze inhoudingen.Art. 
+10.  §  1. De voortzetting van de pensioenopbouw en van de risicodekkingen alsook het uitstel 
+van betaling van de bijdragen bedoeld in artikel 9 maken integraal deel uit van de pensioentoezegging 
+en houden geen wijziging in van de pensioentoezegging of in voorkomend geval van de solidariteitstoezegging 
+die eraan is verbonden, in de zin van de wet van 28 april 2003 betreffende de aanvullende pensioenen 
+en het belastingstelsel van die pensioenen en van sommige aanvullende voordelen inzake sociale zekerheid.De 
+formele aanpassing van het pensioenreglement of in voorkomend geval van het solidariteitsreglement dat 
+ermee is verbonden of de pensioenovereenkomst die voortvloeit uit de toepassing van artikel 9 moet echter 
+plaatsvinden tegen ten laatste 31 december 2021. §  2. De toepassing van dit hoofdstuk 
+doet geen afbreuk aan de mogelijkheid voor de inrichter om zijn bestaande pensioentoezegging te wijzigen 
+of op te heffen overeenkomstig de bepalingen van de wet van 28 april 2003 betreffende de aanvullende 
+pensioenen en het belastingstelsel van die pensioenen en van sommige aanvullende voordelen inzake sociale 
+zekerheid.Art. 11. De toepassing van artikel 4-14 van het koninklijk besluit van 14 november 
+2003 tot uitvoering van de wet van 28 april 2003 betreffende de aanvullende pensioenen en het belastingstelsel 
+van die pensioenen en van sommige aanvullende voordelen inzake sociale zekerheid wordt opgeschort tot 
+30 september 2020 in het kader van de toepassing van artikel 9.Voor de verrichtingen beoogd 
+in het koninklijk besluit van 14 november 2003 betreffende de levensverzekeringsactiviteit en die betrekking 
+hebben op een aanvullend pensioen, wordt de toepassing van artikel 50, eerste lid, van het koninklijk 
+besluit van 14 november 2003 betreffende de levensverzekeringsactiviteit opgeschort tot 30 september 
+2020 in het kader van de toepassing van artikel 9.Art. 12. De Koning kan de periode bedoeld 
+in artikel 9, §  5, tweede lid verlengen tot na 30 juni 2020 in het licht van een eventuele verlenging 
+van de tijdelijke werkloosheid wegens overmacht of wegens economische redenen in het kader van de crisis 
+van het coronavirus COVID-19.Art. 13. Dit hoofdstuk heeft uitwerking met ingang van 13 maart 
+2020 en treedt buiten werking op 30 september 2020, met uitzondering van artikel 10.Kondigen 
+deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal 
+worden bekendgemaakt.  Gegeven te Brussel, 7 mei 2020.FILIPVan Koningswege 
+:De Minister van Pensioenen,D. BACQUELAINEMet 's Lands zegel gezegeld :De 
+Minister van Justitie,K. GEENS_______Nota(1) Kamer van volksvertegenwoordigers(www.dekamer.be)Stukken 
+: 0038 - 55-1159Integraal verslag : 30 april 2020   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-18Numac : 2020020937
+

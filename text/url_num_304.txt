@@ -1,0 +1,56 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-09Numac : 2020031426
+FEDERAAL AGENTSCHAP VOOR GENEESMIDDELEN EN GEZONDHEIDSPRODUCTEN  
+ 30 SEPTEMBER 2020. - Koninklijk besluit houdende exportverbod van griepvaccins, in het kader van de COVID-19 pandemie. - Erratum 
+In het Belgisch Staatsblad nr. 274 van 2 oktober 2020, in de publicatie 
+C-2020/15663 op pagina 69311, wordt de datum '24 maart 2020' vervangen door de datum '30 september 2020'. 
+  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-09Numac : 2020031426
+

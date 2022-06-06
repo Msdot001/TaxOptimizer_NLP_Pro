@@ -1,0 +1,234 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/03/20/2021020659/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-29Numac : 2021020659
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 20 MAART 2021. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+20 maart 2021 houdende wijziging van het ministerieel besluit van 28 oktober 2020 houdende dringende 
+maatregelen om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 21 maart 
+2021).Deze vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES20. MÄRZ 2021 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund der Verfassung, des Artikels 
+23;Aufgrund des Gesetzes vom 31. Dezember 1963 über den Zivilschutz, des Artikels 4;Aufgrund 
+des Gesetzes vom 5. August 1992 über das Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes 
+vom 15. Mai 2007 über die zivile Sicherheit, der Artikel 181, 182 und 187;Aufgrund des Ministeriellen 
+Erlasses vom 28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. 
+Dezember 2013 zur Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender 
+Erlass von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 20. März 2021;Aufgrund des Einverständnisses des Staatssekretärs für 
+Haushalt vom 20. März 2021;Aufgrund der am 20. März 2021 abgegebenen Stellungnahme der Minister, 
+die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten Gesetze über 
+den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, die es nicht 
+zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten Frist von 
+fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, die sich 
+auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten Ergebnisse 
+die auf der Sitzung des Konzertierungsausschusses vom 19. März 2021 beschlossenen Maßnahmen gerechtfertigt 
+haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu verlängern und andere anzupassen;In 
+Erwägung der Konzertierungen zwischen den Regierungen der föderierten Teilgebiete und den zuständigen 
+föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. und 27. März 2020, am 15. und 24. 
+April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 2020, am 10., 15., 23. und 27. 
+Juli 2020, am 20. August 2020 und am 23. September 2020 zusammengetreten ist;In Erwägung der 
+Gutachten der GEES und der GEMS und der Stellungnahmen der RAG und des CELEVAL;In Erwägung 
+der Stellungnahme des Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung der Stellungnahme 
+der Pediatric Task Force;In Erwägung des Artikels 191 des Vertrags über die Arbeitsweise der 
+Europäischen Union, in dem das Prinzip der Vorsorge im Rahmen der Bewältigung einer internationalen Gesundheitskrise 
+und der aktiven Vorbereitung auf einen möglichen Krisenfall verankert ist; dass dieses Prinzip voraussetzt, 
+dass die öffentlichen Behörden bei der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich eintreten 
+wird, dringende und vorläufige Schutzmaßnahmen ergreifen müssen;In Erwägung des Artikels 
+6 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 2016/679 des Europäischen Parlaments und des Rates vom 
+27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien 
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG;In Erwägung des Zusammenarbeitsabkommens 
+vom 25. August 2020 zwischen dem Föderalstaat, der Flämischen Gemeinschaft, der Wallonischen Region, 
+der Deutschsprachigen Gemeinschaft und der Gemeinsamen Gemeinschaftskommission in Bezug auf die gemeinsame 
+Verarbeitung von Daten durch Sciensano und die von den zuständigen föderierten Teilgebieten oder von 
+den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams 
+im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen 
+auf der Grundlage einer Datenbank bei Sciensano;In Erwägung des Gesetzes vom 9. Oktober 2020 
+zur Billigung des vorerwähnten Zusammenarbeitsabkommens vom 25. August 2020;In Erwägung des 
+Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 13. März 2020 zur Auslösung der 
+föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements in Bezug auf das Coronavirus 
+COVID-19;In Erwägung der Protokolle, die von den zuständigen Ministern in Konzertierung mit 
+den betreffenden Sektoren bestimmt werden;In Erwägung der Empfehlung (EU) 2020/1475 des Rates 
+vom 13. Oktober 2020 für eine koordinierte Vorgehensweise bei der Beschränkung der Freizügigkeit aufgrund 
+der COVID-19-Pandemie;In Erwägung der Empfehlung (EU) 2020/912 des Rates vom 30. Juni 2020 
+zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und die mögliche Aufhebung 
+dieser Beschränkung;In Erwägung der Erklärung der WHO in Bezug auf die Eigenschaften des Coronavirus 
+COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit und des Sterberisikos;In Erwägung 
+der am 11. März 2020 von der WHO vorgenommenen Qualifizierung des Coronavirus COVID-19 als Pandemie;In 
+der Erwägung, dass die WHO am 16. März 2020 die höchste Warnstufe in Bezug auf das Coronavirus COVID-19 
+ausgerufen hat, das die Weltwirtschaft destabilisiert und sich rasch in der Welt ausbreitet;In 
+Erwägung der einleitenden Rede des Generaldirektors der WHO vom 12. Oktober 2020, in der er deutlich 
+gemacht hat, dass das Virus hauptsächlich zwischen engen Kontakten übertragen wird und zu Ausbrüchen 
+der Epidemie führt, die durch die Umsetzung gezielter Maßnahmen eingedämmt werden könnten;In 
+Erwägung der Erklärung des Generaldirektors der WHO Europa vom 15. Oktober 2020, in der er darauf hingewiesen 
+hat, dass die Situation in Europa sehr besorgniserregend ist und dass die Übertragung und die Übertragungsquellen 
+in den Häusern, an geschlossenen öffentlichen Orten und bei Personen, die die Selbstschutzmaßnahmen 
+nicht korrekt befolgen, stattfinden beziehungsweise zu finden sind;In Erwägung der Erklärung 
+des Generaldirektors der WHO vom 26. Oktober 2020, in der er deutlich gemacht hat, dass die höchsten 
+Fallzahlen von COVID-19 in der Woche vom 19. Oktober 2020 verzeichnet worden sind und dass alle Anstrengungen 
+unternommen werden müssen, um die Mitarbeiter des Gesundheitspflegesektors zu schützen; dass Schulen 
+und Unternehmen offen bleiben können, dafür aber Kompromisse eingegangen werden müssen; dass der Generaldirektor 
+bestätigt, dass das Virus durch schnelles und gezieltes Handeln unterdrückt werden kann;In 
+Erwägung der Erklärung des Regionaldirektors der WHO für Europa, Doktor Hans Henri P. Kluge, vom 18. 
+März 2021, in der er angibt, dass wöchentlich mehr als 20 000 Menschen in der Region durch das Virus 
+versterben; dass die Zahl der Menschen in Europa, die an COVID-19 sterben, jetzt höher ist als um dieselbe 
+Zeit im vergangenen Jahr; dass die ansteckendere Variante B.1.1.7 zur vorherrschenden Variante in der 
+europäischen Region wird; dass Wirkung und Nutzen der Impfstoffe für die Gesundheit noch nicht unmittelbar 
+sichtbar sind; dass es zum jetzigen Zeitpunkt notwendig ist, bei der Anwendung der gesamten Palette von 
+Maßnahmen als Reaktion auf die Ausbreitung des Virus standhaft zu bleiben;In der Erwägung, 
+dass für unser Land seit dem 13. Oktober 2020 auf nationaler Ebene Alarmstufe 4 (sehr hohe Alarmstufe) 
+gilt;In der Erwägung, dass der Tagesdurchschnitt der festgestellten Neuansteckungen mit dem 
+Coronavirus COVID-19 in Belgien in den letzten sieben Tagen sehr stark, auf 3 438 bestätigte positive 
+Fälle am 20. März 2021 gestiegen ist;In der Erwägung, dass am 20. März 2021 insgesamt 2 153 
+COVID-19-Patienten in belgischen Krankenhäusern behandelt wurden; dass am selben Tag insgesamt 550 Patienten 
+auf Intensivstationen lagen;In Erwägung des starken Anstiegs der Zahl der belegten Krankenhausbetten; 
+dass der Druck auf die Krankenhäuser und die Kontinuität der Versorgung, die nicht mit COVID-19 zusammenhängt, 
+wieder deutlich zunimmt und somit das Risiko für die öffentliche Gesundheit wieder steigt; dass die Krankenhäuser 
+die Phase 1B des Krankenhausnoteinsatzplans aktiviert haben;In der Erwägung, dass verhindert 
+werden muss, die Aufnahme von Patienten auf dem Staatsgebiet unter Druck zu setzen;In der Erwägung, 
+dass die Inzidenz am 20. März 2021 im 14-Tage-Mittel 363 pro 100 000 Einwohner beträgt; dass die Reproduktionsrate, 
+basierend auf der Zahl der neuen Krankenhausaufnahmen 1,14 beträgt; dass eine Verringerung der Zahlen 
+weiter erforderlich ist, um einen Ausweg aus dieser gefährlichen epidemiologischen Situation zu finden;In 
+der Erwägung, dass der Anstieg der Inzidenz alle Altersgruppen mit Ausnahme der über 65-Jährigen betrifft; 
+dass der Anstieg bei den 10- bis 19-Jährigen und bei Kindern im Alter von 0 bis 10 Jahren stärker ausgeprägt 
+ist;In Erwägung des Anstiegs der Zahlen, sowohl in Bezug auf die Zahl der Infektionen als auch 
+auf die Zahl der Krankenhausaufnahmen;In der Erwägung, dass die GEMS in ihrem Gutachten vom 
+23. Februar 2021 erklärt hat, dass Lockerungen nur stufenweise möglich sein werden, und zwar unter Berücksichtigung 
+der Situation zum jeweiligen Zeitpunkt und der auf mathematischen Modellen basierenden Prognosen;In 
+der Erwägung, dass die Impfkampagne begonnen hat und sie bereits deutliche Auswirkungen auf die Infektionen 
+von Personen, die älter als 65 Jahre sind, zeigt; dass infolgedessen die Zahl der Krankenhausaufnahmen 
+und Todesfälle bei Bewohnern von Wohnpflegezentren abzunehmen scheint; dass dies jedoch noch keine signifikanten 
+oder zusätzlichen Lockerungen zulässt, da die Zahlen sowohl der Infektionen als auch der Krankenhausaufnahmen 
+ansteigen; dass folglich die Maßnahmen verlängert werden müssen;In der Erwägung, dass 
+die Einschränkung der Nutzung des öffentlichen Raums zwischen Mitternacht und 5 Uhr morgens dazu beiträgt, 
+Feiern, Versammlungen und den Alkoholkonsum im öffentlichen Raum, wobei die Regeln des Social Distancing 
+oder des Tragens von Masken nicht eingehalten werden, zu verringern; dass diese Beschränkung somit dazu 
+beiträgt, die Zahl der Ansteckungen und die Übertragungsrate des Virus unter Kontrolle zu halten;In 
+der Erwägung, dass eine solche Einschränkung der Grundfreiheiten verhältnismäßig und zeitlich begrenzt 
+sein muss; dass sie jedoch weiterhin notwendig ist, um das Grundrecht auf Leben und Gesundheit der Bevölkerung 
+zu wahren;In der Erwägung, dass angesichts der sehr instabilen Gesundheitslage eine Verlängerung 
+dieser Einschränkung weiterhin erforderlich ist, um eine weitere Verschlechterung der Lage zu verhindern 
+und sicherzustellen, dass die Bemühungen der gesamten Bevölkerung und aller betroffenen Sektoren, einschließlich 
+des Wirtschafts- und Gesundheitssektors, nicht zunichte gemacht werden; dass nur durch sehr strenge Maßnahmen 
+sichergestellt werden kann, dass die Lage unter Kontrolle bleibt und dass andere Maßnahmen verringert 
+werden können;In der Erwägung, dass das Auftreten beziehungsweise die Ausbreitung neuer Varianten 
+und Mutationen, die die Wirksamkeit der Impfstoffe beeinträchtigen könnten, verhindert werden muss; dass 
+daher immer noch strenge Regeln erforderlich sind, um einer Ausbreitung des Virus vorzubeugen; dass folglich 
+die Maßnahmen verlängert werden müssen;In der Erwägung, dass die Bedrohung durch neue 
+Varianten und Mutationen nach wie vor real bleibt; dass aufgrund des Anstiegs der Zahlen das Verbot nicht 
+unbedingt notwendiger Reisen bis einschließlich 18. April 2021 bestehen bleiben muss, insbesondere 
+in Anbetracht der Frühjahrsferien, in denen eine höhere Anzahl von Reisen zu einem erhöhten Risiko der 
+Einschleppung der Varianten führen würde;In der Erwägung, dass dieses Verbot nicht unbedingt 
+notwendiger Reisen, insbesondere innerhalb der Europäischen Union, eine Ausnahmemaßnahme ist; dass 
+eine solche Maßnahme durch die rasche Ausbreitung von Varianten des Coronavirus COVID-19 in bestimmten 
+Staaten der Europäischen Union gerechtfertigt ist;In der Erwägung, dass ab dem 19. April 2021 
+dank anderer in der Zwischenzeit getroffener Maßnahmen nicht unbedingt notwendige Reisen innerhalb 
+der Europäischen Union und des Schengen-Raums wieder möglich sein sollten; dass jedoch von Reisen in 
+oder aus den Ländern oder Regionen, die auf den wöchentlichen Karten des ECDC zur Unterstützung der Empfehlung 
+(EU) 2020/1475 des Rates vom 13. Oktober 2020 für eine koordinierte Vorgehensweise bei der Beschränkung 
+der Freizügigkeit aufgrund der COVID-19-Pandemie rot markiert sind, weiterhin dringend abgeraten wird; 
+dass das auf der Grundlage der koordinierten europäischen Vorgehensweise der Empfehlung (EU) 2020/912 
+des Rates vom 30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die 
+EU und die mögliche Aufhebung dieser Beschränkung verhängte Verbot nicht unbedingt notwendiger Reisen 
+aus Drittländern nach Belgien in Kraft bleibt, bis es auf europäischer Ebene aufgehoben wird;Aufgrund 
+der Dringlichkeit,Erlässt:Artikel 1 - Artikel 15 des Ministeriellen Erlasses vom 
+28. Oktober 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des 
+Coronavirus COVID-19 wird wie folgt abgeändert:1. In § 5 wird Absatz 2 aufgehoben.2. 
+Paragraph 7 wird aufgehoben.Art. 2 - Artikel 18 desselben Erlasses wird wie folgt ersetzt:"Für 
+die in Artikel 15 § 5 erwähnten Aktivitäten in einem organisierten Rahmen finden unbeschadet der 
+geltenden Protokolle die folgenden Regeln Anwendung:1. Die Aktivitäten dürfen für eine oder 
+mehrere Gruppen mit einer in Artikel 15 § 5 bestimmten Höchstanzahl von Personen organisiert werden.2. 
+Die im Rahmen solcher Aktivitäten versammelten Personen müssen in einer selben Gruppe zusammenbleiben 
+und dürfen nicht mit Personen aus anderen Gruppen zusammenkommen.3. Die Aktivitäten müssen 
+im Freien oder in einem Schwimmbad organisiert werden; davon ausgenommen sind Aktivitäten für Kinder 
+bis zum Alter von 12 Jahren einschließlich, die nach Möglichkeit im Freien organisiert werden.4. 
+Die Aktivitäten dürfen nur ohne Übernachtung stattfinden.5. Begleitpersonen und Teilnehmer 
+ab 13 Jahren halten die Regeln des Social Distancing so gut wie möglich ein, insbesondere die Wahrung 
+eines Abstands von 1,5 m zwischen den Personen; Begleitpersonen sind verpflichtet, Mund und Nase mit 
+einer Maske oder einer Alternative aus Stoff zu bedecken.6. Die Aktivitäten dürfen nur ohne 
+Publikum stattfinden; davon ausgenommen sind Trainings im Bereich des Amateursports, bei denen jeder 
+Teilnehmer von einem einzigen Mitglied desselben Haushalts begleitet werden darf."Art. 3 - 
+Artikel 21 desselben Erlasses wird wie folgt abgeändert:1. Paragraph 1 wird wie folgt ersetzt:" 
+§ 1 - Nicht unbedingt notwendige Reisen nach Belgien sind verboten für Personen, die nicht die 
+Staatsangehörigkeit eines Landes der Europäischen Union oder des Schengen-Raums besitzen und ihren Hauptwohnort 
+in einem Drittland haben, das nicht erwähnt ist in Anhang I der Empfehlung (EU) 2020/912 des Rates vom 
+30. Juni 2020 zur vorübergehenden Beschränkung nicht unbedingt notwendiger Reisen in die EU und die mögliche 
+Aufhebung dieser Beschränkung.Die in Anlage 3 zum vorliegenden Erlass bestimmten Reisen gelten 
+als unbedingt notwendig und sind somit erlaubt.Für Reisen, die gemäß Absatz 2 erlaubt 
+sind, muss der Reisende im Besitz einer Bescheinigung über die unbedingt notwendige Reise sein. Diese 
+Bescheinigung wird von der belgischen diplomatischen Mission oder konsularischen Vertretung ausgestellt, 
+wenn nachgewiesen wird, dass die Reise unbedingt notwendig ist.Wird ein Beförderer eingesetzt, 
+ist dieser verpflichtet zu überprüfen, ob die in Absatz 3 erwähnten Reisenden vor dem Einsteigen im Besitz 
+dieser Bescheinigung sind. Fehlt diese Bescheinigung, muss der Beförderer das Einsteigen untersagen. 
+Bei Ankunft auf dem belgischen Staatsgebiet überprüft der Beförderer erneut, ob der Reisende im Besitz 
+dieser Bescheinigung ist.In Abweichung von Absatz 3 ist eine Bescheinigung nicht erforderlich, 
+wenn sich der unbedingt notwendige Charakter der Reise aus den offiziellen Dokumenten im Besitz des Reisenden 
+ergibt.In Ermangelung einer solchen Bescheinigung über die unbedingt notwendige Reise oder 
+bei falschen, irreführenden oder unvollständigen Informationen in dieser Bescheinigung und wenn sich 
+der unbedingt notwendige Charakter der Reise auch aus den offiziellen Dokumenten im Besitz des Reisenden 
+nicht ergibt, kann die Einreise gegebenenfalls gemäß Artikel 14 des Schengener Grenzkodex oder 
+Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den Aufenthalt, die 
+Niederlassung und das Entfernen von Ausländern verweigert werden.Für die Anwendung des vorliegenden 
+Erlasses gelten Andorra, Monaco, San Marino und der Vatikan als Länder der Europäischen Union."2. 
+Paragraph 2 wird aufgehoben.3. In § 3 Absatz 1 werden die Wörter "Für Reisen, die gemäß 
+den Paragraphen 1 und 2 von einem Land aus, das nicht dem Schengen-Raum angehört, nach Belgien erlaubt 
+sind, ist der Reisende verpflichtet" durch die Wörter "Für Reisen nach Belgien von einem Land aus, das 
+nicht dem Schengen-Raum angehört, ist der Reisende verpflichtet" ersetzt.Art. 4 - Artikel 28 
+desselben Erlasses wird wie folgt ersetzt:"Die durch vorliegenden Erlass vorgeschriebenen Maßnahmen 
+sind bis zum 30. April 2021 einschließlich anwendbar."Art. 5 - Anlage 2 zu demselben 
+Erlass wird aufgehoben.Art. 6 - Vorliegender Erlass tritt am 22. März 2021 in Kraft, mit Ausnahme 
+der Artikel 3 und 5, die am 19. April 2021 in Kraft treten.Brüssel, den 20. März 2021Die 
+Ministerin des Innern,A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-29Numac : 2021020659
+

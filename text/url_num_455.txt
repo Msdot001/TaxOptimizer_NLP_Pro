@@ -1,0 +1,160 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/03/11/2021020579/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-03-18Numac : 2021020579
+WAALSE OVERHEIDSDIENST
+ 11 MAART 2021. - Besluit van de Waalse Regering betreffende de toekenning van een specifieke tegemoetkoming ten gunste van hotels en gelijkaardige logies in het kader van de crisis in verband met het coronavirus COVID-19 
+De Waalse Regering,Gelet op het decreet van 11 maart 2004 betreffende de 
+gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen, inzonderheid op de artikelen 
+10 en 19;Gelet op het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten 
+gunste van grote ondernemingen, de artikelen 7 en 15;Gelet op het verslag van 24 februari 2021 
+opgesteld overeenkomstig artikel 3, 2°,  van het decreet van 11 april 2014 houdende uitvoering van de 
+resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad 
+en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen;Gelet 
+op het advies van de Inspecteur van Financiën, gegeven op 23 februari 2021;Gelet op de instemming 
+van de Minister van Begroting, gegeven op 25 februari 2021;Gelet op advies 68.918/4 van de 
+Raad van State, gegeven op 5 maart 2021, overeenkomstig artikel 84, § 1, eerste lid, 3°,  van 
+de wetten op de Raad van State, gecoördineerd op 12 januari 1973;Overwegende dat, hoewel zij 
+niet zijn opgenomen in de lijst van sectoren waarvoor een sluitingsverplichting geldt, hotels en gelijkaardige 
+logies bijzonder zwaar worden getroffen door alle maatregelen in verband met covid-19, gezien de daling 
+van het aantal toeristen, de annulering van de meeste professionele evenementen en de sluiting van restaurants;Overwegende 
+dat deze maatregelen zijn genomen om de directe economische gevolgen van de verlenging van de maatregelen 
+voor de zelfstandigen en de ondernemingen die dit soort activiteiten verrichten, die indirect door de 
+sluiting van bepaalde vestigingen worden getroffen, te beperken ;Overwegende dat wanbetalingen 
+ten gevolge van liquiditeitsproblemen een domino-effect in de economie zouden kunnen veroorzaken, hetgeen 
+ten alle koste voorkomen moet worden;Overwegende dat deze problemen en effecten op zeer korte 
+termijn voelbaar zullen zijn en dat het dus niet verantwoord is om enige vertraging op te lopen in het 
+uitvoeren van de steunmaatregel;Overwegende dat het fundamenteel is dat deze steun onverwijld 
+wordt gestort;Gelet op de mededeling van de Commissie van 19 maart 2020 in verband met de tijdelijke 
+omkadering van de staatssteunmaatregelen ter ondersteuning van de economie in de actuele context van 
+de wijd verspreide COVID-19 epidemie, punt 22;Op de voordracht van de Minister van Economie;Na 
+beraadslaging,Besluit : Artikel 1. Voor de toepassing van dit besluit wordt verstaan 
+onder:1°  de Minister: de Minister bevoegd voor Economie;2°  Verordening (EG) nr. 
+651/2014 : Verordening (EG) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën 
+steun op grond van de artikelen 107 en 108 van het Verdrag met de gemeenschappelijke markt verenigbaar 
+worden verklaard;3°  onderneming :a) de natuurlijke persoon die een activiteit in 
+hoofdberoep uitoefent en die sociale bijdragen betaalt, ofb) de micro-onderneming, de kleine 
+of middelgrote onderneming als bedoeld in de artikelen 2 en 3 van bijlage I bij Verordening (EU) nr. 
+651/2014, ofc) de onderneming die niet overeenstemt met de personeelsaantallen en financiële 
+bedragen uit de begripsomschrijving micro-onderneming, kleine en middelgrote onderneming als bedoeld 
+in de artikelen 2 en 3 van bijlage I bij Verordening (EU) nr. 651/2014, uitgezonderd de publiekrechtelijke 
+rechtspersonen en de verenigingen zonder winstgevend doel;4°  logieseenheid : een kamer of 
+elke ruimte van een logies waar een of meer personen kunnen verblijven5°  tijdelijke kaderregeling 
+: de mededeling van de Commissie van 19 maart 2020 in verband met de tijdelijke omkadering van de staatssteunmaatregelen 
+ter ondersteuning van de economie in de actuele context van de wijd verspreide COVID-19 epidemie, laatst 
+gewijzigd op 28 januari 2021;6°  Administratie: de Waalse Overheidsdienst Economie, Tewerkstelling 
+en Onderzoek;7°  NACE-BEL-code: de activiteitennomenclatuur uitgewerkt door het Nationaal Instituut 
+voor de Statistiek (NACE-BEL 2008) in ééngemaakt Europees verband, opgelegd bij Verordening (EEG) nr. 
+3037/90 van 9 oktober 1990 van de Raad betreffende de statistieke nomenclatuur van de economische activiteiten 
+in de Europese Gemeenschap, gewijzigd bij Verordening (EEG) nr. 761/93 van de Commissie van 24 maart 
+1993, bij Verordening (EG) nr. 29/2002 van 19 december 2001, bij Verordening (EG) nr. 1882/2003 van het 
+Europese Parlement en van de Raad van 29 september 2003 en bij Verordening (EG) nr. 1893/2006 van het 
+Europese Parlement en van de Raad van 20 december 2006;8°  webplatform: de webtoepassing bedoeld 
+in artikel 1, §  1, eerste lid, 6°,  van het decreet van 6 december 21 houdende de toekenning 
+van steun via een in het Waalse Gewest geïntegreerd steunportfolio aan projectontwikkelaars en kleine 
+en middelgrote ondernemingen, ter vergoeding van de diensten ter bevordering van het ondernemerschap 
+of de groei, en strekkende de oprichting van een databank van authentieke bronnen die verbonden is met 
+die geïntegreerde portefeuille, die toegankelijk is op https://indemnitecovid.wallonie.beArt. 
+2. De gezondheidscrisis gebonden aan het coronavirus COVID-19 wordt door de Regering erkend als een buitengewone 
+gebeurtenis in de zin van artikel 10 van het decreet van 11 maart 2004 betreffende de gewestelijke incentives 
+ten gunste van kleine en middelgrote ondernemingen en van artikel 7 van het decreet van 11 maart 2004 
+betreffende de gewestelijke incentives ten gunste van de grote ondernemingen.Art. 3. De specifieke 
+tegemoetkoming wordt toegestaan onder de voorwaarden van punt 22 van de tijdelijke kaderregeling.Art. 
+4. De Minister kent volgens de door hem bepaalde nadere regels een specifieke tegemoetkoming toe aan 
+de onderneming:1°  waarvan de hoofdactiviteit onder de NACE-BEL-code 55.100 valt;2° 
+ die in het Waalse Gewest eigenaar is van een vestigingseenheid als bedoeld in artikel I.2., 16°,  van 
+Boek I van het Wetboek van economisch recht vóór de bekendmaking van dit besluit;3°  die voldoet 
+aan de wetsbepalingen die haar activiteit regelen, alsook aan de fiscale en sociale wetgevingen en regelgevingen 
+of die zich ertoe verbindt orde op zaken te stellen met inachtneming van de termijnen waarin de bevoegde 
+administratie voorziet;4°  die op 31 december 2019 niet in moeilijkheden was in de zin van 
+artikel 2, lid 18, van Verordening (EU) nr. 651/2014 ;5°  die, met inbegrip van de in dit besluit 
+bedoelde premie, niet meer dan 1 800 000 EUR aan steun uit hoofde van punt 22 van de tijdelijke kaderregeling 
+heeft ontvangen.Art. 5. Het bedrag van de specifieke tegemoetkoming, volgens de modaliteiten 
+bepaald door de minister, bedraagt 1.000 euro per logieseenheid die de onderneming bezit.Het 
+aantal logieseenheden van de onderneming wordt bepaald op basis van de vergunning bedoeld in artikel 
+202.D van het Toerismewetboek voor hotelverblijven bedoeld in artikel 1.D, 23°,  van hetzelfde Wetboek 
+of voor gelijkaardige logies elk ander document dat de Minister bepaaltEen onderneming die 
+een premie heeft ontvangen die door een ander deelgebied in het kader van de crisis ten gevolge van het 
+coronavirus COVID-19 is toegekend, wordt uitgesloten van de specifieke tegemoetkoming.Art. 
+6. Volgens de door de Minister vastgestelde modaliteiten dient de onderneming via een formulier op het 
+webplatform haar aanvraag om specifieke tegemoetkoming in bij de Administratie.Bij het indienen 
+van het dossier op het webplatform moet de onderneming ten minste de volgende informatie verstrekken 
+:1°  haar nummer van de Kruispuntbank van Ondernemingen;2°  de NACE-BEL-code van 
+de hoofdactiviteit van de onderneming;3°  het aantal logieseenheden per vestigingseenheid;4° 
+ een verklaring op erewoord die op het webplatform ingevuld moet worden;5°  het rekeningnummer 
+van de onderneming.Het bedrag van de specifieke tegemoetkoming wordt door de Administratie 
+overeenkomstig artikel 4, eerste lid, berekend op grond van de gegevens die haar zijn medegedeeld via 
+de authentieke bronnen of via de onderneming.,De Administratie kan eveneens gebruik maken van 
+de databanken die authentieke bronnen vormen om alle gegevens te verkrijgen die nodig zijn voor het onderzoek 
+van het dossier.Art. 7. De beslissing over de ontvankelijkheid, de betaling, de controle en 
+invordering van de specifieke tegemoetkomingen wordt genomen door elk personeelslid van niveau A zoals 
+omschreven in het besluit van de Waalse Regering van 18 december 2003 houdende de Waalse Ambtenarencode, 
+aangewezen door de directeur-generaal van de Administratie.Art. 8. Het in artikel 7 bedoelde 
+personeelslid van niveau A analyseert de aanvraag om specifieke tegemoetkoming en, indien de aanvraag 
+niet ontvankelijk is, schorst hij de aanvraag om specifieke tegemoetkoming en brengt hij de onderneming 
+op de hoogte, die haar aanvraag kan aanvullen en indienen voor een nieuw onderzoek naar de ontvankelijkheid.Als 
+het dossier niet wordt aangevuld en onderworpen aan een nieuw ontvankelijkheidsonderzoek binnen een termijn 
+van één maand te rekenen van de datum van opschorting, dan wordt de aanvraag om specifieke tegemoetkoming 
+definitief vernietigd.Indien de aanvraag aan de gestelde voorwaarden voldoet, wordt de onderneming 
+er elektronisch van in kennis gesteld dat de specifieke tegemoetkoming wordt toegekend.De administratie 
+stelt de onderneming ervan in kennis dat de specifieke vergoeding wordt toegekend op grond van de tijdelijke 
+kaderregeling.Art. 9. De administratie publiceert de relevante informatie, vermeld in bijlage 
+III en in overeenstemming met artikel 9 van Verordening (EU) nr. 651/2014, over elke specifieke vergoeding 
+van meer dan 100 000 euro die op grond van dit besluit wordt toegekend, binnen twaalf maanden na de datum 
+van toekenning via het IT-instrument van de Europese Commissie.De administratie bewaart alle 
+gegevens die nodig zijn om vast te stellen of aan de gestelde voorwaarden is voldaan, gedurende een periode 
+van tien jaar na de toekenning van de specifieke vergoeding. De Administratie geeft deze informatie door 
+aan de Europese Commissie indien deze daarom verzoekt.Art. 10. Dit besluit treedt in werking 
+de dag waarop het in het Belgisch Staatsblad bekendgemaakt wordt.Art. 11. De Minister van Economie 
+is belast met de uitvoering van dit besluit.Namen, 11 maart 2021.Voor de Regering:De 
+Minister-President,E. DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie, Digitale Technologieën,Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUSDe Minister van Ambtenarenzaken, Informatica, Administratieve Vereenvoudiging,belast 
+met Kinderbijslag, Toerisme, Erfgoed en Verkeersveiligheid,V. DE BUE   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-03-18Numac : 2021020579
+

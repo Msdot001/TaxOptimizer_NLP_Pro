@@ -1,0 +1,195 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/05/05/2020041258/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-11Numac : 2020041258
+WAALSE OVERHEIDSDIENST
+ 5 MEI 2020. - Besluit van de Waalse Regering van bijzondere machten nr. 35 houdende organisatie van de 'contact tracing' in het kader van de bestrijding van de COVID-19-epidemie 
+De Waalse Regering,Gelet 
+op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de bijzondere 
+wet van 6 januari 2014, artikel 5, § 1, I, 8° ;Gelet op de artikelen 47-13 tot 47-16 
+van het Waalse Wetboek van Sociale Actie en Gezondheid, ingevoegd bij het decreet van 2 mei 2019;Gelet 
+op het bijzonder decreet van 11 juli 2014 betreffende de bevoegdheden van de Franse Gemeenschap waarvan 
+de uitoefening aan het Waalse Gewest en aan de Franse Gemeenschapscommissie overgedragen wordt, artikel 
+3, 6° ;Gelet op het decreet van 17 maart 2020 tot toekenning van de bijzondere machten aan 
+de Waalse Regering in het kader van de gezondheidscrisis COVID-19 voor de aangelegenheden geregeld bij 
+artikel 138 van de Grondwet;Gelet op het besluit van de Waalse Regering van 13 september 2019 
+tot vaststelling van de verdeling van de ministeriële bevoegdheden en tot regeling van de ondertekening 
+van haar akten;Gelet op het besluit van de Waalse Regering van 26 september 2019 tot regeling 
+van de werking van de Waalse Regering;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 5 mei 2020;Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 
+1973, artikel 3, § 1, eerste lid;Gelet op de dringende noodzakelijkheid;Gelet 
+op de verklaring van WHO in verband met de kenmerken van het coronavirus COVID-19, in het bijzonder de 
+sterke besmettelijkheid en het sterfelijkheidsrisico en overwegende dat WHO op 11 maart 2020 het coronavirus 
+COVID-19 als een pandemie gelabeld heeft;Overwegende dat WHO op 16 maart 2020 zijn dreigingsniveau 
+voor het coronavirus COVID-19, die de wereldeconomie destabiliseert en zich snel over de wereld spreidt, 
+naar de hoogste graad heeft opgetrokken;Gelet op de verspreiding van het coronavirus COVID-19 
+op Europees grondgebied en in België;Gelet op de dringende noodzakelijkheid en het gezondheidsrisico 
+dat het coronavirus COVID-19 voor de Belgische bevolking inhoudt;Overwegende dat het gevaar 
+zich over het grondgebied van het gehele land verspreidt; dat het in het algemeen belang is dat er samenhang 
+gegeven wordt aan de getroffen maatregelen om de verspreiding van COVID-19 te beperken, zodat de doeltreffendheid 
+ervan hoogst mogelijk is;Gelet op de overlegvergaderingen tussen de Regering van de deelgebieden 
+en de bevoegde federale autoriteiten, in de Nationale Veiligheidsraad die sinds begin maart 2020 bijeenkomt;Gelet 
+op de lockdownmaatregelen genomen door de federale Regering via de opeenvolgende ministeriële besluiten 
+van 13, 18 en 23 maart 2020 en van 3, 17 en 30 april 2020 houdende dringende maatregelen om de verspreiding 
+van het coronavirus COVID-19 te beperken, respectievelijk bekendgemaakt in het Belgisch Staatsblad van 
+13, 18 en 23 maart 2020, en van 3, 17 en 30 april 2020;Gelet op de beslissing aangenomen door 
+de Nationale Veiligheidsraad op 24 april om vanaf 4 mei 2020 een proces van geleidelijke afbouw van de 
+lockdown in opeenvolgende fasen op te starten;Overwegende dat dit proces van afbouw van de 
+lockdown tot gevolg heeft dat de contacten tussen mensen toenemen en bijgevolg leidt tot een verhoogd 
+risico op besmettingen met COVID-19;Gelet op artikel 191 van het EU-Verdrag waarin het voorzorgsbeginsel 
+vastgeschreven is in het kader van het beheer van een internationale sanitaire crisis en de actieve voorbereiding 
+op het potentieel voorvallen van deze crisissen; dat dit beginsel inhoudt dat, wanneer er een ernstig 
+risico zich naar alle waarschijnlijkheid kan voordoen, de publieke overheden dringende en voorlopige 
+maatregelen dienen te nemen;Overwegende dat een vroegtijdige opsporing van personen die met 
+het virus COVID-19 besmet zijn of kunnen zijn noodzakelijk is om hen gepaste aanbevelingen te verstrekken 
+(thuis blijven, telewerken, zich laten testen,...) om te voorkomen dat zij op hun beurt het virus naar 
+andere personen verspreiden;Overwegende dat het met het oog hierop noodzakelijk is informatie 
+te verzamelen over personen die positief op COVID-19 zijn getest of van wie de arts een dergelijke infectie 
+vermoedt, maar ook over de personen met wie zij in contact zijn geweest;Overwegende dat de 
+federale Regering, in samenwerking met de deelgebieden, heeft besloten om bij Sciensano een databank 
+op te richten, die onder andere bedoeld is om die contact tracing mogelijk te maken;Gelet op 
+het koninklijk besluit nr. 18 van 4 mei 2020 tot oprichting van een databank bij Sciensano in het kader 
+van de strijd tegen de verspreiding van het coronavirus COVID-19 waarin met name de persoonsgegevens 
+die in de databank zijn opgenomen, de personen of instellingen die verantwoordelijk zijn voor de verstrekking 
+ervan, de doeleinden van de verwerking, de personen die toegang mogen hebben tot de databank en de duur 
+van de bewaring ervan worden vastgesteld;Overwegende dat er wordt bepaald dat contactcentra 
+op basis van de op federaal niveau verzamelde gegevens contact zullen opnemen met de personen van wie 
+de arts een vermoeden van infectie heeft of bij wie hij een infectie vaststelt en de personen met wie 
+laatstgenoemden in aanraking zijn gekomen om hen de nodige informatie en aanbevelingen te geven;Overwegende 
+dat, in het geval van besmettelijke infectieziekten, er momenteel procedures bestaan voor de bescherming 
+van de volksgezondheid en de toepassing van passende profylactische maatregelen, die zijn opgenomen in 
+het Waalse Wetboek van sociale actie en gezondheid, met inbegrip van de procedures voor "tracing";Dat 
+nodige specifieke modaliteiten, namelijk de oprichting van een contactcentrum, dus worden toegevoegd 
+aan de modaliteiten die reeds zijn opgenomen in de artikelen 47/13 en volgende van het Waalse Wetboek 
+van sociale actie en gezondheid;Dat deze voor COVID-19 specifieke modaliteiten afwijken van 
+bepaalde modaliteiten van de tracing die voorzien is in het Waalse Wetboek van sociale actie en gezondheid, 
+wat gerechtvaardigd is gezien de omvang van de epidemie en de noodzaak om coherente en gecoördineerde 
+maatregelen te nemen tussen deelgebieden en federale autoriteiten op het hele Belgische grondgebied;Overwegende 
+dat het "Agence wallonne de la santé, de la protection sociale, du handicap et des familles" (Waals agentschap 
+voor gezondheid, sociale bescherming, handicap en gezinnen) met de organisatie van deze "contactcentra" 
+belast zal zijn;Dat de personele middelen waarover de gezondheidsinspectiediensten van het 
+"Agence wallonne de la santé, de la protection sociale, du handicap et des familles" beschikken, echter 
+onvoldoende blijken te zijn om in het kader van de COVID-19-epidemie de 'contact tracing' te verzekeren;Overwegende 
+dat het derhalve noodzakelijk is om met spoed aanvullende decretale bepalingen vast te stellen om de 
+nodige actiemiddelen te verschaffen voor het organiseren van de geplande 'contact tracing';Overwegende 
+dat gezien de persoonsgegevens die in het kader van de 'contact tracing' worden gebruikt, het ook passend 
+is om, voor zover nodig, de verplichtingen in herinnering te brengen die zijn opgelegd aan degenen die 
+verantwoordelijk zijn voor de uitvoering ervan;Overwegende dat artikel 47/14, § 1, lid 
+7, van het Waalse Wetboek van sociale actie en gezondheid het volgende bepaalt: "De gegevens worden per 
+telefoon, fax, beveiligde informaticatoepassingen binnen in het Agentschap of via elektronische aangifte-interface 
+ingezameld";Dat de AVG en de wet van 30 juli 2018 betreffende de bescherming van natuurlijke 
+personen met betrekking tot de verwerking van persoonsgegevens nochtans niet vereisen dat de rechtsgrondslag 
+voor de verwerking van de gegevens de precieze modaliteiten voor de verzameling van de gegevens vastlegt;Dat 
+de middelen voor het verzamelen van gegevens echter niet mogen worden beperkt gezien de omvang van de 
+crisis en de noodzaak om de infectieketen te doorbreken;Overwegende dat er ook aangestipt dient 
+te worden dat het contactcentrum de gegevens die bedoeld zijn in het koninklijk besluit nr. 18 van 4 
+mei 2020 tot oprichting van een databank bij Sciensano in het kader van de strijd tegen de verspreiding 
+van het coronavirus COVID-19 kan verzamelen en aan Sciensano kan meedelen;Overwegende dat artikel 
+2, § 1, van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Waalse 
+Regering in het kader van de gezondheidscrisis Covid-19 bepaalt het volgende bepaalt: "Om de Waalse Regering 
+in staat te stellen om te reageren op de pandemie Covid-19, kan de Regering, in de aangelegenheden die 
+onder de bevoegdheid van het Waals Gewest vallen krachtens artikel 138 van de Grondwet, alle nuttige 
+maatregelen nemen om elke situatie te voorkomen en te behandelen die problemen stelt in het strikte kader 
+van de pandemie Covid-19 en de gevolgen ervan en die geregeld moet worden op straffe van ernstig gevaar";Overwegende 
+dat artikel 3, § 1, van bovenvermeld decreet het volgende bepaalt: "De besluiten bedoeld in de 
+artikelen 1 en 2 kunnen aangenomen worden zonder dat de wettelijk of reglementair vereiste adviezen vooraf 
+ingewonnen worden. Het eerste lid is van toepassing op de adviezen van de afdeling wetgeving van de Raad 
+van State in de bijzonder door de Regering gemotiveerde gevallen";Overwegende in casu dat de 
+noodzaak om een 'contact tracing' vóór 4 mei 2020 te ontwikkelen om een heropleving van de epidemie in 
+het kader van afbouw van de coronamaatregelen te beteugelen, vereist dat dit besluit met spoed wordt 
+aangenomen, hetgeen niet verenigbaar is met de raadpleging van de afdeling Wetgeving van de Raad van 
+State;In ieder geval zal het decreet tot bevestiging van dit besluit moeten worden voorgelegd 
+aan de afdeling Wetgeving van de Raad van State.Op de voordracht van de Minister van Gezondheid;Na 
+beraadslaging,Besluit :Artikel 1. Dit besluit regelt, overeenkomstig artikel 138 
+van de Grondwet, een materie bedoeld in artikel 128 ervan.Art. 2. Voor de toepassing van dit 
+besluit wordt verstaan onder :1°  het Agentschap: het "Agence wallonne de la santé, de la protection 
+sociale, du handicap et des familles" bedoeld in artikel 2 van het Waalse Wetboek van sociale actie en 
+gezondheid;2°  het koninklijk besluit nr. 18 : het koninklijk besluit nr. 18 van 4 mei 2020 
+tot oprichting van een databank bij Sciensano in het kader van de strijd tegen de verspreiding van het 
+coronavirus COVID-19;3°  het Wetboek: het Waals Wetboek van sociale actie en gezondheid, aangenomen 
+bij het besluit van de Waalse Regering van 29 september 2011 houdende codificatie van de wetgeving over 
+de gezondheid en de sociale actie, bekrachtigd bij het decreet van 1 december 2011, en zoals later gewijzigd.Art. 
+3. In het kader van het beheer van de COVID-19-epidemie organiseert het Agentschap een contactcentrum 
+belast met het opsporen en het contacteren van de personen die besmet zijn of vermoedelijk besmet zijn 
+met COVID-19, alsmede met de personen met wie zij contact hebben gehad om hen de nodige informatie en 
+aanbevelingen te geven.In dit kader kan het Agentschap het contactcentrum belasten met elke 
+opdracht bedoeld in artikel 47/15 van het Wetboek.In afwijking van artikel 47/14, § 
+1, vijfde lid, kunnen alle leden van het contactcentrum belast worden met de in artikel 47/14 bedoelde 
+opdrachten. In afwijking hiervan kunnen alle leden die het contactcentrum samenstellen, gegevens verzamelen 
+via andere middelen die niet uitdrukkelijk worden vermeld in artikel 47/14, § 1, lid 7 van het 
+Wetboek zoals huisbezoeken aan personen die niet bereikbaar zijn per telefoon of e-mail. Zij kunnen de 
+gegevens als bedoeld in artikel 2, § 4, van het koninklijk besluit nr. 18 verzamelen en meedelen.Het 
+contactcentrum oefent zijn uitopdrachten uit met inachtneming van artikel 9 van de wet van 30 juli 2018 
+betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.Art. 
+4. Het contactcentrum bestaat uit :1°  artsen of de verpleegkundigen belast met het toezicht 
+op de besmettelijke ziektes die door het Agentschap worden aangewezen, overeenkomstig artikel 47/15 van 
+het Wetboek;2°  leden van het personeel van het Waalse Gewest of van openbare instellingen 
+en publiekrechtelijke rechtspersonen die ervan afhangen, die tijdelijk op vrijwillige basis voor deze 
+taak zijn aangesteld en die onderworpen zijn aan de te allen tijde herroepbare instemming van hun hiërarchie;3° 
+ indien nodig, externe dienstverleners aangewezen door het Agentschap.Art. 5. Alleen de leden 
+van het contactcentrum die specifiek gemachtigd zijn om toegang te krijgen tot de databank, hebben toegang 
+tot de gegevens en zijn gemachtigd om ze te verwerken in overeenstemming met de doeleinden waarvoor ze 
+werden verzameld.Het is hen verboden de gegevens bekend te maken of voor andere doeleinden 
+te gebruiken.Zij zijn onderworpen aan het beroepsgeheim overeenkomstig artikel 458 van het 
+Strafwetboek.Art. 6. Wanneer het Agentschap een beroep doet op één of meerdere externe dienstverleners 
+als bedoeld in artikel 4, 3°,  sluit bedoeld Agentschap met elk van hen een onderaannemingscontract overeenkomstig 
+artikel 28 van Verordening (EU) nr. 2016/679 van het Europees Parlement en de Raad van 27 april 2016 
+betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens 
+en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG.Art. 
+7. De persoonsgegevens die door de leden van het in artikel 4, 2°  en 3°,  bedoelde contactcentrum worden 
+verwerkt, worden uiterlijk vijf dagen na de bekendmaking van het regeringsbesluit waarbij het einde van 
+de toestand van de epidemie van het coronavirus COVID-19 wordt vastgesteld, gewist.Art. 8. 
+De Regering ontbindt het in artikel 3 bedoelde contactcentrum uiterlijk vijf dagen na de bekendmaking 
+van het regeringsbesluit waarbij het einde van de toestand van de epidemie van het coronavirus COVID-19 
+wordt vastgesteld,.Indien dit niet het geval is, wordt het automatisch op die datum ontbonden.Art. 
+9. Dit besluit treedt in werking op 5 mei 2020.Art. 10.  De Minister van Gezondheid is belast 
+met de uitvoering van dit besluit.Namen, 5 mei 2020.Voor de Waalse Regering :De 
+Minister-President,E. DI RUPODe Minister van Werk, Vorming, Gezondheid, Sociale Actie, 
+Gelijke Kansen en Vrouwenrechten,Ch. MORREALE  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-11Numac : 2020041258
+

@@ -1,0 +1,144 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2021/10/28/2021022390/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-11-05Numac : 2021022390
+WAALSE OVERHEIDSDIENST
+ 28 OKTOBER 2021. - Besluit van de Waalse Regering betreffende de toekenning van een aanvullende tegemoetkoming voor ondernemingen met NACE BEL code 56.302 in het kader van de crisis in verband met het coronavirus COVID-19 
+De Waalse Regering,Gelet op het decreet van 11 maart 2004 betreffende de 
+gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen, inzonderheid op artikelen 
+10 en 19;Gelet op het rapport van 13 oktober 2021 opgesteld overeenkomstig artikel 3, 2°,  
+van het decreet van 11 april 2014 houdende uitvoering van de resoluties van de Vrouwenconferentie van 
+de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie 
+in het geheel van de gewestelijke beleidslijnen;Gelet op het advies van de Inspecteur van Financiën, 
+gegeven op 14 oktober 2021;Gelet op de instemming van de Minister van Begroting, gegeven op 
+21 oktober 2021;Gelet op het advies 70.352/2 van de Raad van State, gegeven op 27 oktober 2021, 
+overeenkomstig artikel 84, § 1, eerste lid, 3°,  van de wetten op de Raad van State, gecoördineerd 
+op 12 januari 1973;Gelet op de dringende noodzakelijkheid;Gelet op het ministerieel 
+besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 
+te beperken;Gelet op het Overlegcomité van 20 augustus 2021;Overwegende dat inrichtingen 
+met NACE-BEL-code 56.302 tot 1 oktober 2021 gesloten waren;Overwegende dat, na een verlenging 
+van de sluiting tot 1 oktober 2021 voor deze sectoren, deze maatregel bedoeld is om zelfstandigen en 
+ondernemingen die in deze sectoren actief zijn, te ondersteunen bij hun hervatting;Overwegende 
+dat de betrokken ondernemingen hun omzet fors hebben zien dalen, of zelfs helemaal verdwijnen, en dat 
+hierdoor het inkomen van de ondernemers en van hun werknemers in het gedrang komt;Overwegende 
+dat het dringend is om dit ontwerp aan te nemen gezien de moeilijke situatie die nog steeds bestaat voor 
+deze ondernemingen die nog steeds ernstige economische schade lijden;Overwegende dat deze steun 
+met name tot doel heeft de ondervonden moeilijkheden te verminderen en een golf van faillissementen proberen 
+te voorkomen onder de ondernemingen die liquiditeitsproblemen ondervinden ten gevolge van de crisis;Overwegende 
+dat het derhalve noodzakelijk is de tegemoetkoming te versterken en dat het van essentieel belang is 
+zo spoedig mogelijk financiële steun aan deze sectoren te verlenen;Gelet op Verordening (EU) 
+nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 
+108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;Op de voordracht 
+van de Minister van Economie;Na beraadslaging,Besluit : Artikel 1. Voor 
+de toepassing van dit besluit wordt verstaan onder:1°  het decreet: het decreet van 11 maart 
+2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen;2° 
+ de Minister: de Minister bevoegd voor Economie;3°  de onderneming: de zeer kleine, kleine 
+of middelgrote onderneming bedoeld in artikel 3, §§ 3 en 5, van het decreet, evenals de 
+natuurlijke persoon die een activiteit in hoofd- of bijberoep uitoefent en die, rekening houdend met 
+zijn beroepsinkomsten, sociale bijdragen betaalt;4°  de NACE-BEL-code: de activiteitennomenclatuur 
+uitgewerkt door het Nationaal Instituut voor de Statistiek (NACE-BEL 2008) in ééngemaakt Europees verband, 
+opgelegd bij Verordening (EEG) nr. 3037/90 van 9 oktober 1990 van de Raad betreffende de statistieke 
+nomenclatuur van de economische activiteiten in de Europese Gemeenschap, gewijzigd bij Verordening (EEG) 
+nr. 761/93 van de Commissie van 24 maart 1993, bij Verordening (EG) nr. 29/2002 van 19 december 2001, 
+bij Verordening (EG) nr. 1882/2003 van het Europese Parlement en van de Raad van 29 september 2003 en 
+bij Verordening (EG) nr. 1893/2006 van het Europese Parlement en van de Raad van 20 december 2006;5° 
+ de Administratie: de Waalse Overheidsdienst Economie, Tewerkstelling en Onderzoek;6°  het 
+webplatform: de webtoepassing bedoeld in artikel 1, § 1, eerste lid, 6°,  van het decreet van 
+21 december 2016 houdende de toekenning van steun via een in het Waalse Gewest geïntegreerd steunportfolio 
+aan projectontwikkelaars en kleine en middelgrote ondernemingen, ter vergoeding van de diensten ter bevordering 
+van het ondernemerschap of de groei, en strekkende de oprichting van een databank van authentieke bronnen 
+die verbonden is met die geïntegreerde portefeuille, die toegankelijk is op https://indemniteCOVID.wallonie.be;7° 
+ het personeelsbestand: het gemiddeld aantal werknemers, in 2019 tewerkgesteld via een arbeidsovereenkomst 
+in de gezamenlijke bedrijfszetels van de onderneming die overeenstemmen met de arbeidseenheden (JAE), 
+berekend op grond van de multifunctionele aangiften bij de Kruispuntbank van de Sociale Zekerheid voor 
+de vier kwartalen van 2019.Art. 2. De gezondheidscrisis gebonden aan het coronavirus COVID-19 
+wordt door de Regering erkend als een buitengewone gebeurtenis in de zin van artikel 10 van het decreet.Art. 
+3. De tegemoetkoming wordt toegekend overeenkomstig Verordening (EU) nr. 1407/2013 van de Commissie van 
+18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de 
+werking van de Europese Unie op de-minimissteun, hierna Verordening 1407/2013 genoemd.Art. 
+4. De Minister kent volgens de door hem bepaalde nadere regels een financiële tegemoetkoming toe aan 
+de onderneming:1°  die vóór 1 oktober 2021 in het Waalse Gewest eigenaar was van een vestigingseenheid 
+als bedoeld in artikel I.2., 16°,  van Boek I van het Wetboek van economisch recht;2°  waarvan 
+de hoofdactiviteit onder de NACE-BEL-code 56.302 valt.Art. 5. De in artikel 4, eerste lid, 
+bedoelde tegemoetkoming bedraagt:1°  8.000 euro als het personeelsbestand 0 is;2° 
+ 12.000 euro als het personeelsbestand hoger is dan 0 en lager is dan 5;3°  18.000 euro als 
+het personeelsbestand gelijk is aan of hoger is dan 10 en lager dan 50;4°  24.000 euro als 
+het personeelsbestand gelijk is aan of hoger is dan 50.In afwijking van artikel 1, 7°,  wordt 
+het personeelsbestand, als de onderneming in 2020 opgericht is, berekend over het gemiddelde van het 
+aantal werknemers in het jaar waarin de onderneming is opgericht.De in het eerste lid bedoelde 
+tegemoetkoming kan slechts eenmaal per onderneming ingeschreven in de Kruispuntbank van Ondernemingen 
+worden toegekend, overeenkomstig boek III, Titel 2, hoofdstuk 1, van het Wetboek van Economisch recht.Art. 
+6. Binnen de door de Minister vastgestelde termijnen dient de onderneming haar aanvraag om tegemoetkoming 
+bij de Administratie in via een formulier op het webplatform.Bij het indienen van het dossier 
+op het webplatform moet de onderneming ten minste de volgende informatie verstrekken:1°  haar 
+nummer van de Kruispuntbank van Ondernemingen;2°  de NACE BEL code voor de activiteit waarvoor 
+de onderneming de bijkomende tegemoetkoming aanvraagt;3°  een verklaring op erewoord die op 
+het webplatform ingevuld moet worden;4°  het rekeningnummer van de onderneming.De 
+onderneming verklaart minstens via de in het tweede lid, 3°,  bedoelde verklaring op erewoord dat zij 
+de plafonds zoals bepaald in Verordening 1407/2013 niet overschrijdt, namelijk 200.000 euro over de laatste 
+drie belastingjaren en dat zij valt onder een activiteit vermeld in één van de NACE BEL codes bedoeld 
+in artikel 4, lid 1, 4°. Het bedrag van de tegemoetkoming wordt door de Administratie overeenkomstig 
+artikel 5 berekend op grond van de gegevens die haar zijn medegedeeld via de authentieke bronnen en de 
+documenten die de onderneming heeft verstrekt.Art. 7. De beslissing over de ontvankelijkheid, 
+de betaling, de controle en invordering van de tegemoetkoming wordt genomen door elk personeelslid van 
+niveau A zoals omschreven in het besluit van de Waalse Regering van 18 december 2003 houdende de Waalse 
+Ambtenarencode, aangewezen door de directeur-generaal van de Administratie.Art. 8. Indien de 
+aanvraag niet ontvankelijk is, schorst het personeelslid van niveau A bedoeld in artikel 7 de aanvraag 
+om specifieke tegemoetkoming en brengt hij de onderneming op de hoogte, die haar aanvraag kan aanvullen 
+en indienen voor een nieuw onderzoek naar ontvankelijkheid.Indien het dossier niet binnen een 
+maand na de datum van kennisgeving van de schorsing is vervolledigd of het verzoek om tegemoetkoming 
+opnieuw niet-ontvankelijk is verklaard, wordt het definitief ingetrokken.Indien de aanvraag 
+aan de gestelde voorwaarden voldoet, wordt de onderneming er elektronisch van in kennis gesteld dat de 
+tegemoetkoming wordt toegekend.Art. 9. Dit besluit treedt in werking de dag waarop het in het 
+Belgisch Staatsblad bekendgemaakt wordt.Art. 10. De Minister van Economie is belast met de 
+uitvoering van dit besluit.Namen, 28 oktober 2021.Voor de Regering :De 
+Minister-President,E. DI RUPODe Minister van Economie, Buitenlandse Handel, Onderzoek, 
+Innovatie,Digitale Technologieën, Ruimtelijke Ordening, Landbouw, het "IFAPME", en de Vaardigheidscentra,W. 
+BORSUS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-11-05Numac : 2021022390
+

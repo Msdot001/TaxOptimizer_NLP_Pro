@@ -1,0 +1,68 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2021020767/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020767
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 7 APRIL 2019. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de afzonderlijke aanslag betreft. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van de 
+wet van 7 april 2019 tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de afzonderlijke 
+aanslag betreft (Belgisch Staatsblad van 3 mei 2019).Deze vertaling is opgemaakt door de Centrale 
+dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN7. 
+APRIL 2019 - Gesetz zur Abänderung des Einkommensteuergesetzbuches 1992 hinsichtlich der getrennten VeranlagungPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer 
+hat das Folgende angenommen und Wir sanktionieren es:Artikel 1 - Vorliegendes Gesetz regelt 
+eine in Artikel 74 der Verfassung erwähnte Angelegenheit.Art. 2 - In Artikel 171 Nr. 5 des 
+Einkommensteuergesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 26. März 2018, werden im einleitenden 
+Satz die Wörter "eine normale Berufstätigkeit" durch die Wörter "zwölf Monate steuerpflichtige Berufseinkünfte" 
+ersetzt.Art. 3 - Vorliegendes Gesetz ist ab dem Steuerjahr 2019 anwendbar.Wir fertigen 
+das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel versehen und durch das Belgische 
+Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 7. April 2019PHILIPPEVon 
+Königs wegen:Der Vizepremierminister und Minister der FinanzenA. DE CROOMit 
+dem Staatssiegel versehen:Der Minister der Justiz,K. GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-20Numac : 2021020767
+

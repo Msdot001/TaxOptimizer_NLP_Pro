@@ -1,0 +1,543 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2018/12/21/2020010369/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-05-05Numac : 2020010369
+FEDERALE OVERHEIDSDIENST FINANCIEN
+ 21 DECEMBER 2018. - Koninklijk besluit tot uitvoering van Hoofdstuk 2 van de wet van 29 maart 2018 tot uitbreiding van de opdrachten en versterking van de rol van de fiscale bemiddelingsdienst. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het koninklijk besluit van 21 
+december 2018 tot uitvoering van Hoofdstuk 2 van de wet van 29 maart 2018 tot uitbreiding van de opdrachten 
+en versterking van de rol van de fiscale bemiddelingsdienst (Belgisch Staatsblad van 31 december 2018).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST FINANZEN21. DEZEMBER 2018 - Königlicher Erlass zur Ausführung von Kapitel 
+2 des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung der Rolle des Dienstes 
+SteuerschlichtungBERICHT AN DEN KÖNIGSire,der Erlass, den wir die Ehre 
+haben, Eurer Majestät zur Unterschrift vorzulegen, umfasst Maßnahmen zur Ausführung von Kapitel 
+2 - Übertragung der Zuständigkeit in Bezug auf den Erlass von Steuerzuschlägen und administrativen Steuergeldbußen 
+des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung der Rolle des Dienstes Steuerschlichtung, 
+nachstehend Gesetz vom 29. März 2018 genannt. Das vorerwähnte Gesetz ist auf eine parlamentarische Initiative 
+zurückzuführen und durch Kapitel 2 dieses Gesetzes werden die Empfehlungen Nr. 63 und 64 des Berichts 
+der Parlamentarischen Untersuchungskommission vom 7. Mai 2009 über die wichtigen Steuerhinterziehungsakten 
+(DOC 52 0034/004) umgesetzt.In der Empfehlung Nr. 63 ist bestimmt, dass die Befugnis, über 
+die der Minister der Finanzen aufgrund von Artikel 9 des Grundlagenerlasses vom 18. März 1831 über die 
+Finanzverwaltung verfügt, so organisiert werden muss, dass das Eingreifen des Ministers in Bezug auf 
+Erlassbeschlüsse nicht mehr erforderlich ist.In der Empfehlung Nr. 64 desselben Berichts ist 
+vorgesehen, ein Verzeichnis der Anträge auf ein Eingreifen in Anwendung des Gnadenrechts in einem Register, 
+das dem Rechnungshof übermittelt wird, zu führen. Der Rechnungshof wiederum erstattet der Abgeordnetenkammer 
+jährlich Bericht unter Einhaltung der Grundsätze des Privatlebens und der Anonymität der Steuerpflichtigen.Außerdem 
+wird im Gesetz vom 29. März 2018 dem Bericht des Rechnungshofs von Januar 2014 über Steuermaßnahmen 
+zugunsten von Steuerpflichtigen mit Zahlungsschwierigkeiten Rechnung getragen.I. Rechtsgrundlage 
+und derzeitige Gültigkeit von Artikel 9 des Erlasses des Regenten vom 18. März 1831: Annahme einer neuen 
+Rechtsgrundlage, die auf drei Steuergruppen begrenzt istDie Verwaltungsstreitsachenabteilung 
+des Staatsrates hat im Entscheid Nr. 108.981 vom 9. Juli 2002 über die Rechtsgrundlage von Artikel 9 
+des Erlasses des Regenten vom 18. März 1831 befunden. Nachstehend folgt eine inoffizielle und angepasste 
+Übersetzung eines Teils dieses Entscheids."Im Bereich Einkommensteuern ist die Verwaltung durch 
+Artikel 114 des Gesetzes vom 28. Juni 1822 über die Steuer auf das Personal ermächtigt worden, Beschlüsse 
+zur Verringerung von steuerrechtlichen Sanktionen zu fassen, einschließlich Anhebungen von Gebühren 
+zur Erwirkung einer Geldbuße, die heute als Steuerzuschläge bezeichnet werden. In dem Maße, 
+wie Artikel 114 des vorerwähnten Gesetzes vom 28. Juni 1822 steuerrechtliche Sanktionen betrifft, ist 
+dieses Gesetz nicht durch die Artikel 110 und 112 der Verfassung vom 7. Februar 1831, die das Legalitätsprinzip 
+in Steuerangelegenheiten bestätigen, aufgehoben worden; bei Steuerzuschlägen handelt es sich eigentlich 
+um Verwaltungsstrafen und nicht um Steuern; bei der Verabschiedung des Erlasses Nr. 78 vom 18. März 1831 
+verfügte die Verwaltung daher über die Befugnis, Vergleiche über den Betrag dieser Zuschläge zu schließen, 
+was auch eine mögliche Ermäßigung umfasste. Diese Befugnis, die der Verwaltung durch Artikel 114 
+des vorerwähnten Gesetzes vom 28. Juni 1822 zuerkannt worden ist, konnte vom Regenten, der die Befugnisse 
+des Königs ausübte, umgesetzt werden und es oblag Ihm insbesondere, auf der Grundlage Seiner durch Artikel 
+67 der Verfassung vom 7. Februar 1831 zuerkannten allgemeinen Befugnis zur Ausführung der Gesetze und 
+Seiner durch die Artikel 29 und 66 Absatz 2 der Verfassung vom 7. Februar 1831 zuerkannten Befugnis zur 
+Organisation der staatlichen Dienste zu verdeutlichen, welche Behörde diese Befugnis ausüben durfte, 
+die gemäß dem Gesetz der ausführenden Gewalt zugewiesen war. Auf der Grundlage dieser Befugnisse 
+hat der Regent durch die Annahme von Artikel 9 Seines vorerwähnten Erlasses Nr. 78 vom 18. März 1831 
+Artikel 114 des vorerwähnten Gesetzes vom 28. Juni 1822, der die Rechtsgrundlage bildet, umgesetzt."In 
+vorerwähntem Entscheid wird außerdem geschlussfolgert, dass der Minister der Finanzen immer noch 
+über die Befugnis verfügt, über die Anträge (Beschwerden) zu befinden, die Erlasse von Steuerzuschlägen 
+betreffen, da im betreffenden Fall keine Aufhebung oder Ersetzung von Artikel 9 des vorerwähnten Erlasses 
+des Regenten Nr. 78 vorgenommen wurde und die progressive Ersetzung der durch das vorerwähnte Gesetz 
+vom 28. Juni 1822 vorgesehenen Steuern durch neue Steuern und die Aufhebung desselben Gesetzes nicht 
+mit der Annahme von Normen, die Gesetzeskraft haben, oder anderen höheren Normen einhergingen, die mit 
+der Zuerkennung einer Gnadenbefugnis im Bereich der steuerrechtlichen Sanktionen an den Minister der 
+Finanzen unvereinbar sind.Diese Situation hat sich jedoch vor kurzem durch Artikel 3 des Gesetzes 
+vom 29. März 2018 geändert, das auf die Annahme einer neuen gesetzlichen Norm abzielt, die die Übertragung 
+der ministeriellen Befugnis zum Erlass oder zur Ermäßigung von Steuerzuschlägen und administrativen 
+Steuergeldbußen an das beim Dienst Steuerschlichtung geschaffene "Büro Verwaltungsstrafen" ermöglicht, 
+jedoch nur für:- die Einkommensteuern,- die den Einkommensteuern gleichgesetzten 
+Steuernund- die verschiedenen Gebühren und Steuern.Folglich bleibt der 
+Erlass des Regenten auf alle Anträge auf Erlass oder Ermäßigung von gestaffelten und nicht gestaffelten 
+Geldbußen im Bereich indirekte Steuern anwendbar (mit Ausnahme der verschiedenen Gebühren und Steuern).Der 
+Vollständigkeit halber wird darauf hingewiesen, dass das ministerielle Gnadenrecht durch eine Dienstanweisung 
+vom 2. Dezember 1991 an den Direktor der Mehrwertsteuer-, Registrierungs- und Domänenverwaltung delegiert 
+worden ist, mit der Möglichkeit, dieses Recht an die von ihm bestimmten Beamten weiterzudelegieren.Mit 
+anderen Worten bedeutet dies, dass der Minister der Finanzen in Bezug auf steuerrechtliche Geldbußen 
+im Bereich Mehrwertsteuer, Registrierungsgebühren und Erbschaftssteuer seine Befugnisse an die Verwaltung 
+delegiert hat, aber ein Evokationsrecht behält, da es sich um eine Delegierung und nicht um eine Übertragung 
+von Befugnissen handelt.II. Der Erlass oder die Ermäßigung von Steuerzuschlägen und administrativen 
+Geldbußen ist das Ergebnis eines Gnadenbeschlusses, nämlich eines Beschlusses, der unabhängig von 
+jeglicher steuerrechtlichen Rechtsstreitigkeit gefasst wirdEs besteht seit Langem große 
+Verwirrung zwischen einerseits Verringerungen von steuerrechtlichen Geldbußen und andererseits 
+Erlassen oder Ermäßigungen von steuerrechtlichen Geldbußen. Diese Verwirrung wird noch dadurch 
+verstärkt, dass im Niederländischen das gleiche Wort "vermindering" verwendet wird, um die französischen 
+Wörter "réduction" (Verringerung) und "modération" (Ermäßigung) zu übersetzen, wobei Ermäßigungen 
+eigentlich Teilerlasse sind.Verringerungen von steuerrechtlichen Geldbußen bestehen darin, 
+Geldbußen anzuwenden, die die gesetzliche Höchstgrenze (200 Prozent) nicht überschreiten, und sind 
+von der Steuerlage und dem Verhalten der Steuerpflichtigen abhängig: i) Art und Schwere des Verstoßes 
+und ii) Gut- beziehungsweise Bösgläubigkeit.Der Beschluss zur Auferlegung einer Geldbuße 
+obliegt in erster Linie dem Taxator, aber der Generalberater der mit der Festlegung der Einkommensteuern 
+beauftragten Verwaltung überprüft auf der Grundlage einer vom Steuerpflichtigen eingereichten Beschwerden, 
+ob die aufgrund der Artikel 444 und 445 des Einkommensteuergesetzbuches 1992 (EStGB 92) und der Artikel 
+225, 226 und 229/1 des Königlichen Erlasses zur Ausführung des EStGB 92 festgelegten Skalen der Steuerzuschläge 
+(d. h. der gestaffelten Geldbußen) und der administrativen Geldbußen (d. h. der nicht gestaffelten 
+Geldbußen) ordnungsgemäß im Verhältnis zum tatsächlichen Verhalten des Steuerpflichtigen 
+angewandt werden.Bleibt der Rechtsstreit nach einer Verwaltungsbeschwerde bestehen, wird er 
+dem Gericht der rechtsprechenden Gewalt vorgelegt und wird der Richter mit Allzuständigkeit entscheiden; 
+dies bedeutet, dass er den angefochtenen Beschluss der Direktion durch seine Beurteilung ersetzen kann. 
+Rechtlich gesehen heißt das, dass er die Macht hat, den ihm vom Rechtsuchenden vorgelegten Verwaltungsbeschluss 
+zu ändern.Bei Erlassen und Ermäßigungen (Teilerlassen) von steuerrechtlichen Geldbußen 
+handelt es sich keinesfalls um eine zweite Streitrunde, bei der ein Steuerpflichtiger die Neuüberprüfung 
+der ihm auferlegten Verwaltungsstrafe mit der Begründung beantragen würde, dass seine Steuerlage von 
+der Verwaltungsbehörde oder vom Richter falsch beurteilt worden wäre.Im Gegenteil: Anträge 
+auf Erlass oder Ermäßigung von steuerrechtlichen Geldbußen, die beim BVS eingereicht werden, 
+sind eigentlich Gnadengesuche. Unabhängig von jeglicher steuerrechtlichen Rechtsstreitigkeit werden Steuerpflichtige 
+ihre persönliche oder finanzielle Situation darlegen, die es ihnen nicht oder nicht mehr ermöglicht, 
+die auferlegte steuerrechtliche Geldbuße zu begleichen.Folglich wird hier nicht mehr 
+die Frage behandelt, ob die steuerrechtliche Geldbuße zu Recht oder zu Unrecht auferlegt worden 
+ist, da diese Frage bereits in einem früheren Stadium anlässlich einer administrativen oder gerichtlichen 
+Beschwerde endgültig geklärt worden ist, bei der über den zuvor vom Steuerpflichtigen gestellten Antrag 
+befunden worden ist, nämlich die Verringerung (gegebenenfalls auf null) der gestaffelten oder nicht gestaffelten 
+steuerrechtlichen Geldbuße.Der Beschluss, mit dem dem Steuerpflichtigen eine steuerrechtliche 
+Geldbuße auferlegt worden ist, wird daher durch den Beschluss des BVS, das über ein Gnadengesuch 
+befindet, keinesfalls geändert; er bringt lediglich aus Billigkeitsgründen (humanitären, sozialen, finanziellen 
+Gründen usw.) eine vollständige Befreiung beziehungsweise eine Teilbefreiung von der Vollstreckung der 
+dem Steuerpflichtigen auferlegten Geldbuße mit sich. Zwar bleibt die steuerrechtliche Sanktion, 
+nämlich der Steuerzuschlag oder die administrative Geldbuße, bestehen, aber die Steuerverwaltung 
+setzt ihre Vollstreckung nicht mehr fort.In diesem Sinne ist das Gnadenrecht in Steuersachen 
+eng mit dem Gnadenrecht, das in Strafsachen durch Artikel 110 der Verfassung dem König zuerkannt wird, 
+verbunden; dieser Artikel bringt die Befreiung von der Vollstreckung eines Teils der Gefängnisstrafe 
+mit sich, zu der ein Rechtsunterworfener verurteilt worden ist.In der Praxis muss die Begründung 
+des Gnadenbeschlusses auf der Untersuchung der persönlichen und finanziellen Situation des Schuldners 
+der Verwaltungsstrafe basieren, die auf Argumente sozialer, finanzieller, wirtschaftlicher oder humanitärer 
+Art und seiner Gutgläubigkeit beruht.Diese Begründung - und es ist wichtig, dies hervorzuheben 
+- kann von den betreffenden Bürgern oder Unternehmen in Anwendung von Artikel 14 § 1 der koordinierten 
+Gesetze über den Staatsrat dem Staatsrat zur Beurteilung vorgelegt werden.Schlussfolgernd ist 
+die Zielgruppe der Begünstigten der Gnadenerweise die Gruppe derjenigen, die allerhand Rückschläge erleiden, 
+nämlich natürliche oder juristische Personen, deren finanzielle Möglichkeiten, einen auferlegten Steuerzuschlag 
+beziehungsweise eine auferlegte Geldbuße zu begleichen, sich erheblich und ungewollt verschlechtert 
+haben, zum Beispiel infolge einer Ehescheidung, einer lebensbedrohlichen Krankheit oder eines Konkurses 
+oder infolge des Verlusts des Arbeitsplatzes oder eines wichtigen Kunden usw.Die vom Steuerpflichtigen 
+vorgebrachten Argumente werden vom BVS gründlich geprüft. Auf der Grundlage eines von diesem Büro verfassten 
+ausführlichen Berichts wird das Kollegium des Dienstes Steuerschlichtung einen Beschluss fassen.Das 
+Gesetz vom 29. Juli 1991 über die ausdrückliche Begründung der Verwaltungsakte ist selbstverständlich 
+im betreffenden Fall auf die zu treffenden Beschlüsse über Gnadengesuche im Bereich steuerrechtliche 
+Sanktionen anwendbar.III. Verfahren für die administrative Bearbeitung von Anträgen auf Erlass 
+oder Ermäßigung von Steuerzuschlägen oder steuerrechtlichen GeldbußenDer Erlass 
+ist auf der Grundlage einer logischen Fragestellung verfasst worden: wer, wann, wie und bei wem.Wer 
+kann einen Antrag einreichen?In Artikel 1 des Erlassentwurfs ist bestimmt, wer einen Antrag 
+einreichen kann. Dieser Artikel ist an die in Punkt 10 des Gutachtens Nr. 64.252/3 vom 11. Oktober 2018 
+aufgenommenen Bemerkungen der Gesetzgebungsabteilung des Staatsrates angepasst worden.Es handelt 
+sich natürlich in erster Linie um Steuerschuldner, aber auch um Personen, die für die Zahlung der Verwaltungsstrafe 
+haftbar gemacht werden können.Auch Personen, die gesetzlich zur gesamtschuldnerischen Zahlung 
+der Steuerschuld des Steuerschuldners verpflichtet sind, können beispielsweise ein Gnadengesuch einreichen: 
+Rechtsnachfolger im Rahmen einer Erbschaft, Komplementäre in einfachen Kommanditgesellschaften oder Kommanditgesellschaften 
+auf Aktien und Gesellschafter von Genossenschaften mit unbeschränkter Haftung oder von offenen Handelsgesellschaften.Dies 
+gilt dagegen nicht für Leiter, die vom Unternehmensgericht zur gesamtschuldnerischen Zahlung (der Mehrwertsteuer 
+oder) des Berufssteuervorabzugs verurteilt worden sind, da diese gesamtschuldnerische Haftung sich auf 
+die Hauptsumme (die Steuer) und nicht auf die Steuerzuschläge oder Geldbußen beschränkt.Ab 
+wann kann man einen Antrag einreichen?Für Steuerzuschläge und steuerrechtliche Geldbußen 
+im Bereich der Einkommensteuern und der den Einkommensteuern gleichgesetzten Steuern muss der Beschluss 
+zur Auferlegung einer Verwaltungsstrafe endgültig sein, bevor ein Antrag auf Erlass oder Ermäßigung 
+eingereicht werden kann, das heißt nach Erschöpfung aller administrativen (Beschwerde) und gerichtlichen 
+(erste Instanz, Berufung und Kassation) Rechtsmittel.Für steuerrechtliche Geldbußen im 
+Bereich der verschiedenen Gebühren und Steuern - für die kein administratives Beschwerdeverfahren eingeführt 
+worden ist - kann ein Antrag auf Erlass erst dann beim BVS eingereicht werden, wenn der Generalberater-Dienstleiter 
+des betreffenden Zentrums Privatpersonen, KMB oder Große Unternehmen über eine Verringerung der 
+auferlegten Geldbuße befunden hat.Mit anderen Worten muss in letzterem Fall Anträgen 
+auf Erlass oder Ermäßigung, die auf der persönlichen und finanziellen Situation des Steuerpflichtigen 
+basieren, immer ein Verwaltungsbeschluss vorausgehen, in dem über einen früheren Antrag auf Verringerung 
+der Geldbuße befunden wird, die dem Steuerpflichtigen auf der Grundlage seiner Steuerlage auferlegt 
+worden ist. Die Einreichung von Anträgen ist in diesem Fall nicht mit einer Ausschlussfrist verbunden, 
+sondern hängt vom Vorhandensein einer kritischen persönlichen oder finanziellen Situation seitens des 
+Steuerpflichtigen ab, da die Steuerverwaltung bereits aufgrund der Steuerlage des Steuerpflichtigen endgültig 
+über die Geldbuße befunden hat.Für Anträge auf Erlass oder Ermäßigung, die vor 
+dem 1. Januar 2019 eingereicht werden, wird das BVS alle Betroffenen über die abgeänderten Gesetzes- 
+und Verordnungsbestimmungen schriftlich informieren. Diese Anträge werden soweit möglich vom BVS vorrangig 
+bearbeitet, da ihre Untersuchung schon abgeschlossen ist oder läuft.Wie und bei wem?Schriftliche 
+durch die persönliche oder finanzielle Situation der Steuerpflichtigen begründete Anträge müssen beim 
+BVS per Brief oder E-Mail eingereicht werden. Solange das Kollegium des Dienstes Steuerschlichtung nicht 
+über einen vom Steuerschuldner eingereichten Antrag befunden hat, kann der Antrag ergänzt werden.IV. 
+Untersuchung von Anträgen auf Erlass oder Ermäßigung von VerwaltungsstrafenArtikel 3 
+bezieht sich auf die Untersuchung der Anträge und erfordert keinen Kommentar zu den darin aufgenommenen 
+Bestimmungen, die letztendlich gebräuchlich sind. Jedoch ist auf eine Spezifität im Verhältnis zur üblichen 
+Untersuchung hinzuweisen, die dem Dienst, der die eingereichten Anträge entgegennimmt, eigen ist; in 
+Artikel 3 Absatz 1 in fine ist nämlich die Möglichkeit vorgesehen, Personalmitglieder des FÖD Finanzen 
+in die Untersuchung der Anträge einzubeziehen.Die Gesetzgebungsabteilung des Staatsrates stellt 
+sich in Punkt 8.3 ihres Gutachtens Nr. 64.252/3 vom 11. Oktober 2018 Fragen in Bezug auf die Rechtsgrundlage 
+von Artikel 3 Absatz 1 des dem Rat vorgelegten Erlassentwurfs.Um sich ein gründliches und umfassendes 
+Bild der zu bearbeitenden Akte machen zu können, müssen die Mitarbeiter des BVS auf die Kenntnisse der 
+Beamten des FÖD Finanzen zurückgreifen können, die bei der Bearbeitung der eingereichten Anträge erforderlich 
+sein können. Diese Beamten werden nicht systematisch in Anspruch genommen, sondern nur dann, wenn sich 
+dies als nützlich erweist, zum Beispiel bei der Überprüfung von bestimmten vom Steuerschuldner vorgebrachten 
+mildernden Umständen wie die Erfüllung seiner steuerrechtlichen Pflichten, für bestimmte Akten in Zusammenhang 
+mit Betrug und bei der Bearbeitung von Akten in Bezug auf verschiedene Steuern (zum Beispiel Mehrwertsteuer 
+und Einkommensteuern) oder Akten, die die Inanspruchnahme von verschiedenen Diensten (zum Beispiel Beitreibung 
+und Steuerveranlagung) erfordern.Die Teilnahme von Personalmitgliedern des FÖD Finanzen wie 
+in den vorhergehenden Absätzen angegeben ist in diesem Erlass ausdrücklich vorgesehen, um jegliche eventuelle 
+auf anderen Verordnungsbestimmungen beruhende Beanstandung der Gültigkeit der Beschlüsse zu vermeiden, 
+für die eine solche Zusammenarbeit in Anspruch genommen worden ist. Das BVS, bei dem die Anträge eingereicht 
+werden müssen, ist nämlich nicht verpflichtet, diese Gnadengesuche unter allen Umständen allein zu untersuchen 
+und muss gegebenenfalls die Kenntnis der Steuerakte des Antragstellers in Anspruch nehmen können, über 
+die die Beamten der Generalverwaltung Steuerwesen, der Generalverwaltung Sonderinspektion der Steuern, 
+der Generalverwaltung Einnahme und Beitreibung und der Generalverwaltung Vermögensdokumentation verfügen. 
+Dies war übrigens schon der Fall bei der Untersuchung von ähnlichen aufgrund von Artikel 9 des Erlasses 
+des Regenten vom 18. März 1831 eingereichten Anträgen.Die Möglichkeit, bei der Untersuchung 
+von Anträgen auf Erlass oder Ermäßigung von Verwaltungsstrafen oder Steuerzuschlägen egal welchen 
+Beamten des FÖD Finanzen zu konsultieren, kann falls erforderlich auf kollegialer Basis organisiert werden. 
+Ein Protokoll zwischen den verschiedenen Generalverwaltungen wird zu diesem Zweck erstellt.Auf 
+diese Weise wird das BVS über alle Kenntnisse verfügen, die bei der Untersuchung von Gnadengesuchen erforderlich 
+sind.Im Übrigen ist Artikel 3 des Erlassentwurfs an die in den Punkten 12 und 13 des Gutachtens 
+Nr. 64.252/3 vom 11. Oktober 2018 aufgenommenen Bemerkungen der Gesetzgebungsabteilung des Staatsrates 
+angepasst worden.V. Vom Kollegium des Dienstes Steuerschlichtung erlassene GnadenbeschlüsseDurch 
+Artikel 6 des Erlasses wird dem Kollegium des Dienstes Steuerschlichtung die Funktion des Anweisungsbefugten 
+zuerkannt, woraufhin die Generalverwaltung Einnahme und Beitreibung den vollständigen Erlass beziehungsweise 
+den Teilerlass der Verwaltungsstrafe ausführt.VI. Administrative Beschwerden bei der Verwaltungsstreitsachenabteilung 
+des Staatsrates in Anwendung von Artikel 14 § 1 der koordinierten Gesetze über den StaatsratDer 
+Appellationshof von Gent hat am 7. Januar 2014 einen Grundsatzentscheid (Nr. 2013/AR/502) über die eventuelle 
+Anwendung von Artikel 569 Nr. 32 des Gerichtsgesetzbuches erlassen, der eine gerichtliche Beschwerde 
+gegen einen ministeriellen Beschluss ermöglicht, durch den in Anwendung von Artikel 9 des Erlasses des 
+Regenten vom 18. März 1831 ein vollständiger Erlass beziehungsweise ein Teilerlass einer steuerrechtlichen 
+Sanktion abgewiesen wird.Nach eingehender Prüfung der Angelegenheit hat der Gerichtshof zu 
+Recht beschlossen, dass Entscheidungen von Richtern, durch die steuerrechtliche Gnadengesuche abgewiesen 
+werden, keinen Grund für einen Rechtsstreit in Bezug auf die Anwendung eines Steuergesetzes bilden.Aus 
+dem vom Appellationshof von Gent erlassenen Grundsatzentscheid, durch den die Befugnis der rechtsprechenden 
+Gewalt ausgeschlossen wird, geht in der Tat hervor, dass der vor dem Richter vorgebrachte Rechtsstreit 
+nicht als Rechtsstreit in Bezug auf die Anwendung eines Steuergesetzes (Artikel 569 Nr. 32 des Gerichtsgesetzbuches), 
+sondern als Rechtsstreit in Bezug auf die Gesetzmäßigkeit eines Verwaltungsbeschlusses über den 
+Erlass oder die Ermäßigung einer Verwaltungsstrafe zu betrachten ist. Ein solcher Rechtsstreit 
+fällt in die Zuständigkeit der Verwaltungsstreitsachenabteilung des Staatsrates.Folglich kann 
+in Anwendung von Artikel 14 § 1 der koordinierten Gesetze über den Staatsrat eine administrative 
+Beschwerde beim Staatsrat eingereicht werden, wenn keine gerichtliche Beschwerde möglich ist.In 
+Artikel 5 Absatz 3 des dem Staatsrat vorgelegten Erlassentwurfs war Folgendes bestimmt:"Gegen 
+diesen Verwaltungsbeschluss kann keine gerichtliche Beschwerde eingereicht werden."Diese Bestimmung 
+ist eingefügt worden, um alle, die einen Antrag auf Gnadengesuch einreichen, darüber zu informieren, 
+dass im Gesetz vom 29. März 2018 keine organisierte Beschwerde vorgesehen ist, sodass Artikel 14 § 
+1 der koordinierten Gesetze über den Staatsrat anwendbar ist.Die Gesetzgebungsabteilung des 
+Staatsrates hat in Punkt 14 ihres Gutachtens Nr. 64.252/3 vom 11. Oktober 2018 Folgendes vermerkt:"Es 
+obliegt nicht der ausführenden Gewalt zu bestimmen, welche Beschlüsse der Gerichtsbarkeit des Staatsrates 
+und welche Beschlüsse der Gerichtsbarkeit der Gerichtshöfe und Gerichte unterliegen. Aufgrund der Artikel 
+145 und 160 der Verfassung handelt es sich dabei um eine dem Gesetzgeber vorbehaltene Befugnis. Daher 
+müssen die betreffenden Bestimmungen aus dem Entwurf eines Königlichen Erlasses gestrichen werden. Die 
+Erläuterungen des Beauftragten können eventuell in den Bericht an den König aufgenommen werden, der dem 
+Entwurf beigefügt ist." (Übersetzung)Diese Erläuterungen lauteten wie folgt:"Gerade 
+weil im Gesetz keine organisierte Beschwerde vor Gerichtshöfen und Gerichten vorgesehen ist, ist Artikel 
+14 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat anwendbar. Im Text des Erlasses wird 
+nur erwähnt, dass es keine organisierte gerichtliche Beschwerde gibt, wodurch die Verwaltungsstreitsachenabteilung 
+des Staatsrates im Versäumniswege als Richter zuständig wird." (Übersetzung)Aufgrund von Artikel 
+14 § 1 Absatz 1 Nr. 1 der vorerwähnten Gesetze über den Staatsrat hat die Nichtigerklärungsbefugnis 
+des Staatsrates nämlich in dem Sinne einen allgemeinen Charakter, dass sie für alle einseitigen Verwaltungsakte 
+der verschiedenen Verwaltungsbehörden gilt, es sei denn, im Gesetz ist eine besondere Beschwerdemöglichkeit 
+vor einem anderen Rechtsprechungsorgan vorgesehen.Da dies nicht der Fall ist, kann gegen die 
+vom Dienst Steuerschlichtung aufgrund der Artikel 5 und 6 des Gesetzes vom 29. März 2018 gefassten Beschlüsse 
+gemäß Artikel 14 der am 12. Januar 1973 koordinierten Gesetze über den Staatsrat eine Beschwerde 
+eingereicht werden.Um der Bemerkung des Staatsrates Rechnung zu tragen, ist Artikel 5 Absatz 
+3 des Erlassentwurfs gestrichen worden.VII. ÜbergangsbestimmungIn Artikel 8 des dem 
+Staatsrat vorgelegten Erlassentwurfs war eine Übergangsbestimmung in Bezug auf Gnadengesuche vorgesehen, 
+die vor Inkrafttreten von Kapitel 2 des Gesetzes vom 29. März 2018 und von diesem Erlass eingereicht 
+werden.Artikel 8 lautete wie folgt:"Die Artikel 2 bis 8 des Gesetzes vom 29. März 
+2018 zur Erweiterung der Aufträge und zur Stärkung der Rolle des Dienstes Steuerschlichtung und die Bestimmungen 
+des vorliegenden Erlasses sind auf Anträge anwendbar, die vor Inkrafttreten von Kapitel 2 des vorerwähnten 
+Gesetzes vom 29. März 2018 gemäß Artikel 9 des Grundlagenerlasses des Regenten vom 18. März 1831 
+über die Finanzverwaltung eingereicht worden sind.In Abweichung von Artikel 2 kann die Empfangsbestätigung 
+in dem in vorhergehendem Absatz erwähnten Fall bis zum ersten Tag des zweiten Monats nach dem Datum der 
+Veröffentlichung des vorliegenden Erlasses ausgestellt werden."Dieser Artikel wird gestrichen, 
+um Punkt 15 des Gutachtens Nr. 64.252/3 der Gesetzgebungsabteilung des Staatsrates vom 11. Oktober 2018 
+zu berücksichtigen.Zum Zeitpunkt der Abfassung des vorliegenden Erlassentwurfs sind etwa 650 
+Gnadengesuche anhängig.Um die Rechtssicherheit der Einreicher dieser Gnadengesuche nicht zu 
+gefährden, wird das BVS im Rahmen der an die Bürger und Unternehmen erbrachten allgemeinen Dienstleistung 
+alle Betroffenen über die abgeänderten Gesetzes- und Verordnungsbestimmungen schriftlich informieren.VIII. 
+Jahresbericht, der bei der Abgeordnetenkammer einzureichen ist, und "anonymisierte" Abschriften der vom 
+Kollegium des Dienstes Steuerschlichtung gefassten BeschlüsseEin Jahresbericht, dem die gefassten 
+und anonymisierten Beschlüsse beigefügt sind, muss der Abgeordnetenkammer spätestens am 30. Juni des 
+Jahres nach dem betreffenden Zeitraum vom Minister der Finanzen vorgelegt werden.Der erste 
+Bericht des BVS, nämlich der von 2019, muss daher spätestens am 30. Juni 2020 vorgelegt werden.IX. 
+Sonstige Bemerkungen des StaatsratesAuf die im Bericht noch nicht behandelten Punkte des Gutachtens 
+Nr. 64.252/3 der Gesetzgebungsabteilung des Staatsrates wird Folgendes geantwortet.FORMALITÄTENI. 
+Konzertierungsverfahren mit den Gemeinschaften und RegionenDie Gesetzgebungsabteilung des Staatsrates 
+legt in Punkt 3 ihres Gutachtens Nr. 64.252/3 vom 11. Oktober 2018 fest, dass die geregelte Angelegenheit 
+zwar in die Zuständigkeit der Föderalbehörde fällt, aber dass Regionalsteuern, deren Dienst die Regionen 
+noch nicht gewährleisten, einer Konzertierungspflicht unterliegen, die aufgrund von Artikel 5 § 
+3 Absatz 1 des Sondergesetzes vom 16. Januar 1989 bezüglich der Finanzierung der Gemeinschaften und Regionen 
+erfüllt werden muss.Da das ursprüngliche Datum des Inkrafttretens der Maßnahme, die in 
+Artikel 9 des dem Staatsrat vorgelegten Entwurfs erwähnt ist, nämlich der 1. November 2018, nicht eingehalten 
+werden konnte, wird die Maßnahme erst am 1. Januar 2019 in Kraft treten und kann sie insbesondere 
+nur noch eventuelle Steuerzuschläge oder Geldbußen betreffen, die sich auf Folgendes beziehen:- 
+Immobiliensteuervorabzug in der Wallonie,- Steuern auf Spiele und Wetten und auf Spielautomaten 
+in Brüssel,- Verkehrssteuer auf Kraftfahrzeuge und Inbetriebsetzungssteuer in Brüssel (bis 
+zum 31. Dezember 2019).Was den Immobiliensteuervorabzug betrifft, ist Artikel 444 des EStGB 
+92 in Ermangelung einer Erklärungspflicht nicht anwendbar; mit anderen Worten können Steuerzuschläge 
+nie angewandt werden. Der Vorabzug wird auf der Grundlage des von der Generalverwaltung Vermögensdokumentation 
+bestimmten Katastereinkommens erhoben und direkt in die festgelegte Veranlagung aufgenommen. Bei Nichtzahlung 
+oder Zahlungsverzug wird das Beitreibungsverfahren eingeleitet und werden Verzugszinsen angerechnet. 
+Artikel 445 des EStGB 92 und Artikel 229/1 des KE/EStGB 92 finden in der Praxis ebenfalls keine Anwendung.Das 
+Büro Verwaltungsstrafen (BVS) verfügt daher über keine Befugnis in diesem Bereich.Spezifische 
+Sanktionen im Bereich Steuern auf Spiele und Wetten und auf Spielautomaten sehen vor, dass bei Betrug 
+oder Versäumnis eine Erhöhung von 500 Prozent angewandt werden kann (Artikel 68 und 89 des Gesetzbuches 
+der den Einkommensteuern gleichgesetzten Steuern (EStGStGB)). Bei Verstoß gegen die Schließung 
+oder das Verbot, die beziehungsweise das aufgrund von Artikel 70 des EStGStGB ausgesprochen wird, kann 
+gemäß Artikel 71 desselben Gesetzbuches eine Geldbuße von 250 bis 12.500 EUR auferlegt werden. 
+Beide Sanktionen werden als strafrechtliche Sanktionen betrachtet und fallen daher nicht in den Anwendungsbereich 
+von Kapitel 2 des Gesetzes vom 29. März 2018.Was die Verkehrssteuer auf Kraftfahrzeuge und 
+die Inbetriebsetzungssteuer betrifft, ist die Übernahme des Dienstes der Steuer durch die Region Brüssel-Hauptstadt, 
+die ursprünglich für den 1. Januar 2019 vorgesehen war, auf den 1. Januar 2020 verschoben worden.Die 
+Sanktionen im Bereich Verkehrssteuer auf Kraftfahrzeuge sind in den Artikeln 40 und 41 des Gesetzbuches 
+der den Einkommensteuern gleichgesetzten Steuern bestimmt.Aufgrund von Artikel 40 des vorerwähnten 
+Gesetzbuches können Steuerschuldner in Ermangelung einer Erklärung binnen der vorgeschriebenen Frist 
+oder bei unzureichender Erklärung von Amts wegen besteuert werden.Die hinterzogene Steuer wird 
+auf das Dreifache erhöht, wenn sie ein Zehntel der ursprünglichen Steuer überschreitet. Die von Amts 
+wegen festgelegte Steuer muss unverzüglich gezahlt werden.Diese Sanktion wird ebenfalls als 
+strafrechtliche Sanktion betrachtet und fällt daher nicht in den Anwendungsbereich von Kapitel 2 des 
+Gesetzes vom 29. März 2018.Gemäß Artikel 41 desselben Gesetzbuches kann das Gericht bei 
+Nichtzahlung der Steuer das Nummernschild des betreffenden Fahrzeugs einziehen und seine Rückgabe an 
+den Straßenverkehrsdienst - derzeit die Direktion für Fahrzeugzulassungen (DIV) des FÖD Mobilität 
+und Transportwesen - anordnen.Aus den Informationen der Dienste der Generalverwaltung Steuerwesen 
+(GVStw), die mit der Koordinierung der Anwendung von Artikel 9 des Erlasses des Regenten vom 18. März 
+1831 beauftragt sind, geht hervor, dass noch nie ein Gnadengesuch in Bezug auf eventuelle Geldbußen 
+in Zusammenhang mit den vorerwähnten Steuern eingereicht worden ist.Die anderen Steuern, für 
+die der Steuerdienst den Regionen noch nicht übertragen worden ist (Erbschaftssteuer und Registrierungsgebühr 
+in Brüssel und in der Wallonie, bestimmte Gebühren in Flandern und Steuern auf die Eröffnung von Schankstätten 
+für gegorene Getränke in Brüssel), fallen nicht in den Anwendungsbereich von Kapitel 2 des Gesetzes vom 
+29. März 2018.Aufgrund des Vorhergehenden muss, da kein Interessenkonflikt besteht, kein formelles 
+Konzertierungsverfahren zwischen der Föderalregierung und den Regionalregierungen organisiert werden.Gemäß 
+Artikel 5 § 3 Absatz 1 des Sondergesetzes vom 16. Januar 1989 bezüglich der Finanzierung der Gemeinschaften 
+und Regionen ist jedoch die Stellungnahme der Regionen bei einer Interministeriellen Konferenz "Finanzen 
+und Haushalt", die sich aus den betroffenen Regional- und Föderalministern oder ihren Vertretern zusammensetzt, 
+beantragt worden.Alle betroffenen Parteien haben am 18. Dezember 2018 eine positive Stellungnahme 
+abgegeben.II. Stellungnahme der DatenschutzbehördeIn Punkt 4 des Gutachtens Nr. 64.252/3 
+vom 11. Oktober 2018 legt die Gesetzgebungsabteilung des Staatsrates fest, dass die Stellungnahme der 
+Datenschutzbehörde aus folgenden Gründen beantragt werden muss:"In Artikel 36 Absatz 4 der 
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher 
+Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der 
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung), zusammen mit Artikel 57 Absatz 1 Buchstabe c) und 
+mit dem Erwägungsgrund 96 dieser Verordnung gelesen, ist die Verpflichtung vorgesehen, die Aufsichtsbehörde 
+- in diesem Fall die im Gesetz vom 3. Dezember 2017 zur Schaffung der Datenschutzbehörde erwähnte Datenschutzbehörde 
+- bei der Ausarbeitung eines Vorschlags für von einem nationalen Parlament zu erlassende Gesetzgebungsmaßnahmen 
+oder von auf solchen Gesetzgebungsmaßnahmen basierenden Regelungsmaßnahmen, die die Verarbeitung 
+betreffen, zu konsultieren." (Übersetzung)Die vorherige Konsultation der Aufsichtsbehörde, 
+die in Artikel 36 Absatz 4 der Verordnung (EU) 2016/679 vom 27. April 2016 erwähnt ist, auf die in Punkt 
+4 des vorerwähnten Gutachtens verwiesen wird, betrifft eine zukünftige Handlung, die im Rahmen von vom 
+nationalen Parlament zu erlassenden Gesetzgebungsmaßnahmen oder von auf solchen Gesetzgebungsmaßnahmen 
+basierenden Regelungsmaßnahmen vorgeschrieben ist.Die Bearbeitung von Anträgen auf Erlass 
+oder Ermäßigung von Verwaltungsstrafen ist jedoch keine neue Technik, da die ministerielle Gnadenbefugnis 
+seit 1831 besteht und dem Dienst Steuerschlichtung jetzt nur zum Teil übertragen wird. Darüber hinaus 
+werden alle beantragten Anwendungen für die Bearbeitung solcher Akten bereits intern verwendet. Folglich 
+gibt es keine erhöhten Risiken, die das Ergreifen besonderer Maßnahmen erfordern, da die Datenverarbeitung 
+bereits besteht und weder ihre Rechtsgrundlage noch ihre Verordnungsgrundlage geändert wird. Die materielle 
+Aufgabe wird nicht mehr von den zuständigen Diensten der GVStw, sondern vom BVS ausgeführt, das durch 
+Artikel 2 des Gesetzes vom 29. März 2018 beim Dienst Steuerschlichtung geschaffen worden ist, der noch 
+immer dem FÖD Finanzen untersteht, obwohl er autonom ist.Aus den bei der Abteilung Datenschutz 
+des FÖD Finanzen eingeholten Auskünften geht außerdem Folgendes hervor.Aufgrund von Kapitel 
+2 Abschnitt 4 des Gesetzes vom 3. August 2012 zur Festlegung von Bestimmungen in Bezug auf die Verarbeitung 
+personenbezogener Daten durch den Föderalen Öffentlichen Dienst Finanzen im Rahmen seiner Aufträge (BS 
+vom 24. August 2012) kann der Föderale Öffentliche Dienst Finanzen "die gemäß Artikel 3 gesammelten 
+Daten in einem Datenlager aggregieren, das die Durchführung von Verfahren in Bezug auf Data-Mining und 
+Data-Matching ermöglicht, um im Rahmen seiner gesetzlichen Aufträge einerseits gezielte Kontrollen auf 
+der Grundlage von Risikoindikatoren vorzunehmen und andererseits Analysen relationaler Daten aus verschiedenen 
+Verwaltungen und/oder Diensten des Föderalen Öffentlichen Dienstes Finanzen durchzuführen" (inoffizielle 
+Übersetzung).Das BVS untersteht dem Dienst Steuerschlichtung und folglich auch dem FÖD Finanzen. 
+Aufgrund der vorerwähnten Gesetzesbestimmung ist Artikel 3 Absatz 2 des vorliegenden Erlassentwurfs überflüssig 
+und kann gestrichen werden.Aufgrund des Vorhergehenden ist die Stellungnahme der Datenschutzbehörde 
+nicht erforderlich.III. Auswirkungsanalyse beim Erlass von VorschriftenDem Gutachten 
+Nr. 64.252/3 der Gesetzgebungsabteilung des Staatsrates vom 11. Oktober 2018 ist Rechnung getragen worden, 
+was die Auswirkungsanalyse beim Erlass von Vorschriften betrifft.IV. Staatliche BeihilfeIn 
+Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) ist Folgendes bestimmt: 
+"Soweit in den Verträgen nicht etwas anderes bestimmt ist, sind staatliche oder aus staatlichen Mitteln 
+gewährte Beihilfen gleich welcher Art, die durch die Begünstigung bestimmter Unternehmen oder Produktionszweige 
+den Wettbewerb verfälschen oder zu verfälschen drohen, mit dem Binnenmarkt unvereinbar, soweit sie den 
+Handel zwischen Mitgliedstaaten beeinträchtigen."In Artikel 107 Absatz 2 des AEUV wird verdeutlicht, 
+was mit dem Binnenmarkt vereinbar ist, zum Beispiel:a) Beihilfen sozialer Art an einzelne Verbraucher, 
+wenn sie ohne Diskriminierung nach der Herkunft der Waren gewährt werden,b) Beihilfen zur Beseitigung 
+von Schäden, die durch Naturkatastrophen oder sonstige außergewöhnliche Ereignisse entstanden sind.(...)Die 
+derzeit zuständigen Dienste der GVStw führen keine Statistiken, sei es in Bezug auf den Betrag der erlassenen 
+oder verminderten Verwaltungsstrafen, noch in Bezug auf die Art der Steuerpflichtigen (natürliche Personen/Gesellschaften).Daher 
+ist es zum jetzigen Zeitpunkt unmöglich, mit Sicherheit zu sagen, ob es sich um Beträge "von erheblicher 
+Höhe" handelt oder nicht. Die Gründe, aus denen Begnadigung gewährt werden kann, sind vom Steuerwesen 
+unabhängig. Vielmehr wird es sich um soziale, familiäre, finanzielle oder gesundheitliche Gründe handeln 
+müssen.Auch im Fall von Unternehmen, die das Gnadenrecht geltend machen möchten, muss es sich 
+in jedem Fall um Unternehmen handeln, die aufgrund außergewöhnlicher Umstände in Zahlungsschwierigkeiten 
+geraten sind. Es wird weder nach Art des Unternehmens noch nach Niederlassungsort unterschieden. Die 
+Maßnahme gilt, wie Artikel 9 des Erlasses des Regenten vom 18. März 1831, sowohl für nationale 
+als auch für ausländische Unternehmen.Begnadigung kann nur in Bezug auf steuerrechtliche Verwaltungsstrafen 
+und nie in Bezug auf die Hauptsumme oder die geschuldeten Zinsen gewährt werden.Um zu vermeiden, 
+dass für Unternehmen im Einzelfall beurteilt werden muss, ob ein vom Dienst Steuerschlichtung beabsichtigter 
+Beschluss gemäß Artikel 108 Absatz 3 des AEUV der Europäischen Kommission notifiziert werden muss 
+- wie in Punkt 6 des Gutachtens Nr. 64.252/3 der Gesetzgebungsabteilung des Staatsrates vom 11. Oktober 
+2018 vorgesehen -, ist am 21. November 2018 eine Vorabfrage bei der Europäischen Kommission eingereicht 
+worden.Es wurde die Frage gestellt, ob die Gewährung von Erlassen oder Ermäßigungen von 
+administrativen Geldbußen und Steuerzuschlägen gemäß dem Gesetz vom 29. März 2018 und dem 
+Entwurf eines Ausführungserlasses als staatliche Beihilfe im Sinne von Artikel 107 des AEUV betrachtet 
+werden muss.Nach Konzertierung am 5. Dezember 2018 zwischen der Ständigen Vertretung, der Europäischen 
+Kommission und den Mitgliedern des Kollegiums des Dienstes Steuerschlichtung hat die Generaldirektion 
+Wettbewerb - Staatliche Beihilfe am 13. Dezember 2018 Folgendes mitgeteilt:"On the basic of 
+the information available, the competent services of the Directorate General for Competition would like 
+to bring to your attention the following:- The mere transfer of competences within the public 
+administration under the envisaged draft Royal Decree in itself does not raise any State aid concerns.- 
+However, the granting of relief in relation to administrative or tax penalties to companies, that under 
+normal circumstances would be obliged to pay those penalties, could potentially involve State aid.- 
+The power to grant the relief does not classify as an aid scheme because it lacks predefined, abstract 
+criteria based on which the relief will be granted. As a result, the question whether State aid is involved 
+(or not) and its compatibility with the internal market will have to be assessed on an individual, case-by-case 
+basis.- In light of the figures presented (pending requests), it appears that the relief potentially 
+granted would be (far) below the "de minimis" threshold (see Commission Regulation 1407/2013 of 18 December 
+2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union 
+to de minimis aid, OJ L 352, 24.12.2013).In order to comply with State aid rules the Belgian 
+authorities could consider making the application of the grace measure conditional upon compliance with 
+the de minimis Regulation. In that context, they would be expected to closely monitor the situation and 
+keep track of the amount of relief granted. In any event, any case that would exceed the amounts set 
+in the de minimis Regulation should be (pre-)notified to the Commission."Im Hinblick auf eine 
+administrative Vereinfachung sowohl für die Mitgliedstaaten als auch für die Dienste der Kommission - 
+die in der Lage sein muss, ihre Mittel auf Beihilfen zu konzentrieren, die auf Gemeinschaftsebene wirklich 
+wichtig sind - und im Interesse der kleinen und mittleren Betriebe hat die Kommission 1992 eine sogenannte 
+De-minimis-Regel eingeführt, bei der ein absoluter Höchstbetrag festgesetzt worden ist.Der 
+Gesamtbetrag der De-minimis-Beihilfen, die einem selben Unternehmen gewährt werden, darf über einen Zeitraum 
+von drei Jahren 200.000 EUR nicht überschreiten. Dieser Höchstbetrag ist ungeachtet der Form der Beihilfe 
+und des damit verfolgten Ziels anwendbar.Daher wird das Kollegium des Dienstes Steuerschlichtung 
+dafür sorgen müssen, dass der vorerwähnte Betrag von 200.000 EUR während ein und desselben Zeitraums 
+von drei Jahren einschließlich des Jahres, in dem der Erlassbeschluss gefasst wird, und ungeachtet 
+der Jahre, in denen die Geldbußen und Steuerzuschläge tatsächlich auferlegt werden, nicht überschritten 
+wird.Um dies zu gewährleisten, ist in Artikel 6 ausdrücklich vermerkt, dass vorliegender Erlass 
+unter die Anwendung der De-minimis-Beihilfen, wie in der Verordnung (EU) Nr. 1407/2013 der Europäischen 
+Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise 
+der Europäischen Union auf De-minimis-Beihilfen und in eventuellen späteren Änderungen dieser Verordnung 
+erwähnt, fällt.In der Präambel des Erlasses wird die vorerwähnte europäische Verordnung ebenfalls 
+erwähnt.RECHTSGRUNDLAGEI. Präambel und Artikel 9 des dem Staatsrat vorgelegten ErlassentwurfsDie 
+Gesetzgebungsabteilung des Staatsrates bestimmt in Punkt 8.1 ihres Gutachtens Nr. 64.252/3 vom 11. Oktober 
+2018, dass Artikel 15 § 2 des Gesetzes vom 29. März 2018 die Rechtsgrundlage für die Inkraftsetzung 
+von Kapitel 2 desselben Gesetzes (Artikel 9 des Erlassentwurfs) bildet. Folglich muss dieser Artikel 
+auch in Absatz 2 der Präambel erwähnt werden.Das Inkrafttreten von Kapitel 2 des Gesetzes vom 
+29. März 2018, das ursprünglich für den 1. November 2018 vorgesehen war, hat sich als nicht durchführbar 
+erwiesen. Es wird daher vorgeschlagen, dass dieses Kapitel am 1. Januar 2019 in Kraft tritt.Dieses 
+Inkrafttretungsdatum ist in Artikel 15 § 2 des Gesetzes vom 29. März 2018 ausdrücklich vorgesehen. 
+Dem Gutachten des Staatsrates kann folglich nicht mehr gefolgt werden.Dies führt ebenfalls 
+dazu, dass Artikel 9 des dem Staatsrat vorgelegten Erlassentwurfs (der das Inkrafttreten von Kapitel 
+2 des vorerwähnten Gesetzes regelte) gestrichen werden muss. Anderenfalls würde es sich um eine bloße 
+Übernahme der Bestimmungen von Artikel 15 § 2 des Gesetzes vom 29. März 2018 handeln.Der 
+vorgelegte Erlass tritt ebenfalls am 1. Januar 2019 in Kraft.II. Artikel 3 des dem Staatsrat 
+vorgelegten ErlassentwurfsIn Artikel 3 Absatz 2 des Erlassentwurfs ist Folgendes bestimmt:"Während 
+der Untersuchung benutzt das Büro Verwaltungsstrafen alle EDV-Anwendungen, die es für nützlich erachtet, 
+um dem in Artikel 1 des Königlichen Erlasses vom 9. Mai 2007 zur Ausführung von Titel VII Kapitel V des 
+Gesetzes vom 25. April 2007 zur Festlegung verschiedener Bestimmungen (IV) erwähnten Kollegium eine mit 
+Gründen versehene Stellungnahme abzugeben."Aufgrund der vorstehend in Punkt II der "Formalitäten" 
+erwähnten Formvorschriften und um der Bemerkung des Staatsrates in vorerwähntem Gutachten Rechnung zu 
+tragen, wird diese Bestimmung gestrichen.Die Änderungen, die an dem der Gesetzgebungsabteilung 
+des Staatsrates vorgelegten Erlassentwurf angebracht wurden, sind infolge des Gutachtens Nr. 64.252/3 
+vom 11. Oktober 2018 vorgenommen worden. Der Entwurf erfährt keine anderen wesentlichen Änderungen und 
+muss demnach nicht ein zweites Mal der vorerwähnten Abteilung des Staatsrates vorgelegt werden.Soweit, 
+Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe die Ehre,Sire,der 
+ehrerbietigeund treue DienerEurer Majestät zu sein.Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO21. DEZEMBER 2018 - Königlicher 
+Erlass zur Ausführung von Kapitel 2 des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur 
+Stärkung der Rolle des Dienstes SteuerschlichtungPHILIPPE, Konig der Belgier, Allen Gegenwartigen 
+und Zukunftigen, Unser Gruß!Aufgrund der Verordnung (EU) Nr. 1407/2013 der Kommission 
+vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der 
+Europäischen Union auf De-minimis-Beihilfen;Aufgrund der Verfassung, der Artikel 37, 107 Absatz 
+2 und 108;Aufgrund des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung 
+der Rolle des Dienstes Steuerschlichtung, des Kapitels 2;Aufgrund der Stellungnahme des Finanzinspektors 
+vom 26. Juni 2018;Aufgrund des Einverständnisses der Ministerin des Haushalts vom 28. August 
+2018;Aufgrund des Einverständnisses des mit dem Öffentlichen Dienst beauftragten Ministers 
+vom 11. Juli 2018;Aufgrund des Gutachtens Nr. 64.252/3 des Staatsrates vom 11. Oktober 2018, 
+abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat;Aufgrund der Auswirkungsanalyse beim Erlass von Vorschriften, die 
+gemäß Artikel 6 § 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung verschiedener Bestimmungen 
+in Sachen administrative Vereinfachung durchgeführt worden ist;Auf Vorschlag des Ministers 
+der Finanzen und aufgrund der Stellungnahme der Minister, die im Rat darüber beraten haben,Haben 
+Wir beschloßen und erlassen Wir:Artikel 1 - Personen, die zur Zahlung von Steuerzuschlägen 
+oder administrativen Geldbußen verpflichtet sind, können beim "Büro Verwaltungsstrafen" des Dienstes 
+Steuerschlichtung einen schriftlichen und mit Gründen versehenen Antrag auf Erlass oder Ermäßigung 
+des Betrags jedes auferlegten Steuerzuschlags beziehungsweise jeder auferlegten administrativen Geldbuße 
+wie in Artikel 5 des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung der Rolle 
+des Dienstes Steuerschlichtung erwähnt einreichen, sofern gegen diese Steuerzuschläge oder administrativen 
+Geldbußen kein administratives oder gerichtliches Beschwerdeverfahren mehr anhängig ist oder eingeleitet 
+werden kann.Art. 2 - Für Anträge auf Erlass oder Ermäßigung von Verwaltungsstrafen wird 
+eine Empfangsbestätigung übermittelt, die dem Antragsteller binnen einer Frist von fünfzehn Werktagen 
+ab dem Datum des Eingangs des Antrags ausgestellt wird.Art. 3 - Für die Untersuchung der Anträge 
+kann das in Artikel 2 des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung der 
+Rolle des Dienstes Steuerschlichtung erwähnte Büro Verwaltungsstrafen innerhalb des FÖD Finanzen alle 
+Auskünfte einholen, die es für nützlich erachtet, alle betroffenen Personen anhören und jegliche Feststellungen 
+vor Ort machen. Personalmitglieder des Föderalen Öffentlichen Dienstes Finanzen dürfen an der Untersuchung 
+der Anträge teilnehmen.Solange kein Beschluss gefasst worden ist, kann der Antragsteller auf 
+eigene Initiative oder auf Initiative eines Mitarbeiters des Büros Verwaltungsstrafen angehört werden 
+oder die Begründung seines Antrags vervollständigen.Die Untersuchung wird mit einem Bericht 
+abgeschlossen, der an das vorerwähnte Kollegium gerichtet wird und einen Beschlussvorschlag enthält.Art. 
+4 - Aus der Kandidatenliste, die auf der Grundlage des gemäß Artikel 4 des Königlichen Erlasses 
+vom 9. Mai 2007 zur Ausführung von Titel VII Kapitel V des Gesetzes vom 25. April 2007 zur Festlegung 
+verschiedener Bestimmungen (IV) organisierten Auswahlverfahrens erstellt wird, bestimmt der Minister 
+der Finanzen die Personalmitglieder des Föderalen Öffentlichen Dienstes Finanzen, die dem Büro Verwaltungsstrafen 
+zur Verfügung gestellt werden.Art. 5 - Das in Artikel 1 des Königlichen Erlasses vom 9. Mai 
+2007 zur Ausführung von Titel VII Kapitel V des Gesetzes vom 25. April 2007 zur Festlegung verschiedener 
+Bestimmungen (IV) erwähnte Kollegium des Dienstes Steuerschlichtung befindet als Verwaltungsbehörde durch 
+einen mit Gründen versehenen Beschluss über die Argumente, die vom Antragsteller zur Unterstützung seines 
+Antrags vorgebracht worden sind.Der Beschluss wird dem Antragsteller binnen einer Frist von 
+fünfzehn Werktagen ab dem Datum des Beschlusses per Einschreiben notifiziert.Art. 6 - Vorliegender 
+Erlass fällt unter die Anwendung der De-minimis-Beihilfen, wie in der Verordnung (EU) Nr. 1407/2013 der 
+Europäischen Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags 
+über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen und in eventuellen späteren Änderungen 
+dieser Verordnung erwähnt.Das in Artikel 1 des Königlichen Erlasses vom 9. Mai 2007 zur Ausführung 
+von Titel VII Kapitel V des Gesetzes vom 25. April 2007 zur Festlegung verschiedener Bestimmungen (IV) 
+erwähnte Kollegium des Dienstes Steuerschlichtung wird dafür sorgen, dass der in der Verordnung (EU) 
+Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags 
+über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen erwähnte Höchstbetrag nicht überschritten 
+wird.Art. 7 - Das in Artikel 1 des Königlichen Erlasses vom 9. Mai 2007 zur Ausführung von 
+Titel VII Kapitel V des Gesetzes vom 25. April 2007 zur Festlegung verschiedener Bestimmungen (IV) erwähnte 
+Kollegium des Dienstes Steuerschlichtung legt den Betrag der durch seinen Beschluss erlassenen Steuerzuschläge 
+oder Verwaltungsstrafen fest und teilt diesen Betrag zwecks Ausführung der mit der Einnahme und Beitreibung 
+der Steuern beauftragten Verwaltung mit.Art. 8 - Der Jahresbericht und die Abschriften wie 
+in Artikel 7 des Gesetzes vom 29. März 2018 zur Erweiterung der Aufträge und zur Stärkung der Rolle des 
+Dienstes Steuerschlichtung erwähnt werden der Abgeordnetenkammer spätestens am 30. Juni des Jahres nach 
+dem Jahr, auf das der Bericht sich bezieht, vom Minister der Finanzen übermittelt.Art. 9 - 
+Vorliegender Erlass tritt am 1. Januar 2019 in Kraft.Art. 10 - Der für Finanzen zuständige 
+Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben zu Brüssel, den 
+21. Dezember 2018PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister 
+der FinanzenA. DE CROO  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-05-05Numac : 2020010369
+

@@ -1,0 +1,100 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/09/27/2020015652/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015652
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 27 SEPTEMBER 2020. - Koninklijk besluit tot wijziging van de bijlage III van het KB/WIB 92 op het stuk van de bedrijfsvoorheffing op de wettelijke uitkeringen voor primaire arbeidsongeschiktheid van zelfstandigen (1) 
+FILIP, Koning der Belgen, Aan allen die nu zijn en hierna wezen zullen, Onze 
+Groet.Gelet op het Wetboek van de inkomstenbelastingen 1992:- artikel 275, §§ 
+1 en 2;Gelet op het KB/WIB 92:- artikel 88;- bijlage III,Overwegende 
+het koninklijk besluit van 15 september 2020 houdende toekenning, ingevolge de COVID-19-pandemie, van 
+een aanvullende crisisuitkering aan sommige arbeidsongeschikt erkende zelfstandigen en meewerkende echtgenoten;Gelet 
+op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;Gelet 
+op de dringende noodzakelijkheid;Overwegende:- dat voor periodes van primaire arbeidsongeschiktheid 
+die aanvatten vanaf 1 maart 2020 tijdelijk een aanvullende crisisuitkering wordt toegekend aan sommige 
+zelfstandigen en meewerkende echtgenoten;- dat deze aanvullende crisisuitkeringen met terugwerkende 
+kracht zijn ingevoerd;- dat op wettelijke uitkeringen voor arbeidsongeschiktheid in de regel 
+11,11 pct. bedrijfsvoorheffing moet worden ingehouden;- dat overeenkomstig nummer 2.12.C.1.b) 
+van de toepassingsregels van de bijlage III bij het KB/WIB 92 de netto-uitkering bij primaire arbeidsongeschiktheid 
+evenwel niet tot onder een bepaald bedrag mag dalen ingevolge de inhouding van de bedrijfsvoorheffing;- 
+dat deze laatste regel de inhouding van de bedrijfsvoorheffing op de tijdelijke aanvullende aanvullende 
+crisisuitkeringen erg complex en moeilijk implementeerbaar maakt voor de uitkeringsinstellingen;- 
+dat de uitkeringsinstellingen de aanvullende crisisuitkeringen in beginsel reeds kunnen uitbetalen;- 
+dat de uitbetaling van de aanvullende crisisuitkeringen niet in het gedrang mag worden gebracht door 
+de complexiteit van de berekening van de bedrijfsvoorheffing;- dat de regels voor de inhouding 
+van bedrijfsvoorheffing op de tijdelijke aanvullende primaire arbeidsongeschiktheidsuitkeringen die aan 
+werknemers worden toegekend, reeds werden vereenvoudigd door het koninklijk besluit van 9 juli 2020 tot 
+wijziging van de bijlage III van het KB/WIB 92 op het stuk van de bedrijfsvoorheffing op de wettelijke 
+uitkeringen voor primaire arbeidsongeschiktheid van werknemers;- dat het daarom aangewezen 
+is om dezelfde vereenvoudiging ook door te voeren voor de aanvullende crisisuitkeringen voor sommige 
+zelfstandigen en meewerkende echtgenoten en dus eveneens steeds 11,11 pct. bedrijfsvoorheffing in te 
+houden op die uitkeringen;- dat deze gewijzigde regeling ten spoedigste ter kennis moet worden 
+gebracht van de uitkeringsinstellingen;- dat dit besluit dus dringend moet worden getroffen;Op 
+de voordracht van de Vice-Eerste Minister en Minister van Financiën,Hebben Wij besloten en 
+besluiten Wij :Artikel 1. Nummer 2.12.C.1.b), van de toepassingsregels van de bijlage III van 
+het KB/WIB 92, vervangen bij het koninklijk besluit van 11 december 2019, wordt aangevuld met een lid, 
+luidende:"Het eerste lid is niet van toepassing op de aanvullende crisisuitkeringen die worden 
+betaald of toegekend in uitvoering van het koninklijk besluit van 15 september 2020 houdende toekenning, 
+ingevolge de COVID-19-pandemie, van een aanvullende crisisuitkering aan sommige arbeidsongeschikt erkende 
+zelfstandigen en meewerkende echtgenoten. Deze aanvullende crisisuitkeringen worden ook buiten beschouwing 
+gelaten voor de toepassing van het eerste lid.".Art. 2. Dit besluit heeft uitwerking vanaf 
+15 september 2020 en is van toepassing op de aanvullende uitkeringen die vanaf diezelfde datum worden 
+betaald of toegekend.Art. 3. De minister die bevoegd is voor Financiën, is belast met de uitvoering 
+van dit besluit.Gegeven te Brussel, 27 september 2020.FILIPVan Koningswege 
+:De Vice-Eerste Minister en Minister van Financiën,A. DE CROO_______Nota(1) 
+Verwijzingen naar het Belgisch Staatsblad:Wetboek van de inkomstenbelastingen 1992, gecoördineerd 
+bij koninklijk besluit van 10 april 1992, Belgisch Staatsblad van 30 juli 1992Koninklijk besluit 
+van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992, Belgisch Staatsblad 
+van 13 september 1993Koninklijk besluit van koninklijk besluit van 15 september 2020 houdende 
+toekenning, ingevolge de COVID-19-pandemie, van een aanvullende crisisuitkering aan sommige arbeidsongeschikt 
+erkende zelfstandigen en meewerkende echtgenoten, Belgisch Staatsblad van 23 september 2020Wetten 
+op de Raad van State, gecoördineerd bij koninklijk besluit van 12 januari 1973, Belgisch Staatsblad van 
+21 maart 1973Koninklijk besluit van 11 december 2019 tot wijziging van het KB/WIB 92, op het 
+stuk van de bedrijfsvoorheffing, Belgisch Staatsblad van 20 december 2019  
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-02Numac : 2020015652
+

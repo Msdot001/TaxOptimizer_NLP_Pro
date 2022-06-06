@@ -1,0 +1,63 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-09-07Numac : 2021032651
+NATIONALE BANK VAN BELGIE 
+  
+Portefeuilleoverdracht van Yarden Uitvaartverzekeringen N.V. naar Dela Natura- en levensverzekeringen 
+N.V.De Nederlandse prudentiële toezichthouder heeft op 26 juli 2021 de verzekeringsonderneming 
+naar Nederlands recht Yarden Uitvaartverzekeringen N.V. toegestaan de rechten en verplichtingen die voortvloeien 
+uit levensverzekeringsovereenkomsten in de tak 21 over te dragen aan de verzekeringsonderneming naar 
+Nederlands recht Dela Natura- en levensverzekeringen N.V. in het kader van de fusie door opslorping van 
+eerstgenoemde entiteit door de tweede. Deze overdracht ging in op 4 augustus 2021.Overeenkomstig 
+artikel 17 van de wet van 4 april 2014 betreffende de verzekeringen maakt voorliggende publicatie deze 
+overdracht, wat betreft risico's of verbintenissen gelegen in België, tegenstelbaar aan de verzekeringnemers, 
+de verzekerden, de begunstigden en alle derden die belang hebben bij de uitvoering van de verzekeringsovereenkomst.Brussel, 
+26 augustus 2021.De Gouverneur,P. Wunsch   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-09-07Numac : 2021032651
+

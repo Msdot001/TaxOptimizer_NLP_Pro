@@ -1,0 +1,73 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State   Kamer van volksvertegenwoordigers ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2020/12/03/2021020871/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-04-23Numac : 2021020871
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 3 DECEMBER 2020. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 ter begrenzing van de referentie-COainfera2bendinferb-uitstoot (1) 
+FILIP, Koning der Belgen, Aan 
+allen die nu zijn en hierna wezen zullen, Onze Groet.De Kamer van volksvertegenwoordigers heeft 
+aangenomen en Wij bekrachtigen, hetgeen volgt : Artikel 1.  Deze wet regelt een aangelegenheid 
+als bedoeld in artikel 74 van de GrondwetArt. 2. In artikel 36, § 2, van het Wetboek 
+van de inkomstenbelastingen 1992, vervangen bij de wet van 28 december 2011 en laatstelijk gewijzigd 
+bij de wet van 25 december 2017, zelf gewijzigd bij de wet van 2 mei 2019, wordt het vijfde lid vervangen 
+als volgt:"De Koning bepaalt jaarlijks de referentie-CO2-uitstoot in functie 
+van de gemiddelde CO2-uitstoot over een periode van twaalf opeenvolgende maanden die 
+eindigt op 30 september van het jaar voorafgaand aan het belastbaar tijdperk ten opzichte van de gemiddelde 
+CO2-uitstoot van het referentiejaar 2011 volgens de modaliteiten die Hij vastlegt. De 
+gemiddelde CO2-uitstoot wordt berekend op basis van de CO2-uitstoot 
+van de in artikel 65 bedoelde voertuigen die als nieuw zijn ingeschreven. De referentie-CO2-uitstoot 
+kan nooit hoger zijn dan de referentie-CO2-uitstoot van het vorige belastbaar tijdperk.".Art. 
+3. Deze wet treedt in werking vanaf het inkomstenjaar dat ten vroegste aanvat op 1 januari 2021.Kondigen 
+deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal 
+worden bekendgemaakt.Gegeven te Brussel, 3 december 2020.FILIPVan Koningswege 
+:De Vice-eersteminister en Minister van Financiën,V. VAN PETEGHEMMet 's 
+Lands zegel gezegeld :De Minister van Justitie,V. VAN QUICKENBORNE_______Nota 
+(1) Kamer van volksvertegenwoordigers (www.dekamer.be)Stukken : K55-0904Integraal 
+verslag: 3 december 2020   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-04-23Numac : 2021020871
+

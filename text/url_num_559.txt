@@ -1,0 +1,96 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2021041363/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-05-27Numac : 2021041363
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 2 MEI 2019. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde en tot wijziging van de belastingvermindering voor giften. - Duitse vertaling van uittreksels 
+De hierna volgende 
+tekst is de Duitse vertaling van de artikelen 17 tot 19 van de wet van 2 mei 2019 houdende diverse bepalingen 
+inzake belasting over de toegevoegde waarde en tot wijziging van de belastingvermindering voor giften 
+(Belgisch Staatsblad van 15 mei 2019).Deze vertaling is opgemaakt door de Centrale dienst voor 
+Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER DIENST FINANZEN2. 
+MAI 2019 - Gesetz zur Festlegung verschiedener Bestimmungen im Bereich der Mehrwertsteuer und zur Abänderung 
+der Steuerermäßigung für unentgeltliche ZuwendungenPHILIPPE, Konig der Belgier, Allen 
+Gegenwartigen und Zukunftigen, Unser Gruß!Die Abgeordnetenkammer hat das Folgende angenommen 
+und Wir sanktionieren es:(...)KAPITEL 7 - Abänderungen der Steuerermäßigung 
+für unentgeltliche Zuwendungen hinsichtlich des Zulassungsverfahrens und der durch Universitätskrankenhäuser 
+speziell gegründeten StiftungenArt. 17 - In Artikel 14533 § 1 Absatz 
+1 Nr. 1 Buchstabe a) des Einkommensteuer-gesetzbuches 1992, zuletzt abgeändert durch das Gesetz vom 4. 
+Mai 2018, werden die Wörter "durch vorerwähnte zugelassene Universitätskrankenhäuser oder ähnliche Einrichtungen 
+speziell dafür gegründet wurden" durch die Wörter "durch vorerwähnte zugelassene Universitätskrankenhäuser 
+oder ähnliche Einrichtungen eines anderen Mitgliedstaates des Europäischen Wirtschaftsraums speziell 
+dafür gegründet wurden" ersetzt.Art. 18 - Artikel 14533 desselben Gesetzbuches, 
+eingefügt durch das Gesetz vom 13. Dezember 2012 und zuletzt abgeändert durch das Gesetz vom 4. Mai 2018, 
+wird wie folgt abgeändert:1. In § 1 Absatz 1 Nr. 1 Buchstabe b) werden die Wörter "vom 
+Minister der Finanzen" durch die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" ersetzt.2. 
+In § 1 Absatz 1 Nr. 1 Buchstabe d) werden die Wörter "vom König" durch die Wörter "vom Minister 
+der Finanzen oder von seinem Beauftragten" ersetzt.3. In § 1 Absatz 1 Nr. 1 Buchstabe 
+e) werden die Wörter "vom Minister der Finanzen" durch die Wörter "vom Minister der Finanzen oder von 
+seinem Beauftragten" ersetzt.4. In § 1 Absatz 1 Nr. 1 Buchstabe g) werden die Wörter 
+"vom Minister der Finanzen" durch die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" 
+ersetzt.5. In § 1 Absatz 1 Nr. 1 Buchstabe i) werden die Wörter "vom Minister der Finanzen" 
+durch die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" ersetzt.6. In § 
+1 Absatz 1 Nr. 1 Buchstabe j) werden die Wörter "vom König" durch die Wörter "vom Minister der Finanzen 
+oder von seinem Beauftragten" ersetzt.7. In § 1 Absatz 1 Nr. 1 Buchstabe l) werden die 
+Wörter "vom Minister der Finanzen" durch die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" 
+ersetzt.8. In § 1 Absatz 1 Nr. 2 werden die Wörter "vom Minister der Finanzen" durch 
+die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" ersetzt.9. In § 
+1 Absatz 1 Nr. 3 werden die Wörter "vom Minister der Finanzen" durch die Wörter "vom Minister der Finanzen 
+oder von seinem Beauftragten" ersetzt.10. In § 3 Absatz 3 werden die Wörter "vom König" 
+durch die Wörter "vom Minister der Finanzen oder von seinem Beauftragten" ersetzt.Art. 19 - 
+Artikel 14533 desselben Gesetzbuches, eingefügt durch das Gesetz vom 13. Dezember 2012 
+und zuletzt abgeändert durch das Gesetz vom 4. Mai 2018, wird durch einen Paragraphen 5 mit folgendem 
+Wortlaut ergänzt:" § 5 - Der vom Minister der Finanzen bestimmte Beauftragte erstattet 
+diesem Minister im Rahmen der Beauftragung jedes Jahr Bericht über die im vorhergehenden Jahr zugelassenen 
+Einrichtungen."Wir fertigen das vorliegende Gesetz aus und ordnen an, dass es mit dem Staatssiegel 
+versehen und durch das Belgische Staatsblatt veröffentlicht wird.Gegeben zu Brüssel, den 2. 
+Mai 2019PHILIPPEVon Königs wegen:Der Vizepremierminister und Minister der 
+FinanzenA. DE CROOMit dem Staatssiegel versehen:Der Minister der Justiz,K. 
+GEENS   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-05-27Numac : 2021041363
+

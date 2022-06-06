@@ -1,0 +1,308 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+ 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2022-01-27Numac : 2022020113
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+  
+Algemene Administratie van de Fiscaliteit. - Inkomstenbelastingen. - Bericht tot vaststelling van het 
+modelattest nr. 281.86 dat toelaat de vereiste bewijzen te leveren inzake de belastingvermindering voor 
+kinderoppas overeenkomstig de artikelen 14535, tweede lid, 4°  en 323/2 van het Wetboek 
+van de inkomstenbelastingen 1992 (WIB 92) zoals respectievelijk gewijzigd en ingevoegd door de programmawet 
+van 20.12.2020 (Belgisch Staatsblad, 30.12.2020, ed. 1) en artikel 6318/8, van het koninklijk 
+besluit tot uitvoering van het WIB 92 (KB/WIB 92), zoals gewijzigd door het koninklijk besluit van 23.12.2021 
+ter uitvoering van de artikelen 14535, tweede lid, 4°,  en 323/2, § 3 van het 
+Wetboek van de inkomstenbelastingen 1992 en tot bepaling van de te communiceren gegevens door de in het 
+artikel 14535, tweede lid, 3°,  van hetzelfde Wetboek bedoelde instanties (Belgisch 
+Staatsblad van 31.12.2021, ed. 1). Modelattest voor de uitgaven voor kinderoppas die zijn gedaan vanaf 
+1 januari 2021I. INLEIDINGDe uitgaven voor kinderoppas kunnen, indien aan een aantal 
+voorwaarden is voldaan, recht geven op een belastingvermindering van 45% van de werkelijk betaalde uitgaven, 
+desgevallend beperkt tot een maximumbedrag per oppasdag en per kind (1).(1) Deze belastingvermindering 
+is voorzien in art. 14535, WIB 92. Alleenstaande ouders die aan bepaalde voorwaarden 
+voldoen, kunnen een bijkomende belastingvermindering krijgen. Meer informatie hierover is terug te vinden 
+in de FAQ die zijn gepubliceerd op de website https://financien.belgium.be/nl/particulieren.Het 
+modelattest 281.86, zoals vastgesteld door dit bericht, wordt verplicht voor de uitgaven voor kinderoppas 
+die zijn gedaan vanaf 1 januari 2021 (behalve voor opvanginstanties gevestigd in het buitenland in de 
+Europese Economische Ruimte - EER) (2). Er is evenwel een tolerantie voorzien voor de opvangactiviteiten 
+die worden georganiseerd vóór de publicatie van het nieuwe modelattest, d.w.z vóór de publicatie van 
+dit bericht (zie verder). (2) Overeenkomstig de artikelen 8, 4°  en 12, programmawet van 20.12.2020 
+(Belgisch Staatsblad van 30.12.2020, ed. 1). Voor de uitgaven voor kinderoppas die zijn gedaan 
+vanaf 1 januari 2021, zullen de organisaties die actief zijn in de kinderopvangsector, behoudens uitzondering, 
+de gegevens die ze vermeld hebben op de papieren attesten die ze afleveren, ook via elektronische weg 
+moeten bezorgen aan de FOD Financiën (3). Er is evenwel een tolerantie voorzien voor de opvangactiviteiten 
+die worden georganiseerd vóór de publicatie van het nieuwe modelattest, d.w.z vóór de publicatie van 
+dit bericht (zie verder).(3) Overeenkomstig de artikelen 10 en 12, programmawet van 20.12.2020 
+(Belgisch Staatsblad van 30.12.2020, ed. 1). Het modelattest 281.86 wordt besproken onder titel 
+III van dit bericht. II. VERPLICHT MODELATTEST EN VERPLICHTE ELEKTRONISCHE VERZENDING VAN DE 
+GEGEVENS VERMELD OP DE ATTESTENa) Verplicht modelattest Om de belastingplichtigen 
+die de belastingvermindering vragen te helpen om aan te tonen dat de voorwaarden worden gerespecteerd, 
+reiken heel wat organisaties momenteel reeds een attest uit volgens het model dat door de fiscale administratie 
+wordt voorgesteld. Anderen gebruiken een eigen attest of leveren geen attest af.Om tot meer 
+eenvormigheid en vereenvoudiging te komen, en om de controle op de toepassing van de belastingvermindering 
+te vergemakkelijken, wordt het modelattest 281.86 verplicht voor de uitgaven voor kinderoppas die worden 
+gedaan vanaf 1 januari 2021. De organisatoren van kinderoppas zijn dus verplicht om een attest uit te 
+reiken overeenkomstig dit model. Dit betekent dat de belastingvermindering enkel nog zal worden 
+verleend als de belastingplichtige beschikt over een attest 281.86. Dit attest wordt een bijkomende voorwaarde 
+voor het verlenen van de belastingvermindering voor de uitgaven voor kinderoppas gedaan vanaf 1 januari 
+2021.Tolerantie voor opvangactiviteiten georganiseerd vóór de publicatie van dit bericht (4)(4) 
+De administratie heeft over deze tolerantie een communicatie gepubliceerd onder de vorm van een bericht 
+in het Belgisch Staatsblad van 19.07.2021.Voor de opvangactiviteiten die worden georganiseerd 
+vóór de publicatie van het nieuwe modelattest (datum van publicatie van dit bericht) zal worden aanvaard 
+dat het gebruikelijke attest (eigen model of het oude, niet verplichte attest) verder wordt gebruikt. 
+Het is bijgevolg niet verplicht om het nieuwe modelattest te gebruiken voor opvangactiviteiten georganiseerd 
+in 2021. Voor de opvangactiviteiten die worden georganiseerd vanaf de publicatie van het nieuwe 
+model (datum van publicatie van dit bericht), moet dat nieuwe model worden gebruikt. Afwijking 
+voor opvanginstanties gevestigd in het buitenland in de EER Rekening houdend met het territorialiteitsbeginsel, 
+geldt de verplichting betreffende het gebruik van het modelattest 281.86 enkel voor de instanties gevestigd 
+op het Belgische grondgebied. De belastingplichtigen die beroep doen op een in de EER gevestigde 
+instantie, blijven echter gehouden om met alle gemeenrechtelijke bewijsmiddelen, met uitzondering van 
+de eed, aan te tonen dat de uitgaven voldoen aan de wettelijke voorwaarden (bedrag betaald tijdens het 
+belastbaar tijdperk, leeftijd van het kind, enz.). b) Elektronische verzending aan de FOD Financiën 
+van de gegevens vermeld op de attesten Voor de uitgaven gedaan vanaf 1 januari 2021, zullen 
+de opvanginstanties de gegevens die ze vermeld hebben op de attesten die ze afleveren, ook via elektronische 
+weg moeten bezorgen aan de FOD Financiën (de praktische modaliteiten worden hierna toegelicht). Op die 
+manier kan de voorafgaande invulling van de aangifte in de personenbelasting worden verbeterd en kan 
+de administratieve last voor de burger worden verminderd.De organisaties die de gegevens van 
+het attest elektronisch overmaken, hebben de machtiging om het identificatienummer van het Rijksregister 
+van de natuurlijke personen van zowel de schuldenaar van de uitgaven voor kinderoppas als van het betrokken 
+kind te verzamelen, te verwerken en mee te delen, zij het enkel met het oog op identificatie in het kader 
+van deze overdracht (5). Het gebruik van dit nummer is essentieel om vergissingen met personen met dezelfde 
+naam te vermijden.(5) Overeenkomstig artikel 323/2, § 4, WIB 92.Artikel 6318/8, 
+KB/WIB 92 (6) bepaalt onder welke vorm en binnen welke termijn de voormelde elektronische verzending 
+moet gebeuren, evenals de gegevens die moeten worden meegedeeld. (6) Zoals ingevoegd door het 
+koninklijk besluit van 23.12.2021 ter uitvoering van de artikelen 14535, tweede lid, 
+4°,  en 323/2, § 3 van het Wetboek van de inkomstenbelastingen 1992 en tot bepaling van de te 
+communiceren gegevens door de in het artikel 14535, tweede lid, 3°,  van hetzelfde Wetboek 
+bedoelde instanties (Belgisch Staatsblad van 31.12.2021, ed. 1). Tolerantie voor opvangactiviteiten 
+georganiseerd vóór de publicatie van dit bericht (7)(7) De administratie heeft over deze tolerantie 
+een communicatie gepubliceerd onder de vorm van een bericht in het Belgisch Staatsblad van 19.07.2021.Voor 
+de opvangactiviteiten die worden georganiseerd vóór de publicatie van het nieuwe modelattest (datum van 
+publicatie van dit bericht) geldt er nog geen verplichting om de gegevens op elektronische wijze aan 
+de administratie te bezorgen. Het is bijgevolg niet verplicht om de gegevens voor opvangactiviteiten 
+georganiseerd in 2021 op elektronische wijze aan de administratie te bezorgen. Voor de opvangactiviteiten 
+die worden georganiseerd vanaf de publicatie van het nieuwe model (datum van publicatie van dit bericht), 
+geldt de verplichting om de gegevens op elektronische wijze aan de administratie te bezorgen, behoudens 
+vrijstelling, wel.Vrijstelling voor bepaalde organisatiesGelet op de verscheidenheid 
+in grootte van de organisaties die actief zijn in de sector van de kinderopvang en de verschillen die 
+er kunnen zijn op het vlak van administratieve organisatie en digitalisering, is de verplichting om jaarlijks 
+de gegevens van de attesten langs elektronische weg mee te delen van toepassing behalve wanneer de organisatie 
+in kwestie niet over de nodige geïnformatiseerde middelen beschikt om deze overdracht van gegevens te 
+volbrengen overeenkomstig de vereiste voorschriften. Termijn voor de elektronische verzendingDe 
+elektronische verzending moet gebeuren vóór 1 maart van het jaar dat volgt op het jaar van de uitgaven. 
+Praktische modaliteiten van de elektronische indiening De indiening van het attest 
+281.86 via elektronische weg gebeurt via de toepassing Belcotax-on-web:- hetzij invoer van 
+de gegevens online en verzending via Internet- hetzij aanmaak van een XML bestand offline en 
+verzending via Internet Bovendien is een Excel bestand beschikbaar waarmee de gegevens van 
+de attesten gemakkelijk kunnen worden gecodeerd. Er is ook een korte handleiding met enkele voorbeelden 
+beschikbaar in de rubriek `Technische documentatie' van de website van Belcotax-on-web.De onthaalpagina 
+van deze toepassing is https://financien.belgium.be/nl/E-services/Belcotaxonweb. De manieren 
+om toegang te krijgen tot Belcotax-on-web zijn uitgelegd op de website van de toepassing, onder de rubriek 
+`Hoe toegang krijgen tot BOW?'.Een validatieprogramma is in de webtoepassing geïntegreerd. 
+Er bestaat ook een niet geïntegreerde offline validatiemodule die kan worden gedownload via de website 
+van de toepassing, onder de rubriek `Technische documentatie'. De gegevens die via elektronische 
+weg werden ingegeven, kunnen worden geraadpleegd, gewijzigd of verwijderd via Internet.De procedure 
+voor de invoer van de gegevens via het scherm wordt toegelicht op de website van de toepassing, onder 
+de rubriek `Hoe BOW gebruiken?'.Er bestaat ook een brochure `Belcotax-on-web' met de technische 
+beschrijving van de bestanden. Dit document kan worden gedownload van de website van de toepassing, onder 
+de rubriek `Technische documentatie'. Voor de fiscale attesten van het jaar 2021 (`BOW inkomsten 
+2021'), zal de vermoedelijke openingsdatum van de toepassing Belcotax-on-web zich situeren rond 5 of 
+6 februari 2022.III. MODELATTESTVoor de uitgaven voor kinderoppas gedaan vanaf 1 
+januari 2021, wordt het attest 281.86 verplicht (behalve voor de opvanginstanties gevestigd in het buitenland 
+in de EER) en de opvanginstanties moeten de gegevens vermeld op de attesten die zij afleveren, ook via 
+elektronische weg aan de FOD Financiën bezorgen. Er is evenwel een tolerantie voorzien voor de opvangactiviteiten 
+die worden georganiseerd vóór de publicatie van het nieuwe modelattest, d.w.z vóór de publicatie van 
+dit bericht (zie hiervoor).Het attest 281.86 is toegevoegd aan het einde van dit bericht. Het 
+heeft dus betrekking op de uitgaven voor kinderoppas die vanaf 1 januari 2021 worden gedaan.Hierna 
+worden de belangrijkste verduidelijkingen met betrekking tot dit attest gegeven, evenals informatie over 
+het invullen van het attest.Het is mogelijk om verschillende attesten per kind op te stellen, 
+bijvoorbeeld omdat de opvanginstantie verkiest om een attest op te stellen per type opvang of omdat er 
+meer dan vier opvangperiodes te vermelden zijn in vak II van het attest.Wanneer de gegevens 
+elektronisch naar de administratie worden verzonden, zal de inhoud van de verschillende attesten door 
+het informaticasysteem van de administratie worden gegroepeerd.1. Jaar waarvoor het attest 
+moet worden opgesteldDe uitgaven voor kinderoppas komen maar in aanmerking voor de belastingvermindering 
+voor het jaar waarin ze werkelijk zijn betaald. Dit heeft tot gevolg dat het attest slechts de uitgaven 
+- en de ermee overeenstemmende oppasdagen - mag vermelden die daadwerkelijk zijn betaald in het jaar 
+waarvoor het attest wordt uitgereikt. Zo kunnen bijvoorbeeld enkel de uitgaven die daadwerkelijk 
+zijn betaald in 2021 recht geven op de belastingvermindering voor het jaar 2021 (aanslagjaar 2022).De 
+uitgaven - en de ermee overeenstemmende oppasdagen - die verband houden met de opvang verricht in 2021, 
+maar waarvoor de betaling slechts plaatsvindt in 2022, moeten daarentegen op het attest voor het jaar 
+2022 (aanslagjaar 2023) worden ingevuld, samen met de uitgaven die betrekking hebben op het jaar 2022 
+en die in dat jaar zijn betaald.2. Naam van de instantie of de persoon die instaat voor de 
+opvangIn tegenstelling tot wat het geval was bij het oude modelattest, moet het volledige attest 
+(dus vakken I en II) worden ingevuld door de instantie of de persoon die instaat voor de opvang. De 
+gegevens van de instantie of de persoon die de kinderopvang doet, moeten voortaan aan het begin van het 
+attest worden vermeld. Het verdient de voorkeur dat de instanties of personen die een KBO-nummer hebben, 
+dit op het attest vermelden om de toekenning van de belastingvermindering te vergemakkelijken. 3. 
+Vak IDe instantie of de persoon die instaat voor de opvang moet verklaren: - dat 
+zij is vergund, erkend, gesubsidieerd, gecontroleerd of onder toezicht staat van `certificeringsinstantie' 
+of een kwaliteitslabel heeft ontvangen van dergelijke instantie- dat zij is verbonden met een 
+school gevestigd in de Europese Economische Ruimte of de inrichtende macht van de school gevestigd in 
+de Europese Economische Ruimte.Enkele voorbeelden van certificeringsinstanties zijn: Kind en 
+Gezin / Opgroeien regie, l'Office de la Naissance et de l'Enfance (l'ONE), de regering van de Duitstalige 
+gemeenschap, Sport Vlaanderen, l'ADEPS, de gemeente, de provincie, de school,... Wanneer de 
+instantie of de persoon die instaat voor de opvang slechts voor een deel van het jaar waarvoor het attest 
+wordt opgesteld, is vergund, erkend, gesubsidieerd,.. moet het betrokken deel van het jaar worden gepreciseerd. 
+Dit is bijvoorbeeld het geval voor een nieuwe crèche die in de loop van het jaar met haar activiteiten 
+begint.In het laatste deel van vak I moeten de gegevens worden vermeld van de `certificeringsinstantie'. 
+Het verdient de voorkeur dat de instanties die een KBO-nummer hebben, dit op het attest vermelden om 
+de toekenning van de belastingvermindering te vergemakkelijken. Opgelet, in de volgende twee 
+gevallen moet alleen vak II worden ingevuld: 1) Wanneer de opvang rechtstreeks wordt betaald 
+aan de `certificeringsinstantie'. Dit is doorgaans het geval wanneer die instantie zelf de opvang organiseert, 
+bijvoorbeeld:- een speelplein georganiseerd door de gemeente tijdens de vakantie- 
+de kinderoppas georganiseerd tijdens de middag door een school.2) Wanneer het gaat om professionele 
+thuisopvang van zieke kinderen.4. Vak IIDe instantie die de opvang doet moet vak 
+II invullen voor elk kind jonger dan 14 jaar of voor elk kind met een zware handicap jonger dan 21 jaar 
+waarvoor uitgaven voor kinderoppas worden betaald.Wanneer het kind wordt opgevangen door een 
+onthaalgezin dat afhangt van een dienst, worden de uitgaven voor kinderoppas niet aan het onthaalgezin 
+maar aan die dienst betaald, zodat het die dienst is die het attest moet opstellen en uitreiken. In 
+vak II van het attest moeten volgende inlichtingen worden vermeld: 1. Volgnummer van het attestIn 
+deze rubriek wordt het volgnummer van het attest vermeld. Aan elk attest dat wordt uitgereikt wordt dus 
+een volgnummer toegekend. Het volgnummer mag bestaan uit cijfers, letters en/of woorden. Dit 
+volgnummer heeft tot doel om in geval van twijfel te kunnen nagaan bij de instantie die het attest heeft 
+ingevuld, of een attest voorgelegd door een belastingplichtige overeenstemt met de gegevens bijgehouden 
+door die instantie. 2. Gegevens van de schuldenaar van de uitgaven voor kinderoppas (Naam, 
+voornaam, identificatienummer van het Rijksregister of, in voorkomend geval, het identificatienummer 
+van de KSZ, adres)In deze rubriek moeten de gegevens worden vermeld van de schuldenaar van 
+de uitgaven voor kinderoppas. De schuldenaar is de persoon die normaal gezien gehouden is tot de betaling 
+van de uitgaven voor kinderoppas en die de uitgaven betaalt of draagt. In de praktijk zal dit doorgaans 
+de persoon zijn die het kind inschrijft voor de opvang.De uitgaven kunnen evenwel soms worden 
+betaald door een derde die handelt in naam en tot kwijting van de schuldenaar (overeenkomstig art. 1236 
+van het Burgerlijk wetboek) (8). In dat geval, ook al werd de betaling gedaan door die derde, is het 
+de schuldenaar die op het attest moet worden vermeld.(8) Circulaire AAFisc nr. 4/2016 (nr. 
+Ci.RH.331/635.466) van 29.01.2016.De schuldenaar die op het attest wordt vermeld, zal recht 
+hebben op de belastingvermindering maar alleen als hij het kind fiscaal ten laste heeft of als hij de 
+helft van het fiscaal voordeel voor kinderen ten laste krijgt (fiscaal co-ouderschap), en indien uiteraard 
+alle andere wettelijke voorwaarden zijn vervuld (leeftijd van het kind, aard van de uitgaven,...). De 
+aandacht wordt er dus op gevestigd dat de schuldenaar vermeld op het attest niet automatisch recht heeft 
+op het fiscaal voordeel.Voorbeelden:1. Een gehuwd koppel reserveert voor hun zoon 
+van 13 jaar een vakantiekamp en zij betalen de uitgaven zelf. Het attest wordt opgesteld op naam van 
+de vader of de moeder. De ouders die het kind ten laste hebben, zullen recht hebben op de belastingvermindering. 
+De administratie zal het attest waarvan zij een elektronische kopie heeft ontvangen, koppelen aan hun 
+belastingaangifte.2. Een alleenstaande moeder reserveert voor haar kind een kamp in de zomervakantie 
+en geeft haar gegevens door aan de opvanginstantie. De grootmoeder doet de betaling in naam en tot kwijting 
+van haar dochter. De opvanginstantie stelt het attest op naam van de schuldenaar van de uitgaven 
+op (de moeder). Het attest wordt dus op naam van de moeder opgesteld en de administratie zal het attest 
+waarvan zij een elektronische kopie heeft ontvangen, koppelen aan de belastingaangifte van de moeder.De 
+moeder die het kind ten laste heeft, heeft recht op de belastingvermindering. 3. De ouders 
+zijn gescheiden. De moeder heeft het kind ten laste, er is geen fiscaal co-ouderschap. De vader 
+reserveert een vakantiekamp en geeft zijn gegevens door aan de opvanginstantie. De opvanginstantie 
+stelt het attest op naam van de schuldenaar op (de vader). De vader heeft het kind niet ten laste. Hij 
+heeft geen recht op de belastingvermindering. De administratie zal het attest niet koppelen 
+aan de belastingaangifte van de moeder die het kind ten laste heeft. Zij heeft de uitgaven niet betaald 
+of gedragen (de vader heeft niet in naam en tot kwijting van haar betaald). 3. Gegevens van 
+het kind (naam, voornaam, identificatienummer van het Rijksregister of, in voorkomend geval, het identificatienummer 
+van de KSZ, geboortedatum en adres)Deze rubriek moet zo nauwkeurig mogelijk worden ingevuld. 
+4. Periode waarin het kind is opgevangenDe opvangperiodes - waarvoor de uitgaven 
+tijdens het jaar daadwerkelijk zijn betaald - mogen door de betrokken instelling zelf worden afgebakend. 
+Zo mogen scholen bijvoorbeeld periodes vermelden van 01.01.2021 tot 30.06.2021 en van 01.09.2021 
+tot 31.12.2021 (9).(9) Aangezien de organisatie van scholen en internaten gebaseerd is op schooljaren 
+en niet op kalenderjaren, kan worden toegestaan dat zij per kalenderjaar twee attesten opstellen: één 
+voor de periode van 1 januari tot 31 augustus en een ander voor de periode van 1 september tot 31 december. 
+Bij opvang in de vakantieperiodes dienen bij voorkeur de effectieve opvangperiodes te worden 
+vermeld, bijvoorbeeld van 4 juli tot 8 juli, enz. (10).(10) Voor vakantiekampen en sportkampen 
+die voor een welbepaalde periode zijn georganiseerd, kan worden toegestaan dat de attesten per periode 
+worden uitgereikt. Wanneer een opvangvoorziening verschillende opvangactiviteiten organiseert, mag per 
+opvangactiviteit een attest worden opgesteld. De op het attest vermelde gegevens mogen enkel 
+betrekking hebben op het gedeelte van het jaar dat de 14e verjaardag van het kind of 
+de 21e verjaardag van het kind met een zware handicap voorafgaat.Wanneer er 
+meer dan vier opvangperiodes moeten worden vermeld, moeten er meerdere attesten voor hetzelfde kind worden 
+opgesteld. Wanneer de gegevens elektronisch naar de administratie worden verzonden, zal de inhoud van 
+de verschillende attesten door het informaticasysteem van de administratie worden gegroepeerd.Aantal 
+opvangdagenHier mag enkel het aantal oppasdagen worden ingevuld, waarvoor de uitgaven tijdens 
+het jaar zelf daadwerkelijk zijn betaald en waarvoor effectief opvang is verricht, ongeacht de duur van 
+de opvang per dag. In geval een kind niet deelneemt aan een bepaalde opvangactiviteit maar 
+er toch een bedrag werd betaald, mogen de dagen waarop het kind afwezig was niet op het attest worden 
+vermeld. Wanneer de ouders de deelname van een kind aan een opvang reeds vooruit hebben betaald 
+(bv. sportkamp, vakantiekamp, ...), kan de instelling in bepaalde gevallen, wanneer een kind uiteindelijk 
+niet deelneemt, het deelnemingsgeld na eventuele inhouding van annuleringskosten terugbetalen. In dat 
+geval mag de instelling ook geen attest uitreiken. Er heeft immers geen opvang plaatsgevonden. Om dezelfde 
+reden mag ook voor de annuleringskosten geen attest worden uitgereikt. Er kan bijgevolg evenmin 
+een attest worden uitgereikt wanneer het kind niet deelneemt aan de opvangactiviteit, terwijl de ouders 
+de deelnemingsprijs reeds hebben betaald maar de instelling deze niet wil terugbetalen. Hetzelfde 
+geldt ook nog voor toeslagen die eventueel aan de belastingplichtige worden aangerekend, bijvoorbeeld 
+in geval van afwezigheid zonder verwittiging of bij laattijdige verwittiging.DagtariefHet 
+dagtarief moet om redenen van vereenvoudiging alleen worden vermeld indien het meer bedraagt dan het 
+maximumbedrag per oppasdag en per kind. Vanaf aanslagjaar 2021 (uitgaven van het jaar 2020), wordt het 
+maximumbedrag geïndexeerd. Voor aanslagjaar 2022 (uitgaven gedaan in 2021), bedraagt het 14 euro per 
+oppasdag per kind. Het maximumbedrag van de uitgaven wordt niet meer vermeld op het modelattest 
+aangezien dit elk jaar kan wijzigen. De instantie die de opvang doet moet zich dus elk jaar informeren 
+over het maximumbedrag dat voor het betrokken uitgavenjaar van toepassing is. De uitgaven voor 
+kinderoppas geven maar recht op de belastingvermindering voor het jaar waarin ze effectief zijn betaald, 
+zelfs indien de opvang in een vorig jaar plaatsvond. Het is dus het grensbedrag van het jaar van betaling 
+dat in aanmerking moet worden genomen, en niet het grensbedrag van het jaar van de opvang.Bij 
+overschrijding van deze daggrens moeten de verschillende toepasselijke dagtarieven, dus ook de tarieven 
+lager dan of gelijk aan het maximumbedrag worden vermeld. Indien voor een opvang gespreid over 
+meerdere dagen een globale deelnameprijs is vastgesteld (bv. voor een sport- of jeugdkamp), is het dagtarief 
+gelijk aan de totale deelnameprijs (eventueel verminderd met de kosten die niet als opvangkosten mogen 
+worden aangemerkt (11)), gedeeld door het aantal dagen van de opvang.(11) Voorbeelden: bijkomende 
+kosten met betrekking tot het geven van cursussen in het kader van onderwijs en lidgelden van de sportclub, 
+de jeugdvereniging, zijn uitgesloten van de opvangkosten. In voorkomend geval moet het detail 
+worden verstrekt van het aantal oppasdagen per tijdperk en per toegepast tarief, waarbij het verlaagde 
+tarief, van toepassing bijvoorbeeld voor een halve oppasdag of voor de gelijktijdige opvang van meerdere 
+kinderen, als een afzonderlijke tariefgroep moet worden beschouwd. Dat detail mag op het attest zelf 
+worden verstrekt. Het spreekt vanzelf dat slechts de werkelijk aan de schuldenaar van de uitgaven aangerekende 
+tarieven mogen worden vermeld (d.w.z. na aftrek van de eventueel verleende verminderingen).Ontvangen 
+bedragIn deze rubriek moet alleen melding worden gemaakt van de bedragen die daadwerkelijk 
+in een bepaald jaar zijn betaald. Wanneer een korting wordt verleend, moet het bedrag worden 
+vermeld dat de ouders werkelijk aan de instantie hebben betaald. De instantie moet daarentegen geen rekening 
+houden met een eventuele tegemoetkoming die door een derde (b.v. mutualiteit) aan de ouders wordt verleend.Persoon 
+die gemachtigd is de opvanginstantie of persoon die instaat voor de opvang te verbinden (naam, hoedanigheid, 
+handtekening)De handtekening is niet verplicht voor de elektronische verzending van een kopie 
+naar de administratie via de toepassing Belcotax-on-web, aangezien de gebruiker zich moet registreren 
+om de toepassing te gebruiken.De verzending van de gegevens vermeld op de attesten aan de administratie 
+betekent niet dat de opvanginstanties geen attest meer moeten bezorgen aan de schuldenaar van de uitgaven 
+voor kinderoppas. Zij moeten steeds een attest aan die persoon bezorgen. IV. FAQ EN CONTACTPUNTENDe 
+administratie zal weldra FAQ publiceren om de instanties en personen die kinderopvang aanbieden extra 
+hulp te bieden bij het invullen van de attesten. Die FAQ zullen beschikbaar zijn in de databank Fisconetplus, 
+te raadplegen via de website van de FOD Financiën (https://financien.belgium.be/nl/fisconetplus) of via 
+MyMinfin (https://eservices.minfin.fgov.be/myminfin-web/pages/fisconet), door te klikken op `Inkomstenbelastingen' 
+onder de rubriek `Fiscaliteit' en vervolgens op `Administratieve richtlijnen en commentaren'. Voor 
+verdere vragen over het invullen van de attesten of over de elektronische verzending van de gegevens 
+via de toepassing Belcotax-on-web, werd een specifiek e-mailadres gecreëerd, uitsluitend voor instanties 
+en personen die kinderopvang aanbieden: spoc.oppasgarde@minfin.fed.be. Voor de raadpleging van de tabel, zie beeld    
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2022-01-27Numac : 2022020113
+

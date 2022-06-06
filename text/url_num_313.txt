@@ -1,0 +1,369 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/10/08/2020043288/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2020-10-14Numac : 2020043288
+FEDERALE OVERHEIDSDIENST BINNENLANDSE ZAKEN 
+ 8 OKTOBER 2020. - Ministerieel besluit houdende wijziging van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling van het ministerieel besluit van 
+8 oktober 2020 houdende wijziging van het ministerieel besluit van 30 juni 2020 houdende dringende maatregelen 
+om de verspreiding van het coronavirus COVID-19 te beperken (Belgisch Staatsblad van 8 oktober 2020).Deze 
+vertaling is opgemaakt door de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER 
+ÖFFENTLICHER DIENST INNERES8. OKTOBER 2020 - Ministerieller Erlass zur Abänderung des Ministeriellen 
+Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19Die Ministerin des Innern,Aufgrund des Gesetzes vom 31. Dezember 
+1963 über den Zivilschutz, des Artikels 4;Aufgrund des Gesetzes vom 5. August 1992 über das 
+Polizeiamt, der Artikel 11 und 42;Aufgrund des Gesetzes vom 15. Mai 2007 über die zivile Sicherheit, 
+der Artikel 181, 182 und 187;Aufgrund des Königlichen Erlasses Nr. 44 vom 26. Juni 2020 in 
+Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano und die von den zuständigen Regionalbehörden 
+oder von den zuständigen Agenturen bestimmten Kontaktzentren, Gesundheitsinspektionsdienste und mobilen 
+Teams im Rahmen einer Kontaktermittlung bei (vermutlich) mit dem Coronavirus COVID-19 infizierten Personen 
+auf der Grundlage einer Datenbank bei Sciensano;Aufgrund des Ministeriellen Erlasses vom 30. 
+Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19;Aufgrund von Artikel 8 § 2 Nr. 1 und 2 des Gesetzes vom 15. Dezember 2013 zur 
+Festlegung verschiedener Bestimmungen in Sachen administrative Vereinfachung ist vorliegender Erlass 
+von der Auswirkungsanalyse beim Erlass von Vorschriften befreit;Aufgrund der Stellungnahme 
+des Finanzinspektors vom 7. Oktober 2020;Aufgrund der am 8. Oktober 2020 abgegebenen Stellungnahme 
+der Minister, die im Rat darüber beraten haben;Aufgrund der am 12. Januar 1973 koordinierten 
+Gesetze über den Staatsrat, des Artikels 3 § 1 Absatz 1;Aufgrund der Dringlichkeit, 
+die es nicht zulässt, das Gutachten der Gesetzgebungsabteilung des Staatsrates innerhalb einer verkürzten 
+Frist von fünf Tagen abzuwarten, insbesondere aufgrund der Notwendigkeit, Maßnahmen zu erwägen, 
+die sich auf epidemiologische Ergebnisse stützen, die sich Tag für Tag weiterentwickeln, wobei die jüngsten 
+Ergebnisse die auf der Sitzung des Konzertierungsausschusses vom 6. Oktober 2020 beschlossenen Maßnahmen 
+gerechtfertigt haben; dass es daher dringend erforderlich ist, bestimmte Maßnahmen zu ergreifen;In 
+Erwägung der Konzertierungen zwischen den Regierungen der föderierten Teilgebiete und den zuständigen 
+föderalen Behörden im Nationalen Sicherheitsrat, der am 10., 12., 17. und 27. März 2020, am 15. und 24. 
+April 2020, am 6., 13., 20. und 29. Mai 2020, am 3., 24. und 30. Juni 2020, am 10., 15., 23. und 27. 
+Juli 2020, am 20. August 2020 und am 23. September 2020 zusammengetreten ist;In Erwägung des 
+Artikels 191 des Vertrags über die Arbeitsweise der Europäischen Union, in dem das Prinzip der Vorsorge 
+im Rahmen der Bewältigung einer internationalen Gesundheitskrise und der aktiven Vorbereitung auf einen 
+möglichen Krisenfall verankert ist; dass dieses Prinzip voraussetzt, dass die öffentlichen Behörden bei 
+der Feststellung, dass ein ernstes Risiko höchstwahrscheinlich eintreten wird, dringende und vorläufige 
+Schutzmaßnahmen ergreifen müssen;In Erwägung des Artikels 6 Absatz 1 Buchstabe c) der 
+Verordnung (EU) Nr. 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz 
+natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung 
+der Richtlinie 95/46/EG;In Erwägung der Empfehlung des Rates der Europäischen Union vom 6. 
+August 2020 zur Änderung der Empfehlung 2020/912 zur schrittweisen Aufhebung der vorübergehenden Beschränkung 
+nicht unbedingt notwendiger Reisen in die EU;In Erwägung der Erklärung der WHO in Bezug auf 
+die Eigenschaften des Coronavirus COVID-19, insbesondere hinsichtlich der hohen Übertragbarkeit und des 
+Sterberisikos;In Erwägung der am 11. März 2020 von der WHO vorgenommenen Qualifizierung des 
+Coronavirus COVID-19 als Pandemie;In der Erwägung, dass die WHO am 16. März 2020 die höchste 
+Warnstufe in Bezug auf das Coronavirus COVID-19 ausgerufen hat, das die Weltwirtschaft destabilisiert 
+und sich rasch in der Welt ausbreitet;In Erwägung der Erklärung des Regionaldirektors der WHO 
+für Europa vom 3. Juni 2020, wonach der Übergang zu einer "neuen Normalität" auf den Grundsätzen der 
+Volksgesundheit und auf wirtschaftlichen und gesellschaftlichen Überlegungen fußen muss und dass 
+die Entscheidungsträger auf allen Ebenen dem Leitgrundsatz eines schrittweisen und behutsamen Übergangs 
+folgen müssen;In Erwägung der Verbreitung des Coronavirus COVID-19 auf dem europäischen Gebiet 
+und in Belgien; dass die Gesamtzahl der Ansteckungen weiter ansteigt;In Erwägung der vom Coronavirus 
+COVID-19 ausgehenden Gesundheitsgefahr für die belgische Bevölkerung und der daraus entstehenden Dringlichkeit;In 
+der Erwägung, dass das Coronavirus COVID-19 eine Infektionskrankheit auslöst, die meist die Lunge und 
+die Atemwege befällt;In der Erwägung, dass das Coronavirus COVID-19 offenbar von Mensch zu 
+Mensch über den Luftweg übertragen wird; dass die Übertragung der Krankheit scheinbar auf alle möglichen 
+Verbreitungsarten durch Mund oder Nase erfolgt;In Erwägung der Anzahl erkannter Infektionsfälle 
+und der Anzahl Todesfälle in Belgien seit dem 13. März 2020;In Erwägung der Stellungnahme des 
+Hohen Rates für Selbständige und KMB vom 22. April 2020;In der Erwägung, dass das gesamte nationale 
+Hoheitsgebiet von der Gefahr betroffen ist; dass es im allgemeinen Interesse liegt, dass die ergriffenen 
+Maßnahmen zur Aufrechterhaltung der öffentlichen Ordnung kohärent sind, wodurch ihre Effizienz 
+maximiert wird;In der Erwägung, dass angesichts des Vorhergehenden bestimmte Zusammenkünfte 
+in geschlossenen und überdachten Orten, aber auch unter freiem Himmel noch stets ein besonderes Risiko 
+für die Gesundheit der Bevölkerung darstellen;In der Erwägung, dass eine polizeiliche Maßnahme 
+zur Beschränkung und Überwachung von Zusammenkünften von mehr als vier Personen folglich unerlässlich 
+und verhältnismäßig ist;In der Erwägung, dass die vorerwähnte Maßnahme dazu führt, 
+dass einerseits die Anzahl akuter Ansteckungen verringert wird und folglich den Intensivstationen ermöglicht 
+wird, die am schwersten getroffenen Patienten unter bestmöglichen Bedingungen aufzunehmen, und dass andererseits 
+den Forschern mehr Zeit gegeben wird, um effiziente Behandlungsmethoden und Impfstoffe zu entwickeln; 
+dass diese Maßnahme auch eine Kontaktrückverfolgung erleichtern kann;In Erwägung des 
+Berichts der Expertengruppe für die Exit Strategy (GEES) vom 22. April 2020, der ein stufenweises Konzept 
+für die schrittweise Rücknahme der Maßnahmen enthält und sich hauptsächlich auf drei wesentliche 
+Aspekte stützt, und zwar das Tragen einer Schutzmaske, Testing und Tracing; dass der Bericht ein Gleichgewicht 
+zwischen der Erhaltung der körperlichen und geistigen Gesundheit, der Erfüllung pädagogischer Aufträge 
+im Bereich des Unterrichtswesens und der Wiederaufnahme der Wirtschaft anstrebt;In Erwägung 
+der Gutachten der GEES und der Stellungnahmen des CELEVAL;In Erwägung der Stellungnahme des 
+Hohen Gesundheitsrates vom 9. Juli 2020;In Erwägung des Phönix-Plans für einen Neustart des 
+Handels von Comeos;In Erwägung des "Leitfadens für die Öffnung der Geschäfte zur Eindämmung 
+der Ausbreitung von COVID-19", der auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur 
+Verfügung gestellt wird;In Erwägung des "Allgemeinen Leitfadens zur Eindämmung der Ausbreitung 
+von COVID-19 am Arbeitsplatz", der auf der Website des Föderalen Öffentlichen Dienstes Beschäftigung, 
+Arbeit und Soziale Konzertierung zur Verfügung gestellt wird;In Erwägung des "Leitfadens für 
+eine sichere Wiederaufnahme des Gaststättengewerbes zur Eindämmung der Ausbreitung von COVID-19", der 
+auf der Website des Föderalen Öffentlichen Dienstes Wirtschaft zur Verfügung gestellt wird;In 
+Erwägung der Protokolle, die von den zuständigen Ministern in Konzertierung mit den betreffenden Sektoren 
+bestimmt werden;In der Erwägung, dass ein Bürgermeister, wenn er feststellt, dass Tätigkeiten 
+unter Verstoß gegen den vorliegenden Ministeriellen Erlass oder die anwendbaren Protokolle ausgeübt 
+werden, im Interesse der Volksgesundheit die verwaltungsrechtliche Schließung der betreffenden 
+Einrichtung anordnen kann;In Erwägung des Königlichen Erlasses vom 22. Mai 2019 über die Noteinsatzplanung 
+und die Bewältigung von Notsituationen auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister 
+und der Provinzgouverneure bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder 
+eine Bewältigung auf nationaler Ebene erfordern;In Erwägung des Ministeriellen Erlasses vom 
+13. März 2020 zur Auslösung der föderalen Phase hinsichtlich der Koordinierung und des Krisenmanagements 
+in Bezug auf das Coronavirus COVID-19;Aufgrund des Gesetzes vom 4. August 1996 über das Wohlbefinden 
+der Arbeitnehmer bei der Ausführung ihrer Arbeit und seiner Ausführungserlasse;In Erwägung 
+der Konzertierung im Konzertierungsausschuss;In der Erwägung, dass die durchschnittliche Zahl 
+der neuen Fälle von Ansteckung mit dem Coronavirus COVID-19 in Belgien in den letzten sieben Tagen auf 
+2.309 bestätigte positive Fälle pro Tag gestiegen ist;In der Erwägung, dass aufgrund der aktuellen 
+epidemiologischen Situation immer noch eine drastische Beschränkung der sozialen Kontakte erforderlich 
+ist;In der Erwägung, dass es aufgrund dieser Situation auch immer noch erforderlich ist, die 
+Höchstanzahl der Personen, die an bestimmten Zusammenkünften teilnehmen dürfen, zu beschränken; dass 
+die Experten mehrfach darauf hingewiesen haben, dass das Tanzen in diesem Zusammenhang ein sehr hohes 
+Risiko der Übertragung des Virus birgt; dass das Tanzen daher in Betrieben des Hotel- und Gaststättengewerbes, 
+bei Sitzempfängen und -banketten und bei bestimmten Arten von genehmigten Veranstaltungen weiterhin verboten 
+ist;In der Erwägung, dass es im Rahmen der Bekämpfung von COVID-19 in Belgien erforderlich 
+ist, eine genaue Überwachung des Gesundheitszustands von Personen zu gewährleisten, die aus Städten, 
+Gemeinden, Bezirken, Regionen oder Ländern, auch innerhalb des Schengen-Raums, der Europäischen Union 
+oder des Vereinigten Königreichs, zurückkehren, für die CELEVAL auf der Grundlage objektiver epidemiologischer 
+Kriterien eine hohe Gesundheitsgefahr festgestellt hat;In der Erwägung, dass im Hinblick auf 
+die Einhaltung aller Gesundheitsempfehlungen und des Social Distancing noch immer an das Verantwortungsbewusstsein 
+und die Solidarität jedes Bürgers appelliert wird;In der Erwägung, dass das Tragen einer Schutzmaske 
+oder einer anderen Alternative aus Stoff eine wichtige Rolle bei der Strategie der schrittweisen Rücknahme 
+der Maßnahmen spielt; dass das Tragen einer Schutzmaske der Bevölkerung daher in allen Situationen, 
+in denen die Regeln des Social Distancing nicht eingehalten werden können, empfohlen wird, damit eine 
+Weiterverbreitung des Virus vermieden wird; dass das Tragen einer Schutzmaske in bestimmten Einrichtungen 
+und spezifischen Situationen Pflicht ist; dass die Maske nur für die unbedingt notwendige Zeit abgenommen 
+werden darf, z.B. zum Verzehr von Getränken und Speisen, zum Naseputzen oder zum Lippenlesen für Gehörlose 
+und Schwerhörige; dass das Tragen einer Schutzmaske jedoch nicht ausreicht und immer mit den anderen 
+Präventionsmaßnahmen einhergehen muss; dass Social Distancing die wichtigste und prioritäre Maßnahme 
+bleibt;In der Erwägung, dass die Experten von Celeval empfehlen, die Anzahl Personen, mit denen 
+enger Kontakt gepflegt wird, auf drei pro Monat zu beschränken, was bedeutet, dass die Regeln des Social 
+Distancing während eines bestimmten Zeitraums mit diesen Personen nicht eingehalten werden;In 
+der Erwägung, dass die Bürger deutlich informiert werden müssen, wo und wann eine Maske getragen werden 
+muss; dass daher die Uhrzeiten ausgehängt werden müssen, zu denen diese Maßnahme in Kraft ist; 
+dass der angegebene Zeitraum tatsächlich mit den Uhrzeiten übereinstimmen muss, zu denen größere 
+Menschenströme zu erwarten sind oder ein erhöhtes Übertragungsrisiko besteht;In der Erwägung, 
+dass die nachdrückliche Empfehlung, Homeoffice möglichst an mehreren Tagen pro Woche anzuwenden, zu unterstreichen 
+ist;In der Erwägung, dass die grundlegenden Hygienemaßnahmen unerlässlich bleiben;In 
+der Erwägung, dass Tätigkeiten im Freien nach Möglichkeit bevorzugt werden sollten; dass, sofern dies 
+nicht möglich ist, die Räume ausreichend durchgelüftet werden müssen;In der Erwägung, dass 
+es notwendig ist, in Bezug auf Personen, die zu einer Risikogruppe gehören, zusätzliche Vorsichtsmaßnahmen 
+zu treffen;In der Erwägung, dass, obschon die meisten Tätigkeiten wieder erlaubt sind, es dennoch 
+notwendig ist, Tätigkeiten, bei denen ein hohes Risiko der Weiterverbreitung des Virus besteht, besondere 
+Aufmerksamkeit zu widmen und Tätigkeiten, die zu einem zu engen Kontakt zwischen den Beteiligten führen 
+und/oder zu viele Menschen zusammenführen, weiterhin zu verbieten;In der Erwägung, dass die 
+Gesundheitslage regelmäßig bewertet wird; dass dies bedeutet, dass eine Rückkehr zu strengeren 
+Maßnahmen nie ausgeschlossen werden kann;In der Erwägung, dass die Protokolle, die vom 
+zuständigen Minister in Konzertierung mit den betreffenden Sektoren bestimmt werden, nach Rücksprache 
+mit einem Virologen von der Regel eines Abstands von 1,5 m zwischen den Personen abweichen können;Aufgrund 
+der Dringlichkeit,Erlässt:Artikel 1 - Artikel 2bis des Ministeriellen Erlasses vom 
+30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung des Coronavirus 
+COVID-19 wird wie folgt ersetzt:" § 1 - Arbeitgeber oder Nutzer, die zeitweilig auf 
+einen im Ausland lebenden oder ansässigen Lohnempfänger beziehungsweise Selbständigen zurückgreifen, 
+um in Belgien Tätigkeiten in den Sektoren Bau, Reinigung, Landwirtschaft und Gartenbau, wie in Artikel 
+20 § 2 des Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 über Maßnahmen im Hinblick auf 
+die Gewährleistung der Zahlung der Mehrwertsteuer und in Artikel 1 Nr. 1 des Königlichen Erlasses Nr. 
+22 vom 15. September 1970 über die Sonderregelung für Landwirte in Sachen Mehrwertsteuer erwähnt, sowie 
+Tätigkeiten im Fleischsektor, wie in Artikel 2 des Königlichen Erlasses vom 27. Dezember 2007 zur Ausführung 
+von Artikel 53 des Gesetzbuches über die gütliche Beitreibung und die Zwangsbeitreibung von Steuerforderungen 
+und nichtsteuerlichen Forderungen und der Artikel 12, 30bis und 30ter des Gesetzes vom 27. Juni 1969 
+zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer und 
+von Artikel 6ter des Gesetzes vom 4. August 1996 über das Wohlbefinden der Arbeitnehmer bei der Ausführung 
+ihrer Arbeit erwähnt, ausführen zu lassen, mit Ausnahme von natürlichen Personen, bei denen oder für 
+die die Arbeit zu vollkommen privaten Zwecken erfolgt, führen vom Beginn der Arbeit bis einschließlich 
+zum vierzehnten Tag nach Beendigung dieser Arbeit ein Register mit folgenden Angaben:1. Identifizierungsdaten 
+des im Ausland lebenden oder ansässigen Lohnempfängers beziehungsweise Selbständigen:- Name 
+und Vornamen,- Geburtsdatum,- Erkennungsnummer, wie in Artikel 8 § 1 des Gesetzes 
+vom 15. Januar 1990 über die Errichtung und Organisation einer Zentralen Datenbank der sozialen Sicherheit 
+erwähnt,2. Wohnort des Lohnempfängers beziehungsweise Selbständigen während seiner Arbeit in 
+Belgien,3. Telefonnummer, unter der der Lohnempfänger beziehungsweise Selbständige kontaktiert 
+werden kann,4. gegebenenfalls Angabe der Personen, mit denen der Lohnempfänger beziehungsweise 
+Selbständige während seiner Arbeit in Belgien arbeitet.Die in vorliegendem Paragraphen erwähnte 
+Registrierungspflicht gilt nicht für die Beschäftigung von Grenzgängern und findet ebenfalls keine Anwendung, 
+wenn der Aufenthalt in Belgien eines im Ausland lebenden oder ansässigen Lohnempfängers beziehungsweise 
+Selbständigen 48 Stunden nicht übersteigt.Die in Absatz 1 erwähnten Angaben dürfen nicht zu 
+anderen Zwecken als zur Bekämpfung der Ausbreitung des Coronavirus COVID-19 verwendet werden, einschließlich 
+Tracing und Rückverfolgung von Clustern und Personengemeinschaften unter derselben Adresse.Die 
+in Absatz 1 erwähnten Daten müssen nach vierzehn Kalendertagen ab Beendigung der betreffenden Arbeit 
+vernichtet werden.Das in Absatz 1 erwähnte Register steht allen Diensten und Einrichtungen, 
+die mit der Bekämpfung der Ausbreitung des Coronavirus COVID-19 beauftragt sind, sowie den Diensten und 
+Einrichtungen, die damit beauftragt sind, die Einhaltung der im Rahmen der Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 vorgesehenen Verpflichtungen zu überwachen, zur 
+Verfügung. § 2 - Wenn der im Ausland lebende oder ansässige Lohnempfänger beziehungsweise 
+Selbständige verpflichtet ist, das in Artikel 18 erwähnte Passagier-Lokalisierungsformular auszufüllen, 
+muss der Arbeitgeber beziehungsweise Nutzer, der zeitweilig auf ihn zurückgreift, um in Belgien Tätigkeiten 
+in den Sektoren Bau, Reinigung, Landwirtschaft und Gartenbau, wie in Artikel 20 § 2 des vorerwähnten 
+Königlichen Erlasses Nr. 1 vom 29. Dezember 1992 und in Artikel 1 Nr. 1 des vorerwähnten Königlichen 
+Erlasses Nr. 22 vom 15. September 1970 erwähnt, oder Tätigkeiten im Fleischsektor, wie in Artikel 2 des 
+vorerwähnten Königlichen Erlasses vom 27. Dezember 2007 erwähnt, ausführen zu lassen, mit Ausnahme von 
+natürlichen Personen, bei denen oder für die die Arbeit zu vollkommen privaten Zwecken erfolgt, vor Beginn 
+der Arbeit prüfen, ob das Passagier-Lokalisierungsformular tatsächlich ausgefüllt worden ist.Liegt 
+kein Nachweis vor, dass dieses Formular ausgefüllt wurde, sorgt der Arbeitgeber beziehungsweise Nutzer 
+dafür, dass das Passagier-Lokalisierungsformular spätestens dann ausgefüllt wird, wenn der im Ausland 
+lebende oder ansässige Lohnempfänger beziehungsweise Selbständige seine Arbeit in Belgien aufnimmt."Art. 
+2 - Artikel 5 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"In Betrieben 
+des Hotel- und Gaststättengewerbes und anderen Schankstätten gelten für den Empfang von Kunden mindestens 
+folgende spezifische Modalitäten:1. Tische werden so angeordnet, dass ein Abstand von mindestens 
+1,5 m zwischen ihnen gewährleistet ist, es sei denn, sie sind durch eine Plexiglasscheibe oder eine gleichwertige 
+Alternative mit einer Mindesthöhe von 1,8 m voneinander getrennt.2. In Restaurants sind höchstens 
+10 Personen pro Tisch und in anderen Schankstätten höchstens vier Personen pro Tisch erlaubt.3. 
+Nur Sitzplätze an den Tischen sind erlaubt.4. Jeder Kunde muss an seinem Tisch sitzen bleiben.5. 
+Servicepersonal muss eine Schutzmaske oder, wenn dies aus medizinischen Gründen nicht möglich ist, einen 
+Gesichtsschutzschirm tragen.6. Küchenpersonal muss eine Schutzmaske oder, wenn dies aus medizinischen 
+Gründen nicht möglich ist, einen Gesichtsschutzschirm tragen.7. Bedienung an der Theke ist 
+nicht erlaubt, mit Ausnahme von Einpersonenbetrieben unter Einhaltung eines Abstands von 1,5 m.8. 
+Terrassen und öffentliche Plätze werden gemäß den von den Gemeindebehörden erlassenen Vorschriften 
+und unter Einhaltung derselben Regeln wie für Innenräume organisiert.9. Restaurants und Schankstätten 
+dürfen ab den üblichen Öffnungszeiten bis 1 Uhr morgens für Restaurants und 23 Uhr für andere Schankstätten 
+offen sein, es sei denn, die Gemeindebehörde erlegt eine frühere Schließung auf, und müssen ab 
+dieser Sperrstunde ununterbrochen bis mindestens 6 Uhr morgens geschlossen bleiben.10. Bei 
+Ankunft müssen zur Erleichterung einer eventuellen späteren Kontaktuntersuchung Kontaktinformationen 
+- die auf eine Telefonnummer oder eine E-Mail-Adresse beschränkt sein können - eines Kunden pro Tisch 
+registriert und während 14 Kalendertagen aufbewahrt werden. Diese Kontaktinformationen dürfen zu keinen 
+anderen Zwecken als zur Bekämpfung von COVID-19 verwendet werden, sie müssen nach 14 Kalendertagen vernichtet 
+werden und die Kunden müssen ausdrücklich ihre Zustimmung geben. Kunden, die sich weigern, ihre Kontaktinformationen 
+zu hinterlassen, wird bei ihrer Ankunft der Zugang zur Einrichtung verweigert.In Abweichung 
+von Absatz 1 Nr. 2 darf sich ein Haushalt einen Tisch teilen, unabhängig von der Größe dieses Haushalts.Für 
+die Anwendung des vorliegenden Artikels versteht man unter "Restaurant": Betrieb des Hotel- und Gaststättengewerbes, 
+der über die in Anlage III zum Königlichen Erlass vom 16. Januar 2006 zur Festlegung der Modalitäten 
+der von der Föderalagentur für die Sicherheit der Nahrungsmittelkette ausgestellten Zulassungen, Genehmigungen 
+und vorherigen Registrierungen vorgesehene Genehmigung 1.1 verfügt."Art. 3 - Artikel 11 des 
+Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung 
+der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:" § 1 - Sofern in vorliegendem 
+Erlass nicht anders vorgesehen, sind Zusammenkünfte von mehr als vier Personen, Kinder unter 12 Jahren 
+nicht einbegriffen, nur unter den durch vorliegenden Artikel vorgesehenen Bedingungen und für die durch 
+vorliegenden Artikel zugelassenen Aktivitäten erlaubt. § 1bis - Jeder Haushalt darf 
+höchstens vier Personen, Kinder unter 12 Jahren nicht einbegriffen, gleichzeitig zu Hause empfangen. 
+§ 2 - Höchstens 50 Personen dürfen an folgenden Aktivitäten teilnehmen:1. Aktivitäten 
+in einem organisierten Rahmen, insbesondere durch einen Club oder eine Vereinigung, immer in Anwesenheit 
+eines volljährigen Trainers oder einer volljährigen Begleit- oder Aufsichtsperson,2. Lagern 
+und Lehrgängen unter Einhaltung der in Artikel 15 vorgesehenen Regeln,3. Empfängen, die im 
+Anschluss an Bestattungen stattfinden und nicht von einem professionellen Catering-/Traiteur-Unternehmen 
+durchgeführt werden, und zwar unter Einhaltung der in Artikel 5 vorgesehenen Regeln. § 
+3 - Höchstens 200 Personen dürfen an folgenden Aktivitäten teilnehmen:1. zivilen Eheschließungen,2. 
+Beerdigungen und Einäscherungen, die nicht unter Nr. 3 vorgesehen sind, ohne Möglichkeit einer Aufbahrung 
+des Leichnams,3. kollektiven Ausübungen des Kults und kollektiven Ausübungen nichtkonfessionellen 
+moralischen Beistands und Aktivitäten innerhalb einer philosophischen nichtkonfessionellen Vereinigung 
+unter Einhaltung der in Artikel 14 vorgesehenen Regeln. § 4 - Ein Publikum von höchstens 
+200 Personen darf Veranstaltungen, Vorführungen, Hörsaalvorträgen und Wettkämpfen beiwohnen, die drinnen 
+veranstaltet werden, unter Einhaltung der in Artikel 4 Absatz 2 oder im anwendbaren Protokoll vorgesehenen 
+Modalitäten und unbeschadet des Artikels 5.Ein Publikum von höchstens 400 Personen darf Veranstaltungen, 
+Vorführungen und Wettkämpfen beiwohnen, sofern sie draußen veranstaltet werden, unter Einhaltung 
+der in Artikel 4 Absatz 2 oder im anwendbaren Protokoll vorgesehenen Modalitäten und unbeschadet des 
+Artikels 5.Werden Veranstaltungen, Vorführungen, Empfänge, Bankette oder Wettkämpfe auf öffentlicher 
+Straße organisiert, ist gemäß Artikel 13 die vorherige Genehmigung der zuständigen Gemeindebehörden 
+erforderlich. § 5 - Höchstens 400 Teilnehmer dürfen statischen Kundgebungen beiwohnen, 
+die auf öffentlicher Straße, wo das Social Distancing eingehalten werden kann, stattfinden und 
+die gemäß Artikel 13 vorher von den zuständigen Gemeindebehörden genehmigt wurden. § 
+6 - Unbeschadet eines eventuellen Protokolls und unbeschadet der von den zuständigen Gemeindebehörden 
+bestimmten Richtlinien und/oder Einschränkungen darf jeder an Sportwettkämpfen teilnehmen.Wird 
+ein Sportwettkampf für mehr als 200 Teilnehmer oder auf öffentlicher Straße veranstaltet, ist gemäß 
+Artikel 13 die vorherige Genehmigung der zuständigen Gemeindebehörden erforderlich. § 
+7 - In Abweichung von § 1 darf eine nicht beschränkte Anzahl Personen Sitzempfängen und -banketten 
+beiwohnen, die von einem professionellen Catering-/Traiteur-Unternehmen durchgeführt werden, unter Einhaltung 
+der in Artikel 5 Nr. 1 bis 3 und 5 bis 10 vorgesehenen Modalitäten - unbeschadet des Artikels 4 Absatz 
+2 Nr. 1 und 5 bis 8 - oder des anwendbaren Protokolls."Art. 4 - Artikel 18 des Ministeriellen 
+Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 wird wie folgt ersetzt:" § 1 - Nicht unbedingt notwendige Reisen 
+nach Belgien sind verboten. § 2 - In Abweichung von § 1 ist es erlaubt:1. 
+von allen Ländern der Europäischen Union, des Schengen-Raums und des Vereinigten Königreichs aus nach 
+Belgien zu reisen,2. von Ländern aus, die auf der entsprechenden Liste auf der Website des 
+Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten stehen, nach Belgien zu reisen. 
+§ 3 - Für Reisen, die gemäß den Paragraphen 1 und 2 von einem Land aus, das nicht dem Schengen-Raum 
+angehört, nach Belgien erlaubt sind, ist der Reisende verpflichtet, vor der Reise die elektronische Fassung 
+des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts 
+veröffentlichten Passagier-Lokalisierungsformulars auszufüllen und dem Beförderer vor dem Einsteigen 
+vorzulegen.Wenn es dem Reisenden nicht möglich ist, die elektronische Fassung des Passagier-Lokalisierungsformulars 
+zu verwenden, muss er die Papierversion des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige 
+Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars ausfüllen und 
+unterschreiben.Der Beförderer ist verpflichtet zu überprüfen, dass alle Passagiere vor dem 
+Einsteigen ein Passagier-Lokalisierungsformular ausgefüllt haben. Fehlt dieses Formular, muss der Beförderer 
+das Einsteigen untersagen.In Ermangelung einer solchen Erklärung oder bei falschen, irreführenden 
+oder unvollständigen Informationen in dieser Erklärung kann die Einreise gemäß Artikel 14 des Schengener 
+Grenzkodex oder Artikel 43 des Gesetzes vom 15. Dezember 1980 über die Einreise ins Staatsgebiet, den 
+Aufenthalt, die Niederlassung und das Entfernen von Ausländern verweigert werden. § 
+4 - Bei Reisen nach Belgien von einem Gebiet aus, das dem Schengen-Raum angehört, ist der Reisende verpflichtet, 
+vor der Reise die elektronische Fassung des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige 
+Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars auszufüllen 
+und dem Beförderer vor dem Einsteigen vorzulegen.Wenn es dem Reisenden nicht möglich ist, die 
+elektronische Fassung des Passagier-Lokalisierungsformulars zu verwenden, muss er die Papierversion des 
+auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts 
+veröffentlichten Passagier-Lokalisierungsformulars ausfüllen, unterschreiben und dem Beförderer übermitteln. 
+Der Beförderer ist verpflichtet, diese Erklärung unverzüglich Saniport weiterzuleiten.Der Beförderer 
+ist verpflichtet zu überprüfen, dass alle Passagiere vor dem Einsteigen ein Passagier-Lokalisierungsformular 
+ausgefüllt haben. Fehlt dieses Formular, muss der Beförderer das Einsteigen untersagen. § 
+5 - Bei einer in den Paragraphen 3 und 4 erwähnten Reise, bei der kein Beförderer in Anspruch genommen 
+wird, ist der Reisende, dessen Aufenthalt in Belgien 48 Stunden übersteigt und dessen vorhergehender 
+Aufenthalt außerhalb Belgiens länger als 48 Stunden gedauert hat, persönlich verpflichtet, vor 
+der Reise die elektronische Fassung des auf den Websites des Föderalen Öffentlichen Dienstes Auswärtige 
+Angelegenheiten und des Ausländeramts veröffentlichten Passagier-Lokalisierungsformulars auszufüllen 
+und zu unterschreiben.Wenn es dem Reisenden nicht möglich ist, die elektronische Fassung des 
+Passagier-Lokalisierungsformulars zu verwenden, muss er vor der Reise die Papierversion des auf den Websites 
+des Föderalen Öffentlichen Dienstes Auswärtige Angelegenheiten und des Ausländeramts veröffentlichten 
+Passagier-Lokalisierungsformulars ausfüllen, unterschreiben und Saniport zukommen lassen. § 
+6 - In Ausführung der Paragraphen 3, 4 und 5 anhand des Passagier-Lokalisierungsformulars gesammelte 
+personenbezogene Daten können in der Datenbank I - erwähnt in Artikel 1 § 1 Nr. 5 des Königlichen 
+Erlasses Nr. 44 vom 26. Juni 2020 in Bezug auf die gemeinsame Verarbeitung von Daten durch Sciensano 
+und die von den Behörden der zuständigen föderierten Teilgebiete oder von den zuständigen Agenturen bestimmten 
+Kontaktzentren, Gesundheitsinspektionsdienste und mobilen Teams im Rahmen einer Kontaktermittlung bei 
+(vermutlich) mit dem Coronavirus COVID-19 infizierten Personen auf der Grundlage einer Datenbank bei 
+Sciensano - registriert werden und für die in Artikel 3 des vorerwähnten Königlichen Erlasses festgelegten 
+Verarbeitungszwecke verarbeitet und ausgetauscht werden."Art. 5 - Artikel 23 des Ministeriellen 
+Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen zur Eindämmung der Ausbreitung 
+des Coronavirus COVID-19 wird wie folgt ersetzt:" § 1 - Die Gemeindebehörden und die 
+Behörden der Verwaltungspolizei sind mit der Ausführung des vorliegenden Erlasses beauftragt.Die 
+zuständigen lokalen Behörden können in Absprache mit den zuständigen Behörden der föderierten Teilgebiete 
+Vorsorgemaßnahmen ergreifen, die die Maßnahmen des vorliegenden Erlasses ergänzen. Der Bürgermeister 
+berät sich diesbezüglich mit dem Gouverneur.Wenn ein Bürgermeister oder Gouverneur von der 
+Gesundheitseinrichtung des betreffenden föderierten Teilgebiets von einem lokalen Anstieg der Epidemie 
+auf seinem Gebiet in Kenntnis gesetzt wird oder dies feststellt, muss der Bürgermeister oder Gouverneur 
+zusätzliche Maßnahmen ergreifen, die die Situation erforderlich macht. Der Bürgermeister setzt 
+den Gouverneur und die zuständigen Behörden der föderierten Teilgebiete unverzüglich von den auf kommunaler 
+Ebene ergriffenen zusätzlichen Maßnahmen in Kenntnis. Wenn beabsichtigte Maßnahmen jedoch 
+Auswirkungen auf föderale Mittel oder auf angrenzende Gemeinden oder nationaler Ebene haben, ist gemäß 
+dem Königlichen Erlass vom 22. Mai 2019 über die Noteinsatzplanung und die Bewältigung von Notsituationen 
+auf kommunaler und provinzialer Ebene und über die Rolle der Bürgermeister und der Provinzgouverneure 
+bei Krisenereignissen und in Krisensituationen, die eine Koordinierung oder eine Bewältigung auf nationaler 
+Ebene erfordern, eine Konzertierung erforderlich.Der Bürgermeister ist für die verbale und 
+visuelle Kommunikation der für das Gebiet seiner Gemeinde getroffenen spezifischen Maßnahmen verantwortlich.Der 
+Minister des Innern erteilt die Anweisungen in Bezug auf die Koordinierung. § 2 - Die 
+Polizeidienste sind beauftragt, für die Einhaltung des vorliegenden Erlasses zu sorgen, notfalls unter 
+Anwendung von Zwang und Gewalt, gemäß den Bestimmungen von Artikel 37 des Gesetzes über das Polizeiamt."Art. 
+6 - Artikel 24 des Ministeriellen Erlasses vom 30. Juni 2020 zur Festlegung von Dringlichkeitsmaßnahmen 
+zur Eindämmung der Ausbreitung des Coronavirus COVID-19 wird wie folgt ersetzt:"Sofern nicht 
+anders vorgesehen, sind die durch vorliegenden Erlass vorgeschriebenen Maßnahmen bis zum 8. November 
+2020 einschließlich anwendbar."Art. 7 - Vorliegender Erlass tritt am 9. Oktober 2020 
+in Kraft.Brüssel, den 8. Oktober 2020A. VERLINDEN   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2020-10-14Numac : 2020043288
+

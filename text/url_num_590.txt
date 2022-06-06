@@ -1,0 +1,71 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+
+
+ 
+
+
+belgiëlex.be   -  Kruispuntbank Wetgeving  Raad van State ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/ordonnantie/2021/06/17/2021042239/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-06-22Numac : 2021042239
+GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE VAN BRUSSEL-HOOFDSTAD  
+ 17 JUNI 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 31 mei 2021 tussen de federale staat, de vlaamse gemeenschap, de duitstalige gemeenschap, het waals gewest en de gemeenschappelijke gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen 
+De 
+Verenigde Vergadering heeft aangenomen en Wij, Verenigd College, bekrachtigen hetgeen volgt :Artikel 
+1. Deze ordonnantie regelt een aangelegenheid als bedoeld in artikel 135 van de Grondwet.Art. 
+2. Instemming wordt verleend met het Samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, de 
+Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waals Gewest en de Gemeenschappelijke Gemeenschapscommissie 
+betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van 
+clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en 
+met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om 
+de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen.Kondigen deze 
+ordonnantie af, bevelen dat ze in het Belgisch Staatsblad zal worden bekendgemaakt.Brussel, 
+17 juni 2021.Het Lid van het Verenigd College, bevoegd voor Welzijn en Gezondheid,E. 
+VAN DEN BRANDTHet Lid van het Verenigd College, bevoegd voor Welzijn en Gezondheid,A. 
+MARONHet Lid van het Verenigd College, bevoegd voor de Gezinsbijslagen, Begroting, Openbaar 
+Ambt en Externe betrekkingen,S. GATZHet Lid van het Verenigd College, bevoegd voor 
+de Gezinsbijslagen, Begroting, Openbaar Ambt en Externe betrekkingen,B. CLERFAYT_______NotaDocumenten 
+van de Verenigde Vergadering van de Gemeenschappelijke Gemeenschapscommissie :Gewone zitting 
+2020-2021B-77/1 Ontwerp van ordonnantieB-77/2 VerslagIntegraal verslag 
+:Bespreking en aanneming : vergadering van vrijdag 11 juni 2021   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-06-22Numac : 2021042239
+

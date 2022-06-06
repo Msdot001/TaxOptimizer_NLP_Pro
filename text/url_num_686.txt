@@ -1,0 +1,202 @@
+Moniteur Belge - Belgisch Staatsblad
+
+<!--  hide jvscr code for old browsers 
+ function NxtHit () { 
+      window.status="volgende woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function PrvHit () { 
+      window.status="Vorige woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function FirstHit () { 
+      window.status="Eerste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+ function LastHit () { 
+      window.status="Laatste gevonden woord"; 
+      setTimeout ("window.status=' '",6000);} 
+// end hiding jvsrc code  -->
+
+
+
+
+
+
+NL
+
+FR
+
+DE
+
+ 
+
+
+ELI - Navigatie systeem via een Europese identificatiecode voor wetgevinghttp://www.ejustice.just.fgov.be/eli/besluit/2020/04/30/2021021922/staatsblad 
+ 
+
+ einde
+
+
+eerste woord
+
+laatste woord
+
+
+Publicatie : 2021-10-05Numac : 2021021922
+FEDERALE OVERHEIDSDIENST FINANCIEN 
+ 30 APRIL 2020. - Koninklijk besluit tot wijziging van de artikelen 178 en 178/1 van het koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 met het oog op de wijziging van bepaalde bepalingen met betrekking tot de vrijstelling van de aangifteplicht in de personenbelasting. - Duitse vertaling 
+De hierna volgende tekst is de Duitse vertaling 
+van het koninklijk besluit van 30 april 2020 tot wijziging van de artikelen 178 en 178/1 van het koninklijk 
+besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 met het 
+oog op de wijziging van bepaalde bepalingen met betrekking tot de vrijstelling van de aangifteplicht 
+in de personenbelasting (Belgisch Staatsblad van 11 mei 2020).Deze vertaling is opgemaakt door 
+de Centrale dienst voor Duitse vertaling in Malmedy.FÖDERALER ÖFFENTLICHER 
+DIENST FINANZEN30. APRIL 2020 - Königlicher Erlass zur Abänderung der Artikel 178 und 178/1 
+des Königlichen Erlasses vom 27. August 1993 zur Ausführung des Einkommensteuergesetzbuches 1992 im Hinblick 
+auf die Anpassung bestimmter Bestimmungen in Bezug auf die Befreiung von der Pflicht, eine Erklärung 
+zur Steuer der natürlichen Personen einzureichenBERICHT AN DEN KÖNIGSire,der 
+Erlass, den wir die Ehre haben, Eurer Majestät zur Unterschrift vorzulegen, zielt hauptsächlich darauf 
+ab, die Kategorien von Steuerpflichtigen, für die das Verfahren des Vorschlags der vereinfachten Erklärung 
+zur Steuer der natürlichen Personen gilt, auszuweiten und gleichzeitig eine andere diesbezügliche Bestimmung, 
+die hinfällig geworden ist, aufzuheben.Aufgrund von Artikel 305 des Einkommensteuergesetzbuches 
+1992 (EStGB 92) ist jeder Steuerpflichtige nämlich verpflichtet, jedes Jahr ein Formular der Erklärung 
+zur Steuer der natürlichen Personen einzureichen, dessen Muster gemäß Artikel 307 §  1 des 
+EStGB 92 von Eurer Majestät festgelegt wird und das von dem zu diesem Zweck bestimmten Dienst bereitgestellt 
+wird.Durch Artikel 306 § 1 des EStGB 92 wird Eure Majestät jedoch ermächtigt, durch 
+einen im Ministerrat beratenen Königlichen Erlass bestimmte Steuerpflichtige von dieser Pflicht, eine 
+Erklärung zur Steuer der natürlichen Personen einzureichen, zu befreien. Aufgrund von § 2 Absatz 
+1 dieses Artikels ist festgelegt, dass den in § 1 erwähnten Steuerpflichtigen ein Vorschlag der 
+vereinfachten Erklärung zugesandt wird.In Ausführung dieser Bestimmung ist in Artikel 178 § 
+2 des KE/EStGB 92 bestimmt, dass Steuerpflichtige, die keine anderen als die darin aufgezählten steuerpflichtigen 
+Einkünfte und Bestandteile angeben müssen, von der Erklärungspflicht befreit sind und einen Vorschlag 
+der vereinfachten Erklärung erhalten. Diese Kriterien werden auf der Grundlage der bekannten Daten in 
+Bezug auf das vorhergehende Steuerjahr kontrolliert.Daher hat vorliegender Erlass hauptsächlich 
+zum Ziel, einem Großteil der Steuerpflichtigen, die Ausgaben in Zusammenhang mit entweder einer 
+Steuerermäßigung für die eigene Wohnung im Rahmen einer Hypothekenanleihe oder einer Steuerermäßigung 
+für langfristiges Sparen im Rahmen eines individuellen Lebensversicherungsvertrags oder einer Steuerermäßigung 
+im Rahmen eines Rechtsschutzversicherungsvertrags tätigen oder über Einkünfte aus in Belgien gelegenen 
+unbeweglichen Gütern verfügen, zu ermöglichen, fortan ebenfalls einen Vorschlag der vereinfachten Erklärung 
+zur Steuer der natürlichen Personen zu erhalten.Diese Ausweitung wird nämlich möglich, in dem 
+Maße, wie der FÖD Finanzen nun im Prinzip elektronisch über die diesbezüglichen Daten verfügt, 
+die ihm vorher übermittelt worden sind.Dem Gutachten Nr. 67.107/3 des Staatsrates vom 14. April 
+2020 ist Rechnung getragen worden. Angesichts des bevorstehenden Versands der ersten Vorschläge der vereinfachten 
+Erklärung für das Steuerjahr 2020 wird es jedoch nicht möglich sein, für dieses Steuerjahr die vom Staatsrat 
+vorgeschlagenen Anpassungen der Artikel 306 und 308 des EStGB 92 vorzunehmen, um insbesondere die Rechtsvorschriften 
+mit der Verwaltungspraxis in Übereinstimmung zu bringen. Diese Abänderungen werden für das Steuerjahr 
+2021 vorgenommen.Kommentar zu den ArtikelnArtikel 1 - Wie weiter oben erläutert hat 
+diese Bestimmung als Hauptziel, der Liste der in Artikel 178 § 2 des KE/EStGB 92 vorgesehenen 
+steuerpflichtigen Einkünfte und anderen Bestandteile die Ausgaben in Zusammenhang mit entweder einer 
+Steuerermäßigung für die eigene Wohnung im Rahmen einer Hypothekenanleihe oder einer Steuerermäßigung 
+für langfristiges Sparen im Rahmen eines individuellen Lebensversicherungsvertrags oder einer Steuerermäßigung 
+im Rahmen eines Rechtsschutzversicherungsvertrags einerseits und bestimmte Einkünfte aus in Belgien gelegenen 
+unbeweglichen Gütern andererseits hinzuzufügen. Diese Änderung wird eine erhebliche Erhöhung der Anzahl 
+Steuerpflichtige, die einen Vorschlag der vereinfachten Erklärung erhalten, bewirken. Diese Änderung 
+stellt in dieser Hinsicht einen bedeutenden Fortschritt in Sachen administrative Vereinfachung dar.Angesichts 
+der derzeitigen Vielzahl an Besteuerungssystemen für Hypothekenanleihen aufgrund der erhöhten Regionalisierung 
+der Steuer der natürlichen Personen und der damit verbundenen Komplexität kann der FÖD Finanzen jedoch 
+nicht unter allen Umständen das Vorausfüllen der Daten für jede Art von Hypothekenanleihe oder individueller 
+Lebensversicherung und somit den Versand eines Vorschlags der vereinfachten Erklärung gewährleisten.Dies 
+ist der Fall, wenn der FÖD Finanzen nicht elektronisch über die Daten des Hypothekenanleihe- oder Lebensversicherungsvertrags 
+verfügt, insbesondere wenn dieser mit einer ausländischen Bank oder einem ausländischen Versicherungsunternehmen 
+abgeschlossen worden ist.Es erweist sich ebenfalls als unmöglich, die Daten in Zusammenhang 
+mit Hypothekenanleihen und/oder individuellen Lebensversicherungen korrekt vorauszufüllen unter sehr 
+unterschiedlichen Umständen wie zum Beispiel:- bei Umzug des Steuerpflichtigen im Jahr vor 
+dem betreffenden Steuerjahr,- bei Änderung des Familienstands (Ehe, Ehescheidung ...) des Steuerpflichtigen 
+im Jahr vor dem betreffenden Steuerjahr,- wenn der Steuerpflichtige im Jahr vor dem betreffenden 
+Steuerjahr mehrere unbewegliche Güter hatte,- wenn der Steuerpflichtige im Jahr vor dem betreffenden 
+Steuerjahr eine Anleihe für den Erwerb einer Wohnung aufgenommen hat,- bei einem individuellen 
+Lebensversicherungsvertrag, für den der FÖD Finanzen mehrere Bescheinigungen erhält usw.Da 
+der Vorschlag der vereinfachten Erklärung zum Ziel hat, dem Steuerpflichtigen eine möglichst korrekte 
+und vollständige Übersicht seiner Steuereinkünfte und -ausgaben zu geben, entscheidet sich die Verwaltung 
+dafür, diesen Vorschlag nicht zu versenden, wenn die in ihrem Besitz befindlichen Daten nicht ausreichend 
+sicher sind.Die verschiedenen weiter oben nicht erschöpfend dargestellten Umstände, die den 
+Versand des Vorschlags der vereinfachten Erklärung ausschließen, sind jedoch besonders genug, damit 
+eine Mehrheit der betroffenen Steuerpflichtigen die Ausweitung dieses Verfahrens in Anspruch nehmen kann.Bei 
+den Hypothekenanleihen und Lebensversicherungen, die im Vorschlag der vereinfachten Erklärung aufgenommen 
+sind, handelt es sich also um die klassischen Fälle in Zusammenhang mit dem integrierten Wohnungsbonus, 
+dem Wohnungsscheck, einem regionalen Wohnungsbonus oder einer föderalen Steuerermäßigung für die 
+Zahlung der Prämien einer individuellen Lebensversicherung.Vorliegender Entwurf zielt ebenfalls 
+darauf ab, in Artikel 178 § 2 des KE/EStGB 92 eine Nr. 17 hinzuzufügen, damit Steuerpflichtige, 
+die Einkünfte aus in Belgien gelegenen unbeweglichen Gütern angeben müssen, die in Code 106 der Erklärung 
+aufzunehmen sind, ebenfalls einen Vorschlag der vereinfachten Erklärung in Anspruch nehmen können. Dies 
+betrifft sowohl nicht vermietete unbewegliche Güter (Art. 7 § 1 Nr. 1 Buchstabe a) zweiter Gedankenstrich 
+des EStGB 92) als auch unbewegliche Güter, die an natürliche Personen vermietet sind, die sie weder ganz 
+noch teilweise zur Ausübung ihrer Berufstätigkeit nutzen (Art. 7 § 1 Nr. 2 Buchstabe a) zweiter 
+Gedankenstrich des EStGB 92) und unbewegliche Güter, die an juristische Personen vermietet sind, die 
+keine Gesellschaft sind, damit sie natürlichen Personen, die sie ausschließlich zu Wohnzwecken 
+nutzen, zur Verfügung gestellt werden (Art. 7 § 1 Nr. 2 Buchstabe bbis) des EStGB 92).Besondere 
+Umstände, die den weiter oben für Hypothekenanleihen und individuelle Lebensversicherungen beschriebenen 
+Umständen gleichen, können jedoch dazu führen, dass die Verwaltung nicht über ausreichend sichere Informationen 
+verfügt, um ein korrektes Vorausfüllen der Daten in Bezug auf die Einkünfte aus unbeweglichen Gütern 
+zu gewährleisten. Insbesondere wenn aus den Daten im Besitz der Verwaltung hervorgeht, dass der Steuerpflichtige 
+ebenfalls Ausgaben in Zusammenhang mit einer Steuerermäßigung für die eigene Wohnung im Rahmen 
+einer Hypothekenanleihe tätigt, kann der Vorschlag der vereinfachten Erklärung nicht mit ausreichender 
+Sicherheit erstellt werden. In diesen Fällen wird kein Vorschlag versandt.Durch die Hinzufügung 
+einer Nr. 18 in Artikel 178 § 2 des KE/EStGB 92 werden Steuerpflichtige, die Ausgaben in Zusammenhang 
+mit einer Steuerermäßigung für Rechtsschutzversicherungsprämien gemäß Artikel 14549 
+§ 1 des EStGB 92, eingefügt durch das Gesetz vom 22. April 2019 zur Erleichterung des Zugangs 
+zu einer Rechtsschutzversicherung, tätigen, ebenfalls in die Zielgruppe der Steuerpflichtigen aufgenommen, 
+die einen Vorschlag der vereinfachten Erklärung erhalten.Art. 2 - In Artikel 178/1 § 
+2 des KE/EStGB 92 wird den Steuerpflichtigen, die aufgrund von Artikel 178 des KE/EStGB 92 von der Erklärungspflicht 
+befreit sind, aber keinen Vorschlag der vereinfachten Erklärung mehr erhalten möchten, die Möglichkeit 
+geboten, dies entweder in der elektronischen Erklärung für das vorhergehende Steuerjahr oder über MyMinfin 
+anzugeben.Angesichts der erheblichen Entwicklung des Vorschlags der vereinfachten Erklärung 
+in den letzten Jahren hat diese Möglichkeit ihre Relevanz vollständig verloren.Aus der heutigen 
+Perfektionierung des Vorschlags der vereinfachten Erklärung ergibt sich, dass etwa 90 Prozent dieser 
+Vorschläge von den Steuerpflichtigen nicht berichtigt werden.Wenn eine Berichtigung erforderlich 
+ist, kann der Steuerpflichtige diese stets vornehmen, entweder durch Rücksendung des Antwortformulars 
+für den Vorschlag der vereinfachten Erklärung oder direkt über Tax-on-Web.Darüber hinaus kann 
+der betroffene Steuerpflichtige, der trotzdem eine klassische Erklärung ausfüllen möchte, eine Papiererklärung 
+erhalten oder sich bei Tax-on-Web anmelden. In letzterem Fall hat der Steuerpflichtige nicht nur Zugang 
+zu dem elektronischen Vorschlag der vereinfachten Erklärung, sondern auch zu seiner gesamten Erklärung, 
+in der alle der Verwaltung bekannten Daten vorausgefüllt sind und die er der Verwaltung zusenden kann.Aufgrund 
+der zahlreichen Möglichkeiten, die dem Steuerpflichtigen automatisch geboten werden, und der administrativen 
+Vereinfachung, die der Vorschlag der vereinfachten Erklärung darstellt, hat Artikel 178/1 § 2 
+des KE/EStGB 92 daher seine Daseinsberechtigung verloren und kann aufgehoben werden.Art. 3 
+- Dieser Artikel zielt darauf ab, die in dem Entwurf enthaltenen Abänderungen, insbesondere die Ausweitung 
+der Zielgruppe der Steuerpflichtigen, die vom Vorschlag der vereinfachten Erklärung betroffen sind, ab 
+dem Steuerjahr 2020 in Kraft treten zu lassen.Art. 4 - Dieser Artikel bedarf keines besonderen 
+Kommentars.Soweit, Sire, die Tragweite des Ihnen vorgelegten Erlasses.Ich habe die 
+Ehre,Sire,der ehrerbietigeund treue DienerEurer Majestät zu sein.Der 
+Vizepremierminister und Minister der FinanzenA. DE CROO30. APRIL 
+2020 - Königlicher Erlass zur Abänderung der Artikel 178 und 178/1 des Königlichen Erlasses vom 27. August 
+1993 zur Ausführung des Einkommensteuergesetzbuches 1992 im Hinblick auf die Anpassung bestimmter Bestimmungen 
+in Bezug auf die Befreiung von der Pflicht, eine Erklärung zur Steuer der natürlichen Personen einzureichenPHILIPPE, 
+Konig der Belgier, Allen Gegenwartigen und Zukunftigen, Unser Gruß!Aufgrund des Einkommensteuergesetzbuches 
+1992, des Artikels 306 § 1 Absatz 1 und § 2 Absatz 2;Aufgrund des Königlichen 
+Erlasses vom 27. August 1993 zur Ausführung des Einkommensteuergesetzbuches 1992;Aufgrund der 
+Stellungnahme des Finanzinspektors vom 24. Februar 2020;Aufgrund des Einverständnisses des 
+Ministers des Haushalts vom 9. März 2020;Aufgrund des Gutachtens Nr. 67.107/3 des Staatsrates 
+vom 14. April 2020, abgegeben in Anwendung von Artikel 84 § 1 Absatz 1 Nr. 2 der am 12. Januar 
+1973 koordinierten Gesetze über den Staatsrat;Aufgrund der Auswirkungsanalyse beim Erlass von 
+Vorschriften, die gemäß Artikel 6 § 1 des Gesetzes vom 15. Dezember 2013 zur Festlegung 
+verschiedener Bestimmungen in Sachen administrative Vereinfachung durchgeführt worden ist;Auf 
+Vorschlag des Vizepremierministers und Ministers der Finanzen und aufgrund der Stellungnahme der Minister, 
+die im Rat darüber beraten haben,Haben Wir beschloßen und erlassen Wir:Artikel 
+1 - Artikel 178 § 2 des Königlichen Erlasses zur Ausführung des Einkommensteuergesetzbuches 1992, 
+zuletzt abgeändert durch den Königlichen Erlass vom 6. März 2018, wird wie folgt ergänzt:"15. 
+in Ausführung eines Hypothekenanleihevertrags getätigte Ausgaben in Zusammenhang mit einer Steuerermäßigung 
+für die eigene Wohnung, außer wenn die Verwaltung nicht elektronisch über die diesbezüglichen Daten 
+verfügt oder wenn diese Daten im Hinblick auf eine korrekte Erstellung des Vorschlags der vereinfachten 
+Erklärung nicht auf angemessene Weise verarbeitet werden können,16. in Ausführung eines individuellen 
+Lebensversicherungsvertrags gezahlte Prämien in Zusammenhang mit einer Steuerermäßigung für langfristiges 
+Sparen, außer wenn die Verwaltung nicht elektronisch über die diesbezüglichen Daten verfügt oder 
+wenn diese Daten im Hinblick auf eine korrekte Erstellung des Vorschlags der vereinfachten Erklärung 
+nicht auf angemessene Weise verarbeitet werden können,17. Einkünfte aus in Belgien gelegenen 
+unbeweglichen Gütern, die in Artikel 7 § 1 Nr. 1 Buchstabe a) zweiter Gedankenstrich, Nr. 2 Buchstabe 
+a) zweiter Gedankenstrich und Nr. 2 Buchstabe bbis) des Einkommenssteuergesetzbuches 1992 erwähnt sind, 
+außer wenn diese Daten im Hinblick auf eine korrekte Erstellung des Vorschlags der vereinfachten 
+Erklärung nicht auf angemessene Weise verarbeitet werden können oder wenn der Steuerpflichtige ebenfalls 
+in Ausführung eines in Nr. 15 erwähnten Hypothekenanleihevertrags getätigte Ausgaben angibt,18. 
+in Ausführung eines Rechtsschutzversicherungsvertrags gezahlte Prämien."Art. 2 - Artikel 178/1 
+§ 2 desselben Königlichen Erlasses, eingefügt durch den Königlichen Erlass vom 19. April 2013, 
+wird aufgehoben.Art. 3 - Vorliegender Erlass tritt ab dem Steuerjahr 2020 in Kraft.Art. 
+4 - Der für Finanzen zuständige Minister ist mit der Ausführung des vorliegenden Erlasses beauftragt.Gegeben 
+zu Brüssel, den 30. April 2020PHILIPPEVon Königs wegen:Der Vizepremierminister 
+und Minister der FinanzenA. DE CROO   
+ begin
+
+ eerste woord
+ laatste woord
+
+
+Publicatie : 2021-10-05Numac : 2021021922
+
