@@ -4,9 +4,15 @@ import requests
 from typing import List
 from random import sample
 
-### Variables
+##################### Variables
 file = 'links.csv'
-language = 'NL'   #should be FR or NL
+
+#should be FR or NL
+language = 'FR'
+
+#rel dir where textfiles are written to, should exist before running
+text_folder = 'text_fr' 
+
 
 # returns list of links
 def get_links(file: str, remove_duplicates=True) -> List[str]:
@@ -19,38 +25,35 @@ def get_links(file: str, remove_duplicates=True) -> List[str]:
 
 
 # returns list of scraped text from all links
-def get_text(links: List[str], language, sample_size='all', drop_german=True) ->List[str]:
+def get_text(links: List[str], language, sample_size='all',
+             write_to_textfile=False) ->List[str]:
     list_text = []
     if sample_size != 'all':
         links = sample(links, sample_size)
         
-    if language == 'FR':
-        deactivation_str = ['premier mot', 'Pour la consultation']
-        german_str = 'traduction allemande'
-        
     if language == 'NL':
-        deactivation_str = ['eerste woord', 'Voor de raadpleging van']
-        german_str = 'Duitse vertaling'
         links = [link.replace('language=fr', 'language=nl') for link in links]
     
     for url in links:
         soup = BeautifulSoup(requests.get(url).content, "lxml")
         Text = ''
-        active = False
         for i in soup.find_all(text=True):
-            if deactivation_str[0] in i or deactivation_str[1] in i:
-                active = False
-            if active:
-                if i.strip() != '':
-                    Text += ' ' + i.strip().replace('\n','')
-            if 'Numac' in i:
-                active = True
-        if drop_german and (german_str in Text):
-            continue
-        list_text.append(Text[1:-6])
-    return list_text
+            if i.strip() != '':
+                Text += ' ' + i.strip().replace('\n','')
+        list_text.append(Text)
+    
+    if write_to_textfile:
+        n = 0
+        for i in list_text:
+            filename = str(text_folder) + '/article_' + str(n) + '.txt'
+            n += 1
+            with open(filename, 'w', errors='ignore') as f:
+                f.write(i)
+    
+    else:
+        return list_text
 
 
 
 links = get_links(file)
-print(get_text(links, language, sample_size=1, drop_german=True))
+get_text(links, language, write_to_textfile=True)
