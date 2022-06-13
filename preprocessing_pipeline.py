@@ -1,7 +1,6 @@
 from utils.cleaning import clean
 from utils.preprocessing import preprocess
 from utils.scraping import get_links
-from utils.create_df import createDF
 import os
 import pandas as pd
 
