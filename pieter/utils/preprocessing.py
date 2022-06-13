@@ -46,6 +46,6 @@ def preprocess(text):
     
     for token in text:
         if (token.pos_ in pos_tags) and (str(token) not in stop_words):
-            output.append(token.lemma_)
+            output.append(token.lemma_.replace('_', ''))
             
     return ' '.join(output)
