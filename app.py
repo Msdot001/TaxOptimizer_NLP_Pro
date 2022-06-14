@@ -4,6 +4,8 @@ from utils.preprocess import percentageImportance
 from utils.preprocess import getStopWords
 from venv import create
 import streamlit as st
+import plotly.express as px
+import pandas as pd
 from streamlit_lottie import st_lottie
 
 from spacy import displacy
@@ -31,14 +33,15 @@ def main():
     with st.container():
         with col1:
             st_lottie(lottie_animation,
-                height=384,
-                width=384)
+                height=288,
+                width=288)
         with col2:
     #Tokenatization
 
             if st.checkbox("Show Tokens and Lemma"):
                 st.subheader("Tokenize Text")
-                message = st.text_area("Enter your Text", "Type Here")
+                message = st.text_area("Enter your Text", "Type Here", key="tokenlemma")
+                
             #For now just to test:
                 if st.button("Analyze"):
                     nlp_result = text_analizer(createDoc(message))
@@ -46,7 +49,7 @@ def main():
     #Named Entity 
             if st.checkbox("Name Entity Recognition"):
                 st.subheader("Extract Entities")
-                message = st.text_area("Enter your Text", "Type Here")
+                message = st.text_area("Enter your Text", "Type Here", key="ner")
                 
                 if st.button("Recognize"):
                         doc = createDoc(message)
@@ -56,16 +59,51 @@ def main():
     #Word Importance                    
             if st.checkbox("Word Importance"):
                 st.subheader("Show word importance in Text")
-                message = st.text_area("Enter your Text", "Type Here")
+                message = st.text_area("Enter your Text ", "Type Here  ", key="importance")
+                
                 stopwords = getStopWords()
-                if st.button("Analyze"):
+                if st.button("Analyze", key="imp"):
                         doc = preprocess(message)
                         word_frequencie = displayWordFrequencies(doc, stopwords)
-                        pImportance = percentageImportance(word_frequencie)
-                        st.json(pImportance)
+                        #pImportance = percentageImportance(word_frequencie)
+                        per_importance = percentageImportance(word_frequencie)
+                        w_sorted_keys = sorted(per_importance, key=per_importance.get, reverse=True)
 
+                        #Show top 10 word importance:
+                        df =  pd.DataFrame(list(per_importance.items()), columns = ['Keyword','Frequency(%)'])
 
-#Text Summarization
+                        sorted_df = df.sort_values(["Frequency(%)"], ascending=False)
+
+                        sorted_df.loc[:, "Frequency(%)"] =sorted_df["Frequency(%)"].map('{:.2%}'.format)
+
+                        #Show total words and top10 graph
+                        st.write(f'Total words in text: {len(message.split())}')
+                        st.write(f'Number of unique words in text: {len(set(message.split()))}')
+                        
+                        #Show total words top10 graph
+                        top10 = df.iloc[:10].sort_values(by=['Frequency(%)'], ascending=False)
+
+                        fig = px.bar(top10, y='Frequency(%)', x= 'Keyword', color = 'Keyword', color_discrete_sequence=px.colors.qualitative.Prism, title='Top 10 Words', template='ggplot2')
+                        st.plotly_chart(fig, use_container_width=True)
+
+                        #Show table with percentage word importance 
+
+                        st.write(sorted_df)
+                        
+                        # i=0
+                        # for w in w_sorted_keys:
+                        #     if i == 9:
+                        #         break
+                        #    # st.write(w, per_importance[w])
+                        #     st.write(w, "{:.00%}".format(per_importance[w]))
+                        #     i+=1
+                        #st.json(pImportance)
+                        
+                        #ref https://github.com/austyngo/keyword_tool/blob/master/app.py
+                        
+                        
+                        
+                       #Text Summarization
 def text_analizer(doc):
     """
     This function returns tokens and lemmas from a doc

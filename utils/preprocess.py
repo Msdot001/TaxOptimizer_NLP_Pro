@@ -2,7 +2,9 @@ import re
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from string import punctuation
 import spacy
+import pandas as pd
 from spacy.lang.nl import Dutch
+
 from gensim.parsing import (
     strip_tags,
     strip_numeric,
@@ -33,7 +35,7 @@ def displayWordFrequencies(doc, stopwords):
     For example in Dutch:
     from spacy.lang.nl.stop_words import STOP_WORDS
     """
-    nlp = spacy.load("nl_core_news_md")
+    nlp = loadNLP("nl")
     doc = nlp(doc)
     #First lemmatize the doc
     doc = str(" ".join([i.lemma_ for i in doc]))
@@ -59,6 +61,13 @@ def percentageImportance(word_frequencies):
     
     
     return word_frequencies
+def loadNLP(lang):
+    """
+    This function is used to load the language model from spaCy
+    """
+    if(lang == "nl"):
+     nlp = spacy.load("nl_core_news_md")
+     return nlp
 
 def getStopWords():
     """
@@ -112,18 +121,47 @@ def preprocess(text):
     # Invoking gensim.parsing.preprocess_string method with set of filters
     processed_words = " ".join(preprocess_string(text, CLEAN_FILTERS))
 
-    nlp = spacy.load("nl_core_news_md")
+    nlp = loadNLP("nl")
 
     text = nlp(processed_words)
 
     pos_tags = ["ADJ", "NOUN", "VERB"]
 
+    stop_words = [
+        "besluit",
+        "koninklijk",
+        "brussel",
+        "brussels",
+        "hoofdstedelijk",
+        "gewest",
+        "wet",
+        "regering",
+        "vlaams",
+        "vlaamse",
+        "waals",
+        "waalse",
+        "nota",
+        "gemeenschap",
+        "bevoegd",
+        "bevoegde",
+        "artikel",
+    ]
+
     stop_words = getStopWords()
 
+    def delete_stopwords(input_text):
+        new_text = ''
+        for i in input_text.split(' '):
+            if i.lower() not in stop_words:
+                new_text += i + ' '
+        return new_text.replace('_', '')
+    
     output = []
 
     for token in text:
-        if (token.pos_ in pos_tags) and (str(token) not in stop_words):
-            output.append(token.lemma_.replace("_", ""))
+        if (token.pos_ in pos_tags):
+            output.append(token.lemma_)
+    
+    output = " ".join(output)
 
-    return " ".join(output)
+    return delete_stopwords(output)
