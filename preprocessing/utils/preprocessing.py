@@ -62,12 +62,21 @@ def preprocess(text):
     ]
 
     for i in list(STOP_WORDS):
-        stop_words.append(str(i))
+        stop_words.append(i.text)
 
+    def delete_stopwords(input_text):
+        new_text = ''
+        for i in input_text.split(' '):
+            if i.lower() not in stop_words:
+                new_text += i + ' '
+        return new_text.replace('_', '')
+    
     output = []
 
     for token in text:
-        if (token.pos_ in pos_tags) and (str(token) not in stop_words):
-            output.append(token.lemma_.replace("_", ""))
+        if (token.pos_ in pos_tags):
+            output.append(token.lemma_)
+    
+    output = " ".join(output)
 
-    return " ".join(output)
+    return delete_stopwords(output)
