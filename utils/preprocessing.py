@@ -16,18 +16,19 @@ from gensim.parsing import (
 import spacy
 from spacy.lang.nl.stop_words import STOP_WORDS
 
-#Using tfidf vectorizer
+# Using tfidf vectorizer
 def createTfidfVectorizer(df):
     """
     This function creates vectors from a given df using TfidVectorize
     """
     stopwords = getStopWords()
     tfidf_vectorizer = TfidfVectorizer(max_df=0.85, min_df=5, stop_words=stopwords)
-    #tfidf = tfidf_vectorizer.fit_transform(df)
-    
+    # tfidf = tfidf_vectorizer.fit_transform(df)
+
     return tfidf_vectorizer
 
-#Calculating word frequencies from the text after removing stopwords and puntuactions:
+
+# Calculating word frequencies from the text after removing stopwords and puntuactions:
 def displayWordFrequencies(doc, stopwords):
     """
     this function returns word frequenties and should be given a doc and the stopwords corresponding to the imported language
@@ -37,10 +38,10 @@ def displayWordFrequencies(doc, stopwords):
     """
     nlp = loadNLP("nl")
     doc = nlp(doc)
-    #First lemmatize the doc
+    # First lemmatize the doc
     doc = str(" ".join([i.lemma_ for i in doc]))
     doc = nlp(doc)
-    word_frequencies={}
+    word_frequencies = {}
     for word in doc:
         if word.text.lower() not in stopwords:
             if word.text.lower() not in punctuation:
@@ -50,24 +51,27 @@ def displayWordFrequencies(doc, stopwords):
                     word_frequencies[word.text] += 1
     return word_frequencies
 
-#Calculate the maximum frequency and divide it by all frequencies to get normalized word frequencies.
+
+# Calculate the maximum frequency and divide it by all frequencies to get normalized word frequencies.
 def percentageImportance(word_frequencies):
     """
-    This function returns the word importance percentage, we must pass word frequencie first 
+    This function returns the word importance percentage, we must pass word frequencie first
     """
-    max_frequency=max(word_frequencies.values())
+    max_frequency = max(word_frequencies.values())
     for word in word_frequencies.keys():
-        word_frequencies[word]=(word_frequencies[word]/max_frequency)
-    
-    
+        word_frequencies[word] = word_frequencies[word] / max_frequency
+
     return word_frequencies
+
+
 def loadNLP(lang):
     """
     This function is used to load the language model from spaCy
     """
-    if(lang == "nl"):
-     nlp = spacy.load("nl_core_news_md")
-     return nlp
+    if lang == "nl":
+        nlp = spacy.load("nl_core_news_md")
+        return nlp
+
 
 def getStopWords():
     """
@@ -97,6 +101,7 @@ def getStopWords():
         stop_words.append(str(i))
 
     return stop_words
+
 
 def preprocess(text):
 
@@ -150,18 +155,18 @@ def preprocess(text):
     stop_words = getStopWords()
 
     def delete_stopwords(input_text):
-        new_text = ''
-        for i in input_text.split(' '):
+        new_text = ""
+        for i in input_text.split(" "):
             if i.lower() not in stop_words:
-                new_text += i + ' '
-        return new_text.replace('_', '')
-    
+                new_text += i + " "
+        return new_text.replace("_", "")
+
     output = []
 
     for token in text:
-        if (token.pos_ in pos_tags):
+        if token.pos_ in pos_tags:
             output.append(token.lemma_)
-    
+
     output = " ".join(output)
 
     return delete_stopwords(output)
