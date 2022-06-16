@@ -111,7 +111,7 @@ Python / libraries:
 
 ```
 ## Team name: TaxOptimizer_NLP_Pro: 
-<a href="https://github.com/Moshood Owolabi">Moshood Owolabi, 
+<a href="https://www.linkedin.com/in/moshood-owolabi">Moshood Owolabi, 
 <a href="https://www.linkedin.com/in/pieter-van-hoefs">Pieter Van Hoefs,
 <a href="https://www.linkedin.com/in/sebastiangarciamartinez">Sebastián García Martínez, 
 <a href="https://www.linkedin.com/in/havva-ebrahimi-pour"> Havva Ebrahimi Pour</a>
